@@ -144,6 +144,34 @@ field with your GitHub username so you are still credited the same way.
 
 ---
 
+## Licensing - what you are agreeing to
+
+The entries here are published under the
+[Creative Commons Attribution-ShareAlike 4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/),
+so anyone may use and build on them as long as they credit PlanesDB and keep
+whatever they make just as open. See [LICENSE.md](LICENSE.md) for the detail.
+
+By opening a pull request you are confirming two things:
+
+- **it is yours to give** - you wrote it, or it comes from a source you are
+  entitled to draw on
+- **you are licensing it under those same terms**, so the database stays usable
+  by everyone
+
+You keep the copyright in what you wrote. You are granting everyone else the
+right to use it.
+
+Please don't paste in text lifted from a manufacturer's brochure, an aviation
+magazine or a website that isn't yours to give away. Facts are free for anyone
+to state - somebody else's paragraphs are not. Read the source, then write the
+entry in your own words with the source cited, which is what the rest of the
+database does.
+
+Photographs are a separate matter and are not covered by that licence - see
+LICENSE.md.
+
+---
+
 ## Questions
 
 Please open an issue on this repository, or email
