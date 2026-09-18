@@ -1,0 +1,47 @@
+name: Rebuild the site
+
+# When an entry changes on main, planesdb.com needs rebuilding - the site
+# generator lives in a separate repository and pulls these entries at build
+# time, so nothing here reaches the live site on its own.
+#
+# This waits for "Check entries" to pass rather than firing on every push.
+# A merged entry with a broken field would fail the site build anyway (and
+# Netlify would keep the previous deploy live), but there is no sense
+# starting a build that is already known to be doomed.
+#
+# Note that "Check entries" only runs when aircraft/, operators/ or
+# categories.json change, so editing the README does not trigger a rebuild -
+# which is the behaviour we want.
+
+on:
+  workflow_run:
+    workflows: ["Check entries"]
+    types: [completed]
+    branches: [main]
+  # Lets you force a rebuild by hand from the Actions tab, for when the site
+  # needs regenerating without an entry having changed.
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    # workflow_run fires whether the check passed or failed, so filter here.
+    # A manual run has no workflow_run attached, hence the second condition.
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger the Netlify build
+        env:
+          HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "The NETLIFY_BUILD_HOOK secret is not set on this repository."
+            echo "Settings -> Secrets and variables -> Actions -> New repository secret,"
+            echo "named NETLIFY_BUILD_HOOK, holding the build hook URL from Netlify."
+            exit 1
+          fi
+          # -f makes curl exit non-zero on an HTTP error, so a dead or revoked
+          # hook shows up as a failed run rather than a silent no-op.
+          curl -fsS -X POST -d '{}' "$HOOK"
+          echo "Build triggered."
