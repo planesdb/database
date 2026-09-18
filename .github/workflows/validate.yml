@@ -2,9 +2,12 @@ name: Check entries
 
 # Contributors cannot preview their change - the site generator lives in a
 # separate repository - so this check is the feedback they get instead. It
-# runs on every pull request and on pushes to main, and enforces the same
-# rules the site's build.js does, so a green tick here means the entry will
-# actually build.
+# runs on every pull request and enforces the same rules the site's build.js
+# does, so a green tick here means the entry will actually build.
+#
+# Pushes to main are not covered here - "Rebuild the site" validates them
+# itself before triggering a deploy, so there is one place that decides
+# whether a push is fit to publish.
 
 on:
   pull_request:
@@ -13,12 +16,6 @@ on:
       - 'operators/**'
       - 'categories.json'
       - 'scripts/validate-entries.js'
-  push:
-    branches: [main]
-    paths:
-      - 'aircraft/**'
-      - 'operators/**'
-      - 'categories.json'
 
 jobs:
   validate:
