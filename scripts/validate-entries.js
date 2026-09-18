@@ -163,12 +163,22 @@ function checkAircraft(filename, validSlugs) {
   // "N/A" is deliberately NOT treated as one: a Wright Flyer has no ICAO
   // type code, and "not applicable" is the right answer there, not a gap.
   const PLACEHOLDERS = /^(\?+|tbd|tba|todo|xxx+|\.\.\.|fill in|your text here)$/i;
+  // "??" is a documented convention in this database, not an oversight: an
+  // entry whose specificationsNote explains what "??" stands for is saying
+  // the figure is genuinely unpublished, which for a special access
+  // programme like the B-21 is the honest answer and better than repeating
+  // an unconfirmed estimate from the aviation press. Warning about it would
+  // be nagging an entry for getting it right, so check for that note first.
+  const note = String((plane.specifications && plane.specifications.specificationsNote) || "");
+  const explainsPlaceholders = /\?\?/.test(note);
+
   const unfilled = [];
   (function scan(node, trail) {
     if (Array.isArray(node)) node.forEach((v, i) => scan(v, trail + "[" + i + "]"));
     else if (node && typeof node === "object") {
       for (const k of Object.keys(node)) scan(node[k], trail ? trail + "." + k : k);
     } else if (typeof node === "string" && PLACEHOLDERS.test(node.trim())) {
+      if (explainsPlaceholders && trail.startsWith("specifications.")) return;
       unfilled.push(trail + ' = "' + node.trim() + '"');
     }
   })(plane, "");
