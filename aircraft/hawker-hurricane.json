@@ -1,0 +1,354 @@
+{
+  "name": "Hawker Hurricane",
+  "fullName": "Hawker Hurricane",
+  "manufacturer": "Hawker Aircraft",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Single-Seat Fighter / Ground Attack Aircraft",
+  "tagline": "The rugged unsung hero that claimed the majority of victories in the Battle of Britain. Built around a steel-tube frame skinned largely in fabric, it traded outright performance for ruggedness and ease of repair, letting squadron riggers patch battle damage overnight with doped linen.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Sydney Camm began the Hurricane as a private venture 'Fury Monoplane' in 1934 after Air Ministry hesitation, and the prototype flew at Brooklands on 6 November 1935, four months before the Spitfire. Entering service with No. 111 Squadron at Northolt in December 1937, it was the RAF's first eight-gun fighter and the backbone of Fighter Command when war came: in the Battle of Britain the RAF fielded roughly two Hurricane squadrons for every Spitfire squadron, and Hurricanes were credited with about 60% of the Luftwaffe aircraft destroyed. The tactical doctrine - Spitfires against the escorting Bf 109s, Hurricanes against the bombers - was never rigid, but it played to the Hurricane's strengths as a steady, forgiving gun platform.\n\nOn 16 August 1940 Flight Lieutenant James Nicolson of No. 249 Squadron, wounded and with his Hurricane in flames, stayed in the cockpit to shoot down a Bf 110 before bailing out - the only Victoria Cross ever awarded to a Fighter Command pilot. Hurricanes went on to fight over Malta, the Western Desert (where 'Hurribomber' fighter-bombers and 40mm-cannon tank-busters emerged), Russia (nearly 3,000 were supplied to the Soviets) and Burma. Sea Hurricanes flew from catapult-armed merchant ships - one-way missions that ended in a parachute descent to the sea - and from carriers.\n\nProduction ended in July 1944 with PZ865, 'The Last of the Many', after 14,487 Hurricanes and Sea Hurricanes had been built. PZ865 and LF363 both still fly with the Battle of Britain Memorial Flight; around a dozen other Hurricanes remain airworthy worldwide - rare survivors of the fighter that history keeps trying to put in the Spitfire's shadow.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 330,
+      "text": "287 kn (330 mph / 531 km/h)"
+    },
+    "cruiseSpeed": "206 mph (331 km/h)",
+    "range": {
+      "miles": 460,
+      "text": "460 mi (740 km)"
+    },
+    "serviceCeiling": {
+      "ft": 36000,
+      "text": "36,000 ft (10,950 m)"
+    },
+    "wingspan": {
+      "ft": 40,
+      "text": "40 ft 0 in (12.19 m)"
+    },
+    "length": {
+      "ft": 31.92,
+      "text": "31 ft 11 in (9.73 m)"
+    },
+    "height": {
+      "ft": 13.12,
+      "text": "13 ft 1.5 in (4.00 m)"
+    },
+    "weight": "empty: 4,670 lb (2,119 kg); MTOW: 6,600 lb (2,995 kg)",
+    "engines": "1 x Rolls-Royce Merlin III V12 liquid-cooled piston engine (1,030 hp) (Later marks utilized up to 1,300 hp Merlin 29/XX variants)",
+    "armament": "8 x 0.303 in (7.7 mm) wing-mounted Browning machine guns (Mk I); 4 x 20 mm Hispano cannons (Mk IIC); provision for up to 500 lb of bombs or underwing rockets",
+    "crew": "1",
+    "capacity": "Single-seat cockpit featuring elevated positioning for enhanced pilot visibility",
+    "firstFlight": {
+      "date": "1935-11-06",
+      "year": 1935
+    },
+    "serviceEntryDate": "1937-12-25",
+    "retiredDate": "1947",
+    "numberBuilt": 14487,
+    "unitCost": {
+      "usd": 41000,
+      "text": "~$41,000 (1940 standard production cost basis; roughly £10,250 at contemporary exchange rates) - roughly $982,000 in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$982,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "Hurricane Mk I",
+      "desc": "Initial production batch outfitted with fabric-covered wings, a wooden two-bladed propeller, and later upgraded to metal wings and a Merlin II or III engine."
+    },
+    {
+      "code": "Hurricane Mk IIA / IIB",
+      "desc": "Upgraded with a more powerful Merlin XX engine with two-stage superchargers and extended fuselage options; variants fielded up to 12 x 0.303 Brownings."
+    },
+    {
+      "code": "Hurricane Mk IIC",
+      "desc": "A heavily armed variant replacing machine guns with four hard-hitting 20 mm Hispano Mk II cannons for ground-strafing and interception."
+    },
+    {
+      "code": "Sea Hurricane",
+      "desc": "Navalized modification equipped with arrestor hooks, catapult spools, and specialized instrumentation for carrier operations."
+    },
+    {
+      "code": "Hurricane Mk XII",
+      "desc": "Canadian-built variant produced by Canadian Car and Foundry, employing Packard-built Merlin engines."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force Fighter Command",
+      "role": "Primary historical wartime operational operator",
+      "status": "Retired",
+      "since": "1937",
+      "fleetSize": "14000+",
+      "homeBase": "RAF Northolt, RAF Biggin Hill, and various global wartime sectors",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Royal Air Force Battle of Britain Memorial Flight",
+      "role": "Active living history commemorative unit",
+      "status": "In Service",
+      "since": "1957",
+      "fleetSize": "2 (LF363 and PZ865 preserved airworthy)",
+      "homeBase": "RAF Coningsby, Lincolnshire",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Home defense and coastal patrol operations during WWII",
+      "status": "Retired",
+      "since": "1939",
+      "fleetSize": "400+",
+      "homeBase": "RCAF Station Dartmouth",
+      "logo": "rcaf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "HURI",
+    "howToFind": "Search Flightradar24 using the type designation code 'HURI'. To target individual aircraft, filter for tail numbers 'PZ865' or 'LF363' operated by the BBMF during European summer display seasons."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "Vintage Aviation News",
+      "url": "https://vintageaviationnews.com/feed",
+      "topicTag": "Hurricane"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "BBMF prepares for 2026 season",
+      "source": "Aerospace Global News",
+      "date": "2026-02-20",
+      "category": "Heritage",
+      "url": "https://aerospaceglobalnews.com/news/bbmf-raf-spitfire-lancaster-restoration/"
+    },
+    {
+      "title": "Memorial flight Spitfires and Hurricanes return to the skies",
+      "source": "Forces News",
+      "date": "2025-04-10",
+      "category": "Heritage",
+      "url": "https://www.forcesnews.com/news/ww2-fighters-return-flight-after-precautionary-grounding-following-raf-pilots-death"
+    },
+    {
+      "title": "BBMF's Merlin-powered fighters cleared to fly",
+      "source": "Key.Aero",
+      "date": "2025-03-14",
+      "category": "Heritage",
+      "url": "https://www.key.aero/article/bbmfs-merlin-powered-spitfires-and-hurricanes-cleared-fly"
+    }
+  ],
+  "tags": [
+    "hawker",
+    "hurricane",
+    "hurribomber",
+    "sea-hurricane",
+    "merlin-engine",
+    "bbmf",
+    "fighter",
+    "battle-of-britain",
+    "wwii-fighter",
+    "pz865",
+    "lf363"
+  ],
+  "quickFacts": [
+    "Hurricanes shot down roughly 60% of all German aircraft destroyed in the Battle of Britain - more than Spitfires and ground defences combined.",
+    "Its fabric-covered rear fuselage was an accidental armour: cannon shells often passed straight through without detonating, and riggers could patch holes overnight.",
+    "The only Victoria Cross ever awarded to an RAF Fighter Command pilot went to a Hurricane pilot - James Nicolson, who stayed in his burning cockpit to down a Bf 110 in August 1940.",
+    "Sea Hurricane 'Hurricat' pilots were catapulted off merchant ships with no deck to land back on - every combat launch ended with a bail-out or ditching next to the convoy.",
+    "Nearly 3,000 Hurricanes were sent to the Soviet Union, making it one of the most numerous British aircraft in Soviet service.",
+    "The last of 14,487 built, PZ865 'The Last of the Many', rolled out in July 1944 and still flies with the Battle of Britain Memorial Flight today.",
+    "A Hurricane cost roughly £4,000 less than a Spitfire and took half the man-hours to build - the economics that let Fighter Command survive 1940."
+  ],
+  "article": {
+    "overview": [
+      "The Hawker Hurricane is a British single-engine monoplane fighter built by Hawker Aircraft. It equipped nearly two-thirds of RAF Fighter Command's squadrons during the Battle of Britain in the summer of 1940.{{ref:wiki-hurricane}}",
+      "Hurricanes shot down more enemy aircraft during the battle than all other British defences combined - fighters, anti-aircraft guns and barrage balloons together.{{ref:iwm-hurricane}} Its simple tube-and-fabric construction made it easy to build and repair, and forgiving for the hastily trained pilots who flew it."
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Sydney Camm designed the Hurricane as evolution wearing revolution's clothes: take the trusted structure of Hawker's biplane Fury - steel tube frame, wooden formers, doped fabric - and wrap it around the new formula of monoplane wing, retracting gear, enclosed cockpit, eight machine guns and the Rolls-Royce Merlin. When the Air Ministry dithered, Hawker started production tooling at its own risk.{{ref:wiki-hurricane}}",
+          "The prototype flew on 6 November 1935, beating the Spitfire into the air by four months and into squadron service by over a year. The gamble on old-fashioned construction was the masterstroke: any airframe shop in Britain could build or mend one, and by the Battle of Britain the RAF had roughly two Hurricanes for every Spitfire.{{ref:wiki-hurricane}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Hurricane's 'obsolete' structure kept saving it. Cannon shells that would shatter a stressed-skin fighter often tore harmlessly through fabric; field repairs needed carpentry, not jigs; and the wide-track undercarriage forgave grass strips and new pilots alike where the Spitfire's narrow gear punished both.{{ref:iwm-hurricane}}",
+          "As a gun platform it was arguably the better of the two: a steadier aim, the eight Brownings grouped close together, and later marks carrying four 20mm cannon or a pair of 40mm anti-tank guns in the 'tank-busting' Mk IID. What it never had was headroom - the thick wing capped its speed, and by 1941 it had left the front rank of fighter-versus-fighter combat for good.{{ref:wiki-hurricane}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "In the Battle of Britain the doctrine was simple: Spitfires up high toward the escorts, Hurricanes into the bombers. It worked - Hurricane squadrons accounted for the majority of the 1,733 German aircraft the RAF destroyed, and the type's ability to absorb damage and return brought hundreds of pilots home to fight again the same afternoon.{{ref:wiki-bob}}",
+          "Its war then went everywhere the Spitfire initially couldn't: catapulted from merchant ships to defend Atlantic convoys ('Hurricats' with nowhere to land), tropicalised over the Western Desert and Burma, night-intruding over France, hunting tanks at Bir Hakeim and El Alamein, and flying with Soviet units on the Eastern Front - nearly 3,000 were sent to the USSR alone.{{ref:wiki-hurricane}}",
+          "By 1945 some 14,500 Hurricanes and Sea Hurricanes had been built. The type's last front-line RAF service ended with the war, its work done in every theatre the war had offered.{{ref:iwm-hurricane}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The Hurricane grew through two major marks and a dozen roles: the Merlin XX-powered Mk II family with cannon and bomb racks, the Sea Hurricane for carriers and catapult ships, and the specialised IID and Mk IV ground-attack variants that turned the ageing fighter into the RAF's first dedicated 'tank-buster'. Canada's Car and Foundry built over 1,400 more under Elsie MacGill - the world's first woman aircraft designer to head a production program.{{ref:wiki-hurricane}}",
+          "Unlike the endlessly re-engined Spitfire, the Hurricane's airframe had no growth left after 1941 - so it aged sideways instead of upward, finishing the war doing the unglamorous jobs that needed doing wherever the newer types were scarce.{{ref:wiki-hurricane}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "Hurricane squadrons accounted for the majority of German aircraft destroyed during the Battle of Britain, even though the Spitfire received the greater share of public recognition afterward.{{ref:iwm-hurricane}}",
+          "Roughly a dozen Hurricanes fly today, against several times as many airworthy Spitfires. The Battle of Britain Memorial Flight keeps two, and both types fly in the annual 15 September flypast over London marking the battle's anniversary.{{ref:bbmf}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-hurricane",
+      "name": "Hawker Hurricane",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawker_Hurricane"
+    },
+    {
+      "id": "iwm-hurricane",
+      "name": "The Hawker Hurricane: The Unsung Hero of the Battle of Britain",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/history/the-hawker-hurricane-the-unsung-hero-of-the-battle-of-britain"
+    },
+    {
+      "id": "wiki-bob",
+      "name": "Battle of Britain",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Britain"
+    },
+    {
+      "id": "bbmf",
+      "name": "Battle of Britain Memorial Flight",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Battle of Britain Memorial Flight - Hurricane Info Profile",
+      "url": "https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/"
+    },
+    {
+      "name": "Flightradar24 - Aircraft Database Track for HURI Type",
+      "url": "https://www.flightradar24.com/data/aircraft/pz865"
+    },
+    {
+      "name": "British Aviation History Research Group Profile",
+      "url": "https://www.bcar.org.uk/hawker-hurricane"
+    },
+    {
+      "name": "Military Aviation Museum - Hawker Hurricane Profile & Specs",
+      "url": "https://www.militaryaviationmuseum.org/aircraft/hawker-hurricane-mk-xii/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Fixed status/retiredDate inconsistency: top-level status corrected from 'In Service' to 'Retired' (RAF front-line service ended 1947); the two BBMF heritage airframes remain listed as 'In Service' in the operators array.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Added a survivors section - this type has well-documented preserved/airworthy examples but the field was previously missing, an inconsistency versus similar WWII/Cold War-era entries elsewhere in the database.",
+      "author": "d4nny6"
+    }
+  ],
+  "survivors": {
+    "intro": "Around a dozen Hurricanes survive today, roughly half of them airworthy - far fewer than the Spitfire, despite the Hurricane claiming more Battle of Britain victories. These include the last one ever built.",
+    "airframes": [
+      {
+        "serial": "PZ865",
+        "name": "The Last of the Many",
+        "location": "RAF Battle of Britain Memorial Flight",
+        "place": "RAF Coningsby, Lincolnshire, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Hawker_Hurricane_PZ865",
+        "note": "The last of 14,533 Hurricanes built, first flown 22 July 1944; still airworthy and flies today as part of the BBMF's display fleet.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "R4118",
+        "name": null,
+        "location": "Privately owned, airworthy",
+        "place": "United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Hawker_Hurricanes",
+        "note": "A genuine Battle of Britain veteran, flying combat sorties with No. 605 Squadron in 1940 before later service in India; rediscovered and restored to airworthy condition in the 2000s.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "L1592",
+        "name": null,
+        "location": "Science Museum",
+        "place": "London, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Hawker_Hurricanes",
+        "note": "One of the oldest surviving Hurricanes, from the first production batch; held in static museum condition.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  "accidentsAndIncidents": [
+    {
+      "date": "1939-09-06",
+      "title": "Battle of Barking Creek friendly fire",
+      "summary": "A radar malfunction over Essex triggered a false enemy-raid alarm; Spitfires believing they were engaging German aircraft shot down two Hurricanes, killing Pilot Officer Montague Hulton-Harrop — the first British fighter pilot killed in the war.",
+      "fatalities": 1,
+      "tag": "Friendly fire",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Barking_Creek"
+    },
+    {
+      "date": "1940-05-19",
+      "title": "Shot down over Oisy-le-Verger; pilot found 86 years later",
+      "summary": "A Hurricane protecting troops retreating toward Dunkirk was shot down near Oisy-le-Verger, France. The pilot's remains, still seated in the cockpit, were discovered by canal-construction engineers in 2026 and formally identified.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://www.gbnews.com/news/raf-pilot-wwii-found-hurricane-france"
+    },
+    {
+      "date": "1941-04-20",
+      "title": "Death of top-scoring ace Pat Pattle",
+      "summary": "Flying a Hurricane while suffering from fever, Pattle shot down a German fighter over Piraeus Harbour, Greece, before his own aircraft was hit by return fire and crashed into the sea, killing him. He is regarded as the highest-scoring Hurricane ace of the war.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/Pat_Pattle"
+    }
+  ]
+}

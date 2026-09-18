@@ -1,0 +1,420 @@
+{
+  "name": "F-4 Phantom II",
+  "fullName": "McDonnell Douglas F-4 Phantom II",
+  "manufacturer": "McDonnell Douglas",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Fighter-Bomber / Interceptor",
+  "tagline": "5,195 built - the West's definitive Cold War fighter. Originally a gun-less US Navy fleet interceptor, it proved so capable that the US Air Force adopted it too, and it went on to fly fighter, bomber and reconnaissance missions for 11 nations, including the RAF and Royal Navy.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "First flown on 27 May 1958, the Phantom set 16 world records - including a 1,606 mph absolute speed record and a zoom climb to over 98,000 ft ('Operation Top Flight') - before dominating US procurement in the 1960s. In Vietnam it was the principal US air-superiority and strike aircraft, and hard lessons about missile reliability and the lack of an internal gun (fixed in the F-4E) reshaped Western fighter design and created Top Gun and Red Flag. Britain operated Rolls-Royce Spey-engined Phantoms from 1968 to 1992, including for Falklands-era air defence of the islands from 1982. The USAF retired its last QF-4 target drones in 2016, while Greece, Türkiye and Iran still fly small upgraded fleets today.",
+  "quickFacts": [
+    "With 5,195 built, the Phantom is the most-produced American supersonic aircraft in history.",
+    "Its unflattering nicknames - 'Rhino', 'Double Ugly', 'the flying brick' - came with an affectionate saying: it was proof that with enough thrust, even a brick can fly.",
+    "Both the USAF Thunderbirds and US Navy Blue Angels flew the Phantom simultaneously in 1969-1973, the only type ever shared by both teams.",
+    "The UK's Phantoms were unique: re-engined with Rolls-Royce Spey turbofans, which made them shorter-legged at altitude but gave brutal low-level thrust.",
+    "Phantom crews scored 277+ air-to-air kills in Vietnam alone; the only US aces of the war - one Navy crew and three USAF airmen - all flew F-4s.",
+    "The last US Phantoms died as QF-4 target drones, with the final unmanned shoot-down flight in 2016 - 58 years after first flight."
+  ],
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1472,
+      "text": "1,279 kn (1,472 mph / 2,370 km/h)"
+    },
+    "cruiseSpeed": "585 mph (940 km/h)",
+    "range": {
+      "miles": 1615,
+      "text": "1,615 mi (2,600 km) ferry with external tanks"
+    },
+    "serviceCeiling": {
+      "ft": 60000,
+      "text": "60,000 ft (18,300 m)"
+    },
+    "wingspan": {
+      "ft": 38.4,
+      "text": "38 ft 5 in (11.7 m)"
+    },
+    "length": {
+      "ft": 63,
+      "text": "63 ft 0 in (19.2 m)"
+    },
+    "height": {
+      "ft": 16.5,
+      "text": "16 ft 6 in (5.02 m)"
+    },
+    "weight": "empty: 30,328 lb (13,757 kg); MTOW: 61,795 lb (28,030 kg)",
+    "engines": "2 × General Electric J79-GE-17 afterburning turbojets (17,900 lbf each); UK jets: 2 × Rolls-Royce Spey 202 turbofans",
+    "armament": "F-4E onward: 1 × 20 mm M61A1 cannon; 4 × AIM-7 Sparrow + 4 × AIM-9 Sidewinder; bombs, rockets, Wild Weasel anti-radar missiles",
+    "crew": "2 (pilot + WSO/navigator)",
+    "capacity": "Up to 18,650 lb (8,480 kg) of stores on 9 hardpoints",
+    "firstFlight": {
+      "date": "1958-05-27",
+      "year": 1958
+    },
+    "serviceEntryDate": "1960-12-30",
+    "retiredDate": "2016 (US, as QF-4 drones); 1992 (RAF)",
+    "numberBuilt": 5195,
+    "unitCost": {
+      "usd": 2400000,
+      "text": "$2.4M (F-4E, 1965 dollars) - roughly $25.5M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$25.5M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "F-4B/J/N/S",
+      "desc": "US Navy and Marine Corps fleet defence and attack versions."
+    },
+    {
+      "code": "F-4C/D",
+      "desc": "Initial USAF versions adapted from the Navy design."
+    },
+    {
+      "code": "F-4E",
+      "desc": "Definitive USAF version with internal M61 cannon and leading-edge slats; 1,370 built."
+    },
+    {
+      "code": "F-4G Wild Weasel V",
+      "desc": "Dedicated SEAD version that hunted radars into the 1990s."
+    },
+    {
+      "code": "RF-4C/E",
+      "desc": "Unarmed photo-reconnaissance versions."
+    },
+    {
+      "code": "F-4K/M (Phantom FG.1/FGR.2)",
+      "desc": "British Royal Navy and RAF versions with Rolls-Royce Spey engines."
+    },
+    {
+      "code": "QF-4",
+      "desc": "Retired airframes converted to full-scale unmanned targets."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Largest Operator",
+      "status": "Retired",
+      "since": "1963",
+      "fleetSize": "2,874 - front-line service ended 1996, QF-4 target drones flew until 2016",
+      "homeBase": "USAF bases worldwide",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "US Navy / US Marine Corps",
+      "role": "Launch Operators",
+      "status": "Retired",
+      "since": "1960",
+      "fleetSize": "1,264 combined; the Navy ordered the type first and flew it from carriers through Vietnam",
+      "homeBase": "Carrier air wings and Marine air stations"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Largest Export Operator",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "~220 F-4E and RF-4E delivered 1969-1976; 112 still operational across three squadrons in the late 1990s",
+      "homeBase": "Israeli airbases",
+      "logo": "israeli-air-force.webp"
+    },
+    {
+      "name": "Turkish Air Force",
+      "role": "Current Operator",
+      "status": "In Service",
+      "since": "1974",
+      "fleetSize": "~233 received in total; 19 upgraded F-4E/2020 Terminators remained in 2025",
+      "homeBase": "Eskisehir, Turkey"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Major Export Operator",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "216 in total (60 F-4D, 55 F-4E, 18 RF-4C); formally retired 7 June 2024",
+      "homeBase": "South Korean airbases",
+      "logo": "rokaf.webp"
+    },
+    {
+      "name": "Iranian Air Force",
+      "role": "Combat Operator",
+      "status": "In Service",
+      "since": "1968",
+      "fleetSize": "177 F-4Es plus F-4D and RF-4E before the 1979 embargo; an estimated 50-75 remain nominally in service",
+      "homeBase": "Iranian airbases"
+    },
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "Licence Operator",
+      "status": "Retired",
+      "since": "1971",
+      "fleetSize": "154 F-4EJs licence-built by Mitsubishi, plus RF-4Es; final aircraft retired 17 March 2021",
+      "homeBase": "Hyakuri and other JASDF bases"
+    },
+    {
+      "name": "Luftwaffe (West Germany)",
+      "role": "NATO Operator",
+      "status": "Retired",
+      "since": "1971",
+      "fleetSize": "~175 F-4F, 88 RF-4E and 10 F-4E trainers; retired 29 June 2013",
+      "homeBase": "Wittmund and Rheine-Hopsten, Germany"
+    },
+    {
+      "name": "Hellenic Air Force",
+      "role": "Current Operator",
+      "status": "In Service",
+      "since": "1974",
+      "fleetSize": "78 by 1992 with US surplus; 17 upgraded F-4E AUP remained in 2025",
+      "homeBase": "Andravida, Greece"
+    },
+    {
+      "name": "Royal Air Force / Royal Navy",
+      "role": "UK Operator",
+      "status": "Retired",
+      "since": "1968",
+      "fleetSize": "166 ordered - 50 Spey-engined F-4K for the Royal Navy and 116 F-4M for the RAF; retired 1992",
+      "homeBase": "Leuchars / Wattisham / Wildenrath",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Other operators (Egypt, Spain, Australia)",
+      "role": "Export Operators",
+      "status": "Retired",
+      "since": "1970",
+      "fleetSize": "Egypt 42 (retired 2018), Spain 36 ex-USAF F-4Cs (retired 2002), Australia 24 leased 1970-1973",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F4",
+    "howToFind": "Greek and Turkish upgraded Phantoms occasionally appear on ADS-B during exercises; otherwise the type survives mainly at museums and as gate guards."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "The Aviationist",
+      "url": "https://theaviationist.com/",
+      "topicTag": "F-4 Phantom"
+    },
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/",
+      "topicTag": "Phantom"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Greece hosts Iniochos 2025, showcasing its F-4 Phantom II fleet",
+      "source": "Vintage Aviation News",
+      "date": "2025-04-11",
+      "category": "Exercises",
+      "url": "https://vintageaviationnews.com/warbirds-news/the-phantom-still-roars-greece-hosts-iniochos-2025-with-the-mighty-f-4.html"
+    },
+    {
+      "title": "Private space-launch firm seeks to acquire a dozen retired F-4 Phantoms as satellite 'motherships'",
+      "source": "The War Zone",
+      "date": "2025-05-28",
+      "category": "Feature",
+      "url": "https://www.twz.com/air/f-4-phantoms-sought-by-private-space-launch-company"
+    }
+  ],
+  "tags": [
+    "f-4",
+    "phantom",
+    "phantom ii",
+    "rhino",
+    "double ugly",
+    "mcdonnell douglas",
+    "usaf",
+    "us navy",
+    "raf",
+    "vietnam",
+    "wild weasel",
+    "spey"
+  ],
+  "article": {
+    "overview": [
+      "The McDonnell Douglas F-4 Phantom II is an American twin-engine, two-seat fighter-bomber built by McDonnell Douglas. It was originally armed with no internal gun, and more than 5,000 were built - more than any other Western supersonic fighter.{{ref:wiki-f4}}",
+      "It served the US Air Force, Navy and Marine Corps simultaneously, set 16 world records, and fought from Vietnam to the Iran-Iraq War. In 2026, 68 years after its first flight, it remains in combat-alert service with three air forces.{{ref:wiki-f4}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Phantom began as a company gamble: McDonnell, with no Navy fighter contract after the F3H, designed a big twin-engined all-weather attack aircraft on its own initiative in 1953 and kept reshaping it to whatever the Navy hinted it might want. What the Navy finally wanted, in 1955, was a fleet-defence interceptor: two seats, powerful radar, and missiles - no gun - to kill bombers far from the carrier.{{ref:wiki-f4}}",
+          "The result flew in May 1958 and promptly demolished expectations: the XF4H-1 beat Vought's single-seat Crusader III in the fly-off partly because its second crewman tamed the radar workload, and the production F4H began setting world records almost as a hobby - absolute altitude (98,557 ft, Operation Top Flight), absolute speed (1,606 mph, Operation Skyburner), and low-altitude speed records that stood for decades.{{ref:wiki-f4}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The record-smashing embarrassed the Air Force into an unprecedented step: adopting a Navy fighter. Defence Secretary McNamara's push for tri-service commonality made the F-4C the USAF's new standard, and the Phantom became the rare aircraft flown by the Air Force, Navy and Marine Corps at once.{{ref:wiki-f4}}",
+          "Vietnam rewrote the design. Missile-only armament proved a doctrinal fantasy against agile MiGs at knife range, so the definitive USAF F-4E of 1967 added an internal 20mm cannon and slatted wings for manoeuvring. Reconnaissance RF-4s, Wild Weasel F-4Gs that hunted missile radars, and export variants for eleven nations rounded out a 5,195-aircraft run - production ending in 1981 in St. Louis and 1981 in Japan under licence.{{ref:wiki-f4}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "Vietnam made the Phantom's legend and exposed its flaws in equal measure. It flew everything - MiG sweeps, bombing, close support, reconnaissance, Weasel work - and claimed the great majority of American air-to-air kills, including all five American aces of the war among its crews. The frustrations (missiles that failed, the missing gun, smoke trails visible for miles) drove reforms like Top Gun{{ref:wiki-topgun}} that reshaped Western air combat training.{{ref:wiki-f4}}",
+          "Israeli Phantoms carried the brunt of the War of Attrition and the 1973 Yom Kippur War's desperate strike missions; Iranian F-4s - delivered to the Shah - flew hard through the entire Iran-Iraq War and remain in Iranian service today. USAF Phantoms soldiered through Desert Storm as Wild Weasels, retiring from American combat service in 1996.{{ref:wiki-f4}}",
+          "Sixty-eight years after its first flight, Phantoms still stand alert in Türkiye, Greece and Iran, upgraded with modern radars and weapons.{{ref:tw-phantom}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Nothing about the Phantom is subtle. Two J79 turbojets delivered 35,700 lb of combined afterburning thrust; the wings gained their signature 12-degree upturned tips and the tailplane its 23-degree droop as pragmatic fixes for stability problems found in the wind tunnel - giving the aircraft its unmistakable bent silhouette.{{ref:wiki-f4}}",
+          "It hauled fighter-sized speed with bomber-sized loads: over 18,000 lb of ordnance on nine hardpoints, more than a WWII B-17 carried. The second seat, mocked at first, proved the aircraft's quiet advantage - two brains dividing radar, weapons and lookout duties in an era when automation offered no help.{{ref:wiki-f4}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Phantom taught the West most of what it knows about modern air combat, largely by getting there first and making the instructive mistakes: missiles need guns behind them, training beats technology, and a great fighter is a great sensor-and-weapons truck. Its successors - F-14, F-15, F/A-18 - are all, in different ways, answers to questions the F-4 posed.{{ref:wiki-f4}}",
+          "With over 5,000 built and service on every continent except Antarctica, the Phantom became shorthand for Western air power itself for a generation - and its nickname among former crews, 'Phantom Phorever', persists in veteran circles. Three air forces still fly it today.{{ref:tw-phantom}}{{ref:nasm-f4}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f4",
+      "name": "McDonnell Douglas F-4 Phantom II",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II"
+    },
+    {
+      "id": "nasm-f4",
+      "name": "McDonnell F-4 Phantom II",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/mcdonnell-f-4s-phantom-ii/nasm_A19870174000"
+    },
+    {
+      "id": "tw-phantom",
+      "name": "Phantoms still in service",
+      "publisher": "TWZ (The War Zone)",
+      "url": "https://www.twz.com/tag/f-4"
+    },
+    {
+      "id": "wiki-topgun",
+      "name": "United States Navy Strike Fighter Tactics Instructor program",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_States_Navy_Strike_Fighter_Tactics_Instructor_program"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "McDonnell Douglas F-4 Phantom II - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II"
+    },
+    {
+      "name": "McDonnell Douglas Phantom in UK service - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_Phantom_in_United_Kingdom_service"
+    },
+    {
+      "name": "Operation Skyburner and F-4 records - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Skyburner"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed status field to the standard \"Retired\" value (was a long free-text string causing an oversized status badge). The US/UK retirement nuance is already covered by retiredDate.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-06",
+      "change": "Added the 5 September 2026 Tanagra (Athens Flying Week) display crash to Accidents & Incidents - a Hellenic Air Force F-4E was lost with both crew killed; cause under official investigation.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster - replaced the three lumped rows and their placeholder fleetSize values of \"0\" with eleven rows carrying real delivered figures and retirement dates for every major operator. Attached two previously uncited references.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1967-01-02",
+      "title": "Operation Bolo MiG trap",
+      "summary": "USAF F-4C Phantoms disguised their flight profile and callsigns to mimic a vulnerable strike package, luring North Vietnamese MiG-21s into a fight in which seven MiG-21s were shot down in about 12 minutes with no U.S. losses.",
+      "tag": "Air combat action",
+      "source": "https://theaviationgeekclub.com/operation-bolo-how-robin-olds-f-4s-disguised-as-f-105s-shot-down-7-north-vietnamese-mig-21s-in-12-minutes/"
+    },
+    {
+      "date": "1971-06-06",
+      "title": "Duarte mid-air collision with Hughes Airwest Flight 706",
+      "tag": "Mid-air collision",
+      "summary": "A US Marine Corps F-4B flying under visual rules with an inoperative transponder collided with a climbing DC-9 airliner over the San Gabriel Mountains. All 49 people on the airliner and the Phantom's pilot were killed; only the radar intercept officer ejected in time.",
+      "fatalities": 50,
+      "source": "https://en.wikipedia.org/wiki/Hughes_Airwest_Flight_706"
+    },
+    {
+      "date": "1973-10-14",
+      "title": "Israeli friendly-fire shootdown",
+      "summary": "During the Yom Kippur War, an Israeli Nesher pilot mistakenly identified a retreating Israeli F-4 as a hostile MiG-21 and shot it down. The crew ejected and were rescued from the Mediterranean.",
+      "fatalities": 0,
+      "tag": "Friendly fire",
+      "source": "https://theaviationgeekclub.com/this-israeli-f-4-was-shot-down-by-an-israeli-nesher-during-the-yom-kippur-war-the-story-of-the-only-blue-on-blue-incident-that-resulted-in-one-iaf-aircraft-shooting-down-another-iaf-aircraft/"
+    },
+    {
+      "date": "1977-09-27",
+      "title": "Crash into a Yokohama neighbourhood",
+      "summary": "A U.S. Marine Corps RF-4B suffered an in-flight engine fire and crashed into a residential neighbourhood in Yokohama, Japan. Both crew ejected safely, but two children in the house were killed and their mother later died of crash-related injuries.",
+      "fatalities": 3,
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/1977_Yokohama_F-4_crash"
+    },
+    {
+      "date": "1982-05-25",
+      "title": "RAF Phantom shoots down an RAF Jaguar",
+      "tag": "Friendly fire",
+      "summary": "A 92 Squadron Phantom accidentally launched a Sidewinder at a Jaguar over West Germany during an exercise intercept. The Jaguar pilot ejected safely; the Phantom crew were court-martialled.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II"
+    },
+    {
+      "date": "2012-06-22",
+      "title": "Shootdown by Syrian air defences",
+      "summary": "A Turkish Air Force RF-4E reconnaissance Phantom was shot down by Syrian air defences over the Mediterranean Sea after briefly entering Syrian airspace during a radar-testing mission. Both crew were killed.",
+      "fatalities": 2,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/2012_Turkish_F-4_Phantom_shootdown"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Tanagra airshow display crash",
+      "tag": "Display accident",
+      "summary": "A Hellenic Air Force F-4E Phantom II of 338 Squadron, 117th Combat Wing, crashed during its aerobatic display at the Athens Flying Week airshow at Tanagra Air Base, coming down in open ground a few kilometres from the base after appearing to lose altitude coming out of a low-level turn. The crew did not eject and both were killed; no spectators or ground personnel were hurt. The Hellenic Air Force grounded the display and said the cause was under investigation, and Greece observed three days of national mourning.",
+      "fatalities": 2,
+      "source": "https://theaviationist.com/2026/09/05/greek-f-4-phantom-crashes/"
+    }
+  ]
+}

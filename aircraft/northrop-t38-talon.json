@@ -1,0 +1,328 @@
+{
+  "name": "T-38 Talon",
+  "fullName": "Northrop T-38 Talon",
+  "manufacturer": "Northrop",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Supersonic Advanced Jet Trainer",
+  "tagline": "The T-38 Talon is a twin-engine, two-seat supersonic trainer built by Northrop for the United States Air Force, and was the first supersonic trainer in the world when it entered service in March 1961. Around 50,000 military pilots have learned to fly fast jets on it, and 1,187 were built between 1961 and 1972.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "It was the world's first supersonic trainer, and around 50,000 military pilots have trained on the type since 1961",
+    "It can climb from sea level to nearly 30,000 ft in one minute and get airborne in as little as 2,300 ft of runway",
+    "NASA has flown Talons since the 1960s for astronaut proficiency and chase work - shuttle-era astronauts traditionally arrived at the Kennedy Space Center in one",
+    "Pilots call it the 'white rocket'; the engine mounting was designed so an engine change takes about an hour",
+    "The Thunderbirds flew the Talon until the Diamond Crash of January 1982 killed four pilots in one formation, after which the team moved to the F-16A",
+    "It has never been an easy aircraft to keep: the small intakes ingest ice, the brakes are weak, and a 7.33 G design limit with a 4,000-hour wing fatigue life produced in-flight wingtip separations that had to be fixed with thicker-skinned replacement wings"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures follow the USAF T-38 fact sheet, which quotes a maximum of 812 mph (Mach 1.08 at sea level). Other published sources give a higher figure of around 858 mph, or Mach 1.3, achieved at altitude. Thrust figures cover both the original engines and the Propulsion Modernization Program standard.",
+    "maxSpeed": {
+      "mph": 812,
+      "text": "706 kn (812 mph / 1,307 km/h)"
+    },
+    "cruiseSpeed": "Not published in the USAF fact sheet; maximum is Mach 1.08 at sea level",
+    "range": {
+      "miles": 1093,
+      "text": "1,093 mi (1,759 km, 950 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 55000,
+      "text": "Above 55,000 ft (16,764 m)"
+    },
+    "wingspan": {
+      "ft": 25,
+      "text": "25 ft 3 in (7.70 m)"
+    },
+    "length": {
+      "ft": 46,
+      "text": "46 ft 4 in (14.14 m)"
+    },
+    "height": {
+      "ft": 13,
+      "text": "12 ft 10 in (3.92 m)"
+    },
+    "weight": "empty: 7,200 lb (3,266 kg); MTOW: 12,093 lb (5,485 kg)",
+    "engines": "Two General Electric J85-GE-5 afterburning turbojets, 2,050 lbf dry and 2,900 lbf in afterburner each; Propulsion Modernization Program aircraft give 2,200 lbf dry and 3,300 lbf in afterburner",
+    "armament": "None on the T-38A and T-38C. The AT-38B weapons trainer added a gunsight and a centreline pylon able to carry a gun pod, rockets or practice bombs",
+    "crew": "2 (student and instructor, seated in tandem)",
+    "capacity": "Two-seat trainer with no cargo or passenger capacity",
+    "firstFlight": {
+      "date": "1959-04-10",
+      "year": 1959
+    },
+    "serviceEntryDate": "1961-03-17",
+    "retiredDate": null,
+    "numberBuilt": 1187,
+    "unitCost": {
+      "usd": 756000,
+      "text": "$756,000 (1961 constant dollars) - roughly $8.4M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$8.4M in 2026 dollars"
+    },
+    "combatLosses": "None - the T-38 has never been used in combat. Its losses are training accidents: more than 210 aircraft have been written off over the type's life, and the US Air Force records 149 fatalities since 1960."
+  },
+  "variants": [
+    {
+      "code": "T-38A",
+      "desc": "The main production version and the bulk of the run at 1,139 aircraft, built between 1961 and 1972 as an unarmed two-seat advanced trainer. It set the pattern the type has followed ever since: tandem seating, twin afterburning J85s, and handling deliberately chosen to be conventional and forgiving rather than representative of a frontline fighter. Most surviving airframes have since been upgraded to T-38C standard."
+    },
+    {
+      "code": "AT-38B",
+      "desc": "The weapons-training conversion, fitted with a gunsight and a centreline pylon for a gun pod, rockets or practice bombs. It gave student fighter pilots somewhere to learn air-to-ground delivery before moving onto an operational type, and served the Lead-In Fighter Training role for years. It is the only armed member of the family."
+    },
+    {
+      "code": "T-38C",
+      "desc": "The current US Air Force standard, produced by upgrading existing airframes rather than building new ones. It combines a glass cockpit and avionics modernisation delivered from 2001 with the Propulsion Modernization Program's uprated engines, raising afterburning thrust from 2,900 to 3,300 lbf per side. Around a third of the fleet has also received structural work and new wings to extend service life to 2029."
+    },
+    {
+      "code": "T-38N",
+      "desc": "NASA's variant, modified under an avionics upgrade programme with modern communications and navigation equipment, a flight management system and weather radar - none of which the military trainer needed but all of which matter for cross-country proficiency flying. NASA operates around 32 aircraft, primarily from Ellington Field in Houston, at a cost of roughly $25-30 million a year to fly and maintain."
+    },
+    {
+      "code": "T-38M",
+      "desc": "The Turkish modernisation, carried out by Turkish Aerospace, fitting a glass cockpit and updated avionics to keep the type viable well past its original service life. Turkey operates 68 aircraft to this standard, one of the largest T-38 fleets outside the United States and the most heavily reworked."
+    },
+    {
+      "code": "Conversions and proposals",
+      "desc": "Several minor variants exist alongside the mainstream. The NT-38A covers permanently modified test aircraft, the DT-38A was a US Navy drone-director conversion, the QT-38A an unmanned target drone and the GT-38A a grounded airframe used as a maintenance trainer. Two proposals went nowhere: a rocket-powered hypersonic trainer, rejected in favour of the NF-104A, and a VTOL version with four lift nozzles."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1961",
+      "fleetSize": "Around 500 - the USAF fact sheet lists 546 active-force aircraft, while other reporting put the figure nearer 485 in December 2024",
+      "homeBase": "Air Education and Training Command bases including Sheppard, Laughlin, Columbus and Vance AFB"
+    },
+    {
+      "name": "NASA",
+      "role": "Astronaut Proficiency and Chase Operator",
+      "status": "In Service",
+      "since": "1960s",
+      "fleetSize": "Around 32, assigned from US Air Force stocks",
+      "homeBase": "Ellington Field, Houston, Texas"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Test Pilot School Operator",
+      "status": "In Service",
+      "since": "1970s",
+      "fleetSize": "10 as of December 2024",
+      "homeBase": "US Naval Test Pilot School, NAS Patuxent River, Maryland"
+    },
+    {
+      "name": "German Air Force (Luftwaffe)",
+      "role": "Training Operator",
+      "status": "In Service",
+      "since": "1968",
+      "fleetSize": "46 taken on from 1968, since upgraded to T-38C standard",
+      "homeBase": "Sheppard AFB, Texas - flown alongside USAF aircraft in the joint NATO training programme"
+    },
+    {
+      "name": "Turkish Air Force",
+      "role": "Training Operator",
+      "status": "In Service",
+      "since": "1970s",
+      "fleetSize": "68, modernised to T-38M standard by Turkish Aerospace",
+      "homeBase": "Turkish Air Force flying training bases"
+    },
+    {
+      "name": "Portuguese Air Force",
+      "role": "Training Operator (historical)",
+      "status": "Retired",
+      "since": "1977",
+      "fleetSize": "12, taken on in 1977 and retired in 1993 when the Alpha Jet replaced them",
+      "homeBase": "Portuguese Air Force training bases"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Training Operator (historical)",
+      "status": "Retired",
+      "since": "1999",
+      "fleetSize": "30, leased from 1999 and returned to the United States by 2009 once KAI T-50 production came on stream",
+      "homeBase": "South Korean flying training bases"
+    },
+    {
+      "name": "Republic of China Air Force",
+      "role": "Training Operator (historical)",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "A small training fleet, all aircraft returned to the United States by 1998",
+      "homeBase": "Taiwanese flying training bases"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "T38",
+    "howToFind": "T-38s transmit inconsistently, but the training pattern gives them away. Filter for type T38 and watch the airspace around Sheppard, Laughlin, Columbus and Vance AFB on a weekday, where formation departures and repeated overhead recoveries are the tell. NASA's aircraft out of Ellington Field in Houston are the most reliably visible of all, since they fly cross-country routes rather than local circuits."
+  },
+  "lastUpdated": "2026-09-10",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from the USAF fact sheet and Wikipedia.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Talon",
+    "T38",
+    "White Rocket",
+    "AT-38",
+    "Trainer"
+  ],
+  "article": {
+    "overview": [
+      "The T-38 Talon is a twin-engine, two-seat supersonic advanced trainer designed by Northrop for the United States Air Force. It first flew on 10 April 1959, entered service on 17 March 1961 as the world's first supersonic trainer, and 1,187 were built before production ended in 1972. {{ref:wiki-t38}}",
+      "Around 50,000 military pilots have trained on it, and it is still the aircraft American fast-jet students fly before moving to the F-15, F-16, F-22, F-35, A-10 or the bomber fleet. NASA flies it too, for astronaut proficiency and chase work. Its replacement, the Boeing-Saab T-7A Red Hawk, has been coming since 2018. {{ref:wiki-t38}} {{ref:usaf-t38}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the N-156",
+        "paragraphs": [
+          "The Talon came out of Northrop's N-156 project, begun in 1954 as a lightweight fighter aimed at small carriers. The US Navy dropped the requirement, leaving Northrop with a design and no customer, so the company reworked it against a US Air Force requirement for a supersonic trainer to replace the Lockheed T-33. It won partly on lifecycle cost - Northrop's comparisons of what the aircraft would cost to own over decades proved highly persuasive with the Air Force. {{ref:wiki-t38}}",
+          "The same N-156 airframe also produced the F-5 Freedom Fighter, so the trainer and one of the most widely exported light fighters of the Cold War are siblings. The YT-38 prototype flew on 10 April 1959 in the hands of Lew Nelson, and the type entered service on 17 March 1961. {{ref:wiki-t38}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The aircraft is small, light and clean: 12,093 lb at maximum takeoff weight on two J85 turbojets giving 2,900 lbf each in afterburner. That gives it performance out of proportion to its size - sea level to nearly 30,000 ft in one minute, and airborne in as little as 2,300 ft of runway. Handling was deliberately made conventional and undemanding, which is exactly what a trainer needs and is why students go solo in it. {{ref:usaf-t38}} {{ref:wiki-t38}}",
+          "Maintenance drove much of the detail design. The engine mounting arrangement and modular construction were laid out so an engine change takes about an hour, which matters enormously for an aircraft flying several sorties a day for sixty years. The compromises show up elsewhere: the small intakes are prone to ingesting ice and behave poorly at low speed in hot and high conditions, and the brakes are weak enough that throttle and approach speed have to be managed carefully. {{ref:wiki-t38}}"
+        ]
+      },
+      {
+        "heading": "Training the Air Force",
+        "paragraphs": [
+          "Air Education and Training Command uses the T-38C to prepare students for the F-15C and F-15E, F-16, F-22, F-35, A-10, B-1B, B-2 and B-52 - the whole fast-jet and bomber pipeline. The AT-38B added a gunsight and a centreline pylon so weapons delivery could be taught on the same airframe before students reached an operational type. {{ref:wiki-t38}}",
+          "It has also spent much of its life as a proficiency aircraft rather than a trainer. Strategic Air Command flew T-38s from 1978 to 1991 to keep B-52, B-1, SR-71, U-2, KC-135 and KC-10 crews in currency at a fraction of the cost of flying the real thing, and Air Combat Command and Air Force Global Strike Command still use them for U-2 and B-2 pilots. Germany has flown its 46 aircraft from Sheppard AFB alongside American students since 1968 under the joint NATO training programme. {{ref:wiki-t38}}"
+        ]
+      },
+      {
+        "heading": "NASA & the Thunderbirds",
+        "paragraphs": [
+          "NASA has flown Talons since the 1960s and operates around 32 of them, mostly from Ellington Field in Houston, at a cost of roughly $25-30 million a year. They are used for astronaut flying proficiency and as chase aircraft, and during the Shuttle era it became a tradition for crews to arrive at the Kennedy Space Center in T-38s. The type has also killed astronauts: Theodore Freeman in a 1964 bird strike, Elliot See and Charles Bassett in fog at St Louis in 1966, and C. C. Williams to an aileron jam in 1967. {{ref:wiki-t38}}",
+          "The Thunderbirds flew the T-38 through the second half of the 1970s and into the 1980s, drawn by an aircraft that was cheap to run in a period of high fuel prices. That ended on 18 January 1982, when four aircraft flying the diamond formation struck the ground together during practice, killing all four pilots. The team converted to the F-16A afterwards. {{ref:wiki-t38}}"
+        ]
+      },
+      {
+        "heading": "An Ageing Airframe",
+        "paragraphs": [
+          "The T-38's reputation has inverted over sixty years. In the 1960s it was criticised as too easy compared with the frontline fighters students were heading to; by the 21st century, with the rest of the inventory flown through digital flight control systems, it is regarded as one of the most demanding aircraft in the US Air Force. Nothing about the aircraft changed - the fleet around it did. {{ref:wiki-t38}}",
+          "Structure is the harder problem. The wing was designed to 7.33 G with a 4,000-hour fatigue life, and in service that produced in-flight wingtip separations, addressed by fitting replacement wings with thicker skins. Around a third of the fleet is going through structural replacement and new wings to reach 2029. The cumulative safety record is 149 USAF fatalities since 1960 and more than 210 aircraft written off, including four fatal accidents between 2019 and 2021 alone. {{ref:wiki-t38}}"
+        ]
+      },
+      {
+        "heading": "Replacement & Outlook",
+        "paragraphs": [
+          "The T-X competition to replace the Talon opened in late 2010 and drew the BAE Hawk, the Lockheed Martin and KAI T-50, the Leonardo M-346 offered as the T-100, and a clean-sheet Boeing-Saab design. The Boeing-Saab aircraft first flew in December 2016 and was declared the winner in September 2018 as the T-7A Red Hawk. {{ref:wiki-t38}}",
+          "Transition depends on the T-7A actually being delivered, evaluated and declared operational, and the schedule has moved repeatedly. The USAF's stated position in 2018 was replacement by 2034 if low-rate production began by 2026. Until that happens the T-38 keeps flying - which is why a third of the fleet is having its wings replaced to last until 2029, an aircraft designed in the 1950s being structurally renewed to bridge to a successor that has taken longer to arrive than anyone planned. {{ref:wiki-t38}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-t38",
+      "name": "Northrop T-38 Talon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "id": "usaf-t38",
+      "name": "T-38 Talon Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104569/t-38-talon/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Northrop T-38 Talon",
+      "url": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "name": "T-38 Talon Fact Sheet",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104569/t-38-talon/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1962-02-19",
+      "title": "First T-38 loss, near Webb AFB",
+      "tag": "Crash",
+      "summary": "The type's first crash occurred near Webb Air Force Base in Texas. One crew member was killed and the other ejected safely.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "date": "1964-10-31",
+      "title": "Bird strike kills astronaut Theodore Freeman",
+      "tag": "Bird strike",
+      "summary": "NASA astronaut Theodore Freeman was killed when his T-38 struck a bird. He was the first member of the astronaut corps to die.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "date": "1966-02-28",
+      "title": "Gemini 9 crew killed on approach in fog",
+      "tag": "Controlled flight into terrain",
+      "summary": "Astronauts Elliot See and Charles Bassett, the prime crew for Gemini 9, were killed when their T-38 struck a building while manoeuvring in fog. The accident was attributed to pilot error.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "date": "1967-10-05",
+      "title": "Aileron jam kills astronaut C. C. Williams",
+      "tag": "Flight control failure",
+      "summary": "NASA astronaut Clifton C. Williams was killed when an aileron jam caused his T-38 to depart controlled flight.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "date": "1982-01-18",
+      "title": "The Thunderbirds Diamond Crash",
+      "tag": "Formation accident",
+      "summary": "Four Thunderbirds T-38As flying the diamond formation struck the ground together during a practice sortie, killing all four pilots. The team replaced the T-38 with the F-16A afterwards.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "date": "2009-05-21",
+      "title": "Rudder malfunction",
+      "tag": "Flight control failure",
+      "summary": "A rudder malfunction brought down a T-38, killing one pilot; the other ejected and was seriously injured.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "date": "2019-11-21",
+      "title": "Landing collision at Laughlin AFB",
+      "tag": "Collision on approach",
+      "summary": "Two pilots were killed in a collision during the approach to Laughlin Air Force Base in Texas.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "date": "2021-02-19",
+      "title": "Crash at Montgomery Regional Airport",
+      "tag": "Crash",
+      "summary": "Two US Air Force crew were killed when their T-38 crashed at Montgomery Regional Airport in Alabama. The accident was attributed to pilot error.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    },
+    {
+      "date": "2021-11-19",
+      "title": "Mid-air collision on approach to Laughlin AFB",
+      "tag": "Mid-air collision",
+      "summary": "Two T-38s collided while approaching Laughlin Air Force Base. One student pilot was killed.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Northrop_T-38_Talon"
+    }
+  ]
+}

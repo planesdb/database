@@ -1,0 +1,409 @@
+{
+  "name": "C-47 Dakota",
+  "fullName": "Douglas C-47 Skytrain / Dakota",
+  "manufacturer": "Douglas Aircraft Company",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Military Transport Aircraft",
+  "tagline": "The legendary 'Gooney Bird' that served as the logistical backbone of Allied victory. A militarised derivative of the civilian DC-3 airliner, it carried paratroopers, towed gliders and hauled supplies over the Himalayan 'Hump', and General Dwight D. Eisenhower listed it alongside the bulldozer, the jeep and the atomic bomb as one of the most vital pieces of equipment of WWII.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "Faced with an urgent requirement for a standardised tactical military transport, the U.S. military adapted the hugely successful civilian DC-3 airliner, adding a strengthened cargo floor, a large cargo door, a reinforced rear fuselage and a shortened tail cone for glider-towing. The militarised C-47 logged its first flight on 23 December 1941 and entered USAAF service in early 1942. It became the backbone of Allied airborne operations: C-47s dropped paratroopers of the US 82nd and 101st Airborne and towed glider forces into Normandy in the early hours of D-Day, 6 June 1944, and repeated the role in Operation Market Garden and the Rhine crossing in 1945. In British and Commonwealth service as the 'Dakota', the type flew the same missions across every theatre, and in the China-Burma-India theatre, C-47s and their C-53 Skytrooper variant flew the perilous 'Hump' route over the Himalayas, delivering vital supplies to Nationalist Chinese forces after the Burma Road was cut off by Japanese advances - one of history's most dangerous sustained airlift operations, with hundreds of aircraft and crews lost to weather, altitude and enemy action. More than 10,000 C-47s and its variants were built during the war, and the airframe's legendary reliability meant it remained in frontline and reserve military service for decades afterward. It played a central role in the 1948 Berlin Airlift, flew again in Korea and Vietnam - including as the AC-47 'Spooky' gunship, the first fixed-wing gunship used in combat - and served in dozens of smaller conflicts, with a handful of military operators still flying converted turboprop examples into the 21st century. Thousands of war-surplus C-47s were also converted back to civilian DC-3 airliner configuration after 1945, extending the type's working life even further in commercial service.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 224,
+      "text": "195 kn (224 mph / 360 km/h)"
+    },
+    "cruiseSpeed": "~160 mph (257 km/h)",
+    "range": {
+      "miles": 1600,
+      "text": "1,600 mi (2,575 km) standard operational range"
+    },
+    "serviceCeiling": {
+      "ft": 26400,
+      "text": "26,400 ft (8,046 m)"
+    },
+    "wingspan": {
+      "ft": 95.5,
+      "text": "95 ft 6 in (29.11 m)"
+    },
+    "length": {
+      "ft": 63.75,
+      "text": "63 ft 9 in (19.43 m)"
+    },
+    "height": {
+      "ft": 17,
+      "text": "17 ft 0 in (5.18 m)"
+    },
+    "weight": "empty: 18,135 lb (8,226 kg); MTOW: 31,000 lb (14,061 kg)",
+    "engines": "2 x Pratt & Whitney R-1830-92 Twin Wasp 14-cylinder twin-row radial engines (1,200 hp each)",
+    "armament": "None on the standard transport - the C-47/Dakota was an unarmed cargo and troop carrier. The AC-47 'Spooky' gunship conversion, used in Vietnam, added three 7.62mm General Electric miniguns firing sideways from the cargo doors.",
+    "crew": "3-4 (2 pilots, radio operator/navigator, and often a crew chief)",
+    "capacity": "28 fully equipped paratroopers, 18-24 troops, 14 stretcher patients in medevac configuration, or 6,000 lb (2,722 kg) of cargo",
+    "firstFlight": {
+      "date": "1941-12-23",
+      "year": 1941
+    },
+    "serviceEntryDate": "1942-01-01",
+    "retiredDate": null,
+    "numberBuilt": 10174,
+    "unitCost": {
+      "usd": 138000,
+      "text": "~$138,000 wartime unit cost (1940s dollars) - roughly $2.6M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$2.6M in 2026 dollars"
+    },
+    "combatLosses": "No single authoritative loss figure has been published for the type as a whole; several hundred C-47s/Dakotas are documented lost on 'the Hump' route to the Himalayas alone (to weather, altitude and enemy action), with further losses during the Normandy, Market Garden and Rhine airborne operations and later in Korea and Vietnam."
+  },
+  "variants": [
+    {
+      "code": "C-47 Skytrain",
+      "desc": "Original production troop and cargo transport modification of the DC-3, featuring 24V electrical systems and large cargo doors - the most numerous version."
+    },
+    {
+      "code": "C-53 Skytrooper",
+      "desc": "Paratroop-specific variant without the cargo door and reinforced floor of the standard C-47, used extensively on 'the Hump' route."
+    },
+    {
+      "code": "C-47A",
+      "desc": "The main production variant featuring a revised 24-volt electrical framework in place of the older 12-volt baseline design."
+    },
+    {
+      "code": "C-47B",
+      "desc": "Optimised specifically for high-altitude operations and 'The Hump' routes with supercharged R-1830-90 series powerplants and extra fuel capacity."
+    },
+    {
+      "code": "Dakota I / III / IV",
+      "desc": "Official Royal Air Force and Commonwealth designations applied to Lend-Lease configurations of the standard C-47, C-47A and C-47B respectively - used across every WWII theatre including Burma."
+    },
+    {
+      "code": "AC-47 Spooky",
+      "desc": "Fixed-wing side-firing gunship conversion used during the Vietnam War, outfitted with three 7.62mm General Electric miniguns - the first fixed-wing gunship used in combat."
+    },
+    {
+      "code": "Li-2 / L2D",
+      "desc": "Licence-built copies produced in the Soviet Union (Lisunov Li-2, ~4,937 built) and Japan (Showa/Nakajima L2D, ~487 built) during WWII, both derived directly from the same DC-3/C-47 airframe."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces / US Air Force",
+      "role": "Primary historical user and strategic deployment force",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "~10,000+ built",
+      "homeBase": "Airbases in every WWII theatre",
+      "logo": "usaf.svg"
+    },
+    {
+      "name": "Royal Air Force (as Dakota)",
+      "role": "Major strategic transport and airborne deployment asset",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "~1,900",
+      "homeBase": "RAF Down Ampney, RAF Broadwell, RAF Transport Command bases worldwide",
+      "logo": "raf.png"
+    },
+    {
+      "name": "US Navy / US Marine Corps (R4D)",
+      "role": "Naval Transport Operator",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "Several hundred R4Ds, including 100 rebuilt to R4D-8 (Super DC-3) standard",
+      "homeBase": "US naval air stations worldwide"
+    },
+    {
+      "name": "Soviet Air Forces (Lisunov Li-2)",
+      "role": "Licence Operator",
+      "status": "Retired",
+      "since": "1939",
+      "fleetSize": "4,937 licence-built in the USSR as the Li-2 - the largest single derivative of the design",
+      "homeBase": "Soviet airfields"
+    },
+    {
+      "name": "South African Air Force",
+      "role": "Active maritime patrol and transport operator",
+      "status": "In Service",
+      "since": "1943",
+      "fleetSize": "~5 (upgraded C-47TP Turbo Dakota configurations)",
+      "homeBase": "AFB Ysterplaat (35 Squadron)",
+      "logo": "south-african-air-force.webp"
+    },
+    {
+      "name": "Basler Turbo Conversions / various air forces",
+      "role": "Modern turboprop-conversion operator (BT-67)",
+      "status": "In Service",
+      "since": "1990",
+      "fleetSize": "~60 (converted airframes still in service worldwide)",
+      "homeBase": "Various government and military operators, Africa and Latin America"
+    },
+    {
+      "name": "Private warbird and heritage military operators",
+      "role": "Heritage & airshow operator",
+      "status": "In Service",
+      "since": "1950s",
+      "fleetSize": "Several hundred C-47/Dakota airframes still flying worldwide",
+      "homeBase": "Private collections and heritage air forces, worldwide"
+    },
+    {
+      "name": "~100 other armed forces worldwide",
+      "role": "Export Operators",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "Around 100 countries have operated the C-47 across more than 60 variants; 10,174 were built by Douglas",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "DC3",
+    "howToFind": "Still one of the most commonly seen flying WWII transport types, restored as military C-47s/Dakotas at D-Day and airshow commemorations; visible on Flightradar24 year-round using the shared ICAO type code 'DC3'."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Vintage Aviation News",
+      "url": "https://vintageaviationnews.com/feed",
+      "topicTag": "C-47"
+    },
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "C-47 Skytrain / Dakota"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "DC-3 Society announces inaugural Operator Conference & Showcase at Flabob Airport",
+      "source": "General Aviation News",
+      "date": "2026-06-14",
+      "category": "Events",
+      "url": "https://generalaviationnews.com/2026/06/14/dc3-society-conference-flabob-airport/"
+    }
+  ],
+  "tags": [
+    "c-47",
+    "c47",
+    "c-47 skytrain",
+    "dakota",
+    "skytrain",
+    "dc-3",
+    "dc3",
+    "gooney bird",
+    "douglas",
+    "wwii transport",
+    "military transport",
+    "paratrooper",
+    "paratrooper aircraft",
+    "d-day",
+    "normandy invasion",
+    "market garden",
+    "the hump",
+    "vintage cargo"
+  ],
+  "quickFacts": [
+    "The only Victoria Cross ever awarded to RAF Transport Command went to a Dakota pilot: Flt Lt David Lord, who held his burning aircraft steady over Arnhem for eight minutes so supplies could be dropped, and died when it crashed.",
+    "More than 800 C-47s and Dakotas dropped over 13,000 paratroopers into Normandy in the early hours of D-Day - wearing hastily painted invasion stripes.",
+    "'That's All, Brother' - the aircraft that led the D-Day formation - was rediscovered in 2015 sitting unrecognised in a Wisconsin boneyard awaiting conversion to a turboprop.",
+    "Nearly 2,000 Dakotas served with the RAF - Churchill, Eisenhower and Montgomery all used them as personal transports.",
+    "In the Berlin Airlift, C-47s and Dakotas together delivered coal and food roughly every 90 seconds at the operation's peak.",
+    "The BBMF's Dakota ZA947 'Kwicherbichen' still drops parachutists over Normandy on D-Day anniversaries.",
+    "General Eisenhower named the C-47 one of the four 'tools of victory' that won the Allied war - alongside the bulldozer, the jeep and the atomic bomb.",
+    "The AC-47 'Spooky' gunship, three side-firing miniguns bolted into a WWII cargo plane, invented the fixed-wing gunship as a category over Vietnam."
+  ],
+  "article": {
+    "overview": [
+      "The Douglas C-47 Skytrain, known to the British Commonwealth as the Dakota, is a militarised version of the Douglas DC-3 airliner built for Allied transport duties in the Second World War. More than 10,000 were built between 1941 and 1945.{{ref:wiki-c47}}",
+      "It carried paratroopers into Normandy, Arnhem and the Rhine crossings, flew supplies over the Himalayan 'Hump' to China, and later served as the AC-47 'Spooky' gunship over Vietnam. General Eisenhower named it one of four tools that won the war for the Allies, alongside the bulldozer, the jeep and the two-and-a-half-ton truck.{{ref:wiki-c47}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The C-47's parent, the Douglas DC-3 of 1935, was the aircraft that made airlines profitable carrying passengers alone - no mail subsidy required. Rugged, twin-engined, 21-seat and honest to fly, it captured most of the world's airline traffic within four years, which meant that when war came, the transport the military needed already existed.{{ref:wiki-c47}}",
+          "Militarisation was gloriously simple: big cargo door, strengthened floor, bench seats, glider hitch. The C-47 Skytrain (Dakota to the British Commonwealth) first flew in militarised form on 23 December 1941 and entered mass production through 1942, and Douglas plants eventually delivered over 10,000 - with licence production adding thousands of Soviet Li-2s and Japanese L2Ds, both sides of the war flying variants of the same Californian design.{{ref:wiki-c47}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "Everywhere the war went, Dakotas took it there. They towed gliders and dropped paratroopers into Sicily, Normandy (over 800 C-47s flew on D-Day's eve), Arnhem and the Rhine; they flew the Hump over the Himalayas to keep China fighting; they evacuated wounded by the hundred thousand and hauled everything from mules to fuel drums into strips hacked from jungle.{{ref:wiki-c47}}",
+          "Peace only changed the cargo, not the fighting. Dakotas went back to war repeatedly after 1945: Korea, French Indochina (dropping supplies into doomed Dien Bien Phu), and Vietnam - where the AC-47 'Spooky' gunship, three miniguns firing sideways from the cargo doors, invented an entire category of aircraft.{{ref:wiki-ac47}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Dakota's virtue is structural honesty: a fat low wing built like a bridge (the multi-spar centre section shrugs at overloads and hard landings), two dependable Twin Wasp radials, and handling so forgiving that hastily trained wartime crews could fly it off strips that broke other aircraft. It carried double its rated load routinely and survived damage that removed most of a wing.{{ref:wiki-c47}}",
+          "It is also why the type won't die: parts are plentiful, the airframe outlasts engines, and the modern Basler BT-67 conversion - stretched, turboprop-powered, glass-cockpit - keeps rebuilding 1940s Dakotas into effectively new aircraft for special-mission and government operators.{{ref:basler}}"
+        ]
+      },
+      {
+        "heading": "Legacy and Postwar Service",
+        "paragraphs": [
+          "Dakotas carried the Berlin Airlift's opening months, flew colonial-era military transport duties into places with no roads, and stayed on air force ledgers into the 1990s and beyond. A handful of South African and Latin American examples, re-engined with turboprops, serve even now.{{ref:wiki-c47}}",
+          "The family tree sprawls: C-47 and C-53 troop variants, the Navy's R4D, Royal Air Force Dakotas by the thousand via Lend-Lease, the USSR's licence-built Li-2 (with its own gun turret), and finally the Basler turboprop era. No military transport design has been adapted more ways across more decades.{{ref:wiki-c47}}",
+          "The Dakota's contribution was logistical rather than glamorous, but airborne veterans consistently rated it as decisive: Eisenhower's tribute made that official, and the sound of massed Twin Wasps overhead usually meant a major operation was under way.{{ref:wiki-c47}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-c47",
+      "name": "Douglas C-47 Skytrain",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain"
+    },
+    {
+      "id": "wiki-ac47",
+      "name": "Douglas AC-47 Spooky",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Douglas_AC-47_Spooky"
+    },
+    {
+      "id": "basler",
+      "name": "BT-67",
+      "publisher": "Basler Turbo Conversions",
+      "url": "https://www.baslerturbo.com/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Douglas C-47 Skytrain",
+      "url": "https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain"
+    },
+    {
+      "name": "National Museum of the US Air Force - C-47D Skytrain",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196224/douglas-c-47d-skytrain/"
+    },
+    {
+      "name": "Royal Air Force Museum - Dakota",
+      "url": "https://www.rafmuseum.org.uk/research/collections/douglas-dakota/"
+    },
+    {
+      "name": "National Warplane Museum - Douglas C-47A Skytrain Profile",
+      "url": "https://nationalwarplanemuseum.com/collection/douglas-c-47a-70-dl-skytrain"
+    },
+    {
+      "name": "Lyon Air Museum - Douglas C-47 Skytrain / Dakota",
+      "url": "https://lyonairmuseum.org/exhibits/airplanes/douglas-c-47-skytrain-or-dakota/"
+    },
+    {
+      "name": "Wikipedia - That's All, Brother",
+      "url": "https://en.wikipedia.org/wiki/That%27s_All,_Brother"
+    },
+    {
+      "name": "RAF Memorial Flight Club - C-47 Dakota ZA947, 25 years with the BBMF",
+      "url": "https://www.memorialflightclub.com/blog/c-47-dakota-za947-%E2%80%93-25-years-bbmf"
+    }
+  ],
+  "survivors": {
+    "intro": "Hundreds of C-47s and civil DC-3s survive worldwide, a good number of them still airworthy. These two carry documented D-Day histories.",
+    "airframes": [
+      {
+        "serial": "42-92847",
+        "name": "That's All, Brother",
+        "location": "Commemorative Air Force",
+        "place": "Central Texas Wing, San Marcos, Texas, USA",
+        "url": "https://www.commemorativeairforce.org/",
+        "countryCode": "us",
+        "country": "United States",
+        "note": "The lead aircraft of the D-Day airborne assault, equipped with radar to find Pathfinder-dropped beacons. Rediscovered unrecognised in an Oshkosh, Wisconsin boneyard in 2015 awaiting turboprop conversion; restored to flight and returned to Normandy for the 75th anniversary in 2019.",
+        "featured": true
+      },
+      {
+        "serial": "ZA947",
+        "name": "Kwicherbichen",
+        "location": "RAF Battle of Britain Memorial Flight",
+        "place": "RAF Coningsby, UK",
+        "url": "https://www.commemorativeairforce.org/",
+        "countryCode": "us",
+        "country": "United States",
+        "note": "Originally built for the Royal Canadian Air Force, later used by the UK's Royal Aircraft Establishment before joining the BBMF in March 1993. Painted to commemorate Flt Lt David Lord's Victoria Cross-winning Arnhem resupply mission.",
+        "featured": true
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-17",
+      "change": "Temporarily merged into the DC-3 entry (id douglas-dc3) as a variant rather than a standalone entry.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-22",
+      "change": "Restored as its own dedicated, military-focused entry per user request, split back out from the DC-3 civilian entry. Re-added the 'survivors' field (verified preserved airframes: 'That's All, Brother' and BBMF Dakota ZA947), added an 'armament' spec line and a sourced 'combatLossesDisplay' note per the military template, and restored the 'Combat History' section heading.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed hero photo credit mismatch - the previously-declared photographer credit belonged to a different, no-longer-displayed photo. Replaced with a generic Wikimedia Commons credit since the exact photographer for the current photo could not be independently verified this pass.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Expanded the operators roster - added the US Navy R4D fleet, Soviet Li-2 licence production and a combined row for the roughly 100 other armed forces that have flown the type.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1944-07-27",
+      "title": "Mull of Galloway crash",
+      "summary": "A USAAF C-47 carrying wounded servicemen flew into fog-shrouded cliffs at the Mull of Galloway, Scotland, killing all 22 aboard.",
+      "fatalities": 22,
+      "tag": "Weather/CFIT",
+      "source": "https://en.wikipedia.org/wiki/1944_Mull_of_Galloway_Douglas_C-47_crash"
+    },
+    {
+      "date": "1947-07-29",
+      "title": "Yogyakarta Dakota shootdown",
+      "summary": "An Indonesian-operated Dakota carrying senior air force officers was shot down by Dutch fighters on approach to Maguwo airfield during the Indonesian National Revolution, killing eight of nine aboard.",
+      "fatalities": 8,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/1947_Yogyakarta_Dakota_incident"
+    },
+    {
+      "date": "1957-03-17",
+      "title": "Crash that killed Philippine President Ramon Magsaysay",
+      "tag": "Controlled flight into terrain",
+      "summary": "The presidential C-47 \"Mt. Pinatubo\" lost power in the right engine climbing out of Cebu and flew into mountains near Balamban. President Magsaysay, a general, a cabinet secretary and twenty-one others were killed; a single journalist survived.",
+      "fatalities": 25,
+      "source": "https://en.wikipedia.org/wiki/1957_Cebu_Douglas_C-47_crash"
+    },
+    {
+      "date": "2012-12-05",
+      "title": "SAAF C-47TP crash in the Drakensberg",
+      "summary": "A South African Air Force C-47TP 'Turbo Dak' crashed in the Drakensberg mountains after the crew filed an incorrect low-altitude flight plan and flew into deteriorating weather. All 11 aboard died, and a board of inquiry ruled the crash avoidable.",
+      "fatalities": 11,
+      "tag": "Weather/CFIT",
+      "source": "https://en.wikipedia.org/wiki/2012_South_African_Air_Force_C-47_crash"
+    }
+  ]
+}

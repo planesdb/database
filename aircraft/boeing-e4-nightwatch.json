@@ -1,0 +1,269 @@
+{
+  "name": "E-4 Nightwatch",
+  "fullName": "Boeing E-4B Nightwatch",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Airborne Strategic Command Post",
+  "tagline": "A militarised Boeing 747-200B built as a survivable airborne command post for the U.S. president, secretary of defense and their successors, and hardened against the electromagnetic pulse of a nuclear detonation. Four were built, one is kept on alert around the clock, and they are being replaced by the Sierra Nevada E-4C from the 2030s.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "It flies with the largest crew of any aircraft in U.S. Air Force history - up to 112 people across flight and mission personnel",
+    "The name comes from Rembrandt's painting The Night Watch, picked by the squadron's first commanding officer",
+    "A five-mile trailing wire antenna is reeled out of the lower fuselage to talk to submerged ballistic missile submarines",
+    "It still flies on analogue flight instruments, because a glass cockpit is more vulnerable to an electromagnetic pulse",
+    "One test flight kept it airborne and fully operational for 35.4 hours; the design limit is not fuel but engine lubricant, and it takes two fully loaded KC-135 tankers to refill it",
+    "It costs around $160,000 an hour to fly, which is why the Air Force has repeatedly tried and failed to retire the fleet"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the E-4B, the standard all four surviving aircraft were converted to by January 1985.",
+    "maxSpeed": {
+      "mph": 602,
+      "text": "523 kn (602 mph / 969 km/h)"
+    },
+    "cruiseSpeed": "556 mph (895 km/h), Mach 0.84",
+    "range": {
+      "miles": 7100,
+      "text": "7,100 mi (11,500 km, 6,200 nmi); 12 hours unrefuelled"
+    },
+    "serviceCeiling": {
+      "ft": 45000,
+      "text": "45,000 ft (13,716 m)"
+    },
+    "wingspan": {
+      "ft": 195.7,
+      "text": "195 ft 8 in (59.6 m)"
+    },
+    "length": {
+      "ft": 231.3,
+      "text": "231 ft 4 in (70.5 m)"
+    },
+    "height": {
+      "ft": 63.4,
+      "text": "63 ft 5 in (19.3 m)"
+    },
+    "weight": "empty: 410,000 lb (185,973 kg); MTOW: 833,000 lb (377,842 kg)",
+    "engines": "4 x General Electric F103 (CF6-50E2) turbofans, 52,500 lbf (234 kN) each",
+    "armament": "None - the E-4B is unarmed. Its mission equipment includes an SHF satellite antenna in the dorsal radome, a five-mile trailing wire antenna for VLF contact with ballistic missile submarines, VLF and UHF transmitters, direct-fire countermeasures, and nuclear thermal and EMP shielding throughout the airframe and wiring.",
+    "crew": "4 flight crew plus up to 108 mission crew",
+    "capacity": "Three operational decks. The main deck holds a National Command Authority suite, a briefing room seating 21, a nine-seat conference room, a 29-position operations team area, a communications control area, the Technical Control compartment and a crew rest area; the galley can produce more than 100 hot meals on a long mission.",
+    "firstFlight": {
+      "date": "1973-06-13",
+      "year": 1973
+    },
+    "serviceEntryDate": "1974",
+    "retiredDate": null,
+    "numberBuilt": 4,
+    "unitCost": {
+      "usd": 223200000,
+      "text": "$223.2M (fiscal 1998 dollars, U.S. Air Force published figure) - roughly $445M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$445M in 2026 dollars"
+    },
+    "combatLosses": "None - the E-4 has never flown a combat mission and no airframe has ever been lost. Two of the four were damaged by a tornado at Offutt Air Force Base in June 2017 and were out of service for eleven weeks."
+  },
+  "variants": [
+    {
+      "code": "E-4A",
+      "desc": "The three aircraft ordered under the 481B NEACP programme in 1973 and 1974, serials 73-1676, 73-1677 and 74-0787. The first two flew on Pratt & Whitney JT9D-7A engines and the third on General Electric CF6-50E2s, which later became standard and were retrofitted to the others. Their interim fit by E-Systems duplicated the equipment of the EC-135J they replaced, offering more space and longer endurance rather than new capability. All three were converted to E-4B standard by January 1985."
+    },
+    {
+      "code": "E-4B",
+      "desc": "The fourth aircraft, serial 75-0125, delivered on 21 December 1979 with far more advanced equipment and identifiable by the large streamlined radome behind the upper deck housing an SHF satellite antenna. It introduced nuclear EMP hardening, with every piece of equipment and wiring on board shielded, plus thermal-effects protection. The other three aircraft were brought up to this standard, and E-4B is the only configuration flying today."
+    },
+    {
+      "code": "E-4C (SNC Survivable Airborne Operations Center)",
+      "desc": "The replacement, being built by Sierra Nevada Corporation under a $13 billion contract awarded on 26 April 2024 - the largest single award in the company's history. It is based on five Boeing 747-8I airliners bought second-hand from Korean Air, four for conversion and one for risk-reduction testing, with Rolls-Royce engine support. The first aircraft flew on 7 August 2025 and conversion work runs to July 2036; the Air Force is planning for six to eight aircraft, up from the four E-4Bs."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "1974",
+      "fleetSize": "4",
+      "homeBase": "Offutt AFB, Nebraska - 1st Airborne Command and Control Squadron, 595th Command and Control Group"
+    },
+    {
+      "name": "United States Strategic Command",
+      "role": "Operational Coordination",
+      "status": "In Service",
+      "since": "1992",
+      "fleetSize": "Tasks the same 4 aircraft; the E-4 is not separately owned",
+      "homeBase": "Offutt AFB, Nebraska"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B742",
+    "howToFind": "All four airframes are trackable by registration on Flightradar24 - 73-1676, 73-1677, 74-0787 and 75-0125 - listed as Boeing 747-E4B on the type B742, which they share with every other 747-200. They show up most often on transits out of Offutt AFB in Nebraska and on secretary of defense trips overseas, and one usually deploys to a second airport near the president whenever Air Force One leaves North America. The alert aircraft does not advertise itself."
+  },
+  "lastUpdated": "2026-09-16",
+  "changelog": [
+    {
+      "date": "2026-09-16",
+      "change": "Entry created - full article, specifications, variants, operators and programme record written from the USAF E-4B fact sheet, Defense News and Aviation Week reporting on the E-4C replacement, and published programme histories.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Nightwatch",
+    "doomsday plane",
+    "NEACP",
+    "NAOC",
+    "E4B",
+    "E-4C",
+    "SAOC",
+    "kneecap"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing E-4 is a strategic airborne command post operated by the United States Air Force, built on a militarised Boeing 747-200B airframe. Four were produced, and in operation an E-4 is designated the National Airborne Operations Center - a survivable command post for the National Command Authority, meaning the president, the secretary of defense and their successors. {{ref:usaf}} {{ref:wiki}}",
+      "Its purpose is continuity of government through a nuclear exchange, which earned it the nickname doomsday plane in the press within a year of entering service. All four are flown by the 1st Airborne Command and Control Squadron at Offutt Air Force Base in Nebraska, one is on alert at all times, and the fleet is to be replaced by the Sierra Nevada E-4C from the 2030s. {{ref:usaf}} {{ref:wiki}} {{ref:defensenews-contract}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the NEACP Requirement",
+        "paragraphs": [
+          "The E-4 exists because an airline did not take delivery. Two 747-200 airframes had been laid down as commercial aircraft, the order went unfulfilled, and Boeing offered them to the Air Force as part of a package to replace the EC-135J that then served as the National Emergency Airborne Command Post. The Air Force Electronic Systems Division awarded Boeing a contract in February 1973 for two unequipped aircraft under the 481B NEACP programme, designated E-4A and powered by Pratt & Whitney JT9Ds; a third followed in July 1973 with General Electric CF6-50E2 engines, which then became standard. {{ref:wiki}}",
+          "A fourth aircraft was ordered in December 1973 with far more advanced equipment, and was designated E-4B. Boeing delivered it on 21 December 1979. The programme as costed in November 1973 ran to $548 million for seven aircraft - six operational command posts and one for research - but the last three were never built, and the three E-4As were instead converted to E-4B standard by January 1985. Four aircraft is what the United States has had ever since. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Survivability",
+        "paragraphs": [
+          "The E-4B's design problem is not performance but survival. Every piece of equipment and wiring on board is shielded against the electromagnetic pulse of a nuclear detonation, and the airframe carries nuclear thermal-effects shielding and direct-fire countermeasures. The one place the hardening is most concentrated is the lower trailing wire antenna bay: the five-mile reel used to reach submerged ballistic missile submarines is exactly the kind of long conductor that picks an EMP up best. The same logic explains the cockpit. Most ageing aircraft have been given glass displays; the E-4B kept its analogue flight instruments, which are harder for a pulse to destroy. {{ref:wiki}}",
+          "Endurance is the other design driver. With aerial refuelling the aircraft is limited not by fuel but by how long its engines' lubricating oil lasts, and it is designed to stay up for a week in an emergency. An endurance test kept one airborne and fully operational for 35.4 hours. Refilling it takes two fully loaded KC-135 tankers. Inside, three decks carry a National Command Authority suite with an office, lounge and sleeping area, a nine-seat conference room, a briefing room with 21 seats, a 29-position operations area for the battle staff, the Technical Control compartment that manages every communications circuit, a crew rest area and a galley that can turn out more than 100 hot meals. {{ref:wiki}} {{ref:usaf}}"
+        ]
+      },
+      {
+        "heading": "Operational History",
+        "paragraphs": [
+          "The fleet deployed in 1974 as the National Emergency Airborne Command Post, pronounced kneecap in service, and was also able to fly Strategic Air Command's Looking Glass mission. The aircraft were first based at Andrews Air Force Base in Maryland so the president and secretary of defense could reach them quickly, with one kept on 24-hour alert there; they later moved to Offutt, where they were safer from attack, and the Andrews alert ended in 1994 when President Clinton ordered the aircraft to stay at Offutt unless needed. Relief crews remain at Andrews and Wright-Patterson. {{ref:wiki}} {{ref:usaf}}",
+          "The end of the Cold War and the arrival of the VC-25A as Air Force One in 1989 reduced the need, and in 1994 NEACP became NAOC and picked up a second job: carrying FEMA teams to disaster sites and acting as a temporary ground command post until facilities could be built, as one did after Hurricane Opal in 1995. The E-4B also became the secretary of defense's preferred transport for travel outside the United States, because the cabin and communications let a senior staff work throughout the flight. On 11 September 2001 an E-4B using the callsign VENUS77 became airborne just before 09:44, climbed north of the White House and held south of Washington; Brent Scowcroft, aboard as chairman of a Defense Department review, later confirmed the aircraft had been on an unrelated inspection tour. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Cost, Criticism & Near-Retirement",
+        "paragraphs": [
+          "The E-4B costs close to $160,000 an hour to operate, and in 2005 the Air Force awarded Boeing a five-year, $2 billion contract just to keep upgrading four aircraft. That arithmetic has made the fleet a recurring target. In January 2006 Secretary of Defense Donald Rumsfeld announced a plan to retire all four starting in 2009; that was cut back to one aircraft in February 2007, and his successor Robert Gates reversed the decision entirely in May 2007. By the 2015 budget there were no retirement plans at all. {{ref:wiki}}",
+          "Fragility, not cost, is the sharper problem with a four-aircraft fleet. On 16 June 2017 an F1 tornado struck Offutt while two E-4Bs sat with their tails protruding from their hangars; the wind levered against the exposed tail sections and shifted both 747s inside. With a third aircraft in maintenance in San Antonio, the Air Force was left with one available E-4B for the NAOC mission, and the two damaged aircraft took eleven weeks to repair. The airframes have a usable life of 115,000 hours and 30,000 cycles, which would not be reached until about 2039, but the maintenance-limiting point arrived during the 2020s. {{ref:twz-tornado}} {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Replacement: the E-4C",
+        "paragraphs": [
+          "The Air Force began developing a replacement in 2021 and 2022 under the name Survivable Airborne Operations Center, and on 26 April 2024 awarded Sierra Nevada Corporation a $13 billion contract covering development aircraft, production aircraft, ground systems and interim support, with work to conclude by 10 July 2036. It was the largest single contract in Sierra Nevada's sixty-year history. The company bought five Boeing 747-8I airliners from Korean Air - four to convert and one for risk-reduction testing - and Rolls-Royce won the engine support work. The aircraft received the E-4C designation in late 2024. {{ref:defensenews-contract}} {{ref:defensenews-flight}} {{ref:aviationweek}}",
+          "The first E-4C flew on 7 August 2025, with flight and ground testing running through 2026 out of Sierra Nevada's Aviation Innovation and Technology Center at Dayton, Ohio and a second site at Wichita, Kansas. The work is the same as it was in 1973 in kind if not in detail: hardening the airframe against radiation and EMP, then integrating antennas, computers and secure mission systems, this time on a modular open architecture so the mission kit can be replaced without rebuilding the aircraft. The Air Force is now planning infrastructure at Offutt for six to eight E-4Cs rather than four, with an environmental assessment due in September 2026 and maintenance hangars in fiscal 2028 and 2030. {{ref:defensenews-flight}} {{ref:aviationweek}} {{ref:flightglobal}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "usaf",
+      "name": "E-4B fact sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104503/e-4b/"
+    },
+    {
+      "id": "wiki",
+      "name": "Boeing E-4",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_E-4"
+    },
+    {
+      "id": "twz-tornado",
+      "name": "Two USAF E-4B Doomsday Planes Damaged In Tornado At Offutt Air Force Base",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/11822/two-usaf-e-4b-doomsday-planes-damaged-in-tornado-at-offutt-air-force-base"
+    },
+    {
+      "id": "defensenews-contract",
+      "name": "Sierra Nevada wins $13B contract to build Air Force doomsday plane",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/air/2024/04/26/sierra-nevada-wins-13b-contract-to-build-air-force-doomsday-plane/"
+    },
+    {
+      "id": "defensenews-flight",
+      "name": "Flight tests begin on US Air Force's new doomsday plane",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/air/2025/09/04/flight-tests-begin-on-us-air-forces-new-doomsday-plane/"
+    },
+    {
+      "id": "aviationweek",
+      "name": "USAF Planning For Up To Eight E-4C Doomsday Aircraft",
+      "publisher": "Aviation Week",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/usaf-planning-eight-e-4c-doomsday-aircraft"
+    },
+    {
+      "id": "flightglobal",
+      "name": "Sierra Nevada begins flight testing Boeing 747-8I-based E-4C doomsday aircraft",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/fixed-wing/sierra-nevada-begins-flight-testing-e-4c-doomsday-aircraft/164369.article"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "An overview of the NAOC and E-4B Nightwatch",
+      "url": "https://www.offutt.af.mil/News/Commentaries/Display/Article/3699924/an-overview-of-the-naoc-and-e-4b-nightwatch/"
+    },
+    {
+      "name": "Air Force Video Provides Unprecedented Look Inside The E-4B Nightwatch",
+      "url": "https://theaviationist.com/2024/05/30/air-force-video-provides-unprecedented-look-inside-the-e-4b-nightwatch-doomsday-plane/"
+    },
+    {
+      "name": "SNC E-4C Survivable Airborne Operations Center",
+      "url": "https://en.wikipedia.org/wiki/SNC_E-4C_Survivable_Airborne_Operations_Center"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1973-06-13",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "The first E-4A flew from the Boeing plant at Everett, Washington. The first completed aircraft was delivered to Andrews Air Force Base in July 1973, with the next two following in October 1973 and October 1974.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_E-4"
+    },
+    {
+      "date": "1979-12-21",
+      "title": "First E-4B delivered",
+      "tag": "Milestone",
+      "summary": "Boeing delivered 75-0125, the first aircraft built to E-4B standard, distinguished by the large dorsal radome housing its SHF satellite antenna and by full electromagnetic pulse hardening. The three earlier E-4As were converted to the same standard by January 1985.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_E-4"
+    },
+    {
+      "date": "2001-09-11",
+      "title": "VENUS77 over Washington",
+      "tag": "Notable sortie",
+      "summary": "An E-4B using the callsign VENUS77 got airborne just before 09:44, circled north of the White House during its climb and then held south of Washington, where it was filmed by news crews after the attack on the Pentagon. Brent Scowcroft, aboard as chairman of a Defense Department review, later confirmed the aircraft was on an unrelated inspection tour.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_E-4"
+    },
+    {
+      "date": "2017-06-16",
+      "title": "Tornado at Offutt damages two of the four aircraft",
+      "tag": "Weather damage",
+      "summary": "An F1 tornado struck Offutt Air Force Base while two E-4Bs sat with their tails protruding from their hangars. The wind levered against the exposed tail sections and shifted both aircraft inside. With a third in maintenance in Texas, the Air Force was left with one available E-4B; the damaged pair took eleven weeks to repair.",
+      "fatalities": 0,
+      "source": "https://www.twz.com/11822/two-usaf-e-4b-doomsday-planes-damaged-in-tornado-at-offutt-air-force-base"
+    },
+    {
+      "date": "2024-04-26",
+      "title": "Sierra Nevada wins the $13B replacement contract",
+      "tag": "Programme milestone",
+      "summary": "The Air Force awarded Sierra Nevada Corporation a $13 billion contract for the Survivable Airborne Operations Center, covering development and production aircraft, ground systems and interim support, with work running to 10 July 2036. It was the largest single contract in the company's history.",
+      "source": "https://www.defensenews.com/air/2024/04/26/sierra-nevada-wins-13b-contract-to-build-air-force-doomsday-plane/"
+    },
+    {
+      "date": "2025-08-07",
+      "title": "First flight of the E-4C",
+      "tag": "Programme milestone",
+      "summary": "The first converted Boeing 747-8I flew as an E-4C, beginning a flight and ground test campaign at Dayton, Ohio and Wichita, Kansas that is scheduled to run through 2026.",
+      "source": "https://www.flightglobal.com/fixed-wing/sierra-nevada-begins-flight-testing-e-4c-doomsday-aircraft/164369.article"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "name": "CH-53K King Stallion",
+  "fullName": "Sikorsky CH-53K King Stallion",
+  "manufacturer": "Sikorsky Aircraft (Lockheed Martin)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters",
+    "cargo"
+  ],
+  "role": "Heavy-Lift Assault Transport Helicopter",
+  "tagline": "The largest and heaviest helicopter in the United States military, built by Sikorsky to replace the CH-53E Super Stallion in the Marine Corps heavy-lift role. Three 7,500 shp engines and a new composite seven-blade rotor give it a 36,000 lb external lift and roughly three times the CH-53E's payload in hot-and-high conditions.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "It is the largest and heaviest helicopter in the U.S. military, with a maximum gross weight of 88,000 lb",
+    "Its cabin is a foot wider than the CH-53E's, which lets it swallow two 463L master pallets whole rather than having them broken down between airlifter and helicopter",
+    "In March 2018 one lifted 36,000 lb on its single centre cargo hook, the maximum the hook is rated for",
+    "In testing a King Stallion has picked up and carried another King Stallion, a load of around 28,000 lb",
+    "Its split-torque main gearbox weighs 5,270 lb and handles three engines' output, against 8,020 lb for the twin-engine Mil Mi-26's",
+    "The programme is the reason Germany walked away: Berlin picked the CH-47F Chinook in 2022, citing the Chinook's lower unit cost and interoperability with neighbouring NATO air forces"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the production CH-53K as published by Sikorsky and NAVAIR. The aircraft was still in low-rate production and pre-deployment workup when this entry was written.",
+    "maxSpeed": {
+      "mph": 196,
+      "text": "170 kn (196 mph / 315 km/h)"
+    },
+    "cruiseSpeed": "196 mph (315 km/h) - Sikorsky publishes a single 170 kn figure covering cruise and maximum speed",
+    "range": {
+      "miles": 530,
+      "text": "530 mi (850 km, 460 nmi); combat radius 130 mi (204 km, 110 nmi) carrying an external load"
+    },
+    "serviceCeiling": {
+      "ft": 16000,
+      "text": "16,000 ft (4,877 m) at ISA; 13,200 ft (4,023 m) hot day"
+    },
+    "mainRotorDiameter": {
+      "ft": 79,
+      "text": "79 ft 0 in (24.1 m); fuselage width 17 ft 6 in (5.33 m)"
+    },
+    "length": {
+      "ft": 99,
+      "text": "99 ft 0 in (30.2 m) with rotor and tail unfolded"
+    },
+    "height": {
+      "ft": 28.4,
+      "text": "28 ft 5 in (8.66 m) with rotor and tail unfolded"
+    },
+    "weight": "empty: 43,878 lb (19,903 kg); MTOW: 88,000 lb (39,916 kg) with external load, 74,000 lb (33,566 kg) with maximum internal load",
+    "rotorBlades": "7 main, 4 tail",
+    "engines": "3 x General Electric T408-GE-400 (GE38-1B) turboshafts, 7,500 shp (5,600 kW) each",
+    "crew": "2 pilots plus 1-3 aircrew, mission dependent",
+    "capacity": "30 troops, or 24 casualty litters, or 35,000 lb (15,876 kg) of payload. The cabin is 30 ft (9.1 m) long, 8 ft 7 in (2.6 m) wide and 6 ft 6 in (2.0 m) high, and takes two 463L master pallets.",
+    "externalLoad": "36,000 lb (16,329 kg) on the centre hook; 25,200 lb (11,431 kg) on the fore and aft hooks",
+    "firstFlight": {
+      "date": "2015-10-27",
+      "year": 2015
+    },
+    "serviceEntryDate": "2022-04-22",
+    "retiredDate": null,
+    "numberBuilt": 25,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed as a clean flyaway figure - a five-year multi-year contract signed in September 2025 covers up to 99 aircraft for about $10.9B including support and is projected to save $1.5B, and a 2023 award covered 35 aircraft for $2.77B",
+      "inflationText": null
+    },
+    "combatLosses": "None - the type has not yet deployed operationally. Its first Marine Expeditionary Unit deployment is scheduled for fiscal year 2027."
+  },
+  "variants": [
+    {
+      "code": "CH-53X (proposal)",
+      "desc": "The original proposal name for a new-build replacement rather than the service-life extension the Marine Corps had planned for its CH-53E fleet. When that upgrade effort stalled, Sikorsky offered a clean-sheet aircraft instead, and in April 2006 the USMC signed an $18.8 billion contract for 156 helicopters under the CH-53K designation. The order rose to 227 aircraft in August 2007 before settling at a programme of record of 200."
+    },
+    {
+      "code": "Ground test vehicles and EDM prototypes",
+      "desc": "Sikorsky delivered the first ground-test vehicle airframe on 4 December 2012 for fuel-system calibration and instrumented load, temperature, pressure and vibration testing, with two further static airframes tested at Stratford. A May 2013 $435M award covered four flying prototypes: the first two concentrated on structural flight loads, the third and fourth on general performance, propulsion and avionics. Engine runs without rotors began in January 2014 and the first flight followed on 27 October 2015."
+    },
+    {
+      "code": "CH-53K King Stallion",
+      "desc": "The production aircraft, named at its roll-out in May 2014 and declared to have reached initial operational capability in April 2022. It has roughly three times the CH-53E's lift in hot-and-high conditions, a fly-by-wire flight control system with haptic feedback, a glass cockpit, composite rotor blades, an elastomeric rotor hub and a wider cabin, in about the same shipboard footprint as the aircraft it replaces. 25 had been delivered by April 2026 against a programme of record of 200."
+    },
+    {
+      "code": "CH-53K Pereh (Israel)",
+      "desc": "The Israeli configuration, selected in February 2021 over the Boeing CH-47F and contracted in December 2021 for twelve aircraft to replace the Israeli Air Force's long-serving CH-53 Yasur fleet. Israel has approved early integration of its own combat systems on the aircraft, and the helicopters are to equip a reactivated 114 Squadron. Assembly of the first aircraft began in 2025, with eight of the twelve funded through a US Navy award in August 2023."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Marine Corps",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "25 delivered of 200 planned",
+      "homeBase": "MCAS New River - North Carolina"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Developmental Test Operator",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "Test aircraft with HX-21",
+      "homeBase": "NAS Patuxent River - Maryland"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Export Customer",
+      "status": "On Order",
+      "since": "2021",
+      "fleetSize": "12 on order",
+      "homeBase": "114 Squadron (reactivating) - Israel"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "H53S",
+    "howToFind": "The CH-53K shares the H53S type designator with the CH-53E, MH-53E and the civil S-80, so a type search returns the whole family rather than the K specifically. Most sightings are training sorties around MCAS New River in North Carolina, where HMH-461 and the training squadron HMHT-302 are based, plus test flying from NAS Patuxent River in Maryland and MCAS Yuma in Arizona. Operational sorties usually fly without a transponder code the site resolves."
+  },
+  "lastUpdated": "2026-09-16",
+  "changelog": [
+    {
+      "date": "2026-09-16",
+      "change": "Entry created - full article, specifications, variants, operators and programme record written from NAVAIR and Sikorsky published data, Defense News and The War Zone reporting, and Wikipedia's programme history.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "King Stallion",
+    "CH53K",
+    "S-95",
+    "Super Stallion replacement",
+    "Pereh",
+    "heavy lift",
+    "Sikorsky"
+  ],
+  "article": {
+    "overview": [
+      "The Sikorsky CH-53K King Stallion is a heavy-lift transport helicopter built for the United States Marine Corps, and the largest and heaviest helicopter in American military service. It is the newest member of the CH-53 family that has flown continuously since 1966, with three 7,500 shp General Electric T408 turboshafts, a seven-blade composite main rotor and a cabin a foot wider than its predecessor's. {{ref:wiki}} {{ref:navair}}",
+      "It first flew on 27 October 2015, the first aircraft was delivered to the Marine Corps in May 2018, and it was declared to have reached initial operational capability in April 2022. 25 had been delivered by April 2026 against a programme of record of 200, and Israel has twelve on order. {{ref:wiki}} {{ref:twz}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Marine Corps had intended to keep most of its CH-53E fleet through an upgrade programme, but that effort stalled as airframes approached their structural life limits around 2011 and 2012. Sikorsky offered a new-build aircraft instead, and in April 2006 the USMC signed an $18.8 billion contract for 156 helicopters, raised to 227 in August 2007 and eventually settled at 200. The CH-53K was to be the heavy-lift leg of a three-part rotary fleet alongside the MV-22 for medium lift and the UH-1Y for light lift. {{ref:wiki}}",
+          "Design requirements were frozen in 2009 and 2010 and the aircraft passed critical design review in August 2010, but the schedule slipped repeatedly. First flight, originally expected in 2011, did not happen until October 2015, delayed by problems with the titanium quill shafts in the transmission and gearbox. Initial operational capability, once set for 2015, moved to 2018 and then to 2022 after testing exposed engine exhaust gas reingestion, limited rotor gearbox service life, and deficiencies in the tail rotor and driveshaft. By January 2013 the programme was estimated at $23.17 billion for 200 aircraft. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The King Stallion keeps roughly the CH-53E's shipboard footprint - achieved partly with redesigned, shorter composite sponsons that cut overall width - while carrying nearly 30 percent more than the CH-53E's 27,000 lb external payload over the same 110 nautical mile radius, up to a maximum of 35,000 lb. Maximum gross weight rose from 73,500 lb to 88,000 lb. The gains come from three T408 engines rated at 7,500 shp each, a new composite rotor blade system using technology derived from the UH-60 Black Hawk, and an elastomeric rotor hub. {{ref:wiki}} {{ref:navair}}",
+          "Two changes matter more than the headline lift figures. The first is the cabin: one foot wider and 15 percent larger than the CH-53E's, it takes two 463L master pallets, so cargo arriving by C-17 or C-130 no longer has to be broken down and rebuilt to fit the helicopter. The second is the flight control system, which is fly-by-wire with active inceptors and tactile cueing, allowing automated approach and hover in zero visibility - a meaningful safety change for an aircraft whose job includes landing heavy loads in brownout conditions. The split-torque main gearbox, developed from around 2007, weighs 5,270 lb; the whole gearbox assembly including the rotor hub and rotating controls runs to about 11,650 lb. {{ref:wiki}} {{ref:vertical}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The first CH-53K was delivered to the Marine Corps on 16 May 2018, with 18 more already in production. A demonstration in March 2018 saw the aircraft lift 36,000 lb on its single centre cargo hook, the hook's maximum rating. The first simulator, a containerised flight training device, arrived at MCAS New River in May 2020, and Lt Gen Mark Wise declared initial operational capability in April 2022. HMH-461 is the first fully equipped fleet squadron, HMHT-302 the training squadron, VMX-1 at Yuma the operational test squadron and HX-21 at Patuxent River the developmental test unit. {{ref:wiki}} {{ref:twz}}",
+          "By April 2026 the fleet had passed 10,000 flight hours and 25 aircraft had been delivered, with twelve more on the production line and eight further deliveries expected before the end of that fiscal year. The type has not yet deployed: its first operational deployment is scheduled for fiscal year 2027 with the 26th Marine Expeditionary Unit, and full-rate production of 16 aircraft a year is targeted for fiscal year 2029. The CH-53E is to retire in 2032 and the MH-53E Sea Dragon in 2027. {{ref:twz}}"
+        ]
+      },
+      {
+        "heading": "Export Sales & Competitions",
+        "paragraphs": [
+          "Israel is the only export customer so far. The Israeli Air Force formalised a requirement in August 2015 to replace its CH-53 Yasur fleet, selected the CH-53K over the Boeing CH-47F in February 2021, and signed for twelve aircraft that December. Eight of them were funded through a US Navy award in August 2023 covering 35 helicopters for $2.77 billion. The Israeli aircraft are named Pereh, will carry Israeli-integrated combat systems approved for early installation, and are to equip a reactivated 114 Squadron. {{ref:wiki}} {{ref:armyrec}}",
+          "The programme's most instructive result was a loss. Sikorsky teamed with Rheinmetall in February 2018 for Germany's Schwerer Transporthubschrauber requirement, worth around four billion euros for some 40 aircraft. Germany cancelled the competition in September 2020 on cost grounds and chose the CH-47F outright in 2022, citing the Chinook's lower unit price - which allowed more airframes for the same budget - and interoperability with the Netherlands and other European operators. Belgium opened talks with NAVAIR and Sikorsky in February 2026 over roughly 11 heavy transport helicopters under a 1.3 billion euro programme aimed at service entry between 2028 and 2030, and Japan and India have been reported as possible customers. {{ref:wiki}} {{ref:armyrec}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The King Stallion's remaining problem is not capability but numbers and cost. Deliveries are running at a rate that will take well into the 2030s to reach 200 aircraft, the programme was assessed at $31 billion by the end of 2018 after its restructuring, and the September 2025 multi-year contract for up to 99 aircraft is valued at about $10.9 billion. Germany's decision to buy Chinooks instead turned specifically on the CH-53K being expensive per airframe, and that arithmetic has not changed. {{ref:wiki}} {{ref:navair-myp}}",
+          "Against that, the aircraft does something nothing else in the American inventory can. It is the only U.S. helicopter that can move a Joint Light Tactical Vehicle or 36,000 lb of cargo by air, and it does so from ships. Programme officials reported in 2026 that they were satisfied with fleet performance and were open to a future mine-countermeasures variant to fill the gap the MH-53E leaves in 2027. The first Marine Expeditionary Unit deployment in fiscal 2027 will be the first real test of whether that capability holds up away from home stations. {{ref:twz}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Sikorsky CH-53K King Stallion",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_CH-53K_King_Stallion"
+    },
+    {
+      "id": "navair",
+      "name": "CH-53K King Stallion programme page",
+      "publisher": "Naval Air Systems Command",
+      "url": "https://www.navair.navy.mil/product/CH-53K-King-Stallion"
+    },
+    {
+      "id": "navair-myp",
+      "name": "CH-53K Program Enters Multi-Year Procurement Contract with Sikorsky",
+      "publisher": "Naval Air Systems Command",
+      "url": "https://www.navair.navy.mil/news/CH-53K-Program-Enters-Multi-Year-Procurement-Contract-Sikorsky/Fri-09262025-1416"
+    },
+    {
+      "id": "twz",
+      "name": "Confidence In CH-53K King Stallion Grows Ahead Of First Operational Deployment",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/confidence-in-ch-53k-king-stallion-grows-ahead-of-first-operational-deployment"
+    },
+    {
+      "id": "vertical",
+      "name": "Meet the King",
+      "publisher": "Vertical Magazine",
+      "url": "https://verticalmag.com/features/meet-the-king/"
+    },
+    {
+      "id": "armyrec",
+      "name": "Belgium opens talks with U.S. on CH-53K King Stallion heavy transport helicopter",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/belgium-opens-talks-with-u-s-on-ch-53k-king-stallion-heavy-transport-helicopter"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "US Navy awards Sikorsky $2.7 billion for 35 CH-53K helicopters",
+      "url": "https://www.defensenews.com/air/2023/08/24/us-navy-awards-sikorsky-27-billion-for-35-ch-53k-helicopters/"
+    },
+    {
+      "name": "Marine Corps Accepts Delivery Of First CH-53K Super Stallion",
+      "url": "https://news.usni.org/2018/05/16/marine-corps-accepts-delivery-first-ch-53k-super-stallion"
+    },
+    {
+      "name": "CH-53K program enters multi-year procurement contract with GE",
+      "url": "https://www.navair.navy.mil/news/CH-53K-program-enters-multi-year-procurement-contract-GE/Thu-01082026-1616"
+    },
+    {
+      "name": "CH-53K Helicopter Achieves First Flight",
+      "url": "https://news.lockheedmartin.com/2015-10-27-CH-53K-Helicopter-Achieves-First-Flight"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2015-10-27",
+      "title": "First flight at West Palm Beach",
+      "tag": "First flight",
+      "summary": "The first prototype, Engineering Development Model-1, flew for 30 minutes from Sikorsky's Development Flight Center at West Palm Beach, Florida - four years later than originally planned, after problems with the titanium quill shafts in the transmission and gearbox.",
+      "source": "https://news.lockheedmartin.com/2015-10-27-CH-53K-Helicopter-Achieves-First-Flight"
+    },
+    {
+      "date": "2018-03-07",
+      "title": "36,000 lb lifted on the centre cargo hook",
+      "tag": "Record lift",
+      "summary": "A CH-53K lifted 36,000 lb on its single centre-point cargo hook, the maximum the hook is rated to carry and a demonstration of the payload margin over the CH-53E it replaces.",
+      "source": "https://en.wikipedia.org/wiki/Sikorsky_CH-53K_King_Stallion"
+    },
+    {
+      "date": "2018-12-19",
+      "title": "Programme restructured over test deficiencies",
+      "tag": "Programme setback",
+      "summary": "Testing found the engines reingesting their own exhaust gas, limited service life in the rotor gearboxes, late deliveries of redesigned parts, and deficiencies in the tail rotor and driveshaft. The aircraft missed its late-2019 combat readiness date and the programme, then assessed at $31 billion, was restructured.",
+      "source": "https://en.wikipedia.org/wiki/Sikorsky_CH-53K_King_Stallion"
+    },
+    {
+      "date": "2022-04-22",
+      "title": "Initial operational capability declared",
+      "tag": "Milestone",
+      "summary": "Lt Gen Mark R. Wise, Deputy Commandant for Aviation, declared initial operational capability for the CH-53K, almost four years after the first aircraft was delivered to the Marine Corps and seven years later than originally planned.",
+      "source": "https://www.defensenews.com/naval/2022/04/25/marine-corps-declares-its-heavy-lift-helicopter-operational/"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "Fleet passes 10,000 flight hours",
+      "tag": "Milestone",
+      "summary": "By late April 2026 the CH-53K fleet had flown more than 10,000 hours with 25 aircraft delivered and twelve more on the production line, ahead of a first Marine Expeditionary Unit deployment scheduled for fiscal year 2027.",
+      "source": "https://www.twz.com/air/confidence-in-ch-53k-king-stallion-grows-ahead-of-first-operational-deployment"
+    }
+  ]
+}

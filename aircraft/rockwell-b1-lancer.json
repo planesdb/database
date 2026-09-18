@@ -1,0 +1,276 @@
+{
+  "name": "B-1 Lancer",
+  "fullName": "Rockwell B-1 Lancer",
+  "manufacturer": "Rockwell",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Supersonic Long Range Bomber",
+  "tagline": "Nicknamed the 'Bone', this conventional bomber is a long-range, supersonic aircraft currently serving the United States Air Force since 1985. The B-1 Lancer remains the fastest bomber in the USAF inventory, capable of projecting power anywhere in the world to support military operations",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "The B1 Lancer remains the fastest bomber in the US Air Forces Inventory",
+    "It gets it's nickname 'The Bone' from the B-ONE phonetic pronunciation",
+    "The B1 Lancer made it's military combat debut in Iraq during Operation Desert Fox in December 1998",
+    "It is the US Air Forces sole carrier of the Long-Range Anti-Ship Missile (LRASM)",
+    "Maintenance hours for the B1 are a significant drawback for the USAF, with previous comments from engineers suggesting it takes 40+ hours of maintenance per 1 hour of flight"
+  ],
+  "specifications": {
+    "specificationsNote": "Specs are based on the B-1B variant - the most common and widely used variant",
+    "maxSpeed": {
+      "mph": 900,
+      "text": "782 kn (900 mph / 1,448 km/h / Mach 1.2 at sea level)"
+    },
+    "cruiseSpeed": "594 mph (956 km/h)",
+    "range": {
+      "miles": 5900,
+      "text": "5,900 mi (9,400 km / 5,100 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 60000,
+      "text": "60,000 ft (18,000 m)"
+    },
+    "wingspan": {
+      "ft": 137,
+      "text": "137 ft (41.8 m)"
+    },
+    "length": {
+      "ft": 146,
+      "text": "146 ft (44.5 m)"
+    },
+    "height": {
+      "ft": 34,
+      "text": "34 ft (10.4 m)"
+    },
+    "weight": "empty: 190,000 lb (86,163 kg); MTOW: 477,000 lb (216,364 kg)",
+    "engines": "Four General Electric F101-GE-102 turbofan engines with afterburner",
+    "armament": "84 500-pound Mk-82 or 24 2,000-pound  Mk-84 general purpose bombs; up to 84 500-pound Mk-62 or 8 2,000-pound Mk-65 Quick Strike naval mines; 30 cluster munitions (CBU-87, -89, -97) or 30 Wind-Corrected Munitions Dispensers (CBU-103, -104, -105); up to 24 2,000-pound GBU-31 or 15 500-pound GBU-38 Joint Direct Attack Munitions; up to 24 AGM-158A Joint Air-to-Surface Standoff Missiles; 15 GBU-54 Laser Joint Direct Attack Munitions",
+    "crew": "2 (aircraft commander, copilot, and two combat systems officers)",
+    "capacity": "6 external hardpoints for ordnance with a capacity of 50,000 lb (23,000 kg) and 3 internal bomb bays for 75,000 lb (34,000 kg) of ordnance.",
+    "firstFlight": {
+      "date": "1974-12-23",
+      "year": 1974
+    },
+    "serviceEntryDate": "1986-10-01",
+    "retiredDate": null,
+    "numberBuilt": 104,
+    "unitCost": {
+      "usd": 317000000,
+      "text": "$317M (As of September 2016 - $438M with inflation if built today)",
+      "inflationText": null
+    },
+    "combatLosses": "No documented combat losses"
+  },
+  "variants": [
+    {
+      "code": "B-1A",
+      "desc": "The B-1A was the original version of the B-1, developed as a high-speed strategic bomber capable of reaching around Mach 2.2. It featured variable engine air intakes and was intended for high-altitude penetration missions. Only four prototype aircraft were completed before the programme was cancelled."
+    },
+    {
+      "code": "B-1B",
+      "desc": "The B-1B introduced major changes to the original design, including a lower radar signature and improved low-level penetration capability. Its maximum speed was reduced to around Mach 1.25, but the aircraft gained greater survivability and conventional weapons capability. 100 production aircraft were built between 1983 and 1988."
+    },
+    {
+      "code": "B-1R",
+      "desc": "The B-1R was a proposed upgrade package for the existing B-1B fleet, announced in 2004 but never built. The concept called for more powerful F119 engines, an AESA radar and the ability to carry air-to-air missiles. These changes were intended to raise the aircraft's maximum speed to approximately Mach 2.2, although at the cost of reduced range."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "1986",
+      "fleetSize": "45 (of 100 built; 17 divested in 2021)",
+      "homeBase": "Dyess Air Force Base (AFB) - Texas"
+    },
+    {
+      "name": "Air National Guard",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1994",
+      "fleetSize": "2 bomb wings - 184th BW (McConnell AFB, Kansas, 1994-2002) and 116th BW (Robins AFB, Georgia, 1996-2002)",
+      "homeBase": "McConnell AFB, Kansas / Robins AFB, Georgia"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B1",
+    "howToFind": "The B1 Lancer rarely appears on FlightRadar24, however when it does it's typically during training flights. RAF Fairford in the UK has been known to host the 'Bone' during missions, and previously the B1 has appeared on FlightRadar24 during training flights in the area."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-08-29",
+      "change": "Entry first created by planesdb admin.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Replaced placeholder Further Reading block with real sources; corrected USAF fleet size to the post-2021 figure of 45; added the Air National Guard as a former operator.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Bone",
+    "Lancer",
+    "B1-B",
+    "Swept Wing"
+  ],
+  "article": {
+    "overview": [
+      "The B-1B Lancer, nicknamed the 'Bone', is a long-range, four-engine supersonic bomber built for the U.S. Air Force by Rockwell International, later absorbed into Boeing. It has served since 1985 and lost its nuclear mission in the mid-1990s, becoming an exclusively conventional bomber. {{ref:boeing}} {{ref:af-factsheet}}",
+      "It carries the largest conventional payload of guided and unguided weapons in the Air Force inventory and remains in combat and training use today, even as the Air Force begins retiring older airframes ahead of the B-21 Raider's expected entry into service in the 2030s. {{ref:af-factsheet}} {{ref:19fortyfive-2025}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Air Force's B-1 program began in the 1970s as a Mach 2.2 long-range bomber intended to replace the B-52. Rockwell built four B-1A prototypes, which flew in testing through the mid-1970s, but the program was canceled in 1977 before reaching production; flight testing of the existing airframes continued through 1981. {{ref:af-factsheet}}",
+          "The Reagan administration revived the program in 1981 as the improved B-1B. The redesign added structure to raise payload capacity by 74,000 pounds and cut radar cross-section by an order of magnitude, but the reworked engine inlets needed for that stealth improvement dropped the top speed from the B-1A's Mach 2.2 to Mach 1.2 - well short of the Mach 2+ speeds of contemporaries like the B-58 Hustler. {{ref:af-factsheet}} {{ref:19fortyfive-2025}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The B-1B's blended wing/body shape, variable-geometry wings and four afterburning turbofan engines balance long range, maneuverability and speed. The wings sweep forward for takeoff, landing and air refueling, and sweep aft - the primary combat setting - for high-speed flight at low and high altitude. A synthetic aperture radar tracks, targets and engages moving vehicles and supports self-targeting and terrain-following modes, backed by a GPS-aided inertial navigation system that lets crews strike precisely without ground-based navigation aids. A Link-16 data link adds secure, beyond-line-of-sight connectivity, and an ALQ-161 jammer, chaff/flare dispensers and an ALE-50 towed decoy form its defensive suite. {{ref:af-factsheet}}",
+          "The B-1B carries up to 75,000 pounds of ordnance across three internal weapons bays - the heaviest internal payload of any U.S. bomber - including Joint Direct Attack Munitions, AGM-158 JASSM and JASSM-ER standoff missiles, cluster munitions and naval mines. Newer Load Adaptable Modular pylons, developed with Boeing, let the aircraft carry hypersonic missiles alongside conventional weapons. {{ref:19fortyfive-2025}}"
+        ]
+      },
+      {
+        "heading": "Nuclear Drawdown & Conversion",
+        "paragraphs": [
+          "The Air Force eliminated the B-1B's nuclear mission in 1994, though the aircraft remained classified as a nuclear-capable heavy bomber under arms-control treaties until 2007. Conversion to a conventional-only bomber began that November under the original START treaty and finished in March 2011 under New START. {{ref:af-factsheet}}",
+          "The conversion disabled the aircraft's nuclear capability in two physical steps: welding metal sleeves into the aft pylon attachment points to block nuclear-armed cruise-missile pylons, and removing the nuclear arming cable connectors from each weapons bay so no pre-arm signal could reach a weapon. {{ref:af-factsheet}}"
+        ]
+      },
+      {
+        "heading": "Combat History & Records",
+        "paragraphs": [
+          "The B-1B first saw combat in December 1998, during Operation Desert Fox against Iraq. In 1999's Operation Allied Force over Kosovo, six B-1s delivered more than 20 percent of the total ordnance dropped while flying less than 2 percent of the combat sorties. In the first six months of Operation Enduring Freedom, eight B-1s dropped nearly 40 percent of the tonnage delivered by coalition air forces, including about 3,900 Joint Direct Attack Munitions - 67 percent of the JDAMs used. During Operation Iraqi Freedom, B-1s flew under 1 percent of combat missions while delivering 43 percent of the JDAMs dropped. {{ref:af-factsheet}}",
+          "The type holds nearly 50 world records for speed, payload, range and time-to-climb in its class. The National Aeronautic Association named one of its 1994 flights among the ten most memorable record flights of that year, and its most recent records were set in 2004. {{ref:af-factsheet}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "At Mach 1.2, the B-1B is not the fastest bomber in service: Russia's Tu-160 reaches Mach 2.05, and the subsonic B-2 and B-52H cruise at roughly Mach 0.95 and Mach 0.86. Modern air-defense systems such as Russia's S-400 and S-500 can track and engage aircraft at those speeds, so the B-1B relies on tactics and its onboard defensive systems rather than speed alone to survive contested airspace. {{ref:19fortyfive-2025}}",
+          "With its airframes now over three decades old and maintenance costs rising, the Air Force has begun retiring B-1s while upgrading the remaining fleet under programs such as the Integrated Battle Station cockpit/avionics upgrade and the addition of Link-16. The type is expected to be phased out as the stealthy B-21 Raider enters service in the 2030s, though it may continue in limited roles for a few years afterward. {{ref:19fortyfive-2025}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "boeing",
+      "name": "B-1 Lancer",
+      "publisher": "Boeing",
+      "url": "https://www.boeing.com/defense/fighters-and-bombers/b-1-lancer"
+    },
+    {
+      "id": "af-factsheet",
+      "name": "B-1B Lancer Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104500/b-1b-lancer/"
+    },
+    {
+      "id": "19fortyfive-2025",
+      "name": "The B-1B Lancer Bomber's Biggest Problem Can't Ever Be Fixed",
+      "publisher": "19FortyFive",
+      "url": "https://www.19fortyfive.com/2025/12/the-b-1b-lancer-bombers-biggest-problem-cant-ever-be-fixed/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing B-1B Lancer - aircraft on display",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198101/boeing-b-1b-lancer/"
+    },
+    {
+      "name": "Rockwell B-1 Lancer",
+      "url": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    },
+    {
+      "name": "B-1B Lancer fact sheet",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104500/b-1b-lancer/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1984-08-29",
+      "title": "First B-1 loss: prototype crash in the Mojave",
+      "tag": "Loss of control (test flight)",
+      "summary": "B-1A 74-0159 was lost on a test flight over the Mojave Desert after fuel was pumped in the wrong sequence and the centre of gravity moved too far aft. Rockwell's chief test pilot was killed when the crew escape capsule landed badly; two other crew survived.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    },
+    {
+      "date": "1987-09-28",
+      "title": "Bird strike brings down a B-1B near La Junta",
+      "tag": "Bird strike",
+      "summary": "A large bird struck the aircraft during low-level training over Colorado, severing fuel and hydraulic lines and starting a fire. Three of the six on board were killed - two of them riding in jump seats without ejection seats.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    },
+    {
+      "date": "1990-12-01",
+      "title": "Engine fires ground the B-1B fleet",
+      "tag": "Grounding",
+      "summary": "In December 1990, after two Lancers suffered in-flight engine failures and fires within weeks, the Air Force grounded its non-alert B-1Bs for more than fifty days and modified the engines fleet-wide before flying resumed in February 1991.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    },
+    {
+      "date": "1992-11-30",
+      "title": "Night training crash near Van Horn, Texas",
+      "tag": "Controlled flight into terrain",
+      "summary": "B-1B 86-0106 came down during a night sortie about 36 miles from Van Horn, killing all four crew.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    },
+    {
+      "date": "1997-09-19",
+      "title": "Training crash near Alzada, Montana",
+      "tag": "Loss of control",
+      "summary": "B-1B 85-0078 crashed while practising defensive manoeuvres, killing all four crew.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    },
+    {
+      "date": "2001-12-12",
+      "title": "Ditching in the Indian Ocean near Diego Garcia",
+      "tag": "Mechanical failure",
+      "summary": "A B-1B flying combat operations over Afghanistan suffered multiple system failures and was abandoned over the Indian Ocean. All four crew ejected and were picked up by a US Navy destroyer.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    },
+    {
+      "date": "2013-08-19",
+      "title": "Fuel leak downs a B-1B over Montana",
+      "tag": "Fuel leak / fire",
+      "summary": "B-1B 85-0091 was lost near Broadus, Montana after a fuel leak; all four crew ejected safely.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    },
+    {
+      "date": "2022-04-20",
+      "title": "Maintenance fire at Dyess Air Force Base",
+      "tag": "Ground fire",
+      "summary": "B-1B 85-0089 caught fire during maintenance at Dyess AFB in Texas. Nobody was killed, though one airman was injured by falling debris.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    },
+    {
+      "date": "2024-01-04",
+      "title": "Crash landing at Ellsworth Air Force Base",
+      "tag": "Landing accident",
+      "summary": "B-1B 85-0085 crashed while attempting to land in poor weather at Ellsworth AFB, South Dakota. All four crew ejected and survived.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+    }
+  ]
+}

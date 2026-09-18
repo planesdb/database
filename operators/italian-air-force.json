@@ -1,0 +1,22 @@
+{
+  "id": "italian-air-force",
+  "slug": "italian-air-force",
+  "name": "Italian Air Force",
+  "shortName": "AM",
+  "type": "military",
+  "country": {
+    "name": "Italy",
+    "code": "it"
+  },
+  "founded": "1946-06-18",
+  "foundedDisplay": "18 June 1946",
+  "headquarters": "Palazzo Aeronautica, Rome, Italy",
+  "logo": "italian-air-force.webp",
+  "website": null,
+  "tagline": "Europe's only operator of both F-35 variants, and the only place outside the United States where the aircraft is built.",
+  "bio": [
+    "The Aeronautica Militare took its present name and form on 18 June 1946, when the Italian republic replaced the monarchy and the wartime Regia Aeronautica was wound up. It rebuilt through NATO on American types - F-84s, F-86s, then the F-104 Starfighter, which Italy flew longer than anyone else, keeping the last F-104ASA-M interceptors in service until 2004, four decades after the type entered service.",
+    "Today it flies the Eurofighter Typhoon for air defence alongside both short take-off F-35Bs and conventional F-35As, the only European air force to operate both variants, and assembles them domestically: the Cameri plant in Piedmont is the sole F-35 final assembly line outside Fort Worth and builds airframes for other European customers as well. Italy was also the first European nation to field the Predator family, flying MQ-1s from 2004 and MQ-9s since 2010. The Frecce Tricolori, ten MB-339s of the 313th Group, fly the largest formation of any national aerobatic team."
+  ],
+  "matchPattern": "italian air force|aeronautica militare|italian armed forces"
+}

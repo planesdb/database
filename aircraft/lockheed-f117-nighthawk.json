@@ -1,0 +1,602 @@
+{
+  "name": "F-117 Nighthawk",
+  "fullName": "Lockheed F-117 Nighthawk",
+  "manufacturer": "Lockheed (Skunk Works)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers",
+    "spy-planes"
+  ],
+  "role": "Stealth Attack Aircraft",
+  "tagline": "The world's first operational stealth aircraft. Its bizarre faceted shape - a consequence of 1970s computing limits that could only calculate radar reflections from flat panels - made it nearly invisible to radar despite being aerodynamically unstable in every axis.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Developed in extraordinary secrecy from the 'Have Blue' demonstrators, the F-117 first flew at Groom Lake on 18 June 1981 and reached secret operational capability in 1983, flying from Tonopah Test Range with pilots who told families they flew A-7s. Its public debut came in 1988, followed by combat over Panama in 1989. In Desert Storm, 42 Nighthawks flew ~1,300 sorties against the most protected targets in Baghdad without a single loss. One was famously shot down over Serbia in 1999 - the only stealth aircraft ever lost in combat. Officially retired in 2008 in favour of the F-22, dozens were kept in climate-controlled storage, and F-117s still fly today as classified test and adversary-training assets over Nevada and California.",
+  "quickFacts": [
+    "Despite the 'F' designation, the F-117 carried no radar, no gun and no air-to-air capability - it was purely a bomber.",
+    "The design's radar cross-section was tested on a wooden model nicknamed the 'Hopeless Diamond' because engineers doubted it could fly.",
+    "For its first five years of service the aircraft officially did not exist, and crews flew only at night from a remote Nevada base.",
+    "In Desert Storm, F-117s were 2% of coalition strike aircraft yet hit around 40% of strategic targets in the first days.",
+    "Serbian air defenders downed one in 1999 with a 1960s-era SA-3 missile system, aided by clever tactics and the jet's brief bomb-bay-open radar flash.",
+    "Officially retired in 2008, F-117s are still regularly spotted flying stealth-threat adversary missions over the Mojave and Nevada ranges."
+  ],
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 617,
+      "text": "536 kn (617 mph / 993 km/h)"
+    },
+    "cruiseSpeed": "560 mph (901 km/h)",
+    "range": {
+      "miles": 1070,
+      "text": "1,070 mi (1,720 km) unrefuelled combat mission"
+    },
+    "serviceCeiling": {
+      "ft": 45000,
+      "text": "45,000 ft (13,700 m)"
+    },
+    "wingspan": {
+      "ft": 43.3,
+      "text": "43 ft 4 in (13.2 m)"
+    },
+    "length": {
+      "ft": 65.9,
+      "text": "65 ft 11 in (20.09 m)"
+    },
+    "height": {
+      "ft": 12.4,
+      "text": "12 ft 5 in (3.78 m)"
+    },
+    "weight": "empty: 29,500 lb (13,380 kg); MTOW: 52,500 lb (23,800 kg)",
+    "engines": "2 × General Electric F404-F1D2 non-afterburning turbofans (10,600 lbf each)",
+    "armament": "GBU-10/GBU-27 Paveway laser-guided bombs; B61 nuclear capability (never used)",
+    "crew": "1",
+    "capacity": "2 × 2,000 lb laser-guided bombs in internal bays",
+    "firstFlight": {
+      "date": "1981-06-18",
+      "year": 1981
+    },
+    "serviceEntryDate": "1983-10-15",
+    "retiredDate": "2008-04-22",
+    "numberBuilt": 64,
+    "unitCost": {
+      "usd": 42600000,
+      "text": "$42.6M flyaway unit cost (1990 dollars) - roughly $109M in 2026 dollars, adjusted for CPI inflation; program totalled $6.56B including R&D",
+      "inflationText": "≈$109M in 2026 dollars"
+    },
+    "combatLosses": "1 of 64 built - 82-0806 \"Something Wicked\", shot down over Serbia on 27 Mar 1999, the only stealth aircraft ever lost in combat. 6 further airframes were lost in training/test accidents between 1982 and 1997."
+  },
+  "variants": [
+    {
+      "code": "Have Blue",
+      "desc": "Two sub-scale proof-of-concept demonstrators flown 1977-79, both lost in accidents."
+    },
+    {
+      "code": "YF-117A",
+      "desc": "Five full-scale development aircraft."
+    },
+    {
+      "code": "F-117A",
+      "desc": "59 production aircraft flown by the 4450th Tactical Group and later the 49th Fighter Wing."
+    }
+  ],
+  "operators": [
+    {
+      "name": "US Air Force",
+      "role": "Sole Operator",
+      "status": "Retired 2008; residual test flying",
+      "since": "1983",
+      "fleetSize": "~45 in storage/test",
+      "homeBase": "Tonopah Test Range, NV",
+      "logo": "usaf.svg"
+    }
+  ],
+  "flightradar24": {
+    "trackable": false,
+    "icaoTypeCode": "F117",
+    "howToFind": "It has no civil ADS-B transponder to broadcast from, and the handful of sorties it still flies are classified test and adversary-training missions that don't publish a position for consumer trackers to pick up."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/",
+      "topicTag": "F-117"
+    },
+    {
+      "name": "The Aviationist",
+      "url": "https://theaviationist.com/",
+      "topicTag": "F-117"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "USAF flies F-117 Nighthawk as J-20 and Su-57 adversary stand-in in war games",
+      "source": "AeroNewsJournal",
+      "date": "2026-04-21",
+      "category": "Exercises",
+      "url": "https://www.aeronewsjournal.com/2026/04/usaf-deploys-f-117-nighthawk-to-hunt-j.html"
+    },
+    {
+      "title": "Forget retirement: the F-117 Nighthawk is flying missions - and maybe indefinitely",
+      "source": "19FortyFive",
+      "date": "2026-02-03",
+      "category": "Feature",
+      "url": "https://www.19fortyfive.com/2026/02/forget-retirement-the-f-117-nighthawk-stealth-fighter-is-flying-missions-and-maybe-indefinitely/"
+    },
+    {
+      "title": "US Air Force to keep retired F-117 Nighthawk stealth jets flying until 2034",
+      "source": "Army Recognition",
+      "date": "2026-01-20",
+      "category": "Reference",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/us-air-force-to-keep-retired-f-117-nighthawk-stealth-jets-flying-until-2034"
+    },
+    {
+      "title": "F-117s spotted refuelling from a KC-46 tanker over California",
+      "source": "The Aviationist",
+      "date": "2025-10-01",
+      "category": "Sightings",
+      "url": "https://theaviationist.com/2025/10/01/f-117s-refueling-from-kc-46/"
+    }
+  ],
+  "tags": [
+    "f-117",
+    "nighthawk",
+    "stealth",
+    "black jet",
+    "skunk works",
+    "lockheed",
+    "usaf",
+    "desert storm",
+    "wobblin goblin",
+    "have blue"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed F-117 Nighthawk was the world's first operational aircraft designed from the outset around stealth. Developed in near-total secrecy by Lockheed's Skunk Works, it flew in 1981, entered secret service in 1983, and was not even acknowledged to exist until 1988.{{ref:blackjet}} Its faceted, otherworldly shape - a direct consequence of what 1970s computers could and couldn't calculate - let it slip through the densest air defences on Earth and drop laser-guided bombs with then-unheard-of precision.{{ref:wiki-f117}}",
+      "Sixty-four were built. They opened the Gulf War over downtown Baghdad, suffered the only combat loss of a stealth aircraft in history over Serbia in 1999, fired the first shots of the 2003 invasion of Iraq - and then refused to properly retire, still flying classified test and training missions over the American southwest nearly two decades after their official farewell ceremony.{{ref:twz-inventory}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The F-117 owes its existence to a piece of mathematics its adversary gave away for free. In 1964 the Soviet physicist Pyotr Ufimtsev published 'Method of Edge Waves in the Physical Theory of Diffraction', a dense academic paper showing that the strength of an object's radar return is governed by the configuration of its edges, not by its size. Moscow saw no military value in it and allowed it to be translated and published openly. A decade later, Lockheed radar specialist Denys Overholser found it, and realised it was the recipe for an aircraft that radar effectively could not see.{{ref:overholser}}{{ref:wiki-f117}}",
+          "Overholser and veteran Skunk Works mathematician Bill Schroeder distilled Ufimtsev's work into ECHO-1, a computer program that could predict the radar reflection of a shape - provided that shape was built entirely from flat panels, because 1970s computing power could not handle curves. The design study that emerged in 1975 was so aggressively un-aerodynamic that Skunk Works engineers nicknamed it the 'Hopeless Diamond'.{{ref:f117sfa}}{{ref:sandboxx}}",
+          "The concept won DARPA's Experimental Survivable Testbed competition, and in 1976 Lockheed was contracted to build two sub-scale demonstrators under the code name Have Blue - assembled for roughly $35 million for the pair using parts raided from other aircraft: T-38 engines, F-16 fly-by-wire components, A-10 landing gear.{{ref:haveblue}} The first flew at Groom Lake on 1 December 1977. Both demonstrators were eventually lost in test accidents, but the data they returned settled the argument: faceted stealth worked.{{ref:haveblue}}",
+          "The two demonstrators, HB1001 and HB1002, were roughly 60% the size of the eventual F-117 and assembled largely from other programmes' parts: a pair of non-afterburning General Electric J85 turbojets, Northrop F-5 main landing gear, and an F-16 quadruple-redundant fly-by-wire system adapted to hold an aerodynamically unstable airframe straight. Both were lost in testing - HB1001 pitched up on landing in May 1978 with its gear jammed half-retracted, and HB1002 suffered a hydraulic-line fire in July 1979; both pilots ejected, and neither loss was made public for years. The data they returned first shaped the production aircraft's shallower wing sweep and outward-canted fins.{{ref:haveblue}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Full-scale development was approved on 1 November 1978 under the program name Senior Trend, led by Skunk Works chief Ben Rich. Just 31 months later, on 18 June 1981, the first YF-117A lifted off from Groom Lake, Nevada - an airfield the U.S. government wouldn't formally acknowledge for another three decades.{{ref:tdia}}{{ref:lockheed}}",
+          "Five test aircraft and 59 production jets followed, the last delivered on 3 July 1990.{{ref:wiki-f117}} The type reached initial operating capability in October 1983 with the 4450th Tactical Group at Tonopah Test Range - and then simply vanished into its own cover story. On paper the unit flew A-7 Corsairs. Pilots commuted from Las Vegas by weekly charter flight, told their families they flew utility jets, and flew the Black Jet only at night, inside a security bubble unmatched since the Manhattan Project.{{ref:tonopah}}",
+          "Secrecy had a body count. Two pilots died in nighttime crashes in 1986 and 1987 that the Air Force could not honestly explain, cordoning off the wreckage of aircraft that did not officially exist.{{ref:crash-secrets}} By late 1988 the program was too big to hide, and on 10 November the Pentagon released a single deliberately unflattering photograph, ending a decade of 'F-19' speculation. The fleet moved in daylight to Holloman AFB, New Mexico, in 1992.{{ref:blackjet}}",
+          "Five YF-117A development aircraft, 780 to 784, bridged proof of concept to weapon system. The first flew on 18 June 1981 and immediately exposed handling problems that forced further fly-by-wire revision; 780 and 781 stayed aerodynamic testbeds while 782 to 784, crewed by the self-styled \"Baja Scorpions\", carried full mission avionics. Wing sweep came back from Have Blue's 72.5 degrees to 67.5 and the tail fins moved from an inward tilt to the outward cant every later Nighthawk carried. The first production airframe, 785, crashed on take-off on 20 April 1982, badly injuring Lockheed test pilot Bob Riedenauer.{{ref:wiki-f117}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Every strange line of the F-117 is a radar decision wearing an airplane costume. Flat facets scatter more than 99% of incoming radar energy away from its source, giving a radar cross-section of roughly 0.001 square metres - the signature of a small ball bearing on a scope, carried by a 20-metre-long bomber.{{ref:wiki-f117}}{{ref:natmuseum}} Nearly a ton of radar-absorbent material was glued over the airframe, applied with a putty crews affectionately called 'butter'.{{ref:wiki-f117}}",
+          "The aerodynamic price was severe: the F-117 is unstable in pitch, roll and yaw simultaneously, and is only flyable at all through quadruple-redundant fly-by-wire controls adapted from the F-16 - earning the early nickname 'Wobblin' Goblin', which its pilots insist it never deserved.{{ref:wiki-f117}} Two General Electric F404 turbofans, deliberately fitted without afterburners, exhaust through narrow 'platypus' slots that mix hot gases with cold air to smother the jet's infrared signature.{{ref:natmuseum}}",
+          "Just as remarkable is what the 'fighter' lacks: no radar (a radar is a beacon), no gun, no air-to-air weapons, and firmly subsonic speed. Navigation and attack ran through inertial guidance and two internal infrared sensor turrets with laser designators, feeding avionics borrowed from the F-16, F/A-18 and B-52.{{ref:wiki-f117}} Two internal bays carried up to 5,000 lb of ordnance - classically a pair of 2,000 lb laser-guided bombs.{{ref:natmuseum}}",
+          "Even the name is a piece of misdirection. Project chief Alan Brown recalled that General Robert J. Dixon reasoned the elite pilots the program needed would be easier to recruit to an 'F-for-fighter' than an 'A-for-attack' jet, and '117' simply followed the radio call-sign conventions used for classified aircraft over Nevada - when Lockheed printed 'F-117A' on the cover of the first flight manual, the designation stuck.{{ref:wiki-f117}} Saudi crews in 1991 gave it a better name: 'Shaba' - ghost.",
+          "Behind the faceting sat a conventional strike fit: forward- and downward-looking infrared turrets with a laser designator, an IBM navigation and attack computer, and two internal bays cleared for laser-guided bombs up to 2,000 lb. The 59 production aircraft were organised into three squadrons of the 4450th Tactical Group at Tonopah, the second and third standing up in July 1983 and October 1985, before the fleet moved to the 49th Fighter Wing at Holloman in 1992.{{ref:tonopah}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The Nighthawk's combat debut was modest: during the December 1989 invasion of Panama, two F-117s dropped bombs beside a barracks at Rio Hato as a stun-and-confuse measure - a mission whose muddled results drew as much criticism as praise.{{ref:wapo-panama}}{{ref:twz-panama}}",
+          "Its defining hour came thirteen months later. On the opening night of Operation Desert Storm, F-117s were the only coalition aircraft sent against targets in downtown Baghdad - by most accounts the most heavily defended piece of sky in the world. Over 43 nights, 42 Nighthawks flew roughly 1,300 sorties against some 1,600 high-value targets, around 40% of the strategic target list, despite making up only about 2% of coalition strike aircraft - and came home without a scratch.{{ref:strike-stealth}}{{ref:wiki-f117}} Wartime claims of 80% bombing accuracy were later revised down to 41-60% by postwar analysis, but the psychological effect was total: stealth had changed air war permanently.{{ref:wiki-f117}}",
+          "The campaign also produced the type's darkest night. On 13 February 1991, two F-117 laser-guided bombs pierced the Amiriyah shelter in Baghdad, which U.S. planners had assessed as a military command post; more than 400 civilians sheltering inside were killed.{{ref:wiki-f117}}",
+          "On 27 March 1999, during the Kosovo campaign, the myth of invisibility broke. A Serbian S-125 'Neva' battery of the 250th Air Defence Missile Brigade, commanded by Colonel Zoltan Dani, caught F-117 'Something Wicked' (call sign Vega 31) at the moment its bomb bay doors spoiled its stealth shaping, and put a 1960s-vintage missile into it from about 13 kilometres away. Pilot Lt Col Dale Zelko ejected and was pulled out by an Air Force pararescue team six hours later; the wreckage went to the Belgrade Aviation Museum, and reportedly onward - in samples - to Russia and China.{{ref:shootdown-wiki}}{{ref:aviationist-1999}} It remains the only stealth aircraft ever lost in combat.",
+          "The F-117 fired the opening shots of one more war: on 20 March 2003, two Nighthawks dropped bunker-busting EGBU-27s on the Dora Farms complex outside Baghdad in an attempt to kill Saddam Hussein in the war's first minutes. Intelligence later showed he had left hours earlier.{{ref:wiki-f117}}"
+        ]
+      },
+      {
+        "heading": "Retirement",
+        "paragraphs": [
+          "In December 2005, Program Budget Decision 720 proposed retiring the fleet by October 2008, freeing an estimated $1.07 billion to buy more F-22 Raptors - the aircraft that had inherited its mission with twice the speed and none of the compromises.{{ref:wiki-f117}} The first six jets made their final flight on 12 March 2007 after a ceremony at Holloman, and the fleet stood down in waves until 22 April 2008.{{ref:holloman}}",
+          "But the Nighthawks never went to the boneyard. Congress required that they be kept recallable, so most were placed in 'Type 1000' climate-controlled storage in their original hangars at Tonopah - wings removed, systems preserved - an honour extended to no other retired U.S. type.{{ref:wiki-f117}}",
+          "Then, quietly, they kept flying. Photographed over the Nevada and California ranges year after year, the jets serve as stealth targets for radar development and as low-observable 'red air' adversaries - the U.S. Air Force only formally acknowledged the flights in 2021, thirteen years after retirement.{{ref:twz-inventory}} Since then F-117s have appeared with experimental mirror-like coatings, deployed to Alaska for exercise Northern Edge in 2023, and were photographed refuelling from a KC-46 tanker over Los Angeles in 2025. Current plans call for demilitarising just two or three airframes a year until 2034 - meaning the fighter that retired in 2008 will have kept flying for a quarter-century afterwards.{{ref:twz-inventory}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "For its first decade the F-117 existed mostly as a rumour, and popular culture rushed to fill the vacuum. In 1986 the Testor Corporation released a sleek, curved 'F-19 Stealth Fighter' model kit that became one of the best-selling plastic kits in history and prompted questions in Congress about how a $9.95 toy had apparently scooped the Pentagon's biggest secret - despite looking nothing whatsoever like the real jet.{{ref:natint-f19}}{{ref:mentalfloss-f19}} Tom Clancy flew a fictional 'F-19A Ghostrider' in Red Storm Rising, and MicroProse turned the phantom into the definitive flight simulators F-19 Stealth Fighter and, once the truth was out, F-117A Nighthawk Stealth Fighter 2.0 - for a generation of PC pilots, the Black Jet was their first cockpit.{{ref:mobygames}}",
+          "The 1999 shootdown produced one of aviation's great codas. In 2011, Dale Zelko travelled to Serbia to meet Zoltan Dani - by then a village baker - and the two men, later joined by their families, became genuine friends. Their reconciliation is the subject of the 2013 documentary The Second Meeting.{{ref:military-zelko}}{{ref:secondmeeting}}",
+          "The Nighthawk's deeper legacy is airborne everywhere today: the B-2, F-22, F-35 and every stealth aircraft since flies on lessons the faceted jet proved over Baghdad. Fifteen airframes are now on public display across the United States - and one, in pieces, in Belgrade. See the Survivors tab to find the one nearest you."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f117",
+      "name": "Lockheed F-117 Nighthawk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk"
+    },
+    {
+      "id": "overholser",
+      "name": "Stealth Pioneer Denys Overholser, Whose Work Led to the F-117, Dies at 86",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/denys-overholser-stealth-pioneer-whose-work-led-to-the-f-117-dies-at-86/"
+    },
+    {
+      "id": "f117sfa",
+      "name": "F-117 Development",
+      "publisher": "F-117 Stealth Fighter Association",
+      "url": "https://www.f117sfa.org/f117-development"
+    },
+    {
+      "id": "sandboxx",
+      "name": "The Air Force made Lockheed's Skunk Works design a stealth pole",
+      "publisher": "Sandboxx News",
+      "url": "https://www.sandboxx.us/news/the-air-force-made-lockheeds-skunk-works-design-a-stealth-pole/"
+    },
+    {
+      "id": "haveblue",
+      "name": "Lockheed Have Blue",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Have_Blue"
+    },
+    {
+      "id": "tdia",
+      "name": "18 June 1981: First flight of the Lockheed F-117A",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/18-june-1981/"
+    },
+    {
+      "id": "lockheed",
+      "name": "F-117 Nighthawk",
+      "publisher": "Lockheed Martin",
+      "url": "https://www.lockheedmartin.com/en-us/news/features/history/f-117.html"
+    },
+    {
+      "id": "tonopah",
+      "name": "The Secret Doings at Tonopah",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0193tonopah/"
+    },
+    {
+      "id": "crash-secrets",
+      "name": "When Secrets Crash",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0701crash/"
+    },
+    {
+      "id": "blackjet",
+      "name": "The Black Jet",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0790blackjet/"
+    },
+    {
+      "id": "natmuseum",
+      "name": "Lockheed F-117A Nighthawk",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198056/lockheed-f-117a-nighthawk/"
+    },
+    {
+      "id": "wapo-panama",
+      "name": "'Stealth' Plane Used in Panama",
+      "publisher": "The Washington Post, 24 Dec 1989",
+      "url": "https://www.washingtonpost.com/archive/politics/1989/12/24/stealth-plane-used-in-panama/6e4157ad-df55-46b1-8ff5-beffb0340f9a/"
+    },
+    {
+      "id": "twz-panama",
+      "name": "The Legendary F-117 Nighthawk First Went To War 36 Years Ago Today",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/the-legendary-f-117-nighthawk-first-went-to-war-36-years-ago-today"
+    },
+    {
+      "id": "strike-stealth",
+      "name": "A Strike by Stealth",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0392stealth/"
+    },
+    {
+      "id": "shootdown-wiki",
+      "name": "1999 F-117A shootdown",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1999_F-117A_shootdown"
+    },
+    {
+      "id": "aviationist-1999",
+      "name": "25 Years Ago Today: A US F-117 Stealth Jet Is Shot Down Over Serbia",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2024/03/27/25-years-ago-today-an-u-s-f-117-stealth-jet-shot-down-over-serbia/"
+    },
+    {
+      "id": "holloman",
+      "name": "F-117A Nighthawk to Be Honored at Retirement Ceremony",
+      "publisher": "Holloman Air Force Base",
+      "url": "https://www.holloman.af.mil/Article-Display/Article/318524/f-117a-nighthawk-to-be-honored-at-retirement-ceremony/"
+    },
+    {
+      "id": "twz-inventory",
+      "name": "51 F-117 Nighthawk Stealth Jets Remain In Inventory, None Destroyed Since 2008",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/29606/51-f-117-nighthawk-stealth-jets-remain-in-inventory-only-one-destroyed-in-last-two-years"
+    },
+    {
+      "id": "natint-f19",
+      "name": "The F-19 Fighter Never Was: But a Model Kit Still Worried Lawmakers",
+      "publisher": "The National Interest",
+      "url": "https://nationalinterest.org/blog/buzz/f-19-fighter-never-was-model-kit-still-worried-lawmakers-212325"
+    },
+    {
+      "id": "mentalfloss-f19",
+      "name": "The '80s Toy That Was Considered a Threat to National Security",
+      "publisher": "Mental Floss",
+      "url": "https://www.mentalfloss.com/fun/toys/toy-considered-threat-to-national-security"
+    },
+    {
+      "id": "mobygames",
+      "name": "F-117A Nighthawk Stealth Fighter 2.0 (1991)",
+      "publisher": "MobyGames",
+      "url": "https://www.mobygames.com/game/655/f-117a-nighthawk-stealth-fighter-20/"
+    },
+    {
+      "id": "military-zelko",
+      "name": "How an Air Force Pilot Became Friends with the Man Who Shot Down His F-117",
+      "publisher": "Military.com",
+      "url": "https://www.military.com/military-life/how-air-force-pilot-became-friends-man-who-shot-down-his-f-117.html"
+    },
+    {
+      "id": "secondmeeting",
+      "name": "The Second Meeting (2013)",
+      "publisher": "IMDb",
+      "url": "https://www.imdb.com/title/tt2558556/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Lockheed F-117 Nighthawk - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk"
+    },
+    {
+      "name": "1999 F-117A shootdown - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1999_F-117A_shootdown"
+    },
+    {
+      "name": "Lockheed Martin Skunk Works",
+      "url": "https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks.html"
+    },
+    {
+      "name": "The Black Jet (program cost breakdown)",
+      "url": "https://www.airandspaceforces.com/article/0790blackjet/"
+    },
+    {
+      "name": "F-117A Nighthawk Losses and Accidents",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/f-117-losses.htm"
+    }
+  ],
+  "survivors": {
+    "intro": "Of 64 Nighthawks built, most still sit wings-off in climate-controlled storage at Tonopah - but these airframes are on public display. Serials in the 79-10xxx range are YF-117A test aircraft; the rest are production jets, listed with the nose art names they carried in service.",
+    "airframes": [
+      {
+        "serial": "79-10780",
+        "name": null,
+        "location": "Nellis AFB (pedestal display at main gate)",
+        "place": "Las Vegas, Nevada",
+        "note": "YF-117A test aircraft; gate guardian since 1992",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "79-10781",
+        "name": null,
+        "location": "National Museum of the U.S. Air Force",
+        "place": "Dayton, Ohio",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198056/lockheed-f-117a-nighthawk/",
+        "note": "The definitive collection, free to visit, with a YF-117A displayed alongside the SR-71 and B-2.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "79-10782",
+        "name": null,
+        "location": "Holloman AFB static display",
+        "place": "Alamogordo, New Mexico",
+        "note": "YF-117A; at the type's longtime operational home",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "79-10783",
+        "name": null,
+        "location": "Air Force Flight Test Museum, Edwards AFB",
+        "place": "Edwards, California",
+        "note": "YF-117A 'Scorpion 4'; under restoration",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "80-0785",
+        "name": null,
+        "location": "Skunk Works monument, Lockheed Martin Palmdale",
+        "place": "Palmdale, California",
+        "note": "Displayed where the type was built",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "81-0794",
+        "name": "Delta Dawn",
+        "location": "Museum of Aviation, Robins AFB",
+        "place": "Warner Robins, Georgia",
+        "note": "Arrived May 2023",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "82-0799",
+        "name": "Midnight Rider",
+        "location": "Hill Aerospace Museum",
+        "place": "Roy, Utah",
+        "note": "",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "82-0803",
+        "name": "Unexpected Guest",
+        "location": "Ronald Reagan Presidential Library",
+        "place": "Simi Valley, California",
+        "url": "https://www.reaganfoundation.org/library-museum/permanent-exhibits/f-117-nighthawk-stealth-fighter",
+        "note": "“Unexpected Guest” flew more combat missions than any other F-117, restored and hung as if still flying.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "82-0806",
+        "name": "Something Wicked",
+        "location": "Museum of Aviation, Belgrade",
+        "place": "Belgrade, Serbia",
+        "note": "The actual jet Serbian air defences shot down in 1999, displayed largely as recovered.",
+        "featured": true,
+        "countryCode": "rs",
+        "country": "Serbia"
+      },
+      {
+        "serial": "84-0810",
+        "name": "Dark Angel",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona",
+        "note": "On display since November 2024",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "85-0813",
+        "name": "The Toxic Avenger",
+        "location": "Castle Air Museum",
+        "place": "Atwater, California",
+        "note": "",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "85-0816",
+        "name": "Lone Wolf",
+        "location": "Evergreen Aviation & Space Museum",
+        "place": "McMinnville, Oregon",
+        "note": "Shares a hall with the Spruce Goose",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "85-0817",
+        "name": "Shaba",
+        "location": "Air Zoo Aerospace & Science Museum",
+        "place": "Kalamazoo, Michigan",
+        "note": "Named for the Arabic 'ghost'; restored 2022",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "85-0819",
+        "name": "Raven Beauty",
+        "location": "Stafford Air & Space Museum",
+        "place": "Weatherford, Oklahoma",
+        "note": "On display since July 2024",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "85-0831",
+        "name": null,
+        "location": "Strategic Air Command & Aerospace Museum",
+        "place": "Ashland, Nebraska",
+        "url": "https://www.sacmuseum.org/visit/exhibit/f-117-nighthawk/",
+        "note": "Flew the type's final official sortie, April 2008",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-06-20",
+      "change": "Entry created: full specifications, variants, operators, incidents, timeline and Flightradar24 details.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-06-27",
+      "change": "Deep-dive Overview article added with numbered references and expanded development history.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-01",
+      "change": "Gallery photos and the surviving-airframes list added.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-04",
+      "change": "Validation pass: specs, dates and source links re-checked against current references.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current (Oct 2025-Apr 2026) sightings and exercise coverage.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed status field to the standard \"Retired\" value (was a long free-text string causing an oversized status badge). The 2008 retirement date and continued adversary test flying are already covered by retiredDate and quickFacts.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1986-07-11",
+      "title": "Fatal CFIT near Bakersfield",
+      "summary": "An F-117A crashed near Bakersfield, California after the pilot became spatially disoriented and flew into terrain, killing him.",
+      "fatalities": 1,
+      "tag": "Training accident",
+      "source": "https://www.warhistoryonline.com/aircraft/f-117-nighthawk-crash-1986.html"
+    },
+    {
+      "date": "1987-10-14",
+      "title": "Second fatal crash, inside the Nellis range",
+      "tag": "Night training accident",
+      "summary": "Major Michael C. Stewart was killed when his F-117A came down on the Nellis range at night. The programme was still secret, so the Air Force could confirm little beyond the pilot's name - the second fatal loss in fifteen months.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk"
+    },
+    {
+      "date": "1992-08-04",
+      "title": "Post-takeoff crash near Holloman AFB",
+      "summary": "An F-117A suffered an uncommanded roll and caught fire shortly after takeoff near Holloman Air Force Base, New Mexico, and crashed, killing the pilot.",
+      "fatalities": 1,
+      "tag": "Mechanical failure",
+      "source": "https://www.globalsecurity.org/military/systems/aircraft/f-117-losses.htm"
+    },
+    {
+      "date": "1997-09-14",
+      "title": "Structural breakup near Baltimore",
+      "summary": "An F-117A broke apart in flight near Baltimore, Maryland, en route to an air show, after a support-assembly structural failure caused by missing fasteners. The pilot ejected safely.",
+      "fatalities": 0,
+      "tag": "Mechanical failure",
+      "source": "https://aviation-safety.net/wikibase/142017"
+    },
+    {
+      "date": "1999-03-27",
+      "title": "'Vega 31' shot down over Serbia",
+      "summary": "An F-117A was hit by a Serbian surface-to-air missile near Novi Sad while returning from a bombing mission near Belgrade — the only stealth aircraft ever shot down in combat. The pilot ejected and was rescued within about six hours.",
+      "fatalities": 0,
+      "tag": "Combat loss",
+      "source": "https://theaviationist.com/2014/03/27/vega-31-shot-down/"
+    }
+  ]
+}

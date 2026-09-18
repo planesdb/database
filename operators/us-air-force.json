@@ -1,0 +1,22 @@
+{
+  "id": "us-air-force",
+  "slug": "us-air-force",
+  "name": "United States Air Force",
+  "shortName": "USAF",
+  "type": "military",
+  "country": {
+    "name": "United States",
+    "code": "us"
+  },
+  "founded": "1947-09-18",
+  "foundedDisplay": "18 September 1947",
+  "headquarters": "The Pentagon, Arlington, Virginia",
+  "logo": "usaf.webp",
+  "website": "https://www.af.mil",
+  "tagline": "Split off from the Army in 1947 as its own service, the USAF now flies one of the largest and most varied military aircraft fleets on Earth.",
+  "bio": [
+    "The United States Army Air Forces became an independent service - the US Air Force - on 18 September 1947 under the National Security Act, ending three decades of military aviation operating as an arm of the Army. It grew directly out of that Army Air Forces lineage, which itself traced back to the Army Signal Corps' first aeroplane in 1907, and it inherited that organisation's WWII bomber and fighter fleets almost wholesale at the moment of independence.",
+    "The USAF's mission spans strategic bombing, air superiority, airlift, aerial refuelling, reconnaissance and space operations, and its fleet reflects that breadth - from B-52 bombers that have been in continuous service since the 1950s to F-22 and F-35 stealth fighters, C-17 and C-130 transports, U-2 and RQ-4 reconnaissance platforms, and a large tanker and drone fleet. With thousands of aircraft in service across active-duty, Air National Guard and Air Force Reserve units, it remains the world's largest air arm by most measures."
+  ],
+  "matchPattern": "united states air force|\\busaf\\b|united states army air force|\\bus air force\\b"
+}

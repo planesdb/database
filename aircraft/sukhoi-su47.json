@@ -1,0 +1,277 @@
+{
+  "name": "Su-47 Berkut",
+  "fullName": "Sukhoi Su-47 Berkut",
+  "manufacturer": "Sukhoi",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Forward-Swept Wing Technology Demonstrator",
+  "tagline": "The Sukhoi Su-47 Berkut is a Russian experimental fighter built to fly a forward-swept wing at fighter speeds and sizes. Exactly one was built, it first flew on 25 September 1997, and it never entered production - but its composite wing and its internal weapons bay went on to shape the Su-57.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "Only one was ever built, and Sukhoi largely paid for it: state funding stopped when the Soviet Union collapsed and the design bureau carried the programme itself.",
+    "A forward-swept wing twists as it bends, so it tries to tear itself off at speed. The fix was carbon-fibre skins deliberately laid up to twist the opposite way to the load.",
+    "It borrowed the forward fuselage, vertical tails and landing gear of the Su-27 family to keep the cost of a one-off airframe down.",
+    "'Berkut' is the golden eagle; NATO gave it the reporting name 'Firkin'.",
+    "The demonstrator is reported to have been held to around Mach 1.6 against a Mach 2.2 design figure - the forward-swept wing's real advantage was transonic, not supersonic, which is a large part of why nobody built a production one.",
+    "It carried prototypes of the Su-57's internal weapons bay, and its composite wing work fed both the Su-57 and the MS-21 airliner."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures follow Wikipedia's specification table, the only internally consistent published set - other sources vary widely (globalmilitary.net gives a 15.2 m span, a 35,000 kg MTOW and Mach 2.5, and an empty weight far too low to reconcile with either). The maximum speed is a design figure: the demonstrator is reported to have been restricted to about Mach 1.6 in testing, its fixed-geometry intakes ruling out more.",
+    "maxSpeed": {
+      "mph": 1367,
+      "text": "1,188 kn (1,367 mph / 2,200 km/h)"
+    },
+    "cruiseSpeed": "Not published as a flown figure - the quoted design cruise is 1,118 mph (1,800 km/h)",
+    "range": {
+      "miles": 2051,
+      "text": "2,051 mi (3,300 km)"
+    },
+    "serviceCeiling": {
+      "ft": 59000,
+      "text": "59,000 ft (18,000 m)"
+    },
+    "wingspan": {
+      "ft": 54.75,
+      "text": "54 ft 9 in (16.7 m)"
+    },
+    "length": {
+      "ft": 74.17,
+      "text": "74 ft 2 in (22.6 m)"
+    },
+    "height": {
+      "ft": 21,
+      "text": "21 ft 0 in (6.4 m)"
+    },
+    "weight": "empty: 56,593 lb (25,670 kg); MTOW: 74,957 lb (34,000 kg)",
+    "engines": "2 x Aviadvigatel (Soloviev) D-30F afterburning turbofans of the MiG-31 family, 34,000 lbf (153 kN) each with afterburner; two- and three-dimensional thrust-vectoring nozzles were planned for testing",
+    "armament": "None carried. The design provided for an internal weapons bay and wingtip, underwing and conformal stations for R-77, R-73, Kh-29 and Kh-31 class weapons, but the demonstrator was never armed",
+    "crew": "1",
+    "capacity": "Flight test instrumentation and, from the mid-2000s, a centre-fuselage internal weapons bay carried to support the PAK FA programme",
+    "firstFlight": {
+      "date": "1997-09-25",
+      "year": 1997
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": null,
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - a single privately funded prototype that was never offered for sale, built after state funding for the programme stopped in the early 1990s",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "S-32 / S-37",
+      "desc": "The internal Sukhoi designations the aircraft carried through design and construction, following earlier work begun in 1983 under the code S-22. It was rolled out and first flown under the S-37 designation in September 1997, and made its public debut as the S-37 at the MAKS air show in 1999. No airframe other than the single demonstrator was completed under any of these designations."
+    },
+    {
+      "code": "Su-47 Berkut",
+      "desc": "The same single aircraft, renamed around the turn of the 2000s and shown under the new designation at MAKS 2001. The change reflected its move from a notional Su-27 successor to an openly acknowledged experimental testbed, and it is the name the aircraft has carried ever since. It remains the only Su-47 built."
+    },
+    {
+      "code": "PAK FA testbed configuration",
+      "desc": "Not a separate airframe but the mid-2000s modification that mattered most to what came next: a centre-fuselage internal weapons bay fitted to the demonstrator to support the fifth-generation fighter programme Sukhoi had won in May 2002. The arrangement fed directly into the Su-57's weapons integration, alongside the aircraft's composite wing and digital flight control work."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Sukhoi Design Bureau",
+      "role": "Sole Operator (manufacturer flight test)",
+      "status": "Retired",
+      "since": "1997",
+      "fleetSize": "1 - the only Su-47 built, flown by the bureau's own test pilots and never handed to a military operator",
+      "homeBase": "Zhukovsky, Moscow Oblast"
+    },
+    {
+      "name": "Soviet Air Forces (VVS)",
+      "role": "Intended Operator",
+      "status": "Cancelled",
+      "since": "1983",
+      "fleetSize": "0 - the 1983 requirement that started the programme never became an order, and state funding stopped after the Soviet Union dissolved",
+      "homeBase": "None - no aircraft was ever delivered"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Not trackable. The single Su-47 is no longer airworthy and is kept at Zhukovsky, south-east of Moscow, so it never appears on a live tracker. The only realistic way to see it is a static display at the MAKS air show, where it appeared in 1999, 2001, 2007 and again in 2019 after twelve years out of public view."
+  },
+  "lastUpdated": "2026-09-12",
+  "changelog": [
+    {
+      "date": "2026-09-12",
+      "change": "Entry created - full article, specifications, variants and programme log written from Wikipedia, Airforce Technology, Army Recognition, The Aviationist, The National Interest and MiGFlug.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Su-47",
+    "Su47",
+    "Berkut",
+    "S-37",
+    "S-32",
+    "Firkin",
+    "forward swept wing",
+    "Sukhoi",
+    "technology demonstrator",
+    "experimental fighter"
+  ],
+  "article": {
+    "overview": [
+      "The Sukhoi Su-47 Berkut is a Russian single-seat experimental fighter, built as a technology demonstrator for a forward-swept wing at fighter size and fighter speeds. It first flew on 25 September 1997 with Sukhoi test pilot Igor Votintsev at the controls, and exactly one was built. {{ref:wiki-su47}} {{ref:armyrecognition}}",
+      "It never entered production and was never intended to. What it was for was proving technologies, and the ones that worked went into other aircraft: the composite wing construction, the digital flight controls and the internal weapons bay it carried in the mid-2000s all fed the fifth-generation fighter programme that became the Su-57. {{ref:nationalinterest}} {{ref:armyrecognition}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The programme began in 1983 with a Soviet Air Force order, initially as a modernisation path for the Su-27, and ran through a sequence of internal designations - S-22, then S-32, then S-37 - before the aircraft acquired the name it is known by. Mikhail Pogosyan led the design, and the aircraft was conceived in the same period and the same bureau that produced the thrust-vectoring Su-37, whose tandem-triple canard layout it shares. {{ref:wiki-su47}} {{ref:armyrecognition}} {{ref:nationalinterest}}",
+          "The Soviet Union dissolved before anything flew, and state funding for the project froze with it. Sukhoi carried on and largely paid for the aircraft itself, which is why only one was completed and why it took until September 1997 to fly - fourteen years after the order that started it. {{ref:wiki-su47}} {{ref:globalmilitary}}"
+        ]
+      },
+      {
+        "heading": "Why a Forward-Swept Wing",
+        "paragraphs": [
+          "A wing swept forward rather than back moves the airflow inboard rather than outboard, so the wing root stalls before the tips do. That leaves the ailerons working at high angles of attack when a conventional swept wing has already lost them, and it buys a higher lift-to-drag ratio, tighter turning performance and better subsonic range. For a dogfighter, those are exactly the right properties. {{ref:airforce-tech}} {{ref:wiki-su47}}",
+          "The penalty is structural, and it is severe. Forward sweep produces higher bending moments, and as the wing bends upward it also twists to a higher angle of incidence, which increases the lift, which increases the bending - a runaway loop called aeroelastic divergence that ends with the wing failing at a speed a conventional wing would shrug off. Metal wings strong enough to resist it are too heavy to be worth having, which is why nobody built a forward-swept fighter until composites made it possible. Forward sweep also brings a tendency toward severe and often unrecoverable stall instability, which is part of why the aircraft needed a sophisticated fly-by-wire system simply to stay controllable. The Su-47 was not the first aircraft to attempt the idea - Grumman's X-29 had flown a composite forward-swept wing in the 1980s - but it applied it at fighter size and fighter weight rather than on a research airframe. {{ref:wiki-su47}} {{ref:nationalinterest}} {{ref:migflug}}"
+        ]
+      },
+      {
+        "heading": "Composites & Construction",
+        "paragraphs": [
+          "The answer was to make the wing's twist work against the load instead of with it. The skins were laid up so that the fibres resist the specific twisting the bending produces, turning the material's directional stiffness into the structural fix. The wing panels are close to 90 percent composite, and composites account for about 13 percent of the airframe by weight, the rest being aluminium and titanium alloys. {{ref:airforce-tech}} {{ref:wiki-su47}}",
+          "Around that wing the aircraft is a deliberate assembly of existing parts and new geometry. The forward fuselage, vertical tails and landing gear come from the Su-27 family, keeping the cost of a one-off airframe down. The layout is a tandem-triple arrangement - canards ahead of the wings, tailplanes behind - and two tailbooms of unequal length sit outboard of the exhaust nozzles, the longer one carrying a rearward-facing radar installation and a braking chute. Leading-edge root extensions blend into wing panels fitted with deflectable slats, flaps and ailerons, and the fuselage has an oval cross-section with a slightly flattened nose radome shaped for anti-spin behaviour. The pilot sits on a Zvezda K-36DM ejection seat. {{ref:wiki-su47}} {{ref:airforce-tech}} {{ref:globalmilitary}}"
+        ]
+      },
+      {
+        "heading": "Flight Test",
+        "paragraphs": [
+          "Igor Votintsev took the aircraft up for the first time on 25 September 1997. It was shown publicly as the S-37 at MAKS in 1999, initial flight trials ran to December 2001, and by MAKS 2001 it was appearing under the Su-47 name. Power came from two Aviadvigatel D-30F afterburning turbofans from the MiG-31's engine family, rated at 34,000 lbf each in afterburner, with two- and three-dimensional thrust-vectoring nozzles planned but not fitted. On paper the aircraft was formidable in the regime it was built for: a 9g limit, a climb rate of 233 m/s and a thrust-to-weight ratio of about one at maximum takeoff weight, with stability and control claimed at all angles of attack and extremely high agility subsonically. {{ref:armyrecognition}} {{ref:nationalinterest}} {{ref:airforce-tech}} {{ref:wiki-su47}}",
+          "The test programme stayed conservative. Published performance puts the design maximum at Mach 2.21, but the aircraft is reported to have been restricted to roughly Mach 1.6 in envelope expansion, its fixed-geometry intakes ruling out more regardless of what the engines could do. That gap matters, because the forward-swept wing's advantage is concentrated at transonic speeds while an aft-swept wing is the better arrangement supersonically - the demonstrator was fastest exactly where its wing had least to offer. {{ref:migflug}} {{ref:wiki-su47}}"
+        ]
+      },
+      {
+        "heading": "Feeding the Su-57",
+        "paragraphs": [
+          "In May 2002 Sukhoi became prime contractor for PAK FA, the Russian fifth-generation fighter programme, and the Su-47's usefulness shifted from proving its own wing to proving parts for somebody else's aircraft. From the mid-2000s it flew with a centre-fuselage internal weapons bay - the arrangement a stealth fighter needs and the Flanker family had never had - alongside early digitised avionics that went on to the new fighter. Carrying weapons inside the airframe rather than under it is the single change that most constrains a stealth fighter's shape, and it was not something any Sukhoi had done before; having a flying aircraft to fit one to, rather than a drawing, was worth more to the programme than the Berkut's own wing ever was. The aircraft also provided data used to refine thrust vectoring on later Sukhoi designs. {{ref:airforce-tech}} {{ref:nationalinterest}}",
+          "The forward-swept wing did not make the transition. PAK FA, which became the Su-57, was built around a conventional planform, and the Berkut's contribution was the composite wing manufacturing, the flight control work and the weapons bay rather than the configuration that made it famous. The same composite technology also went into the MS-21 airliner. {{ref:airforce-tech}} {{ref:armyrecognition}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The aircraft appeared at MAKS in 2007 and then dropped out of sight for twelve years, until it was towed out of storage to the static park at Zhukovsky on 26 August 2019 for MAKS-2019 - a genuine surprise to the photographers there, and the first good look anyone had had at it in over a decade. It is no longer airworthy and remains at Zhukovsky. {{ref:aviationist-maks2019}} {{ref:migflug}}",
+          "It is worth being straight about what a single demonstrator achieves. The Su-47 did not lead to a forward-swept fighter anywhere, and on the question its shape was built to answer the verdict went against it. What it did do was carry a set of technologies far enough that a production programme could use them, which is the job a flying laboratory exists to do - and the composite wing and weapons bay in today's Su-57 are the return on it. {{ref:nationalinterest}} {{ref:airforce-tech}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-su47",
+      "name": "Sukhoi Su-47",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-47"
+    },
+    {
+      "id": "airforce-tech",
+      "name": "Su-47 (S-37 Berkut) Golden Eagle Fighter",
+      "publisher": "Airforce Technology",
+      "url": "https://www.airforce-technology.com/projects/s37/"
+    },
+    {
+      "id": "armyrecognition",
+      "name": "Russian Su-47 Berkut fighter jet marks 25 years",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/focus-analysis-conflicts/air/aviation-defence-industry-technology/russian-su-47-berkut-fighter-jet-marks-25-years"
+    },
+    {
+      "id": "aviationist-maks2019",
+      "name": "MAKS 2019 Surprise Appearance: The Mysterious Sukhoi Su-47 Berkut Re-emerges",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2019/08/27/maks-2019-surprise-appearance-the-mysterious-sukhoi-su-47-berkut-re-emerges/"
+    },
+    {
+      "id": "nationalinterest",
+      "name": "Why Russia's Su-47 Berkut Was a Flying Fighter Laboratory",
+      "publisher": "The National Interest",
+      "url": "https://nationalinterest.org/blog/reboot/why-russias-su-47-berkut-was-flying-fighter-laboratory-210196"
+    },
+    {
+      "id": "migflug",
+      "name": "Sukhoi Su-47 Berkut - History, Specs & Stories",
+      "publisher": "MiGFlug",
+      "url": "https://migflug.com/aircraft/su-47-berkut/"
+    },
+    {
+      "id": "globalmilitary",
+      "name": "Su-47 'Berkut' Firkin: Combat Aircraft Specs, Top Speed & Range",
+      "publisher": "GlobalMilitary.net",
+      "url": "https://www.globalmilitary.net/aircraft/su-47-berkut/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Sukhoi Su-32/37/47 Berkut (Golden Eagle) Technology Demonstrator Aircraft",
+      "url": "https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=783"
+    },
+    {
+      "name": "Su-47 - experimental aircraft with forward-swept wing",
+      "url": "https://ruavia.su/su-47-experimental-aircraft-with-forward-swept-wing/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1997-09-25",
+      "title": "First flight",
+      "tag": "Programme milestone",
+      "summary": "Sukhoi test pilot Igor Votintsev flew the aircraft for the first time from Zhukovsky, fourteen years after the 1983 order that started the programme and six years after state funding for it stopped.",
+      "fatalities": 0,
+      "source": "https://www.armyrecognition.com/focus-analysis-conflicts/air/aviation-defence-industry-technology/russian-su-47-berkut-fighter-jet-marks-25-years"
+    },
+    {
+      "date": "2001-12-01",
+      "title": "Initial flight trials completed; aircraft renamed Su-47",
+      "tag": "Programme milestone",
+      "summary": "Initial flight trials finished in December 2001. By its MAKS 2001 appearance earlier that year the aircraft had been renamed from S-37 to Su-47 and was being presented as an experimental testbed rather than a prospective fighter; it had made its public debut as the S-37 at MAKS in 1999.",
+      "source": "https://www.airforce-technology.com/projects/s37/"
+    },
+    {
+      "date": "2002-05-01",
+      "title": "Sukhoi wins PAK FA and the Berkut's role changes",
+      "tag": "Programme milestone",
+      "summary": "Sukhoi became prime contractor for the PAK FA fifth-generation fighter programme, which dropped the forward-swept wing entirely. The Su-47 was redirected to proving components for it, and from the mid-2000s flew with a centre-fuselage internal weapons bay of the kind the new fighter would need.",
+      "source": "https://www.airforce-technology.com/projects/s37/"
+    },
+    {
+      "date": "2019-08-26",
+      "title": "Towed out of storage for MAKS-2019",
+      "tag": "Public appearance",
+      "summary": "The aircraft was towed from storage to the static display area at Zhukovsky ahead of MAKS-2019, its first public appearance since MAKS 2007 and a surprise to the photographers present. It is no longer airworthy.",
+      "source": "https://theaviationist.com/2019/08/27/maks-2019-surprise-appearance-the-mysterious-sukhoi-su-47-berkut-re-emerges/"
+    }
+  ],
+  "survivors": {
+    "intro": "There is only one Su-47 and it still exists. The sole airframe is kept at Zhukovsky, south-east of Moscow, where it was built and flown; it is not airworthy, and it is seen publicly only when it is wheeled out for the MAKS air show.",
+    "airframes": [
+      {
+        "serial": "'01' (sole airframe)",
+        "name": "Berkut",
+        "location": "Zhukovsky Airfield (Gromov Flight Research Institute)",
+        "place": "Zhukovsky, Moscow Oblast, Russia",
+        "url": "https://theaviationist.com/2019/08/27/maks-2019-surprise-appearance-the-mysterious-sukhoi-su-47-berkut-re-emerges/",
+        "note": "The only Su-47 built. Kept in storage on the airfield and displayed at MAKS in 1999, 2001, 2007 and 2019 - the 2019 outing being its first in twelve years.",
+        "featured": true,
+        "countryCode": "ru",
+        "country": "Russia"
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "name": "Gotha G.IV",
+  "fullName": "Gothaer Waggonfabrik G.IV",
+  "manufacturer": "Gothaer Waggonfabrik",
+  "originCountry": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "WWI Heavy Strategic Bomber",
+  "tagline": "The twin-engine German giant that carried out the first sustained strategic bombing campaign against a civilian population. Flying in formations of up to 20 aircraft from occupied Belgium, it struck London and southeast England through 1917 and 1918, forcing Britain to divert fighter squadrons home from the Western Front.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Developed by Gothaer Waggonfabrik as a successor to the earlier G.II and G.III bombers, the G.IV introduced a distinctive 'tunnel' in the fuselage that allowed the rear gunner to fire downward and to the rear without the tail structure blocking his field of fire, closing a dangerous blind spot that earlier pusher-engine bomber designs suffered from. It entered service in early 1917 with Kagohl 3 (renamed Bogohl 3), the dedicated 'England Squadron' based at airfields in occupied Belgium, and flew its first major daylight raid on London on 13 June 1917, killing 162 people including 18 children at a primary school in a single bomb strike - the deadliest single air raid of the war on Britain. Mounting RAF fighter defences and anti-aircraft fire forced the Gothas to switch to night bombing by autumn 1917, and although less accurate, the raids continued to spread panic through London, with thousands sheltering nightly in Underground stations. The Gotha raids, though militarily limited in the damage they inflicted compared to WWII bombing campaigns, had an outsized strategic effect: they were a major factor in Britain's decision to form the Royal Air Force as an independent service in April 1918 and to build dedicated home-defence fighter squadrons and anti-aircraft networks - the direct ancestor of Fighter Command's air defence system used in the Battle of Britain 23 years later.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 87,
+      "text": "76 kn (87 mph / 140 km/h)"
+    },
+    "cruiseSpeed": "~75 mph (120 km/h)",
+    "range": {
+      "miles": 522,
+      "text": "522 mi (840 km)"
+    },
+    "serviceCeiling": {
+      "ft": 21000,
+      "text": "21,000 ft (6,400 m)"
+    },
+    "wingspan": {
+      "ft": 77.75,
+      "text": "77 ft 9 in (23.7 m)"
+    },
+    "length": {
+      "ft": 40.33,
+      "text": "40 ft 4 in (12.4 m)"
+    },
+    "height": {
+      "ft": 14.1,
+      "text": "14 ft 1 in (4.3 m)"
+    },
+    "weight": "empty: 5,280 lb (2,395 kg); loaded: 8,745 lb (3,967 kg)",
+    "engines": "2 x Mercedes D.IVa 6-cylinder inline engines, 260 hp each",
+    "armament": "Up to 1,100 lb (500 kg) of bombs; 2-3 x defensive 7.92 mm Parabellum MG14 machine guns in nose and dorsal/tunnel positions",
+    "crew": "3 (pilot, bombardier/nose gunner, rear gunner)",
+    "capacity": "Bomb load of up to 1,100 lb (500 kg), carried externally and internally",
+    "firstFlight": {
+      "date": "1916-12-01",
+      "year": 1916
+    },
+    "serviceEntryDate": "1917-03-01",
+    "retiredDate": "1918-11",
+    "numberBuilt": 230,
+    "unitCost": {
+      "usd": 15000,
+      "text": "~$15,000 wartime unit cost (roughly 40,000 Reichsmarks at contemporary exchange rates) - roughly $394,000 in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$394,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "G.IV",
+      "desc": "The definitive production version featuring the ventral 'tunnel' gun position that eliminated the rear blind spot of earlier Gothas."
+    },
+    {
+      "code": "G.V",
+      "desc": "Refined successor with a strengthened fuselage structure and improved nacelles, used alongside the G.IV through 1918."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Luftstreitkräfte (Imperial German Air Service), Bogohl 3",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1917",
+      "fleetSize": "~230 built",
+      "homeBase": "Sint-Denijs-Westrem and Gontrode airfields, occupied Belgium"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No complete original Gotha G.IV survives anywhere in the world; only fragments and a partial fuselage remain in museum storage, and no flying reproduction currently exists."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Imperial War Museums News",
+      "url": "https://www.iwm.org.uk/rss",
+      "topicTag": "Gotha raids heritage"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Best Show Winner: Greg Hahn's Gotha G.IV bomber (video interview)",
+      "source": "Model Airplane News",
+      "date": "2020-02-25",
+      "category": "Reference",
+      "url": "https://www.modelairplanenews.com/best-show-winner-greg-hahn-gotha-g-iv-bomber-video-interview/"
+    }
+  ],
+  "tags": [
+    "gotha g.iv",
+    "strategic bomber",
+    "wwi bomber",
+    "world war 1",
+    "london blitz 1917",
+    "german air service",
+    "bogohl 3",
+    "heavy bomber",
+    "night bombing"
+  ],
+  "quickFacts": [
+    "The Gotha daylight raids on London in 1917 killed more civilians than Zeppelins ever managed - and triggered the political storm that created the Royal Air Force.",
+    "The 13 June 1917 raid killed 162 Londoners including 18 children in a Poplar school - the deadliest air raid on Britain of the entire war.",
+    "'Gotha' became the generic British word for any German bomber, the way 'Hoover' means vacuum cleaner.",
+    "More Gothas were destroyed in landing accidents than by British defences - its landing characteristics were notoriously lethal.",
+    "The raids forced Britain to pull fighter squadrons back from France and build an integrated air-defence system - the direct ancestor of the one that won the Battle of Britain."
+  ],
+  "article": {
+    "overview": [
+      "The Gotha G.IV is a German twin-engine biplane bomber built by Gothaer Waggonfabrik and used to bomb London during the First World War. From May 1917 it flew daylight formation raids over England, one of the first sustained strategic bombing campaigns against a civilian population.{{ref:wiki-gotha}}",
+      "Around 230 were built. The raids killed relatively few people but caused widespread panic, prompting Britain to recall fighter squadrons from France, build an integrated air-defence system, and, in April 1918, form the Royal Air Force - the world's first independent air force.{{ref:iwm-gotha}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Germany's strategic bombing arm began the war riding hydrogen: Zeppelins raided England from 1915, but by 1916 Britain's incendiary-armed night fighters were burning them out of the sky. The Luftstreitkräfte's answer was the Grossflugzeug - the 'large aeroplane' - and Gothaer Waggonfabrik's G-series matured, by the G.IV of late 1916, into a machine specifically shaped for one mission: England.{{ref:wiki-gotha}}",
+          "Operation Türkenkreuz ('Turk's Cross') was the plan{{ref:wiki-turkenkreuz}} - daylight formation raids on London from bases in occupied Belgium - and the G.IV its instrument: three crew, two pusher Mercedes engines, and the ceiling and armament to make interception, in 1917, close to hopeless.{{ref:wiki-gotha}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The G.IV's cleverest feature pointed backwards: the 'Gotha tunnel', an open channel through the rear fuselage letting the gunner fire downward and astern - covering the blind spot beneath the tail where every fighter of the era preferred to attack. Pilots who dove in from below, expecting safety, met a machine gun; the trick killed enough of them to become legend.{{ref:wiki-gotha}}",
+          "Otherwise it was honest wartime engineering: a 78-foot biplane of wood, fabric and plywood, up to ~500 kg of bombs for London (more on shorter runs), crew stations open to a freezing slipstream at 15,000+ feet - altitudes demanding oxygen the crews rarely had. Its true weakness waited at home: nose-heavy with tanks empty, the Gotha was notoriously lethal to land, and more were lost to landing accidents than to British defences.{{ref:iwm-gotha}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The daylight campaign of May-August 1917 was the Gotha's high summer: Folkestone, then London twice, formations of twenty droning up the Thames in diamond formation while defences flailed. The 13 June raid remains the deadliest single air raid on Britain of the entire war - and not one Gotha fell to the defenders that day.{{ref:wiki-gotha}}",
+          "Britain's response built the future: fighter squadrons pulled home, the London Air Defence Area integrating guns, balloons, and interceptors under one command{{ref:wiki-ladefence}}, and - when massed defences finally made daylight suicidal by September - the Gothas switched to the war's first sustained night-bomber campaign, pioneering everything from blackout Britain to the 'Harvest Moon' raid sequences of 1917-18.{{ref:iwm-gotha}}",
+          "Attrition told, as it always does against defended capitals: of the sixty-odd Gothas lost on England raids, most crashed on landing rather than to enemy action, and the campaign wound down in May 1918 with London's defences - not Germany's bombers - the lasting military creation.{{ref:wiki-gotha}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Around 230 G.IVs were built (some under licence by LVG), succeeded by the longer-legged G.V family that carried the night campaign; Austria-Hungary flew licence-built examples against Italy. The type's production story is modest - it was the doctrine, not the airframe count, that mattered.{{ref:wiki-gotha}}",
+          "Not one Gotha bomber survives anywhere: postwar destruction under the Versailles treaty erased the fleet so completely that the aircraft that changed air power exists today only in photographs, fragments and museum replicas - an absence that itself says something about how seriously the victors took it.{{ref:iwm-gotha}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Gotha raids are where strategic air power's whole debate begins: the first demonstration that a capital's civilians were targets, the first public panic and shelter culture, the first integrated air-defence system - and the direct cause of the Royal Air Force, created in April 1918 explicitly because of what the Gothas had shown. Every argument about bombing cities for the next century footnotes the summer of 1917.{{ref:iwm-gotha}}",
+          "The word outlived the machine: for a generation of Britons 'Gotha' meant bomber the way 'Zeppelin' had meant airship. Britain's air-defence response to the raids reshaped its air power more than the raids themselves ever did.{{ref:iwm-gotha}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-gotha",
+      "name": "Gotha G.IV",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gotha_G.IV"
+    },
+    {
+      "id": "iwm-gotha",
+      "name": "The First Blitz: Gotha raids on London",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/history/the-first-blitz"
+    },
+    {
+      "id": "wiki-turkenkreuz",
+      "name": "Operation Türkenkreuz",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_T%C3%BCrkenkreuz"
+    },
+    {
+      "id": "wiki-ladefence",
+      "name": "London Air Defence Area",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/London_Air_Defence_Area"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Gotha G.IV",
+      "url": "https://en.wikipedia.org/wiki/Gotha_G.IV"
+    },
+    {
+      "name": "Imperial War Museums - The Gotha Raids on Britain",
+      "url": "https://www.iwm.org.uk/history/the-gotha-raids-of-the-first-world-war"
+    },
+    {
+      "name": "Royal Air Force Museum - Origins of the RAF and home defence",
+      "url": "https://www.rafmuseum.org.uk/research/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard, and trimmed narrative \"waffle\" from section-body prose - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1917-08-18",
+      "title": "Forced landing and fatal test-flight crash",
+      "summary": "A Gotha G.IV made a forced landing in the Netherlands after a propeller failure, then crashed on its first test flight after repair.",
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/Gotha_G.IV"
+    },
+    {
+      "date": "1917-08-22",
+      "title": "Shot down near Manston",
+      "summary": "During the 'First Battle of Britain' daylight raid, a Gotha G.IV was shot down by a Sopwith Camel pilot near Manston after its engine caught fire and the aircraft broke apart in the air. All three crew were killed.",
+      "fatalities": 3,
+      "tag": "Combat loss",
+      "source": "https://www.manstonhistory.org.uk/first-battle-britain-gotha-raid-22nd-august-1917/"
+    },
+    {
+      "date": "1917-08-22",
+      "title": "Ditched off Margate",
+      "summary": "On the same raid, a second Gotha G.IV was shot down and crashed into the sea off Margate. Two crew were killed and the gunner was rescued and taken prisoner.",
+      "fatalities": 2,
+      "tag": "Combat loss",
+      "source": "https://www.manstonhistory.org.uk/first-battle-britain-gotha-raid-22nd-august-1917/"
+    }
+  ]
+}

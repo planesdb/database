@@ -1,0 +1,19 @@
+{
+  "id": "qantas",
+  "slug": "qantas",
+  "name": "Qantas",
+  "shortName": "QF",
+  "type": "commercial",
+  "country": { "name": "Australia", "code": "au" },
+  "founded": "1920-11-16",
+  "foundedDisplay": "16 November 1920",
+  "headquarters": "Mascot, Sydney, New South Wales, Australia",
+  "logo": "qantas.png",
+  "website": "https://www.qantas.com",
+  "tagline": "The Flying Kangaroo - founded in outback Queensland in 1920 and now the world's oldest continuously operating airline still flying under its original name.",
+  "bio": [
+    "Qantas began on 16 November 1920 as the Queensland and Northern Territory Aerial Services, carrying mail and passengers between remote outback towns in war-surplus biplanes. That acronym became one of aviation's most famous names, and the airline one of its great long-haul pioneers: the Kangaroo Route to London, flying boats across the Empire, and in the jet age a fleet built around the Boeing 747, which served Qantas for half a century.",
+    "As Australia's flag carrier, Qantas has specialised in some of the longest routes on Earth - it operated the A380 on trunk routes to Los Angeles and London from 2008, and its Project Sunrise plans aim at non-stop Sydney-to-London flights. The airline is equally known for its safety reputation and for the red-and-white kangaroo tail that has marked Australian aviation on six continents."
+  ],
+  "matchPattern": "qantas"
+}

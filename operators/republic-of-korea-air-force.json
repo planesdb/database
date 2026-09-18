@@ -1,0 +1,22 @@
+{
+  "id": "republic-of-korea-air-force",
+  "slug": "republic-of-korea-air-force",
+  "name": "Republic of Korea Air Force",
+  "shortName": "ROKAF",
+  "type": "military",
+  "country": {
+    "name": "South Korea",
+    "code": "kr"
+  },
+  "founded": "1949-10-01",
+  "foundedDisplay": "1 October 1949",
+  "headquarters": "Gyeryongdae, South Chungcheong Province, South Korea",
+  "logo": "rokaf.webp",
+  "website": null,
+  "tagline": "Went to war nine months after it was founded, with no combat aircraft of its own, and now builds its own fighter.",
+  "bio": [
+    "The ROKAF was established on 1 October 1949 with a couple of dozen liaison and trainer aircraft and nothing that could fight. When the North invaded on 25 June 1950 it had to be armed in a matter of days: the first F-51D Mustangs were handed over at Taegu that July and flown by Korean pilots almost immediately, some of whom had converted onto the type in a week. F-86F Sabres followed from 1955 and the service spent the Cold War as one of the most heavily equipped air arms in Asia, facing an opponent a few minutes' flying time away.",
+    "That proximity still drives it. The modern force flies F-35As, F-15Ks and a large fleet of KF-16s, backed by an indigenous industry that grew out of licence assembly into design: Korea Aerospace Industries built the T-50 supersonic trainer, now exported widely, and flew the KF-21 Boramae fighter for the first time in July 2022. The Black Eagles display team flies the T-50B."
+  ],
+  "matchPattern": "republic of korea air force|\\brokaf\\b"
+}

@@ -1,0 +1,340 @@
+{
+  "name": "A6M Zero",
+  "fullName": "Mitsubishi A6M Zero",
+  "manufacturer": "Mitsubishi Heavy Industries",
+  "originCountry": {
+    "name": "Japan",
+    "code": "jp"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Carrier-Based Fighter",
+  "tagline": "The long-range carrier fighter that dominated the early Pacific War. Designed by Jiro Horikoshi around extreme weight-saving, it combined very long range, a tight turning radius and heavy cannon armament, making it the most capable carrier fighter in the world when it appeared in 1940.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Mitsubishi began design work in 1937 to meet an Imperial Japanese Navy requirement for a carrier fighter combining long range, high speed and exceptional maneuverability - specifications so demanding that rival Nakajima withdrew from the competition. Chief engineer Jiro Horikoshi met them by aggressively minimizing weight, using a new aluminum alloy called Extra Super Duralumin and omitting armor and self-sealing tanks. The prototype first flew on 1 April 1939, and the type entered service in July 1940, first seeing combat over China later that year, where it dominated outdated Soviet-built fighters. At the time of Pearl Harbor in December 1941, some 521 Zeros were in front-line service, and the type's range and agility let Japanese carrier and land-based air groups project power far beyond what Allied planners had thought possible, contributing to a string of early Japanese victories across the Pacific and Southeast Asia. Allied pilots initially avoided turning fights with the nimble Zero and instead developed energy tactics such as the Thach Weave and 'boom and zoom' diving attacks, first used to notable effect at the Battle of Midway in June 1942; the arrival of more powerful, better-protected fighters such as the F6F Hellcat, F4U Corsair and P-38 Lightning from 1943 onward gradually eroded the Zero's early advantage, while the loss of experienced Japanese aircrew in the Solomons and Marianas campaigns compounded the decline. Mitsubishi and Nakajima together built 10,939 Zeros - more than any other Japanese combat aircraft of the war - continually upgrading armament and, in late variants, adding armor and self-sealing tanks. In the war's final year, as Japan's position collapsed, many late-production and war-weary Zeros were adapted for kamikaze (special attack) missions against Allied ships, a role that reflected Japan's dwindling supply of trained pilots and aircraft rather than the type's original design intent. The Zero was retired with Japan's surrender in September 1945; today roughly a few dozen airframes survive worldwide, a handful restored to flying condition, in the collections of museums and warbird operators.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 331,
+      "text": "288 kn (331 mph / 533 km/h)"
+    },
+    "cruiseSpeed": "207 mph (333 km/h)",
+    "range": {
+      "miles": 1160,
+      "text": "1,160 mi (1,870 km) combat range; up to 1,930 mi (3,100 km) ferry range with drop tank"
+    },
+    "serviceCeiling": {
+      "ft": 33000,
+      "text": "33,000 ft (10,000 m)"
+    },
+    "wingspan": {
+      "ft": 39.3,
+      "text": "39 ft 4 in (12.0 m)"
+    },
+    "length": {
+      "ft": 29.75,
+      "text": "29 ft 9 in (9.06 m)"
+    },
+    "height": {
+      "ft": 10,
+      "text": "10 ft 0 in (3.05 m)"
+    },
+    "weight": "empty: 3,704 lb (1,680 kg); loaded: 6,164 lb (2,796 kg)",
+    "engines": "1 x Nakajima Sakae 12 radial piston engine (940 hp / 700 kW), later variants used Sakae 21 (1,130 hp)",
+    "armament": "2 x 7.7mm Type 97 machine guns, 2 x 20mm Type 99 cannon, plus up to 2 x 60kg bombs or 1 x 250kg bomb (later kamikaze loadout)",
+    "crew": "1",
+    "capacity": "N/A - single-seat fighter",
+    "firstFlight": {
+      "date": "1939-04-01",
+      "year": 1939
+    },
+    "serviceEntryDate": "1940-07-01",
+    "retiredDate": "1945-09-02",
+    "numberBuilt": 10939,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - historical wartime production cost is not meaningfully convertible to modern USD"
+    }
+  },
+  "variants": [
+    {
+      "code": "A6M2 Model 11/21",
+      "desc": "First production version with folding wingtips for carrier storage; the type that fought at Pearl Harbor and across the early Pacific campaigns."
+    },
+    {
+      "code": "A6M2-N 'Rufe'",
+      "desc": "Nakajima-built floatplane fighter derivative for operations without airstrips or carriers."
+    },
+    {
+      "code": "A6M3 Model 32/22",
+      "desc": "Fitted with the more powerful two-speed-supercharged Sakae 21 engine; Model 32 had squared, non-folding clipped wings for speed at the cost of range."
+    },
+    {
+      "code": "A6M5 Model 52",
+      "desc": "Widely regarded as the most effective variant, with redesigned exhaust stacks for added thrust and strengthened, non-folding wings; later sub-variants (5a/5b/5c) added heavier-caliber guns and armor."
+    },
+    {
+      "code": "A6M7",
+      "desc": "Final operational dive-bomber/attack variant with a reinforced airframe, used for both conventional attack and kamikaze missions in 1945."
+    },
+    {
+      "code": "A6M2-K",
+      "desc": "Two-seat trainer conversion built by Hitachi and the Sasebo Naval Air Arsenal."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Imperial Japanese Navy Air Service",
+      "role": "Sole Wartime Operator (historical)",
+      "status": "Retired",
+      "since": "1940",
+      "fleetSize": "10,939 built (historical)",
+      "homeBase": "Carrier air groups and land bases across the Pacific theater"
+    },
+    {
+      "name": "Planes of Fame Air Museum",
+      "role": "Flying Warbird Operator",
+      "status": "Preserved/Airworthy",
+      "since": "1978",
+      "fleetSize": "1 (original-engine A6M5)",
+      "homeBase": "Chino, California, USA"
+    },
+    {
+      "name": "Commemorative Air Force",
+      "role": "Warbird Operator",
+      "status": "Preserved/Airworthy",
+      "since": "2000s",
+      "fleetSize": "1-2 (A6M3/replica airframes)",
+      "homeBase": "Various CAF wings, USA"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "ZERO",
+    "howToFind": "No wartime Zeros remain in military service, so the only aircraft appearing on Flightradar24 are the handful of restored, ADS-B-equipped warbirds flying at air shows and museum events in the United States and Japan; look for civil warbird registrations near Chino, California (Planes of Fame) or at major air show circuits."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Vintage Aviation News",
+      "url": "https://vintageaviationnews.com/feed",
+      "topicTag": "A6M Zero"
+    },
+    {
+      "name": "Warbirds News",
+      "url": "https://warbirdsnews.com/feed",
+      "topicTag": "Zero"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Restored 83-year-old A6M3 Zero flies again after decades-long restoration",
+      "source": "The Aviationist",
+      "date": "2025-05-16",
+      "category": "Restoration",
+      "url": "https://theaviationist.com/2025/05/16/restored-83-year-old-a6m3-zero-flies-again/"
+    }
+  ],
+  "tags": [
+    "a6m",
+    "zero",
+    "zeke",
+    "reisen",
+    "mitsubishi",
+    "world war ii",
+    "wwii",
+    "japanese fighter",
+    "carrier fighter",
+    "imperial japanese navy",
+    "warbird",
+    "pearl harbor"
+  ],
+  "quickFacts": [
+    "In 1941-42 the Zero achieved kill ratios reported as high as 12-to-1 - Allied pilots were ordered never to dogfight one.",
+    "Its extraordinary range and agility came from having no armour and no self-sealing fuel tanks - a trade that became fatal once Allied tactics caught up.",
+    "The 'Akutan Zero', recovered nearly intact in Alaska in 1942, was test-flown by the US Navy and unlocked the type's weaknesses within months.",
+    "Zero pilots invented nothing less than the fuel-management long-range fighter mission - cruising at 115 knots on lean mixtures to escort raids 1,000 miles round trip.",
+    "By 1944 the same aircraft had become the primary kamikaze platform - the first organised attacks were flown by Zeros with 250 kg bombs.",
+    "Fewer than a handful still fly, and only one with its original Sakae engine."
+  ],
+  "article": {
+    "overview": [
+      "The Mitsubishi A6M Zero is a Japanese single-engine, carrier-based fighter built by Mitsubishi and designed by Jiro Horikoshi. Its long range and manoeuvrability came from an aggressive weight-saving design that omitted armour and self-sealing fuel tanks.{{ref:wiki-zero}}",
+      "It dominated Allied fighters for the first year of the Pacific War, prompting Allied pilots to be ordered never to dogfight one. Once Allied tactics adapted to exploit its lack of protection, its advantage eroded and Japan had no adequate successor ready.{{ref:wiki-zero}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The 1937 Imperial Navy specification read like a dare: a carrier fighter faster than 500 km/h, more manoeuvrable than the beloved A5M it replaced, with two cannon and drop-tank range beyond anything flying. Nakajima studied it and declined as impossible. Mitsubishi's 34-year-old Jiro Horikoshi{{ref:wiki-horikoshi}} accepted - on the condition that every gram be negotiable.{{ref:wiki-zero}}",
+          "His answer flew on 1 April 1939: a fighter weighing barely 1,700 kg empty, built from Sumitomo's brand-new 'extra super duralumin' alloy, with flush rivets, a bubble-style canopy years ahead of Western practice, and no armour of any kind. The Navy typed it A6M - and because it entered service in the imperial year 2600, it became the Type 0 carrier fighter: the Zero.{{ref:wiki-zero}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Zero's magic numbers came from subtraction. With under 1,000 hp it achieved what 1,500-hp Western fighters couldn't, because it carried nothing it could survive without: wing spars lightened to their limits, no pilot armour, unprotected fuel. Full-span attention to weight yielded a wing loading so low the Zero could turn inside anything - and a ferry range near 1,900 miles that let it appear where no single-engined fighter had business being.{{ref:wiki-zero}}",
+          "The same lightness that made the Zero dangerous early in the war made it vulnerable later on. Unprotected tanks meant it could burn after a single hit, the lack of armour meant every hit counted, and its light structure set a dive-speed ceiling Allied fighters learned to exploit by simply diving away. The design had no growth margin left either - more engine, guns or protection would have broken the weight arithmetic that made it work.{{ref:wiki-zero}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "Over China from 1940 the Zero was untouchable - one early engagement saw Zeros destroy an entire opposing formation without loss - and from Pearl Harbor through mid-1942 it swept the Pacific: Allied fighter forces in the Philippines, Malaya and the Dutch East Indies were shredded by pilots of the elite prewar carrier corps flying an aircraft nothing could match on its own terms.{{ref:wiki-zero}}",
+          "The turn came fast. Midway killed carriers and, worse, irreplaceable airmen; Allied pilots adopted energy tactics and the paired 'Thach Weave'; and new American fighters - the F6F Hellcat above all, designed with Akutan Zero data on the table{{ref:wiki-akutan}} - arrived in overwhelming numbers. By the Marianas battles of 1944, outclassed Zeros flown by hastily trained replacements fell in the hundreds.{{ref:wiki-zero}}",
+          "The end was the darkest chapter: from Leyte Gulf in October 1944, Zeros became the primary aircraft of the kamikaze campaign - the fighter that had defined Japanese air power converted into a guided weapon, expended along with the last of its pilots.{{ref:wiki-zero}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Japan built more Zeros than any of its other aircraft - some 10,900 by Mitsubishi and Nakajima - but never solved its dilemma: successive A6M3/A6M5 variants clipped wings for speed and thickened skins for diving, trading away the agility that was the type's whole argument, while true successors (the A7M among them) died in development, prototype stage or the B-29 fire raids.{{ref:wiki-zero}}",
+          "The Zero fought from the war's first day to its last, an increasingly outdated 1939 design facing far more advanced 1945 opponents.{{ref:wiki-zero}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "For roughly its first eighteen months in service the Zero's lightness made it the most dangerous fighter in the Pacific; for the rest of the war, the same design choices - no armour, no self-sealing tanks - made it increasingly vulnerable.{{ref:wiki-zero}}",
+          "Culturally it never faded: the definitive symbol of the Pacific War in Japan (Horikoshi's story reached global audiences through Miyazaki's 'The Wind Rises'), and a treasured rarity everywhere - only a handful of Zeros survive, and fewer still fly, their radial growl the rarest sound at any warbird gathering.{{ref:nasm-zero}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-zero",
+      "name": "Mitsubishi A6M Zero",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero"
+    },
+    {
+      "id": "wiki-akutan",
+      "name": "Akutan Zero",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Akutan_Zero"
+    },
+    {
+      "id": "nasm-zero",
+      "name": "Mitsubishi A6M5 Reisen (Zero Fighter)",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/mitsubishi-a6m5-reisen-zero-fighter-model-52-zeke/nasm_A19600335000"
+    },
+    {
+      "id": "wiki-horikoshi",
+      "name": "Jiro Horikoshi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jiro_Horikoshi"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "National Air and Space Museum - Mitsubishi A6M5 Reisen (Zero Fighter) Model 52 ZEKE",
+      "url": "https://airandspace.si.edu/collection-objects/mitsubishi-a6m5-reisen-zero-fighter-model-52-zeke/nasm_A19600335000"
+    },
+    {
+      "name": "National Museum of the USAF - Mitsubishi A6M2 Zero",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196313/mitsubishi-a6m2-zero/"
+    },
+    {
+      "name": "Planes of Fame Air Museum - Mitsubishi A6M5 'Zeke'",
+      "url": "https://planesoffame.org/aircraft/plane-A6M5"
+    },
+    {
+      "name": "Naval Encyclopedia - Mitsubishi A6M Zero 'Zeke'",
+      "url": "https://naval-encyclopedia.com/naval-aviation/ww2/japan/mitsubishi-a6m-zero.php"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed hero photo credit mismatch - heroCredit now matches the actually-displayed photo.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Added a survivors section - this type has well-documented preserved/airworthy examples but the field was previously missing, an inconsistency versus similar WWII/Cold War-era entries elsewhere in the database.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "survivors": {
+    "intro": "Only a handful of Zeros survive with original Japanese engines still installed, most captured and evaluated by the Allies during the Pacific War. These two are the best-documented flying examples.",
+    "airframes": [
+      {
+        "serial": "5357 (tail 61-120)",
+        "name": null,
+        "location": "Planes of Fame Air Museum",
+        "place": "Chino, California, United States",
+        "url": "https://planesoffame.org/aircraft/plane-A6M5",
+        "note": "The only airworthy Zero still flying on its original Nakajima Sakae engine; captured by US Marines in 1944, later flight-tested by Allied pilots including Charles Lindbergh, and restored to flight in 1978.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "A6M3 Model 32",
+        "name": null,
+        "location": "Military Aviation Museum",
+        "place": "Virginia Beach, Virginia, United States",
+        "url": "https://www.militaryaviationmuseum.org/the-zero-flies/",
+        "note": "Restored to airworthy condition and returned to the air, one of only a small number of flying Zeros anywhere in the world today.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "accidentsAndIncidents": [
+    {
+      "date": "1942-06-04",
+      "title": "The \"Akutan Zero\" crash-lands intact in Alaska",
+      "summary": "During the raid on Dutch Harbor, a damaged Zero crash-landed in a bog on Akutan Island and flipped over, killing the pilot instantly. The nearly intact aircraft was recovered by the US Navy weeks later and became the first Zero closely studied by the Allies, directly informing tactics used against it for the rest of the war.",
+      "fatalities": 1,
+      "tag": "Combat loss / intelligence coup",
+      "source": "https://en.wikipedia.org/wiki/Akutan_Zero"
+    },
+    {
+      "date": "1942-08-26",
+      "title": "Death of ace Junichi Sasai",
+      "summary": "Sasai, a 27-victory ace, was shot down and killed in his Zero during a dogfight with a US Marine Wildcat over Guadalcanal.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/Junichi_Sasai"
+    },
+    {
+      "date": "1944-10-25",
+      "title": "First kamikaze attack sinks USS St. Lo",
+      "summary": "Five bomb-armed Zeros of the \"Shikishima\" special attack unit carried out the first officially recognised kamikaze strike; one struck the escort carrier USS St. Lo's flight deck, triggering explosions that sank the ship within about 30 minutes and killed roughly 143 US Navy personnel.",
+      "fatalities": 143,
+      "tag": "Kamikaze / historic first",
+      "source": "https://en.wikipedia.org/wiki/Yukio_Seki"
+    }
+  ]
+}

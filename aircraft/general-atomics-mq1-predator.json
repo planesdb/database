@@ -1,0 +1,437 @@
+{
+  "name": "MQ-1 Predator",
+  "fullName": "General Atomics MQ-1 Predator",
+  "manufacturer": "General Atomics Aeronautical Systems",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "drones",
+    "spy-planes"
+  ],
+  "role": "MALE Reconnaissance & Strike Drone",
+  "tagline": "The General Atomics MQ-1 Predator is a single-engine, propeller-driven medium-altitude long-endurance remotely piloted aircraft built for the U.S. Air Force and the CIA. It entered service in 1995 as the unarmed RQ-1 reconnaissance system and was armed with two AGM-114 Hellfire missiles in 2001, making it the first armed drone in routine operational use. The Air Force retired it in March 2018 in favour of the larger MQ-9 Reaper.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The Air Force quoted the Predator at $20 million in fiscal 2009 dollars, but that was the price of a complete system - four aircraft plus a ground control station - not of a single airframe.",
+    "Its mishap rate was roughly 43 aircraft lost per 100,000 flying hours, against two or three per 100,000 for manned Air Force aircraft.",
+    "On 23 December 2002 a Stinger-armed Predator traded missiles with an Iraqi MiG-25 over the southern no-fly zone; the MiG won, in the first air-to-air engagement between a drone and a manned fighter.",
+    "The MQ-1B at IWM Duxford's American Air Museum flew nearly 5,000 hours across 288 sorties with the 57th Wing in Afghanistan between 2005 and 2008.",
+    "The fleet logged 2,061,864 flying hours over 24 years, of which 1,904,287 hours were flown in combat.",
+    "Its entire war load was two AGM-114 Hellfire missiles - a limitation that the MQ-9 Reaper, with about 2,500 lb of external stores, was built specifically to remove."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the MQ-1B, the definitive U.S. Air Force production variant, as published in the Air Force fact sheet.",
+    "maxSpeed": {
+      "mph": 135,
+      "text": "117 kn (135 mph / 217 km/h)"
+    },
+    "cruiseSpeed": "84 mph (135 km/h)",
+    "range": {
+      "miles": 770,
+      "text": "770 mi (1,239 km, 675 nmi); endurance up to 24 hours"
+    },
+    "serviceCeiling": {
+      "ft": 25000,
+      "text": "25,000 ft (7,620 m)"
+    },
+    "wingspan": {
+      "ft": 55,
+      "text": "55 ft (16.8 m)"
+    },
+    "length": {
+      "ft": 27,
+      "text": "27 ft (8.22 m)"
+    },
+    "height": {
+      "ft": 7,
+      "text": "7 ft (2.1 m)"
+    },
+    "weight": "empty: 1,130 lb (512 kg); MTOW: 2,250 lb (1,020 kg)",
+    "engines": "1 x Rotax 914F four-cylinder turbocharged piston engine, 115 hp, driving a pusher propeller",
+    "armament": "2 x AGM-114 Hellfire laser-guided missiles; AN/AAS-52 Multi-Spectral Targeting System with infrared sensor, colour/monochrome TV cameras and laser designator",
+    "crew": "None onboard - a pilot and a sensor operator seated side by side in a ground control station, plus a launch-and-recovery element at the forward operating base that handles takeoff and landing over a line-of-sight data link before handing control to the mission crew",
+    "firstFlight": {
+      "date": "1994-07-03",
+      "year": 1994
+    },
+    "serviceEntryDate": "2005-03-01",
+    "retiredDate": "2018-03-09",
+    "numberBuilt": 360,
+    "combatLosses": "At least eight airframes lost to hostile action or combat operations: three over Bosnia in 1995, four during Operation Allied Force in 1999 and one shot down by an Iraqi MiG-25 in December 2002. Across the whole programme the U.S. Air Force lost about 70 Predators, roughly 55 of them to weather and equipment failure rather than enemy fire.",
+    "unitCost": {
+      "usd": 20000000,
+      "text": "$20M (fiscal 2009 dollars) for a complete Predator system of four aircraft, one ground control station and a satellite link - not a per-aircraft price",
+      "inflationText": "≈$30M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "RQ-1 Predator",
+      "desc": "The original unarmed reconnaissance designation, used from the 1994 Advanced Concept Technology Demonstration until 2002. The R prefix denoted reconnaissance and the Q an unmanned system. Pre-production RQ-1K airframes used an 81 hp engine and cruised at about 87 mph for 16 hours; the definitive RQ-1B took the 115 hp Rotax 914F. Roughly 285 aircraft were built under this designation."
+    },
+    {
+      "code": "MQ-1A",
+      "desc": "The armed conversion of the earlier lower-powered airframe, redesignated in 2002 when the M prefix for multi-role replaced R to reflect the addition of strike capability. It carried two AGM-114 Hellfire missiles on underwing rails and the AN/AAS-52 Multi-Spectral Targeting System, whose laser designator guided the missile the aircraft had just launched. These were the airframes that flew the first armed missions over Afghanistan."
+    },
+    {
+      "code": "MQ-1B",
+      "desc": "The definitive U.S. Air Force production variant and the subject of the specifications above. It combined the 115 hp turbocharged Rotax 914F, de-icing equipment, upgraded avionics and the full Hellfire fit. By December 2009 General Atomics had delivered 236 Predators with 147 in service and 32 more on contract, for a programme total of 248 aircraft at about $13.4 million each."
+    },
+    {
+      "code": "MQ-1C Gray Eagle",
+      "desc": "The U.S. Army variant, developed as the Warrior for the Extended-Range Multi-Purpose competition begun in 2002 and first flown in October 2004. A Thielert Centurion heavy-fuel diesel engine, a 56 ft wingspan and an 800 lb payload allow up to 36 hours aloft at 25,000 ft and four Hellfires rather than two. About 204 have been built; an Extended Range version first flew in October 2016."
+    },
+    {
+      "code": "Predator XP",
+      "desc": "The export configuration, first flown on 27 June 2014 at Yuma Proving Ground and licensed by the U.S. government for sale to Middle Eastern, North African, South American and Asian customers that could not buy an armed system. It cannot carry weapons, and adds triple-redundant avionics, automatic takeoff and landing, Lynx multi-mode radar, maritime search and AIS, with 35 hours of endurance."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1995",
+      "fleetSize": "150 at peak (total force inventory)",
+      "homeBase": "Creech AFB, Nevada",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "role": "Operator",
+      "status": "Retired",
+      "since": "1995",
+      "fleetSize": "Not published",
+      "homeBase": "Undisclosed"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Operator (Predator A / A+)",
+      "status": "Retired",
+      "since": "2004",
+      "fleetSize": "Operated by 28° Gruppo and 61° Gruppo",
+      "homeBase": "Amendola AB and Sigonella",
+      "logo": "italian-air-force.webp"
+    },
+    {
+      "name": "United States Army",
+      "role": "Operator (MQ-1C Gray Eagle)",
+      "status": "In Service",
+      "since": "2009",
+      "fleetSize": "~204 built",
+      "homeBase": "Multiple divisional combat aviation brigades"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "PRED",
+    "howToFind": "Predators almost never appear on Flightradar24. The type was retired by the U.S. Air Force in 2018 and never broadcast civil ADS-B on operational sorties; the only realistic sightings during its service life were transponder-equipped test and ferry flights near Creech AFB and Indian Springs in Nevada, or Italian Air Force machines transiting between Amendola and Sigonella under civil flight rules. The related U.S. Army MQ-1C Gray Eagle remains in service but is similarly rare."
+  },
+  "lastUpdated": "2026-09-05",
+  "changelog": [
+    {
+      "date": "2026-09-05",
+      "change": "Entry created - full article, specifications, variants, incident log and preserved-airframe list written from the U.S. Air Force fact sheet, an Air Force Historical Research Agency study, a 2009 DoD Selected Acquisition Report, Smithsonian NASM and IWM collection records, General Atomics releases and named defence press reporting.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "mq-1",
+    "mq1",
+    "rq-1",
+    "predator",
+    "general atomics",
+    "drone",
+    "uav",
+    "rpa",
+    "remotely piloted aircraft",
+    "unmanned aerial vehicle",
+    "hellfire",
+    "gray eagle",
+    "predator xp",
+    "usaf drone",
+    "creech afb"
+  ],
+  "article": {
+    "overview": [
+      "The General Atomics MQ-1 Predator is a single-engine, propeller-driven, medium-altitude long-endurance remotely piloted aircraft built for the U.S. Air Force and the Central Intelligence Agency by General Atomics Aeronautical Systems. It entered service in 1995 as the unarmed RQ-1 reconnaissance system and was redesignated MQ-1 in 2002, after being modified to carry two AGM-114 Hellfire missiles, making it the first armed drone in routine operational use. {{ref:af-mq1}} {{ref:wiki-mq1}}",
+      "The Air Force counted a Predator as a system rather than an airframe: four aircraft, a ground control station, a satellite communications link and the crews to run them. {{ref:af-mq1}} About 360 were built between 1995 and 2018, and the fleet accumulated 2,061,864 flying hours, of which 1,904,287 were flown in combat, before the type was retired from operational service on 9 March 2018 in favour of the larger MQ-9 Reaper. {{ref:wiki-mq1}} {{ref:asfm-elegy}} {{ref:creech-final}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Predator descends from the work of engineer Abraham Karem, whose Albatross and Amber designs of the 1980s led to the GNAT 750, acquired by General Atomics when Karem's Leading Systems went bankrupt. The CIA flew GNAT 750s over Bosnia and Herzegovina in 1993 and 1994, and the results were promising enough for the Department of Defense to fund a larger derivative. {{ref:nasm-story}} General Atomics received the development contract in January 1994 and the first Predator flew six months later, on 3 July 1994, from El Mirage in the Mojave Desert. {{ref:wiki-mq1}} {{ref:nmusaf-rq1}}",
+          "The aircraft ran as an Advanced Concept Technology Demonstration until June 1996, when the Secretary of Defense named the Air Force as the operating service; production began in August 1997. {{ref:wiki-mq1}} {{ref:nmusaf-rq1}} A complete early system comprised four air vehicles, a ground control station, a satellite communications terminal and 55 personnel. The design traded speed and altitude for persistence: the pre-production RQ-1K used an 81 hp engine and cruised at about 87 mph for 16 hours, and the production aircraft was built to hold a single patch of ground under observation for a full day rather than to transit quickly or fly high. {{ref:nmusaf-rq1}}"
+        ]
+      },
+      {
+        "heading": "Design & Systems",
+        "paragraphs": [
+          "The MQ-1B has a 55 ft wingspan, is 27 ft long and 7 ft high, weighs 1,130 lb empty and 2,250 lb at maximum takeoff. A 115 hp turbocharged Rotax 914F four-cylinder piston engine drives a pusher propeller behind an inverted-V tail. It cruises at about 84 mph, tops out at 135 mph, reaches 25,000 ft and has a range of 770 miles. {{ref:af-mq1}} Those numbers define both its value and its ceiling as a combat aircraft: nothing in the airframe offers speed, altitude or agility, and the type carried no radar warning receiver, jammer or countermeasures.",
+          "Its useful load was sensors. The AN/AAS-52 Multi-Spectral Targeting System combines an infrared sensor, colour and monochrome television cameras and a laser designator in a single nose-mounted turret, and the same system that found and identified a target could guide the aircraft's own Hellfire missiles onto it. {{ref:af-mq1}} {{ref:wiki-mq1}} Control moved over two links: line-of-sight to a ground data terminal for takeoff and landing, then over-the-horizon by satellite for the mission itself. {{ref:sar-2009}} The downlink was a known weak point. In December 2009 it emerged that Iraqi Shiite militants had captured live Predator video using SkyGrabber, commercial file-interception software costing $25.95, because the video feeds were unencrypted; the Pentagon had been aware of the vulnerability for years and began encrypting the feeds afterwards. {{ref:csm-skygrabber}}"
+        ]
+      },
+      {
+        "heading": "Balkans Service & the Laser Designator",
+        "paragraphs": [
+          "The Predator first deployed in July 1995 to Gjader, Albania, under Operation Nomad Vigil, flying reconnaissance over Bosnia until November. Three aircraft were lost on that deployment, at least two of them to Serb ground fire. {{ref:wiki-mq1}} {{ref:afhra-uav}} NATO operations over Bosnia-Herzegovina followed from 1996. {{ref:asfm-elegy}} The type's role in these years was purely to look: a slow, unarmed aircraft holding a video picture over a target area for hours while somebody else decided what to do about it.",
+          "During Operation Allied Force over Serbia in 1999, four Predators were lost. {{ref:afhra-uav}} The campaign also produced the modification that mattered most to the aircraft's future. The Air Force fitted laser designators to some Predators so that they could mark armoured vehicles for manned strike aircraft, though the war ended before the fit was used operationally. {{ref:afhra-uav}} {{ref:iwm-predator}} Having a designator on board removed the last technical obstacle to arming the aircraft: a laser-guided weapon fired from the Predator could be guided by the Predator's own turret, with no second aircraft and no ground party in the loop."
+        ]
+      },
+      {
+        "heading": "Arming the Predator",
+        "paragraphs": [
+          "In June 2000 the Air Force's BIG SAFARI programme office was directed to examine arming the aircraft, and the AGM-114 Hellfire was chosen - a 100 lb laser-guided missile developed for anti-tank helicopters, small and light enough for an airframe with a 2,250 lb maximum takeoff weight. {{ref:iwm-predator}} {{ref:nasm-story}} The first Hellfire was fired from an RQ-1 on 16 February 2001 at Indian Springs Air Force Auxiliary Field near Las Vegas. {{ref:wiki-mq1}} {{ref:afhra-uav}} The modification was structurally modest - underwing hardpoints and two launch rails - but it converted a reconnaissance aircraft into a strike aircraft, and the two-missile limit it imposed shaped how the type was used for the rest of its career.",
+          "Armed Predators reached their overseas operating location on 16 September 2001, and the first armed mission was flown on 7 October 2001, the day host-nation approval came through. {{ref:wiki-mq1}} About 40 Hellfires had been fired in Afghanistan by the end of 2002. {{ref:afhra-uav}} On 3 November 2002 a Predator strike in Yemen killed al-Qaeda operative Qaed Salim Sinan al-Harethi, the first direct U.S. strike of the war on terrorism outside Afghanistan. {{ref:wiki-mq1}} The RQ-1 designation was changed to MQ-1 in 2002, the M standing for multi-role. {{ref:wiki-mq1}} Seven weeks later, on 23 December 2002, an Iraqi MiG-25 shot down a Predator carrying AIM-92 Stinger air-to-air missiles over the southern no-fly zone - both aircraft fired, and no further Iraqi attempts on U.S. drones followed. {{ref:twz-retire}}"
+        ]
+      },
+      {
+        "heading": "Remote Split Operations",
+        "paragraphs": [
+          "Remote split operations divided the crew from the aircraft. A small launch-and-recovery element at the forward operating base handled takeoff and landing through a line-of-sight ground data terminal, then handed control by satellite to a ground control station thousands of miles away, where a pilot and a sensor operator sat side by side to fly the mission. {{ref:sar-2009}} {{ref:af-mq1}} Most U.S. Predator sorties were flown this way from Creech Air Force Base in Nevada. {{ref:creech-final}} The arrangement let crews change shift while the aircraft stayed airborne, and it scaled: the Air Force flew five 24-hour combat air patrols with about 20 Predators in 2004, and 60 patrols by 2016. {{ref:asfm-elegy}}",
+          "The system's costs are documented. The Predator's early mishap rate ran at roughly 43 aircraft lost per 100,000 flying hours, against two or three per 100,000 for manned Air Force aircraft; the service lost around 70 airframes in all, about 55 to weather and equipment failure. {{ref:asfm-elegy}} {{ref:wiki-mq1}} Sensor-mediated identification also failed. On 21 February 2010 a strike near Uruzgan, Afghanistan killed at least 23 civilians travelling in a convoy; the investigation ordered by General Stanley McChrystal found that the Predator crew monitoring the convoy from Nevada had provided inaccurate and unprofessional reporting, and that information suggesting the convoy was not a hostile force was ignored or downplayed. Four senior and two junior officers were reprimanded and an Air Force investigation into the Predator crew was ordered. {{ref:nbc-uruzgan}}"
+        ]
+      },
+      {
+        "heading": "Retirement, Exports & Preservation",
+        "paragraphs": [
+          "The U.S. Air Force retired the MQ-1 on 9 March 2018, the 15th Expeditionary Attack Squadron flying the last combat mission and the 489th Attack Squadron the last local sortie, after which Creech became an all-MQ-9 base. {{ref:creech-final}} The replacement case was arithmetic: the Predator carried two Hellfires, while the MQ-9 Reaper carries roughly 2,500 lb of external stores, enough for four Hellfires and two 500 lb guided bombs. {{ref:twz-retire}} Surplus airframes went to the Navy, to contractors and to allied air forces. {{ref:twz-retire}} Italy retired its Predator A+ fleet on 19 December 2022 after 18 years, more than 31,000 flying hours and over 3,800 sorties flown from Amendola and Sigonella over Iraq, Afghanistan, Kosovo, Libya and the Horn of Africa. {{ref:aviationist-italy}} The unarmed Predator XP, first flown on 27 June 2014, was licensed for export to customers barred from buying an armed system, and the U.S. Army's MQ-1C Gray Eagle keeps the airframe lineage in service. {{ref:ga-xp}} {{ref:wiki-grayeagle}}",
+          "Several airframes are preserved. The American Air Museum at IWM Duxford in Cambridgeshire displays an MQ-1B that served with the 57th Wing in Afghanistan between 2005 and 2008, flying nearly 5,000 hours across 288 individual sorties. {{ref:iwm-predator}} The Smithsonian National Air and Space Museum holds Predator 3034, one of the first three unmanned aircraft to fly operational missions over Afghanistan after 11 September 2001, the first Predator to test-fire a Hellfire and the first to fire one in combat; it flew 164 operational sorties between September 2001 and January 2003, some of more than 20 hours, and was transferred from the Air Force in 2004. {{ref:nasm-3034}} The National Museum of the U.S. Air Force displays RQ-1 serial 94-3009 in its Cold War Gallery, presented by General Atomics in May 2001 {{ref:nmusaf-rq1}}, and the Royal Air Force Museum London holds MQ-1B serial 03-3119 in Hangar 6. {{ref:rafm-predator}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "af-mq1",
+      "name": "MQ-1B Predator Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104469/mq-1b-predator/"
+    },
+    {
+      "id": "wiki-mq1",
+      "name": "General Atomics MQ-1 Predator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Atomics_MQ-1_Predator"
+    },
+    {
+      "id": "asfm-elegy",
+      "name": "Elegy for the Predator",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/elegy-for-the-predator/"
+    },
+    {
+      "id": "creech-final",
+      "name": "Sun setting the MQ-1 Predator: The final salute",
+      "publisher": "Creech Air Force Base",
+      "url": "https://www.creech.af.mil/News/Article-Display/Article/1462948/sun-setting-the-mq-1-predator-the-final-salute/"
+    },
+    {
+      "id": "nasm-story",
+      "name": "The Predator, a Drone That Transformed Military Combat",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/stories/editorial/predator-drone-transformed-military-combat"
+    },
+    {
+      "id": "nmusaf-rq1",
+      "name": "General Atomics Aeronautical Systems RQ-1 Predator",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196333/general-atomics-aeronautical-systems-rq-1-predator/"
+    },
+    {
+      "id": "afhra-uav",
+      "name": "U.S. Unmanned Aerial Vehicles in Combat, 1991-2003 (Daniel L. Haulman)",
+      "publisher": "Air Force Historical Research Agency",
+      "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/AFD-070912-042.pdf"
+    },
+    {
+      "id": "sar-2009",
+      "name": "MQ-1B Unmanned Aircraft System Predator - Selected Acquisition Report, December 2009",
+      "publisher": "U.S. Department of Defense",
+      "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/17-F-0571_FY2009_SARS/MQ-1B%20UAS%20Predator_SAR_Dec_2009.pdf"
+    },
+    {
+      "id": "iwm-predator",
+      "name": "How the MQ-1 Predator Redefined Aerial Warfare",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/history/how-the-mq-1-predator-redefined-aerial-warfare"
+    },
+    {
+      "id": "twz-retire",
+      "name": "USAF Officially Retires MQ-1 Predator While MQ-9 Reaper Set To Gain Air-To-Air Missiles",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/19122/usaf-officially-retires-mq-1-predator-while-mq-9-reaper-set-to-gain-air-to-air-missiles"
+    },
+    {
+      "id": "nbc-uruzgan",
+      "name": "Drone crew blamed in Afghan civilian deaths",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/id/wbna37411258"
+    },
+    {
+      "id": "csm-skygrabber",
+      "name": "SkyGrabber: hack of US drones shows how quickly insurgents adapt",
+      "publisher": "The Christian Science Monitor",
+      "url": "https://www.csmonitor.com/USA/2009/1217/SkyGrabber-hack-of-US-drones-shows-how-quickly-insurgents-adapt"
+    },
+    {
+      "id": "aviationist-italy",
+      "name": "The Italian Air Force Has Retired Its MQ-1C Predator A+ RPAS",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2022/12/28/the-italian-air-force-has-retired-its-mq-1c-predator-a-rpas/"
+    },
+    {
+      "id": "ga-xp",
+      "name": "GA-ASI Successfully Executes First Flight of Predator XP",
+      "publisher": "General Atomics",
+      "url": "https://www.ga.com/ga-asi-successfully-executes-first-flight-of-predator-xp"
+    },
+    {
+      "id": "wiki-grayeagle",
+      "name": "General Atomics MQ-1C Gray Eagle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle"
+    },
+    {
+      "id": "nasm-3034",
+      "name": "General Atomics MQ-1L Predator A (inventory number A20040180000)",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/general-atomics-mq-1l-predator/nasm_A20040180000"
+    },
+    {
+      "id": "rafm-predator",
+      "name": "General Atomics MQ-1B Predator, serial 03-3119",
+      "publisher": "Royal Air Force Museum",
+      "url": "https://www.rafmuseum.org.uk/research/collections/general-atomics-mq-1b-predator/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Predator XP - General Atomics Aeronautical Systems",
+      "url": "https://www.ga-asi.com/remotely-piloted-aircraft/predator-xp"
+    },
+    {
+      "name": "Sun setting the MQ-1 Predator: A commander's farewell - Creech AFB",
+      "url": "https://www.creech.af.mil/News/Commentaries/Article/1453873/sun-setting-the-mq-1-predator-a-commanders-farewell/"
+    },
+    {
+      "name": "Individual History: General Atomics MQ-1B Predator UAV s/n 03-3119 - RAF Museum",
+      "url": "https://www.rafmuseum.org.uk/documents/collections/L001-0006_Predator_UAV.pdf"
+    },
+    {
+      "name": "Air Force announces official retirement date for iconic MQ-1 Predator drone - Air Force Times",
+      "url": "https://www.airforcetimes.com/news/your-air-force/2018/02/16/air-force-announces-official-retirement-date-for-iconic-mq-1-predator/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1995-11-01",
+      "title": "Three aircraft lost on the first operational deployment",
+      "tag": "Combat loss",
+      "summary": "Between July and November 1995, during Operation Nomad Vigil from Gjader in Albania, the Predator system lost three aircraft while flying reconnaissance over Bosnia. At least two were brought down by Serb ground fire.",
+      "source": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/AFD-070912-042.pdf"
+    },
+    {
+      "date": "1999-06-10",
+      "title": "Four Predators lost during Operation Allied Force",
+      "tag": "Combat loss",
+      "summary": "Four Predators were lost over Serbia and Kosovo during the 1999 NATO air campaign. The same campaign saw laser designators fitted to some aircraft so they could mark targets for manned strike aircraft, though the war ended before the capability was used in action.",
+      "source": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/AFD-070912-042.pdf"
+    },
+    {
+      "date": "2001-02-16",
+      "title": "First Hellfire missile fired from a Predator",
+      "tag": "Milestone",
+      "summary": "An RQ-1 Predator fired an AGM-114 Hellfire anti-tank missile at Indian Springs Air Force Auxiliary Field near Las Vegas, the first live weapon release from the type and the test that led directly to the MQ-1 designation.",
+      "source": "https://en.wikipedia.org/wiki/General_Atomics_MQ-1_Predator"
+    },
+    {
+      "date": "2001-10-07",
+      "title": "First armed Predator combat mission over Afghanistan",
+      "tag": "Milestone",
+      "summary": "Armed Predators had reached their overseas operating location on 16 September 2001; the first armed mission was flown on 7 October 2001, the day host-nation approval was granted. About 40 Hellfires had been fired in Afghanistan by the end of 2002.",
+      "source": "https://en.wikipedia.org/wiki/General_Atomics_MQ-1_Predator"
+    },
+    {
+      "date": "2002-11-03",
+      "title": "Hellfire strike in Yemen kills Qaed Salim Sinan al-Harethi",
+      "tag": "Milestone",
+      "summary": "A Predator strike in Yemen killed al-Qaeda operative Qaed Salim Sinan al-Harethi. It was the first direct U.S. strike of the war on terrorism conducted outside Afghanistan.",
+      "source": "https://en.wikipedia.org/wiki/General_Atomics_MQ-1_Predator"
+    },
+    {
+      "date": "2002-12-23",
+      "title": "Shot down by an Iraqi MiG-25 over the southern no-fly zone",
+      "tag": "Shot down",
+      "summary": "A Predator armed with AIM-92 Stinger air-to-air missiles engaged an Iraqi MiG-25 over the southern no-fly zone. Both aircraft fired and the MiG destroyed the drone, in the first air-to-air engagement between an unmanned aircraft and a manned fighter. No further Iraqi attacks on U.S. drones followed.",
+      "fatalities": 0,
+      "source": "https://www.twz.com/19122/usaf-officially-retires-mq-1-predator-while-mq-9-reaper-set-to-gain-air-to-air-missiles"
+    },
+    {
+      "date": "2009-12-17",
+      "title": "Unencrypted video feeds intercepted by militants in Iraq",
+      "tag": "Security",
+      "summary": "Iraqi Shiite militants were found to have captured live Predator video downlinks using SkyGrabber, commercial file-interception software costing $25.95, because the feeds were transmitted unencrypted. Military officials said the drones themselves could not be controlled or disrupted; the Pentagon, which had known of the vulnerability for years, began encrypting the feeds.",
+      "source": "https://www.csmonitor.com/USA/2009/1217/SkyGrabber-hack-of-US-drones-shows-how-quickly-insurgents-adapt"
+    },
+    {
+      "date": "2010-02-21",
+      "title": "Uruzgan convoy strike, Afghanistan",
+      "tag": "Civilian casualties",
+      "summary": "At least 23 Afghan civilians travelling in a convoy were killed in a strike in Uruzgan province. The investigation ordered by General Stanley McChrystal found that the Predator crew monitoring the convoy from Nevada had given inaccurate and unprofessional reporting, and that indications the convoy was not a hostile force were ignored or downplayed. Four senior and two junior officers were reprimanded and an Air Force investigation into the Predator crew was ordered.",
+      "fatalities": 23,
+      "source": "https://www.nbcnews.com/id/wbna37411258"
+    },
+    {
+      "date": "2018-03-09",
+      "title": "Retired from U.S. Air Force service",
+      "tag": "Milestone",
+      "summary": "The 15th Expeditionary Attack Squadron flew the final MQ-1 combat mission and the 489th Attack Squadron the last local sortie, ending 24 years of Predator operations and leaving Creech AFB an all-MQ-9 base.",
+      "source": "https://www.creech.af.mil/News/Article-Display/Article/1462948/sun-setting-the-mq-1-predator-the-final-salute/"
+    }
+  ],
+  "survivors": {
+    "intro": "Preserved Predators are held on both sides of the Atlantic, including two airframes with documented combat records. The most publicly accessible in the United Kingdom is the MQ-1B in the American Air Museum at IWM Duxford.",
+    "airframes": [
+      {
+        "location": "Imperial War Museum Duxford - American Air Museum",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "url": "https://www.iwm.org.uk/history/how-the-mq-1-predator-redefined-aerial-warfare",
+        "note": "Flew nearly 5,000 hours over 288 sorties with the 57th Wing in Afghanistan between 2005 and 2008. IWM does not publish a serial for the airframe.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "location": "Smithsonian National Air and Space Museum",
+        "place": "Washington, D.C. / Chantilly, Virginia, United States",
+        "url": "https://airandspace.si.edu/collection-objects/general-atomics-mq-1l-predator/nasm_A20040180000",
+        "note": "MQ-1L Predator A number 3034, inventory number A20040180000. One of the first three unmanned aircraft to fly operational missions over Afghanistan after 11 September 2001, the first Predator to test-fire a Hellfire and the first to fire one in combat. Flew 164 operational sorties between September 2001 and January 2003, including a detached deployment of 32 missions between August and November 2002. Transferred from the U.S. Air Force in 2004; not currently on public display.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "location": "National Museum of the United States Air Force - Cold War Gallery",
+        "place": "Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196333/general-atomics-aeronautical-systems-rq-1-predator/",
+        "serial": "94-3009",
+        "note": "Pre-production RQ-1K airframe presented to the museum by General Atomics Aeronautical Systems in May 2001 and painted to represent a Predator used in the early phase of Operation Enduring Freedom.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "location": "Royal Air Force Museum London - Hangar 6",
+        "place": "Colindale, London, United Kingdom",
+        "url": "https://www.rafmuseum.org.uk/research/collections/general-atomics-mq-1b-predator/",
+        "serial": "03-3119",
+        "note": "MQ-1B on public display, reference code L001-0006.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  }
+}

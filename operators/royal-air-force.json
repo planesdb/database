@@ -1,0 +1,19 @@
+{
+  "id": "royal-air-force",
+  "slug": "royal-air-force",
+  "name": "Royal Air Force",
+  "shortName": "RAF",
+  "type": "military",
+  "country": { "name": "United Kingdom", "code": "gb" },
+  "founded": "1918-04-01",
+  "foundedDisplay": "1 April 1918",
+  "headquarters": "RAF High Wycombe, Buckinghamshire, England",
+  "logo": "raf.png",
+  "website": "https://www.raf.mod.uk",
+  "tagline": "The world's first independent air force, formed by merging the Army's Royal Flying Corps with the Royal Naval Air Service in the closing months of WWI.",
+  "bio": [
+    "Formed on 1 April 1918 by merging the Royal Flying Corps and the Royal Naval Air Service, the Royal Air Force was the first air arm in the world to become an independent military service rather than a branch of the army or navy - a structural choice other air forces would later copy. It fought its defining battle just over two decades later: the Battle of Britain in 1940, where RAF Fighter Command's Hurricanes and Spitfires denied the Luftwaffe air superiority over southern England and, in Churchill's words, ensured that \"never was so much owed by so many to so few.\"",
+    "Today the RAF operates a mixed fleet of Typhoon and F-35B fast jets, Voyager tankers, Atlas and Hercules transports, Poseidon maritime patrol aircraft and Chinook and Puma helicopters, alongside a growing fleet of Protector remotely piloted aircraft. It also maintains the Red Arrows aerobatic display team and the Battle of Britain Memorial Flight, which keeps historic Spitfires, Hurricanes and a Lancaster bomber airworthy for commemorative flypasts."
+  ],
+  "matchPattern": "royal air force|\\braf\\b|royal flying corps"
+}

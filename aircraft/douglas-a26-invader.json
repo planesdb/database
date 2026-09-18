@@ -1,0 +1,366 @@
+{
+  "name": "A-26 Invader",
+  "fullName": "Douglas A-26 Invader",
+  "manufacturer": "Douglas",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Light Attack Bomber",
+  "tagline": "The A-26 Invader is a twin-engine light attack bomber designed by Douglas as a successor to the A-20 Havoc, first flown on 10 July 1942. Redesignated B-26 in 1948 - which is why it is so often confused with the unrelated Martin B-26 Marauder - it is the only American bomber to have flown combat missions in the Second World War, Korea and Vietnam.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "It is the only American bomber type to have flown combat missions in the Second World War, Korea and Vietnam",
+    "The 1948 redesignation from A-26 to B-26 created lasting confusion with the Martin B-26 Marauder, an entirely different aircraft; the A-26 name was restored in 1966 because Thailand would not host aircraft designated as bombers",
+    "A fully equipped A-26B could carry 22 machine guns and 6,000 rounds of ammunition",
+    "The 3rd Bombardment Group flew the last USAF bombing mission of the Korean War, 24 minutes before the armistice was signed",
+    "Captain John S. Walmsley Jr. received a posthumous Medal of Honor for illuminating a supply train with a searchlight after his guns jammed on 14 September 1951",
+    "Wing spar fatigue was the type's undoing: a demonstration aircraft lost a wing pulling out of a strafing pass at Eglin in February 1964, killing both pilots, and the fleet was grounded that April"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the wartime A-26B gun-nose version. The glass-nosed A-26C carried a bombardier and a Norden sight in place of most of the nose guns, and the 1960s B-26K/A-26A Counter Invader had rebuilt wings, uprated engines and eight underwing hardpoints.",
+    "maxSpeed": {
+      "mph": 359,
+      "text": "312 kn (359 mph / 578 km/h)"
+    },
+    "cruiseSpeed": "266 mph (428 km/h) at 5,000 ft",
+    "range": {
+      "miles": 1600,
+      "text": "1,600 mi (2,575 km) normal; 3,000 mi (4,828 km) with a ferry tank"
+    },
+    "serviceCeiling": {
+      "ft": 28500,
+      "text": "28,500 ft (8,687 m)"
+    },
+    "wingspan": {
+      "ft": 70,
+      "text": "70 ft (21.34 m)"
+    },
+    "length": {
+      "ft": 50,
+      "text": "50 ft (15.24 m)"
+    },
+    "height": {
+      "ft": 19,
+      "text": "18 ft 6 in (5.64 m)"
+    },
+    "weight": "empty: 22,370 lb (10,147 kg); MTOW: 35,000 lb (15,876 kg)",
+    "engines": "Two Pratt & Whitney R-2800 Double Wasp 18-cylinder radials, 2,000 hp each",
+    "armament": "A-26B: six or eight .50 in M2 machine guns in the nose, two more in each of the remotely operated dorsal and ventral turrets, and up to eight in underwing pods - 22 guns in all. Up to 6,000 lb (2,722 kg) of bombs and ten 5 in HVAR rockets. The A-26C traded the nose battery for two guns and a Norden bombsight",
+    "crew": "3 on the A-26B (pilot, navigator/bombardier and gunner); 4 on the A-26C",
+    "capacity": "6,000 lb (2,722 kg) of bombs - 4,000 lb internal and 2,000 lb on external hardpoints",
+    "firstFlight": {
+      "date": "1942-07-10",
+      "year": 1942
+    },
+    "serviceEntryDate": "1944-06-23",
+    "retiredDate": "1972",
+    "numberBuilt": 2503,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no consistent wartime flyaway figure was published for the Invader, which was built at two plants across several variants and later remanufactured as the B-26K",
+      "inflationText": null
+    },
+    "combatLosses": "The Ninth Air Force lost 67 Invaders across 11,567 missions in Europe. The 452nd Bombardment Wing alone lost 85 crewmen in Korea, and nine Cuban-exile B-26s were lost in the three days of the Bay of Pigs operation in April 1961."
+  },
+  "variants": [
+    {
+      "code": "A-26B",
+      "desc": "The gun-nose attack version and the most numerous at 1,355 delivered, 1,150 from Long Beach and 205 from Tulsa. Six or eight .50 in guns in the solid nose were joined by remotely operated dorsal and ventral turrets and up to eight more in underwing pods, giving a strafing aircraft with 22 guns. It carried the same 6,000 lb bomb load as the bombardier version."
+    },
+    {
+      "code": "A-26C",
+      "desc": "The bombardier version, with a glazed nose housing a Norden bombsight and only two nose guns, built to lead formations that the gun-nose aircraft could not aim for. Production reached 1,091, almost all of them from Tulsa. Its four-man crew added a bombardier, and in practice mixed formations flew with a C model in the lead and B models behind."
+    },
+    {
+      "code": "TB-26 / RB-26C",
+      "desc": "Conversions rather than new builds. The TB-26B and TB-26C were unarmed training aircraft, while the RB-26C carried cameras and photoflash flares for night photographic reconnaissance. The reconnaissance designation was used politically as well as practically in Vietnam, where aircraft flying armed missions were carried on paper as RB-26Cs."
+    },
+    {
+      "code": "JD-1 / UB-26J",
+      "desc": "The US Navy's Invaders, over 150 of them, used by utility squadrons for target towing and as drone directors rather than as bombers. They were redesignated UB-26J in the 1962 tri-service rationalisation. This is the least-remembered branch of the type's service and the reason Navy serials turn up on surviving airframes."
+    },
+    {
+      "code": "B-26K / A-26A Counter Invader",
+      "desc": "Forty airframes remanufactured by On Mark Engineering between 1964 and 1966 with rebuilt and strengthened wings, uprated engines, reversible propellers, wingtip tanks and eight underwing hardpoints - a direct answer to the spar failures that had grounded the fleet. First flight was on 30 May 1964 at Van Nuys. Redesignated A-26A in May 1966 and retired in 1969."
+    },
+    {
+      "code": "On Mark Executive / Marketeer / Marksman",
+      "desc": "Civil conversions built between 1956 and 1961, turning surplus Invaders into six to eight seat corporate transports - the Marksman being pressurised. Rock Island, Wold Engineering, LB Smith, Rhodes-Berry and Lockheed offered rival conversions. Over 300 Invaders have appeared on the FAA civil register since 1945, many later working as fire-bombers until the early 1970s."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces",
+      "role": "Original Operator (historical)",
+      "status": "Retired (became the USAF, 1947)",
+      "since": "1944",
+      "fleetSize": "Equipped the 3rd, 47th, 319th, 386th, 409th and 416th Bombardment Groups; the Ninth Air Force alone flew 11,567 missions",
+      "homeBase": "Ninth Air Force bases in France and the Low Countries; Pacific bases with the 3rd Bombardment Group"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Primary Postwar Operator (historical)",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "The bulk of the fleet as the B-26, through Korea and Vietnam; the last aircraft left Air National Guard service in 1972",
+      "homeBase": "Korean War bases in Japan and South Korea; Thailand and South Vietnam for the Counter Invader"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Utility Operator (historical)",
+      "status": "Retired",
+      "since": "1945",
+      "fleetSize": "Over 150 as the JD-1, later UB-26J, used for target towing and drone direction",
+      "homeBase": "US Navy utility squadrons"
+    },
+    {
+      "name": "French Air Force",
+      "role": "Combat Operator (historical)",
+      "status": "Retired",
+      "since": "1950",
+      "fleetSize": "USAF-lent aircraft equipping Groupe de Bombardement I/19 Gascogne and GB 1/25 Tunisie, flying over Dien Bien Phu in March and April 1954",
+      "homeBase": "Cat Bi, Haiphong, French Indochina; later Algeria"
+    },
+    {
+      "name": "Indonesian Air Force",
+      "role": "Combat Operator (historical)",
+      "status": "Retired",
+      "since": "1960",
+      "fleetSize": "6 bought surplus from Davis-Monthan in 1959 and delivered in mid-1960; flown in West New Guinea, Borneo and East Timor before the last was retired in December 1977",
+      "homeBase": "Indonesian Air Force bases; the last aircraft preserved at the Air Force Central Museum, Yogyakarta"
+    },
+    {
+      "name": "Portuguese Air Force",
+      "role": "Combat Operator (historical)",
+      "status": "Retired",
+      "since": "1965",
+      "fleetSize": "A small number covertly purchased through France for the Colonial War in Angola",
+      "homeBase": "Angola"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A26",
+    "howToFind": "A handful of Invaders are still airworthy on the American and European warbird circuits, and being civil-registered they do transmit. Filter for type A26 and the realistic hits are Fort Worth, where the Vintage Flying Museum's B-26K 'Special Kay' lives, and the display season in Poland and Germany. Sightings are occasional rather than daily - this is an aircraft to catch at an airshow rather than watch on a map."
+  },
+  "lastUpdated": "2026-09-10",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants, operator roster, survivor list and incident log written from Wikipedia, the Hurlburt Field USAF fact sheet and the Wikipedia survivor list.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Invader",
+    "B-26",
+    "B-26K",
+    "Counter Invader",
+    "A26",
+    "On Mark"
+  ],
+  "article": {
+    "overview": [
+      "The A-26 Invader is a twin-engine light attack bomber designed by Douglas under Ed Heinemann as a successor to the A-20 Havoc. The XA-26 prototype first flew on 10 July 1942 at Mines Field in California, production deliveries began on 10 September 1943, and 2,503 were built across plants at Long Beach and Tulsa. {{ref:wiki-a26}}",
+      "It is the only American bomber to have flown combat missions in three wars - the Second World War, Korea and Vietnam - and the last left Air National Guard service in 1972, thirty years after the prototype flew. Along the way it changed designation twice, becoming the B-26 in 1948 and reverting to A-26 in 1966, which is the source of a confusion with the Martin B-26 Marauder that has never entirely gone away. {{ref:wiki-a26}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Douglas set out to replace its own A-20 Havoc with something faster, longer-ranged and more heavily armed. The design team under Ed Heinemann, with Robert Donovan and Ted R. Smith, built the aircraft around a laminar-flow NACA 65-215 wing developed by aerodynamicist A. M. O. Smith - an advanced choice for 1942, and one that would come back to haunt the type twenty years later. Two 2,000 hp Pratt & Whitney R-2800 Double Wasps gave it the performance. {{ref:wiki-a26}}",
+          "The aircraft was built in two distinct noses from the start rather than as a bomber with an attack conversion. The A-26B put six or eight .50 in guns in a solid nose; the A-26C put a bombardier and a Norden sight behind glass. Formations typically mixed the two, with a C model leading and B models following on its release. {{ref:wiki-a26}}"
+        ]
+      },
+      {
+        "heading": "Design & Armament",
+        "paragraphs": [
+          "The Invader's defining feature is the sheer weight of forward-firing fire it could bring. A fully equipped A-26B carried six or eight nose guns, two more in each of the remotely operated dorsal and ventral turrets, and up to eight in four underwing pods - 22 guns and 6,000 rounds in total, on an aircraft that also carried 6,000 lb of bombs and could hang ten 5 in HVAR rockets. {{ref:hurlburt-a26}} {{ref:wiki-a26}}",
+          "That firepower came with a real limitation in the ground-attack role it was bought for. General George Kenney criticised the type on its Pacific debut, and the specific complaint was downward visibility: the cockpit layout made it hard for a pilot to see and hold a target through an attack run. The A-26C's four-man crew and glass nose partly answered this for level bombing, but the visibility problem was a design characteristic rather than something that could be modified away. {{ref:wiki-a26}}"
+        ]
+      },
+      {
+        "heading": "Second World War Service",
+        "paragraphs": [
+          "The type entered combat with the 13th Squadron of the 3rd Bombardment Group - the Grim Reapers - on 23 June 1944 in the Pacific. Europe followed in September, when 18 aircraft arrived with the 553rd Squadron and flew eight test missions without loss, which was enough for the Ninth Air Force to declare itself satisfied. The 416th and 409th Bombardment Groups converted through November and December 1944, and the 47th received Invaders in Italy that January for the final Po Valley campaigns. {{ref:wiki-a26}}",
+          "The European record is the clearest measure of the type's wartime work: 11,567 missions flown by the Ninth Air Force, 18,054 tons of bombs dropped, seven confirmed aerial kills and 67 aircraft lost. It arrived late enough that it never defined a campaign the way the A-20 or the B-26 Marauder had, but it flew the last months of the war in Europe as the Ninth Air Force's fastest attack aircraft. {{ref:wiki-a26}}"
+        ]
+      },
+      {
+        "heading": "Korea & the B-26 Redesignation",
+        "paragraphs": [
+          "In 1948 the USAF dropped the A-for-attack category and redesignated every A-26 as the B-26 - a designation the Martin B-26 Marauder had vacated on retirement, and one that has confused readers ever since. Under that name the 3rd Bombardment Group flew the first USAF bombing mission over North Korea on 29 June 1950, against an airfield near Pyongyang. {{ref:wiki-a26}}",
+          "Korea was the type's hardest war. The 452nd Bombardment Wing, an Air Force Reserve unit activated on 10 August 1950, flew 15,000 sorties of which 7,000 were at night, and lost 85 crewmen. Invaders were credited with destroying 38,500 vehicles, 406 locomotives and 3,700 railway trucks over the course of the war. Captain John S. Walmsley Jr. was posthumously awarded the Medal of Honor for a night attack on 14 September 1951 in which, his guns having jammed, he illuminated a supply train with a searchlight for other aircraft and was shot down. The 3rd Bombardment Group flew the last USAF bombing mission of the war on 27 July 1953, twenty-four minutes before the armistice was signed. {{ref:wiki-a26}}"
+        ]
+      },
+      {
+        "heading": "Vietnam, the Spar Crisis & the Counter Invader",
+        "paragraphs": [
+          "The Invader went to Southeast Asia twice over. Unmarked CIA aircraft operated from Takhli in Thailand from December 1960 under Operation Millpond in support of the Royal Lao Government, and B-26s flew in South Vietnamese markings under Project Farm Gate, many carried on paper as RB-26C reconnaissance aircraft while flying armed missions. Then the wings began to fail. An aircraft was lost in combat in August 1963, and on 11 February 1964 a demonstration B-26 shed a wing pulling out of a strafing pass over Eglin's Range 52, killing both pilots. The fleet was grounded on 8 April 1964. {{ref:wiki-a26}}",
+          "The answer was to rebuild rather than retire. On Mark Engineering remanufactured 40 airframes as the B-26K with strengthened wings, uprated engines, reversible propellers, wingtip tanks and eight underwing hardpoints, first flying on 30 May 1964. In May 1966 they were redesignated A-26A - not for any technical reason, but because Thailand would not host aircraft designated as bombers. They worked the Ho Chi Minh Trail until retirement in 1969, two of them fitted with forward-looking infrared under Project Lonesome Tiger. {{ref:wiki-a26}} {{ref:hurlburt-a26}}"
+        ]
+      },
+      {
+        "heading": "Covert Wars, Civil Careers & Legacy",
+        "paragraphs": [
+          "No other American bomber turns up in as many deniable operations. Around twenty B-26Bs were sanitised at Duke Field for the Bay of Pigs, and eight flown by Cuban exiles struck three Cuban airfields on 15 April 1961; nine were lost over three days. CIA-contracted B-26Ks flew against Simba rebels in the Congo in 1964. During Operation Haik in Indonesia in 1958 the American contract pilot Allen Pope was shot down by an Indonesian P-51 on 18 May - still the only air-to-air kill in Indonesian Air Force history. Biafra flew two improvised Invaders in the Nigerian Civil War in 1967. {{ref:wiki-a26}}",
+          "Civil life was almost as long. Over 300 Invaders have appeared on the FAA register since 1945, first as On Mark and rival executive conversions from 1956, then from the mid-1950s as forest-fire air tankers, work that largely ended around 1973 when the surviving aircraft moved north to Canada. Something over a hundred airframes survive today and a handful still fly, including 64-17679 'Special Kay', the only airworthy B-26K. {{ref:wiki-survivors-a26}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-a26",
+      "name": "Douglas A-26 Invader",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    },
+    {
+      "id": "hurlburt-a26",
+      "name": "A-26 Counter Invader Fact Sheet",
+      "publisher": "U.S. Air Force (Hurlburt Field)",
+      "url": "https://www.hurlburt.af.mil/About-Us/Fact-Sheets/Fact-Sheets/Article/204595/a-26-counter-invader/"
+    },
+    {
+      "id": "wiki-survivors-a26",
+      "name": "List of surviving Douglas A-26 Invaders",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Douglas_A-26_Invaders"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Douglas A-26 Invader",
+      "url": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    },
+    {
+      "name": "List of surviving Douglas A-26 Invaders",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Douglas_A-26_Invaders"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1944-11-29",
+      "title": "Two Invaders collide after takeoff at Warton",
+      "tag": "Mid-air collision",
+      "summary": "A-26Bs 43-22298 and 43-22336 collided shortly after taking off from Warton in Lancashire and were both lost. The crash site was excavated in 2005 by Time Team working with the RAF Millom Museum.",
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    },
+    {
+      "date": "1950-06-29",
+      "title": "First USAF bombing mission of the Korean War",
+      "tag": "Combat milestone",
+      "summary": "B-26s of the 3rd Bombardment Group attacked an airfield near Pyongyang, the first USAF bombing mission flown over North Korea.",
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    },
+    {
+      "date": "1951-09-14",
+      "title": "Medal of Honor mission of Captain John S. Walmsley Jr.",
+      "tag": "Shot down",
+      "summary": "Attacking a supply train at night, Captain Walmsley's guns jammed, so he illuminated the target with a searchlight so that other aircraft could attack it. He was shot down and killed, and was posthumously awarded the Medal of Honor.",
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    },
+    {
+      "date": "1953-07-27",
+      "title": "Last USAF bombing mission of the Korean War",
+      "tag": "Combat milestone",
+      "summary": "A B-26 of the 3rd Bombardment Group flew the final USAF bombing mission of the war, twenty-four minutes before the armistice was signed.",
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    },
+    {
+      "date": "1958-05-18",
+      "title": "Allen Pope shot down over Indonesia",
+      "tag": "Shot down",
+      "summary": "American contract pilot Allen Pope, flying a CIA-backed B-26 in support of Permesta rebels during Operation Haik, was shot down by an Indonesian Air Force P-51 Mustang. It remains the only air-to-air victory in Indonesian Air Force history.",
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    },
+    {
+      "date": "1961-04-15",
+      "title": "Bay of Pigs airfield strikes",
+      "tag": "Combat operation",
+      "summary": "Eight B-26Bs flown by Cuban exiles, sanitised of markings at Duke Field in Florida, attacked three Cuban airfields as the opening move of the Bay of Pigs operation. Nine of the roughly twenty aircraft involved were lost over the following three days.",
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    },
+    {
+      "date": "1964-02-11",
+      "title": "Wing failure at Eglin leads to the fleet grounding",
+      "tag": "Structural failure",
+      "summary": "A B-26 lost a wing while pulling out of a strafing pass during a demonstration over Range 52 at Eglin Air Force Base, killing both 1st Air Commando Wing pilots aboard. Coming after a similar loss in Southeast Asia the previous August, it led to the type being grounded on 8 April 1964.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    },
+    {
+      "date": "1964-05-30",
+      "title": "First flight of the B-26K Counter Invader",
+      "tag": "Programme milestone",
+      "summary": "The first On Mark Engineering B-26K flew at Van Nuys, with rebuilt and strengthened wings, uprated engines, reversible propellers and eight underwing hardpoints. Forty were remanufactured, and they were redesignated A-26A in May 1966.",
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+    }
+  ],
+  "survivors": {
+    "intro": "Something over a hundred Invaders survive worldwide, the great majority in the United States, and a handful remain airworthy on the warbird circuit. The long civil career - executive conversions from 1956 and then fire-bombing work into the 1970s - is why so many came through in flyable condition compared with other wartime bombers.",
+    "airframes": [
+      {
+        "serial": "44-35733",
+        "name": "Dream Girl",
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio, United States",
+        "note": "The national collection's Invader, displayed at Wright-Patterson.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "64-17679",
+        "name": "Special Kay",
+        "location": "Vintage Flying Museum",
+        "place": "Fort Worth, Texas, United States",
+        "note": "Registered N4988N and the only airworthy B-26K Counter Invader - one of the forty On Mark rebuilds with the strengthened wing.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-34765",
+        "name": "Mission Completed",
+        "location": "Musee Royal de l'Armee",
+        "place": "Brussels, Belgium",
+        "note": "One of the few Invaders preserved in mainland Europe.",
+        "countryCode": "be",
+        "country": "Belgium"
+      },
+      {
+        "serial": "44-34313",
+        "name": "Sweet Eloise II",
+        "location": "Privately owned by Marcin Kubrak",
+        "place": "Katowice, Poland",
+        "note": "Registered N4313 and airworthy, one of very few flying Invaders based in Europe.",
+        "countryCode": "pl",
+        "country": "Poland"
+      },
+      {
+        "serial": "43-22357",
+        "location": "British Columbia Aviation Museum",
+        "place": "Sidney, British Columbia, Canada",
+        "note": "Carries the Canadian civil registration CF-BMS from its fire-bombing years, when many surplus Invaders moved north for tanker work.",
+        "countryCode": "ca",
+        "country": "Canada"
+      },
+      {
+        "serial": "44-35721",
+        "name": "Invader",
+        "location": "Palm Springs Air Museum",
+        "place": "Palm Springs, California, United States",
+        "note": "Registered N9425Z.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

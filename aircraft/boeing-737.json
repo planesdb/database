@@ -1,0 +1,227 @@
+{
+  "name": "737",
+  "fullName": "Boeing 737",
+  "manufacturer": "Boeing",
+  "originCountry": { "name": "United States", "code": "us" },
+  "category": "civilian",
+  "categories": ["cargo"],
+  "role": "Narrow-Body Commercial Airliner",
+  "tagline": "The Boeing 737 is a twin-engine, single-aisle airliner that has been in continuous production since 1967 - the longest production run of any jet airliner, and the largest, with 12,654 delivered by July 2026. Four generations have flown on essentially the same fuselage, from the JT8D-powered Original to today's LEAP-powered MAX, whose two MCAS-related crashes and 20-month worldwide grounding remain the defining crisis of Boeing's commercial business.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The 737 is the most-produced jet airliner in history - 12,654 had been delivered by July 2026, against 17,507 ordered.",
+    "Lufthansa launched the programme with an order for 21 aircraft in 1965, making the 737 the first Boeing airliner launched by a non-American customer.",
+    "Its landing gear was deliberately made short so the aircraft could be loaded and serviced at airports with no ground equipment - a 1960s convenience that has constrained every engine fitted to it since.",
+    "The flat-bottomed engine nacelles on Classic and Next Generation 737s exist because the CFM56's fan was too big to fit under the wing; moving the accessories to the sides produced the shape crews nicknamed the 'hamster pouch'.",
+    "Southwest Airlines flies nothing else - all 803 aircraft in its fleet are 737s.",
+    "The two MCAS-related crashes killed 346 people and grounded the worldwide MAX fleet for 20 months, the longest grounding ever imposed on a modern airliner."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the 737 MAX 8 - the highest-selling variant currently in production. Figures vary considerably across the type's four generations.",
+    "maxSpeed": { "mph": 544, "text": "473 kn (544 mph / 876 km/h)" },
+    "cruiseSpeed": "521 mph (839 km/h, Mach 0.79)",
+    "range": { "miles": 4028, "text": "4,028 mi (6,482 km, 3,500 nmi)" },
+    "serviceCeiling": { "ft": 41000, "text": "41,000 ft (12,500 m)" },
+    "wingspan": { "ft": 117.8, "text": "117 ft 10 in (35.9 m)" },
+    "length": { "ft": 129.5, "text": "129 ft 6 in (39.5 m)" },
+    "height": { "ft": 40.8, "text": "40 ft 10 in (12.45 m)" },
+    "weight": "empty: 99,360 lb (45,070 kg); MTOW: 182,200 lb (82,600 kg)",
+    "engines": "2 x CFM International LEAP-1B turbofans, 28,690 lbf (127.6 kN) each (737 MAX); earlier generations flew with Pratt & Whitney JT8D (Original) and CFM56-3 / CFM56-7 (Classic / Next Generation) engines",
+    "crew": "2 flight crew + 3-5 cabin crew (varies by operator and seating density)",
+    "capacity": "178 typical, 2-class (737 MAX 8) / up to 210 in single-class high-density layouts",
+    "firstFlight": { "date": "1967-04-09", "year": 1967 },
+    "serviceEntryDate": "1968-02-10",
+    "retiredDate": null,
+    "numberBuilt": 12654,
+    "unitCost": {
+      "usd": 121600000,
+      "text": "$121.6M (737 MAX 8 list price, 2019 - the last year Boeing published list prices; airlines negotiate well below this) - roughly $157M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$157M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "737-100 / -200 (Original)",
+      "desc": "The first generation, powered by Pratt & Whitney JT8D turbofans in long, slim nacelles fitted tight against the wing. Only 30 of the short -100 were built; the stretched -200 became the real product, with 1,114 delivered between 1967 and 1988. A gravel-kit option allowed operations from unpaved strips, which kept the type flying in the Canadian Arctic for decades."
+    },
+    {
+      "code": "737-300 / -400 / -500 (Classic)",
+      "desc": "Re-engined with the far more efficient CFM56-3 turbofan and built from 1984 to 2000, seating 110 to 168. The CFM56's larger fan would not fit under the low wing, so the accessory gearbox was moved to the sides of the nacelle, producing the flat-bottomed intake that defines the generation's look. 1,988 were built across the three sizes."
+    },
+    {
+      "code": "737-600 / -700 / -800 / -900ER (Next Generation)",
+      "desc": "A substantially new aircraft under a familiar skin, introduced in 1997: a redesigned wing with greater span and area, CFM56-7 engines, a glass cockpit and a higher cruise speed. The -800 became the workhorse of the low-cost sector and remains the most numerous 737 flying - Ryanair alone operates 410 of them. Over 7,000 Next Generation airframes were delivered."
+    },
+    {
+      "code": "737 MAX 7 / 8 / 9 / 10",
+      "desc": "The fourth generation, launched in 2011 against the Airbus A320neo and flying since 2017 on CFM LEAP-1B engines with split-tip winglets and a redesigned tail cone. Range is up to 3,500 nmi on the MAX 8. The MAX 8 and MAX 9 are certified and in service; the shorter MAX 7 and stretched MAX 10 were still awaiting certification in mid-2026, delayed by a redesign of the engine anti-ice system."
+    },
+    {
+      "code": "737 BBJ (Boeing Business Jet)",
+      "desc": "A corporate and head-of-state conversion combining a Next Generation or MAX fuselage with the strengthened wing and centre section of a heavier variant, plus auxiliary fuel tanks in the hold. The extra fuel roughly doubles range to around 6,000 nmi, turning a short-haul airliner into an intercontinental private aircraft. Several governments operate them as VIP transports."
+    },
+    {
+      "code": "P-8 Poseidon",
+      "desc": "The military derivative: a 737-800 fuselage married to 737-900ER wings, with a strengthened airframe for low-level flight, a weapons bay ahead of the wing and underwing hardpoints. Built for maritime patrol and anti-submarine warfare, it replaced the P-3 Orion with the U.S. Navy and has been ordered by the UK, India, Australia, Norway and others."
+    }
+  ],
+  "operators": [
+    { "name": "Southwest Airlines", "role": "Largest Operator", "status": "In Service", "since": "1971", "fleetSize": "803", "homeBase": "Dallas Love Field - Texas" },
+    { "name": "Ryanair", "role": "Largest Operator Outside the US", "status": "In Service", "since": "1994", "fleetSize": "620", "homeBase": "Dublin Airport - Ireland" },
+    { "name": "United Airlines", "role": "Major Operator", "status": "In Service", "since": "1968", "fleetSize": "~450", "homeBase": "Chicago O'Hare International Airport - Illinois" },
+    { "name": "Lufthansa", "role": "Launch Customer", "status": "Retired", "since": "1968", "fleetSize": "155 across all variants (22 -100, 47 -200, 46 -300, 7 -400, 33 -500); last retired 31 October 2016", "homeBase": "Frankfurt Airport - Germany" }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B738 / B38M (varies by variant)",
+    "howToFind": "Filter by the ICAO type code for the variant you want: B733/B734/B735 for the Classics, B737/B738/B739 for the Next Generation, and B37M/B38M/B39M for the MAX. It is rarely worth hunting for one - on an average day roughly 2,800 737s are airborne at once, so any busy European or North American airport will have several on approach at any moment. Southwest (callsign SWA) and Ryanair (RYR) fly nothing but 737s."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    { "date": "2026-09-05", "change": "Entry created - full article, specifications, variants and incident log written from Boeing, NTSB, FAA and named aviation-press sources.", "author": "planesdb" },
+    { "date": "2026-09-09", "change": "Replaced the placeholder fleetSize of \"0\" on the retired Lufthansa row with the real total of 155 aircraft across all variants.", "author": "planesdb" }
+  ],
+  "tags": ["737", "boeing 737", "737 max", "737-800", "max 8", "narrow body", "single aisle", "commercial airliner", "mcas", "next generation", "civilian"],
+  "article": {
+    "overview": [
+      "The Boeing 737 is a twin-engine, single-aisle airliner built by Boeing at Renton, Washington. It first flew on 9 April 1967 and entered service with Lufthansa on 10 February 1968, and has been in continuous production ever since - the longest production run of any jet airliner. {{ref:wiki-737}}",
+      "Four generations - Original, Classic, Next Generation and MAX - have been built on essentially the same fuselage cross-section, with 12,654 delivered against 17,507 ordered as of July 2026, making it the most-produced jet airliner in history. Its recent history is dominated by the MAX: two crashes caused by a flight-control system called MCAS killed 346 people and grounded the worldwide fleet for 20 months. {{ref:wiki-737}} {{ref:wiki-737max}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Boeing came late to the short-haul jet market. The Sud Aviation Caravelle, BAC One-Eleven and Douglas DC-9 all reached the segment first, and all three mounted their engines on the rear fuselage. Design work on the 737 began in 1964 and took the opposite approach, hanging the engines directly beneath the wing, which saved structural weight and freed the tail. Boeing also reused the fuselage cross-section of the 707 and 727 rather than drawing a new one, giving the 737 six-abreast seating where the DC-9 had five. Lufthansa launched the programme in February 1965 with an order for 21 aircraft - the first time a non-American airline had launched a Boeing jetliner. {{ref:wiki-737}}",
+          "The 737-100 first flew on 9 April 1967 and entered service with Lufthansa on 10 February 1968. It sold poorly: only 30 were built. The stretched -200, ordered by United, became the real product, and 1,114 were delivered before the line closed in 1988. Both were designed around operations at airports with minimal infrastructure, which is why the landing gear is so short - crews could load baggage and board passengers without ground equipment. That decision, taken for convenience in the 1960s, became the constraint every later generation had to design around. {{ref:wiki-737}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The 737's defining characteristic is how little its basic geometry has changed. Every generation retains the 707-derived fuselage cross-section and sits low to the ground on short gear, and the consequences show up in the engines. The Original's JT8D was a narrow turbojet-derived engine that fitted easily. The Classic's CFM56-3 did not: its fan was too large for the space beneath the wing, so engineers relocated the accessory gearbox to the sides of the nacelle, producing the flat-bottomed intake that gave the generation its distinctive look. For the MAX, the still larger LEAP-1B had to be mounted further forward and higher on the wing, and the nose gear was lengthened by eight inches to buy clearance. {{ref:wiki-737}} {{ref:wiki-737max}}",
+          "The MAX 8 is powered by two CFM LEAP-1B turbofans of 28,690 lbf each, carries 178 passengers in a typical two-class layout and has a range of 3,500 nmi. {{ref:wiki-737max}} {{ref:boeing-max}} Its split-tip winglets and reprofiled tail cone are aerodynamic refinements rather than a redesign, and that is deliberate: a common type rating across generations means an airline's pilots can move between a Next Generation and a MAX after short differences training, which is worth a great deal to an operator running a mixed fleet. Preserving that commonality was also the requirement that produced MCAS. {{ref:wiki-737max}}"
+        ]
+      },
+      {
+        "heading": "Classic and Next Generation",
+        "paragraphs": [
+          "The Classic generation - the -300, -400 and -500 - was built from 1984 to 2000 around the CFM56-3, seating 110 to 168 and totalling 1,988 aircraft. It also produced the type's first serious safety crisis. United Airlines Flight 585 crashed at Colorado Springs on 3 March 1991, killing 25, and USAir Flight 427 crashed near Pittsburgh on 8 September 1994, killing all 132 aboard. The NTSB eventually traced both to the rudder power control unit, whose servo valve could jam and drive the rudder opposite to the pilot's input. Boeing redesigned the rudder control system with redundant backup and retrofitted the entire worldwide fleet. {{ref:wiki-usair427}}",
+          "The Next Generation, launched in 1997, was a far larger change than its designation suggested: a new wing with greater span and area, CFM56-7 engines, a glass cockpit and a higher cruise speed, in four lengths from the -600 to the -900ER. More than 7,000 were delivered, and the -800 became the standard equipment of the low-cost sector - Ryanair still operates 410 of them, the largest -800 fleet in the world. {{ref:wiki-737}} {{ref:wiki-ryanair}} The same airframe also produced the Boeing Business Jet and, for the U.S. Navy, the P-8 Poseidon maritime patrol aircraft."
+        ]
+      },
+      {
+        "heading": "The MAX and the MCAS Crashes",
+        "paragraphs": [
+          "Boeing launched the MAX in 2011 to answer the Airbus A320neo. Mounting the larger LEAP-1B further forward and higher changed the aircraft's pitch behaviour at high angles of attack, so Boeing added the Maneuvering Characteristics Augmentation System - MCAS - to trim the nose down automatically and make the handling match a Next Generation, preserving the common type rating. As delivered, MCAS took its input from a single angle-of-attack sensor, could fire repeatedly, and was not described in the flight manuals or the differences training. {{ref:wiki-737max}}",
+          "Lion Air Flight 610 crashed into the Java Sea on 29 October 2018, killing all 189 on board, after a faulty angle-of-attack sensor triggered MCAS. Ethiopian Airlines Flight 302 crashed six minutes after takeoff on 10 March 2019 in near-identical circumstances, killing all 157. The FAA grounded the type on 13 March 2019 and did not clear it to fly again until 18 November 2020, 619 days later. Boeing settled in January 2021 for more than $2.5bn - a $243.6M criminal penalty, $1.77bn in airline compensation and $500M for victims' families - against direct grounding costs estimated at $20bn and around 1,200 cancelled orders. {{ref:wiki-groundings}} The redesigned system compares both angle-of-attack sensors, activates only once per triggering event, and can be overridden by the control column. {{ref:wiki-737max}}"
+        ]
+      },
+      {
+        "heading": "Manufacturing Quality & Regulatory Scrutiny",
+        "paragraphs": [
+          "On 5 January 2024 a door plug separated from Alaska Airlines Flight 1282, a 737 MAX 9, at about 16,000 ft over Oregon. The aircraft depressurised and landed safely; three people suffered minor injuries and nobody was killed. The NTSB's final report, adopted on 24 June 2025, found that four bolts securing the plug had never been reinstalled after Boeing opened it at Renton to repair damaged rivets, and named as probable cause Boeing's failure to provide the training, guidance and oversight its manufacturing staff needed to follow the parts-removal process. Ineffective FAA compliance and oversight activity was cited as a contributing factor. {{ref:ntsb-1282}}",
+          "The FAA capped 737 output at 38 aircraft a month in the weeks after the accident and held it there for nearly two years, lifting it to 42 in October 2025. {{ref:adn-rate}} Boeing began running the production system at 47 a month in May 2026 following an FAA capstone review, though it did not expect the rate to stabilise for several months. {{ref:fg-rate47}} Fuselages are still built by Spirit AeroSystems in Wichita and shipped by rail to Renton for final assembly - the split supply arrangement at the centre of the programme's quality problems. {{ref:wiki-737}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The 737 remains in production and in service worldwide, with roughly 4,853 aircraft still on order. {{ref:wiki-737}} The MAX 8 and MAX 9 are certified and flying; the shorter MAX 7 and stretched MAX 10 were still uncertified in mid-2026 after a redesign of the engine anti-ice system pushed both approvals back, with Boeing saying in May 2026 that it was in the final stages and expected the MAX 7 first. {{ref:fg-cert}} Southwest, the type's largest operator, had 269 MAX 7s on order and none delivered. {{ref:wiki-swa-fleet}}",
+          "The A320neo family has outsold the MAX, and the 737's ground clearance leaves little room for a further re-engine, so a fifth generation of the same airframe is generally regarded as impractical; Boeing has not committed to a replacement. In the meantime the type flies more sectors per day than any other airliner - as of 2018 an average of 2,800 were airborne simultaneously, with one taking off or landing somewhere every three seconds. {{ref:wiki-737}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    { "id": "wiki-737", "name": "Boeing 737", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Boeing_737" },
+    { "id": "wiki-737max", "name": "Boeing 737 MAX", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Boeing_737_MAX" },
+    { "id": "boeing-max", "name": "737 MAX - Technical Specifications", "publisher": "Boeing", "url": "https://www.boeing.com/commercial/737max" },
+    { "id": "ntsb-1282", "name": "In-Flight Separation of Door Plug, Alaska Airlines Flight 1282 (AIR-25-04)", "publisher": "National Transportation Safety Board", "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AIR2504.pdf" },
+    { "id": "adn-rate", "name": "FAA allows Boeing to increase 737 Max production nearly two years after door plug flew off Alaska Airlines jet", "publisher": "Anchorage Daily News", "url": "https://www.adn.com/alaska-news/aviation/2025/10/17/faa-allows-boeing-to-increase-737-max-production-nearly-two-years-after-door-plug-flew-off-alaska-airlines-jet/" },
+    { "id": "fg-rate47", "name": "Boeing starts running 737 production system at 47-monthly rate", "publisher": "FlightGlobal", "url": "https://www.flightglobal.com/archive/2026/05/boeing-starts-running-737-production-system-at-47-monthly-rate/" },
+    { "id": "fg-cert", "name": "Boeing in 'final stages' of 737 Max 7 and 10 certifications", "publisher": "FlightGlobal", "url": "https://www.flightglobal.com/aerospace/2026/05/boeing-in-final-stages-of-737-max-7-and-10-certifications/" },
+    { "id": "wiki-usair427", "name": "USAir Flight 427", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/USAir_Flight_427" },
+    { "id": "wiki-ryanair", "name": "Ryanair - Fleet", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ryanair" },
+    { "id": "wiki-swa-fleet", "name": "Southwest Airlines fleet", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Southwest_Airlines_fleet" },
+    { "id": "wiki-groundings", "name": "Boeing 737 MAX groundings", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings" }
+  ],
+  "furtherReading": [
+    { "name": "Boeing - 737 MAX", "url": "https://www.boeing.com/commercial/737max" },
+    { "name": "NTSB - Alaska Airlines Flight 1282 final report (AIR-25-04)", "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AIR2504.pdf" },
+    { "name": "Wikipedia - Boeing 737 MAX groundings", "url": "https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings" }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1988-04-28",
+      "title": "Aloha Airlines Flight 243 explosive decompression",
+      "tag": "Structural failure",
+      "summary": "An 18-foot section of upper fuselage tore away from a 737-297 at 24,000 ft over Hawaii, caused by metal fatigue worsened by crevice corrosion. A flight attendant was swept out of the aircraft and 65 people were injured, but the crew landed at Kahului. The accident reshaped regulation of ageing aircraft inspection.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Aloha_Airlines_Flight_243"
+    },
+    {
+      "date": "1991-03-03",
+      "title": "United Airlines Flight 585 rudder hardover",
+      "tag": "Flight control failure",
+      "summary": "A 737-291 rolled inverted and crashed on approach to Colorado Springs, killing everyone aboard. The cause went unexplained for years until the USAir 427 investigation identified a rudder power control unit malfunction as the likely mechanism.",
+      "fatalities": 25,
+      "source": "https://en.wikipedia.org/wiki/United_Airlines_Flight_585"
+    },
+    {
+      "date": "1994-09-08",
+      "title": "USAir Flight 427 rudder reversal",
+      "tag": "Flight control failure",
+      "summary": "A 737-3B7 rolled and dived into terrain near Pittsburgh, killing all 132 on board. The NTSB found the rudder power control unit's servo valve could jam and deflect the rudder opposite to the pilot's command; Boeing redesigned the system and retrofitted the world fleet.",
+      "fatalities": 132,
+      "source": "https://en.wikipedia.org/wiki/USAir_Flight_427"
+    },
+    {
+      "date": "2018-04-17",
+      "title": "Southwest Airlines Flight 1380 uncontained engine failure",
+      "tag": "Engine failure",
+      "summary": "A fan blade on the left CFM56-7B of a 737-7H4 failed from low-cycle fatigue, and debris breached a cabin window; one passenger was partially ejected and died. The FAA and EASA issued emergency airworthiness directives requiring ultrasonic inspection of high-cycle CFM56-7B fan blades across roughly 680 engines worldwide.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Southwest_Airlines_Flight_1380"
+    },
+    {
+      "date": "2018-10-29",
+      "title": "Lion Air Flight 610",
+      "tag": "Flight control system",
+      "summary": "A 737 MAX 8 crashed into the Java Sea 13 minutes after departing Jakarta, killing everyone on board. A faulty angle-of-attack sensor fed MCAS, which repeatedly trimmed the nose down; the system was not described in the flight manual.",
+      "fatalities": 189,
+      "source": "https://en.wikipedia.org/wiki/Lion_Air_Flight_610"
+    },
+    {
+      "date": "2019-03-10",
+      "title": "Ethiopian Airlines Flight 302",
+      "tag": "Flight control system",
+      "summary": "A 737 MAX 8 crashed six minutes after takeoff from Addis Ababa in circumstances closely matching Lion Air 610, killing all 157 aboard. Regulators grounded the MAX worldwide within days, a grounding that lasted until November 2020.",
+      "fatalities": 157,
+      "source": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_302"
+    },
+    {
+      "date": "2020-01-08",
+      "title": "Ukraine International Airlines Flight 752 shootdown",
+      "tag": "Shootdown",
+      "summary": "A 737-8KV was struck by two Tor-M1 surface-to-air missiles fired by Iran's Islamic Revolutionary Guard Corps shortly after departing Tehran, killing all 176 on board. Iran admitted responsibility three days later, attributing the launch to misidentification during a period of heightened alert.",
+      "fatalities": 176,
+      "source": "https://en.wikipedia.org/wiki/Ukraine_International_Airlines_Flight_752"
+    },
+    {
+      "date": "2024-01-05",
+      "title": "Alaska Airlines Flight 1282 door plug separation",
+      "tag": "Manufacturing defect",
+      "summary": "A left mid-exit door plug blew out of a 737 MAX 9 at about 16,000 ft over Oregon, causing rapid depressurisation; the aircraft landed safely with three minor injuries. The NTSB found four securing bolts had never been reinstalled after Boeing opened the plug at its Renton factory, and cited inadequate Boeing process control and ineffective FAA oversight.",
+      "fatalities": 0,
+      "source": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AIR2504.pdf"
+    },
+    {
+      "date": "2024-12-29",
+      "title": "Jeju Air Flight 2216 runway overrun",
+      "tag": "Bird strike",
+      "summary": "A 737-8AS struck a flock of Baikal teal on approach to Muan, lost engine power and made a gear-up landing before overrunning the runway into a concrete structure housing the localiser antenna. 179 of the 181 on board were killed; simulations later indicated all would have survived had the structure been frangible as international guidance requires.",
+      "fatalities": 179,
+      "source": "https://en.wikipedia.org/wiki/Jeju_Air_Flight_2216"
+    }
+  ]
+}

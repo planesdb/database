@@ -1,0 +1,270 @@
+{
+  "name": "Beluga",
+  "fullName": "Airbus A300-600ST Beluga",
+  "manufacturer": "Airbus",
+  "originCountry": {
+    "name": "Multinational (Europe)",
+    "code": "eu"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Outsize Cargo Transport",
+  "tagline": "The Airbus A300-600ST Beluga is a twin-engine outsize freighter built to move aircraft sections between Airbus factories, and its bulbous upper fuselage encloses a 1,400 cubic metre hold big enough to swallow a complete A340 wing set. Only five were built, and the last of them made its final flight on 29 January 2026 after nearly thirty years shuttling wings and fuselages around Europe.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Only five Belugas were ever built, all of them flown by Airbus Transport International and none sold to an outside customer.",
+    "The cargo deck is unpressurised and sealed off from the flight deck, so nobody can reach the load once the aircraft is airborne - a heating module keeps the contents within temperature limits instead.",
+    "In 1999 a Beluga flew Eugène Delacroix's 'Liberty Leading the People' from Paris to Tokyo for an exhibition, one of several charter jobs the type picked up between Airbus runs.",
+    "It carried complete space hardware for the International Space Station, including the Columbus laboratory and the Tranquility node.",
+    "Its 47-tonne payload limit is lower than a Boeing 747 freighter's - the Beluga was built around volume, not weight, and rarely fills the hold to the weight limit.",
+    "The final airframe, F-GSTF, completed roughly 13,300 journeys between Airbus sites and carried some 1,700 wings out of Broughton before retiring."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the production A300-600ST as operated by Airbus Transport International. Range varies sharply with payload: the quoted figure is with a full 40-tonne load.",
+    "maxSpeed": {
+      "mph": 483,
+      "text": "420 kn (483 mph / 778 km/h)"
+    },
+    "cruiseSpeed": "483 mph (778 km/h)",
+    "range": {
+      "miles": 1491,
+      "text": "1,491 mi (2,400 km, 1,295 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 35000,
+      "text": "35,000 ft (10,668 m)"
+    },
+    "wingspan": {
+      "ft": 147.1,
+      "text": "147 ft 1 in (44.84 m)"
+    },
+    "length": {
+      "ft": 184.3,
+      "text": "184 ft 3 in (56.15 m)"
+    },
+    "height": {
+      "ft": 56.6,
+      "text": "56 ft 7 in (17.24 m)"
+    },
+    "weight": "empty: 190,700 lb (86,500 kg); MTOW: 341,717 lb (155,000 kg)",
+    "engines": "2 x General Electric CF6-80C2A8 turbofans, 58,000 lbf (257 kN) each",
+    "crew": "2 flight crew",
+    "capacity": "47 tonnes (103,617 lb) maximum payload in a 1,400 cubic metre (49,440 cu ft) hold measuring 123 ft 8 in (37.7 m) long by 24 ft 3 in (7.4 m) in diameter - enough for one A330 or A340 wing set, two A320 or A321 wing sets, or two A310 fuselage sections",
+    "firstFlight": {
+      "date": "1994-09-13",
+      "year": 1994
+    },
+    "serviceEntryDate": "1996-01-01",
+    "retiredDate": "2026-01-29",
+    "numberBuilt": 5,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the five aircraft were built for Airbus's own logistics fleet and never offered for sale, though a figure of around 183 million euros per aircraft has been reported"
+    }
+  },
+  "variants": [
+    {
+      "code": "A300-600ST",
+      "desc": "The only version built, and the only model of the A300 family produced purely as an outsize freighter. Five were completed between 1994 and 2001 by Super Airbus Transport International, sharing the wings, engines, landing gear and lower fuselage of the A300-600R while replacing everything above the cabin floor with a horseshoe-shaped cargo shell. All five carried French registrations in the F-GST- series."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Airbus Transport International",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1996",
+      "fleetSize": "5",
+      "homeBase": "Toulouse-Blagnac Airport - France"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A3ST",
+    "howToFind": "The type is retired, so live tracking will no longer find one; historical tracks are still held under the registrations F-GSTA, F-GSTB, F-GSTC, F-GSTD and F-GSTF. Flights were operated by Airbus Transport International (4Y / BGA, callsign 'Belouga') between Toulouse, Hamburg, Bremen, Saint-Nazaire, Broughton and the other Airbus sites, and the same operator and callsign now carry the BelugaXL fleet under the type code A337."
+  },
+  "lastUpdated": "2026-09-08",
+  "changelog": [
+    {
+      "date": "2026-09-08",
+      "change": "Entry created - full article, specifications, variants and incident log written from Airbus, Wikipedia, Airliners.net, FlightGlobal, Flightradar24 and named aviation-press sources.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "beluga",
+    "airbus beluga",
+    "a300-600st",
+    "super transporter",
+    "belugast",
+    "outsize cargo",
+    "freighter",
+    "whale plane",
+    "airbus transport international",
+    "civilian"
+  ],
+  "article": {
+    "overview": [
+      "The Airbus A300-600ST Beluga is a twin-engine outsize freighter built to carry aircraft sections between Airbus factories in France, Germany, Spain and the United Kingdom. It first flew on 13 September 1994 and entered service in January 1996, and five were built. {{ref:wiki-beluga}} {{ref:an-a300st}}",
+      "Everything below the cabin floor is a standard A300-600R - the same wings, engines and landing gear - while the upper fuselage is replaced by a horseshoe-shaped shell enclosing a hold 37.7 m long and 7.4 m in diameter, loaded through a door hinged upwards over a cockpit dropped below the cargo floor. {{ref:wiki-beluga}} The type was withdrawn as Airbus completed its switch to the larger BelugaXL, and the last airframe flew for the final time on 29 January 2026. {{ref:airways-final}}"
+    ],
+    "sections": [
+      {
+        "heading": "Replacing the Super Guppy",
+        "paragraphs": [
+          "Airbus builds its aircraft in sections at plants scattered across four countries and assembles them in Toulouse and Hamburg, which makes moving wings and fuselage barrels a permanent industrial problem rather than an occasional one. Through the 1970s and 1980s that job fell to four Aero Spacelines Super Guppies, piston-era Boeing Stratocruiser airframes rebuilt around a bulged hold and driven by turboprops. They were slow, elderly and increasingly expensive to keep airworthy. Aérospatiale and DASA formed a joint venture, Super Airbus Transport International, in August 1991 to build a replacement on a modern jet airframe. {{ref:wiki-beluga}}",
+          "Construction of the first aircraft began in September 1992, the prototype rolled out in June 1994 and flew on 13 September that year. European certification followed in October 1995, and the first aircraft was delivered in January 1996. {{ref:wiki-beluga}} {{ref:fr24-belugast}} Three more arrived by mid-1998 and a fifth was added in 2001. {{ref:an-a300st}} The last Super Guppy flew for Airbus on 24 October 1997. {{ref:wiki-beluga}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The conversion kept the A300-600R's wings, engines, landing gear and lower fuselage untouched and removed everything above the cabin floor, replacing it with a horseshoe-shaped upper structure. {{ref:wiki-beluga}} The standard A300 cockpit was moved down below the cargo floor so the entire nose could hinge upwards as a single cargo door, giving straight-in access along the full length of the hold. The vertical stabiliser is a modified A340 fin on a 1.12 m base extension, and the tailplane was strengthened and fitted with auxiliary fins to cope with the airflow off the enlarged fuselage. {{ref:wiki-beluga}}",
+          "The hold is 37.7 m long, 7.4 m in diameter and encloses 1,400 cubic metres, enough for an A330 or A340 wing set, two A320 or A321 wing sets, or two A310 fuselage sections, up to a 47-tonne limit. {{ref:an-a300st}} That payload is modest for an aircraft of this size - a 747 freighter carries more than twice as much - because the Beluga was sized around volume rather than weight, and its loads are typically bulky and light. The cargo deck is not pressurised and cannot be reached in flight; a heating module keeps the contents within temperature limits instead, and the crew fly the whole sector sealed off from the load. {{ref:wiki-beluga}}"
+        ]
+      },
+      {
+        "heading": "Loading, Routes & Operations",
+        "paragraphs": [
+          "The nose-loading arrangement was the point of the design. Cargo rolls straight in on a roll-on, roll-off system, and loading could continue in winds of up to 40 knots - the fleet halved the turnaround times the Super Guppies had needed. {{ref:wiki-beluga}} The aircraft were operated by Airbus Transport International, a wholly owned Airbus subsidiary, under the callsign 'Belouga', flying roughly 60 sectors a week between Toulouse, Hamburg, Bremen, Saint-Nazaire, Broughton and the other Airbus sites. {{ref:wiki-beluga}}",
+          "Spare capacity was sold as charter work, and the Beluga became the aircraft of choice for cargo that fitted nothing else. It carried the Columbus laboratory and the Tranquility node for the International Space Station, complete NH90 and Tiger helicopters, satellites, and relief supplies after the 2004 Indian Ocean tsunami and Hurricane Katrina in 2005. {{ref:wiki-beluga}} In 1999 one flew Eugène Delacroix's 'Liberty Leading the People' from Paris to Tokyo for an exhibition, and in 1997 another set a record for the heaviest single item flown when it carried a chemical tank destined for a merchant ship. {{ref:fr24-belugast}}"
+        ]
+      },
+      {
+        "heading": "The Beluga Transport Venture",
+        "paragraphs": [
+          "As the BelugaXL took over Airbus's internal logistics, the company tried to find the older fleet a second career carrying outsize freight for outside customers. Airbus set up a dedicated airline, Airbus Beluga Transport, which obtained its own air operator's certificate in November 2023 and put all five A300-600STs to work on loads such as satellites, engines and helicopters - cargo that would otherwise go by ship or by Antonov. {{ref:fg-belugaairline}}",
+          "The venture lasted 14 months. Airbus announced its closure on 24 January 2025 and suspended every flight the same day, without setting out a reason beyond saying it was too early to predict a completion date for the wind-down. {{ref:fg-belugaairline}} The decision removed the last commercial argument for keeping the fleet flying and brought the retirement schedule forward."
+        ]
+      },
+      {
+        "heading": "What It Could Not Carry",
+        "paragraphs": [
+          "The size of the hold ruled the Beluga out of one of Airbus's own programmes. A380 fuselage barrels and wings were too large for a 7.4 m cargo bay, so they travelled to Toulouse by surface on a purpose-built water-and-road route, the Itinéraire à Grand Gabarit: roll-on, roll-off ships - Ville de Bordeaux, City of Hamburg and Ciudad de Cádiz - to French ports, barges up the Garonne timed against the tide for depth on the way in and bridge clearance on the way under, and finally night-time road convoys past some 20 towns on the N524, N124 and N224, carrying loads up to 14 m high, 8 m wide and 50 m long. {{ref:wiki-igg}}",
+          "Boeing met the same problem on the 787 and answered it differently, converting four second-hand 747-400s into Dreamlifters that load through a swing tail rather than a hinged nose. The first flew on 9 September 2006 and the type entered service in 2007; its 1,840 cubic metre hold and 113,400 kg payload both exceed the Beluga's, and it cut the delivery of Japanese-built wings to Washington state from around 30 days by sea to a little over eight hours. {{ref:wiki-dreamlifter}} The Beluga's advantage was cadence rather than capacity - five aircraft flying roughly 60 short sectors a week suited a production system whose plants all sit within a couple of hours of each other."
+        ]
+      },
+      {
+        "heading": "Retirement & Legacy",
+        "paragraphs": [
+          "The airframes came out of service one at a time. F-GSTD, the third built, made its final flight on 17 September 2025 and went into storage, joining F-GSTA, F-GSTB and F-GSTC, and was flown to the Aeroscopia museum at Toulouse on 26 June 2026 to be displayed alongside the museum's Concorde, Super Guppy and A380. {{ref:airdatanews-gstd}} {{ref:traicy-aeroscopia}} F-GSTF, the last active aircraft, flew from Bordeaux to Broughton in North Wales on 29 January 2026 and was retired on the spot, to be rebuilt as a STEM education facility for local schools at the plant whose wings it had spent 25 years carrying. {{ref:airways-final}} {{ref:aviationist-st5}}",
+          "The type's replacement, the A330-based BelugaXL, entered service in January 2020 and completes the changeover as the primary Airbus transport from mid-2027, with six aircraft serving 11 European sites. {{ref:airbus-beluga}} {{ref:wiki-belugaxl}} The Beluga's real legacy is narrower than its fame: it never carried a paying passenger and never sold a single airframe to an outside customer, but for thirty years it made a manufacturing model spread across four countries work on a daily schedule, and it did so while looking sufficiently absurd to become one of the most recognisable aircraft in the world."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-beluga",
+      "name": "Airbus Beluga",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_Beluga"
+    },
+    {
+      "id": "wiki-belugaxl",
+      "name": "Airbus BelugaXL",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_BelugaXL"
+    },
+    {
+      "id": "airbus-beluga",
+      "name": "The iconic Airbus Beluga Super Transporter",
+      "publisher": "Airbus",
+      "url": "https://www.airbus.com/en/products-services/commercial-aircraft/freighter/beluga"
+    },
+    {
+      "id": "an-a300st",
+      "name": "Airbus A300-600ST Super Transporter",
+      "publisher": "Airliners.net",
+      "url": "https://www.airliners.net/aircraft-data/airbus-a300-600st-super-transporter/19"
+    },
+    {
+      "id": "fg-belugaairline",
+      "name": "Airbus to close A300-600ST Beluga airline just 14 months after gaining AOC",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/fleets/2025/01/airbus-to-close-a300-600st-beluga-airline-just-14-months-after-gaining-aoc/"
+    },
+    {
+      "id": "airways-final",
+      "name": "Last Active Airbus BelugaST Makes Final Flight",
+      "publisher": "Airways",
+      "url": "https://www.airwaysmag.com/new-post/last-active-belugast-final-flight"
+    },
+    {
+      "id": "aviationist-st5",
+      "name": "Iconic Airbus Beluga Super Transporter Retires to Become STEM Hub at Broughton",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/01/29/iconic-airbus-beluga-retires-broughton/"
+    },
+    {
+      "id": "airdatanews-gstd",
+      "name": "Airbus BelugaST F-GSTD makes final flight before retirement",
+      "publisher": "Air Data News",
+      "url": "https://www.airdatanews.com/airbus-concludes-belugast-operations-final-flight-fgstd/"
+    },
+    {
+      "id": "traicy-aeroscopia",
+      "name": "Airbus Transfers BelugaST to Toulouse's Aeroscopia Museum",
+      "publisher": "TRAICY Global",
+      "url": "https://en.traicy.com/posts/2026062637144/"
+    },
+    {
+      "id": "fr24-belugast",
+      "name": "The Airbus Beluga ST: A Whale of a Story",
+      "publisher": "Flightradar24",
+      "url": "https://www.flightradar24.com/blog/aircraft-stories/the-airbus-beluga-st-a-whale-of-a-story/"
+    },
+    {
+      "id": "wiki-igg",
+      "name": "Itinéraire à Grand Gabarit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Itin%C3%A9raire_%C3%A0_Grand_Gabarit"
+    },
+    {
+      "id": "wiki-dreamlifter",
+      "name": "Boeing Dreamlifter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_Dreamlifter"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Airbus - The iconic Airbus Beluga Super Transporter",
+      "url": "https://www.airbus.com/en/products-services/commercial-aircraft/freighter/beluga"
+    },
+    {
+      "name": "Flightradar24 - The Airbus Beluga ST: A Whale of a Story",
+      "url": "https://www.flightradar24.com/blog/aircraft-stories/the-airbus-beluga-st-a-whale-of-a-story/"
+    },
+    {
+      "name": "Aviation Safety Network - A300-608ST F-GSTF, 26 February 2018",
+      "url": "https://aviation-safety.net/wikibase/206776"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2018-02-26",
+      "title": "Flight deck cable fire, F-GSTF",
+      "tag": "Onboard fire",
+      "summary": "Smoke appeared on the flight deck of F-GSTF as it descended through FL200 north of Bremen on a Chester to Hamburg-Finkenwerder run. The crew declared an emergency and landed about 15 minutes later; a cable fire on the flight deck had self-extinguished, and the aircraft suffered minor damage.",
+      "fatalities": 0,
+      "source": "https://aviation-safety.net/wikibase/206776"
+    },
+    {
+      "date": "2025-09-17",
+      "title": "F-GSTD flies its last sector",
+      "tag": "Milestone",
+      "summary": "The third airframe built made its final flight and was placed in storage, leaving F-GSTF as the only Beluga still available for reactivation. It was flown to the Aeroscopia museum in Toulouse on 26 June 2026 for permanent display.",
+      "source": "https://www.airdatanews.com/airbus-concludes-belugast-operations-final-flight-fgstd/"
+    },
+    {
+      "date": "2026-01-29",
+      "title": "Final flight of the type, F-GSTF to Broughton",
+      "tag": "Retirement",
+      "summary": "The last active Beluga flew from Bordeaux to Airbus Broughton in North Wales and was retired on arrival after roughly 13,300 inter-site journeys and some 1,700 wings carried. It is being converted on site into a STEM education facility.",
+      "source": "https://www.airwaysmag.com/new-post/last-active-belugast-final-flight"
+    }
+  ]
+}

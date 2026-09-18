@@ -1,0 +1,341 @@
+{
+  "name": "F-86 Sabre",
+  "fullName": "North American F-86 Sabre",
+  "manufacturer": "North American Aviation",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Cold War Jet Fighter",
+  "tagline": "America's first swept-wing jet fighter and the dominant Allied type of the Korean War's 'MiG Alley' dogfights. Flying against the similarly capable Soviet-built MiG-15, Sabre pilots claimed a favourable kill ratio that helped establish jet-versus-jet combat as the new standard of aerial warfare.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Developed from an initial straight-wing design that was reworked with a 35-degree swept wing after North American engineers gained access to captured German wartime aerodynamic research, the Sabre first flew in October 1947 and quickly proved itself capable of exceeding the speed of sound in a dive, becoming one of the first aircraft in the world to do so. It entered USAF service in 1949 and was rushed to Korea in late 1950 after American pilots flying older straight-wing F-80s and F-84s found themselves outclassed by the surprise appearance of Soviet-supplied, swept-wing MiG-15s flown by Soviet, Chinese and North Korean pilots. The resulting air battles over the Yalu River region, dubbed 'MiG Alley', became the first sustained jet-on-jet aerial combat in history; American pilots, benefiting from a superior gunsight and better training even though the MiG-15 could out-climb and out-turn the Sabre at altitude, claimed a kill ratio long cited as roughly 10:1 in the West, though post-Cold War access to Soviet records has led historians to revise that figure down considerably, with most now estimating a ratio closer to 2:1 in the Sabre's favour once losses on both sides are more completely accounted for. Beyond Korea, the Sabre was built and flown in vast numbers by dozens of allied air forces through license production, with total production (including derivatives) exceeding 9,800 aircraft, making it one of the most widely used Western fighters of the early Cold War before being superseded by second-generation supersonic designs like the F-100 and F-104 in frontline US service during the late 1950s.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 687,
+      "text": "597 kn (687 mph / 1,106 km/h)"
+    },
+    "cruiseSpeed": "~540 mph (869 km/h)",
+    "range": {
+      "miles": 850,
+      "text": "850 mi (1,370 km) on internal fuel; up to 1,525 mi (2,454 km) with drop tanks"
+    },
+    "serviceCeiling": {
+      "ft": 49000,
+      "text": "49,000 ft (14,900 m)"
+    },
+    "wingspan": {
+      "ft": 37.08,
+      "text": "37 ft 1 in (11.3 m)"
+    },
+    "length": {
+      "ft": 37.5,
+      "text": "37 ft 6 in (11.43 m)"
+    },
+    "height": {
+      "ft": 14.75,
+      "text": "14 ft 9 in (4.5 m)"
+    },
+    "weight": "empty: 11,125 lb (5,046 kg); loaded: 15,876 lb (7,200 kg)",
+    "engines": "1 x General Electric J47-GE-27 turbojet, 5,910 lbf thrust with afterburner",
+    "armament": "6 x .50 in (12.7 mm) M3 Browning machine guns; underwing hardpoints for up to 2,000 lb of bombs or unguided rockets",
+    "crew": "1 (pilot); two-seat trainer variant (T-33-style) carried 2",
+    "capacity": "N/A - single-seat fighter; could carry up to 2,000 lb of bombs or rockets for ground attack",
+    "firstFlight": {
+      "date": "1947-10-01",
+      "year": 1947
+    },
+    "serviceEntryDate": "1949-03-01",
+    "retiredDate": "1994",
+    "numberBuilt": 9860,
+    "unitCost": {
+      "usd": 178000,
+      "text": "~$178,000 unit cost (1953 dollars; roughly $2.2M in 2026 dollars, adjusted for CPI inflation)",
+      "inflationText": "≈$2.2M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "F-86A",
+      "desc": "Original production version that entered USAF service in 1949."
+    },
+    {
+      "code": "F-86E/F",
+      "desc": "Korean War-era variants with an all-flying tail that greatly improved high-speed control; the definitive 'MiG Alley' Sabre."
+    },
+    {
+      "code": "F-86D Sabre Dog",
+      "desc": "All-weather interceptor variant with a search radar in a distinctive enlarged nose and rocket-only armament, a substantially different aircraft internally."
+    },
+    {
+      "code": "CL-13 Sabre (Canadair)",
+      "desc": "Canadian license-built version, widely exported to NATO allies including West Germany, and flown by the RCAF's Golden Hawks aerobatic team."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Wartime Operator",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "6,297 built by North American for the USAF, plus 1,115 navalised FJ Furys",
+      "homeBase": "USAF bases worldwide, including Korea and Western Europe",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "Royal Canadian Air Force (Canadair Sabre)",
+      "role": "Largest Licence Operator",
+      "status": "Retired",
+      "since": "1950",
+      "fleetSize": "1,815 licence-built; surplus airframes re-sold to Turkey, Pakistan, West Germany and South Africa",
+      "homeBase": "RCAF stations, Canada and West Germany",
+      "logo": "rcaf.webp"
+    },
+    {
+      "name": "Republic of China (Taiwan) Air Force",
+      "role": "Cold War Combat Operator",
+      "status": "Retired",
+      "since": "1954",
+      "fleetSize": "345 - the largest export fleet, and the first to score kills with the AIM-9 Sidewinder in 1958",
+      "homeBase": "Taiwanese airbases"
+    },
+    {
+      "name": "Japan Air Self-Defense Force (Mitsubishi Sabre)",
+      "role": "Licence Operator",
+      "status": "Retired",
+      "since": "1955",
+      "fleetSize": "300 licence-built by Mitsubishi, plus 180 US-built F-86Fs and 18 reconnaissance aircraft",
+      "homeBase": "JASDF bases across Japan"
+    },
+    {
+      "name": "Spanish Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "1955",
+      "fleetSize": "270 F-86Fs - the largest European export fleet",
+      "homeBase": "Spanish airbases"
+    },
+    {
+      "name": "Pakistan Air Force",
+      "role": "Cold War Combat Operator",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "102 F-86Fs, later supplemented by 90 ex-Luftwaffe Canadair Sabres; flown in the 1965 and 1971 wars with India",
+      "homeBase": "Pakistani airbases",
+      "logo": "pakistan-air-force.webp"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Wartime & Cold War Operator",
+      "status": "Retired",
+      "since": "1955",
+      "fleetSize": "112 F-86Fs and 10 RF-86Fs",
+      "homeBase": "South Korean airbases",
+      "logo": "rokaf.webp"
+    },
+    {
+      "name": "Royal Australian Air Force (CAC Avon Sabre)",
+      "role": "Licence Operator",
+      "status": "Retired",
+      "since": "1954",
+      "fleetSize": "112 licence-built with Avon engines and 30 mm ADEN cannon; survivors passed to Malaysia and Indonesia",
+      "homeBase": "RAAF Williamtown and Butterworth, Malaya"
+    },
+    {
+      "name": "~30 other air forces worldwide",
+      "role": "Export Operators",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "9,860 built in five countries; fleets in Italy (221), Yugoslavia (121), Turkey (107), Portugal (65), Denmark (59) and ~25 more",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "SABR",
+    "howToFind": "A number of F-86 Sabres remain airworthy in private warbird collections, particularly in the US, and appear at major airshows; visible on Flightradar24 during transit and display flights with civil registrations."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "F-86 Sabre"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Europe's last flying MiG-17 and F-86 Sabre jets set for Airbourne airshow debut",
+      "source": "Air-Shows.org.uk",
+      "date": "2026-05-01",
+      "category": "Airshow",
+      "url": "https://www.air-shows.org.uk/2026/05/airshow-news-europes-last-remaining-mig-17-and-f-86-sabre-jets-to-make-airbourne-debut/"
+    },
+    {
+      "title": "Royal Aviation Museum restores the last F-86 Sabre built by Canadair",
+      "source": "Skies Mag",
+      "date": "2024-08-02",
+      "category": "Restoration",
+      "url": "https://skiesmag.com/news/restoring-the-last-f-86-sabre-fighter-jet/"
+    }
+  ],
+  "tags": [
+    "f-86 sabre",
+    "korean war",
+    "mig alley",
+    "swept wing fighter",
+    "cold war jet",
+    "north american aviation",
+    "jet fighter",
+    "mig-15 rival"
+  ],
+  "quickFacts": [
+    "In MiG Alley the Sabre's claimed kill ratio against the MiG-15 was 10-to-1; modern research puts the real figure lower, but the Sabre pilots' dominance was real.",
+    "Its swept wing came directly from captured German wartime research - grafted onto the design mid-development.",
+    "Jackie Cochran became the first woman through the sound barrier in 1953, diving a Canadair-built Sabre.",
+    "The last military Sabres served Bolivia until 1993 - a 44-year front-line career.",
+    "The 1972 Sacramento accident, when a privately owned Sabre crashed into an ice-cream parlour killing 22 people, reshaped US airshow and warbird regulation forever."
+  ],
+  "article": {
+    "overview": [
+      "The North American F-86 Sabre is an American single-engine, swept-wing jet fighter built by North American Aviation. It was the first Western fighter to exploit swept-wing aerodynamics derived from captured German research.{{ref:wiki-f86}}",
+      "Sabre pilots fought MiG-15s over Korea's 'MiG Alley' from 1950 to 1953 and achieved a favourable kill ratio credited to superior pilot training. Nearly 10,000 were built for more than 30 air forces, making it the most-produced Western jet fighter.{{ref:wiki-f86}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Sabre began life straight-winged - a naval jet derivative that promised to be thoroughly ordinary. Then German wartime research reached North American in 1945, and the company gambled the schedule on rebuilding the design around a 35-degree swept wing with automatic leading-edge slats tamed straight from the Me 262's aerodynamic lineage.{{ref:wiki-f86}}",
+          "The gamble bought greatness: the XP-86 flew on 1 October 1947, and within a year a production Sabre took the world speed record. When Soviet MiG-15s - born of the same German research - appeared over Korea in November 1950 and outclassed everything in theatre, the Sabre was the only Western fighter that could answer, and it was rushed to war within weeks.{{ref:wiki-f86}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "MiG Alley became history's first sustained jet-versus-jet arena. On paper the MiG-15 held the cards - it climbed faster, flew higher and hit harder. In the air, the Sabre's superior handling near the sonic limit, radar-ranging gunsight, and above all its pilots - many WWII veterans facing mostly green opponents - reversed the arithmetic: roughly 40 MiGs fell for every 10 Sabres in the classic accounting, with even conservative modern revisions leaving the Sabre clearly ahead.{{ref:wiki-migalley}}",
+          "All 39 American jet aces of Korea flew Sabres. The lessons written over the Yalu - train pilots ruthlessly, prize handling and visibility, own the transonic regime - shaped Western fighter doctrine for a generation.{{ref:wiki-f86}}",
+          "The type's combat career ran long past Korea: Pakistani Sabres fought India in 1965 and 1971, Taiwanese Sabres fired the first air-to-air missiles used in combat (early Sidewinders, 1958), and air forces from Argentina to Portugal flew the type operationally into the 1970s - Bolivia retiring the world's last military Sabres in 1994.{{ref:wiki-f86}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Sabre's genius was harmony. The slatted swept wing gave benign stalls where rivals snapped; the all-flying tail (from the F-86E onward) kept control crisp through the transonic wall that froze other jets' elevators; and the bubble canopy gave the all-round view that wins gunfights. Pilots from Chuck Yeager's generation consistently called it the finest-flying jet of its era.{{ref:wiki-f86}}",
+          "Its six .50-calibre Brownings were criticised as light against jet airframes - many MiGs limped home full of holes - but the A-4 radar-ranging gunsight put those rounds on target at deflection angles gun cameras had never seen before. Interceptor (F-86D), fighter-bomber (F-86H) and navalised (FJ Fury) branches stretched the family to nearly 10,000 aircraft including Canadian, Australian and Japanese production.{{ref:wiki-f86}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Canadair's licence line mattered nearly as much as North American's: over 1,800 Canadian Sabres, the best of them powered by the Orenda engine that made the Sabre Mk 6 the fastest-climbing of the whole family - the mount of the RCAF's crack European squadrons and of West Germany's rebuilt Luftwaffe, where Erich Hartmann's old comrades transitioned onto the jet that had beaten their doctrine's heirs.{{ref:wiki-canadair}}",
+          "Australia went further still, rebuilding the design around the Avon engine and twin 30mm cannon; Japan's Mitsubishi-assembled Sabres seeded the postwar Japanese aviation industry.{{ref:wiki-f86}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Sabre closed the gun-fighter era and opened the missile era with the same basic airframe. Its Korean combat record - showing that pilot skill and aircraft handling can outweigh an opponent's better spec-sheet numbers - is still taught at Western fighter weapons schools.{{ref:wiki-f86}}",
+          "Dozens survive airworthy and remain regular performers at jet-age warbird displays{{ref:nasm-f86}}, and its silhouette - nose intake, swept wing, bubble canopy - is widely used as shorthand for 'jet fighter' in logos and murals.{{ref:wiki-f86}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f86",
+      "name": "North American F-86 Sabre",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_American_F-86_Sabre"
+    },
+    {
+      "id": "wiki-migalley",
+      "name": "MiG Alley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MiG_Alley"
+    },
+    {
+      "id": "wiki-canadair",
+      "name": "Canadair Sabre",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Canadair_Sabre"
+    },
+    {
+      "id": "nasm-f86",
+      "name": "North American F-86A Sabre",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/north-american-f-86a-sabre/nasm_A19610123000"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - North American F-86 Sabre",
+      "url": "https://en.wikipedia.org/wiki/North_American_F-86_Sabre"
+    },
+    {
+      "name": "National Museum of the US Air Force - F-86A Sabre",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196378/north-american-f-86a-sabre/"
+    },
+    {
+      "name": "Smithsonian National Air and Space Museum - F-86 Sabre",
+      "url": "https://airandspace.si.edu/collection-objects/north-american-f-86a-sabre/nasm_A19560048000"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster from the full operators list - added the Taiwanese, Japanese, Spanish, South Korean and Australian fleets, gave every row a real delivered figure, and folded the remaining ~30 export customers into a combined row. Attached a previously uncited reference.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1952-02-10",
+      "title": "Death of ace Maj. George A. Davis Jr.",
+      "summary": "Leading American ace Maj. George Davis broke formation near the Yalu River to pursue MiG-15s with only his wingman. After downing two, his F-86 was hit by cannon fire from an unseen MiG and crashed into the mountains, killing him.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://theaviationgeekclub.com/mig-madness-and-the-story-of-george-davis-the-only-american-ace-to-be-killed-in-combat-in-korea/"
+    },
+    {
+      "date": "1955-08-17",
+      "title": "Mid-air collision at West Camel",
+      "summary": "A Royal Air Force Canadair Sabre collided in mid-air with a Royal Navy Hawker Sea Hawk near RNAS Yeovilton, Somerset. Both pilots were killed and both aircraft destroyed.",
+      "fatalities": 2,
+      "tag": "Mid-air collision",
+      "source": "https://aviation-safety.net/wikibase/90465"
+    },
+    {
+      "date": "1972-09-24",
+      "title": "Sacramento ice-cream-parlour crash",
+      "summary": "A civilian-owned Canadair Sabre, flown by a pilot with fewer than four hours on type, over-rotated on takeoff from Sacramento Executive Airport and crashed into a Farrell's Ice Cream Parlour. Twenty-two people on the ground were killed; the pilot survived.",
+      "fatalities": 22,
+      "tag": "Ground-impact accident",
+      "source": "https://en.wikipedia.org/wiki/1972_Sacramento_Canadair_Sabre_accident"
+    }
+  ]
+}

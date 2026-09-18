@@ -1,0 +1,471 @@
+{
+  "name": "Eurofighter Typhoon",
+  "fullName": "Eurofighter Typhoon",
+  "manufacturer": "Eurofighter Jagdflugzeug GmbH (Airbus, BAE Systems, Leonardo)",
+  "originCountry": {
+    "name": "Multinational (Europe)",
+    "code": "eu"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Multirole / Swing-Role Combat Aircraft",
+  "tagline": "The world's most advanced swing-role combat aircraft. Built by a European consortium of Airbus, BAE Systems and Leonardo, it pairs a CAPTOR-E AESA radar and lightweight carbon-fibre composite construction with the ability to shift between air-to-air and air-to-surface roles within the same mission.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "The Eurofighter project was initiated to create a highly agile fighter for European partner nations, culminating in the first flight of the Development Aircraft 1 (DA1) in 1994, piloted by test pilot Peter Weger. The aircraft formally entered operational service in 2003. Over its operational life, it has transitioned from a pure air superiority fighter to a swing-role combat system through continuous modernization packages, including the Phase 3 Enhancement (P3E) program and integration of advanced precision weapons like Storm Shadow and Brimstone. In early 2026, the Eurofighter fleet reached a historic milestone by passing one million flying hours across its operators. The platform continues to evolve, with future developments such as the electronic combat variant (Eurofighter EK) for Germany and ECRS Mk2 radar integrations ensuring it remains at the forefront of combat aviation well into the 2030s.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1550,
+      "text": "1,347 kn (1,550 mph / 2,495 km/h)"
+    },
+    "cruiseSpeed": "Supercruise capable at high subsonic / supersonic speeds without afterburner",
+    "range": {
+      "miles": 1800,
+      "text": "~1,800 mi (2,900 km) with drop tanks; combat radius ~864 mi (1,390 km)"
+    },
+    "serviceCeiling": {
+      "ft": 55000,
+      "text": "55,000 ft (16,765 m)"
+    },
+    "wingspan": {
+      "ft": 35.9,
+      "text": "35.9 ft (10.95 m)"
+    },
+    "length": {
+      "ft": 52.4,
+      "text": "52.4 ft (15.96 m)"
+    },
+    "height": {
+      "ft": 17.3,
+      "text": "17.3 ft (5.28 m)"
+    },
+    "weight": "empty: 24,250 lb (11,000 kg); MTOW: 51,800 lb (23,500 kg)",
+    "engines": "2 × Eurojet EJ200 afterburning turbofans (13,500 lbf dry; 20,000-20,250 lbf with afterburner each)",
+    "crew": "1 (single-seat) or 2 (twin-seat trainer/combat variant)",
+    "capacity": "Up to 9,000 kg (19,841 lb) of payload on 13 external hardpoints",
+    "firstFlight": {
+      "date": "1994-03-27",
+      "year": 1994
+    },
+    "serviceEntryDate": "2003-08-04",
+    "retiredDate": null,
+    "numberBuilt": 600,
+    "unitCost": {
+      "usd": 120000000,
+      "text": "Not publicly disclosed - varies heavily by tranche, contract and equipment package"
+    },
+    "combatLosses": "No Typhoon has ever been lost to enemy action. One Royal Saudi Air Force aircraft was lost on 13 Sep 2017 after flying into a mountain during a combat sortie over Yemen - the type's only loss during an active combat mission, attributed to a technical/navigational failure rather than hostile fire."
+  },
+  "variants": [
+    {
+      "code": "Tranche 1",
+      "desc": "Initial production standard focused primarily on basic air defense and air superiority capabilities."
+    },
+    {
+      "code": "Tranche 2",
+      "desc": "Introduced advanced mission computers and full air-to-surface capabilities."
+    },
+    {
+      "code": "Tranche 3",
+      "desc": "Featured structural modifications for conformal fuel tanks, increased computing power, and provisions for AESA radar."
+    },
+    {
+      "code": "Tranche 4 / Quadriga",
+      "desc": "Latest production standard featuring the CAPTOR-E AESA radar and modernized avionics, recently ordered by Germany."
+    },
+    {
+      "code": "Eurofighter EK",
+      "desc": "Upcoming electronic combat variant developed for Germany to provide advanced electronic warfare capabilities."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force (UK)",
+      "role": "Primary Operator / Partner",
+      "status": "In Service",
+      "since": "2003",
+      "fleetSize": "~102 (post-Tranche 1 drawdown)",
+      "homeBase": "RAF Coningsby / RAF Lossiemouth",
+      "logo": "raf.png"
+    },
+    {
+      "name": "German Air Force (Luftwaffe)",
+      "logo": "luftwaffe.webp",
+      "role": "Primary Operator / Partner",
+      "status": "In Service",
+      "since": "2004",
+      "fleetSize": "~140+",
+      "homeBase": "Neuburg / Laage / Wittmund / Nörvenich"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Primary Operator / Partner",
+      "status": "In Service",
+      "since": "2004",
+      "fleetSize": "~94",
+      "homeBase": "Grosseto / Gioia del Colle / Trapani / Istrana",
+      "logo": "italian-air-force.webp"
+    },
+    {
+      "name": "Spanish Air and Space Force",
+      "role": "Primary Operator / Partner",
+      "status": "In Service",
+      "since": "2004",
+      "fleetSize": "~70",
+      "homeBase": "Morón / Albacete",
+      "logo": "spanish-air-force.webp"
+    },
+    {
+      "name": "Royal Saudi Air Force",
+      "role": "Largest Export Operator",
+      "status": "In Service",
+      "since": "2009",
+      "fleetSize": "72 delivered in full by June 2017 under the Al Salam contract - the largest Typhoon export order",
+      "homeBase": "Dhahran and Taif, Saudi Arabia"
+    },
+    {
+      "name": "Kuwait Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2021",
+      "fleetSize": "28 ordered in 2016, 15 delivered as of March 2024",
+      "homeBase": "Ali Al Salem Air Base, Kuwait"
+    },
+    {
+      "name": "Qatar Emiri Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "24 ordered in 2017 with 22 delivered, plus 12 more confirmed in December 2024",
+      "homeBase": "Dukhan (Tamim) Air Base, Qatar"
+    },
+    {
+      "name": "Austrian Air Force",
+      "role": "First Export Customer",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "15 delivered from July 2007, reduced from an original 18",
+      "homeBase": "Zeltweg Air Base, Austria"
+    },
+    {
+      "name": "Royal Air Force of Oman",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2017",
+      "fleetSize": "12 ordered in 2012 and formally handed over in May 2017",
+      "homeBase": "Adam Air Base, Oman"
+    },
+    {
+      "name": "Turkish Air Force",
+      "role": "Export Customer",
+      "status": "On Order",
+      "since": "2025 (memorandum)",
+      "fleetSize": "44 planned - 20 new-build agreed in July 2025 plus 12 second-hand aircraft",
+      "homeBase": "Turkish airbases"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "EUFI",
+    "howToFind": "Search Flightradar24's aircraft-type field for 'EUFI'. Training sorties from bases like RAF Coningsby, Grosseto, and Manching are frequently visible."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Eurofighter News",
+      "url": "https://www.eurofighter.com/news",
+      "topicTag": "Eurofighter"
+    },
+    {
+      "name": "Airbus Press Releases",
+      "url": "https://www.airbus.com/en/newsroom",
+      "topicTag": "Eurofighter"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Additional Eurofighter operators eye APKWS rocket integration",
+      "source": "FlightGlobal",
+      "date": "2026-06-01",
+      "category": "Weapons",
+      "url": "https://www.flightglobal.com/defence/2026/06/additional-eurofighter-operators-eyeing-apkws-rocket-integration-as-bae-expands-capability/"
+    },
+    {
+      "title": "A wave of nations is reportedly buying Eurofighter Typhoon over the F-35",
+      "source": "19FortyFive",
+      "date": "2026-07-01",
+      "category": "Feature",
+      "url": "https://www.19fortyfive.com/2026/07/stealth-surprise-a-wave-of-nations-is-buying-europes-eurofighter-typhoon-instead-of-the-f-35/"
+    },
+    {
+      "title": "New-generation Eurofighter takes shape in Spain",
+      "source": "Journal Aviation",
+      "date": "2026-06-02",
+      "category": "Production",
+      "url": "https://www.journal-aviation.com/en/aerospace-news/new-generation-eurofighter-takes-shape-in-spain-20260602.html"
+    }
+  ],
+  "tags": [
+    "eurofighter",
+    "typhoon",
+    "eufi",
+    "fighter jet",
+    "multirole",
+    "swing-role",
+    "airbus",
+    "bae systems",
+    "leonardo",
+    "nato",
+    "fast jet",
+    "military"
+  ],
+  "quickFacts": [
+    "The RAF has never lost a Typhoon in over two decades of operations - a safety record almost unheard of for a front-line fast-jet fleet.",
+    "A Typhoon holding Quick Reaction Alert can be airborne from a hangar at RAF Coningsby or Lossiemouth in under ten minutes, around the clock, 365 days a year.",
+    "In December 2021 an RAF Typhoon over Syria scored the RAF's first air-to-air kill since the Falklands War - destroying a small hostile drone.",
+    "The fleet passed one million flying hours across all operators in January 2026.",
+    "It is deliberately unstable in pitch to maximise agility - the flight computers make around 100 corrections per second just to keep it pointing forwards.",
+    "Its pilots can lock targets simply by looking at them: the helmet-mounted sight cues missiles to wherever the pilot's head is turned.",
+    "26 retired RAF Tranche 1 Typhoons have already been scrapped or reduced to spares rather than upgraded - a decision still argued over in Parliament."
+  ],
+  "article": {
+    "overview": [
+      "The Eurofighter Typhoon is a twin-engine, canard-delta multirole fighter developed jointly by the United Kingdom, Germany, Italy and Spain. It first flew in 1994 and entered service in 2003, and is deliberately unstable in all axes to maximise agility.{{ref:wiki-typhoon}}",
+      "It has flown more than a million hours for nine air forces without losing an aircraft to enemy fire, has flown combat operations over Libya, Iraq and Syria, and has stood NATO quick-reaction alert duty for two decades.{{ref:eurofighter30}}"
+    ],
+    "sections": [
+      {
+        "heading": "Programme History",
+        "paragraphs": [
+          "The Typhoon's roots go back to 1979, when British Aerospace and Germany's MBB proposed a joint 'European Collaborative Fighter' - and to separate national efforts before that, including UK studies for a Jaguar replacement and a West German competition that MBB's canard-delta design had already won.{{ref:wiki-typhoon}} France joined that collaboration in 1979, then effectively broke it: Dassault's insistence on design leadership, a French requirement for a carrier-capable version, and a dispute over engines split the group apart in 1981.{{ref:wiki-typhoon}}",
+          "What followed was renamed and relaunched twice more - the Agile Combat Aircraft programme in 1982, then the Future European Fighter Aircraft (FEFA) programme in 1983 - before France finally exited for good in 1985 to build the Rafale alone, briefly taking Spain with it until Spain rejoined the European group weeks later.{{ref:wiki-typhoon}} The data underpinning the design came from a real demonstrator: the British Aerospace EAP, a technology testbed sharing the Typhoon's cranked-delta and canard layout, which first flew at Warton on 6 August 1986.{{ref:eap-wiki}}",
+          "Development formally began under Eurofighter Jagdflugzeug GmbH, a Munich-based consortium established in 1986, and the first prototype - Development Aircraft 1 (DA1) - flew from Manching, Bavaria on 27 March 1994, flown by DASA chief test pilot Peter Weger. It still carried interim Rolls-Royce Spey engines; the definitive Eurojet EJ200 came later.{{ref:eurofighter30}} German reunification nearly killed the whole project a second time - Chancellor Helmut Kohl had campaigned on cancelling it, and was only stopped by the penalty clauses his own predecessors had written into the contracts.{{ref:wiki-typhoon}} The Typhoon name itself wasn't adopted until a Farnborough ceremony on 2 September 1998 - reportedly over some German unease, since the wartime Hawker Typhoon had spent 1944 strafing German positions in France.{{ref:wiki-typhoon}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Typhoon is a twin-engine, canard-delta design that is deliberately relaxed in stability across all three axes - it would be uncontrollable by a human pilot alone, and stays flyable only through a quadruplex digital fly-by-wire system that manages canards, flaperons and a single rudder to keep the airframe pointed where the pilot wants it.{{ref:wiki-typhoon}} That instability is the trade for agility: low wing loading, a 53-degree leading-edge sweep and a very light carbon-fibre and titanium airframe - about 82% composite by structure - combine to make it one of the most manoeuvrable fighters in NATO service.{{ref:wiki-typhoon}}",
+          "Two Eurojet EJ200 afterburning turbofans give the Typhoon supercruise - sustained supersonic flight without afterburner - at speeds Eurofighter rates as high as Mach 1.5, with a Singaporean evaluation once recording Mach 1.21 on a hot day carrying a combat load.{{ref:wiki-typhoon}} Sensor data from the CAPTOR radar, the PIRATE infrared search-and-track system, and off-board sources like AWACS are all fused by the Attack and Identification System into one picture for the pilot, backed by the Praetorian defensive-aids suite for radar, missile and laser warning.{{ref:wiki-typhoon}} The cockpit was itself a first: the Typhoon's Direct Voice Input system was the first speech-recognition system fitted to a production military cockpit, handling around 26 non-critical functions by voice command.{{ref:wiki-typhoon}}",
+          "The original CAPTOR radar - a mechanically scanned set - is being replaced fleet-wide by the AESA-based Captor-E family, splitting into the Mk0/Mk1/Mk2 European Common Radar System variants for different partner nations; the RAF's Mk2 adds electronic-warfare and attack capability developed jointly by Leonardo and BAE Systems.{{ref:wiki-typhoon}} None of this makes the Typhoon a stealth aircraft, but its chin intake, swept edges and radar-absorbent coatings were all shaped to keep its frontal radar return down without compromising the aerodynamics a pure air-superiority fighter needed.{{ref:wiki-typhoon}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The Typhoon's first decade in service was mostly about air defence - Quick Reaction Alert scrambles against Russian bombers probing NATO airspace, and Baltic Air Policing rotations - rather than combat.{{ref:wiki-typhoon}} That changed on 21 March 2011, when RAF Typhoons flew their first operational mission from Gioia del Colle, Italy, enforcing the UN-mandated no-fly zone over Libya under Operation Ellamy, just days after the deployment was ordered; Italian Air Force Typhoons joined combat air patrols over Libya within the week.{{ref:key-libya}}",
+          "Ground-attack capability, initially absent from the design, matured through successive weapons packages - Storm Shadow cruise missiles, Brimstone, Paveway precision bombs and the Meteor beyond-visual-range missile were folded in through the UK's Project Centurion, cleared for full service on 18 December 2018 to let Typhoon take over strike duties from the retiring Tornado GR4.{{ref:wiki-typhoon}} RAF Typhoons flew strike missions against ISIS in Iraq and Syria under Operation Shader from 2015 onward, and on 14 December 2021 an RAF Typhoon over southern Syria destroyed a small hostile drone with an ASRAAM missile - the RAF's first air-to-air kill since the Falklands War, 39 years earlier.{{ref:shader-wiki}}",
+          "The programme has not been without loss, almost none of it to enemy action. The first hull loss came in November 2002, when a Spanish development aircraft lost both engines at 45,000 ft and crashed near Toledo, its two test pilots ejecting safely.{{ref:da6-crash}} The type's first fatality followed in August 2010, when a Typhoon crashed on take-off from Morón air base, killing a visiting Royal Saudi Air Force officer.{{ref:moron-crash}} A German Typhoon collided in mid-air with a Learjet role-playing a hijacked airliner near Olsberg in June 2014 - the Learjet crew were killed, but the damaged Typhoon landed safely.{{ref:olsberg-wiki}} The worst month came in autumn 2017, when a Saudi jet flew into a mountain over Yemen during a combat sortie, an Italian Typhoon crashed attempting a loop at an airshow, and a Spanish Typhoon crashed after a National Day flypast - three unrelated losses inside four weeks.{{ref:twz-2017crashes}}"
+        ]
+      },
+      {
+        "heading": "Legacy and Future",
+        "paragraphs": [
+          "By January 2026 the worldwide Eurofighter fleet - now nine operator nations including Austria, Saudi Arabia, Oman, Kuwait and Qatar alongside the four founding partners - had passed one million flying hours, a milestone Eurofighter marked as proof of the airframe's durability two decades into service.{{ref:eurofighter-news}} The RAF's own fleet has never lost a Typhoon in over two decades of flying, a record almost unheard of for a front-line fast-jet type.{{ref:wiki-typhoon}}",
+          "Even so, retirement has already begun at the older end of the fleet: the UK's 2021 Defence Command Paper set out retiring all RAF Tranche 1 aircraft by 2025, and 26 of those early jets have already been scrapped or stripped for spares rather than upgraded to later standards - a decision that continues to be argued over in the UK Parliament.{{ref:wiki-typhoon}} Looking further ahead, Germany, the UK and Italy are all developing successor programmes - Germany, France and Spain's New Generation Fighter, and the UK-Italy-Japan Global Combat Air Programme (GCAP/Tempest) - meaning the Typhoon that only entered service in 2003 is already flying alongside blueprints for its own replacement.{{ref:wiki-typhoon}} In the meantime, the type keeps evolving: an Aerodynamic Modification Kit, new engine growth options and the ECRS Mk2 radar are all in development to keep tranche 3 aircraft credible into the 2030s."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-typhoon",
+      "name": "Eurofighter Typhoon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eurofighter_Typhoon"
+    },
+    {
+      "id": "eurofighter30",
+      "name": "30 Years Young",
+      "publisher": "Eurofighter",
+      "url": "https://www.eurofighter.com/news/30-years-young"
+    },
+    {
+      "id": "eap-wiki",
+      "name": "British Aerospace EAP",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/British_Aerospace_EAP"
+    },
+    {
+      "id": "key-libya",
+      "name": "RAF Typhoon combat debut over Libya",
+      "publisher": "Key.Aero",
+      "url": "https://www.key.aero/article/raf-typhoon-combat-debut-over-libya"
+    },
+    {
+      "id": "shader-wiki",
+      "name": "Operation Shader",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Shader"
+    },
+    {
+      "id": "da6-crash",
+      "name": "Spain's DA6 in first Eurofighter crash",
+      "publisher": "Flight Global",
+      "url": "https://www.flightglobal.com/spains-da6-in-first-eurofighter-crash/45933.article"
+    },
+    {
+      "id": "moron-crash",
+      "name": "Saudi pilot dies in Spanish military crash",
+      "publisher": "CNN",
+      "url": "https://edition.cnn.com/2010/WORLD/europe/08/24/spain.saudi.military/index.html"
+    },
+    {
+      "id": "olsberg-wiki",
+      "name": "2014 Olsberg mid-air collision",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2014_Olsberg_mid-air_collision"
+    },
+    {
+      "id": "twz-2017crashes",
+      "name": "Three Eurofighters Involved In Deadly Crashes In Just One Month",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/15088/three-eurofighters-involved-in-deadly-crashes-in-just-one-month"
+    },
+    {
+      "id": "eurofighter-news",
+      "name": "Eurofighter News",
+      "publisher": "Eurofighter",
+      "url": "https://www.eurofighter.com/news"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Eurofighter Typhoon Multirole Combat Aircraft - Defense Advancement",
+      "url": "https://www.defenseadvancement.com/projects/eurofighter-typhoon/"
+    },
+    {
+      "name": "Eurofighter Typhoon Fighter Jet - Full Specifications | TheDefenseWatch",
+      "url": "https://thedefensewatch.com/product/eurofighter-typhoon-fighter-jet/"
+    },
+    {
+      "name": "Airbus - Eurofighter Military Aircraft",
+      "url": "https://www.airbus.com/en/products-services/defence/military-aircraft/eurofighter"
+    },
+    {
+      "name": "Inside the 20th Squadron, Italy's Eurofighter Operational Conversion Unit - The Aviationist",
+      "url": "https://theaviationist.com/2026/07/02/italys-eurofighter-operational-conversion-unit/"
+    },
+    {
+      "name": "Eurofighter News",
+      "url": "https://www.eurofighter.com/news"
+    }
+  ],
+  "survivors": {
+    "intro": "Almost the entire Typhoon fleet remains in active service, so there is no wave of retirees in museums yet - but three of the original development aircraft that proved the design are preserved and on public display.",
+    "airframes": [
+      {
+        "serial": "DA1 (98+29)",
+        "name": null,
+        "location": "Flugwerft Schleissheim (Deutsches Museum)",
+        "place": "Oberschleissheim, Germany",
+        "note": "The first Eurofighter prototype, first flown 27 March 1994; retired 2005.",
+        "featured": true,
+        "countryCode": "de",
+        "country": "Germany"
+      },
+      {
+        "serial": "DA2 (ZH588)",
+        "name": null,
+        "location": "Royal Air Force Museum London, Milestones of Flight gallery",
+        "place": "Hendon, London, UK",
+        "url": "https://www.rafmuseum.org.uk/",
+        "note": "First British prototype; became the first Eurofighter to reach Mach 2, on 23 December 1997.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "DA4",
+        "name": null,
+        "location": "Newark Air Museum",
+        "place": "Winthorpe, Nottinghamshire, UK",
+        "note": "Twin-seat radar/avionics development aircraft; on display at IWM Duxford from 2009 before transferring to Newark.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Added the six export operators missing from the roster - Saudi Arabia, Kuwait, Qatar, Austria, Oman and the 2025 Turkish order - with delivered figures and contract dates. The roster previously listed only the four partner nations.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2002-11-21",
+      "title": "Double engine flame-out over Toledo",
+      "tag": "Engine failure",
+      "summary": "Spanish development aircraft DA6 suffered a double engine flame-out at 45,000 ft on a systems test flight and came down in the Anchuras range near Toledo. Both test pilots ejected unhurt in the programme's first hull loss.",
+      "fatalities": 0,
+      "source": "https://www.flightglobal.com/spains-da6-in-first-eurofighter-crash/45933.article"
+    },
+    {
+      "date": "2010-08-24",
+      "title": "First fatal Typhoon crash, Morón air base",
+      "tag": "Takeoff accident",
+      "summary": "A two-seat Spanish Air Force Typhoon crashed moments after takeoff from Morón. A visiting Royal Saudi Air Force lieutenant colonel was killed; the Spanish major flying with him ejected safely. The type's first fatal accident briefly grounded the German and British fleets.",
+      "fatalities": 1,
+      "source": "https://edition.cnn.com/2010/WORLD/europe/08/24/spain.saudi.military/index.html"
+    },
+    {
+      "date": "2014-06-23",
+      "title": "Olsberg mid-air collision",
+      "summary": "During a German Air Force hijack-interception exercise near Olsberg, a Eurofighter Typhoon collided in mid-air with a Learjet simulating a hijacked airliner. Both Learjet crew were killed; the Typhoon pilot survived.",
+      "fatalities": 2,
+      "tag": "Mid-air collision",
+      "source": "https://en.wikipedia.org/wiki/2014_Olsberg_mid-air_collision"
+    },
+    {
+      "date": "2017-09-13",
+      "title": "Combat loss over Yemen",
+      "summary": "A Royal Saudi Air Force Typhoon crashed into a mountain in Abyan province, Yemen, during a close-air-support mission. The pilot was killed; initial reports cited a technical failure rather than enemy action.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://theaviationist.com/2017/09/14/saudi-eurofighter-typhoon-crashes-during-combat-mission-in-yemen-killing-the-pilot/"
+    },
+    {
+      "date": "2017-09-24",
+      "title": "Display crash at the Terracina airshow",
+      "tag": "Display accident",
+      "summary": "An Italian Air Force Typhoon failed to complete a loop during a display over Terracina and struck the sea, killing Capt. Gabriele Orlandi. It was the second of three Typhoon losses inside four weeks.",
+      "fatalities": 1,
+      "source": "https://www.twz.com/15088/three-eurofighters-involved-in-deadly-crashes-in-just-one-month"
+    },
+    {
+      "date": "2017-10-12",
+      "title": "Crash after a national-day flypast",
+      "summary": "A Spanish Air Force Typhoon crashed near Los Llanos air base at Albacete shortly after performing in Spain's National Day parade over Madrid, killing the pilot.",
+      "fatalities": 1,
+      "tag": "Display/post-flypast crash",
+      "source": "https://theaviationist.com/2017/10/12/spanish-eurofighter-typhoon-crashes-near-albacete-after-performing-in-national-day-parade-killing-pilot/"
+    },
+    {
+      "date": "2019-06-24",
+      "title": "German Typhoons collide near Lake Müritz",
+      "summary": "Two Luftwaffe Typhoons collided mid-air near Lake Müritz, north of Berlin. Both pilots ejected; one was killed.",
+      "fatalities": 1,
+      "tag": "Mid-air collision",
+      "source": "https://theaviationist.com/2019/06/24/two-german-air-force-eurofighter-typhoons-crash-after-midair-collision-pilots-ejected/"
+    }
+  ]
+}

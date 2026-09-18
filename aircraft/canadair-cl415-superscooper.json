@@ -1,0 +1,312 @@
+{
+  "name": "CL-415 Superscooper",
+  "fullName": "Canadair CL-415",
+  "manufacturer": "Canadair",
+  "originCountry": {
+    "name": "Canada",
+    "code": "ca"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Amphibious Water Bomber",
+  "tagline": "The Canadair CL-415 is a twin-turboprop amphibian built specifically to fight forest fires, first flown on 6 December 1993 and derived from the piston-engined CL-215 that was the first aircraft ever designed as a water bomber. It scoops 1,621 US gallons of water from a lake in a twelve-second run without landing, and 95 were built before production ended in 2015.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "Its predecessor the CL-215 was the first aircraft in the world designed from scratch as a water bomber rather than converted from something else",
+    "A full load of 6,137 litres is taken on in a twelve-second, 410-metre run across the water at 70 knots - the aircraft never stops flying",
+    "Bombardier claimed 6.9 water drops per flight hour, which is the figure that matters when a fire is near a lake",
+    "It can pick up partial loads in tight water and turn while scooping if the lake is too small for a straight run",
+    "Spain's forest-fire association gave it the Batefuegos de oro - the golden fire extinguisher - in 2006 as the most efficient tool for fighting forest fires from the air",
+    "Production ended in 2015 with only 95 built and the DHC-515 replacement is not due until 2028 - a thirteen-year gap in new-build capacity, falling across some of the worst fire seasons on record"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the CL-415 as built by Canadair and Bombardier. The De Havilland Canada DHC-515 now entering production raises water capacity to 7,000 litres with a fourteen-second refill, and the CL-415EAF is a modernised conversion of earlier CL-215 airframes.",
+    "maxSpeed": {
+      "mph": 223,
+      "text": "194 kn (223 mph / 359 km/h)"
+    },
+    "cruiseSpeed": "207 mph (333 km/h)",
+    "range": {
+      "miles": 1508,
+      "text": "1,508 mi (2,427 km, 1,310 nmi) ferry range; endurance around 3 hours working 200 nmi from base"
+    },
+    "serviceCeiling": {
+      "ft": 17500,
+      "text": "17,500 ft (5,334 m)"
+    },
+    "wingspan": {
+      "ft": 93,
+      "text": "93 ft 1 in (28.38 m)"
+    },
+    "length": {
+      "ft": 67,
+      "text": "66 ft 11 in (20.4 m)"
+    },
+    "height": {
+      "ft": 30,
+      "text": "29 ft 7 in (9.01 m)"
+    },
+    "weight": "empty: 30,000 lb (13,608 kg); MTOW: 43,850 lb (19,890 kg) on land, rising to 47,000 lb (21,319 kg) after scooping",
+    "engines": "Two Pratt & Whitney Canada PW123AF turboprops, 2,380 shp each, driving four-blade Hamilton Sundstrand propellers that are fully reversible and can be feathered",
+    "crew": "2",
+    "capacity": "1,621 US gal (6,137 litres) of water, optionally mixed with chemical foam, held in tanks below the cabin floor and in header tanks either side of the fuselage; various dispersal patterns and drop sequences are selectable from a water status panel on the flight instruments",
+    "firstFlight": {
+      "date": "1993-12-06",
+      "year": 1993
+    },
+    "serviceEntryDate": "1994-11-01",
+    "retiredDate": null,
+    "numberBuilt": 95,
+    "unitCost": {
+      "usd": 36900000,
+      "text": "$36.9M (2014) - roughly $52M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$52M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "CL-215",
+      "desc": "The piston-engined original and the first aircraft anywhere designed from the outset as a water bomber rather than converted from a transport or bomber. Introduced in 1966, 125 were built through 1990, and a good many are still working - several operators fly CL-215s alongside their CL-415s, and Morocco has had its aircraft modernised to CL-415EAF standard."
+    },
+    {
+      "code": "CL-215T",
+      "desc": "The turboprop retrofit that proved the concept for the CL-415. Seventeen CL-215 airframes were converted from 1987 with PW123AF engines, giving a 15 percent power increase over the original piston engines along with the reliability and hot-and-high performance that turbines bring. Its success is what persuaded Canadair to develop a new-build turboprop aircraft."
+    },
+    {
+      "code": "CL-415",
+      "desc": "The production turboprop version, 86 of the base model built out of 95 airframes in total. Over the CL-215 it added higher operating weights and speed, an updated cockpit, powered flight controls, aerodynamic refinements and a revised water release system - the combination Bombardier translated into a claimed 6.9 drops per flight hour."
+    },
+    {
+      "code": "CL-415MP / CL-415GR",
+      "desc": "The two specialised production sub-variants. The CL-415MP is a maritime patrol version equipped for search and rescue and surveillance rather than firefighting, of which three were built. The CL-415GR is a higher-weight version produced for the Hellenic Air Force, six aircraft, reflecting how hard Greek fire seasons work the type."
+    },
+    {
+      "code": "CL-415EAF",
+      "desc": "The Enhanced Aerial Firefighter, a modernisation programme by Longview Aviation Services that rebuilds existing CL-215 airframes to a current standard rather than producing new ones. Bridger Aerospace was the launch customer in May 2018 with a $204 million contract for up to six aircraft, and now operates eight - the only substantial American fleet of the type."
+    },
+    {
+      "code": "DHC-515 Firefighter",
+      "desc": "The new-build successor, renamed from CL-515 on 31 March 2022 after Viking Air acquired the type certificate from Bombardier in October 2016. It raises water capacity to 7,000 litres with a fourteen-second refill. Fuselage and wing parts are made at North Saanich in British Columbia and final assembly is at Calgary; the first aircraft entered assembly in March 2026 for delivery in 2028."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Canada",
+      "role": "Home Operator - Provincial and Private Fleets",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "Around 54 aircraft across CL-215 and CL-415 types, flown by Newfoundland and Labrador, Ontario, Quebec and Saskatchewan and by private operators Air Spray and Buffalo Airways; 14 DHC-515s on order for delivery from 2030",
+      "homeBase": "Provincial forest fire management bases across Canada"
+    },
+    {
+      "name": "SOREM",
+      "role": "Firefighting Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "18 CL-415 of 19 purchased, one lost in 2022; 4 DHC-515 on order",
+      "homeBase": "Italian civil protection bases, flown on contract by SOREM"
+    },
+    {
+      "name": "Securite Civile",
+      "role": "Firefighting Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "12 CL-415 with the Securite Civile, known individually as Pelicans; 4 DHC-515 on order for delivery in 2028 and 2030",
+      "homeBase": "Nimes-Garons, Securite Civile"
+    },
+    {
+      "name": "Hellenic Air Force",
+      "role": "Firefighting Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "10 CL-415 and 10 remaining CL-215 with the Hellenic Air Force, three aircraft lost over the years; 7 DHC-515 ordered in 2024 for delivery 2027-2030",
+      "homeBase": "Hellenic Air Force firefighting squadrons"
+    },
+    {
+      "name": "Spain",
+      "role": "Firefighting Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "4 CL-415 and 10 CL-215T; 7 DHC-515 on order for delivery 2028-2031",
+      "homeBase": "Spanish state firefighting bases"
+    },
+    {
+      "name": "Bridger Aerospace",
+      "role": "Contract Firefighting Operator",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "8 CL-415EAF - the only substantial fleet of the type in the United States",
+      "homeBase": "Bozeman, Montana"
+    },
+    {
+      "name": "Croatian Air Force",
+      "role": "Firefighting Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "6 CL-415; 2 DHC-515 on order",
+      "homeBase": "Croatian Air Force firefighting squadron"
+    },
+    {
+      "name": "Other operators worldwide",
+      "role": "Firefighting and Maritime Patrol Operators",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "Morocco (5 CL-415 and 3 CL-215 modernised to EAF standard), Portugal (3 CL-215), Malaysia (1 CL-415MP) and Indonesia; around 164 CL-215s and CL-415s were in service across 11 countries as of the late 2010s",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "CL2T",
+    "howToFind": "The CL-415 is straightforward to track and genuinely interesting to watch, because the flight profile gives away exactly what it is doing. Filter for type CL2T and look at the Mediterranean through summer - southern France, Corsica, Italy, Greece and Croatia - where the tight repeated racetrack between a lake or the coast and a fire inland is unmistakable. Canadian provincial aircraft show the same pattern from May onwards."
+  },
+  "lastUpdated": "2026-09-10",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia and the SKYbrary aircraft file.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Superscooper",
+    "Super Scooper",
+    "CL415",
+    "DHC-515",
+    "Bombardier 415",
+    "Water Bomber",
+    "Pelican"
+  ],
+  "article": {
+    "overview": [
+      "The Canadair CL-415 is a twin-turboprop amphibious aircraft designed specifically to fight forest fires. It first flew on 6 December 1993, entered service in November 1994, and 95 were built by Canadair and then Bombardier before production ended in 2015. {{ref:wiki-cl415}}",
+      "It descends from the CL-215 of 1966, which was the first aircraft anywhere designed from scratch as a water bomber rather than converted from a transport or a retired bomber. The CL-415's defining trick is scooping: it takes 6,137 litres of water aboard in a twelve-second run across a lake without ever landing, then drops it on a fire and comes back for more. {{ref:wiki-cl415}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the CL-215",
+        "paragraphs": [
+          "Aerial firefighting before the CL-215 meant converting something else - surplus bombers, transports, agricultural aircraft - and accepting whatever compromises came with it. Canadair's 1966 CL-215 was the first purpose-built answer, an amphibian shaped around the specific job of picking water up off a lake and putting it on a fire. 125 were built through 1990. {{ref:wiki-cl415}}",
+          "The turboprop conversion came first as a retrofit. From 1987 seventeen CL-215 airframes were re-engined with PW123AF turboprops as the CL-215T, giving 15 percent more power than the piston engines along with the reliability and hot-day performance turbines bring to an aircraft that works in summer heat by definition. That programme proved the demand, and development of a new-build turboprop aircraft began in the early 1990s. {{ref:wiki-cl415}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The CL-415 is a high-wing amphibian with a boat hull, two PW123AF turboprops of 2,380 shp each, and four-blade Hamilton Sundstrand propellers that are fully reversible - useful on a lake, and useful again on a short strip. Over the CL-215 it added higher operating weights, more speed, powered flight controls, an updated cockpit and a revised water release system. Crew is two. {{ref:wiki-cl415}} {{ref:skybrary-cl415}}",
+          "The weights tell the story of what the aircraft does. Maximum takeoff weight is 43,850 lb on land, but the aircraft is certified to 47,000 lb after scooping - it is allowed to become substantially heavier in flight than it is permitted to leave the ground, because the water comes aboard once it is already airborne. Water is held in tanks under the cabin floor and in header tanks either side of the fuselage, managed from a status panel on the flight instruments that lets the pilots select drop patterns and sequences directly. {{ref:wiki-cl415}}"
+        ]
+      },
+      {
+        "heading": "How Scooping Works",
+        "paragraphs": [
+          "The scooping run is the whole design case, and it is more demanding than it looks. The aircraft needs about 1,340 m of usable water to descend from 15 m, run 410 m along the surface at 70 knots with probes down for twelve seconds while 6,137 litres come aboard, and climb back to 15 m. Everything about the hull, the power and the control response is shaped by that sequence. {{ref:wiki-cl415}}",
+          "It is also flexible in ways that matter on real fires. The aircraft can take partial loads where the water is too short for a full run, and can turn while scooping if the lake will not give it a straight line. Foam concentrate can be mixed in as the water is taken on. Bombardier's claim of 6.9 drops per flight hour is the figure that decides whether a scooper or a conventional tanker is the right tool: when there is water within a few minutes of the fire, nothing else comes close for sustained delivery. {{ref:wiki-cl415}}"
+        ]
+      },
+      {
+        "heading": "Service & Operators",
+        "paragraphs": [
+          "The type's natural home is anywhere with both serious fire seasons and plenty of water. Canada operates around 54 CL-215s and CL-415s across provincial fleets in Newfoundland and Labrador, Ontario, Quebec and Saskatchewan plus private operators Air Spray and Buffalo Airways. Around the Mediterranean, France flies twelve with the Securite Civile - each one named as a Pelican - Italy eighteen through the contractor SOREM, Greece ten alongside ten surviving CL-215s, Spain four with ten CL-215Ts, and Croatia six. {{ref:wiki-cl415}}",
+          "The United States came late and by a different route: Bridger Aerospace operates eight CL-415EAFs, rebuilt CL-215 airframes rather than original CL-415s, after launching that programme with a $204 million contract in May 2018. Spain's forest-fire association awarded the type its Batefuegos de oro in 2006, naming it the most efficient tool for fighting forest fires from the air. {{ref:wiki-cl415}}"
+        ]
+      },
+      {
+        "heading": "Accident Record",
+        "paragraphs": [
+          "Fourteen hull losses are documented across the CL-415 fleet, which is a significant proportion of 95 aircraft built, and by December 2007 seven had already been withdrawn from service as a result of accidents. The clustering is not random: losses fall heavily on the French Securite Civile, the Italian SOREM fleet and the Hellenic Air Force, the three operators that fly the hardest Mediterranean seasons. {{ref:wiki-cl415}}",
+          "The reason is the mission rather than the machine. Firefighting means flying low and heavy in turbulent air over terrain, in smoke that hides obstacles, repeatedly, for hours - the accident locations read as a list of that environment, from a lake in Provence to hillsides in Tuscany, Corsica, Abruzzo and Sicily. Any aircraft doing this work carries an accident rate that would be unacceptable in transport flying. {{ref:wiki-cl415}}"
+        ]
+      },
+      {
+        "heading": "The DHC-515 Restart & Outlook",
+        "paragraphs": [
+          "Production stopped in 2015 with 95 aircraft built, at exactly the point demand began to climb. Viking Air bought the type certificate from Bombardier on 3 October 2016, and on 31 March 2022 renamed the planned new-build aircraft the DHC-515 under the revived De Havilland Canada name, holding 22 letters of intent from European customers. Water capacity rises to 7,000 litres with a fourteen-second refill. Parts are built at North Saanich in British Columbia and assembled at Calgary. {{ref:wiki-cl415}}",
+          "Orders are now substantial: Greece signed for seven in March 2024 at $530 million, the European Union ordered 22 for its rescEU reserve, Canada's provinces have committed to fourteen, and Spain, France, Italy, Croatia, Portugal and Indonesia have all ordered. Assembly of the first aircraft started at Calgary in March 2026 with delivery planned for 2028 - which means roughly thirteen years between the last CL-415 and the first DHC-515, a gap that fell across some of the worst fire seasons on record. {{ref:wiki-cl415}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-cl415",
+      "name": "Canadair CL-415",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    },
+    {
+      "id": "skybrary-cl415",
+      "name": "CANADAIR CL-415 SuperScooper",
+      "publisher": "SKYbrary",
+      "url": "https://skybrary.aero/aircraft/cl2t"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Canadair CL-415",
+      "url": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    },
+    {
+      "name": "CANADAIR CL-415 SuperScooper - SKYbrary",
+      "url": "https://skybrary.aero/aircraft/cl2t"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1997-11-11",
+      "title": "Securite Civile Pelican 43 lost near La Ciotat",
+      "tag": "Crash",
+      "summary": "CL-415 serial 2025, registered F-ZBFQ and carrying the Pelican 43 callsign, was lost near La Ciotat in southern France - the first hull loss of the type.",
+      "source": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    },
+    {
+      "date": "2003-08-16",
+      "title": "SOREM aircraft lost near Esine",
+      "tag": "Crash",
+      "summary": "CL-415 serial 2008, registered I-DPCN and operated by SOREM on behalf of the Italian civil protection service, was lost near Esine in Lombardy.",
+      "source": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    },
+    {
+      "date": "2004-03-08",
+      "title": "Pelican 41 lost at Sainte-Croix lake",
+      "tag": "Crash",
+      "summary": "CL-415 serial 2018, registered F-ZBEZ as Pelican 41, was lost at the Sainte-Croix lake in Provence - one of the water bodies French crews routinely scoop from.",
+      "source": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    },
+    {
+      "date": "2005-08-01",
+      "title": "Pelican 36 lost in Corsica",
+      "tag": "Crash",
+      "summary": "CL-415 serial 2011, registered F-ZBEO as Pelican 36, was lost near Pietra Maggiore in Corsica during the summer fire season.",
+      "source": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    },
+    {
+      "date": "2007-07-23",
+      "title": "Two aircraft lost on the same day in Greece and Italy",
+      "tag": "Crash",
+      "summary": "The Hellenic Air Force lost CL-415MP serial 2055 near Styra, and on the same day SOREM lost CL-415 serial 2045, registered I-DPCX, near Roccapreturo in Abruzzo.",
+      "source": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    },
+    {
+      "date": "2013-07-03",
+      "title": "Canadian aircraft lost at Moosehead Lake",
+      "tag": "Crash",
+      "summary": "CL-415 serial 2076, registered C-FIZU, was lost at Moosehead Lake.",
+      "source": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    },
+    {
+      "date": "2014-05-05",
+      "title": "Hellenic Air Force aircraft lost",
+      "tag": "Crash",
+      "summary": "The Hellenic Air Force lost CL-415 serial 2050, one of three Greek aircraft written off over the type's service life.",
+      "source": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    },
+    {
+      "date": "2022-10-27",
+      "title": "Aircraft lost at Linguaglossa on Etna",
+      "tag": "Crash",
+      "summary": "CL-415 serial 2060, registered I-DPCN, was lost at Linguaglossa on the slopes of Mount Etna in Sicily, reducing the Italian fleet from 19 aircraft to 18.",
+      "source": "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    }
+  ]
+}

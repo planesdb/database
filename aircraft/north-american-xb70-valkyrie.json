@@ -1,0 +1,285 @@
+{
+  "name": "XB-70 Valkyrie",
+  "fullName": "North American XB-70 Valkyrie",
+  "manufacturer": "North American Aviation",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Mach 3 Strategic Bomber Prototype",
+  "tagline": "A six-engine, delta-winged prototype for a Mach 3 nuclear bomber built by North American Aviation for Strategic Air Command, and flown instead as a supersonic research aircraft after the bomber was cancelled. Two were built; one was destroyed in a mid-air collision during a publicity photo shoot in 1966, and the survivor is the signature exhibit of the National Museum of the U.S. Air Force.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The name was chosen from 20,000 entries submitted to a 1958 U.S. Air Force 'Name the B-70' contest",
+    "Its outer wing panels folded down as much as 65 degrees in flight, trapping the aircraft's own shock wave under the wing to generate about five percent of its lift",
+    "Cruising at Mach 3 heated the airframe to an average of 450F, with engine compartments reaching 1,000F, so most of it was built from brazed stainless steel honeycomb rather than aluminium",
+    "Liquid nitrogen was vaporised into the fuel tanks to stop the JP-6 fuel igniting as the structure heated up",
+    "Both aircraft together managed only 108 minutes above Mach 3 across ten flights, and the first airframe was limited to Mach 2.5 after heat damage tore panels off its wing",
+    "General Curtis LeMay dismissed the oversized 1956 design proposals with the line that it was not an airplane but a three-ship formation"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the XB-70A prototypes as flown. The planned B-70A production bomber was never built and its operational figures were never fixed.",
+    "maxSpeed": {
+      "mph": 2056,
+      "text": "1,787 kn (2,056 mph / 3,310 km/h)"
+    },
+    "cruiseSpeed": "2,000 mph (3,219 km/h), Mach 3 at around 70,000 ft",
+    "range": {
+      "miles": 4287,
+      "text": "4,287 mi (6,899 km, 3,725 nmi) combat range"
+    },
+    "serviceCeiling": {
+      "ft": 77350,
+      "text": "77,350 ft (23,580 m)"
+    },
+    "wingspan": {
+      "ft": 105,
+      "text": "105 ft 0 in (32.0 m)"
+    },
+    "length": {
+      "ft": 185,
+      "text": "185 ft 0 in (56.4 m)"
+    },
+    "height": {
+      "ft": 30,
+      "text": "30 ft 0 in (9.1 m)"
+    },
+    "weight": "empty: 253,600 lb (115,031 kg); MTOW: 542,000 lb (245,847 kg)",
+    "engines": "6 x General Electric YJ93-GE-3 afterburning turbojets, 19,900 lbf (89 kN) dry and 28,000 lbf (120 kN) with afterburner each, burning JP-6",
+    "armament": "None fitted - both XB-70As flew unarmed as research aircraft. The planned B-70A production bomber was to carry up to 53,000 lb (24,000 kg) of weapons in two internal bays.",
+    "crew": "2 (pilot and co-pilot)",
+    "capacity": "Fuel capacity 300,000 lb (140,000 kg) / 46,745 US gal (176,950 L); no payload was carried in service",
+    "firstFlight": {
+      "date": "1964-09-21",
+      "year": 1964
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1969-02-04",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price was ever published for a two-airframe prototype programme; about $800M had been spent on the B-70 by the time President Kennedy cancelled it in March 1961, on the order of $8.6B in today's dollars",
+      "inflationText": null
+    },
+    "combatLosses": "None - neither aircraft was ever armed or flown on an operational mission. The only airframe lost was AV-2, destroyed in a mid-air collision with a chase aircraft during a publicity photo shoot on 8 June 1966."
+  },
+  "variants": [
+    {
+      "code": "XB-70A",
+      "desc": "The two prototypes actually built, both to North American model number NA-278. AV-1 (USAF serial 62-0001) flew 83 times for 160 hours 16 minutes between September 1964 and February 1969 and survives in a museum. AV-2 (62-0207) flew 46 times for 92 hours 22 minutes between July 1965 and June 1966, fixed most of the honeycomb-panel weaknesses that had plagued the first aircraft, and set the programme's speed and endurance records before it was destroyed in a mid-air collision."
+    },
+    {
+      "code": "XB-70B (AV-3)",
+      "desc": "A third airframe, serial 62-0208, originally ordered in March 1961 as the first YB-70A and intended to carry improvements learned from the first two aircraft. Manufacture was cancelled in July 1964 while the airframe was still in early assembly, which left the programme with only two flying prototypes and no way to test a more refined configuration."
+    },
+    {
+      "code": "YB-70",
+      "desc": "A planned pre-production batch of eleven aircraft, contracted alongside the first XB-70 prototype in August 1960 when the Air Force briefly restored the programme to full weapon development. They were to incorporate improvements identified on the XB-70s and lead directly into operational production. All were cancelled in the March 1961 programme termination and none was built."
+    },
+    {
+      "code": "B-70A",
+      "desc": "The intended production bomber, of which a fleet of up to 65 was planned for Strategic Air Command. It would have carried up to 53,000 lb of weapons in two internal bays, cruised at Mach 3 above 70,000 ft and used the same hangars, runways and handling procedures as the B-52. It never left the drawing board."
+    },
+    {
+      "code": "RS-70",
+      "desc": "A proposed reconnaissance-strike derivative promoted from 1961 onwards as a way of saving the programme, in which the aircraft would find and attack rail-mobile Soviet ICBMs rather than fixed targets. Congress appropriated close to $500M against it and in March 1962 the House Armed Services Committee tried to compel the administration by law to spend the money; a White House agreement that month retracted the language and the aircraft stayed cancelled."
+    },
+    {
+      "code": "NAC-60",
+      "desc": "North American's supersonic airliner proposal, first developed in 1961 and submitted in several revisions to the FAA's National Supersonic Transport competition. It scaled up the XB-70's layout with a less tapered fuselage and a new compound-delta wing, seating up to 187 passengers at a cruise of Mach 2.65 with a maximum takeoff weight of 480,000 lb. Boeing and Lockheed designs were selected instead."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Development and Test Operator",
+      "status": "Retired",
+      "since": "1964",
+      "fleetSize": "2 (both prototypes; AV-1 transferred to NASA in 1967)",
+      "homeBase": "Edwards Air Force Base, California"
+    },
+    {
+      "name": "NASA",
+      "role": "Research Operator",
+      "status": "Retired",
+      "since": "1967",
+      "fleetSize": "1 (AV-1, flown jointly with the USAF on sonic boom and structural dynamics research)",
+      "homeBase": "NASA Flight Research Center, Edwards, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No XB-70 has flown since 4 February 1969 and the sole survivor is a static museum exhibit, so the type cannot appear on Flightradar24. AV-1 can be seen in the fourth building at the National Museum of the United States Air Force at Wright-Patterson AFB near Dayton, Ohio, where admission is free."
+  },
+  "lastUpdated": "2026-09-16",
+  "changelog": [
+    {
+      "date": "2026-09-16",
+      "change": "Entry created - full article, specifications, variants, operators, survivor record and incident log written from the National Museum of the USAF fact sheet, NASA Dryden programme documentation and published programme histories.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Valkyrie",
+    "B-70",
+    "XB70",
+    "WS-110A",
+    "Mach 3",
+    "compression lift",
+    "AV-1",
+    "AV-2"
+  ],
+  "article": {
+    "overview": [
+      "The North American XB-70 Valkyrie is a retired prototype for the B-70, a nuclear-armed deep-penetration bomber intended for Strategic Air Command. It was a six-engine delta-winged aircraft 185 ft long, designed to cruise at Mach 3 above 70,000 ft, and two were built. {{ref:nmusaf}} {{ref:wiki}}",
+      "The bomber was cancelled in March 1961, before either aircraft flew, once surface-to-air missiles and intercontinental ballistic missiles made high-altitude supersonic penetration both survivable-in-theory-only and redundant. The two prototypes flew instead as supersonic research aircraft between 1964 and 1969, and one of them was destroyed in a mid-air collision during a publicity photo shoot in June 1966. {{ref:nmusaf}} {{ref:nasa-fs}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the WS-110A Requirement",
+        "paragraphs": [
+          "The Air Research and Development Command's WS-110A requirement, issued in the mid-1950s, asked for a chemical-fuelled bomber that cruised at Mach 0.9 and made a 1,000-nautical-mile high-speed dash into and out of the target area, carrying a 50,000 lb payload over a 4,000-nautical-mile combat radius. Boeing and North American were awarded Phase 1 contracts in November 1955. Both returned designs weighing about 750,000 lb with jettisonable wingtip fuel tanks, and in September 1956 the Air Force judged them too large and complicated to operate. {{ref:wiki}}",
+          "The redesign came out of an unexpected finding: an engine optimised for Mach 3 burned roughly twice the fuel per hour as at subsonic speed, but the aircraft covered about four times the distance in that hour, so its most efficient cruise in fuel-per-mile terms was its top speed. The dash concept was therefore pointless - an aircraft that could reach Mach 3 might as well fly the entire mission there. North American won the competition on 23 December 1957 with a long-fuselage delta, the type was designated B-70 in February 1958, and the name Valkyrie was picked from 20,000 entries to a public contest. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "North American found its decisive advantage in an obscure 1956 NACA wind-tunnel paper on high lift-to-drag ratios at supersonic speed, describing what is now called compression lift. A shock wave generated by the leading edge of the engine intake splitter, below the apex of the wing, bends back about 65 degrees at Mach 3; positioning the wing on top of that shock puts air roughly 40 pounds per square foot higher in pressure under the aircraft than ahead of the shock, and that supplied about five percent of the Valkyrie's total lift. The six engines were grouped three to a duct beneath the fuselage specifically to place the shock correctly. {{ref:wiki}}",
+          "The folding wingtips did three jobs at once. Drooping them by up to 65 degrees trapped the shock under the wing, added vertical surface for directional stability at high speed, and reduced the lifting area aft - which offset the rearward shift of the centre of pressure with increasing Mach number and so cut trim drag. Heat was the other governing problem: a Mach 3 cruise took the structure to an average of 450F, with leading edges at 630F and engine bays at 1,000F. The answer was brazed sandwich panels of two thin stainless steel sheets on a honeycomb foil core, with expensive titanium reserved for the nose and stabiliser leading edges, and fuel routed through heat exchangers on its way to the engines to cool the interior. To stop the JP-6 igniting, nitrogen was injected during refuelling and a 700 lb supply of liquid nitrogen was vaporised to fill and pressurise the tank vent space. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "The Missile Problem & Cancellation",
+        "paragraphs": [
+          "The B-70 was designed against the assumption that flying higher and faster beat the defences, which had held while fighters and anti-aircraft artillery were the only weapons that worked against bombers. Effective surface-to-air missiles ended that. A missile could stand ready for immediate launch, had greater altitude capability than any aircraft, and could be improved cheaply; the shooting down of Gary Powers's U-2 by an S-75 in 1960 made the point publicly. Doctrine shifted to low-altitude penetration, where radar line-of-sight is blocked by terrain - and at low altitude the B-70 was limited to about Mach 0.95, barely faster than the B-52 it was meant to replace, with a smaller bomb load and shorter range. {{ref:wiki}} {{ref:nmusaf}}",
+          "The programme was cut to a single prototype in December 1959, revived during the 1960 presidential campaign when both Kennedy and Nixon endorsed it publicly, and expanded again in August 1960 to one XB-70 and eleven YB-70s. On 28 March 1961, after about $800M had been spent, Kennedy cancelled it as unnecessary and economically unjustifiable, recommending only that the programme continue far enough to explore flight at three times the speed of sound. Congressional supporters kept fighting - 21 members of the House Armed Services Committee had B-70 work in their districts - and in March 1962 tried to compel the administration by law to spend nearly $500M on the reconnaissance-strike RS-70. A White House agreement on 19 March retracted the bill's language and the bomber stayed dead. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Flight Testing & the 1966 Collision",
+        "paragraphs": [
+          "AV-1 first flew on 21 September 1964 from Palmdale to Edwards, with one engine shut down shortly after takeoff and the undercarriage left down after a malfunction warning, which held the speed to about 390 mph. The port main gear locked on landing, the tyres ruptured and a fire started. Worse followed at speed: the honeycomb panels were new technology and quality control had not caught up, and on two occasions panels failed and tore away in supersonic flight. After AV-1 reached Mach 3.02 at 70,000 ft on 14 October 1965 and lost two feet of its left wing leading edge to heat and stress, the aircraft was restricted to Mach 2.5 for the rest of its life. {{ref:wiki}}",
+          "AV-2, first flown on 17 July 1965, had those defects largely fixed and did the fast flying: Mach 3.08 sustained for 20 minutes on 12 April 1966, and Mach 3 held for 32 minutes on 19 May, covering 2,400 miles in a 91-minute flight. On 8 June 1966 it was flown in close formation with an F-4, an F-5, a T-38 and an F-104 for a General Electric publicity photograph - a shoot the Air Force had not authorised. The F-104 drifted into the Valkyrie's right wingtip, rolled inverted over the aircraft and struck both vertical stabilisers and the left wing before exploding. The Valkyrie flew straight for 16 seconds, then entered an unrecoverable spin and crashed north of Barstow, California. NASA chief test pilot Joe Walker and co-pilot Major Carl Cross were killed; pilot Al White ejected with serious injuries, his arm crushed by the closing escape capsule. The investigation concluded that from the F-104's position, 70 ft to the side of the XB-70's fuselage and 10 ft below, Walker could not have seen the wing without looking awkwardly back over his shoulder and had no visual cue to judge his drift. {{ref:wiki}} {{ref:nasa-fs}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "AV-1 was transferred to NASA in 1967 and flew on for two more research programmes: the National Sonic Boom Program, measuring boom overpressures on the ground at intensities above those expected from the planned American supersonic transport, and from April 1967 a study of structural dynamics control, after the aircraft was found to suffer unwanted altitude excursions at high speed and altitude. Its last supersonic flight was on 17 December 1968, and on 4 February 1969 it flew subsonically to Wright-Patterson Air Force Base for museum display, collecting data on the way. It had flown 83 times for 160 hours 16 minutes. {{ref:nasa-fs}} {{ref:wiki}}",
+          "The Valkyrie never carried a weapon and never flew an operational mission, and its raw contribution to the state of the art was modest against its cost. What it did leave was data: aerodynamic and materials work that fed the B-1 bomber programme and the American SST effort, and - by way of espionage - the Soviet Tu-144. The XB-70, alongside the U-2 and SR-71, also prompted Soviet engineers towards the high-altitude, high-speed MiG-25. AV-1 is on display at the National Museum of the United States Air Force near Dayton, Ohio, where it became the museum's signature aircraft, used on its letterhead and as the design theme of its restaurant. {{ref:wiki}} {{ref:nmusaf}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nmusaf",
+      "name": "North American XB-70 Valkyrie fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195767/north-american-xb-70-valkyrie/"
+    },
+    {
+      "id": "nasa-fs",
+      "name": "XB-70 Valkyrie fact sheet FS-084-DFRC",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/09/121584main_fs-084-dfrc.pdf"
+    },
+    {
+      "id": "wiki",
+      "name": "North American XB-70 Valkyrie",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "XB-70 Valkyrie research aircraft",
+      "url": "https://www.nasa.gov/aeronautics/xb-70-valkyrie/"
+    },
+    {
+      "name": "Air Force Museum Undertakes Another Monumental Move of Mighty XB-70",
+      "url": "https://theaviationist.com/2024/06/02/air-force-museum-moves-xb-70-again/"
+    },
+    {
+      "name": "Flight Test Files: XB-70 Valkyrie - Riding the Shockwave at Mach 3",
+      "url": "https://vintageaviationnews.com/warbird-articles/flight-test-files/xb-70-valkyrie.html"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1964-09-21",
+      "title": "Engine shutdown, gear fault and brake fire on the first flight",
+      "tag": "First flight incident",
+      "summary": "On the maiden flight from Palmdale to Edwards, one engine had to be shut down shortly after takeoff and an undercarriage malfunction warning meant the flight was flown gear-down, limiting speed to about 390 mph. On landing the port main gear rear wheels locked, the tyres ruptured and a fire started.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+    },
+    {
+      "date": "1965-05-07",
+      "title": "Wing apex breaks up and damages five engines",
+      "tag": "Structural failure",
+      "summary": "A three-foot piece of the wing apex broke away in flight on AV-1 and caused extensive damage to five of the six engines, which had to be returned to General Electric for repair. The sixth was inspected and refitted.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+    },
+    {
+      "date": "1965-10-14",
+      "title": "First Mach 3 flight, and the heat damage that followed",
+      "tag": "Record flight / structural damage",
+      "summary": "AV-1 reached Mach 3.02 at 70,000 ft, the type's first flight beyond Mach 3. Heat and stress damaged the stainless steel honeycomb panels and left two feet of the left wing leading edge missing, after which the aircraft was permanently limited to Mach 2.5.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+    },
+    {
+      "date": "1966-04-12",
+      "title": "Programme speed record of Mach 3.08",
+      "tag": "Record flight",
+      "summary": "AV-2 reached Mach 3.08 and held it for 20 minutes, the highest speed flown by either Valkyrie. Across the whole programme the two aircraft accumulated only 108 minutes above Mach 3 in ten flights.",
+      "source": "https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+    },
+    {
+      "date": "1966-05-19",
+      "title": "Thirty-two minutes sustained at Mach 3",
+      "tag": "Record flight",
+      "summary": "AV-2 reached Mach 3.06 and sustained Mach 3 for 32 minutes, covering 2,400 miles in a flight of 91 minutes - the longest sustained Mach 3 cruise of the programme.",
+      "source": "https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+    },
+    {
+      "date": "1966-06-08",
+      "title": "Mid-air collision with an F-104 destroys AV-2",
+      "tag": "Mid-air collision",
+      "summary": "During an unauthorised General Electric publicity photo shoot, an F-104 flying in close formation drifted into the Valkyrie's right wingtip, rolled inverted across the aircraft and destroyed both vertical stabilisers before exploding. AV-2 flew straight for 16 seconds, then spun in north of Barstow, California. NASA chief test pilot Joe Walker and USAF Major Carl Cross were killed; pilot Al White ejected with serious injuries.",
+      "fatalities": 2,
+      "source": "https://www.nasa.gov/wp-content/uploads/2021/09/121584main_fs-084-dfrc.pdf"
+    },
+    {
+      "date": "1969-02-04",
+      "title": "Final flight to the museum",
+      "tag": "Retirement",
+      "summary": "AV-1 made the type's last flight, a subsonic delivery to Wright-Patterson Air Force Base for museum display, with flight data collected en route. It had flown 83 times for 160 hours 16 minutes.",
+      "source": "https://www.nasa.gov/wp-content/uploads/2021/09/121584main_fs-084-dfrc.pdf"
+    }
+  ],
+  "survivors": {
+    "intro": "One of the two XB-70As survives. AV-2 was destroyed in the June 1966 mid-air collision and the third airframe was cancelled before completion, so AV-1 is the only Valkyrie in existence.",
+    "airframes": [
+      {
+        "serial": "62-0001",
+        "name": "AV-1",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195767/north-american-xb-70-valkyrie/",
+        "note": "Flew itself to the museum on 4 February 1969 after 83 flights and 160 hours 16 minutes. It has become the museum's signature aircraft, used on its letterhead and as the design theme of its Valkyrie Cafe, and was moved into the museum's fourth building in late October 2015.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

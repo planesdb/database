@@ -1,0 +1,418 @@
+{
+  "name": "Vampire",
+  "fullName": "de Havilland Vampire",
+  "manufacturer": "de Havilland",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Single-Engine Jet Fighter",
+  "tagline": "The de Havilland Vampire is a British single-engine jet fighter of twin-boom layout, the second jet to enter RAF service and the first to do so on one engine. It made the first jet landing on an aircraft carrier in 1945 and the first jet crossing of the Atlantic in 1948, and 3,268 were built in six countries before Switzerland retired the last military examples in 1990.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Its fuselage was largely plywood - de Havilland applied the moulded-wood construction it had developed for the Mosquito to a jet fighter, giving the Vampire a wooden nose bonded to an aluminium tail.",
+    "The twin booms exist for one reason: to keep the jet pipe short. Early centrifugal turbojets lost meaningful thrust down a long exhaust duct, so the tail was moved to the aircraft rather than the exhaust moved to the tail.",
+    "On 3 December 1945 Eric 'Winkle' Brown put prototype LZ551 onto the pitching deck of HMS Ocean - the first landing and take-off by a pure jet aircraft on a carrier, six years before jets entered routine carrier service.",
+    "A stripped Vampire with four feet added to each wingtip, its radio replaced by breathing-air cylinders and only an hour of fuel took the world altitude record to 59,446 ft in March 1948.",
+    "Six Vampires of No. 54 Squadron made the first jet crossing of the Atlantic in July 1948, staging through Stornoway, Iceland and Greenland because the aircraft could not remotely do it in one leg.",
+    "It was outclassed as a fighter well before it stopped being sold: Indian Vampires were shot out of the sky by Pakistani F-86 Sabres in 1965, by which point the design was already 22 years old."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the FB.5 fighter-bomber, the most numerous variant at 1,123 built. Earlier F.1 and F.3 fighters had less thrust, and the many licence-built versions varied considerably - the French Mistral and Australian aircraft used Rolls-Royce Nene engines of far greater power.",
+    "maxSpeed": {
+      "mph": 548,
+      "text": "476 kn (548 mph / 882 km/h)"
+    },
+    "cruiseSpeed": "Not separately published - the 1,220 mi range figure is quoted at economical cruise, well below the 548 mph maximum",
+    "range": {
+      "miles": 1220,
+      "text": "1,220 mi (1,960 km, 1,060 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 42800,
+      "text": "42,800 ft (13,000 m)"
+    },
+    "wingspan": {
+      "ft": 38,
+      "text": "38 ft 0 in (11.58 m)"
+    },
+    "length": {
+      "ft": 30.75,
+      "text": "30 ft 9 in (9.37 m)"
+    },
+    "height": {
+      "ft": 8.83,
+      "text": "8 ft 10 in (2.69 m)"
+    },
+    "weight": "empty: 7,283 lb (3,304 kg); MTOW: 12,390 lb (5,620 kg)",
+    "engines": "One de Havilland Goblin 3 centrifugal-flow turbojet, 3,350 lbf (14.9 kN)",
+    "armament": "Four 20 mm Hispano Mk V cannon with 150 rounds per gun, plus eight 3-inch rocket projectiles or two 500 lb bombs or drop tanks under the wings",
+    "crew": "1 (two side by side in the T.11 trainer and NF.10 night fighter)",
+    "capacity": "N/A - single-seat fighter; the FB.5 fighter-bomber carried up to eight 3-inch rockets or two 500 lb bombs, and the T.11 trainer and NF.10 night fighter seated two side by side",
+    "firstFlight": {
+      "date": "1943-09-20",
+      "year": 1943
+    },
+    "serviceEntryDate": "1946-03",
+    "retiredDate": "1990",
+    "numberBuilt": 3268,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no consistent per-aircraft figure was published for the Vampire, which was procured across two decades by more than 20 air forces under wartime contracts, postwar export deals and six separate licence-production agreements"
+    }
+  },
+  "variants": [
+    {
+      "code": "F.1",
+      "desc": "The first production fighter, 228 built, powered by the Goblin 1 and later Goblin 2. Early aircraft had the low canopy and unpressurised cockpit of the prototypes; from the 51st airframe a bubble canopy and cabin pressurisation were fitted. It equipped No. 247 Squadron in March 1946 as the RAF's first single-engine jet fighter, and 70 went to Sweden as the J 28A."
+    },
+    {
+      "code": "F.3",
+      "desc": "An improved fighter with greater fuel capacity, a lowered tailplane and revised fins to cure directional problems found on the F.1, giving the range that made the 1948 Atlantic crossing possible. 224 were built for the RAF, with 20 to Norway and 150 to the Royal Canadian Air Force, which put its first aircraft into service in January 1948."
+    },
+    {
+      "code": "FB.5",
+      "desc": "The definitive variant and the most numerous at 1,123 built, of which 930 went to the RAF. It was a ground-attack conversion of the fighter: the wings were clipped by about a foot each side, the undercarriage strengthened and stroke increased for rough strips, and underwing hardpoints added for rockets and bombs. It became the RAF's standard fighter-bomber in Germany and the Middle East through the early 1950s."
+    },
+    {
+      "code": "FB.9",
+      "desc": "A tropicalised FB.5 with a Godfrey air-conditioning unit fitted in the wing root, developed after the FB.5 proved close to unbearable in Middle East and Far East heat. 348 were built and they served in Aden, Iraq, Kenya, Malaya and Singapore. The cabin cooling unit displaced one of the four cannon bays' ammunition tanks, reducing rounds carried."
+    },
+    {
+      "code": "NF.10",
+      "desc": "A two-seat night fighter with a widened nose housing AI Mk X radar and a side-by-side cockpit, derived from the private-venture DH.113. Around 95 were built and they served with the RAF from 1951 to 1954, a stopgap while the Gloster Javelin was developed. Their short service reflected how quickly radar-equipped interceptors were advancing."
+    },
+    {
+      "code": "T.11 / DH.115",
+      "desc": "The two-seat trainer, and the variant that outlived all the others. 526 were built by de Havilland and Fairey with side-by-side seating and dual controls, and export T.55s were sold worldwide. Most Vampires still flying today are T.11 or T.55 airframes, because trainers were retained longest and are the version with two seats to sell rides in."
+    },
+    {
+      "code": "Sea Vampire F.20",
+      "desc": "The navalised variant, with an arrester hook, extra flaps, long-travel oleos and a strengthened structure for deck landings. Only 18 production aircraft were built for the Royal Navy and the type never became a front-line carrier fighter, but the modified prototype LZ551 made the first jet carrier landing in December 1945 and proved the concept for everything that followed."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "Around 1,800 across F.1, F.3, FB.5, FB.9, NF.10 and T.11; No. 247 Squadron was the first unit, from March 1946",
+      "homeBase": "RAF Odiham and stations across Germany, the Middle East and the Far East",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Swiss Air Force",
+      "role": "Longest-serving Operator",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "Around 200, including 103 FB.6s licence-built in Switzerland; the last were withdrawn in 1990, 44 years after the type entered service",
+      "homeBase": "Swiss airbases"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "Largest Licence Operator",
+      "status": "Retired",
+      "since": "1948",
+      "fleetSize": "247 FB.52s and 60 T.55s built by Hindustan Aircraft; flown in the 1961 Goa operation and the 1965 war with Pakistan",
+      "homeBase": "Indian Air Force bases",
+      "logo": "indian-air-force.webp"
+    },
+    {
+      "name": "Swedish Air Force",
+      "role": "Major Export Operator",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "437 in total - 70 J 28A fighters, 310 J 28B fighter-bombers and 57 J 28C trainers",
+      "homeBase": "Swedish airbases"
+    },
+    {
+      "name": "French Air Force",
+      "role": "Licence Operator",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "187 FB.51s built by Sud-Est plus 247 Nene-powered Mistrals - the most heavily reworked version of the design",
+      "homeBase": "French airbases",
+      "logo": "french-air-force.webp"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Licence Operator",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "80 F.30/FB.31 fighters and 41 trainers built by de Havilland Australia with Nene engines; A79-1 was the first jet built in Australia",
+      "homeBase": "RAAF bases",
+      "logo": "raaf.webp"
+    },
+    {
+      "name": "Rhodesian Air Force",
+      "role": "Combat Operator",
+      "status": "Retired",
+      "since": "1953",
+      "fleetSize": "32 fighters and trainers, flown on ground-attack strikes into the late 1970s - among the last Vampires used in action anywhere",
+      "homeBase": "New Sarum, Salisbury"
+    },
+    {
+      "name": "~25 other air forces worldwide",
+      "role": "Export Operators",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "3,268 built in six countries; Italy (195), Canada (150), Egypt, South Africa (77), New Zealand, Norway, Finland, Iraq, Jordan, Lebanon, Chile, Venezuela, Mexico and the Dominican Republic among them",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "survivors": {
+    "intro": "Well over a hundred Vampires survive worldwide, and the type is unusual among first-generation jets in that a dozen or so remain airworthy - almost all two-seat T.11 and T.55 trainers, which were retained in service longest and have a second seat that makes them viable as warbirds.",
+    "airframes": [
+      {
+        "serial": "LZ551/G",
+        "location": "Fleet Air Arm Museum",
+        "place": "RNAS Yeovilton, Somerset, United Kingdom",
+        "url": "https://www.fleetairarm.com/",
+        "note": "The single most historically significant Vampire: the modified prototype in which Eric 'Winkle' Brown made the first landing and take-off by a jet aircraft on an aircraft carrier, aboard HMS Ocean on 3 December 1945. Displayed in Hall 2.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "WZ507",
+        "location": "Vampire Preservation Group",
+        "place": "Coventry Airport, Warwickshire, United Kingdom",
+        "note": "An airworthy T.11 kept flying on the UK display circuit by a volunteer group - one of very few Vampires still flying in Britain.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "A79-1",
+        "location": "Fighter World",
+        "place": "Williamtown, New South Wales, Australia",
+        "note": "The first jet aircraft built in Australia, a de Havilland Australia F.30.",
+        "featured": true,
+        "countryCode": "au",
+        "country": "Australia"
+      },
+      {
+        "serial": "VT812",
+        "location": "Royal Air Force Museum London",
+        "place": "Colindale, London, United Kingdom",
+        "url": "https://www.rafmuseum.org.uk/london/",
+        "note": "An F.3 of the mark that made the first jet Atlantic crossing, displayed indoors.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "WZ590",
+        "location": "Imperial War Museum Duxford",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "url": "https://www.iwm.org.uk/visits/iwm-duxford",
+        "note": "A restored T.11 two-seat trainer.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "A79-617",
+        "location": "Air Force Heritage Squadron",
+        "place": "Temora, New South Wales, Australia",
+        "note": "An airworthy T.35, flown at Australian heritage displays.",
+        "countryCode": "au",
+        "country": "Australia"
+      },
+      {
+        "serial": "J-1196",
+        "location": "Norwegian Air Force Historical Squadron",
+        "place": "Norway",
+        "note": "An ex-Swiss FB.52 flying on the civil register as LN-DHY; the squadron also flies T.55 U-1230 as LN-DHZ.",
+        "countryCode": "no",
+        "country": "Norway"
+      },
+      {
+        "serial": "276 and 277",
+        "location": "South African Air Force Museum",
+        "place": "Pretoria, South Africa",
+        "note": "Two airworthy T.55s maintained in flying condition by the museum.",
+        "countryCode": "za",
+        "country": "South Africa"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "VAMP",
+    "howToFind": "No Vampire has flown in military service since 1990, so any that appears is a privately owned warbird on a display or transit flight. Airworthy examples are concentrated in the UK, Norway, Australia, New Zealand, Canada and South Africa, and most carry civil registrations rather than military serials. Airshow weekends are the realistic opportunity; the operators' own sites publish display dates."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created - full article, specifications, variants, operators, survivors and incident log written from Wikipedia, This Day in Aviation, Vintage Aviation News and Air Vectors.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "vampire",
+    "dh.100",
+    "dh100",
+    "de havilland vampire",
+    "sea vampire",
+    "t.11",
+    "t11",
+    "fb.5",
+    "twin boom",
+    "mistral",
+    "j 28",
+    "goblin",
+    "first jet carrier landing",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The de Havilland Vampire is a British single-seat jet fighter built by de Havilland, distinguished by its twin tail booms and a fuselage largely made of moulded plywood. It first flew on 20 September 1943, entered RAF service in March 1946 as the service's second jet fighter and its first with a single engine, and 3,268 were built.{{ref:wiki-vampire}}",
+      "It was overtaken as a front-line fighter within a decade, but it sold to more than 20 air forces and was licence-built in Australia, France, India, Italy and Switzerland. Along the way it made the first jet landing on an aircraft carrier, took the world altitude record, and flew the first jet crossing of the Atlantic.{{ref:wiki-vampire}}{{ref:airvectors-vampire}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "In January 1941 Sir Henry Tizard suggested to de Havilland that it design a jet fighter, and the company began work before any official requirement existed; Specification E.6/41 was written afterwards to cover what was already under way. The engine came from the same building. Frank Halford's H.1 was a straight-through centrifugal turbojet of 3,000 lbf, first run in 1942, and it proved reliable enough that its basic form went essentially unchanged for thirteen years as the de Havilland Goblin.{{ref:wiki-vampire}} It flew before the aircraft it was built for: a Goblin powered the Gloster Meteor prototype on its first flight in March 1943, and in July that year one of the only two in existence was shipped to Lockheed for the XP-80. When that engine was destroyed in ground testing, it was replaced by the sole remaining H.1 - taken out of the Vampire prototype. America's first operational jet fighter therefore made its maiden flight in January 1944 on the engine removed from Britain's.{{ref:wiki-goblin}}",
+          "The decision that shaped the aircraft was to use one engine. Contemporary jet designs, the Gloster Meteor included, used two, because early turbojets produced so little thrust. De Havilland concluded that a single Goblin would do provided nothing wasted its output - and the largest available waste was the exhaust duct, since thrust falls away down a long jet pipe. Moving the tail surfaces onto two slender booms either side of the exhaust let the pipe be as short as possible, and the twin-boom layout follows from that single constraint.{{ref:wiki-vampire}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The fuselage was a Mosquito idea applied to a jet. De Havilland had spent the war building moulded plywood airframes, and the Vampire's egg-shaped forward fuselage was made the same way - a balsa-cored plywood sandwich - bonded to an aluminium structure aft. Wood saved weight, used a supply chain that did not compete with aluminium demand, and drew on skills the company already had; it also meant the RAF's second jet fighter had a wooden nose.{{ref:wiki-vampire}}",
+          "The aircraft that resulted was small, light and, for its moment, fast: 548 mph, a service ceiling of 42,800 ft and a climb rate of 4,800 ft/min, armed with four 20 mm Hispano cannon in the underside of the nose where the short nose put them close together and made the gun pattern tight.{{ref:wiki-vampire}} Its limitation was equally clear. A single centrifugal engine of 3,350 lbf left no growth margin, and the airframe's unswept wing put a hard ceiling on speed that the swept-wing fighters arriving from 1949 simply flew past."
+        ]
+      },
+      {
+        "heading": "The Firsts",
+        "paragraphs": [
+          "The Vampire's most consequential flight was not made in RAF service. On 3 December 1945 Lieutenant Commander Eric 'Winkle' Brown landed prototype LZ551 on HMS Ocean and took off again - the first carrier landing and launch by a pure jet aircraft, flown onto a deck pitching in a swell. The aircraft had been modified with an arrester hook, extra flaps, long-travel oleo legs and a new canopy. Jets would not enter routine carrier service for years, but the question of whether they could operate from ships at all was settled that afternoon.{{ref:van-carrier}}{{ref:wiki-vampire}}",
+          "Two more records followed in 1948. On 23 March, Group Captain John Cunningham took a Vampire F.1 fitted with the more powerful Ghost engine to 59,446 ft for the world altitude record, in an airframe stripped of paint, given four extra feet of wingtip each side, and carrying compressed-air breathing cylinders where the radio had been, with fuel for only one hour.{{ref:tdia-altitude}} On 14 July six F.3s of No. 54 Squadron became the first jets to cross the Atlantic, routing via Stornoway, Iceland and Greenland to Goose Bay - a crossing made in short hops because the aircraft had nothing like the range to do otherwise.{{ref:wiki-vampire}}"
+        ]
+      },
+      {
+        "heading": "Service and the Export Boom",
+        "paragraphs": [
+          "No. 247 Squadron became the first RAF Vampire unit in March 1946, and the type's real career was as a fighter-bomber rather than an interceptor. The FB.5 - clipped wings, strengthened and longer-stroke undercarriage for rough strips, hardpoints for rockets and bombs - became the most numerous version at 1,123 built, and the tropicalised FB.9 that followed added a wing-root air-conditioning unit after crews in the Middle East and Far East found the unmodified cockpit close to unusable in heat.{{ref:wiki-vampire}}",
+          "What made the Vampire a commercial success was that it was simple, cheap and available at a moment when a great many air forces wanted their first jet. It sold to more than twenty of them and was built under licence in six countries: Sud-Est produced 187 FB.51s and 247 Nene-powered Mistrals in France, Hindustan Aircraft built 247 FB.52s and 60 T.55s in India, Fiat and Macchi built in Italy, de Havilland Australia produced the first jet aircraft made in Australia, and Switzerland built 103 FB.6s of its own.{{ref:airvectors-vampire}}"
+        ]
+      },
+      {
+        "heading": "Combat Service",
+        "paragraphs": [
+          "The Vampire's combat record is largely one of being outclassed. Egyptian Vampires fought Israeli Meteors in 1955 and were badly handled during the 1956 Suez crisis; Indian Vampires flew ground attack during the 1961 Goa operation, but in the 1965 war with Pakistan they were shot down by F-86 Sabres, an aircraft five years newer with a swept wing, and were withdrawn from front-line use immediately afterwards.{{ref:airvectors-vampire}} A 1943 design was still being sent against fighters in 1965 because it was what several air forces had.",
+          "Where it worked was against opponents with no air force at all. Rhodesian Vampires in jungle camouflage flew ground-attack strikes from the mid-1960s into the late 1970s, among the last combat use of the type anywhere, and Dominican Vampires fought in 1959 and again during the 1965 civil war.{{ref:airvectors-vampire}} The pattern is consistent: as a strike aircraft against undefended targets the Vampire remained useful for two decades after it had ceased to be survivable as a fighter."
+        ]
+      },
+      {
+        "heading": "Retirement and Survival",
+        "paragraphs": [
+          "The RAF replaced its Vampires with the Venom and then swept-wing types during the 1950s, but elsewhere the aircraft simply kept going. Switzerland flew its last examples until 1990 - forty-four years after the type entered service, and long after every contemporary had gone - because a simple, cheap jet suited a small air force flying from valley airfields.{{ref:airvectors-vampire}}",
+          "Well over a hundred survive, and the Vampire is unusual among first-generation jets in that a dozen or so still fly. Almost all are two-seat T.11 or T.55 trainers, kept longest in service and viable as warbirds because they have a seat to sell. The most significant survivor flies nowhere: LZ551, the prototype Brown landed on HMS Ocean, is preserved at the Fleet Air Arm Museum at Yeovilton.{{ref:wiki-survivors}}{{ref:van-carrier}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-vampire",
+      "name": "de Havilland Vampire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Vampire"
+    },
+    {
+      "id": "wiki-survivors",
+      "name": "List of surviving de Havilland Vampires",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Vampires"
+    },
+    {
+      "id": "airvectors-vampire",
+      "name": "Vampire In Foreign Service",
+      "publisher": "AirVectors",
+      "url": "https://www.airvectors.net/avvamp_2.html"
+    },
+    {
+      "id": "van-carrier",
+      "name": "The First Jet Takeoff and Landing on an Aircraft Carrier",
+      "publisher": "Vintage Aviation News",
+      "url": "https://vintageaviationnews.com/warbird-articles/today-in-aviation-history/the-first-carrier-takeoff-and-landing-on-an-aircraft-carrier.html"
+    },
+    {
+      "id": "tdia-altitude",
+      "name": "23 March 1948 - world altitude record",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/23-march-1948/"
+    },
+    {
+      "id": "wiki-goblin",
+      "name": "de Havilland Goblin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Goblin"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "de Havilland Vampire Preservation Group",
+      "url": "https://www.key.aero/article/de-havilland-vampire-preservation-group"
+    },
+    {
+      "name": "Today in Aviation History: First Flight of the de Havilland Vampire",
+      "url": "https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-de-havilland-vampire.html"
+    },
+    {
+      "name": "Eric 'Winkle' Brown",
+      "url": "https://en.wikipedia.org/wiki/Eric_Brown_(pilot)"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1943-09-20",
+      "title": "First flight of the DH.100 prototype",
+      "tag": "First flight",
+      "summary": "Geoffrey de Havilland Jr flew prototype LZ548/G on its maiden flight, six months after the Gloster Meteor. It was the first British jet designed around a single engine.",
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Vampire"
+    },
+    {
+      "date": "1945-12-03",
+      "title": "First jet landing and take-off from an aircraft carrier",
+      "tag": "Record flight",
+      "summary": "Lieutenant Commander Eric 'Winkle' Brown landed modified prototype LZ551 aboard HMS Ocean and took off again, in a swell that had raised doubts about whether the attempt could be made at all. It was the first time a pure jet aircraft had operated from a carrier deck, and it established that jets could go to sea.",
+      "source": "https://vintageaviationnews.com/warbird-articles/today-in-aviation-history/the-first-carrier-takeoff-and-landing-on-an-aircraft-carrier.html"
+    },
+    {
+      "date": "1948-03-23",
+      "title": "World altitude record of 59,446 ft",
+      "tag": "Record flight",
+      "summary": "Group Captain John Cunningham took Vampire F.1 TG/278, re-engined with a de Havilland Ghost 2 and stripped for weight with four extra feet of wingtip each side, to 18,119 m for the world altitude record. Its radio had been removed to make room for compressed-air breathing cylinders and it carried fuel for one hour. The aircraft was later damaged by an engine fire in October 1950.",
+      "source": "https://www.thisdayinaviation.com/23-march-1948/"
+    },
+    {
+      "date": "1948-07-14",
+      "title": "First jet crossing of the Atlantic",
+      "tag": "Record flight",
+      "summary": "Six Vampire F.3s of No. 54 Squadron RAF reached Goose Bay, Labrador, staging through Stornoway, Iceland and Greenland - the first jet aircraft to cross the Atlantic. The route was dictated by the type's limited range.",
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Vampire"
+    },
+    {
+      "date": "1965-09",
+      "title": "Indian Vampires lost to Pakistani Sabres",
+      "tag": "Combat losses",
+      "summary": "Indian Air Force Vampires committed to ground attack in the 1965 war with Pakistan were intercepted by North American F-86 Sabres and shot down. The type was withdrawn from front-line Indian service immediately afterwards, 22 years after its first flight.",
+      "source": "https://www.airvectors.net/avvamp_2.html"
+    },
+    {
+      "date": "1990",
+      "title": "Swiss Air Force retires the last military Vampires",
+      "tag": "Retirement",
+      "summary": "Switzerland withdrew the last of its fleet, ending 44 years of Vampire military service worldwide. It had operated the type longer than any other air force, including 103 FB.6s built under licence in Switzerland.",
+      "source": "https://www.airvectors.net/avvamp_2.html"
+    }
+  ]
+}

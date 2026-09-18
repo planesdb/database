@@ -1,0 +1,392 @@
+{
+  "name": "AH-64 Apache",
+  "fullName": "Boeing AH-64 Apache",
+  "manufacturer": "Boeing (originally Hughes/McDonnell Douglas)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Twin-Engine Attack Helicopter",
+  "tagline": "The world's most widely flown attack helicopter. Built around a 30mm chain gun, Hellfire missiles and a nose-mounted sensor turret, it has been flown by 19 nations since entering US Army service in 1986 and logged well over a million combat hours.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "Developed by Hughes Helicopters as the Model 77/YAH-64 to meet the US Army's Advanced Attack Helicopter requirement, the type first flew on 30 September 1975 and entered service as the AH-64A in 1986. McDonnell Douglas acquired the Hughes helicopter business in 1984 and Boeing inherited the line in the 1997 McDonnell Douglas merger. The Apache's combat debut came in the opening minutes of the 1991 Gulf War, when a flight of AH-64As destroyed Iraqi early-warning radar sites ahead of the main air campaign, and it has since flown extensively over Iraq, Afghanistan, Syria and, in 2026, in strikes tied to the wider US-Iran conflict in the Persian Gulf region. The definitive AH-64D Longbow introduced a millimetre-wave fire-control radar and cockpit-integrated digital targeting, while the current AH-64E Guardian adds fully digital avionics, more powerful engines and the ability to control unmanned aircraft from the cockpit. More than 2,875 Apaches have been built across the A through E models, with over 890 AH-64Es delivered as of late 2025 and the type on contract to remain in production into the 2030s.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 173,
+      "text": "150 kn (173 mph / 279 km/h)"
+    },
+    "cruiseSpeed": "158 mph (254 km/h)",
+    "range": {
+      "miles": 298,
+      "text": "298 mi (480 km, 259 nmi) internal fuel; 1,180 mi (1,899 km) ferry range with external tanks"
+    },
+    "serviceCeiling": {
+      "ft": 20000,
+      "text": "20,000 ft (6,096 m)"
+    },
+    "hoverCeiling": "OGE: 10,600 ft (3,231 m) at mission gross weight",
+    "rateOfClimb": "2,800+ ft/min (14.2+ m/s)",
+    "mainRotorDiameter": {
+      "ft": 48,
+      "text": "48 ft (14.6 m)"
+    },
+    "tailRotorDiameter": {
+      "ft": 9.2,
+      "text": "9 ft 2 in (2.8 m)"
+    },
+    "length": {
+      "ft": 49.1,
+      "text": "49 ft 1 in (14.97 m) fuselage; 58 ft 3 in (17.76 m) overall, rotors turning"
+    },
+    "height": {
+      "ft": 15.5,
+      "text": "15 ft 6 in (4.7 m)"
+    },
+    "weight": "empty: ~11,800 lb (5,352 kg); primary mission gross weight: 15,075 lb (6,838 kg); MTOW: 23,000 lb (10,433 kg)",
+    "rotorBlades": "4 main, 4 tail",
+    "discLoading": "10.1 lb/ft² (49.5 kg/m²) at primary mission gross weight",
+    "engines": "2 x General Electric T700-GE-701D turboshafts, ~2,000 shp (1,491 kW) each",
+    "armament": "1 x M230 30mm chain gun (1,200 rounds, 600-650 rds/min); up to 16 AGM-114 Hellfire anti-armor missiles; up to 76 Hydra 70 2.75-inch rockets; AIM-92 Stinger or AIM-9 air-to-air missiles on wingtip stations",
+    "crew": "2 (pilot + co-pilot/gunner, tandem seating)",
+    "capacity": "No troop-carrying capacity - a dedicated two-seat attack platform, not a transport",
+    "firstFlight": {
+      "date": "1975-09-30",
+      "year": 1975
+    },
+    "serviceEntryDate": "1986-04-26",
+    "retiredDate": null,
+    "numberBuilt": 2875,
+    "unitCost": {
+      "usd": 35500000,
+      "text": "~$35.5M (AH-64E, flyaway, FY2023 basis)",
+      "inflationText": null
+    },
+    "combatLosses": "Documented combat and operational losses across three decades of use, including multiple AH-64As/Ds lost to ground fire and accidents in Iraq and Afghanistan; most recently a US Army AH-64 went down in the Strait of Hormuz on 8 June 2026 after apparently being struck by an Iranian drone during the 2026 US-Iran conflict - both crew survived and were recovered at sea"
+  },
+  "variants": [
+    {
+      "code": "YAH-64",
+      "desc": "Original Hughes prototype that won the US Army's Advanced Attack Helicopter competition over the Bell YAH-63."
+    },
+    {
+      "code": "AH-64A",
+      "desc": "Initial production model, in US Army service from 1986; combat debut in the 1991 Gulf War."
+    },
+    {
+      "code": "AH-64D Apache Longbow",
+      "desc": "Major upgrade adding the AN/APG-78 millimetre-wave fire-control radar (in the distinctive mast-mounted dome), digital cockpits and improved sensors; most surviving A-models were remanufactured to this standard."
+    },
+    {
+      "code": "AH-64E Guardian",
+      "desc": "Current-production standard with fully digital avionics, more powerful T700-GE-701D engines, composite rotor blades and the ability to control unmanned aircraft (manned-unmanned teaming) from the cockpit."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1986",
+      "fleetSize": "~800 across the active Army and Army National Guard - by far the largest fleet",
+      "homeBase": "Multiple Combat Aviation Brigades",
+      "logo": "us-army.webp"
+    },
+    {
+      "name": "Polish Land Forces",
+      "role": "Largest Export Order",
+      "status": "On Order",
+      "since": "2024 (order)",
+      "fleetSize": "96 AH-64E ordered in 2024 - the largest Apache export contract ever signed",
+      "homeBase": "Polish army aviation bases"
+    },
+    {
+      "name": "Egyptian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "36 AH-64A delivered in 1995 and remanufactured to AH-64D, plus 12 Block II and 10 AH-64E approved since",
+      "homeBase": "Egyptian airbases"
+    },
+    {
+      "name": "British Army (Army Air Corps)",
+      "role": "Licence & Export Operator",
+      "status": "In Service",
+      "since": "2001",
+      "fleetSize": "67 WAH-64 Apache AH.1 licence-built by Westland, replaced by 50 AH-64E from 2020",
+      "homeBase": "Wattisham Flying Station"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Combat Operator",
+      "status": "In Service",
+      "since": "1990",
+      "fleetSize": "42 AH-64A by 2000, later supplemented by AH-64D Saraf",
+      "homeBase": "Ramon Airbase",
+      "logo": "israeli-air-force.webp"
+    },
+    {
+      "name": "Republic of Korea Army",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "36 AH-64E",
+      "homeBase": "South Korean army aviation bases"
+    },
+    {
+      "name": "Royal Netherlands Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1998",
+      "fleetSize": "30 AH-64D delivered 1998-2002, now being remanufactured to AH-64E",
+      "homeBase": "Gilze-Rijen AB",
+      "logo": "royal-netherlands-af.webp"
+    },
+    {
+      "name": "Indian Air Force & Indian Army",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "22 AH-64E with the Air Force and 6 with the Army",
+      "homeBase": "Pathankot and Jodhpur",
+      "logo": "indian-air-force.webp"
+    },
+    {
+      "name": "~12 other operators worldwide",
+      "role": "Export Operators",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "Over 2,700 delivered in total; Saudi Arabia (~94), UAE (67), Greece (32), Taiwan (30), Australia (29) and Qatar (24) lead the rest",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "AH64",
+    "howToFind": "As a military attack helicopter the Apache is not required to broadcast ADS-B and typically flies low, so sightings on Flightradar24 are opportunistic - most visible near major Army aviation hubs or during publicized exercises."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/feed",
+      "topicTag": "AH-64 Apache"
+    },
+    {
+      "name": "Army Recognition",
+      "url": "https://www.armyrecognition.com/rss",
+      "topicTag": "Apache"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "U.S. AH-64 Goes Down Near Strait of Hormuz, Crew Safe",
+      "source": "The Aviationist",
+      "date": "2026-06-09",
+      "category": "Incident",
+      "url": "https://theaviationist.com/2026/06/09/u-s-ah-64-goes-down-near-strait-of-hormuz-crew-safe/"
+    },
+    {
+      "title": "AH-64 Apache Shot Down By Iran, U.S. Will Retaliate: Trump",
+      "source": "The War Zone",
+      "date": "2026-06-09",
+      "category": "Incident",
+      "url": "https://www.twz.com/news-features/ah-64-apache-shot-down-by-iran-u-s-will-retaliate-trump"
+    },
+    {
+      "title": "Trump vows response after Iran downs U.S. helicopter",
+      "source": "Axios",
+      "date": "2026-06-09",
+      "category": "Analysis",
+      "url": "https://www.axios.com/2026/06/09/us-army-apache-helicopter-strait-of-hormuz-iran"
+    },
+    {
+      "title": "Apache down, fighting up: What the latest US-Iran attacks mean",
+      "source": "Al Jazeera",
+      "date": "2026-06-10",
+      "category": "Analysis",
+      "url": "https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean"
+    }
+  ],
+  "tags": [
+    "ah-64",
+    "ah64",
+    "apache",
+    "apache longbow",
+    "guardian",
+    "boeing helicopter",
+    "attack helicopter",
+    "us army",
+    "hellfire",
+    "helicopter"
+  ],
+  "quickFacts": [
+    "Task Force Normandy's opening strike on Iraqi radar sites in January 1991 fired the first shots of the Gulf War - before a single fixed-wing coalition aircraft crossed the border.",
+    "The AH-64D Longbow's distinctive mast-mounted dome houses a millimetre-wave radar that can find and prioritize up to 128 targets in seconds, then share that picture with other Apaches without anyone breaking radio silence.",
+    "The Apache fleet has logged well over 1.3 million combat flight-hours - more than any other attack helicopter in service anywhere.",
+    "It's flown by 19 countries, making it the most widely operated dedicated attack helicopter in the Western world.",
+    "The AH-64E can act as a airborne quarterback for drones, receiving video feeds from and even directing unmanned aircraft to scout ahead of the crewed helicopter.",
+    "On 8 June 2026 a US Army Apache went down in the Strait of Hormuz during the conflict with Iran; both pilots were recovered from the water by an autonomous sea drone before Iranian forces could reach them."
+  ],
+  "article": {
+    "overview": [
+      "The Boeing AH-64 Apache is a twin-engine attack helicopter built for the US Army, in service since 1986. It carries a 30mm chain gun slaved to the gunner's helmet-mounted sight, Hellfire missiles and rockets, and is flown by 19 countries.{{ref:boeing-apache}}",
+      "Developed from Hughes Helicopters' Model 77 to find and destroy armoured vehicles at night and survive ground fire while doing it, the Apache made its combat debut in the opening hours of the 1991 Gulf War and has since flown in every major American air campaign, as well as with Israel and other allied air forces.{{ref:wiki-apache}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Apache traces to the US Army's Advanced Attack Helicopter competition of the early 1970s, a Vietnam-era push to replace the lightly armed AH-1 Cobra with a survivable, all-weather tank-killer built for the Cold War's expected armor battles in Central Europe. Hughes Helicopters' Model 77 beat Bell's rival YAH-63 design and flew as the YAH-64 on 30 September 1975.{{ref:wiki-apache}}",
+          "The design brief was blunt: find and destroy Soviet armor at night, survive small-arms and light anti-aircraft fire while doing it, and keep flying home on one engine if the other was hit. That survivability-first philosophy - separated, armored crew stations; redundant flight controls; a rotor system rated to keep turning after direct hits - still defines the airframe.{{ref:boeing-apache}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Two pilots sit in stepped tandem seats - gunner up front, pilot behind and above - each with enough redundant flight controls and instrumentation to fly and fight the aircraft alone if the other seat is disabled. Beneath the gunner's chin turret sits the M230 30mm chain gun, slaved to whichever crewman's helmet-mounted sight is currently looking at the target, so the gun simply points wherever the gunner looks.{{ref:boeing-apache}}",
+          "The definitive AH-64D added the Longbow fire-control radar in its distinctive mast-mounted dome above the main rotor, letting the aircraft scan for armored vehicles from behind cover and share target data across a flight of Apaches without exposing itself or breaking radio silence. The current AH-64E Guardian keeps that radar option but rebuilds the avionics around fully digital, open-architecture mission computers and adds composite rotor blades and uprated T700 engines for better hot-and-high performance.{{ref:wiki-apache}}",
+          "Two General Electric T700 turboshafts drive a four-bladed main rotor and four-bladed tail rotor through a transmission rated to keep the aircraft flying - if not fighting - after losing an engine, part of a broader design philosophy that treats crew survival as a harder requirement than mission completion.{{ref:boeing-apache}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The Apache's combat debut was also one of the most dramatic openings of any modern war: in the early hours of 17 January 1991, nine AH-64As of Task Force Normandy destroyed two Iraqi early-warning radar sites with precision Hellfire strikes, cutting a hole in Iraq's air-defense coverage before a single coalition fighter crossed the border. Apaches went on to destroy hundreds of Iraqi armored vehicles during the ground war that followed.{{ref:wiki-apache}}",
+          "Since then the type has flown continuously over Iraq and Afghanistan, including high-profile and costly missions such as the 2003 Objective Peach raid near Karbala, where dozens of Apaches took heavy small-arms damage attacking a Republican Guard division; it has also equipped Israel's air force since 1990, seeing extensive use in Gaza, Lebanon and the wider region. In June 2026, a US Army Apache went down in the Strait of Hormuz during the escalating conflict with Iran - Tehran claimed a shoot-down, and a later US assessment pointed to an Iranian drone strike, while both crew were rescued unharmed by an autonomous sea drone.{{ref:aviationist-hormuz}}{{ref:axios-hormuz}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "With more than 2,875 airframes built and over 890 AH-64Es delivered by late 2025, the Apache remains the backbone of the US Army's attack helicopter fleet and the type of choice for 19 partner nations, from Israel and the UK to South Korea and India. Boeing's Mesa, Arizona line continues E-model production into the 2030s, and the company has begun previewing a further 'Modernized Apache' concept built around an open, modular mission-systems architecture intended to keep the platform relevant into the 2060s.{{ref:boeing-apache}}",
+          "The June 2026 loss over the Strait of Hormuz was a reminder that low-flying attack helicopters remain vulnerable to the kind of cheap drones and man-portable weapons now common on modern battlefields - a threat the Modernized Apache's sensor and survivability upgrades are explicitly being designed to counter, even as the airframe itself heads toward its fifth decade in frontline service.{{ref:wiki-apache}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "boeing-apache",
+      "name": "AH-64 Apache",
+      "publisher": "Boeing",
+      "url": "https://www.boeing.com/defense/military-rotorcraft/ah-64-apache"
+    },
+    {
+      "id": "wiki-apache",
+      "name": "Boeing AH-64 Apache",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_AH-64_Apache"
+    },
+    {
+      "id": "aviationist-hormuz",
+      "name": "U.S. AH-64 Goes Down Near Strait of Hormuz, Crew Safe",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/06/09/u-s-ah-64-goes-down-near-strait-of-hormuz-crew-safe/"
+    },
+    {
+      "id": "axios-hormuz",
+      "name": "Trump vows response after Iran downs U.S. helicopter",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/06/09/us-army-apache-helicopter-strait-of-hormuz-iran"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing - AH-64 Apache (official product page and specifications table)",
+      "url": "https://www.boeing.com/defense/military-rotorcraft/ah-64-apache"
+    },
+    {
+      "name": "Wikipedia - Boeing AH-64 Apache",
+      "url": "https://en.wikipedia.org/wiki/Boeing_AH-64_Apache"
+    },
+    {
+      "name": "The Aviationist - U.S. AH-64 Goes Down Near Strait of Hormuz, Crew Safe",
+      "url": "https://theaviationist.com/2026/06/09/u-s-ah-64-goes-down-near-strait-of-hormuz-crew-safe/"
+    },
+    {
+      "name": "The War Zone - AH-64 Apache Shot Down By Iran, U.S. Will Retaliate: Trump",
+      "url": "https://www.twz.com/news-features/ah-64-apache-shot-down-by-iran-u-s-will-retaliate-trump"
+    }
+  ],
+  "survivors": {
+    "intro": "The Apache is still in front-line service, so preserved examples are mostly prototypes and early airframes retired from the test programme.",
+    "airframes": [
+      {
+        "serial": "74-22248",
+        "location": "US Army Aviation Museum",
+        "place": "Fort Novosel, Alabama, USA",
+        "url": "https://www.armyaviationmuseum.org/",
+        "countryCode": "us",
+        "country": "United States",
+        "note": "One of two YAH-64 prototypes preserved from the original Advanced Attack Helicopter flight-test program.",
+        "featured": true
+      },
+      {
+        "serial": "74-22249",
+        "location": "US Army Aviation Museum",
+        "place": "Fort Novosel, Alabama, USA",
+        "url": "https://www.armyaviationmuseum.org/",
+        "countryCode": "us",
+        "country": "United States",
+        "note": "Second surviving YAH-64 prototype, displayed alongside 74-22248.",
+        "featured": true
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-11",
+      "change": "Entry created as a gold-standard test of the new helicopter template: full spec block, article, references, timeline and survivors sourced from Boeing's official AH-64E specifications page and current 2026 reporting on the Strait of Hormuz incident.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster from the full operators list - added Poland, Egypt, the Netherlands and Korea as individual rows, recorded the British Army's earlier 67 licence-built WAH-64s, and folded the remaining ~12 customers into a combined row with real fleet figures.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2003-03-24",
+      "title": "Forced down and crew captured near Karbala",
+      "summary": "A US Army Apache was forced down in a marsh after ground fire severed its hydraulics during a raid near Karbala, Iraq. Both pilots survived but were captured as POWs, and the abandoned aircraft was destroyed the next day by a US airstrike to deny it to Iraqi forces.",
+      "fatalities": 0,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/2003_attack_on_Karbala"
+    },
+    {
+      "date": "2023-04-27",
+      "title": "Mid-air collision near Healy, Alaska",
+      "summary": "Two US Army Apaches collided in mid-air near Healy, Alaska while returning from a training exercise, killing three soldiers and injuring one.",
+      "fatalities": 3,
+      "tag": "Training accident / mid-air collision",
+      "source": "https://en.wikipedia.org/wiki/2023_Alaska_mid-air_collision"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Apache lost in the Strait of Hormuz",
+      "tag": "Combat loss",
+      "summary": "A US Army Apache went into the sea near the Strait of Hormuz during the 2026 US-Iran conflict; both crew were rescued unharmed. Iran claimed to have shot it down, and a later US assessment attributed the loss to an Iranian drone strike without confirming intent.",
+      "fatalities": 0,
+      "source": "https://theaviationist.com/2026/06/09/u-s-ah-64-goes-down-near-strait-of-hormuz-crew-safe/"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Training crash near Fort Cavazos, Texas",
+      "summary": "An Apache crashed into a field near Fort Cavazos (formerly Fort Hood), Texas, and caught fire, killing both pilots.",
+      "fatalities": 2,
+      "tag": "Training accident",
+      "source": "https://www.cnn.com/2026/08/12/us/fort-hood-helicopter-crash-texas"
+    }
+  ]
+}

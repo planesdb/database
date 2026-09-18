@@ -1,0 +1,283 @@
+{
+  "name": "Viggen",
+  "fullName": "Saab 37 Viggen",
+  "manufacturer": "Saab AB",
+  "originCountry": {
+    "name": "Sweden",
+    "code": "se"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Cold War Multirole Fighter",
+  "tagline": "Sweden's unique canard-delta fighter built to scramble from highway strips and outlast a Soviet first strike. One of the first combat aircraft in the world to pair forward canard foreplanes with a delta main wing, it let Sweden disperse its air force across short highway strips and forest bases rather than concentrate it on a handful of vulnerable airfields.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Designed from the mid-1950s onward to satisfy Sweden's demanding neutral-nation air defence requirements - very short takeoff and landing performance from 500-metre road-base strips, rapid turnaround by conscript ground crews, and Mach 2 interception performance - the Viggen's canard-delta layout was a genuinely novel solution when it first flew in February 1967, using the foreplane both to improve low-speed lift for short-field operation and to enhance high-speed stability. It entered Swedish Air Force service in 1971 as the AJ 37 attack variant, followed by dedicated JA 37 interceptor, SF/SH 37 reconnaissance and SK 37 trainer versions, together forming a complete 'system' of specialised variants sharing a common airframe - reflecting Sweden's determination to field a fully independent, self-sufficient air force during the Cold War despite its small size and formal neutrality. The Viggen never saw combat, but it maintained round-the-clock quick-reaction alert against Soviet reconnaissance and bomber incursions into Swedish airspace for over three decades, and Swedish JA 37 interceptors were regularly scrambled to intercept and shadow Soviet aircraft probing the Baltic approaches throughout the Cold War. The type was gradually replaced by the smaller, lighter and even more advanced Saab JAS 39 Gripen from the mid-1990s, with the last Viggen squadrons retiring in June 2007; a small number remain preserved in flying condition with the Swedish Air Force Historic Flight.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1386,
+      "text": "1,204 kn (1,386 mph / 2,231 km/h)"
+    },
+    "cruiseSpeed": "~560 mph (900 km/h)",
+    "range": {
+      "miles": 1130,
+      "text": "1,130 mi (1,820 km) on internal fuel"
+    },
+    "serviceCeiling": {
+      "ft": 59055,
+      "text": "59,000 ft (18,000 m)"
+    },
+    "wingspan": {
+      "ft": 34.75,
+      "text": "34 ft 9 in (10.6 m)"
+    },
+    "length": {
+      "ft": 53.83,
+      "text": "53 ft 10 in (16.4 m)"
+    },
+    "height": {
+      "ft": 19.33,
+      "text": "19 ft 4 in (5.9 m)"
+    },
+    "weight": "empty: 20,944 lb (9,500 kg); loaded (max): 45,194 lb (20,500 kg)",
+    "engines": "1 x Volvo Flygmotor RM8B afterburning turbofan (a licensed, Swedish-modified Pratt & Whitney JT8D core), 28,110 lbf thrust with afterburner",
+    "armament": "1 x 30 mm Oerlikon KCA cannon (JA 37); up to 13,000 lb (6,000 kg) of anti-ship missiles, air-to-air missiles, bombs or rockets across 7 hardpoints",
+    "crew": "1 (pilot); SK 37 two-seat trainer variant carried 2",
+    "capacity": "N/A - single-seat fighter; up to 13,000 lb (6,000 kg) of external ordnance across 7 hardpoints",
+    "firstFlight": {
+      "date": "1967-02-08",
+      "year": 1967
+    },
+    "serviceEntryDate": "1971-06-21",
+    "retiredDate": "2007-06-26",
+    "numberBuilt": 329,
+    "unitCost": {
+      "usd": 15000000,
+      "text": "~$15M (adjusted to 2026 dollars) - developed and procured entirely domestically by neutral Sweden's independent defence industry"
+    }
+  },
+  "variants": [
+    {
+      "code": "AJ 37",
+      "desc": "Original attack variant optimised for anti-ship and ground-attack missions, the first version to enter service."
+    },
+    {
+      "code": "JA 37",
+      "desc": "Dedicated interceptor variant with an uprated engine, improved radar and cannon armament, the most numerous version."
+    },
+    {
+      "code": "SF 37 / SH 37",
+      "desc": "Overland and maritime reconnaissance variants carrying camera and sensor pods in place of weapons."
+    },
+    {
+      "code": "SK 37",
+      "desc": "Tandem two-seat trainer conversion used to qualify new Viggen pilots."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Swedish Air Force (Flygvapnet)",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1971",
+      "fleetSize": "329 built total",
+      "homeBase": "Air bases and dispersed highway strips across Sweden",
+      "logo": "swedish-air-force.svg"
+    },
+    {
+      "name": "Swedish Air Force Historic Flight",
+      "role": "Heritage & airshow operator",
+      "status": "In Service",
+      "since": "2008",
+      "fleetSize": "2-3 airworthy preserved examples",
+      "homeBase": "Såtenäs airbase, Sweden",
+      "logo": "swedish-air-force.svg"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "VIGG",
+    "howToFind": "A small number of Viggens are kept airworthy by the Swedish Air Force Historic Flight and appear at European airshows and Swedish national events; visible on Flightradar24 during display and transit flights with civil or Swedish military markings."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "AeroTime",
+      "url": "https://www.aerotime.aero/feed",
+      "topicTag": "Saab Viggen"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Saab Viggen announced as headline aircraft for Antidotum Airshow Leszno 2026",
+      "source": "European Airshows",
+      "date": "2026-01-12",
+      "category": "Airshow",
+      "url": "https://www.europeanairshows.co.uk/news/saab-viggen-announced-as-first-star-of-antidotum-airshow-leszno-2026"
+    }
+  ],
+  "tags": [
+    "saab viggen",
+    "swedish air force",
+    "canard delta",
+    "cold war fighter",
+    "highway strip",
+    "road base",
+    "neutral sweden",
+    "volvo flygmotor",
+    "flygvapnet"
+  ],
+  "quickFacts": [
+    "Viggen pilots were the only ones ever to get a radar lock on the SR-71 Blackbird - achieved head-on with the fighter's computer predicting the intercept.",
+    "In 1987 Viggen pilots escorted a crippled SR-71 to safety over the Baltic, shielding it from Soviet interception - the US secretly decorated them 30 years later.",
+    "It could land on 500 m of public highway, reverse under its own thrust-reverser power, and be turned around by conscript ground crews in under 10 minutes.",
+    "Its canard-delta layout with afterburning and a thrust reverser existed on no other aircraft in the world.",
+    "Sweden's wartime plan dispersed Viggens to hundreds of road strips hidden in forests - an air force designed to survive a first strike."
+  ],
+  "article": {
+    "overview": [
+      "The Saab 37 Viggen is a Swedish single-engine, canard-delta fighter built by Saab for the Swedish Air Force. It was the first modern canard-delta aircraft in service, and was designed to operate from 500-metre stretches of public road as part of Sweden's dispersed wartime basing doctrine.{{ref:wiki-viggen}}",
+      "It was fitted with a thrust reverser - unique among fighters - and one of the first airborne digital computers, and could be turned around by conscript ground crews in under ten minutes.{{ref:wiki-viggen}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Sweden's System 37 requirement of the early 1960s was really a national survival plan: replace fighters, attackers and reconnaissance types with one supersonic family able to disperse to the BAS 60 network of highway strips and forest hides{{ref:wiki-bas60}}, flown by regular squadrons but serviced by conscripts, keeping the air force alive after the airfields died.{{ref:wiki-viggen}}",
+          "Nothing off the shelf could do short-field Mach 2, so Saab invented the layout: a big delta for supersonic flight, close-coupled canards ahead of it whose vortices kept the wing lifting at absurdly low landing speeds. The 'Thunderbolt' (Viggen, also a pun on the canard - 'vinge' means wing) flew on 8 February 1967.{{ref:wiki-viggen}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The short-field kit was total: a licence-built Pratt & Whitney JT8D airliner engine, enlarged and given a Swedish afterburner, plus - uniquely for a fighter - a thrust reverser that engaged on touchdown, letting the Viggen land on 500 metres without a brake chute and taxi backwards out of its hide. The undercarriage, built for no-flare carrier-style slam-downs, came from tank-grade thinking.{{ref:wiki-viggen}}",
+          "Inside sat the CK37, among the first airborne digital computers, unloading the single pilot enough to fly attack profiles that other air forces gave two crew. Data-linked flights of Viggens could share target pictures in the 1980s - fighting as a networked pack decades before the term existed - and the final JA 37 interceptor's look-down radar and computing made it a serious threat to anything at any altitude.{{ref:si-viggen}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The Viggen never fired in anger - by design - but its Cold War was busy: shadowing Soviet naval exercises over the Baltic, intercepting anything that approached Swedish airspace, and famously 'escorting' the SR-71's regular Baltic Express runs. JA 37 pilots achieved repeated radar locks on the Blackbird in head-on intercepts - the only fighter pilots officially credited with doing so - and in 1987 a Viggen pair shepherded a crippled, single-engined SR-71 to safety, an act decorated by the USAF only in 2018 when the mission was declassified.{{ref:sr71-escort}}",
+          "It served in five main versions - AJ 37 attack, SF/SH 37 reconnaissance, SK 37 trainer and the definitive JA 37 fighter - 329 aircraft carrying Sweden's doctrine for three decades before the last retired in 2005, replaced by the Gripen that inherited its philosophy wholesale.{{ref:wiki-viggen}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The Viggen was nearly Sweden's ruin and certainly its education: the largest industrial project in the country's history to that point, consuming engineers, budgets and political capital - and building the systems-integration capability that made Saab a permanent member of the world's very short list of fighter-building nations.{{ref:wiki-viggen}}",
+          "Export hopes died repeatedly - U.S. engine-licence politics helped kill bids in Europe - leaving the Viggen a purely Swedish story, 329 built for one customer. Its true export was conceptual: look at a Rafale, Typhoon or Gripen head-on and the Viggen's canard-delta silhouette looks back.{{ref:si-viggen}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "Dispersed basing, minimal ground crew, road operations and networked fighters - the doctrines NATO now rehearses against cruise-missile attacks on airbases - were weekly routine for Sweden's Viggen force fifty years earlier.{{ref:wiki-viggen}}",
+          "A dozen survive in museums from Linköping to Duxford, and the Swedish Air Force Historic Flight has kept one flying at European airshows, its thrust reverser, anti-shock bodies and double-delta silhouette intact.{{ref:si-viggen}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-viggen",
+      "name": "Saab 37 Viggen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saab_37_Viggen"
+    },
+    {
+      "id": "si-viggen",
+      "name": "Saab AJSF 37 Viggen",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/saab-ajsf-37-viggen/nasm_A20050220000"
+    },
+    {
+      "id": "sr71-escort",
+      "name": "Swedish pilots honored for escorting stricken SR-71",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/News/Article-Display/Article/1687807/swedish-pilots-receive-us-air-medals-for-role-in-saving-sr-71-crew/"
+    },
+    {
+      "id": "wiki-bas60",
+      "name": "Bas 60 (Swedish air base system)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bas_60"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Saab 37 Viggen",
+      "url": "https://en.wikipedia.org/wiki/Saab_37_Viggen"
+    },
+    {
+      "name": "MILAVIA Aircraft - Saab AJ/JA 37 Viggen Specifications",
+      "url": "https://www.milavia.net/aircraft/viggen/viggen_specs.htm"
+    },
+    {
+      "name": "Saab Group - Viggen heritage page",
+      "url": "https://www.saab.com/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1971-09-14",
+      "title": "Prototype flips and burns at Malmslätt",
+      "summary": "During a low-altitude demonstration landing for a film production at Malmslätt, prototype 37001 departed the runway, flipped over and caught fire. The sole occupant survived.",
+      "fatalities": 0,
+      "tag": "Test/demonstration accident",
+      "source": "https://aviation-safety.net/wikibase/78679"
+    },
+    {
+      "date": "1979-01-11",
+      "title": "Fatal CFIT near Skövde",
+      "summary": "An AJ 37 Viggen flying in a two-ship training formation crashed into terrain at high speed and a steep angle southwest of Skövde, killing the pilot.",
+      "fatalities": 1,
+      "tag": "Training accident (CFIT)",
+      "source": "https://aviation-safety.net/wikibase/182788"
+    },
+    {
+      "date": "1988-03-14",
+      "title": "Fatal G-LOC crash near Fröseke",
+      "summary": "A JA 37 Viggen pilot lost consciousness under roughly 5G during a manoeuvre near Fröseke and the aircraft struck the ground, killing the pilot.",
+      "fatalities": 1,
+      "tag": "Loss of control",
+      "source": "https://aviation-safety.net/wikibase/138212"
+    },
+    {
+      "date": "2002-06-20",
+      "title": "Low airshow flyby injures spectators",
+      "summary": "A JA 37 Viggen performing an extremely low flyby at a Swedish air wing misjudged its position relative to spectators on a hill and pitched up into a high-alpha attitude, directing its exhaust at the crowd. Eight people were injured, three seriously.",
+      "fatalities": 0,
+      "tag": "Airshow incident",
+      "source": "https://theaviationgeekclub.com/that-time-a-ja-37-viggen-performed-a-fly-by-at-an-altitude-of-two-meters-and-injured-eight-people-on-the-ground/"
+    }
+  ]
+}

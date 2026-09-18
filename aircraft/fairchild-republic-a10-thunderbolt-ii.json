@@ -1,0 +1,411 @@
+{
+  "name": "A-10 Thunderbolt II",
+  "fullName": "Fairchild Republic A-10 Thunderbolt II",
+  "manufacturer": "Fairchild Republic",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Close Air Support Attack Aircraft",
+  "tagline": "A titanium bathtub built around a 30mm tank-killing cannon. The only USAF aircraft ever designed purely for close air support, it wraps a 1,200 lb titanium shield around the pilot and arranges the entire airframe around the GAU-8/A Avenger cannon, which fires armour-piercing rounds at 3,900 per minute.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "Born from the A-X program shaped by Vietnam-era close air support lessons and the fear of Soviet armoured thrusts in Europe, the A-10 first flew on 10 May 1972 and entered service in 1977. It found its defining moment in Desert Storm, where Warthogs destroyed more than 900 Iraqi tanks and 2,000 other vehicles. It has since flown in the Balkans, Afghanistan, Iraq and Syria, surviving repeated Pentagon attempts to retire it thanks to congressional intervention and its cult status with ground troops. A planned FY2026 retirement of the last ~162 A-10s was reversed in April 2026 after Warthogs flew close air support and rescue-escort missions over Iran during Operation Epic Fury; three squadrons at Moody and Whiteman Air Force Bases were extended through 2029-2030 instead.",
+  "quickFacts": [
+    "The GAU-8 cannon is so central to the design that the aircraft was literally built around it - the gun assembly is the size of a small car and the nose wheel is offset to make room for it.",
+    "Firing the gun produces recoil force comparable to one of the aircraft's two engines at full thrust.",
+    "The pilot sits in a titanium armour 'bathtub' weighing about 1,200 lb that can shrug off 23 mm cannon hits.",
+    "In 2003, Capt. Kim Campbell flew her A-10 back from Baghdad on manual reversion after ground fire destroyed all hydraulics - and landed it safely.",
+    "A-10s destroyed more than 900 Iraqi tanks in Desert Storm - and two Iraqi helicopters, the type's only air-to-air kills, both with the cannon.",
+    "Despite being slow enough that pilots joke about bird strikes from behind, the A-10 has one of the lowest combat loss rates of any US jet.",
+    "In 2026, A-10s flying close air support and rescue-escort missions during Operation Epic Fury over Iran helped convince the Air Force to extend three squadrons through 2029-2030 instead of retiring them."
+  ],
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 439,
+      "text": "381 kn (439 mph / 706 km/h)"
+    },
+    "cruiseSpeed": "340 mph (547 km/h) typical",
+    "range": {
+      "miles": 2580,
+      "text": "2,580 mi (4,150 km) ferry; combat radius ~290 mi (460 km) with 2 hr loiter"
+    },
+    "serviceCeiling": {
+      "ft": 45000,
+      "text": "45,000 ft (13,700 m)"
+    },
+    "wingspan": {
+      "ft": 57.5,
+      "text": "57 ft 6 in (17.53 m)"
+    },
+    "length": {
+      "ft": 53.3,
+      "text": "53 ft 4 in (16.26 m)"
+    },
+    "height": {
+      "ft": 14.7,
+      "text": "14 ft 8 in (4.47 m)"
+    },
+    "weight": "empty: 24,959 lb (11,321 kg); MTOW: 50,000 lb (22,700 kg)",
+    "engines": "2 × General Electric TF34-GE-100 turbofans (9,065 lbf each)",
+    "armament": "1 × 30 mm GAU-8/A Avenger rotary cannon; AGM-65 Maverick, JDAM, WCMD, rockets, AIM-9 Sidewinder",
+    "crew": "1",
+    "capacity": "16,000 lb (7,260 kg) of ordnance on 11 hardpoints plus 1,174 rounds of 30 mm",
+    "firstFlight": {
+      "date": "1972-05-10",
+      "year": 1972
+    },
+    "serviceEntryDate": "1977-03-01",
+    "retiredDate": null,
+    "numberBuilt": 716,
+    "unitCost": {
+      "usd": 18800000,
+      "text": "$18.8M (1998 dollars, program unit cost) - roughly $38.7M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$38.7M in 2026 dollars"
+    },
+    "combatLosses": "7 combat losses across all conflicts in 8,000+ combat sorties - 6 shot down by infrared-guided SAMs during Desert Storm (Feb 1991) and 1 by an Iraqi Roland missile over Baghdad (8 Apr 2003)"
+  },
+  "variants": [
+    {
+      "code": "YA-10A",
+      "desc": "Prototypes that beat the Northrop YA-9 in the 1972 A-X fly-off."
+    },
+    {
+      "code": "A-10A",
+      "desc": "Original production close air support aircraft, 713 built."
+    },
+    {
+      "code": "OA-10A",
+      "desc": "Forward air control-tasked jets, identical airframe with different mission."
+    },
+    {
+      "code": "A-10C",
+      "desc": "2000s precision-engagement upgrade: glass cockpit, datalink, targeting pods and JDAM capability - all surviving aircraft converted."
+    }
+  ],
+  "operators": [
+    {
+      "name": "US Air Force (incl. ANG & Reserve)",
+      "role": "Sole Operator",
+      "status": "Retiring by late 2020s",
+      "since": "1977",
+      "fleetSize": "~162 (drawing down)",
+      "homeBase": "Davis-Monthan / Moody / ANG units",
+      "logo": "usaf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A10",
+    "howToFind": "Search type 'A10'. Warthogs cruise slowly at low-to-mid altitudes; ferry flights to and from the Boneyard at Davis-Monthan are increasingly common as the fleet retires."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/",
+      "topicTag": "A-10"
+    },
+    {
+      "name": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/",
+      "topicTag": "A-10"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Congress saves A-10 Warthog and F-15E from retirement in 2026 defense bill",
+      "source": "Aero News Journal",
+      "date": "2025-12-18",
+      "category": "Policy",
+      "url": "https://www.aeronewsjournal.com/2025/12/congress-saves-10-warthog-and-f-15e.html"
+    },
+    {
+      "title": "The US Air Force retired its last A-10 Warthog from South Korea",
+      "source": "Simple Flying",
+      "date": "2025-08-20",
+      "category": "Fleet Update",
+      "url": "https://simpleflying.com/usaf-retired-last-a-10-warthod-what-fills-gap/"
+    },
+    {
+      "title": "A-10 Warthog retirement: what's the latest?",
+      "source": "Aerospace Global News",
+      "date": "2025-07-05",
+      "category": "Fleet Update",
+      "url": "https://aerospaceglobalnews.com/news/a-10-warthog-retirement-update/"
+    },
+    {
+      "title": "US Air Force to retire all A-10s, cancel E-7 under 2026 spending plan",
+      "source": "Defense News",
+      "date": "2025-06-27",
+      "category": "Fleet Update",
+      "url": "https://www.defensenews.com/air/2025/06/27/us-air-force-to-retire-all-a-10s-cancel-e-7-under-2026-spending-plan/"
+    },
+    {
+      "title": "A disciplined case for the A-10 the Air Force won't make",
+      "source": "The War Zone",
+      "date": "2025-05-15",
+      "category": "Analysis",
+      "url": "https://www.twz.com/air/a-disciplined-case-for-the-a-10-the-air-force-wont-make"
+    },
+    {
+      "title": "A-10 retirement moved up two years",
+      "source": "AVweb",
+      "date": "2024-03-11",
+      "category": "Fleet Update",
+      "url": "https://avweb.com/aviation-news/a-10-retirement-moved-up-two-years/"
+    }
+  ],
+  "tags": [
+    "a-10",
+    "warthog",
+    "thunderbolt ii",
+    "hawg",
+    "fairchild republic",
+    "usaf",
+    "close air support",
+    "cas",
+    "gau-8",
+    "tank killer"
+  ],
+  "article": {
+    "overview": [
+      "The Fairchild Republic A-10 Thunderbolt II, known as the Warthog, is a twin-engine close air support aircraft built for the US Air Force, in service since 1977. It is built around a seven-barrel 30mm rotary cannon and armoured to survive ground fire that would down most other aircraft.{{ref:wiki-a10}}",
+      "Developed from lessons in the Vietnam War, where slower attack aircraft proved highly vulnerable to ground fire, the A-10 has flown in every major American conflict since the 1991 Gulf War. The Pentagon has proposed retiring it repeatedly since 2013, and Congress has blocked most attempts; in 2026 several squadrons were extended through 2029-2030 after Warthogs flew close air support over Iran.{{ref:wiki-a10}}{{ref:militarytimes-extend}}"
+    ],
+    "sections": [
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The case for the A-10 was written in Vietnam, where the propeller-driven Douglas A-1 Skyraider flew slow, accurate close air support but proved painfully vulnerable to ground fire - the US lost roughly 266 of them, mostly to small arms. On 8 September 1966, Air Force Chief of Staff Gen. John P. McConnell ordered development of a purpose-built replacement, and the A-X program's formal requirements followed in 1970: a 30 mm rotary cannon capable of 4,000 rounds a minute, a 16,000 lb external load, and a unit cost of just $1.4 million.{{ref:wiki-a10}}",
+          "Fairchild Republic's YA-10A and Northrop's YA-9A went head-to-head in a 1972 fly-off; the YA-10 first flew on 10 May 1972, piloted by Howard \"Sam\" Nelson, and won selection for production on 18 January 1973. Unusually for a fighter program, the airframe came second - General Electric's GAU-8/A Avenger cannon was selected that June, and the whole aircraft was designed around it rather than the other way around.{{ref:wiki-a10}}",
+          "Two YA-10A prototypes were built at Fairchild Republic's Farmingdale, New York plant, and the type was declared the winner on 18 January 1973 - before the GAU-8 cannon it had been designed around was finally selected. 713 production A-10As followed between 1975 and 1984. Some were re-designated OA-10A for forward air control, flying ahead of strike packages to identify targets and coordinate other aircraft rather than attacking themselves; the designation described the mission rather than the hardware, and an aircraft could move between the two roles with no physical modification.{{ref:wiki-a10}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Almost everything about the A-10's shape serves survivability at low altitude. The pilot sits inside 1,200 lb of titanium armour - a literal \"bathtub\" tested to shrug off 23 mm cannon fire - and the two General Electric TF34 turbofans are mounted high and to the rear, both to reduce debris ingestion from unimproved runways and to mask their infrared signature from heat-seeking missiles.{{ref:wiki-a10}}",
+          "The rest of the design assumes battle damage as the normal condition, not the exception. Flight controls run on double-redundant hydraulics backed by a fully mechanical \"manual reversion\" system that lets a pilot fly and land with no hydraulics at all; fuel tanks are self-sealing and lined with reticulated foam; and the aircraft is stressed to keep flying with one engine, half a tail, or a chunk of wing missing.{{ref:wiki-a10}} It can also operate from damaged runways, taxiways, or straight sections of road, needing little more than fuel, ammunition and a flat surface to keep fighting.",
+          "The airframe outlasted its avionics. The Precision Engagement upgrade, which reached initial operating capability in September 2007, gave a fleet that had flown for three decades on 1970s analogue equipment a glass cockpit, a digital datalink, targeting pods and JDAM compatibility. Every surviving aircraft was converted to this A-10C standard, and it is the only version still flying.{{ref:wiki-a10}}"
+        ]
+      },
+      {
+        "heading": "Desert Storm",
+        "paragraphs": [
+          "The A-10 got its defining moment in the 1991 Gulf War. 132 aircraft flew roughly 8,100 sorties with a 95.7% mission-capable rate, destroyed more than 900 Iraqi tanks and 2,000 other vehicles, and fired 90% of every AGM-65 Maverick missile launched in the war. On 6 February 1991, Capt. Robert Swain used the GAU-8 cannon to shoot down an Iraqi helicopter - one of only two A-10 air-to-air kills in history, both scored with the gun rather than a missile.{{ref:wiki-a10}}",
+          "The campaign also proved the type's limits: six A-10s were shot down by infrared-guided surface-to-air missiles between 2 and 27 February, enough that low-level tactics were restricted for the war's final phase.{{ref:simpleflying-losses}} One of the survivors from that campaign - flown by Capt. Paul Johnson on an eight-hour rescue-support mission on 21 January 1991 that earned him the Air Force Cross - is now preserved at the National Museum of the United States Air Force.{{ref:nmusaf-a10}}"
+        ]
+      },
+      {
+        "heading": "Balkans, Afghanistan & Iraq",
+        "paragraphs": [
+          "A-10s went on to fly close air support over Bosnia and Kosovo through the 1990s, then to Afghanistan from 2002's Operation Anaconda onward, and back to Iraq for the 2003 invasion, where they flew roughly a third of all US close air support sorties over the following decade.{{ref:wiki-a10}}",
+          "The type's toughness became legend on 7 April 2003, when Capt. Kim \"KC\" Campbell's A-10 took heavy anti-aircraft fire over Baghdad that destroyed both hydraulic systems. Flying on manual reversion - cranks and cables, with no other modern jet capable of the same trick - she brought the crippled aircraft home and landed safely.{{ref:wiki-a10}} The war produced the type's only other combat loss since Desert Storm: a single A-10 downed near Baghdad International Airport on 8 April 2003, hit by an Iraqi Roland missile.{{ref:simpleflying-losses}} The A-10 went on to fly heavily against ISIS from 2014, including the November 2015 Tidal Wave II strikes that destroyed over 100 oil tanker trucks funding the group, and struck targets in Syria as recently as December 2024.",
+          "A-10Cs carried the type through the 2014-2019 campaign against ISIS, including the Tidal Wave II strikes on oil-smuggling convoys from November 2015.{{ref:defenseone-iran}}"
+        ]
+      },
+      {
+        "heading": "Retirement Debate",
+        "paragraphs": [
+          "No aircraft in the modern Air Force inventory has survived more retirement attempts. Budget plans in 2013, 2015 and 2021 all proposed standing the A-10 down in favour of multi-role jets, and each time Congress - lobbied hard by soldiers who credit Warthog pilots with saving their lives - blocked or slowed the drawdown, citing the F-35's lack of dedicated close-air-support training as a key objection.{{ref:wiki-a10}}",
+          "The argument briefly went international in December 2022, when Ukraine's defence minister asked to buy 100 surplus A-10s to use against Russian armour. The Pentagon refused; Kyiv's own assessment, relayed to the Washington Post, was that the slow-flying jets would have become \"squeaky targets\" for modern Russian air defences over a contested front line - a verdict that undercut the case for sending a Cold War tank-killer into a war dominated by long-range missiles and drones.{{ref:interestingengineering-ukraine}}",
+          "By 2025 the Air Force's FY2026 budget plan called for retiring the roughly 162 remaining A-10s by the end of 2026, years ahead of the previously planned 2030 sunset."
+        ]
+      },
+      {
+        "heading": "2026 Iran Strikes",
+        "paragraphs": [
+          "Then the Warthog went back to work. During Operation Epic Fury, the 2026 US-Israeli air campaign against Iran, A-10s flew close air support and strafed small boats in the Strait of Hormuz - and, according to defence officials, played a central role in a high-threat rescue of a downed F-15E crew, flying the specialised armed-escort \"Sandy\" formation that analysts say no other aircraft in the inventory can fly in full.{{ref:defenseone-iran}}",
+          "That rescue mission reportedly reached the White House, and in April 2026 the Air Force reversed course again: three squadrons at Moody and Whiteman Air Force Bases were extended through 2029-2030, holding the fleet at 54 aircraft before a further drawdown to 36. Air Force Secretary Troy Meink framed the reprieve in industrial terms as much as operational ones.{{ref:militarytimes-extend}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-a10",
+      "name": "Fairchild Republic A-10 Thunderbolt II",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II"
+    },
+    {
+      "id": "simpleflying-losses",
+      "name": "How Many A-10 Warthogs Have Been Shot Down?",
+      "publisher": "Simple Flying",
+      "url": "https://simpleflying.com/how-many-a-10-warthogs-shot-down/"
+    },
+    {
+      "id": "nmusaf-a10",
+      "name": "Fairchild Republic A-10A Thunderbolt II",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195855/fairchild-republic-a-10a-thunderbolt-ii/"
+    },
+    {
+      "id": "interestingengineering-ukraine",
+      "name": "Ukraine's 100 A-10 Warthog request to defend against Russia got denied. Here's why",
+      "publisher": "Interesting Engineering",
+      "url": "https://interestingengineering.com/culture/ukraine-requested-a-10-warthogs"
+    },
+    {
+      "id": "defenseone-iran",
+      "name": "A-10s escape retirement once again amid continued use in Iran war",
+      "publisher": "Defense One",
+      "url": "https://www.defenseone.com/defense-systems/2026/04/-10s-escape-retirement-once-again-amid-continued-use-iran-war/412993/"
+    },
+    {
+      "id": "militarytimes-extend",
+      "name": "Air Force extends 3 A-10 squadrons, each expected to keep 18 Warthogs",
+      "publisher": "Military Times",
+      "url": "https://www.militarytimes.com/news/your-military/2026/04/20/us-air-force-extends-a-10-warthog-through-2030/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Fairchild Republic A-10 Thunderbolt II - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II"
+    },
+    {
+      "name": "US Air Force to retire all A-10s under 2026 spending plan - Defense News",
+      "url": "https://www.defensenews.com/air/2025/06/27/us-air-force-to-retire-all-a-10s-cancel-e-7-under-2026-spending-plan/"
+    },
+    {
+      "name": "GAU-8 Avenger - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GAU-8_Avenger"
+    },
+    {
+      "name": "A-10s escape retirement once again amid continued use in Iran war",
+      "url": "https://www.defenseone.com/defense-systems/2026/04/-10s-escape-retirement-once-again-amid-continued-use-iran-war/412993/"
+    },
+    {
+      "name": "Air Force extends 3 A-10 squadrons, each expected to keep 18 Warthogs",
+      "url": "https://www.militarytimes.com/news/your-military/2026/04/20/us-air-force-extends-a-10-warthog-through-2030/"
+    },
+    {
+      "name": "How Many A-10 Warthogs Have Been Shot Down?",
+      "url": "https://simpleflying.com/how-many-a-10-warthogs-shot-down/"
+    }
+  ],
+  "survivors": {
+    "intro": "716 A-10s were built and around 54 remain in active USAF service, held at Moody and Whiteman Air Force Bases through at least 2029 - the rest have been retired to the Davis-Monthan boneyard or, increasingly as the fleet draws down, to museums across the country.",
+    "airframes": [
+      {
+        "serial": null,
+        "name": null,
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195855/fairchild-republic-a-10a-thunderbolt-ii/",
+        "note": "Flown by Capt. Paul Johnson on the eight-hour Desert Storm rescue-support mission that earned him the Air Force Cross.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "75-0298",
+        "name": null,
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona",
+        "url": "https://pimaair.org/museum-aircraft/fairchild-a-10a/",
+        "note": "A 355th Tactical Fighter Wing veteran based at neighbouring Davis-Monthan, the A-10's historic home and current boneyard.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "73-1666",
+        "name": null,
+        "location": "Hill Aerospace Museum",
+        "place": "Roy, Utah",
+        "url": "https://www.aerospaceutah.org/museum/our-collections/aircraft-collection/a-10a-thunderbolt-ii/",
+        "note": "One of the first six A-10As built; spent its career as a test and training airframe at Edwards AFB before retiring here.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "75-0288",
+        "name": null,
+        "location": "Air Force Armament Museum",
+        "place": "Eglin AFB, Florida",
+        "url": "https://afarmamentmuseum.com/artifact/a10/",
+        "note": "Delivered new in March 1977; retired from the 355th Tactical Training Wing at Davis-Monthan in 2001.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "75-0305",
+        "name": null,
+        "location": "Museum of Aviation",
+        "place": "Warner Robins, Georgia",
+        "url": "https://museumofaviation.org/portfolio/a-10a-thunderbolt-ii/",
+        "note": "Delivered to the 354th Tactical Fighter Wing at Myrtle Beach in 1977; flown to Robins AFB by C-5 in 2007.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1988-12-08",
+      "title": "Crash into a Remscheid apartment block",
+      "summary": "A USAFE A-10 on a low-level training exercise crashed into an apartment complex in Remscheid, West Germany, after the pilot became spatially disoriented in poor weather, killing the pilot and six residents on the ground and injuring around 50 more.",
+      "fatalities": 7,
+      "tag": "Training accident",
+      "source": "https://en.wikipedia.org/wiki/1988_Remscheid_A-10_crash"
+    },
+    {
+      "date": "1991-02-15",
+      "title": "Shot down during Desert Storm; pilot captured",
+      "summary": "An A-10 was struck by a surface-to-air missile while attacking Iraqi armour near the Kuwait border; the pilot ejected and was held as a POW for 19 days. His flight lead was killed during the follow-on rescue effort.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://taskandpurpose.com/news/air-force-pow-desert-storm-rob-sweet/"
+    },
+    {
+      "date": "1997-04-02",
+      "title": "The mysterious loss of Capt. Craig Button",
+      "summary": "An A-10 pilot broke formation during a training sortie and flew hundreds of miles off course with a disabled transponder before crashing into a Colorado mountain while still carrying live ordnance. The Air Force ruled it a suicide.",
+      "fatalities": 1,
+      "tag": "Non-combat loss",
+      "source": "https://en.wikipedia.org/wiki/Craig_D._Button"
+    },
+    {
+      "date": "2003-03-28",
+      "title": "Friendly-fire killing of L/Cpl Matty Hull",
+      "summary": "Two A-10s mistakenly attacked a British armoured patrol near Basra, Iraq, misreading coalition identification panels, killing a British soldier and wounding five others. A 2006 UK inquest returned a verdict of unlawful killing.",
+      "fatalities": 1,
+      "tag": "Friendly fire",
+      "source": "https://en.wikipedia.org/wiki/190th_Fighter_Squadron,_Blues_and_Royals_friendly_fire_incident"
+    },
+    {
+      "date": "2003-04-07",
+      "title": "Kim Campbell's manual-reversion landing over Baghdad",
+      "tag": "Battle damage",
+      "summary": "Capt. Kim 'KC' Campbell's A-10 took heavy anti-aircraft fire over Baghdad that knocked out both hydraulic systems. She flew the hour back to base on the aircraft's cranks-and-cables manual reversion and landed safely - a backup no other modern jet retains.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "Hit by hostile fire near the Strait of Hormuz",
+      "summary": "An A-10 was struck by Iranian ground fire while flying a search-and-rescue mission for a downed crew in the Persian Gulf region. The pilot nursed the damaged jet into Kuwaiti airspace before ejecting and being safely recovered.",
+      "fatalities": 0,
+      "tag": "Combat loss",
+      "source": "https://theaviationist.com/2026/04/03/a-10-thunderbolt-ii-crashed-near-the-strait-of-hormuz/"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "name": "A380",
+  "fullName": "Airbus A380",
+  "manufacturer": "Airbus",
+  "originCountry": {
+    "name": "Multinational (Europe)",
+    "code": "eu"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Wide-Body Commercial Airliner",
+  "tagline": "The world's largest passenger airliner. Its full-length double deck can carry over 850 passengers in an all-economy configuration, and its cavernous cabin has become a signature experience on flagship long-haul routes.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "Airbus launched the A380 programme in December 2000 with the goal of building an aircraft that could out-capacity the Boeing 747. The programme suffered serious wiring-harness integration delays that pushed first delivery back nearly two years and inflated development costs to roughly $25 billion. The A380 first flew on 27 April 2005 and entered commercial service with Singapore Airlines on 25 October 2007. Despite its engineering achievement, the A380 struggled commercially as airlines shifted toward smaller, more efficient twinjets, and Airbus ended production in 2021 after 251 deliveries. The type has an excellent safety record, with no hull-loss accidents or fatalities through its service life, and it remains a passenger favourite on ultra-long-haul flagship routes operated by carriers such as Emirates, Singapore Airlines and Qantas.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 660,
+      "text": "574 kn (660 mph / 1,062 km/h)"
+    },
+    "cruiseSpeed": "587 mph (945 km/h, Mach 0.85)",
+    "range": {
+      "miles": 9206,
+      "text": "9,206 mi (14,800 km, 8,000 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 43100,
+      "text": "43,100 ft (13,100 m)"
+    },
+    "wingspan": {
+      "ft": 261.7,
+      "text": "261 ft 8 in (79.75 m)"
+    },
+    "length": {
+      "ft": 238.6,
+      "text": "238 ft 7 in (72.72 m)"
+    },
+    "height": {
+      "ft": 79,
+      "text": "79 ft 0 in (24.09 m)"
+    },
+    "weight": "empty: 610,000 lb (277,000 kg); MTOW: 1,267,658 lb (575,000 kg)",
+    "engines": "4 x Rolls-Royce Trent 900 or Engine Alliance GP7200 turbofans",
+    "armament": null,
+    "crew": "2 flight crew + up to 24 cabin crew",
+    "capacity": "525 typical (3-class) / 853 max (all-economy)",
+    "firstFlight": {
+      "date": "2005-04-27",
+      "year": 2005
+    },
+    "serviceEntryDate": "2007-10-25",
+    "retiredDate": null,
+    "numberBuilt": 254,
+    "unitCost": {
+      "usd": 445600000,
+      "text": "$445.6M (list, 2018) - roughly $594M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$594M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "A380-800",
+      "desc": "The only production passenger variant; sole model delivered to airlines."
+    },
+    {
+      "code": "A380F",
+      "desc": "Freighter version launched alongside the -800 but cancelled before delivery due to lack of orders."
+    },
+    {
+      "code": "A380plus",
+      "desc": "Proposed aerodynamic and cabin-density upgrade unveiled in 2017; never launched."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Emirates",
+      "role": "Largest Operator",
+      "status": "In Service",
+      "since": "2008",
+      "fleetSize": "118+",
+      "homeBase": "Dubai Intl (DXB)",
+      "logo": "emirates.png"
+    },
+    {
+      "name": "Singapore Airlines",
+      "role": "Launch Customer",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "19",
+      "homeBase": "Changi (SIN)",
+      "logo": "singapore-airlines.png"
+    },
+    {
+      "name": "Qantas",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2008",
+      "fleetSize": "10",
+      "homeBase": "Sydney (SYD)",
+      "logo": "qantas.png"
+    },
+    {
+      "name": "British Airways",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2013",
+      "fleetSize": "12",
+      "homeBase": "London Heathrow (LHR)",
+      "logo": "british-airways.png"
+    },
+    {
+      "name": "Qatar Airways",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2014",
+      "fleetSize": "10",
+      "homeBase": "Hamad Intl (DOH)",
+      "logo": "qatar-airways.png"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A388",
+    "howToFind": "Filter Flightradar24's map by aircraft type \"A388\" to isolate every A380 in the air. Because the fleet is small and concentrated among a handful of flag carriers, it's easiest to search by airline callsign instead: Emirates flights use the callsign prefix UAE, Singapore Airlines uses SIA, Qantas uses QFA, British Airways uses SPEEDBIRD (BAW), and Qatar Airways uses QTR."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Airbus Press Releases",
+      "url": "https://www.airbus.com/en/newsroom/press-releases",
+      "topicTag": "A380"
+    },
+    {
+      "name": "Aviation Week",
+      "url": "https://aviationweek.com/rss.xml",
+      "topicTag": "A380"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Emirates A380 fleet to undergo urgent inspections after cracks found in wings",
+      "source": "The National",
+      "date": "2026-06-24",
+      "category": "Safety",
+      "url": "https://www.thenationalnews.com/business/aviation/2026/06/24/emirates-a380/"
+    },
+    {
+      "title": "EASA demands 16 Airbus A380s urgently inspected over wing spar cracks",
+      "source": "AeroTime",
+      "date": "2026-06-25",
+      "category": "Safety",
+      "url": "https://www.aerotime.aero/articles/easa-airbus-a380-inspection-wing-cracks-airworthiness-directive"
+    },
+    {
+      "title": "Emirates aims for 110 operational A380s by end of 2026",
+      "source": "Aviation Week",
+      "date": "2026-05-01",
+      "category": "Fleet",
+      "url": "https://aviationweek.com/air-transport/airlines-lessors/emirates-aims-110-operational-a380s-end-2026"
+    }
+  ],
+  "tags": [
+    "a380",
+    "airbus a380",
+    "superjumbo",
+    "double decker",
+    "wide body",
+    "commercial airliner",
+    "emirates",
+    "singapore airlines",
+    "qantas",
+    "largest passenger plane",
+    "civilian"
+  ],
+  "quickFacts": [
+    "The A380 is the largest passenger aircraft ever built - certified for up to 853 passengers, though no airline ever fitted that many seats.",
+    "Its wings flex upward by around 4 metres in flight, and the static test wing finally broke just 3% short of target load - at a bend of over 7 metres.",
+    "It's the only airliner given its own wake turbulence category: 'Super' - other aircraft must keep extra miles behind it.",
+    "Onboard showers, bars and apartments returned to the skies with it - Emirates' first-class shower spa uses 2.5 tonnes of water tankage.",
+    "Production ended in 2021 after just 251 aircraft - the double-decker bet on hub-to-hub travel lost to smaller twinjets - yet passenger demand brought dozens back from desert storage after COVID.",
+    "Every A380 flight moves house-sized numbers: 500+ passengers, 20 crew, 84,000 gallons of fuel."
+  ],
+  "article": {
+    "overview": [
+      "The Airbus A380 is a double-deck, four-engine wide-body airliner and the largest passenger aircraft ever to enter service, carrying more than 500 passengers on two full-length decks. It first flew in 2005 and entered service with Singapore Airlines in 2007; 251 were built before production ended in 2021.{{ref:wiki-a380}}",
+      "Emirates operates nearly half of all A380s built and has driven the type's unexpected second act: post-pandemic travel demand and delayed new-jet deliveries pulled dozens of stored aircraft back into service, and Emirates now plans to fly its A380 fleet to 2041.{{ref:sf-emirates}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The A380 was Airbus's frontal assault on the last monopoly in commercial aviation: the Boeing 747's forty-year reign over the very-large-aircraft market. Studies for an 'A3XX' began in the early 1990s around a simple bet - that congested mega-hubs like Heathrow, Tokyo and Dubai would force airlines to move more people per slot, and that the answer was the biggest, most comfortable aircraft ever built.{{ref:wiki-a380}}",
+          "Boeing made the opposite bet: that passengers preferred flying point-to-point in smaller twins like the 777 and the future 787, bypassing hubs entirely. The two philosophies - hub-and-spoke giant versus long thin routes - would compete for two decades, and the A380 program was effectively the wager that Airbus lost gloriously.{{ref:wiki-a380}}",
+          "The program launched in December 2000 at an estimated €9.5 billion. By the end, development had consumed well over twice that, spread across a production run a quarter the size Airbus once projected.{{ref:wiki-a380}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Building the A380 reshaped European industrial geography: wings from Wales, fuselage sections from Hamburg and Saint-Nazaire, tail from Cádiz, all converging on Toulouse by purpose-built ship, barge and the oversized 'Itinéraire à Grand Gabarit' road convoy - because no cargo aircraft could carry A380 parts.{{ref:wiki-a380}}",
+          "The prototype flew from Toulouse on 27 April 2005. Then came the crisis that defined the program: the German and Spanish plants had used incompatible versions of the wiring-design software, and the 330 miles of cabling in each aircraft wouldn't mate with fuselages built elsewhere. The two-year delay cost Airbus billions, several executives their jobs, and the program its momentum just as the 2008 financial crisis arrived to gut demand for four-engined giants.{{ref:wiki-a380}}",
+          "Singapore Airlines finally flew the first commercial service, Singapore to Sydney, on 25 October 2007 - with the inaugural's seats auctioned for charity and a media frenzy the industry hadn't seen since Concorde.{{ref:wiki-a380}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The A380's numbers still read like typos: 853 passengers in an all-economy layout (though nobody flies one that way), a wing bigger than a basketball court, 22 wheels, and a maximum takeoff weight of 575 tonnes.{{ref:airbus-a380}} Yet the design's real achievement is how gently all that size behaves - approach speeds lower than a 747's, noise footprints small enough for night operations at strict airports, and a famously serene cabin.{{ref:wiki-a380}}",
+          "Size dictated everything around it. Airports spent billions on reinforced taxiways, double-decker jet bridges and A380-code gates; the aircraft's 79.75-metre wingspan was deliberately squeezed inside the 80-metre 'box' airports use as their largest category. The upper deck enabled the amenities that built the legend - shower spas on Emirates, bars on several carriers, first-class suites with doors.{{ref:wiki-a380}}",
+          "What it never got was a re-engine. The 'A380neo' Emirates lobbied for was studied and shelved: the order base couldn't justify it, and four engines - the configuration that made the size possible - had become the aircraft's economic curse in the age of efficient big twins.{{ref:wiki-a380}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Fourteen airlines flew the A380, but the type's story is really the story of one: Emirates ordered 123 of the 251 built and constructed its entire Dubai mega-hub model around them. For everyone else the aircraft was a flagship rather than a fleet - loved by passengers, tolerated by accountants, and retired early by several.{{ref:wiki-operators}}",
+          "The pandemic looked like the end. Air France retired its fleet overnight, others sent aircraft to desert storage, and Airbus had already announced in 2019 that production would stop. The last A380 was delivered to Emirates in December 2021, closing the shortest production run of any major widebody.{{ref:wiki-a380}}",
+          "Then the comeback: travel demand roared back before new aircraft could be delivered, and the parked giants were suddenly the fastest capacity available. British Airways, Qantas, Singapore, Lufthansa and others brought A380s back; Global Airlines even launched a startup around second-hand ones. Emirates, meanwhile, is mid-way through a $2+ billion retrofit program and plans around 110 operational superjumbos through 2026, flying the type to 2041.{{ref:aw-emirates}}{{ref:sf-emirates}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "As a business, the A380 never came close: roughly 251 aircraft against a break-even once pitched near 270 and early projections of 700+, with the development bill written off. Boeing's point-to-point bet won the argument, and no manufacturer has proposed a four-engine airliner since.{{ref:wiki-a380}}",
+          "As an aircraft, it won a different contest: two decades on, passengers still route itineraries specifically to fly it, and no cabin in the sky is quieter or roomier.{{ref:sf-emirates}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-a380",
+      "name": "Airbus A380",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A380"
+    },
+    {
+      "id": "wiki-operators",
+      "name": "List of Airbus A380 operators",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Airbus_A380_operators"
+    },
+    {
+      "id": "airbus-a380",
+      "name": "A380",
+      "publisher": "Airbus",
+      "url": "https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a380"
+    },
+    {
+      "id": "aw-emirates",
+      "name": "Emirates Aims For 110 Operational A380s By End Of 2026",
+      "publisher": "Aviation Week",
+      "url": "https://aviationweek.com/air-transport/airlines-lessors/emirates-aims-110-operational-a380s-end-2026"
+    },
+    {
+      "id": "sf-emirates",
+      "name": "How Many Airbus A380s Does Emirates Have In Its Fleet In 2026?",
+      "publisher": "Simple Flying",
+      "url": "https://simpleflying.com/how-many-airbus-a380s-emirates-2026/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Airbus - A380 Official Product Page",
+      "url": "https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a380"
+    },
+    {
+      "name": "Airbus - A380 Facts and Figures (PDF)",
+      "url": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-12/EN-Airbus-A380-Facts-and-Figures-December-2021_0.pdf"
+    },
+    {
+      "name": "Airport Technology - Airbus A380-800F Wide-Bodied Freighter",
+      "url": "https://www.airport-technology.com/projects/airbus_a380/"
+    },
+    {
+      "name": "flugzeuginfo.net - Airbus A380 Specifications",
+      "url": "https://www.flugzeuginfo.net/acdata_php/acdata_a380_en.php"
+    },
+    {
+      "name": "Wikipedia - Airbus A380",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A380"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and the 2026 comeback/fleet status.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed hero photo credit mismatch - the hero banner was showing a different photo than the one documented in images.hero/heroCredit (a stale filename from before the photo was renamed), so the wrong photographer was being credited. Updated the media record to match the actual displayed photo.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2010-11-04",
+      "title": "Qantas Flight 32 uncontained engine failure",
+      "summary": "A Rolls-Royce Trent 900 engine on a Qantas A380 suffered an uncontained failure four minutes after takeoff from Singapore due to a manufacturing defect, with turbine disc shrapnel damaging the wing, fuel system, hydraulics and flight controls. The crew safely landed the aircraft back at Singapore with no injuries.",
+      "fatalities": 0,
+      "tag": "Uncontained engine failure",
+      "source": "https://en.wikipedia.org/wiki/Qantas_Flight_32"
+    },
+    {
+      "date": "2011-04-11",
+      "title": "Ground collision with a regional jet at JFK",
+      "tag": "Ground collision",
+      "summary": "Air France Flight 007, taxiing out at New York JFK, clipped a stationary Delta Connection Bombardier CRJ-701 with its left wing and spun the smaller aircraft around. Nobody on either aircraft was injured, and video of the collision was widely broadcast.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_at_John_F._Kennedy_International_Airport"
+    },
+    {
+      "date": "2017-09-30",
+      "title": "Air France Flight 066 uncontained engine failure",
+      "summary": "An Air France A380's engine suffered an uncontained failure during cruise over the Atlantic near Greenland when its fan hub cracked from metal fatigue and detached, tearing away the air inlet. The aircraft diverted safely to Goose Bay, Canada, with no injuries.",
+      "fatalities": 0,
+      "tag": "Uncontained engine failure",
+      "source": "https://en.wikipedia.org/wiki/Air_France_Flight_066"
+    }
+  ]
+}

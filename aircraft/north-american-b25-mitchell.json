@@ -1,0 +1,421 @@
+{
+  "name": "B-25 Mitchell",
+  "fullName": "North American B-25 Mitchell",
+  "manufacturer": "North American Aviation",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Medium Bomber and Ground-Attack Aircraft",
+  "tagline": "The North American B-25 Mitchell is a twin-engine medium bomber built for the United States Army Air Forces, and the only American bomber named after a person - Brigadier General William 'Billy' Mitchell. 9,816 were produced, more than any other American medium bomber, and it served in every combat theatre of the Second World War before ending its military career as a trainer.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The B-25 is named after Brigadier General William 'Billy' Mitchell, the interwar advocate of American air power, and 9,816 were built between 1940 and 1945.",
+    "The Clayton S exhaust stacks fitted from the B-25C onwards vented individually from the cowling ring alongside the cockpit, and the noise left many Mitchell pilots with permanent hearing loss.",
+    "A twelve-aircraft squadron of B-25 strafers carried more .50 in machine guns than four U.S. infantry regiments.",
+    "Sixteen B-25Bs flew the Doolittle Raid off USS Hornet on 18 April 1942, the first American attack on the Japanese home islands.",
+    "The 75 mm cannon in the B-25G could be fired only about four times in a single attack pass, and its recoil popped rivets and filled the cockpit with cordite smoke.",
+    "B-25J 44-31171 is displayed in the American Air Museum at IWM Duxford, painted as 'Li'l Critter From The Moon' of the 488th Bomb Squadron."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures describe the B-25J, the final and most-produced version at 4,318 aircraft. Earlier marks were lighter, slower and less heavily armed.",
+    "maxSpeed": {
+      "mph": 272,
+      "text": "236 kn (272 mph / 438 km/h)"
+    },
+    "cruiseSpeed": "230 mph (370 km/h)",
+    "range": {
+      "miles": 1350,
+      "text": "1,350 mi (2,173 km, 1,173 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 24200,
+      "text": "24,200 ft (7,375 m)"
+    },
+    "wingspan": {
+      "ft": 67.6,
+      "text": "67 ft 7 in (20.6 m)"
+    },
+    "length": {
+      "ft": 52.9,
+      "text": "52 ft 11 in (16.13 m)"
+    },
+    "height": {
+      "ft": 16.3,
+      "text": "16 ft 4 in (4.98 m)"
+    },
+    "weight": "empty: 19,480 lb (8,836 kg); MTOW: 35,000 lb (15,876 kg); wing area 618 sq ft (57.4 sq m)",
+    "engines": "Two Wright R-2600-92 Twin Cyclone 14-cylinder air-cooled radial engines, 1,700 hp (1,270 kW) each",
+    "armament": "Twelve to eighteen .50 in (12.7 mm) M2 Browning machine guns; up to 3,000 lb (1,361 kg) of bombs internally; eight 5 in (127 mm) high-velocity aircraft rockets; two 1,000 lb (454 kg) ventral shackles or one Mark 13 torpedo",
+    "crew": "5-6 (pilot, co-pilot/navigator, bombardier, turret gunner/engineer, radio operator/waist gunner, tail gunner)",
+    "firstFlight": {
+      "date": "1940-08-19",
+      "year": 1940
+    },
+    "serviceEntryDate": "1941",
+    "retiredDate": "1960 (U.S. Air Force); 1974 (Indonesian Air Force, last military operator)",
+    "numberBuilt": "9,816",
+    "unitCost": {
+      "usd": 116752,
+      "text": "$116,752 (1945 flyaway) - roughly $2.1M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$2.1M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "B-25B",
+      "desc": "The B-25B deleted the tail gun position and added a manned Bendix dorsal turret and a retractable ventral turret, each with two .50 in machine guns. It made up the last 120 aircraft of the original 184-aircraft contract, with deliveries running to January 1942, and 23 went to the RAF as the Mitchell Mk I. Sixteen B-25Bs flew the Doolittle Raid on 18 April 1942."
+    },
+    {
+      "code": "B-25C / B-25D",
+      "desc": "The B-25C was the first mass-produced Mitchell, swapping the Wright R-2600-9 for the R-2600-13, adding de-icing equipment, an autopilot and a second nose gun. It also introduced the Clayton S exhaust stacks, whose fairings cost about 9 mph. The B-25D was mechanically identical but built at Kansas City rather than Inglewood: 1,625 C-models and 2,290 D-models were completed."
+    },
+    {
+      "code": "B-25G",
+      "desc": "The B-25G was the anti-shipping gunship, replacing the glazed bombardier nose with a short solid nose carrying two fixed .50 in guns and a 75 mm M4 cannon with 21 rounds, hand-loaded by the navigator. It was the largest gun then carried by an American bomber. Sixty-three were converted from B-25Cs and 400 built new, for 463 aircraft in total."
+    },
+    {
+      "code": "B-25H",
+      "desc": "The B-25H refined the gunship, substituting the lighter T13E1 cannon for the M4, moving the dorsal turret forward, restoring a tail gun position and adding four .50 in guns in fuselage cheek pods for fourteen forward-firing guns in total. Dual controls were deleted and the navigator took the right seat, leaving a single pilot. One thousand were built."
+    },
+    {
+      "code": "B-25J",
+      "desc": "The B-25J combined the B-25D's transparent bombardier nose with the B-25H's internal layout and was the most-produced Mitchell at 4,318 aircraft. Many were completed or field-converted with the eight-gun solid strafer nose, taking the forward-firing battery to as many as eighteen guns. The RAF received 316 as the Mitchell Mk III, and the J was the last version in production when the war ended."
+    },
+    {
+      "code": "PBJ-1",
+      "desc": "The PBJ-1 was the U.S. Navy designation for Mitchells operated almost entirely by Marine Corps bombing squadrons, ordered two months after the Doolittle Raid. VMB-413 flew the first sorties in the Solomons, and units bombed Rabaul by day and flew night heckling missions. PBJ-1H and PBJ-1J aircraft added search radar, 5 in HVAR rockets and 11.75 in Tiny Tim rockets for anti-shipping work."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces / U.S. Air Force",
+      "role": "Primary operator",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "Majority of 9,816 built",
+      "homeBase": "All theatres; final flight from Turner AFB to Eglin AFB, 21 May 1960"
+    },
+    {
+      "name": "United States Navy / U.S. Marine Corps",
+      "role": "Anti-shipping and night attack as the PBJ-1",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "Marine bombing squadrons VMB-413 onwards",
+      "homeBase": "Solomon Islands and central Pacific"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Medium bomber (Mitchell Mk I/II/III)",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "Just over 700 supplied; peak strength 517 in December 1944",
+      "homeBase": "Second Tactical Air Force, United Kingdom and North West Europe"
+    },
+    {
+      "name": "Soviet Air Force",
+      "role": "Medium bomber supplied under Lend-Lease",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "870 aircraft",
+      "homeBase": "Delivered via the ALSIB Alaska-Siberia ferry route"
+    },
+    {
+      "name": "Indonesian Air Force",
+      "role": "Bomber, gunship and photo-reconnaissance",
+      "status": "Retired",
+      "since": "1950",
+      "fleetSize": "25 ex-Dutch aircraft",
+      "homeBase": "Indonesia; last military operator of the type, retired 1974"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B25",
+    "howToFind": "Around thirty B-25s remain airworthy, all civil-registered, so the type appears on Flightradar24 only as a warbird. Look for it around the American airshow circuit in summer - the Commemorative Air Force's 'Yellow Rose' out of San Marcos, Texas, and the Doolittle Raid commemorative gatherings at Dayton, Ohio - and around Salzburg, Austria, where the Flying Bulls operate 44-86893. Registrations beginning with N and an ICAO type code of B25 are the giveaway."
+  },
+  "lastUpdated": "2026-09-05",
+  "changelog": [
+    {
+      "date": "2026-09-05",
+      "change": "Entry created - full article, specifications, variants, survivor list and incident log written from National Museum of the USAF and Smithsonian NASM fact sheets, Naval History and Heritage Command, Imperial War Museums, Australian War Memorial, the Warbird Registry and named aviation press.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Mitchell",
+    "Doolittle Raid",
+    "PBJ-1",
+    "Strafer",
+    "Twin Radial",
+    "WWII"
+  ],
+  "article": {
+    "overview": [
+      "The North American B-25 Mitchell is a twin-engine medium bomber built by North American Aviation for the United States Army Air Forces and Allied air arms during the Second World War. It is named after Brigadier General William \"Billy\" Mitchell, and 9,816 were completed between 1940 and 1945, making it the most-produced American medium bomber and the third most-produced American bomber of the war. {{ref:wikipedia-b25}} {{ref:nmusaf-b25b}}",
+      "Designed as a level bomber carrying 3,000 lb of bombs, the Mitchell was progressively rebuilt in the field and then at the factory into a low-level attack aircraft with as many as eighteen forward-firing .50 in machine guns. It flew with American, British, Soviet, Chinese, Dutch, Australian and Brazilian units in every theatre, carried out the Doolittle Raid on Japan on 18 April 1942, and stayed in U.S. Air Force service as a trainer until its last flight on 21 May 1960. {{ref:wikipedia-b25}} {{ref:nmusaf-b25b}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "The U.S. Army Air Corps issued its medium bomber specification on 11 March 1939, calling for an aircraft able to carry 3,000 lb of ordnance 2,000 miles at more than 300 mph. North American Aviation's NA-62, developed from the earlier NA-40B, placed second in the evaluation but was awarded a production contract for 184 aircraft on 20 September 1939 straight from the drawing board, in part because Martin could not meet the delivery schedule for its winning B-26. The prototype first flew on 19 August 1940 with Vance Breese at the controls and test engineer Roy Ferren aboard. {{ref:wikipedia-b25}}",
+          "Early flights exposed a roll-yaw coupling - a Dutch roll - traced to the constant dihedral of the wing. North American cancelled the dihedral on the outer panels, producing the shallow gull-wing kink that became the Mitchell's most recognisable feature and curing the instability. The first 24 aircraft carried no suffix letter, followed by 40 B-25As with self-sealing tanks and crew armour and 120 B-25Bs, with the B-25A the first version issued to an operational unit, the 17th Bombardment Group, at the start of 1941. Only 130 Mitchells had been delivered when Pearl Harbor was attacked in December 1941. {{ref:historyofwar-b25}} {{ref:wikipedia-b25}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The B-25 was built around two Wright R-2600 Twin Cyclone radials, rated at 1,700 hp each in the final B-25J, a shoulder-mounted wing of 618 sq ft, twin vertical fins for single-engine directional control, and tricycle landing gear that gave good visibility while taxiing. Handling was forgiving by the standards of wartime twins: with one engine shut down, 60-degree banked turns into the dead engine were possible and control could be held down to 145 mph. The airframe absorbed heavy damage - \"Patches\", a B-25C of the 321st Bomb Group, flew more than 300 missions with six belly landings and over 400 patched flak holes, ending so distorted that level flight required 8 degrees of left aileron trim and 6 degrees of right rudder. {{ref:warbirds-design}} {{ref:wikipedia-b25}}",
+          "The type's one persistent flaw was noise. The Clayton S exhaust stacks introduced on the B-25C to suppress exhaust flare vented individually from the cowling ring under small triangular fairings, directing the blast past the cockpit rather than collecting it, and they were louder than the collector rings they replaced while costing about 9 mph in top speed. Many pilots finished the war with permanent hearing loss, and it was the only significant complaint crews made about the aircraft; civil operators today refit exhaust systems that route the gas out through the lower cowling. Unit cost fell over the production run from $180,031 in 1939-41 to $116,752 by 1945. {{ref:wikipedia-b25}} {{ref:warbirds-design}} {{ref:pwencycl-b25}}"
+        ]
+      },
+      {
+        "heading": "The Doolittle Raid",
+        "paragraphs": [
+          "On 18 April 1942, sixteen B-25Bs led by Lieutenant Colonel James Doolittle launched from the carrier USS Hornet against Tokyo, Yokosuka, Yokohama, Kobe and Nagoya. The force was sighted by the Japanese picket boat No. 23 Nitto Maru and launched roughly 650 miles east of Tokyo, well beyond the planned 400 to 600 miles, with no realistic prospect of reaching its Chinese recovery fields. All sixteen aircraft got off the deck in a little over an hour, and Hornet turned back and was at Pearl Harbor by 30 April. {{ref:nhhc-doolittle}}",
+          "The bombers met negligible opposition over Japan and damaged the carrier Ryuho. Fifteen crashed or were abandoned over occupied China and one landed at Vladivostok, where the Soviets interned the crew; Japanese forces captured eight airmen and executed three of them. Physical damage was slight, but the raid destroyed Japan's offshore early-warning picket line and pushed the Naval General Staff to commit to the Midway operation. The B-25 was the only aircraft to bomb Tokyo until B-29 Superfortresses began operating in 1944. {{ref:nhhc-doolittle}} {{ref:nationalww2museum-b25}}"
+        ]
+      },
+      {
+        "heading": "Gunships, Strafers & the 75 mm Cannon",
+        "paragraphs": [
+          "Fifth Air Force ordnance officer Major Paul \"Pappy\" Gunn rebuilt B-25C and B-25D noses in Australia with four fixed .50 in machine guns, then added four more in external cheek pods and locked the dorsal turret forward. The factory eight-gun B-25J strafer nose followed, and late aircraft carried fourteen to eighteen forward-firing guns throwing roughly 215 lb of metal per second; a twelve-aircraft strafer squadron mounted more .50 in guns than four infantry regiments. Paired with mast-height skip bombing, the tactic proved devastating at the Battle of the Bismarck Sea on 2-4 March 1943, where Allied medium and heavy bombers sank all eight Japanese transports and four of the eight escorting destroyers, killing about 2,890 soldiers and sailors for the loss of six aircraft. {{ref:historynet-strafer}} {{ref:awm-bismarck}}",
+          "The cannon variants worked far less well. The B-25G's 75 mm M4 was hand-loaded by the navigator and its rate of fire allowed only about four rounds per attack run, while the recoil popped rivets, filled the cockpit with smoke and cordite and hammered the crew's ears. It was reasonably effective against shipping and largely useless against ground targets, and once seaborne targets grew scarce in early 1944 units began removing the gun from both G and H models as a field modification, fitting two more .50 in machine guns in its place. Even so, 463 B-25Gs and 1,000 B-25Hs were built. {{ref:wikipedia-b25}} {{ref:historynet-strafer}}"
+        ]
+      },
+      {
+        "heading": "Wartime & Postwar Service",
+        "paragraphs": [
+          "Mitchells served in every combat theatre and with most Allied air forces. The RAF took just over 700, reaching a peak strength of 517 in December 1944; the Soviet Air Force received 870 delivered along the ALSIB Alaska-Siberia ferry route; the Republic of China took more than 180, the Netherlands 162, Canada 162, Brazil 80 and Australia 50. The U.S. Navy ordered the type as the PBJ-1 two months after the Doolittle Raid, and Marine squadrons flew it against Rabaul by day and on night heckling sorties. On 2 November 1943, 72 B-25s escorted by 80 P-38s attacked Simpson Harbour at Rabaul through what Fifth Air Force called its heaviest defences; nine Mitchells were shot down and Major Raymond H. Wilkins received a posthumous Medal of Honor. {{ref:wikipedia-b25}} {{ref:nhhc-pbj}} {{ref:wikipedia-rabaul}}",
+          "Only a few hundred Mitchells remained when the U.S. Air Force became independent in 1947, and almost all were converted to TB-25 trainers - the D, C, J, K, L, M and N series - for pilot, radar-observer, weather reconnaissance and transport duties, including a 1952 contract with Hayes of Birmingham, Alabama for TB-25L reciprocating-engine trainers. The last USAF flight came on 21 May 1960, when TB-25J 44-30854 was ferried from Turner Air Force Base, Georgia to Eglin Air Force Base, Florida with four surviving Doolittle Raiders present at the handover ceremony. Indonesia flew 25 ex-Dutch Mitchells from 1950, overhauled them in Hong Kong in 1959-60 and retired the last in 1974, ending the type's military career. {{ref:wikipedia-b25}}"
+        ]
+      },
+      {
+        "heading": "Surviving Aircraft & Legacy",
+        "paragraphs": [
+          "More than a hundred B-25s survive worldwide, most of them in the United States and around thirty of them airworthy. The National Museum of the U.S. Air Force displays RB-25D 43-3374 at Wright-Patterson, restored to represent Doolittle's lead aircraft and on the museum's floor since April 1958. The National Air and Space Museum holds B-25J-20-NC 44-29887 \"Carol Jean\", delivered on 14 November 1944, later converted to TB-25N, flown as a firebomber and used as a camera aircraft on the 1969 film Catch-22, donated in November 1985 and currently in storage. The Commemorative Air Force's Central Texas Wing has kept B-25J 43-27868 \"Yellow Rose\" airworthy at San Marcos since a four-year volunteer restoration was completed in 1981. {{ref:airplanes-online}} {{ref:nmusaf-b25b}} {{ref:nasm-caroljean}} {{ref:caf-yellowrose}}",
+          "The British example is B-25J 44-31171, which flew as a modified-nose flying test laboratory for the Radio Corporation of America from 1958 to 1964, worked as a camera ship in Britain from April 1970 under John Hawke's Euramericar, and arrived at Duxford by road in October 1976. It is now a static exhibit in the American Air Museum at IWM Duxford - the largest collection of American military aircraft on public display outside the United States - finished in olive drab over neutral grey with red cowlings and the nose art and markings of \"Li'l Critter From The Moon\", squadron number 8 and call letter U of the 488th Bomb Squadron. The type's civil legacy is more sober: the B-25 that struck the Empire State Building on 28 July 1945 prompted the Federal Tort Claims Act of 1946, which for the first time let American citizens sue the federal government. {{ref:warbirdregistry-31171}} {{ref:iwm-b25j}} {{ref:iwm-duxford-aam}} {{ref:wikipedia-esb}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia-b25",
+      "name": "North American B-25 Mitchell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_American_B-25_Mitchell"
+    },
+    {
+      "id": "nmusaf-b25b",
+      "name": "North American B-25B Mitchell fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196310/north-american-b-25b-mitchell/"
+    },
+    {
+      "id": "historyofwar-b25",
+      "name": "North American B-25 Mitchell",
+      "publisher": "HistoryOfWar.org",
+      "url": "https://www.historyofwar.org/articles/weapons_B-25_Mitchell.html"
+    },
+    {
+      "id": "warbirds-design",
+      "name": "North American B-25 Mitchell - design and handling",
+      "publisher": "Warbirds Resource Group",
+      "url": "https://www.warbirdsresourcegroup.org/URG/b25mitchell_design.html"
+    },
+    {
+      "id": "pwencycl-b25",
+      "name": "B-25 Mitchell, U.S. Medium Bomber",
+      "publisher": "The Pacific War Online Encyclopedia",
+      "url": "http://pwencycl.kgbudge.com/B/-/B-25_Mitchell.htm"
+    },
+    {
+      "id": "nhhc-doolittle",
+      "name": "Halsey-Doolittle Raid, 18 April 1942",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/halsey-doolittle-raid.html"
+    },
+    {
+      "id": "nationalww2museum-b25",
+      "name": "North American B-25 Mitchell",
+      "publisher": "The National WWII Museum, New Orleans",
+      "url": "https://www.nationalww2museum.org/visit/museum-campus/us-freedom-pavilion/warbirds/north-american-b-25-mitchell"
+    },
+    {
+      "id": "historynet-strafer",
+      "name": "The Mighty Mitchell: How B-25s Became One of the Most Essential Aircraft in WWII",
+      "publisher": "HistoryNet",
+      "url": "https://www.historynet.com/the-mighty-mitchell-how-b-25s-became-one-of-the-most-essential-aircraft-in-wwii/"
+    },
+    {
+      "id": "awm-bismarck",
+      "name": "Battle of the Bismarck Sea, 2-4 March 1943",
+      "publisher": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/articles/blog/battle-of-bismarck-sea"
+    },
+    {
+      "id": "wikipedia-rabaul",
+      "name": "Bombing of Rabaul (November 1943)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bombing_of_Rabaul_(November_1943)"
+    },
+    {
+      "id": "nhhc-pbj",
+      "name": "PBJ-1D Mitchell",
+      "publisher": "Naval History and Heritage Command, National Naval Aviation Museum",
+      "url": "https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/p/pbj-1d-mitchell.html"
+    },
+    {
+      "id": "airplanes-online",
+      "name": "North American B-25 Mitchell bomber - history, production and survivors",
+      "publisher": "Airplanes-Online",
+      "url": "https://airplanes-online.com/b25-mitchell-bomber.htm"
+    },
+    {
+      "id": "nasm-caroljean",
+      "name": "North American B-25J-20-NC (TB-25N) Mitchell \"Carol Jean\"",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/north-american-b-25j-20-nc-tb-25n-mitchell-carol-jean/nasm_A19860003000"
+    },
+    {
+      "id": "caf-yellowrose",
+      "name": "B-25 \"Yellow Rose\", Central Texas Wing",
+      "publisher": "Commemorative Air Force",
+      "url": "https://commemorativeairforce.org/aircraft/5"
+    },
+    {
+      "id": "warbirdregistry-31171",
+      "name": "B-25 Mitchell registry - 44-31171",
+      "publisher": "Warbird Registry",
+      "url": "https://warbirdregistry.org/b25registry/b25-4431171.html"
+    },
+    {
+      "id": "iwm-b25j",
+      "name": "North American B-25J Mitchell (collection item 70000207)",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/collections/item/object/70000207"
+    },
+    {
+      "id": "iwm-duxford-aam",
+      "name": "American Air Museum, IWM Duxford",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/visits/iwm-duxford/american-air-museum"
+    },
+    {
+      "id": "wikipedia-esb",
+      "name": "1945 Empire State Building B-25 crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1945_Empire_State_Building_B-25_crash"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "B-25 History Project - airframe biographies and Fairfax plant history",
+      "url": "https://b-25history.org/"
+    },
+    {
+      "name": "North American B-25 Mitchell Registry - histories of every surviving airframe",
+      "url": "https://www.warbirdregistry.org/b25registry/b25registry.html"
+    },
+    {
+      "name": "List of surviving North American B-25 Mitchells",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_North_American_B-25_Mitchells"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1942-04-18",
+      "title": "Doolittle Raid: sixteen B-25Bs bomb Japan from USS Hornet",
+      "tag": "Historic mission",
+      "summary": "Sixteen B-25Bs led by Lt Col James Doolittle launched from USS Hornet about 650 miles east of Tokyo after the task force was sighted by a Japanese picket boat, and bombed Tokyo, Yokosuka, Yokohama, Kobe and Nagoya against negligible opposition. Fifteen aircraft crashed or were abandoned over occupied China and one landed at Vladivostok, where its crew was interned; eight airmen were captured by Japanese forces and three of them executed.",
+      "source": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/halsey-doolittle-raid.html"
+    },
+    {
+      "date": "1943-03-02",
+      "title": "Battle of the Bismarck Sea",
+      "tag": "Combat action",
+      "summary": "B-25 strafers using mast-height skip bombing formed the core of an Allied force of 41 medium bombers, 39 heavy bombers, 34 light bombers and 154 fighters that attacked a Japanese convoy running to Lae over 2-4 March 1943. All eight transports and four of the eight escorting destroyers were sunk and roughly 2,890 Japanese soldiers and sailors died; Allied losses were six aircraft and 13 aircrew.",
+      "source": "https://www.awm.gov.au/articles/blog/battle-of-bismarck-sea"
+    },
+    {
+      "date": "1943-11-02",
+      "title": "Rabaul raid: nine B-25s lost over Simpson Harbour",
+      "tag": "Combat losses",
+      "summary": "Seventy-two B-25s in nine squadrons, escorted by 80 P-38 Lightnings, bombed and strafed Simpson Harbour at Rabaul at minimum altitude through defences Fifth Air Force described as the heaviest it had faced. Nine B-25s and ten P-38s were shot down for limited damage to the Japanese, and Major Raymond H. Wilkins was awarded a posthumous Medal of Honor.",
+      "source": "https://en.wikipedia.org/wiki/Bombing_of_Rabaul_(November_1943)"
+    },
+    {
+      "date": "1944-05-07",
+      "title": "West Chester crash, Pennsylvania",
+      "tag": "Training accident",
+      "summary": "B-25C 42-64760, flying from New Jersey to Florida, ran into a squall with rain, hail and heavy cloud, suffered an engine failure and fire, and dived into woods near Oaklands Cemetery in West Goshen Township, roughly a mile north of West Chester. The impact left a crater seven to ten feet deep and started brush fires; everyone aboard was killed.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/West_Chester_B-25_crash"
+    },
+    {
+      "date": "1945-07-28",
+      "title": "B-25 strikes the Empire State Building, New York",
+      "tag": "Collision with structure",
+      "summary": "B-25D 41-30577, flown by Lt Col William F. Smith Jr on a personnel transport flight, was refused clearance to land at Newark in zero visibility, continued in thick fog, and turned the wrong way near the Chrysler Building. At 9:40 a.m. it hit the north face of the Empire State Building between the 78th and 80th floors, punching an 18 by 20 ft hole. Elevator operator Betty Lou Oliver survived a 75-storey fall in a severed elevator car. Repairs cost about $1 million, and the accident led to the Federal Tort Claims Act of 1946.",
+      "fatalities": 14,
+      "source": "https://en.wikipedia.org/wiki/1945_Empire_State_Building_B-25_crash"
+    },
+    {
+      "date": "1960-05-21",
+      "title": "Last U.S. Air Force B-25 flight",
+      "tag": "Service milestone",
+      "summary": "TB-25J 44-30854 was ferried from Turner Air Force Base, Georgia to Eglin Air Force Base, Florida, ending 19 years of Mitchell service with the USAAF and USAF. Four surviving Doolittle Raiders attended the handover ceremony at which the aircraft was presented to Valparaiso, Florida; it later went to the Air Force Armament Museum, painted as Doolittle's 40-2344.",
+      "source": "https://en.wikipedia.org/wiki/North_American_B-25_Mitchell"
+    }
+  ],
+  "survivors": {
+    "intro": "More than a hundred B-25s survive worldwide, the great majority in the United States, and around thirty are maintained in airworthy condition - an unusually high proportion for a wartime bomber, helped by the several hundred TB-25 trainers that stayed in service into 1960 and passed cheaply into civil hands as executive transports, firebombers and camera ships.",
+    "airframes": [
+      {
+        "serial": "44-31171",
+        "location": "Imperial War Museum Duxford - American Air Museum",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "url": "https://www.iwm.org.uk/visits/iwm-duxford/american-air-museum",
+        "note": "Static exhibit in the American Air Museum, marked as ‘Li’l Critter From The Moon’ of the 488th Bomb Squadron. Flew commercially and as a camera ship after the war before arriving at Duxford by road in 1976.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "43-3374",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196310/north-american-b-25b-mitchell/",
+        "note": "An RB-25D restored to represent the B-25B that Lt Col James Doolittle flew off USS Hornet on 18 April 1942. It arrived at the museum in April 1958 and is displayed in the World War II Gallery.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-29887",
+        "name": "Carol Jean",
+        "location": "Smithsonian National Air and Space Museum (storage)",
+        "place": "Maryland, United States",
+        "url": "https://airandspace.si.edu/collection-objects/north-american-b-25j-20-nc-tb-25n-mitchell-carol-jean/nasm_A19860003000",
+        "note": "A B-25J-20-NC built at Kansas City and delivered on 14 November 1944, it never saw combat. It served as a transport, was converted to a TB-25N trainer in 1953-54, flew as a firebomber from 1958 to 1960 and as a camera aircraft on the 1969 film Catch-22, and was donated to NASM by Dr John F. Marshall in November 1985. Not currently on display.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "43-27868",
+        "name": "Yellow Rose",
+        "location": "Commemorative Air Force, Central Texas Wing",
+        "place": "San Marcos, Texas, United States",
+        "url": "https://commemorativeairforce.org/aircraft/5",
+        "note": "A B-25J kept airworthy and flown on the airshow circuit. A four-year volunteer restoration to wartime configuration was completed in 1981, when the aircraft was donated to the Commemorative Air Force.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

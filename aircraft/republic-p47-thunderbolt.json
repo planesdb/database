@@ -1,0 +1,549 @@
+{
+  "name": "P-47 Thunderbolt",
+  "fullName": "Republic P-47 Thunderbolt",
+  "manufacturer": "Republic Aviation",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Single-seat fighter and fighter-bomber",
+  "tagline": "The Republic P-47 Thunderbolt is a single-seat fighter built for the U.S. Army Air Forces, and the heaviest single-engine piston fighter of the Second World War. Its size follows from one decision: the turbosupercharger and its ducting were placed in the rear fuselage, which dictated the airframe around them. Outclassed as a high-altitude escort by the P-51 Mustang, it became the USAAF's principal fighter-bomber, where its weight and air-cooled radial were assets rather than penalties.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The General Electric turbosupercharger and its ducting filled roughly half the P-47's internal fuselage volume, which is the direct reason the aircraft grew to 17,500 lb at maximum takeoff weight - the heaviest single-engine piston fighter of the war.",
+    "Its eight .50-calibre Browning M2 machine guns carried 425 rounds per gun and delivered around 100 rounds per second, more firepower than any other single-engine American fighter of the period.",
+    "Early Thunderbolts climbed and accelerated poorly below about 15,000 ft, where the Yak-9, La-5FN, Bf 109G and Fw 190A all outperformed them; ace Don Blakeslee's verdict was \"It ought to be able to dive. It certainly can't climb.\"",
+    "Between D-Day and VE Day, P-47 pilots claimed 86,000 railway cars, 9,000 locomotives, 6,000 armoured fighting vehicles and 68,000 trucks destroyed.",
+    "Two Thunderbolts are at Duxford: a static airframe in IWM Duxford's American Air Museum wearing 78th Fighter Group markings - the 78th flew P-47s from Duxford itself in 1943-44 - and airworthy P-47D 45-49192 \"Nellie\", operated privately from Duxford Aerodrome.",
+    "On 26 June 1943, Robert S. Johnson brought a P-47 back to Manston with 21 20 mm cannon strikes and more than 200 machine-gun hits in it after an attack by an Fw 190."
+  ],
+  "specifications": {
+    "crew": "1 (pilot)",
+    "length": {
+      "ft": 36.08,
+      "text": "36 ft 1 in (11.0 m)"
+    },
+    "wingspan": {
+      "ft": 40.75,
+      "text": "40 ft 9 in (12.4 m)"
+    },
+    "height": {
+      "ft": 14.67,
+      "text": "14 ft 8 in (4.47 m)"
+    },
+    "wingArea": "300 sq ft (27.9 m2)",
+    "emptyWeight": "10,000 lb (4,536 kg)",
+    "loadedWeight": "13,500 lb (6,124 kg)",
+    "maxTakeoffWeight": "17,500 lb (7,938 kg)",
+    "engines": "One Pratt & Whitney R-2800-59 Double Wasp 18-cylinder air-cooled radial rated at 2,000 hp (1,491 kW), or 2,300 hp (1,715 kW) with water injection, with a General Electric turbosupercharger and a four-blade constant-speed propeller",
+    "maxSpeed": {
+      "mph": 433,
+      "text": "376 kn (433 mph / 697 km/h)"
+    },
+    "cruiseSpeed": "260 mph (418 km/h)",
+    "range": {
+      "miles": 1030,
+      "text": "1,030 mi (1,658 km, 895 nmi)"
+    },
+    "ferryRange": "1,800 mi (2,897 km, 1,564 nmi) with external tanks",
+    "serviceCeiling": {
+      "ft": 42000,
+      "text": "42,000 ft (12,800 m)"
+    },
+    "armament": "Eight .50-calibre M2 Browning machine guns with 425 rounds per gun (3,400 rounds total); up to 2,500 lb (1,134 kg) of bombs or ten 5 in (127 mm) HVAR rockets",
+    "firstFlight": {
+      "date": "1941-05-06",
+      "year": 1941
+    },
+    "serviceEntryDate": "1943-03-10",
+    "retiredDate": "1966",
+    "numberBuilt": "15,636 (all variants, 1941-1945)",
+    "combatLosses": "3,499 lost to all causes in combat from more than 746,000 sorties",
+    "unitCost": {
+      "usd": 85578,
+      "text": "$85,578 (1945 flyaway) - roughly $1.6M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$1.6M in 2026 dollars"
+    },
+    "specificationsNote": "Figures are for the P-47D, the most-produced version. Service entry is dated to the type's first combat mission, flown by the 4th Fighter Group on 10 March 1943; the first P-47Bs reached USAAF squadrons during 1942. The retirement date is that of the Peruvian Air Force, the last military operator; U.S. Air National Guard service ended in 1953."
+  },
+  "variants": [
+    {
+      "code": "P-47B",
+      "desc": "The first production Thunderbolt, 171 built at Farmingdale from December 1941 against an order placed in August 1941. It replaced the XP-47B prototype's hinged canopy with a sliding hood and its fabric-covered ailerons and elevators with metal ones, and used the 2,000 hp R-2800-21. Persistent control-surface and high-altitude handling problems kept most P-47Bs in training units rather than combat."
+    },
+    {
+      "code": "P-47C",
+      "desc": "602 built across four blocks, and the first Thunderbolt to reach operational squadrons in England. An 8-inch fuselage plug ahead of the cockpit shifted the centre of gravity and improved handling, while an all-metal rudder cured the tail flutter that had caused fatal crashes on earlier aircraft. From the C-2 block onwards a centreline shackle allowed a bomb or a drop tank to be carried."
+    },
+    {
+      "code": "P-47D (razorback)",
+      "desc": "The dominant family, with 12,558 P-47Ds of all blocks built at Farmingdale, Evansville and Curtiss-Wright's Buffalo plant, which contributed 354. Blocks up to D-23 retained the faired \"razorback\" spine behind the cockpit. Water injection lifted output to 2,300 hp, and from the D-22 block a 13 ft 1 in Hamilton Standard paddle-blade propeller replaced the 12 ft 2 in Curtiss Electric unit, sharply improving climb."
+    },
+    {
+      "code": "P-47D-25 onwards (bubble canopy)",
+      "desc": "From the D-25 block Republic cut the rear fuselage down and fitted a sliding bubble canopy adapted from the Hawker Typhoon, answering sustained complaints about rearward visibility. Internal fuel rose to 375 US gallons. Losing the razorback spine cost directional stability, so the D-40 block added a dorsal fin fillet ahead of the vertical tail together with tail-warning radar."
+    },
+    {
+      "code": "P-47M",
+      "desc": "A high-speed interceptor, 130 built in response to the V-1 flying bomb and to German jet and rocket fighters such as the Me 262 and Me 163. It used a 2,800 hp R-2800-57 with a CH-5 turbosupercharger in a redesigned cowling and reached 473 mph. Deliveries began in December 1944, but engine faults delayed its combat debut until the last weeks of the European war."
+    },
+    {
+      "code": "P-47N",
+      "desc": "The final and longest-ranged version, 1,816 built for the Pacific. A new longer-span wet wing with squared-off tips carried fuel internally and supported the higher gross weight. The USAAF ordered 1,900 on 20 June 1944, two days before the prototype first flew. Production ended with 45-50123 in December 1945, and 5,934 further aircraft were cancelled at the end of the war."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces / United States Air Force",
+      "role": "Primary fighter-bomber and long-range bomber escort in Europe and the Pacific",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "15,636 built - largest production run of any US fighter",
+      "homeBase": "RAF Boxted, England - 56th Fighter Group"
+    },
+    {
+      "name": "United States Air National Guard",
+      "role": "Postwar interceptor and fighter-bomber for state-controlled squadrons",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "several hundred, spread across dozens of squadrons",
+      "homeBase": "Van Nuys ANG Base, California - 195th Fighter Squadron"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Ground-attack fighter-bomber against Japanese forces in Burma",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "830 (Thunderbolt Mk I/II)",
+      "homeBase": "Cox's Bazar, Bengal - No. 5 Squadron RAF"
+    },
+    {
+      "name": "Armee de l'Air (Free French Air Forces / French Air Force)",
+      "role": "Fighter-bomber over occupied France and Germany, later counter-insurgency in Algeria",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "446",
+      "homeBase": "Groupe de Chasse II/5 \"Lafayette\", Dijon"
+    },
+    {
+      "name": "Forca Aerea Brasileira (Brazilian Air Force)",
+      "role": "Fighter-bomber with the 1st Fighter Group during the Italian campaign",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "118 total received, about 85 with the 1st Fighter Group",
+      "homeBase": "Tarquinia/Pisa, Italy - 1 Grupo de Aviacao de Caca"
+    },
+    {
+      "name": "Fuerza Aerea Mexicana (Mexican Air Force) - Escuadron Aereo de Pelea 201",
+      "role": "Ground-attack fighter over Luzon as part of the US 5th Air Force",
+      "status": "Retired",
+      "since": "1945",
+      "fleetSize": "25 assigned to the squadron, of 42 supplied",
+      "homeBase": "Porac/Clark Field, Luzon, Philippines"
+    },
+    {
+      "name": "Soviet Air Forces (VVS)",
+      "role": "High-altitude home-defense interceptor under Lend-Lease, largely kept from front-line combat",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "203 delivered",
+      "homeBase": "PVO home-defense units, interior USSR"
+    },
+    {
+      "name": "Aeronautica Militare (Italian Air Force)",
+      "role": "Postwar fighter bridging to the jet age",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "174 (75 to 5 Stormo, 99 to 51 Stormo)",
+      "homeBase": "Ciampino - 5 Stormo"
+    },
+    {
+      "name": "Turk Hava Kuvvetleri (Turkish Air Force)",
+      "role": "Fighter-bomber acquired under early US military aid to NATO's southern flank",
+      "status": "Retired",
+      "since": "1948",
+      "fleetSize": "180",
+      "homeBase": "Eskisehir Air Base"
+    },
+    {
+      "name": "Jugoslovensko ratno vazduhoplovstvo (Yugoslav Air Force)",
+      "role": "Fighter-bomber under US military aid, later relegated to advanced training",
+      "status": "Retired",
+      "since": "1952",
+      "fleetSize": "150",
+      "homeBase": "Batajnica Air Base"
+    },
+    {
+      "name": "Imperial Iranian Air Force",
+      "role": "Fighter under early postwar US military assistance",
+      "status": "Retired",
+      "since": "1948",
+      "fleetSize": "50",
+      "homeBase": "Mehrabad Air Base, Tehran"
+    },
+    {
+      "name": "Fuerza Aerea del Peru (Peruvian Air Force)",
+      "role": "Fighter, later advanced trainer - the last major Latin American operator",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "~53, delivered in batches through 1953",
+      "homeBase": "Las Palmas Air Base, Lima"
+    },
+    {
+      "name": "Fuerza Aerea de Chile (Chilean Air Force)",
+      "role": "Fighter-bomber",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "about a dozen",
+      "homeBase": "Los Cerrillos Air Base, Santiago"
+    },
+    {
+      "name": "Fuerza Aerea Colombiana (Colombian Air Force)",
+      "role": "Counter-insurgency fighter along the southern frontier",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "~35, delivered in batches through 1954",
+      "homeBase": "Madrid Air Base, Cundinamarca"
+    },
+    {
+      "name": "Fuerza Aerea Ecuatoriana (Ecuadorian Air Force)",
+      "role": "First fighter squadron; relocated to a coastal base after turbocharger trouble at altitude",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "21, delivered in batches through 1953",
+      "homeBase": "Salinas Air Base"
+    },
+    {
+      "name": "Fuerza Aerea Dominicana (Dominican Air Force)",
+      "role": "Fighter-bomber under the Trujillo regime",
+      "status": "Retired",
+      "since": "1952",
+      "fleetSize": "about a dozen",
+      "homeBase": "San Isidro Air Base"
+    },
+    {
+      "name": "Fuerza Aerea del Ejercito de Cuba (Cuban Air Force)",
+      "role": "Fighter flown against rebel forces during the Cuban Revolution",
+      "status": "Retired",
+      "since": "1952",
+      "fleetSize": "about a dozen",
+      "homeBase": "Columbia Camp, Havana"
+    },
+    {
+      "name": "Republic of China Air Force",
+      "role": "Fighter-bomber against Communist forces in the Chinese Civil War, later Taiwan Strait defense",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "112 (70 P-47D and 42 P-47N)",
+      "homeBase": "Taoyuan Air Base, Taiwan"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "P47",
+    "howToFind": "No P-47 has flown in military service since the 1960s, so the type code P47 appears on Flightradar24 only when one of the small number of privately owned airworthy Thunderbolts files a flight plan - usually as a general-aviation flight repositioning to or from an air show. In the UK, watch for G-THUN (P-47D 45-49192 \"Nellie\") operating out of Duxford Aerodrome (EGSU) during the summer display season. Most warbird display flying is local and uncontrolled, so many sorties never generate a track at all."
+  },
+  "lastUpdated": "2026-09-05",
+  "changelog": [
+    {
+      "date": "2026-09-05",
+      "change": "Entry created - full article, specifications, variants, incident log and survivor list written from National Museum of the USAF and Smithsonian NASM fact sheets, Imperial War Museum and American Air Museum records, the National WWII Museum, HistoryOfWar.org and Wikipedia.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "fighter",
+    "fighter-bomber",
+    "world-war-ii",
+    "piston-engine",
+    "radial-engine",
+    "turbosupercharger",
+    "usaaf",
+    "escort-fighter",
+    "ground-attack",
+    "the-jug"
+  ],
+  "article": {
+    "overview": [
+      "The Republic P-47 Thunderbolt is a single-seat, single-engine fighter and fighter-bomber built for the United States Army Air Forces by Republic Aviation. Alexander Kartveli designed it around a Pratt & Whitney R-2800 Double Wasp radial engine and a General Electric turbosupercharger; it first flew on 6 May 1941 and flew its first combat mission on 10 March 1943. At up to 17,500 lb loaded it was the heaviest single-engine piston fighter of the Second World War. {{ref:nmusaf-p47}} {{ref:wikipedia-p47}}",
+      "Republic and Curtiss-Wright built 15,636 Thunderbolts between 1941 and 1945, more than any other American fighter. Nicknamed the \"Jug\", the type flew more than 746,000 sorties for 3,499 combat losses and a claimed 4.6:1 aerial kill ratio, and after the P-51 Mustang displaced it from long-range bomber escort it became the USAAF's foremost fighter-bomber. Redesignated F-47 in 1947, it left U.S. Air National Guard service in 1953 and was retired by its last military operator, Peru, in 1966. {{ref:wikipedia-p47}} {{ref:nmusaf-p47}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the Turbosupercharger Decision",
+        "paragraphs": [
+          "The P-47 began as the XP-47, a light interceptor Kartveli developed for the U.S. Army Air Corps as a successor to the Seversky P-35 he had helped design. By the spring of 1940 the Army judged that aircraft and the parallel XP-44 inferior to the Luftwaffe fighters then in service, so Kartveli discarded the lightweight approach and drew a far larger aeroplane built around the turbosupercharged R-2800. The Air Corps ordered a prototype in September 1940 as the XP-47B. Kartveli's own summary of what he had produced was that it would be \"a dinosaur, but a dinosaur with good proportions\". {{ref:wikipedia-p47}}",
+          "The turbosupercharger was the whole point of the design and the source of every compromise that followed. Fitting it meant an empty weight of 9,900 lb on the prototype, 65 percent more than the YP-43 it replaced. Lowry P. Brabham flew the XP-47B for the first time on 6 May 1941 from Farmingdale, New York, reaching 412 mph at 25,800 ft and climbing to 15,000 ft in five minutes; oil dripping onto the exhaust filled the cockpit with smoke during the flight. That performance was enough for the newly formed USAAF to order 171 production aircraft in August 1941, with the first delivered in December. The prototype itself was lost in an accident on 8 August 1942. {{ref:wikipedia-p47}} {{ref:nmusaf-p47}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The turbosupercharger installation determined the shape of the aircraft. Exhaust from the R-2800 was piped aft along both sides of the cockpit, through wastegates, to a turbine mounted low in the fuselage between the cockpit and the tail, which spun at 21,300 rpm at full power; the compressed air it produced was ducted forward again through an intercooler to the engine. That plumbing occupied roughly half of the fuselage's internal volume, so the fuselage was sized around the ducting rather than around the pilot. The same cooling requirement produced the deep \"horse collar\" cowling housing the cooling-air, oil-cooler and intercooler intakes, and forced the wing to be mounted high enough to give the 146-inch four-blade propeller ground clearance. {{ref:wikipedia-p47}}",
+          "The consequences ran in both directions. A P-47D had an empty weight of about 10,000 lb on a 300 sq ft wing, against roughly 12,000 lb loaded for a P-51 Mustang, and the turbosupercharger gave it maximum power at 27,000 ft where it stayed fast and manoeuvrable in thin air. The size also bought armament and survivability: eight .50-calibre Brownings with 425 rounds per gun, firing at about 100 rounds a second, and an air-cooled radial with no coolant system to be punctured. On 26 June 1943, escorting B-17s to Villacoublay, Robert S. Johnson of the 56th Fighter Group was hit by an Fw 190 and landed at Manston with 21 20 mm cannon strikes and more than 200 7.92 mm bullet holes in his aircraft. {{ref:nasm-p47d}} {{ref:acepilots-johnson}} {{ref:wikipedia-p47}}"
+        ]
+      },
+      {
+        "heading": "Production & Variants",
+        "paragraphs": [
+          "The 171 P-47Bs were followed by 602 P-47Cs, which added an 8-inch fuselage plug ahead of the cockpit to move the centre of gravity, an all-metal rudder to cure a tail flutter problem that had killed pilots, and from the C-2 block a centreline shackle for a bomb or drop tank. The P-47D then became the largest single fighter family of the war at 12,558 aircraft, built at Republic's Farmingdale and Evansville plants and by Curtiss-Wright at Buffalo, which delivered 354. At peak output the plants were completing 28 Thunderbolts a day, at a 1945 unit cost of $85,578 - about two-thirds more than a P-51 Mustang at $51,572. {{ref:wikipedia-variants}} {{ref:nww2m-production}} {{ref:aaf-costs}}",
+          "Two mid-war changes mattered most. From the D-22 block a 13 ft 1 in Hamilton Standard paddle-blade propeller replaced the 12 ft 2 in Curtiss Electric unit, converting more of the engine's power into thrust at low speed and materially improving climb - a change German pilots noticed immediately, since climbing away steeply had until then been a reliable escape from a P-47. From the D-25 block the rear fuselage was cut down and a sliding bubble canopy adapted from the Hawker Typhoon replaced the razorback spine, fixing the type's poor rearward view; the resulting loss of directional stability was answered on the D-40 block with a dorsal fin fillet. Production ended with the 1,816 long-winged P-47Ns for the Pacific, the last of them, 45-50123, delivered in December 1945. {{ref:wikipedia-variants}} {{ref:wikipedia-p47}}"
+        ]
+      },
+      {
+        "heading": "Escort Fighter: Range and the P-51",
+        "paragraphs": [
+          "The Thunderbolt's first role was long-range escort for Eighth Air Force heavy bombers, and it was not initially good at it. The 4th Fighter Group flew the type's first combat mission on 10 March 1943, a sweep over France, and early P-47s could cover the bombers only on the first and last legs of a raid because internal fuel had to compete for space with the turbosupercharger ducting. The 4th Fighter Group first used external tanks operationally on 28 July 1943, reaching the German border and claiming nine victories, and purpose-built 75-gallon drop tanks entered service on 30 July, pushing endurance towards three hours. Internal capacity later rose to 375 US gallons, and from March 1944 P-47s could reach Berlin. {{ref:historyofwar-p47-europe}} {{ref:wikipedia-variants}}",
+          "That still was not enough. The P-47 accelerated and climbed poorly at low and medium altitude, where the Yak-9, La-5FN, Bf 109G and Fw 190A all had the advantage over early models, and the Merlin-engined P-51 flew further on far less fuel. Eighth Air Force fighter groups converted to the Mustang through 1944 and the Thunderbolt was moved to ground attack, where its weight, firepower and damage tolerance were assets rather than liabilities. The 56th Fighter Group was the only Eighth Air Force group still flying Thunderbolts by choice at the end of the war, finishing with 677.5 aerial and 311 ground claims for 128 aircraft lost. {{ref:wikipedia-p47}} {{ref:historyofwar-p47-europe}}"
+        ]
+      },
+      {
+        "heading": "Fighter-Bomber over Europe & the Pacific",
+        "paragraphs": [
+          "As a fighter-bomber the P-47's load grew steadily: 500 lb bombs by late 1943, 1,000 lb bombs and M8 4.5-inch rockets in mid-production aircraft, and 5-inch HVARs on 1944 machines, up to a maximum of 2,500 lb. Pilots commonly carried two 500 lb bombs and used skip-bombing, including skipping bombs into railway tunnels to reach sheltering trains. Between D-Day and VE Day, Thunderbolt pilots claimed 86,000 railway cars, 9,000 locomotives, 6,000 armoured fighting vehicles and 68,000 trucks. During Operation Cobra on 29 July 1944 the 405th Fighter Group attacked a German column trapped near Roncey in Normandy and, between 15:10 and 21:40, claimed 66 tanks, 204 vehicles and 11 guns. {{ref:wikipedia-p47}}",
+          "In the Pacific the type served with the Fifth Air Force from 1943. Colonel Neel E. Kearby of the 348th Fighter Group led a flight of four P-47s against roughly 40 Japanese aircraft over Wewak, New Guinea, on 11 October 1943 and shot down six, an action that earned the Medal of Honor; he had 22 victories when he was shot down and killed over Wewak on 5 March 1944. Allied operators took large numbers: the RAF received 240 razorback Thunderbolt Is and 590 bubble-canopy Mk IIs, France 446, the Soviet Union 203, Brazil 67 of which 48 flew in combat, and Mexico's Escuadron 201 flew 791 sorties against Japan without losing a pilot or an aircraft to enemy action. P-47 pilots also claimed 20 Me 262s and four Ar 234s in air combat. {{ref:wikipedia-p47}} {{ref:nmusaf-razorback}}"
+        ]
+      },
+      {
+        "heading": "Postwar Service, Survivors & Legacy",
+        "paragraphs": [
+          "The Thunderbolt was redesignated F-47 in 1947, served with Strategic Air Command in 1946-47, remained with the active U.S. Air Force until 1949 and with the Air National Guard until 1953. It was not sent to Korea, largely because the USAF and the Guard held more F-51 Mustangs, a decision some later criticised given the Thunderbolt's greater tolerance of ground fire. Abroad it stayed useful far longer: France flew P-47s in Algeria, Italy operated 100 from 1947 to 1950, Turkey 180 from 1948 to 1954, Yugoslavia 150 from 1952 and Iran 50 from 1948, while Peru kept 56 in service until 1966. {{ref:wikipedia-p47}}",
+          "Several dozen airframes survive and roughly a dozen are airworthy. Duxford holds two. IWM Duxford's American Air Museum displays a static P-47D in the markings of the 78th Fighter Group, which flew Thunderbolts from Duxford itself in 1943-44 before converting to Mustangs and whose aircraft 42-26671, coded MX-X, was lost over Germany on 19 July 1944; the museum stands as a memorial to the 30,000 U.S. Army Air Forces personnel who died flying from Britain. Separately, airworthy P-47D-40-RA 45-49192 \"Nellie\" (G-THUN), an Evansville-built aircraft that served with the Peruvian Air Force before restoration, is based at Duxford Aerodrome with a private warbird operator rather than with the IWM collection. In the United States, the National Air and Space Museum displays P-47D-30-RA 44-32691 at the Udvar-Hazy Center, and the National Museum of the USAF shows razorback 42-23278 painted as Kearby's \"Fiery Ginger IV\" beside the real aircraft's recovered vertical fin. {{ref:iwm-american-air-museum}} {{ref:aam-42-26671}} {{ref:wikipedia-duxford-list}} {{ref:warbirdflights-nellie}} {{ref:nasm-p47d}} {{ref:nmusaf-razorback}} {{ref:wikipedia-survivors}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia-p47",
+      "name": "Republic P-47 Thunderbolt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+    },
+    {
+      "id": "wikipedia-variants",
+      "name": "Republic P-47 Thunderbolt variants",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt_variants"
+    },
+    {
+      "id": "nmusaf-p47",
+      "name": "Republic P-47 fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858869/republic-p-47/"
+    },
+    {
+      "id": "nmusaf-razorback",
+      "name": "Republic P-47D (Razorback Version)",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196277/republic-p-47d-razorback-version/"
+    },
+    {
+      "id": "nasm-p47d",
+      "name": "Republic P-47D-30-RA Thunderbolt",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/republic-p-47d-30-ra-thunderbolt/nasm_A19600306000"
+    },
+    {
+      "id": "iwm-american-air-museum",
+      "name": "American Air Museum, IWM Duxford",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/visits/iwm-duxford/american-air-museum"
+    },
+    {
+      "id": "aam-42-26671",
+      "name": "P-47D 42-26671, 82nd Fighter Squadron, 78th Fighter Group",
+      "publisher": "American Air Museum in Britain (IWM)",
+      "url": "https://www.americanairmuseum.com/archive/aircraft/42-26671"
+    },
+    {
+      "id": "historyofwar-p47-europe",
+      "name": "Republic P-47 Thunderbolt with the USAAF in Europe",
+      "publisher": "HistoryOfWar.org",
+      "url": "https://www.historyofwar.org/articles/weapons_P-47_europe.html"
+    },
+    {
+      "id": "acepilots-johnson",
+      "name": "Robert S. Johnson - Top P-47 Thunderbolt Ace in WW2",
+      "publisher": "AcePilots.com",
+      "url": "https://acepilots.com/usaaf_rsj.html"
+    },
+    {
+      "id": "nww2m-production",
+      "name": "Patchwork Plane: Building the P-47 Thunderbolt",
+      "publisher": "The National WWII Museum",
+      "url": "https://www.nationalww2museum.org/war/articles/patchwork-plane-building-p-47-thunderbolt"
+    },
+    {
+      "id": "wikipedia-survivors",
+      "name": "List of surviving Republic P-47 Thunderbolts",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Republic_P-47_Thunderbolts"
+    },
+    {
+      "id": "wikipedia-duxford-list",
+      "name": "List of aircraft at the Imperial War Museum Duxford",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_aircraft_at_the_Imperial_War_Museum_Duxford"
+    },
+    {
+      "id": "warbirdflights-nellie",
+      "name": "Republic P-47D Thunderbolt 'Nellie'",
+      "publisher": "Warbird Flights UK",
+      "url": "https://www.warbirdflights.co.uk/the-aircraft/republic-p-47d-thunderbolt"
+    },
+    {
+      "id": "aaf-costs",
+      "name": "WWII AAF Facts and Figures - 1945 aircraft unit costs",
+      "publisher": "The Ruptured Duck",
+      "url": "https://www.therupturedduck.com/blogs/bill-sheas-wwii-memorabilia-blog/wwii-aaf-facts-and-figures"
+    }
+  ],
+  "furtherReading": [
+    {
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196277/republic-p-47d-razorback-version/",
+      "name": "Republic P-47D (Razorback Version) fact sheet"
+    },
+    {
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/republic-p-47d-30-ra-thunderbolt/nasm_A19600306000",
+      "name": "Republic P-47D-30-RA Thunderbolt collection record"
+    },
+    {
+      "publisher": "The National WWII Museum",
+      "url": "https://www.nationalww2museum.org/war/articles/patchwork-plane-building-p-47-thunderbolt",
+      "name": "Patchwork Plane: Building the P-47 Thunderbolt"
+    },
+    {
+      "publisher": "HistoryOfWar.org",
+      "url": "https://www.historyofwar.org/articles/weapons_P-47_europe.html",
+      "name": "Republic P-47 Thunderbolt with the USAAF in Europe"
+    },
+    {
+      "publisher": "Imperial War Museums",
+      "url": "https://www.americanairmuseum.com/archive/aircraft/42-26671",
+      "name": "American Air Museum in Britain aircraft archive"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1941-05-06",
+      "title": "XP-47B first flight",
+      "tag": "Milestone",
+      "summary": "Lowry P. Brabham flew the XP-47B prototype from Farmingdale, New York, reaching 412 mph at 25,800 ft and climbing to 15,000 ft in five minutes. Oil dripping onto the exhaust filled the cockpit with smoke during the flight, but the performance was enough for the USAAF to order 171 production aircraft that August.",
+      "source": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+    },
+    {
+      "date": "1942-08-08",
+      "title": "XP-47B prototype destroyed",
+      "tag": "Accident",
+      "summary": "The sole XP-47B prototype was lost in an accident, 15 months after its first flight. Production of the P-47B was already under way by then and the loss did not interrupt the programme.",
+      "source": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+    },
+    {
+      "date": "1943-03-10",
+      "title": "First P-47 combat mission",
+      "tag": "Combat",
+      "summary": "The 4th Fighter Group flew the Thunderbolt's first combat mission, a fighter sweep over France from England. Radio interference between the aircraft made the sortie ineffective, and the type's radios were reworked before it flew regular escort missions the following month.",
+      "source": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+    },
+    {
+      "date": "1943-06-26",
+      "title": "Robert S. Johnson survives a sustained Fw 190 attack",
+      "tag": "Combat",
+      "summary": "Escorting B-17s attacking Villacoublay, 56th Fighter Group pilot Robert S. Johnson was hit by a Focke-Wulf Fw 190 that shattered his canopy, set an engine fire and wounded him in the nose and right leg. He flew back across the Channel and landed at Manston; the aircraft was later found to have taken 21 20 mm cannon shells and more than 200 7.92 mm machine-gun rounds. Johnson finished the war with 27 aerial victories.",
+      "source": "https://acepilots.com/usaaf_rsj.html"
+    },
+    {
+      "date": "1943-07-28",
+      "title": "First operational use of external fuel tanks",
+      "tag": "Milestone",
+      "summary": "The 4th Fighter Group used external tanks operationally for the first time, reaching the German border and claiming nine victories. Purpose-built 75-gallon drop tanks entered service two days later on 30 July, raising escort endurance towards three hours and beginning the incremental range growth that eventually took the P-47 to Berlin in March 1944.",
+      "source": "https://www.historyofwar.org/articles/weapons_P-47_europe.html"
+    },
+    {
+      "date": "1943-10-11",
+      "title": "Neel Kearby downs six aircraft over Wewak",
+      "tag": "Combat",
+      "summary": "Colonel Neel E. Kearby of the 348th Fighter Group led a flight of four P-47s against about 40 Japanese aircraft over Wewak, New Guinea, and shot down six of them flying P-47D 42-75908 'Fiery Ginger III'. He was awarded the Medal of Honor for the action.",
+      "source": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196277/republic-p-47d-razorback-version/"
+    },
+    {
+      "date": "1944-03-05",
+      "title": "Neel Kearby killed in action",
+      "tag": "Fatal",
+      "summary": "Kearby was shot down and killed over Wewak with 22 aerial victories, then the leading score in the Fifth Air Force. The recovered vertical fin of his aircraft, 'Fiery Ginger IV', is displayed at the National Museum of the United States Air Force alongside a P-47D painted in his markings.",
+      "fatalities": 1,
+      "source": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196277/republic-p-47d-razorback-version/"
+    },
+    {
+      "date": "1944-07-19",
+      "title": "P-47D 42-26671 fails to return over Germany",
+      "tag": "Combat loss",
+      "summary": "P-47D 42-26671, coded MX-X and flown by the 82nd Fighter Squadron of the Duxford-based 78th Fighter Group, failed to return from a mission over Germany and was recorded in Missing Air Crew Report 6784. The serial is carried today by the static Thunderbolt in IWM Duxford's American Air Museum.",
+      "source": "https://www.americanairmuseum.com/archive/aircraft/42-26671"
+    },
+    {
+      "date": "1944-07-29",
+      "title": "405th Fighter Group destroys a German column at Roncey",
+      "tag": "Combat",
+      "summary": "During Operation Cobra in Normandy, the 405th Fighter Group attacked a German column trapped between Roncey and St-Denis-le-Vetu. Between 15:10 and 21:40 the group claimed 66 tanks, 204 vehicles and 11 guns destroyed, one of the heaviest single-day ground-attack results credited to the type.",
+      "source": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+    },
+    {
+      "date": "1945-04-25",
+      "title": "Raymond L. Knight killed after two days of low-level attacks",
+      "tag": "Fatal",
+      "summary": "First Lieutenant Raymond L. Knight of the 346th Fighter Squadron, 350th Fighter Group, flew repeated low-level strikes against German airfields in Italy's Po Valley on 24 and 25 April 1945. With his P-47D badly damaged by anti-aircraft fire and his unit short of aircraft, he chose not to bail out and crashed in the Apennines. He received a posthumous Medal of Honor.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+    },
+    {
+      "date": "1966",
+      "title": "Peruvian Air Force retires the last military Thunderbolts",
+      "tag": "Milestone",
+      "summary": "Peru withdrew the last of its 56 Thunderbolts, ending 23 years of front-line and second-line military service for the type worldwide. Several Peruvian airframes were subsequently bought by warbird collectors and restored, including 45-49192, now airworthy at Duxford.",
+      "source": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+    }
+  ],
+  "survivors": {
+    "intro": "Several dozen P-47s survive worldwide and roughly a dozen are airworthy, most recovered from South American air forces that flew the type into the 1950s and 1960s. Duxford in Cambridgeshire is unusual in holding two.",
+    "airframes": [
+      {
+        "serial": "42-26671",
+        "name": "Duxford's two P-47s",
+        "location": "Imperial War Museum Duxford - American Air Museum",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "url": "https://www.iwm.org.uk/visits/iwm-duxford/american-air-museum",
+        "note": "Duxford holds two: a static P-47D in the American Air Museum, painted for the 78th Fighter Group which flew Thunderbolts from Duxford itself in 1943-44, and ‘Nellie’ (G-THUN), an airworthy P-47D based on the airfield but privately owned rather than part of the IWM collection.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "44-32691",
+        "location": "Smithsonian National Air and Space Museum - Steven F. Udvar-Hazy Center",
+        "place": "Chantilly, Virginia, United States",
+        "url": "https://airandspace.si.edu/collection-objects/republic-p-47d-30-ra-thunderbolt/nasm_A19600306000",
+        "note": "P-47D-30-RA accepted by the USAAF on 27 October 1944 and delivered to Godman Field, Kentucky, where it served as an aerial gunnery trainer. Transferred to the Army Air Forces museum at Dayton in 1946 and later to the Smithsonian, it was restored by Republic Aviation for the 20th anniversary of the P-47's first flight and is displayed in the World War II Aviation gallery with a yellow-and-black chequered nose.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "name": "Fiery Ginger IV",
+        "serial": "42-23278",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196277/republic-p-47d-razorback-version/",
+        "note": "Razorback P-47D donated by Republic Aviation in November 1964 and painted to represent the aircraft Colonel Neel Kearby was flying on his last mission. The museum also displays the actual vertical fin recovered from the crash site of the real Fiery Ginger IV.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

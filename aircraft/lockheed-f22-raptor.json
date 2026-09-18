@@ -1,0 +1,409 @@
+{
+  "name": "F-22 Raptor",
+  "fullName": "Lockheed Martin F-22 Raptor",
+  "manufacturer": "Lockheed Martin",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Air Superiority Stealth Fighter",
+  "tagline": "The world's first operational fifth-generation fighter. Combining very-low-observable stealth shaping, thrust-vectoring engines and sensor fusion, it can supercruise past Mach 1.5 without afterburner, though a US export ban means it flies exclusively with the United States Air Force.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "The F-22 emerged from the USAF's Advanced Tactical Fighter programme of the 1980s, with the YF-22 prototype beating the Northrop YF-23 in a 1991 fly-off. The production F-22 first flew on 7 September 1997 and entered operational service on 15 December 2005. Rising unit costs and the end of the Cold War threat that justified the programme led Congress to cap production at 195 airframes in 2009, far short of the roughly 750 originally planned. The Raptor's combat debut came in September 2014 with strikes against ISIS targets in Syria, and it has since flown escort and strike-support missions in multiple theatres. In Red Flag training exercises it has posted lopsided simulated kill ratios against fourth-generation fighters, cementing its reputation even as newer F-35 and sixth-generation programmes begin to define the next era of air combat.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1500,
+      "text": "~1,304 kn (~1,500 mph / 2,414 km/h)"
+    },
+    "cruiseSpeed": "Mach 1.5+ (supercruise, no afterburner)",
+    "range": {
+      "miles": 1850,
+      "text": "1,850 mi ferry range (with external tanks)"
+    },
+    "serviceCeiling": {
+      "ft": 65000,
+      "text": "65,000 ft (19,812 m); 50,000+ ft (15,240+ m) officially published"
+    },
+    "wingspan": {
+      "ft": 44.5,
+      "text": "44 ft 6 in (13.56 m)"
+    },
+    "length": {
+      "ft": 62.1,
+      "text": "62 ft 1 in (18.92 m)"
+    },
+    "height": {
+      "ft": 16.7,
+      "text": "16 ft 8 in (5.08 m)"
+    },
+    "weight": "operating: 43,340 lb (19,700 kg); MTOW: 83,500 lb (38,000 kg)",
+    "engines": "2 x Pratt & Whitney F119-PW-100 with 2D thrust vectoring",
+    "armament": "1x M61A2 20mm cannon, AIM-120 AMRAAM, AIM-9 Sidewinder, JDAM (internal weapons bays)",
+    "crew": "1",
+    "capacity": "N/A - single-seat fighter",
+    "firstFlight": {
+      "date": "1997-09-07",
+      "year": 1997
+    },
+    "serviceEntryDate": "2005-12-15",
+    "retiredDate": null,
+    "numberBuilt": 195,
+    "unitCost": {
+      "usd": 350000000,
+      "text": "~$350M program unit cost (~$150M flyaway cost)"
+    },
+    "combatLosses": "0 of 195 built lost to enemy action - the Raptor has never been shot down or lost an air-to-air engagement. Several have been destroyed or written off in training/operational accidents, including the fatal Nov 2010 Alaska crash; Hurricane Michael also destroyed or damaged part of the Tyndall fleet in 2018, though most of those airframes were repaired."
+  },
+  "variants": [
+    {
+      "code": "F-22A",
+      "desc": "The sole production configuration; all delivered airframes are F-22As."
+    },
+    {
+      "code": "F-22B",
+      "desc": "Planned two-seat trainer variant, cancelled in 1996 before production."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "2005",
+      "fleetSize": "~185",
+      "homeBase": "Multiple - JB Elmendorf-Richardson, Langley AFB, Tyndall AFB",
+      "logo": "usaf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F22",
+    "howToFind": "F-22s rarely broadcast ADS-B during operational sorties, so consistent Flightradar24 tracking is uncommon. Training flights near home bases such as JB Elmendorf-Richardson (Alaska), Langley AFB (Virginia) and Tyndall AFB (Florida) occasionally appear using the type filter \"F22\" or tactical callsigns issued for the mission (e.g. call signs beginning with squadron-specific words)."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/feed/",
+      "topicTag": "F-22"
+    },
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/feed",
+      "topicTag": "F-22 Raptor"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "The F-22 'Super Raptor' upgrade programme breaks cover",
+      "source": "19FortyFive",
+      "date": "2026-02-01",
+      "category": "Modernization",
+      "url": "https://www.19fortyfive.com/2026/02/the-new-super-f-22-raptor-stealth-fighter-just-broke-cover/"
+    },
+    {
+      "title": "USAF sends combat-ready F-22 Raptors to the Pacific amid China tensions",
+      "source": "19FortyFive",
+      "date": "2026-05-01",
+      "category": "Deployment",
+      "url": "https://www.19fortyfive.com/2026/05/the-u-s-air-force-just-sent-combat-ready-f-22-raptors-stealth-fighters-to-chinas-backyard/"
+    }
+  ],
+  "tags": [
+    "f-22",
+    "f22",
+    "raptor",
+    "lockheed martin",
+    "stealth fighter",
+    "air superiority",
+    "fifth generation fighter",
+    "usaf",
+    "fighter jet",
+    "military"
+  ],
+  "quickFacts": [
+    "An F-22 scored the type's first air-to-air kill in 2023 - against a Chinese spy balloon, using a Sidewinder at 58,000 ft over South Carolina.",
+    "Congress banned F-22 exports outright: not even Japan or Israel could buy one, and the production line closed at just 187 jets in 2011.",
+    "In exercises, Raptors have racked up kill ratios beyond 100-to-1; adversary pilots describe merging with an aircraft they never saw.",
+    "Its thrust-vectoring nozzles let it point its nose 60 degrees off its flight path - the 'Raptor salute' at airshows.",
+    "Hurricane Michael trapped 17 Raptors at Tyndall AFB in 2018 - several rode out a Category 5 storm inside hangars that collapsed around them.",
+    "Once slated for retirement around 2030, the F-22 is now being upgraded to fly well into the 2040s - largely because China built 300+ J-20s.",
+    "Each Raptor's stealth skin requires so much care that maintenance crews outnumber pilots by more than ten to one."
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed Martin F-22 Raptor is a single-seat, twin-engine stealth fighter built for the US Air Force. It was the first operational fifth-generation fighter, combining low-observable stealth shaping, thrust-vectoring engines and sensor fusion to supercruise past Mach 1.5 without afterburner.{{ref:wiki-f22}} Congress banned its export and cut the planned buy from roughly 750 airframes to 195, so it has flown for only one air force in its history.{{ref:obey}}",
+      "The F-22 traces to the USAF's Advanced Tactical Fighter programme of the 1980s; the YF-22 prototype beat the Northrop YF-23 in a 1991 fly-off, and the production aircraft entered service in December 2005.{{ref:atf-wiki}} It flew its first combat mission over Syria in September 2014 and recorded its first air-to-air kill in February 2023, downing a Chinese surveillance balloon off South Carolina.{{ref:aviationist-syria}}{{ref:balloon-wiki}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the ATF Program",
+        "paragraphs": [
+          "The F-22 traces back to the Advanced Tactical Fighter (ATF) program, the Air Force's response to Soviet fighters such as the Su-27 and MiG-29 closing the technology gap with US fourth-generation jets, and new Soviet surface-to-air missile networks that threatened to make conventional strike-fighter tactics obsolete.{{ref:atf-wiki}} By 1986 the field had narrowed to two finalist teams for a demonstration/validation fly-off: Lockheed, teamed with Boeing and General Dynamics, building the YF-22; and Northrop, teamed with McDonnell Douglas - fresh off the classified B-2 Spirit program - building the YF-23.{{ref:yf23-wiki}}",
+          "The YF-23 was, by most technical accounts, the stealthier and faster of the two designs, with a lower radar cross-section and a higher top speed. But when the YF-22 flew on 29 September 1990, a month after the YF-23's first flight, it demonstrated something the Northrop jet couldn't: two-dimensional thrust-vectoring nozzles that let it point its nose well beyond what its wings alone would allow, plus a flight-test program many considered lower-risk heading into full development.{{ref:yf22-flighttest}} On 23 April 1991, the Air Force picked the YF-22. Publicly cited reasons included the type's demonstrated agility and the EMD proposal's lower perceived program risk; some analysts have also pointed to industrial-base politics - handing Northrop both the B-2 and the ATF would have concentrated the country's stealth expertise in a single contractor.{{ref:natmuseum}}",
+          "The loss ended Northrop's run as a prime fighter manufacturer. The two surviving YF-23 prototypes still exist today - one preserved at the National Museum of the USAF, the other displayed outdoors, engines removed, at the Western Museum of Flight in California.{{ref:yf23-wiki}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Full-scale development began after the 1991 win. The Air Force and its contractors restructured the programme repeatedly through the 1990s - in 1993, 1994, 1996 and 1997 - as GAO reviews flagged billions of dollars in cost growth; one 1997 GAO report assessed the fallout from a newly acknowledged $15 billion increase in projected costs.{{ref:gao-97}} The first production-representative F-22 didn't fly until 7 September 1997, and the type didn't reach Initial Operational Capability until 15 December 2005 - roughly nineteen years after the ATF competition began.{{ref:natmuseum}}",
+          "By the time the F-22 reached service, the strategic case for it had weakened. The Soviet Union that had justified the programme had collapsed over a decade earlier, the wars the US was fighting in Iraq and Afghanistan were counterinsurgencies with no use for an air-superiority fighter, and each Raptor's price kept climbing even as the planned buy shrank from around 750 to a few hundred. In April 2009, Defense Secretary Robert Gates moved to cap production at 187 aircraft, arguing bluntly that the F-22 had never been used in either ongoing war and that money was better spent on the more exportable, multirole F-35.{{ref:gates-milcom}} After a contentious congressional fight that summer - including a threatened presidential veto of any funding bill that added more Raptors - the House voted to end production, and the line closed for good in December 2011 after 195 airframes: eight test jets and 187 combat-coded F-22As.{{ref:govexec}}{{ref:nsj-187}}",
+          "Export never happened either. The 1998 Obey Amendment, inserted into defense appropriations by Rep. David Obey, barred any federal dollars from being used to license F-22 sales abroad - not to Japan, not to Israel, not to Australia, all of whom asked. It has been renewed in every defense bill since, meaning the world's most capable air-superiority fighter has flown for exactly one air force in its entire career.{{ref:obey}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Raptor's stealth is baked into its shape rather than bolted on: continuously curved fuselage contours, aligned edges on the wings and tail, serrated panel gaps, and internal weapons bays that keep munitions from ruining an otherwise near-invisible radar return. Two Pratt & Whitney F119-PW-100 afterburning turbofans, each generating roughly 35,000 lbf, let it supercruise - sustain supersonic flight above Mach 1.5 without lighting the afterburner - a trick that saves fuel, reduces its infrared signature, and lets it loiter at high speed over a fight far longer than a conventional fighter could.{{ref:natmuseum}}",
+          "Those same engines carry two-dimensional thrust-vectoring nozzles that can angle exhaust up or down, letting the Raptor point its nose dramatically off its actual flight path - the maneuver airshow crowds know as the 'Raptor salute'. It's a genuine tactical advantage at low speed and high angle of attack, not just a display trick, and it was one of the very capabilities that beat the YF-23 in 1991.{{ref:natmuseum}}",
+          "Where the F-22 really separates itself from fourth-generation jets, though, is what the pilot doesn't have to do. Its AN/APG-77 active electronically scanned array radar, communications systems, and electronic-warfare sensors all feed into a single fused tactical picture rather than a cockpit full of separate displays the pilot has to mentally stitch together - letting one person do what used to take a two-seat crew.{{ref:af-factsheet}} Armament is built around a single internal M61A2 20mm cannon plus a main weapons bay that carries up to six AIM-120 AMRAAMs, or a mixed load of AMRAAMs and 1,000 lb GBU-32 JDAMs for strike missions, with two more AIM-9 Sidewinders tucked into side bays.{{ref:natmuseum}}"
+        ]
+      },
+      {
+        "heading": "Combat & Operational History",
+        "paragraphs": [
+          "For its first nine years in service, the F-22 fought in exercises, not wars - and it fought lopsidedly. During Northern Edge 2006 over Alaska, Raptors from the 27th Fighter Squadron reportedly ran up a 108-to-0 simulated kill ratio against adversary F-15s, F-16s and F/A-18s while posting a 97% mission-capable rate; the following year's Northern Edge exercise produced reports of a 144-to-0 tally in its opening week.{{ref:natmuseum}}{{ref:asfm-northernedge}} Adversary pilots who flew against it in these exercises describe an aircraft they typically never saw before it had already 'killed' them.",
+          "The F-22 didn't fly its first combat mission until 22 September 2014, more than twenty years after the ATF fly-off - striking ISIS command-and-control facilities near the Tishrin Dam in Syria with GPS-guided JDAMs on the opening night of Operation Inherent Resolve. Over the following ten months, Raptors flew roughly 204 combat sorties and dropped about 270 bombs at some 60 locations, working in a role nobody had originally designed the jet for: escorting and clearing the way for strike packages flying into contested, radar-defended Syrian airspace. Then-ACC commander Gen. Herbert 'Hawk' Carlisle said publicly he would not send a strike package into that airspace without a Raptor escort.{{ref:aviationist-syria}}",
+          "It's the F-22's stealth in the more mundane, day-to-day sense - intercepting other countries' aircraft without them ever knowing it was there - that produced its best-known anecdote. In 2013, an F-22 shadowed two Iranian F-4 Phantoms closing on a US drone, sliding in undetected beneath them to check their weapons load before pulling alongside and radioing a warning. Air Force Chief of Staff Gen. Mark Welsh made the exchange public later that year.",
+          "On 4 February 2023, an F-22 shot down a Chinese high-altitude surveillance balloon off Myrtle Beach, South Carolina, with a single AIM-9X Sidewinder fired from about 58,000 feet - the type's first confirmed air-to-air kill in nearly two decades of service.{{ref:balloon-wiki}}{{ref:asfm-balloon}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The F-22's production line closed in 2011, so the fleet cannot be replaced if aircraft are lost. When Hurricane Michael tore through Tyndall AFB in October 2018, 17 non-flyable Raptors rode out a Category 5 storm inside hangars that partially collapsed around them - roughly a tenth of the entire fleet exposed at once. Nearly all were eventually repaired.{{ref:hurricane-wiki}}",
+          "China's J-20 fleet has grown past 300 airframes, and the Air Force's own sixth-generation fighter, the NGAD-derived F-47, remains years from squadron service.{{ref:nsj-2032}} Congress has repeatedly blocked Air Force plans to retire older Block 20 Raptors, mandating the fleet stay in service at least through 2032, while Lockheed Martin fields a roughly $270 million podded infrared search-and-track upgrade and other sensor packages intended to keep the jet relevant into the 2040s.{{ref:twz-irst}}",
+          "The F-22 remains the Air Force's primary air-superiority fighter, flying escort for F-35s and B-21s while NGAD/F-47 development continues."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f22",
+      "name": "Lockheed Martin F-22 Raptor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor"
+    },
+    {
+      "id": "atf-wiki",
+      "name": "Advanced Tactical Fighter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Tactical_Fighter"
+    },
+    {
+      "id": "yf23-wiki",
+      "name": "Northrop YF-23",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YF-23"
+    },
+    {
+      "id": "yf22-flighttest",
+      "name": "Lockheed YF-22, S/N 87-0700",
+      "publisher": "Flight Test Historical Foundation",
+      "url": "https://flighttestmuseum.org/portfolio/lockheed-yf-22/"
+    },
+    {
+      "id": "natmuseum",
+      "name": "Lockheed Martin F-22A Raptor",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196040/lockheed-martin-f-22a-raptor/"
+    },
+    {
+      "id": "gao-97",
+      "name": "Tactical Aircraft: Restructuring of the Air Force F-22 Fighter Program (NSIAD-97-156)",
+      "publisher": "U.S. Government Accountability Office",
+      "url": "https://www.gao.gov/products/nsiad-97-156"
+    },
+    {
+      "id": "gates-milcom",
+      "name": "Secretary Gates and the F-22 Raptor",
+      "publisher": "Military.com",
+      "url": "https://www.military.com/defensetech/2009/04/15/secretary-gates-and-the-f-22-raptor"
+    },
+    {
+      "id": "govexec",
+      "name": "House votes to end F-22 fighter jet production",
+      "publisher": "Government Executive",
+      "url": "https://www.govexec.com/defense/2009/07/house-votes-to-end-f-22-fighter-jet-production/29665/"
+    },
+    {
+      "id": "nsj-187",
+      "name": "The U.S. Built Only 187 of the Best Fighter Jets in the World, Then Shut the Line Down",
+      "publisher": "National Security Journal",
+      "url": "https://nationalsecurityjournal.org/the-u-s-built-only-187-of-the-best-fighter-jets-in-the-world-then-shut-the-line-down/"
+    },
+    {
+      "id": "obey",
+      "name": "F-22 Raptor export ban and the Obey Amendment",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/1108issbf/"
+    },
+    {
+      "id": "af-factsheet",
+      "name": "F-22 Raptor - Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104506/f-22-raptor/"
+    },
+    {
+      "id": "asfm-northernedge",
+      "name": "Raptor's Rout",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0207raptor/"
+    },
+    {
+      "id": "aviationist-syria",
+      "name": "All you need to know about the F-22's baptism of fire over Syria",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2014/09/23/f-22-debut-over-syria/"
+    },
+    {
+      "id": "balloon-wiki",
+      "name": "2023 Chinese balloon incident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident"
+    },
+    {
+      "id": "asfm-balloon",
+      "name": "Chinese Surveillance Balloon Shot Down by F-22",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/chinese-surveillance-balloon-shot-down-f-22/"
+    },
+    {
+      "id": "hurricane-wiki",
+      "name": "Hurricane Michael",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Michael"
+    },
+    {
+      "id": "nsj-2032",
+      "name": "Congress blocks F-22 retirement through 2032",
+      "publisher": "MiGFlug",
+      "url": "https://migflug.com/jetflights/congress-blocks-f-22-raptor-retirement-2032-hasc-ndaa-2026/"
+    },
+    {
+      "id": "twz-irst",
+      "name": "F-22 Raptors to Get Distributed Infrared Search and Track System",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/f-22-raptors-to-get-distributed-infrared-search-and-track-system"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "U.S. Air Force Fact Sheet - F-22 Raptor",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104506/f-22-raptor/"
+    },
+    {
+      "name": "Lockheed Martin - F-22 Raptor",
+      "url": "https://www.lockheedmartin.com/en-us/products/f-22.html"
+    },
+    {
+      "name": "National Museum of the USAF - Lockheed Martin F-22A Raptor",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196040/lockheed-martin-f-22a-raptor/"
+    },
+    {
+      "name": "Airforce Technology - F-22A Raptor Advanced Tactical Fighter",
+      "url": "https://www.airforce-technology.com/projects/f22a-raptor/"
+    }
+  ],
+  "survivors": {
+    "intro": "The F-22 remains fully in frontline USAF service and none of the 187 production F-22As have been formally retired to museum display - the fleet Congress has mandated stay flying through at least 2032. The only Raptor-family aircraft on public display today are ATF-competition prototypes and pre-production test articles, not operational jets.",
+    "airframes": [
+      {
+        "serial": "87-0700",
+        "name": "YF-22 PAV-1",
+        "location": "Air Force Flight Test Museum, Edwards AFB",
+        "place": "Edwards, California",
+        "url": "https://flighttestmuseum.org/portfolio/lockheed-yf-22/",
+        "note": "The Lockheed-led YF-22 prototype that won the 1991 ATF fly-off against the Northrop YF-23; displayed at the flight test center where much of its testing took place.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "91-4003",
+        "name": null,
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196040/lockheed-martin-f-22a-raptor/",
+        "note": "One of nine EMD test aircraft; flown by test pilot Paul Metz and used in July 2002 to complete the first-ever supersonic AIM-9 Sidewinder launch. On permanent display since January 2007 - a development test jet, not a combat-coded production Raptor.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede and trimmed narrative framing in section prose (Development, Legacy headings/openings) to the Wikipedia-style, definition-first house standard - facts and citations unchanged.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1992-04-25",
+      "title": "YF-22 prototype crash at Edwards AFB",
+      "summary": "A YF-22 prototype crashed on landing approach at Edwards Air Force Base after a pilot-induced oscillation triggered by the flight control system. Test pilot Tom Morgenfeld ejected safely.",
+      "fatalities": 0,
+      "tag": "Flight-control issue",
+      "source": "https://aviation-safety.net/wikibase/46043"
+    },
+    {
+      "date": "2004-12-20",
+      "title": "Crash on takeoff at Nellis AFB",
+      "summary": "An F-22A crashed and skidded off the runway during takeoff at Nellis Air Force Base after a navigation data error. The pilot ejected safely and flight testing was briefly suspended.",
+      "fatalities": 0,
+      "tag": "Software/flight-control issue",
+      "source": "https://www.airforcetimes.com/news/your-air-force/2018/11/19/investigation-pilot-error-incorrect-data-caused-f-22-to-crash-skid-on-takeoff/"
+    },
+    {
+      "date": "2009-03-25",
+      "title": "Test pilot David Cooley killed near Edwards AFB",
+      "tag": "G-induced loss of consciousness",
+      "summary": "Lockheed Martin test pilot David Cooley's F-22A came apart at Harper Dry Lake, 35 miles from Edwards Air Force Base. Investigators found he was almost certainly incapacitated by g-forces during a high-load test manoeuvre and ejected too late to survive.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/David_P._Cooley"
+    },
+    {
+      "date": "2010-11-16",
+      "title": "Fatal crash near Cold Bay, Alaska",
+      "summary": "An F-22A crashed near Cold Bay, Alaska after its engine bleed-air system malfunctioned and cut off the pilot's oxygen supply. Pilot Capt. Jeffrey Haney was killed, and the accident led to a fleet-wide grounding and an oxygen-system redesign.",
+      "fatalities": 1,
+      "tag": "Oxygen system failure",
+      "source": "https://www.adn.com/aviation/article/air-force-finds-pilot-not-equipment-fault-2010-alaska-f-22-crash/2011/12/15/"
+    },
+    {
+      "date": "2012-11-15",
+      "title": "Crash near Tyndall AFB",
+      "summary": "An F-22A crashed and caught fire near Tyndall Air Force Base's drone runway while returning to base. The pilot ejected safely.",
+      "fatalities": 0,
+      "tag": "Training accident",
+      "source": "https://www.airandspaceforces.com/f-22crashesattyndall/"
+    },
+    {
+      "date": "2018-10-10",
+      "title": "Hurricane Michael wrecks Tyndall AFB",
+      "tag": "Storm damage",
+      "summary": "A Category 5 hurricane tore through Tyndall Air Force Base with seventeen non-flyable Raptors still in its hangars. All were eventually repaired and returned to service, but nearly losing a tenth of the fleet underlined how irreplaceable each jet had become once the production line closed.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Hurricane_Michael"
+    }
+  ]
+}

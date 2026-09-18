@@ -1,0 +1,19 @@
+{
+  "id": "united-states-marine-corps",
+  "slug": "united-states-marine-corps",
+  "name": "United States Marine Corps",
+  "shortName": "USMC",
+  "type": "military",
+  "country": { "name": "United States", "code": "us" },
+  "founded": "1912-05-22",
+  "foundedDisplay": "22 May 1912",
+  "headquarters": "Headquarters Marine Corps, Arlington County, Virginia, USA",
+  "logo": "usmc.webp",
+  "website": null,
+  "tagline": "Expeditionary aviation with a single purpose - every Marine aircraft, from Harrier to F-35B, exists to support the rifleman on the ground.",
+  "bio": [
+    "Marine Corps aviation dates its birth to 22 May 1912, when First Lieutenant Alfred Cunningham reported for flight training. Unlike an independent air force, Marine air power has always been welded to the Corps' air-ground team: its defining campaigns - from the \"Cactus Air Force\" flying out of Guadalcanal in 1942 to close air support at Chosin, Khe Sanh and beyond - were flown in direct support of Marines fighting ashore.",
+    "That expeditionary mission made the Marines aviation pioneers. They were the first American service to embrace the Harrier's vertical take-off and landing, operating AV-8Bs from amphibious ships and austere strips for four decades, and the first anywhere to declare the F-35B operational, continuing the short take-off/vertical landing tradition. Alongside its fast jets the Corps flies KC-130 tanker-transports, MV-22 Osprey tiltrotors and heavy-lift and attack helicopters - a complete, self-contained air arm that deploys wherever Marines do."
+  ],
+  "matchPattern": "united states marine corps|\\busmc\\b|\\bmarine corps\\b"
+}

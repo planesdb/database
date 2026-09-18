@@ -1,0 +1,51 @@
+name: Credit contributor in changelog
+
+# Runs after a pull request against this repo merges. Finds every
+# aircraft/<id>.json file the PR touched and prepends a changelog
+# entry crediting the PR author (GitHub username) with a summary of the
+# change (the PR title) - see scripts/changelog-bot.js for the details.
+# This is what powers the "author" field / @username credit shown on each
+# aircraft's "Changelog" tab and sidebar Entry Changelog card.
+
+on:
+  pull_request:
+    types: [closed]
+
+permissions:
+  contents: write
+
+jobs:
+  changelog:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Append changelog credit
+        env:
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: node scripts/changelog-bot.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "planesdb-bot"
+          git config user.email "actions@github.com"
+          git add aircraft/*.json
+          if git diff --cached --quiet; then
+            echo "No changelog changes to commit."
+          else
+            git commit -m "chore: credit @${{ github.event.pull_request.user.login }} in changelog (#${{ github.event.pull_request.number }})"
+            git push
+          fi

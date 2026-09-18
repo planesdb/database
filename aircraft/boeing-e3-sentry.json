@@ -1,0 +1,318 @@
+{
+  "name": "E-3 Sentry",
+  "fullName": "Boeing E-3 Sentry",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes"
+  ],
+  "role": "Airborne Early Warning & Control Aircraft",
+  "tagline": "The Boeing E-3 Sentry is an airborne early warning and control aircraft built on the Boeing 707-320B airframe, carrying a 30-foot rotating radar dome that can track aircraft more than 250 miles away and below the horizon. Sixty-eight were built for the United States, NATO, Britain, France and Saudi Arabia, and the type flew for nearly fifty years before taking its first combat loss in March 2026.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "The whole aircraft exists to solve one problem: seeing low-flying aircraft against the ground. Earlier radars could not separate a target from the clutter of the terrain behind it, so an aircraft flying low was effectively invisible.",
+    "NATO's E-3As are registered in Luxembourg and crewed by personnel from 15 member states - among the very few military aircraft not owned by a single nation.",
+    "During Desert Storm E-3s flew 379 missions and 5,052 hours on station, and assisted in 38 of the 41 air-to-air kills of the entire conflict.",
+    "The rotodome is tilted slightly nose-down to cut drag, and the resulting distortion is corrected electronically by phase shifters in the radar and IFF antennas rather than mechanically.",
+    "The airframe is a 1950s design: Boeing studied a purpose-built aircraft and found it would not beat the 707 already in production, so the AWACS fleet has flown on an airliner that left production in 1991.",
+    "Readiness is the type's chronic weakness - the USAF fleet managed a mission-capable rate of roughly 56 percent in fiscal 2024, and only 16 aircraft remained before one was destroyed on the ground in 2026."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the US Air Force aircraft with Pratt & Whitney TF33 engines. The NATO, RAF, French and Saudi aircraft use CFM56 turbofans, which extend unrefuelled endurance from about 8 hours to roughly 11.",
+    "maxSpeed": {
+      "mph": 531,
+      "text": "461 kn (531 mph / 855 km/h)"
+    },
+    "cruiseSpeed": "360 mph (580 km/h) at Mach 0.48 - optimum station-keeping cruise, not a transit speed",
+    "range": {
+      "miles": 4600,
+      "text": "4,600 mi (7,400 km, 4,000 nmi); more than 8 hours on station unrefuelled, indefinite with air-to-air refuelling"
+    },
+    "serviceCeiling": {
+      "ft": 29000,
+      "text": "above 29,000 ft (8,800 m)"
+    },
+    "wingspan": {
+      "ft": 145.75,
+      "text": "145 ft 9 in (44.4 m)"
+    },
+    "length": {
+      "ft": 152.9,
+      "text": "152 ft 11 in (46.6 m)"
+    },
+    "height": {
+      "ft": 41.75,
+      "text": "41 ft 9 in (12.7 m)"
+    },
+    "weight": "empty: 185,000 lb (83,900 kg); MTOW: 347,000 lb (157,400 kg)",
+    "engines": "Four Pratt & Whitney TF33-PW-100A turbofans, 20,500 lbf (91 kN) each; NATO, RAF, French and Saudi aircraft use four CFM56-2 turbofans instead",
+    "armament": "None - the E-3 is unarmed, carrying a Westinghouse AN/APY-1 or APY-2 surveillance radar in a 30 ft rotodome, IFF, electronic support measures and Link 16 datalinks",
+    "crew": "4 flight crew plus 13-19 mission specialists at 14 consoles",
+    "capacity": "Radar coverage from the surface into the stratosphere - more than 250 mi (400 km) against low-flying targets and about 400 mi (650 km) against medium and high-altitude aircraft",
+    "firstFlight": {
+      "date": "1976-05-25",
+      "year": 1976
+    },
+    "serviceEntryDate": "1977-03",
+    "retiredDate": null,
+    "numberBuilt": 68,
+    "unitCost": {
+      "usd": 270000000,
+      "text": "$270M (fiscal 1998 constant dollars, US Air Force figure) - roughly $553M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$553M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "EC-137D",
+      "desc": "Two prototypes converted from 707 airframes and flown from February 1972, each fitted with one of the two competing radars so the Air Force could evaluate Westinghouse against Hughes in the air rather than on paper. Westinghouse won on its pipelined fast Fourier transform processing, which resolved 128 Doppler frequencies against Hughes's analogue filters. Both prototypes were later brought up to E-3A standard."
+    },
+    {
+      "code": "E-3A",
+      "desc": "The original production standard with TF33 engines and the AN/APY-1 radar. Twenty-four were delivered to the USAF from 1977 and later converted to E-3B; eighteen went to NATO and five to Saudi Arabia, both with CFM56 engines. The NATO aircraft still carry the E-3A designation today, which is why the name persists long after the USAF stopped using it."
+    },
+    {
+      "code": "E-3B / E-3C",
+      "desc": "USAF upgrade standards rather than new airframes. The Block 30 E-3B was the conversion of the 24 original E-3As with improved systems; the Block 35 E-3C added the AN/APY-2 radar, more operator consoles and further system work, and ten were built to that standard from new. Both received electronic support measures, JTIDS with Link 16, and GPS under the Block 30/35 programme between 1987 and 2001."
+    },
+    {
+      "code": "E-3D Sentry AEW.1",
+      "desc": "The Royal Air Force variant, seven delivered to E-3C standard with CFM56 engines, an air-refuelling probe alongside the boom receptacle, wingtip electronic support measures pods and enhanced maritime surveillance. Flown by No. 8 Squadron from RAF Waddington, the fleet was retired in August 2021 when a defence review pulled the out-of-service date forward from December 2022. Three were sold to Chile."
+    },
+    {
+      "code": "E-3F",
+      "desc": "The French variant, four aircraft to E-3C standard with CFM56 engines and French-specific systems, operated independently of the NATO pool by the 36th Airborne Detection and Control Squadron at Avord. France completed its Radar System Improvement Program retrofit in 2006 and ordered two Saab GlobalEye aircraft in December 2025 to replace them from 2029."
+    },
+    {
+      "code": "E-3G (Block 40/45)",
+      "desc": "The current USAF standard, declared operational in July 2014. It replaced the mission computing system with a Red Hat Linux platform and the operator workstations - which had run software comparable to DOS 2.0 - with a modern equivalent, alongside the DRAGON avionics replacement that fitted a Rockwell Collins Flight2 flight management system and digital cockpit displays. A further glass-cockpit modification removed one crew position."
+    }
+  ],
+  "operators": [
+    {
+      "name": "US Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1977",
+      "fleetSize": "16 E-3Gs before one was destroyed on the ground in March 2026; 34 were delivered in total",
+      "homeBase": "Tinker AFB, Oklahoma - 552nd Air Control Wing",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "NATO Airborne Early Warning & Control Force",
+      "role": "Multinational Operator",
+      "status": "In Service",
+      "since": "1982",
+      "fleetSize": "14 E-3As of 18 delivered, registered in Luxembourg and crewed by personnel from 15 member states",
+      "homeBase": "NATO Air Base Geilenkirchen, Germany"
+    },
+    {
+      "name": "Royal Saudi Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1986",
+      "fleetSize": "5 E-3As bought in 1983, plus 8 KE-3A tankers and 3 RE-3A reconnaissance aircraft on the same airframe",
+      "homeBase": "Prince Sultan Air Base - No. 18 Squadron"
+    },
+    {
+      "name": "French Air and Space Force",
+      "role": "Independent NATO-member Operator",
+      "status": "In Service",
+      "since": "1991",
+      "fleetSize": "4 E-3Fs, flown outside the NATO pool; to be replaced by Saab GlobalEye from 2029",
+      "homeBase": "Avord Air Base - 36th Airborne Detection and Control Squadron",
+      "logo": "french-air-force.webp"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "7 E-3D Sentry AEW.1 delivered; retired August 2021 and replaced by the E-7 Wedgetail",
+      "homeBase": "RAF Waddington, Lincolnshire - No. 8 Squadron",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Chilean Air Force",
+      "role": "Second-hand Operator",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "3 ex-RAF E-3Ds bought in September 2021 and delivered in July 2022; two operational, the third held for spares",
+      "homeBase": "Antofagasta - II Air Brigade"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "E3TF (TF33-powered USAF aircraft); E3CF for the CFM56-powered NATO, French and Saudi fleets",
+    "howToFind": "NATO's aircraft are the most reliably visible: they carry Luxembourg civil registrations in the LX-N series and often fly with ADS-B enabled from Geilenkirchen, orbiting over Poland, Romania and the Baltic. USAF aircraft out of Tinker AFB use RCH or callsigns like SENTRY and are far more intermittent. Look for the long, slow racetrack orbits that give the type away."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created - full article, specifications, variants, operators and incident log written from US Air Force fact sheets, Wikipedia, The War Zone, Breaking Defense and Aerotime.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "e-3",
+    "e3",
+    "sentry",
+    "awacs",
+    "e-3a",
+    "e-3g",
+    "e-3d",
+    "sentry aew1",
+    "airborne early warning",
+    "aew&c",
+    "rotodome",
+    "nato awacs",
+    "boeing 707",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing E-3 Sentry is an airborne early warning and control aircraft, built by Boeing on the 707-320B airliner airframe and carrying a Westinghouse surveillance radar in a 30-foot rotating dome above the fuselage. The two EC-137D prototypes flew from February 1972, the first true E-3 followed on 25 May 1976, and the 552nd Airborne Warning and Control Wing received the first aircraft in March 1977; 68 were built between 1977 and 1992.{{ref:wiki-e3}}{{ref:af-e3}}",
+      "It was designed to do one thing earlier radars could not: detect aircraft flying low over land, where the return from the target is buried in the clutter of the ground behind it. That capability made the E-3 the coordinating aircraft of every major Western air campaign since 1990, and it is still flown by the USAF, NATO, France, Saudi Arabia and Chile.{{ref:wiki-e3}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "By the mid-1960s the Air Force needed to replace the piston-engined Lockheed EC-121 Warning Star, whose radar could see aircraft over water but was defeated by ground clutter over land. The requirement was for an Overland Downlook Radar that could pick a low-flying target out of the terrain return behind it - a problem of signal processing rather than antenna power, and one that only became solvable as airborne computing improved. Boeing, Douglas and Lockheed received study contracts; Lockheed was eliminated in 1966 and Boeing selected in 1968 to provide both the aircraft and the system.{{ref:wiki-e3}}",
+          "The radar was competed separately and decided in the air. Westinghouse and Hughes each fitted a prototype radar to one of two converted 707s designated EC-137D, which flew from February 1972. Westinghouse won: its design used pipelined fast Fourier transform processing driven by a programmable 18-bit computer to resolve 128 Doppler frequencies, where Hughes relied on analogue filters. Boeing had proposed a purpose-built airframe, but testing showed it would not outperform the 707-320B already in production, so the AWACS was built on an airliner.{{ref:wiki-e3}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The rotodome is the aircraft. It is 30 feet across and 6 feet thick, carried on two struts 11 feet above the fuselage to keep the antenna clear of airframe reflections, and it is tilted slightly nose-down to reduce drag - a distortion corrected electronically by phase shifters in the radar and IFF antennas rather than by any mechanical compensation. The AN/APY-1 and later APY-2 inside it see more than 250 miles against low-flying targets and roughly 400 miles against aircraft at medium and high altitude, from the surface up into the stratosphere.{{ref:wiki-e3}}{{ref:af-e3}}",
+          "What the radar produces still needs people to use it. Four flight crew fly the aircraft while 13 to 19 mission specialists work 14 consoles running surveillance, identification, weapons control and battle management, and the airframe is sized around keeping them there: more than eight hours on station unrefuelled on the TF33-engined USAF aircraft, around eleven on the CFM56-powered export fleets, and indefinitely with tanker support. The consequence of building on a 1950s airliner is that the E-3 cruises at Mach 0.48 and works below 30,000 feet - it is a slow, low, unarmed aircraft that depends entirely on the fighters it is directing.{{ref:af-e3}}{{ref:wiki-e3}}"
+        ]
+      },
+      {
+        "heading": "Into Service and the Gulf War",
+        "paragraphs": [
+          "The 552nd Airborne Warning and Control Wing took the first aircraft at Tinker AFB in March 1977, and deliveries to the USAF ran to 34 aircraft by June 1984. The type's defining demonstration came in 1991. Across Desert Shield and Desert Storm, E-3s flew 379 missions and logged 5,052 hours on station, and were involved in 38 of the 41 air-to-air kills scored in the entire conflict - not by shooting anything down, but by seeing the aircraft that were and putting fighters onto them.{{ref:wiki-e3}}",
+          "That pattern repeated. E-3s coordinated the air campaign over Serbia and Montenegro during Operation Allied Force in 1999 and the Libyan intervention in 2011, and NATO's aircraft flew 1,240 missions and 12,240 hours over Afghanistan between 2011 and 2014, handling air traffic control and tactical management for a theatre with no civil radar infrastructure.{{ref:wiki-e3}} The aircraft's value has always been measured in what other aircraft managed to do because it was overhead. The cost has been real too: the worst accident in the type's history came on 22 September 1995, when Yukla 27 ingested Canada geese into both port engines seconds after take-off from Elmendorf AFB and came down in woodland 42 seconds into the flight, killing all 24 aboard.{{ref:wiki-yukla}}"
+        ]
+      },
+      {
+        "heading": "The International Fleet",
+        "paragraphs": [
+          "NATO's purchase is the unusual one. Eighteen E-3As were bought by the alliance rather than by any member state, registered in Luxembourg, based at Geilenkirchen in Germany with forward operating bases in Turkey, Greece and Italy, and crewed by personnel drawn from fifteen member nations - one of very few military aircraft fleets with no single national owner.{{ref:wiki-e3}}{{ref:twz-globaleye}}",
+          "National fleets followed different paths. The RAF took seven E-3D Sentry AEW.1s with CFM56 engines, a refuelling probe and wingtip ESM pods, retiring them in August 2021 when a defence review brought the out-of-service date forward - three were then sold to Chile, which flies two and holds the third for spares. France bought four E-3Fs and has always operated them outside the NATO pool. Saudi Arabia took five E-3As in 1983, along with eight KE-3A tankers and three RE-3A reconnaissance aircraft on the same airframe. Japan, unable to buy an aircraft whose airliner had gone out of production, had the mission system fitted to a Boeing 767 instead.{{ref:wiki-e3}}"
+        ]
+      },
+      {
+        "heading": "Keeping a 1970s Jet Current",
+        "paragraphs": [
+          "Four decades of upgrades have kept the mission systems roughly contemporary while the airframe aged underneath them. The Radar System Improvement Program replaced obsolete transistor-transistor logic with commercial computers and added pulse compression to the pulse-Doppler mode, improving detection of small radar cross-section targets; the Block 40/45 upgrade that produced the E-3G moved mission computing to a Red Hat Linux platform and replaced operator workstations running software comparable to DOS 2.0. DRAGON then replaced nearly all the avionics with digital equipment, and NATO's Final Lifetime Extension Program ran from 2019 to 2026.{{ref:wiki-e3}}",
+          "None of it solved the underlying problem. The USAF fleet managed a mission-capable rate of roughly 56 percent in fiscal 2024, meaning that on an average day nearly half the aircraft could not fly their mission, and the fleet had already shrunk from 34 delivered to 16.{{ref:aerotime-e3}} An aircraft this old is expensive to keep current precisely because everything except the mission system is original."
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "On 27 March 2026 an Iranian drone and ballistic missile attack on Prince Sultan Air Base in Saudi Arabia destroyed E-3G 81-0005 on the ground and damaged at least five KC-135 tankers - the first combat loss of an E-3 in the type's history, and a significant one against a fleet of sixteen with low availability.{{ref:twz-strike}}{{ref:aerotime-e3}} The strike drew attention to the absence of hardened shelters for large support aircraft as much as to the aircraft itself.",
+          "Replacement has been unusually unsettled. The US budget request for fiscal 2026 zeroed funding for the Boeing E-7 Wedgetail on survivability and cost grounds, with the Defense Secretary testifying that it was not survivable on a modern battlefield; by May 2026 that position had reversed, with the Pentagon submitting a budget amendment to restore it and Congress backing $1.55 billion in June.{{ref:bd-e7}} NATO went a different way, selecting the Saab GlobalEye on a Bombardier Global airframe in July 2026 - up to ten aircraft, potentially operational in 2031, against an E-3A service life running to 2035.{{ref:twz-globaleye}} France ordered two GlobalEyes in December 2025 for delivery from 2029.{{ref:wiki-e3}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-e3",
+      "name": "Boeing E-3 Sentry",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_E-3_Sentry"
+    },
+    {
+      "id": "af-e3",
+      "name": "E-3 Sentry (AWACS) fact sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104504/e-3-sentry-awacs/"
+    },
+    {
+      "id": "twz-strike",
+      "name": "Images Show E-3 Sentry Totally Destroyed From Iranian Strike",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/images-purportedly-show-e-3-sentry-totally-destroyed-from-iranian-strike"
+    },
+    {
+      "id": "aerotime-e3",
+      "name": "USAF E-3 Sentry AWACS damaged in Iran attack on Saudi base",
+      "publisher": "Aerotime",
+      "url": "https://www.aerotime.aero/articles/us-e3-sentry-awacs-damaged-iranian-strike-saudi-arabia"
+    },
+    {
+      "id": "bd-e7",
+      "name": "Hegseth says E-7 Wedgetail 'has a future,' reversing planned cancellation",
+      "publisher": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/05/hegseth-says-e-7-wedgetail-has-a-future-reversing-planned-cancellation/"
+    },
+    {
+      "id": "twz-globaleye",
+      "name": "NATO Picks Saab GlobalEye To Replace Aging E-3 AWACS Fleet",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/nato-picks-saab-globaleye-to-replace-aging-e-3-awacs-fleet"
+    },
+    {
+      "id": "wiki-yukla",
+      "name": "1995 Alaska Boeing E-3 Sentry accident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1995_Alaska_Boeing_E-3_Sentry_accident"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "NATO Airborne Early Warning & Control Force",
+      "url": "https://www.nato.int/cps/en/natohq/topics_48904.htm"
+    },
+    {
+      "name": "E-7 Wedgetail Radar Jet Program Cancellation Reversal Advances In Congress",
+      "url": "https://www.twz.com/air/e-7-wedgetail-radar-jet-program-cancellation-reversal-advances-in-congress"
+    },
+    {
+      "name": "NATO Selects Saab GlobalEye",
+      "url": "https://theaviationist.com/2026/07/07/nato-selects-saab-globaleye/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1995-09-22",
+      "title": "Yukla 27 crashes after bird strike at Elmendorf",
+      "tag": "Bird strike",
+      "summary": "E-3B 77-0354, callsign Yukla 27, ingested Canada geese into both port engines during take-off from Elmendorf AFB in Alaska. Carrying a full fuel load and having lost two engines on the same wing, the aircraft could not maintain altitude and crashed into wooded terrain less than a mile from the runway, 42 seconds after lift-off. All 24 crew were killed. The investigation cited inadequate bird deterrence at the base and the tower's failure to warn of birds on the airfield.",
+      "fatalities": 24,
+      "source": "https://en.wikipedia.org/wiki/1995_Alaska_Boeing_E-3_Sentry_accident"
+    },
+    {
+      "date": "1996-07-14",
+      "title": "NATO E-3A runway overrun in Greece",
+      "tag": "Runway excursion",
+      "summary": "A NATO E-3A overran the runway at Preveza-Aktion airport in Greece. Nobody was injured, but the aircraft was written off - the only hull loss in the NATO fleet's history.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Boeing_E-3_Sentry"
+    },
+    {
+      "date": "2009-08-28",
+      "title": "Nose gear collapse at Nellis AFB",
+      "tag": "Landing gear failure",
+      "summary": "An E-3C suffered a nose landing gear collapse at Nellis Air Force Base in Nevada. All 32 people aboard evacuated without injury.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Boeing_E-3_Sentry"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "E-3G destroyed by Iranian strike at Prince Sultan Air Base",
+      "tag": "Combat loss",
+      "summary": "E-3G 81-0005 was destroyed on the ground at Prince Sultan Air Base in Saudi Arabia by an Iranian drone and ballistic missile attack, which also damaged at least five KC-135 tankers and wounded at least ten US service members. It was the first combat loss of an E-3 Sentry, and removed one aircraft from a USAF fleet of only sixteen.",
+      "source": "https://www.twz.com/air/images-purportedly-show-e-3-sentry-totally-destroyed-from-iranian-strike"
+    }
+  ]
+}

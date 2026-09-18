@@ -1,0 +1,528 @@
+{
+  "name": "E-2 Hawkeye",
+  "fullName": "Grumman E-2 Hawkeye",
+  "manufacturer": "Grumman (later Northrop Grumman)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes"
+  ],
+  "role": "Carrier-Borne Airborne Early Warning & Control Aircraft",
+  "tagline": "The Grumman E-2 Hawkeye is a twin-turboprop carrier-borne airborne early warning and control aircraft, and the first aircraft designed from scratch for the role rather than converted from an existing airframe. It has been in continuous production since 1960 - the longest production run of any carrier-based aircraft - across four generations, from the troubled E-2A to the current E-2D Advanced Hawkeye.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The E-2 has been in continuous production since 1960, the longest production run of any carrier-based aircraft.",
+    "It was the first aircraft designed specifically for airborne early warning - every earlier AEW machine was a conversion of an airframe built for something else.",
+    "It set three carrier firsts at once: the first carrier-based turboprop, the first with reversible-pitch propellers, and the first to use the nose-tow catapult launch system.",
+    "The first generation was a failure. Fifty-nine E-2As were delivered, avionics cooling proved inadequate, and reliability got bad enough that the whole fleet was grounded and the project cancelled in 1965.",
+    "Cooperative Engagement Capability lets an E-2D guide a warship's missiles onto a target the ship itself cannot see - demonstrated against an overland cruise missile in May 2009.",
+    "Israel was the first export customer in 1981 and the first operator anywhere to fit its Hawkeyes for aerial refuelling, years before the US Navy did."
+  ],
+  "specifications": {
+    "specificationsNote": "Performance and dimension figures are for the E-2D Advanced Hawkeye, the current production variant, and follow NAVAIR's official product page where it and other sources differ - NAVAIR gives a 37,000 ft service ceiling and 40,484 lb empty weight against the 34,700 ft and 40,200 lb quoted elsewhere. Number built, first flight and service entry cover the whole E-2 line since 1960, not the E-2D alone.",
+    "maxSpeed": {
+      "mph": 400,
+      "text": "348 kn (400 mph / 644 km/h)"
+    },
+    "cruiseSpeed": "295 mph (475 km/h)",
+    "range": {
+      "miles": 1683,
+      "text": "1,683 mi (2,708 km, 1,462 nmi) ferry range"
+    },
+    "serviceCeiling": {
+      "ft": 37000,
+      "text": "37,000 ft (11,278 m)"
+    },
+    "wingspan": {
+      "ft": 81,
+      "text": "80 ft 7 in (24.56 m)"
+    },
+    "length": {
+      "ft": 58,
+      "text": "57 ft 9 in (17.60 m)"
+    },
+    "height": {
+      "ft": 18,
+      "text": "18 ft 4 in (5.58 m)"
+    },
+    "weight": "empty: 40,484 lb (18,363 kg); MTOW: 57,500 lb (26,082 kg)",
+    "engines": "Two Rolls-Royce T56-A-427A turboprops, 5,100 shp each (E-2D); earlier variants flew on successive T56 marks from the same family",
+    "crew": "5 (two pilots and three mission systems operators, with the option for the co-pilot to act as a fourth mission systems operator)",
+    "capacity": "AN/APY-9 UHF active electronically scanned array radar in a rotating dorsal rotodome, Cooperative Engagement Capability datalink and integrated satellite communications; endurance around 6 hours, or 8 hours land-based, rising to roughly 7 hours on station with aerial refuelling",
+    "firstFlight": {
+      "date": "1960-10-21",
+      "year": 1960
+    },
+    "serviceEntryDate": "1964-01-01",
+    "retiredDate": null,
+    "numberBuilt": 313,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed as a clean flyaway figure - a July 2026 Navy contract for three E-2D Block II aircraft was valued at nearly $1.2B, which works out around $400M each but covers support work running to December 2031",
+      "inflationText": null
+    },
+    "combatLosses": "No E-2 has been lost to enemy action. The type's role is to direct other aircraft rather than fight: E-2Cs controlled the F-14s that shot down two Libyan Su-22s over the Gulf of Sidra in 1981, and Israeli Hawkeyes coordinated the destruction of over 90 Syrian aircraft in the Bekaa Valley in 1982. Peacetime attrition is a different matter - carrier operations have cost the type a number of airframes, including an E-2C lost with all five crew north of Puerto Rico in July 1992."
+  },
+  "variants": [
+    {
+      "code": "W2F-1 / E-2A",
+      "desc": "The original production version, designated W2F-1 until the 1962 tri-service redesignation made it the E-2A. The aerodynamic prototype flew on 21 October 1960 and the first fully equipped aircraft on 19 April 1961, entering service in January 1964. Fifty-nine were delivered through 1967, and they were troubled: avionics cooling proved inadequate, reliability was poor enough that the fleet was eventually grounded, and the project was cancelled in 1965."
+    },
+    {
+      "code": "E-2B",
+      "desc": "A reliability rescue rather than a new capability, introduced from 1969. Fifty-two E-2As were converted by replacing the unreliable rotary drum computer with a Litton L-304 digital machine, upgrading the surrounding avionics and enlarging the fins. It is the version that made the concept work well enough to justify continuing, and it kept the type in carrier service through the late 1960s and 1970s."
+    },
+    {
+      "code": "E-2C",
+      "desc": "The long-running mainstream version, first flown on 20 January 1971 - more than 140 for the US Navy and over 30 for allied air arms across three decades. Group 0 covered 55 aircraft; Group I added the APS-139 radar and T56-A-427 engines across 18 between 1988 and 1991; Group II brought the APS-145 from June 1992 across 50. The Hawkeye 2000 standard added a new mission computer and GPS."
+    },
+    {
+      "code": "E-2D Advanced Hawkeye",
+      "desc": "The current version, first flown in August 2007 with deliveries from 2010. Its defining change is the AN/APY-9 radar, which combines mechanical rotation with electronic scanning and space-time adaptive processing, described by the Navy as a two-generation leap. It adds a glass cockpit, satellite communications, T56-A-427A engines and Cooperative Engagement Capability. Eighty-eight have been built, 70 of them delivered to the US Navy by May 2026."
+    },
+    {
+      "code": "E-2T / E-2K",
+      "desc": "Taiwan's aircraft, assembled around parts from retired E-2B airframes and delivered as four E-2Ts from November 1995, followed by two new-build E-2K Hawkeye 2000s commissioned in April 2006. The original four were upgraded to E-2K standard in two pairs between 2010 and 2013. They serve with the 6th Mixed Wing at Pingtung Air Base."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Navy",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1964",
+      "fleetSize": "70 E-2Ds delivered by May 2026, with a programme of record of more than 80 - five per carrier air wing against four for the older E-2C",
+      "homeBase": "NS Norfolk and NAS Point Mugu, and embarked in carrier air wings"
+    },
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "AEW&C Operator",
+      "status": "In Service",
+      "since": "1987",
+      "fleetSize": "10 E-2C and 6 E-2D as of March 2023, flown by the 601st and 603rd Squadrons",
+      "homeBase": "Misawa Air Base (601st Squadron) and Naha Air Base (603rd Squadron)"
+    },
+    {
+      "name": "French Navy (Aeronavale)",
+      "role": "Carrier AEW&C Operator",
+      "status": "In Service",
+      "since": "1998",
+      "fleetSize": "3 E-2C, with 3 E-2Ds ordered in September 2019 and first delivery scheduled for 2027",
+      "homeBase": "Lann-Bihoue, embarked in the carrier Charles de Gaulle with Flottille 4F"
+    },
+    {
+      "name": "Egyptian Air Force",
+      "role": "AEW&C Operator",
+      "status": "In Service",
+      "since": "1987",
+      "fleetSize": "5 E-2C upgraded to Hawkeye 2000 standard, plus 2 further aircraft requested in October 2007 and delivered from 2010",
+      "homeBase": "Cairo West - 601 Airborne Early Warning Brigade"
+    },
+    {
+      "name": "Republic of China Air Force",
+      "role": "AEW&C Operator",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "6 - four E-2Ts delivered from November 1995 and upgraded to E-2K standard, plus two new-build E-2Ks commissioned in April 2006",
+      "homeBase": "Pingtung Air Base - 6th Mixed Wing"
+    },
+    {
+      "name": "Mexican Navy",
+      "role": "Maritime Surveillance Operator",
+      "status": "In Service",
+      "since": "2004",
+      "fleetSize": "3 former Israeli E-2Cs, acquired in 2004 after upgrade by Israel Aerospace Industries",
+      "homeBase": "1st Early Warning and Reconnaissance Naval Air Squadron"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "AEW&C Operator (historical)",
+      "status": "Retired",
+      "since": "1981",
+      "fleetSize": "4 - the type's first export customer, operated until 1994; three were sold to Mexico in 2002 and one is preserved at the Israeli Air Force Museum",
+      "homeBase": "Israeli Air Force bases; one aircraft now at Hatzerim Air Base museum"
+    },
+    {
+      "name": "Republic of Singapore Air Force",
+      "role": "AEW&C Operator (historical)",
+      "status": "Retired",
+      "since": "1987",
+      "fleetSize": "4 E-2C with 111 Squadron, replaced by Gulfstream G550 AEW aircraft which took over the role on 13 April 2012",
+      "homeBase": "Tengah Air Base"
+    },
+    {
+      "name": "United States Coast Guard",
+      "role": "Counter-Narcotics Operator (historical)",
+      "status": "Retired",
+      "since": "1987",
+      "fleetSize": "A small number of US Navy E-2Cs made available on loan, flown by a cadre of Coast Guard naval flight officers; all returned to Navy inventory after the fatal Roosevelt Roads mishap of 24 August 1990",
+      "homeBase": "Naval Station Roosevelt Roads, Puerto Rico"
+    },
+    {
+      "name": "United States Customs Service",
+      "role": "Counter-Narcotics Operator (historical)",
+      "status": "Retired",
+      "since": "1987",
+      "fleetSize": "A small number of loaned Navy E-2Cs used for maritime interdiction, returned to the Navy after the Coast Guard withdrew; the service concentrated on the P-3 instead",
+      "homeBase": "US Customs Service air branches"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "E2",
+    "howToFind": "Carrier-based Hawkeyes rarely transmit at sea, so the map is not the way to find one. The realistic chances are shore-based training and transit flights around NAS Point Mugu in California and NS Norfolk in Virginia, and the Japanese aircraft, which sometimes appear near Misawa and Naha. The distinctive shape - twin turboprops under a rotating disc, with four fins on the tail - makes it far easier to identify by eye at an airshow than on a tracker."
+  },
+  "lastUpdated": "2026-09-12",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from NAVAIR, Wikipedia, the US Navy news office and The Defense Post.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-12",
+      "change": "Broadened from the E-2D Advanced Hawkeye to the whole Grumman E-2 Hawkeye line and renamed the entry accordingly. Rewrote the article around the four generations, corrected first flight, service entry and number built to family-wide figures, added the US Coast Guard and US Customs Service as historical operators, added a survivors list of 14 preserved airframes, and added the early-programme and carrier-attrition events to the incident log.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Hawkeye",
+    "E2",
+    "E2C",
+    "E2D",
+    "Advanced Hawkeye",
+    "W2F-1",
+    "APY-9",
+    "AEW&C",
+    "rotodome",
+    "carrier early warning"
+  ],
+  "article": {
+    "overview": [
+      "The Grumman E-2 Hawkeye is a twin-turboprop carrier-borne airborne early warning and control aircraft, built for the United States Navy and eight other operators. It was the first aircraft designed from the outset for the airborne early warning role rather than converted from an existing airframe, and it carries its search radar in a 24-foot rotating dorsal dome that dictates most of the rest of the design. {{ref:nhhc}} {{ref:wiki-e2}}",
+      "The aerodynamic prototype flew on 21 October 1960 and the type entered service in January 1964. It has been in continuous production ever since, the longest production run of any carrier-based aircraft, across four generations - E-2A, E-2B, E-2C and the current E-2D Advanced Hawkeye - totalling 313 airframes. {{ref:wiki-e2}} {{ref:navair-e2d}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the W2F-1",
+        "paragraphs": [
+          "Improvements in airborne radar through the mid-1950s made a dedicated airborne early warning and control aircraft practical, and the Navy's existing answer - the Grumman E-1 Tracer, in service from 1954 - was a radar fitted to an anti-submarine airframe. In 1956 the Navy set a requirement for a purpose-built machine that could carry a search radar far enough ahead of a carrier group to give useful warning, and selected Grumman's design in March 1957. {{ref:globalsecurity}} {{ref:wiki-e2}}",
+          "The aerodynamic prototype flew on 21 October 1960 as the W2F-1, with the first fully equipped aircraft following on 19 April 1961 and the tri-service redesignation making it the E-2A in 1962. Service entry came in January 1964. The aircraft set three carrier firsts in the process: it was the first carrier-based turboprop, the first with reversible-pitch propellers, and the first to use the nose-tow catapult launch system that has been standard on American carriers ever since. {{ref:nhhc}} {{ref:wiki-e2}}"
+        ]
+      },
+      {
+        "heading": "The E-2A's Failure & the E-2B Rescue",
+        "paragraphs": [
+          "The first generation did not work. Fifty-nine E-2As were delivered through 1967, but cooling for the avionics proved inadequate and the rotary drum computer at the centre of the mission system was unreliable enough that the entire fleet was eventually grounded, and the project was cancelled in 1965. For a type whose whole justification was being airborne and working when the carrier needed it, that was close to a fatal verdict. {{ref:wiki-e2}} {{ref:globalsecurity}}",
+          "The fix, from 1969, was the E-2B: 52 E-2As converted by replacing the drum computer with a Litton L-304 programmable digital machine, upgrading the avionics around it and enlarging the fins. It added no new capability and was not meant to - it made the existing capability dependable. That was enough to keep the concept alive long enough for a properly new mission system to arrive. {{ref:wiki-e2}} {{ref:globalsecurity}}"
+        ]
+      },
+      {
+        "heading": "Design & the Rotodome",
+        "paragraphs": [
+          "The airframe is shaped around two constraints that pull against each other: carrier operation and the rotodome. Two T56 turboprops give the slow, efficient flight the mission needs and let the aircraft launch and recover from a deck, and the wings fold back alongside the fuselage to fit the hangar. The 24-foot disc above the fuselage sets the aircraft's height and drives the rest of the layout - the distinctive four-fin tail exists because a conventional single fin tall enough to do the job would not have fitted under a hangar deckhead, and would have sat in the disturbed air behind the disc. {{ref:wiki-e2}} {{ref:navair-e2d}}",
+          "That layout has survived four generations largely unchanged, because the thing being replaced each time is inside it. The crew is five - two pilots and three mission systems operators, with the co-pilot able to act as a fourth operator when the workload demands - and the successive variants are best understood as successive radars and mission computers carried by the same basic aeroplane. It is also the constraint on the type's future: there is only so much that can be changed around a fixed rotodome and a carrier deck. {{ref:navair-e2d}} {{ref:wiki-e2}}"
+        ]
+      },
+      {
+        "heading": "The E-2C Decades",
+        "paragraphs": [
+          "The E-2C was the version that made the type a fixture. Development began in 1968, the prototype flew on 20 January 1971, the first production aircraft on 23 September 1972, and the first squadron aircraft reached VAW-123 at NAS Norfolk in November 1973. More than 140 were delivered to the US Navy and more than 30 to allied air arms, and it remained the mainstream version for three decades. {{ref:globalsecurity}} {{ref:wiki-e2}}",
+          "Its production history is a sequence of radars on a stable airframe. Group 0 covered 55 aircraft; Group I added the APS-139 and T56-A-427 engines across 18 aircraft between 1988 and 1991; Group II brought the APS-145 from June 1992 across 50 aircraft; and the Hawkeye 2000 standard that followed added a new mission computer, updated combat information centre workstations and GPS. Taiwan's E-2Ts, assembled around parts from retired E-2B airframes, came out of the same line. {{ref:wiki-e2}}"
+        ]
+      },
+      {
+        "heading": "Combat & Service History",
+        "paragraphs": [
+          "The Hawkeye's record is one of directing other aircraft rather than fighting. Its first combat deployment was to the waters off Vietnam in 1965, flying from USS Kitty Hawk and later USS Ranger. An E-2C of VAW-124 controlled the F-14s that shot down two Libyan Su-22s over the Gulf of Sidra in August 1981; VAW-123 aircraft from USS America ran the fighter patrols during Operation El Dorado Canyon in 1986; and in Desert Storm E-2C crews coordinated the F/A-18 engagements that downed Iraqi MiG-21s. Israeli Hawkeyes coordinated the air battle over the Bekaa Valley in 1982, in which more than 90 Syrian aircraft were destroyed. {{ref:nhhc}} {{ref:globalsecurity}} {{ref:wiki-e2}}",
+          "The type has also done a good deal of work that has nothing to do with air combat. From the mid-1980s several Navy E-2Cs were loaned to the US Coast Guard and the US Customs Service for counter-narcotics and maritime interdiction, an arrangement that ended after a fatal mishap at Naval Station Roosevelt Roads on 24 August 1990. Over Iraq and Afghanistan, Hawkeye squadrons flew overland sorties as battle managers and airspace controllers, and after Hurricane Katrina three squadrons deployed to provide air traffic control across three states - a role no other carrier aircraft could have filled. {{ref:wiki-e2}}"
+        ]
+      },
+      {
+        "heading": "The E-2D & Current Status",
+        "paragraphs": [
+          "The E-2D Advanced Hawkeye first flew in August 2007 and reached initial operational capability in October 2014. Its AN/APY-9 is an active electronically scanned array that also rotates mechanically, backed by space-time adaptive processing, and NAVAIR describes it as a two-generation leap. The larger change to a carrier group, though, is the Cooperative Engagement Capability datalink: it shares a common track picture with the ships around the aircraft precisely enough that a warship can fire on a target it has never detected, demonstrated against an overland cruise missile in May 2009. That is why the Navy buys five E-2Ds per air wing against four E-2Cs before. {{ref:navair-e2d}} {{ref:wiki-e2}}",
+          "The type's persistent limitation has always been time on station: endurance is about six hours, much of it spent transiting, leaving roughly four hours of useful coverage. Air-to-air refuelling, introduced from December 2016 and fitted on the line from the 46th aircraft in late 2020, raises mission duration to around seven hours for about $2 million per new aircraft or $6 million to retrofit. Northrop Grumman delivered the Navy's 70th E-2D in May 2026, the Navy expects to operate more than 80 beyond 2040, and a July 2026 contract for three Block II aircraft was worth nearly $1.2 billion with work running to December 2031. Japan and France are moving to the D model; Egypt, Taiwan and Mexico continue with E-2C variants. {{ref:wiki-e2}} {{ref:defensepost-70th}} {{ref:defensepost-contract}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-e2",
+      "name": "Grumman E-2 Hawkeye",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye"
+    },
+    {
+      "id": "navair-e2d",
+      "name": "E-2D Advanced Hawkeye (AHE)",
+      "publisher": "NAVAIR, U.S. Navy",
+      "url": "https://www.navair.navy.mil/product/E-2D"
+    },
+    {
+      "id": "nhhc",
+      "name": "E-2C Hawkeye",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/e/e-2c-hawkeye0.html"
+    },
+    {
+      "id": "globalsecurity",
+      "name": "E-2C Hawkeye - History",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/e-2-history.htm"
+    },
+    {
+      "id": "defensepost-70th",
+      "name": "US Navy Accepts 70th E-2D Advanced Hawkeye From Northrop Grumman",
+      "publisher": "The Defense Post",
+      "url": "https://thedefensepost.com/2026/05/05/us-e2d-hawkeye-northrop/"
+    },
+    {
+      "id": "defensepost-contract",
+      "name": "US Navy Buys Three E-2D Hawkeye Aircraft for $1.2 Billion",
+      "publisher": "The Defense Post",
+      "url": "https://thedefensepost.com/2026/07/24/us-northrop-e2d-hawkeye/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "E-2D Advanced Hawkeye - Northrop Grumman",
+      "url": "https://www.northropgrumman.com/what-we-do/aircraft/e-2d-advanced-hawkeye"
+    },
+    {
+      "name": "E-2C Hawkeye - National Naval Aviation Museum",
+      "url": "https://navalaviationmuseum.org/aircraft_exhibits/e-2c-hawkeye/"
+    },
+    {
+      "name": "Norfolk-based E-2 Hawkeye Crashes, Two Injured, One Fatality",
+      "url": "https://www.navy.mil/Press-Office/News-Stories/Article/2983652/norfolk-based-e-2-hawkeye-crashes-two-injured-one-fatality/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1960-10-21",
+      "title": "First flight of the W2F-1 prototype",
+      "tag": "Programme milestone",
+      "summary": "The aerodynamic prototype of what would become the E-2 Hawkeye flew for the first time. The first fully equipped aircraft followed on 19 April 1961, and the type entered service in January 1964.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye"
+    },
+    {
+      "date": "1965-01-01",
+      "title": "E-2A project cancelled after fleet grounding",
+      "tag": "Programme failure",
+      "summary": "Inadequate cooling for the avionics and an unreliable rotary drum computer made the E-2A so unserviceable that the entire fleet was grounded and the project was cancelled, after 59 aircraft had been built. The capability was rescued from 1969 by converting 52 of them to E-2B standard with a Litton L-304 digital computer.",
+      "source": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye"
+    },
+    {
+      "date": "1965-06-01",
+      "title": "First combat deployment off Vietnam",
+      "tag": "Operational milestone",
+      "summary": "The E-2A made its first combat deployment to the waters off Vietnam, flying from USS Kitty Hawk and later USS Ranger. It was the type's introduction to the role it has filled ever since - directing other aircraft rather than fighting.",
+      "source": "https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/e/e-2c-hawkeye0.html"
+    },
+    {
+      "date": "1981-08-19",
+      "title": "Gulf of Sidra shootdown directed by a Hawkeye",
+      "tag": "Combat control",
+      "summary": "An E-2C of VAW-124 directed the F-14 Tomcats that shot down two Libyan Su-22 fighters over the Gulf of Sidra, one of the clearest early demonstrations of what carrier-borne airborne early warning changes in an engagement.",
+      "source": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye"
+    },
+    {
+      "date": "1985-08-17",
+      "title": "Recovery accident alongside USS Midway",
+      "tag": "Carrier landing accident",
+      "summary": "E-2C BuNo 161094 missed the arresting wire attempting to recover aboard USS Midway during a training flight and went into the sea. Three of the five crew were rescued; two were killed.",
+      "fatalities": 2,
+      "source": "https://www.baaa-acro.com/crash/crash-grumman-e-2c-hawkeye-uss-midway-2-killed"
+    },
+    {
+      "date": "1990-08-24",
+      "title": "Fatal Coast Guard mishap at Roosevelt Roads",
+      "tag": "Crash",
+      "summary": "A fatal accident involving a US Coast Guard E-2C at Naval Station Roosevelt Roads in Puerto Rico led the Coast Guard to end its E-2C operations and return the aircraft to Navy inventory. The US Customs Service subsequently returned its own E-2Cs and concentrated on the P-3 instead.",
+      "source": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye"
+    },
+    {
+      "date": "1992-07-31",
+      "title": "VAW-126 E-2C lost with all five crew",
+      "tag": "Crash",
+      "summary": "E-2C BuNo 162617, flying for the VAW-126 detachment aboard USS John F. Kennedy, crashed into the sea about four miles from the ship and some 75 miles north of Puerto Rico during a training flight. All five naval officers on board were killed and the cause was never established.",
+      "fatalities": 5,
+      "source": "https://www.baaa-acro.com/crash/crash-grumman-e-2c-hawkeye-atlantic-ocean-5-killed"
+    },
+    {
+      "date": "2009-05-01",
+      "title": "First Cooperative Engagement Capability overland intercept",
+      "tag": "Programme milestone",
+      "summary": "An E-2D used Cooperative Engagement Capability to support the engagement of an overland cruise missile target, demonstrating that the aircraft could guide a weapon onto a target the launching platform had not detected itself.",
+      "source": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye"
+    },
+    {
+      "date": "2016-12-01",
+      "title": "Aerial refuelling capability introduced",
+      "tag": "Programme milestone",
+      "summary": "Air-to-air refuelling was introduced to the E-2D programme, fitted on the production line from the 46th aircraft delivered in late 2020. It raised total mission duration from around four hours to seven and roughly doubled time on station.",
+      "source": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye"
+    },
+    {
+      "date": "2022-03-30",
+      "title": "E-2D crash off the Virginia coast",
+      "tag": "Crash",
+      "summary": "An E-2D from an East Coast airborne command and control squadron crashed in the vicinity of Wallops Island and Chincoteague, Virginia at around 7:30 pm. Of the three crew on board, one was killed and two were rescued with non-life-threatening injuries.",
+      "fatalities": 1,
+      "source": "https://www.navy.mil/Press-Office/News-Stories/Article/2983652/norfolk-based-e-2-hawkeye-crashes-two-injured-one-fatality/"
+    },
+    {
+      "date": "2026-05-05",
+      "title": "70th E-2D delivered to the US Navy",
+      "tag": "Programme milestone",
+      "summary": "Northrop Grumman handed over the 70th E-2D Advanced Hawkeye to the US Navy, out of 88 airframes built to that point, with the remainder going to the Japan Air Self-Defense Force.",
+      "source": "https://thedefensepost.com/2026/05/05/us-e2d-hawkeye-northrop/"
+    }
+  ],
+  "survivors": {
+    "intro": "With the line still in production the E-2 has no retired-type survivor problem, but the first two generations are gone and a good spread of them is preserved. These are the publicly displayed airframes, including the last aircraft ever launched from USS Enterprise and one of the four Israeli Hawkeyes that pioneered aerial refuelling on the type.",
+    "airframes": [
+      {
+        "serial": "BuNo 164494",
+        "name": null,
+        "location": "National Naval Aviation Museum",
+        "place": "NAS Pensacola, Florida, United States",
+        "url": "https://navalaviationmuseum.org/aircraft_exhibits/e-2c-hawkeye/",
+        "note": "An E-2C that flew the last aircraft launch from USS Enterprise. It arrived at the museum in May 2014 and wears the markings of VAW-123, the 'Screwtops'.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 161227",
+        "name": null,
+        "location": "USS Midway Museum",
+        "place": "San Diego, California, United States",
+        "url": "https://www.midway.org/exhibits-activities/exhibits/aircraft-gallery/propellers-airplanes/e-2-hawkeye/",
+        "note": "An E-2C displayed on the flight deck of the carrier the type spent its working life aboard.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "944",
+        "name": null,
+        "location": "Israeli Air Force Museum",
+        "place": "Hatzerim Air Base, Israel",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "note": "One of the four Israeli E-2Cs - the type's first export order, and the first Hawkeyes anywhere fitted for aerial refuelling. Three of the four were sold to Mexico in 2002; this one stayed.",
+        "featured": true,
+        "countryCode": "il",
+        "country": "Israel"
+      },
+      {
+        "serial": "BuNo 150540",
+        "name": null,
+        "location": "National Naval Aviation Museum",
+        "place": "NAS Pensacola, Florida, United States",
+        "url": "https://navalaviationmuseum.org/aircraft_exhibits/e-2c-hawkeye/",
+        "note": "An E-2B - the digital-computer rebuild that rescued the programme after the E-2A fleet was grounded.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 152476",
+        "name": null,
+        "location": "Patuxent River Naval Air Museum",
+        "place": "NAS Patuxent River, Maryland, United States",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 152484",
+        "name": null,
+        "location": "Air Victory Museum",
+        "place": "Lumberton, New Jersey, United States",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 150541",
+        "name": null,
+        "location": "NAS Norfolk Air Park",
+        "place": "Norfolk, Virginia, United States",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 160012",
+        "name": null,
+        "location": "Cradle of Aviation Museum",
+        "place": "Garden City, New York, United States",
+        "url": "https://www.cradleofaviation.org/",
+        "note": "Displayed a few miles from the Bethpage plant where Grumman built the type.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 161344",
+        "name": null,
+        "location": "Yanks Air Museum",
+        "place": "Chino, California, United States",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 162796",
+        "name": null,
+        "location": "Singapore Air Force Museum",
+        "place": "Singapore",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "note": "One of the four E-2Cs flown by 111 Squadron until the Republic of Singapore Air Force handed the role to the Gulfstream G550 in April 2012.",
+        "countryCode": "sg",
+        "country": "Singapore"
+      },
+      {
+        "serial": "BuNo 159496",
+        "name": null,
+        "location": "Naval Air Station Fallon",
+        "place": "Fallon, Nevada, United States",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 159499",
+        "name": null,
+        "location": "NAS Patuxent River",
+        "place": "Patuxent River, Maryland, United States",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 160992",
+        "name": null,
+        "location": "NAS Point Mugu",
+        "place": "Point Mugu, California, United States",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 161098",
+        "name": null,
+        "location": "Former NAS Atlanta",
+        "place": "Marietta, Georgia, United States",
+        "url": "https://en.wikipedia.org/wiki/Grumman_E-2_Hawkeye",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

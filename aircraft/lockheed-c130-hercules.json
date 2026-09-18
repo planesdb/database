@@ -1,0 +1,403 @@
+{
+  "name": "C-130 Hercules",
+  "fullName": "Lockheed C-130 Hercules",
+  "manufacturer": "Lockheed (Lockheed Martin)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Tactical Military Transport",
+  "tagline": "The turboprop workhorse in continuous production since 1954 and flown by more air forces than any other military aircraft. Able to operate from short, rough, unpaved airstrips that would ground most cargo aircraft its size, it remains Lockheed Martin's current-production tactical airlifter as the C-130J Super Hercules.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "Developed after the Korean War exposed the US Air Force's need for a purpose-built tactical transport that could deliver troops and cargo directly onto unimproved frontline airstrips, the Hercules first flew in August 1954 and entered USAF service in 1956, its high, box-like fuselage and integral rear loading ramp becoming a defining template copied by tactical transports worldwide ever since. Its versatility proved extraordinary: beyond routine cargo and paratroop duties, C-130 variants have flown as gunships (AC-130), aerial refuelling tankers (KC-130), electronic warfare and special operations platforms (MC-130), Antarctic and Arctic ski-equipped transports (LC-130), aerial firefighting tankers, and even, in a specially modified variant, landed and took off from an aircraft carrier during 1963 trials without a single modification to arresting gear. The type carried out the resupply airlift into besieged Khe Sanh during the Vietnam War, flew the famous Israeli commando raid to rescue hostages at Entebbe, Uganda in 1976, and has supported humanitarian relief operations on every continent. Lockheed introduced the substantially re-engined and modernised C-130J Super Hercules in 1996, featuring new turboprop engines, six-bladed composite propellers and a modern digital cockpit requiring a smaller crew, and this version remains in full-rate production and continuous export order today, with over 2,700 Hercules of all variants built across seven decades and more than 70 nations having operated the type.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 366,
+      "text": "318 kn (366 mph / 589 km/h)"
+    },
+    "cruiseSpeed": "~316 mph (509 km/h)",
+    "range": {
+      "miles": 2360,
+      "text": "2,360 mi (3,800 km) with maximum payload; up to 5,000 mi (8,000 km) ferry range"
+    },
+    "serviceCeiling": {
+      "ft": 33000,
+      "text": "33,000 ft (10,000 m)"
+    },
+    "wingspan": {
+      "ft": 132.58,
+      "text": "132 ft 7 in (40.4 m)"
+    },
+    "length": {
+      "ft": 97.75,
+      "text": "97 ft 9 in (29.8 m)"
+    },
+    "height": {
+      "ft": 38.67,
+      "text": "38 ft 8 in (11.8 m)"
+    },
+    "weight": "empty: 83,000 lb (37,648 kg); MTOW: 164,000 lb (74,389 kg)",
+    "engines": "4 x Rolls-Royce AE 2100D3 turboprop engines, 4,591 shp each, driving six-bladed composite propellers (C-130J)",
+    "crew": "3 (2 pilots, 1 loadmaster) - reduced from the 4-5 crew of earlier variants by the C-130J's modernised cockpit",
+    "capacity": "Up to 92 troops, 64 paratroopers, or 42,000 lb (19,000 kg) of cargo including light vehicles and artillery",
+    "firstFlight": {
+      "date": "1954-08-23",
+      "year": 1954
+    },
+    "serviceEntryDate": "1956-12-01",
+    "retiredDate": null,
+    "numberBuilt": 2700,
+    "unitCost": {
+      "usd": 79000000,
+      "text": "~$79M (C-130J, current production, 2026 dollars)"
+    }
+  },
+  "variants": [
+    {
+      "code": "C-130A/B/E",
+      "desc": "Original 1950s-60s production versions that established the type's tactical airlift role."
+    },
+    {
+      "code": "C-130H",
+      "desc": "Long-serving, widely exported late-Cold War standard, still operated by dozens of air forces worldwide."
+    },
+    {
+      "code": "AC-130 Gunship",
+      "desc": "Heavily armed special operations variant carrying cannon and precision-guided munitions for close air support."
+    },
+    {
+      "code": "KC-130",
+      "desc": "Aerial refuelling tanker variant used extensively by the US Marine Corps and export customers."
+    },
+    {
+      "code": "C-130J Super Hercules",
+      "desc": "Current-production standard with new engines, propellers and digital avionics, in full-rate production today."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1956",
+      "fleetSize": "~280+",
+      "homeBase": "Air Mobility Command bases worldwide",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "United States Marine Corps (KC-130)",
+      "role": "Tanker & Transport Operator",
+      "status": "In Service",
+      "since": "1962",
+      "fleetSize": "~70",
+      "homeBase": "Marine Corps air stations, worldwide",
+      "logo": "usmc.webp"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1967",
+      "fleetSize": "~14",
+      "homeBase": "RAF Brize Norton, UK",
+      "logo": "raf.png"
+    },
+    {
+      "name": "70+ other air forces worldwide",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1958",
+      "fleetSize": "Combined worldwide fleet exceeds 2,000 aircraft across all operators",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "C130",
+    "howToFind": "One of the most commonly seen military transport types worldwide; regularly visible on Flightradar24 flying training, humanitarian and logistics missions from air force bases globally, easily identified by its slow cruise speed and turboprop signature."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Defense News",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+      "topicTag": "C-130 Hercules"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "U.S. delivers fourth C-130 Hercules to Tunisia to boost tactical airlift capacity",
+      "source": "Army Recognition",
+      "date": "2026-02-01",
+      "category": "Exports",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/u-s-delivers-fourth-c-130h-hercules-to-tunisia-to-boost-tactical-airlift-capacity"
+    },
+    {
+      "title": "Vietnam to get its hands on C-130 Hercules",
+      "source": "Asian Military Review",
+      "date": "2026-06-01",
+      "category": "Exports",
+      "url": "https://www.asianmilitaryreview.com/2026/06/vietnam-to-get-its-hands-on-c-130-hercules-foc/"
+    },
+    {
+      "title": "Lockheed Martin welcomes Mexico to the C-130J Super Hercules fleet",
+      "source": "Lockheed Martin",
+      "date": "2026-01-21",
+      "category": "Exports",
+      "url": "https://news.lockheedmartin.com/2026-01-21-Lockheed-Martin-Welcomes-Mexico-to-the-C-130J-Super-Hercules-Fleet"
+    }
+  ],
+  "tags": [
+    "c-130 hercules",
+    "lockheed martin",
+    "tactical airlift",
+    "super hercules",
+    "military transport",
+    "gunship",
+    "khe sanh",
+    "entebbe raid",
+    "turboprop transport"
+  ],
+  "quickFacts": [
+    "The C-130 has been in continuous production since 1954 - the longest production run of any military aircraft in history, with no end in sight.",
+    "In 1963 a US Navy crew landed and took off from the aircraft carrier USS Forrestal in a KC-130 - 21 times - making it the largest aircraft ever to operate from a carrier deck.",
+    "More than 70 nations have operated Hercules; it has flown into every kind of strip from Antarctic ice to Everest-region gravel bars.",
+    "The RAF flew Hercules for 56 years and 'Fat Albert', the US Blue Angels' support C-130, is an airshow act in its own right.",
+    "RAF XV179's loss to Iraqi ground fire in 2005 - ten men killed - was the RAF's biggest single loss of life since the Falklands War and led to fuel-tank safety foam being fitted fleet-wide.",
+    "A C-130 once delivered a 10,000 lb bomb: the type dropped the giant BLU-82 'Daisy Cutter' from its rear ramp in Vietnam and Afghanistan."
+  ],
+  "article": {
+    "overview": [
+      "No aircraft in history has stayed in production longer than the C-130 Hercules. The prototype flew in 1954; brand-new C-130Js are still rolling out of the same Marietta, Georgia plant more than seventy years later - a run no other aircraft, civil or military, has ever approached.{{ref:wiki-c130}}",
+      "The reason is a shape that turned out to be simply correct: high wing, four turboprops, ten-foot-tall cargo bay at truck-bed height, rear ramp, rough-field landing gear. Over 2,700 Hercules have hauled troops, tanks, hurricanes' worth of relief supplies, fuel, scientists to Antarctica and gunship artillery into combat for some 70 nations - and its replacement, decade after decade, keeps being another C-130.{{ref:lm-c130}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Korea wrote the requirement. The Air Force fought the war with WWII-era transports that needed long paved runways and couldn't carry the army's growing equipment, and in 1951 it asked for something new: a transport that could lift 92 infantrymen or 15 tonnes, fly them 1,100 miles, land on rough dirt strips, and slow to 125 knots for paratroop drops.{{ref:wiki-c130}}",
+          "Lockheed's winning design was shockingly unglamorous by 1950s standards - a fat, straight-winged machine in the jet age. Legend holds that Kelly Johnson himself argued against submitting it, warning it would ruin the company's reputation. It became the most enduring product Lockheed ever built.{{ref:wiki-c130}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The YC-130 first flew on 23 August 1954 - from Burbank, before production settled permanently in Marietta, Georgia. The four Allison T56 turboprops were the quiet revolution: jet-turbine power driving propellers gave the Hercules short-field performance no pure jet could match, with cruise speeds piston transports couldn't touch.{{ref:wiki-c130}}",
+          "Successive letters tracked seven decades of upgrades - A through H models adding power, range and payload - until the C-130J Super Hercules of 1996 rebuilt the aircraft from the inside: new Rolls-Royce AE 2100 engines with six-bladed composite scimitar props, glass cockpit, two-pilot crew, and performance gains of 20-40% across the board. The J has now been delivered to over 20 nations and keeps the line alive into the 2030s.{{ref:lm-c130}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The C-130's genius is the cargo bay: 40 feet long, ten feet high sills at truck height, pressurised, with a rear ramp that opens in flight. It sized itself around a standard army truck and, by happy accident, around almost everything an army would invent for the next seventy years.{{ref:wiki-c130}}",
+          "The airframe shrugs at abuse that would destroy other aircraft: assault landings on dirt, gravel, snow (ski-equipped LC-130s supply Antarctic stations), and aircraft-carrier decks - in 1963 a KC-130F made 21 unarrested full-stop landings on USS Forrestal{{ref:wiki-forrestal}}, still the largest and heaviest aircraft ever to land on a carrier.{{ref:wiki-c130}}",
+          "That adaptability spawned the great family: AC-130 gunships with side-firing howitzers, HC-130 rescue tankers, MC-130 special-operations penetrators, WC-130 hurricane hunters that fly into the eyewall on purpose, EC-130 jammers, firefighting MAFFS tankers and dozens more.{{ref:af-c130}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The Hercules has flown in essentially every conflict and disaster since Vietnam, where it dropped paratroopers, hauled artillery into Khe Sanh under fire and birthed the AC-130 gunship. The Israeli raid on Entebbe in 1976{{ref:wiki-entebbe}} - four C-130s landing commandos 2,500 miles from home to free hijacked hostages - remains the type's single most famous night.{{ref:wiki-c130}}",
+          "Its defining work is less cinematic: it is the aircraft that shows up. Earthquake relief in Haiti and Türkiye, famine airlifts, COVID vaccine runs, evacuations from Kabul, supply drops over Gaza - when the runway is short, damaged or missing, the world's response arrives by Hercules.{{ref:lm-c130}}",
+          "Around 70 nations operate the family today, and the U.S. fleet alone spans active, Guard and Reserve wings in every corner of the force. The 2,700th Hercules was delivered in 2023; the J-model backlog keeps Marietta building toward the type's centenary.{{ref:lm-c130}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Aircraft designed to replace the C-130 - larger, faster, jet-powered - have come, served and retired while the Hercules flew on. Its actual successor programs keep concluding the same thing: the requirement is a C-130, and the cheapest way to build one is the production line that already exists.{{ref:wiki-c130}}",
+          "Seventy-plus years after Kelly Johnson allegedly begged Lockheed not to build it, the ugly duckling is the longest-produced aircraft in history, with a credible shot at being the first to reach 100 years in continuous production. Somewhere, a C-130 is taking off right now - statistically, several.{{ref:lm-c130}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-c130",
+      "name": "Lockheed C-130 Hercules",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_C-130_Hercules"
+    },
+    {
+      "id": "lm-c130",
+      "name": "C-130J Super Hercules",
+      "publisher": "Lockheed Martin",
+      "url": "https://www.lockheedmartin.com/en-us/products/c130.html"
+    },
+    {
+      "id": "af-c130",
+      "name": "C-130 Hercules Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/1555054/c-130-hercules/"
+    },
+    {
+      "id": "wiki-entebbe",
+      "name": "Operation Entebbe",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Entebbe"
+    },
+    {
+      "id": "wiki-forrestal",
+      "name": "C-130 carrier landing trials",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_C-130_Hercules#Notable_accidents_and_incidents"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Lockheed C-130 Hercules",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_C-130_Hercules"
+    },
+    {
+      "name": "Lockheed Martin - C-130J Super Hercules",
+      "url": "https://www.lockheedmartin.com/en-us/products/c130.html"
+    },
+    {
+      "name": "US Air Force - C-130 Hercules fact sheet",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/1555054/c-130-hercules/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Removed the trial wikipediaSummary field (and the \"Wikipedia Article\" tab it triggered) - it was the only entry in the database carrying this experimental field, creating a one-off inconsistency versus all other 55 entries which don't have this tab. The feature can be reintroduced database-wide later if desired.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed the same hero-image conflict as the Avro Arrow entry above - an extra untitled photo in the hero/ folder was overriding the documented, correctly-credited hero photo. Removed the conflicting file (it was already duplicated in the gallery) so the right photo/credit pairing displays again.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1968-05-12",
+      "title": "Kham Duc evacuation shootdown",
+      "summary": "During the evacuation of the Kham Duc Special Forces camp in South Vietnam, a USAF C-130 loaded with evacuees was hit by heavy machine-gun fire on takeoff and crashed near the airstrip, killing around 155 people, mostly South Vietnamese civilians.",
+      "fatalities": 155,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/1968_Kham_Duc_C-130_shootdown"
+    },
+    {
+      "date": "1971-11-09",
+      "title": "RAF Hercules lost off Pisa with Italian paratroopers",
+      "tag": "Crash into the sea",
+      "summary": "An RAF Hercules came down in the sea shortly after taking off from Pisa on a parachute exercise, killing all 46 people aboard - most of them Italian paratroopers.",
+      "fatalities": 46,
+      "source": "https://en.wikipedia.org/wiki/1971_RAF_Hercules_crash"
+    },
+    {
+      "date": "1981-09-29",
+      "title": "Iranian C-130 crash near Kahrizak",
+      "tag": "Loss of control",
+      "summary": "An Iranian Air Force Hercules came down near Tehran carrying much of the country's military leadership, killing the defence minister, the armed forces chief of staff and around eighty others in the middle of the Iran-Iraq war.",
+      "fatalities": 80,
+      "source": "https://en.wikipedia.org/wiki/1981_Iranian_Air_Force_C-130_crash"
+    },
+    {
+      "date": "1991-10-05",
+      "title": "Jakarta crash into a residential district",
+      "tag": "Engine fire",
+      "summary": "An Indonesian Air Force Hercules caught fire after takeoff from Jakarta and came down on houses, killing 133 people on board and two on the ground.",
+      "fatalities": 135,
+      "source": "https://en.wikipedia.org/wiki/1991_Jakarta_Indonesian_Air_Force_C-130_crash"
+    },
+    {
+      "date": "1992-09-26",
+      "title": "Nigerian Air Force crash at Lagos",
+      "tag": "Multiple engine failure",
+      "summary": "Three of four engines failed three minutes after a heavily loaded takeoff from Lagos. All 158 people on board were killed, among them a large part of a generation of young Nigerian officers - the deadliest C-130 accident.",
+      "fatalities": 158,
+      "source": "https://en.wikipedia.org/wiki/1992_Nigerian_Air_Force_C-130_crash"
+    },
+    {
+      "date": "1994-03-23",
+      "title": "Green Ramp disaster at Pope AFB",
+      "summary": "An F-16 collided with a C-130E on approach to Pope Air Force Base and then crashed into the 'Green Ramp' flight line where paratroopers were staged, igniting a fireball that killed 24 ground personnel.",
+      "fatalities": 24,
+      "tag": "Mid-air collision / ground fire",
+      "source": "https://en.wikipedia.org/wiki/Green_Ramp_disaster"
+    },
+    {
+      "date": "2005-01-30",
+      "title": "The loss of RAF Hercules XV179",
+      "summary": "An RAF C-130K was shot down by ground fire north of Baghdad, killing all ten aboard - the RAF's largest single loss of life since 1982, driven partly by the absence of explosion-suppressant fuel-tank foam.",
+      "fatalities": 10,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/2005_Royal_Air_Force_Hercules_shootdown"
+    },
+    {
+      "date": "2005-12-06",
+      "title": "Tehran crash into an apartment block",
+      "tag": "Engine failure",
+      "summary": "An Iranian Air Force Hercules carrying journalists struck a ten-storey apartment building in Tehran after an engine failure, killing everyone aboard and dozens of residents.",
+      "fatalities": 106,
+      "source": "https://en.wikipedia.org/wiki/Iranian_Air_Force_C-130_crash_in_Tehran"
+    },
+    {
+      "date": "2009-05-20",
+      "title": "Magetan crash into homes",
+      "tag": "Loss of control",
+      "summary": "An Indonesian Air Force L-100 carrying 112 soldiers and their families struck houses and slid into a rice paddy near Iswahyudi air base in East Java. 99 people were killed; the Air Force said the cause was unlikely ever to be made public.",
+      "fatalities": 99,
+      "source": "https://en.wikipedia.org/wiki/2009_Indonesian_Air_Force_L-100_crash"
+    },
+    {
+      "date": "2011-07-26",
+      "title": "Royal Moroccan Air Force crash near Guelmim",
+      "tag": "Controlled flight into terrain",
+      "summary": "A Moroccan Hercules flew into mountainous ground in bad weather in southern Morocco, killing 78 of the 81 people aboard - the country's worst military air disaster.",
+      "fatalities": 78,
+      "source": "https://en.wikipedia.org/wiki/2011_Royal_Moroccan_Air_Force_Lockheed_C-130_Hercules_crash"
+    },
+    {
+      "date": "2015-06-30",
+      "title": "Medan crash into a residential area",
+      "tag": "Engine failure",
+      "summary": "An Indonesian Air Force Hercules came down on a hotel and shops in Medan minutes after takeoff, killing everyone on board and many on the ground. The disaster reopened debate about the country's ageing military transport fleet.",
+      "fatalities": 110,
+      "source": "https://en.wikipedia.org/wiki/2015_Indonesian_Air_Force_Lockheed_C-130_Hercules_crash"
+    },
+    {
+      "date": "2017-07-10",
+      "title": "USMC KC-130T break-up over Mississippi",
+      "summary": "A US Marine Corps KC-130T broke up in flight and crashed near Itta Bena, Mississippi, after an improperly repaired propeller blade failed at altitude and triggered a structural failure. All 16 aboard were killed.",
+      "fatalities": 16,
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/2017_United_States_Marine_Corps_KC-130_crash"
+    },
+    {
+      "date": "2021-07-04",
+      "title": "Philippine Air Force crash at Jolo",
+      "tag": "Landing accident",
+      "summary": "A Hercules carrying troops overshot the runway at Jolo, skidded into a village and burst into flames, killing 53 people including three on the ground - the Philippines' worst military air disaster.",
+      "fatalities": 53,
+      "source": "https://en.wikipedia.org/wiki/2021_Philippine_Air_Force_C-130_crash"
+    }
+  ]
+}

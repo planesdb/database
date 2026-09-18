@@ -1,0 +1,292 @@
+{
+  "name": "F-14 Tomcat",
+  "fullName": "Grumman F-14 Tomcat",
+  "manufacturer": "Grumman",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Carrier-Based Air Superiority & Fleet Defense Fighter",
+  "tagline": "The Grumman F-14 Tomcat is a twin-engine, variable-sweep-wing carrier fighter built for the U.S. Navy to intercept Soviet bombers and missiles at long range with its AWG-9 radar and AIM-54 Phoenix missile. It served the Navy from 1974 to 2006 and remains in Iranian service today, the only country ever to fly it in combat and, after Israeli airstrikes on its base at Isfahan in March 2026, possibly the last operator of any kind.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Its AIM-54 Phoenix could hit a target 100 nautical miles away, a reach no other US fighter weapon matched for a generation - though the missile was designed to stop Soviet bombers, not dogfight, and was rarely fired in anger.",
+    "The F-14A's Pratt & Whitney TF30 engines were originally designed for a bomber and stalled easily at high angles of attack - the Navy's own secretary called the engine/airframe combination 'probably the worst mismatch we have had in years', and engine failure caused 28 percent of F-14 losses.",
+    "Iran remains the only country to have flown the Tomcat in combat, claiming over 50 confirmed kills against Iraq in the 1980s while getting almost no spare parts from anyone.",
+    "Top Gun (1986) made the F-14 a cultural icon years before its most demanding work - striking targets in Afghanistan and Iraq with laser-guided bombs - even began.",
+    "The last US Navy Tomcat flew its final combat mission over Iraq on 8 February 2006 and the type formally retired that September, replaced by the F/A-18E/F Super Hornet.",
+    "Every retired US airframe was ordered smelted rather than sold or displayed as surplus, specifically to stop parts reaching Iran's fleet through the used-parts market."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the F-14D, the definitive re-engined production standard. The F-14A that equipped most of the US fleet and the whole Iranian fleet flew a materially weaker Pratt & Whitney TF30 engine - see Design & Engineering.",
+    "maxSpeed": {
+      "mph": 1544,
+      "text": "1,342 kn (1,544 mph / 2,485 km/h)"
+    },
+    "cruiseSpeed": "Mach 0.72 economical cruise",
+    "range": {
+      "miles": 1864,
+      "text": "1,864 mi (3,000 km, 1,620 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 56000,
+      "text": "56,000 ft (17,070 m)"
+    },
+    "wingspan": {
+      "ft": 64.1,
+      "text": "64 ft 1 in (19.55 m) spread; 38 ft 2 in (11.65 m) fully swept"
+    },
+    "length": {
+      "ft": 62.7,
+      "text": "62 ft 8 in (19.10 m)"
+    },
+    "height": {
+      "ft": 16,
+      "text": "16 ft 0 in (4.88 m)"
+    },
+    "weight": "empty: 43,740 lb (19,840 kg); MTOW: 74,340 lb (33,720 kg)",
+    "engines": "2 x General Electric F110-GE-400 afterburning turbofans, 27,000 lbf (120 kN) each (F-14B/D); the original F-14A flew 2 x Pratt & Whitney TF30-P-412A turbofans of 20,900 lbf (93 kN) each",
+    "crew": "2 (pilot and radar intercept officer)",
+    "capacity": "Up to 14,500 lb (6,577 kg) of ordnance on six external hardpoints - typically a mix of AIM-54 Phoenix, AIM-7 Sparrow and AIM-9 Sidewinder missiles - plus one 20mm M61A1 Vulcan cannon with 675 rounds",
+    "firstFlight": {
+      "date": "1970-12-21",
+      "year": 1970
+    },
+    "serviceEntryDate": "1974-09-22",
+    "retiredDate": "2006 (US Navy); Iran, the sole remaining operator, had its fleet struck by Israel in March 2026 - whether any airframes still fly is unconfirmed",
+    "numberBuilt": 712,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed as a clean flyaway figure - Iran's 1974 order for 80 aircraft, spares, training and Phoenix missiles was valued at almost $2 billion in then-year dollars, of which about $1.8 billion covered the airframes alone"
+    }
+  },
+  "variants": [
+    {
+      "code": "F-14A",
+      "desc": "The original production version and by far the most numerous, powered by Pratt & Whitney TF30-P-412A engines. It equipped the US Navy from 1974 and was the only version Iran ever received - 79 aircraft delivered by 1979. The TF30's tendency to stall at high angle of attack made engine failure the leading cause of F-14 losses, and most of the 632 F-14As built were retired well before airframe fatigue life ran out."
+    },
+    {
+      "code": "F-14B",
+      "desc": "A TF30-to-F110 re-engining of the F-14A airframe, restoring the thrust and reliability the original engine never delivered. Thirty-two new-build aircraft were completed alongside 48 A-model conversions from 1987, and the type served through Operation Desert Storm before retiring from active squadrons in the early 2000s."
+    },
+    {
+      "code": "F-14D Super Tomcat",
+      "desc": "The definitive version, combining F110-GE-400 engines with the AN/APG-71 digital radar, digital avionics and a glass cockpit in place of the analogue AWG-9 fit. Only 37 were newly built and 18 converted from F-14As before production ended in 1992; it was the last variant flying and equipped the final US Navy squadron, VF-31, until 2006."
+    },
+    {
+      "code": "Persian F-14A (IRIAF)",
+      "desc": "Iran's own designation for its surviving F-14As, kept flying for over four decades on a combination of cannibalisation, reverse-engineered parts and a domestic missile programme after the 1979 revolution cut off US support entirely. Iran fitted locally developed AIM-54-equivalent missiles, notably the Fakour-90, once the original Phoenix stockpile was exhausted."
+    }
+  ],
+  "operators": [
+    {
+      "name": "US Navy",
+      "role": "Original & Primary Operator",
+      "status": "Retired",
+      "since": "1974",
+      "fleetSize": "632 total delivered (557 F-14A, 38 F-14B, 37 F-14D)",
+      "homeBase": "NAS Oceana - Virginia, USA (historic)"
+    },
+    {
+      "name": "Islamic Republic of Iran Air Force",
+      "role": "Sole Remaining Operator",
+      "status": "In Service (contested)",
+      "since": "1976",
+      "fleetSize": "Unconfirmed - fleet struck by Israel in March 2026",
+      "homeBase": "8th Tactical Air Base, Isfahan - Iran"
+    }
+  ],
+  "survivors": {
+    "intro": "The US Navy ordered its retired Tomcats demilitarised and smelted specifically to keep parts out of Iran's supply chain, so most surviving examples are static museum pieces assembled from what was allowed to remain intact.",
+    "airframes": [
+      {
+        "serial": "BuNo 164603 (\"Felix 101\") and BuNo 157982",
+        "name": null,
+        "location": "Cradle of Aviation Museum",
+        "place": "Uniondale, Long Island, New York, United States",
+        "url": "https://cradleofaviation.org/",
+        "note": "The museum holds two Tomcats built at the nearby Grumman plant: BuNo 164603, the 711th of 712 built and the last F-14 in US Navy service, retired in 2006 with VF-31 and put on outdoor display in 2023; and BuNo 157982, an F-14A pre-production aircraft first flown in December 1971 and acquired by the museum in 1995, believed to be the oldest surviving Tomcat.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 157984",
+        "name": null,
+        "location": "National Naval Aviation Museum",
+        "place": "Pensacola, Florida, United States",
+        "url": "https://www.navalaviationmuseum.org/",
+        "note": "The fifth F-14 built and one of the early test aircraft; it was the first Tomcat ever placed on public display.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "F14T",
+    "howToFind": "Retired from US service and now flown only by Iran, so it will never appear on commercial trackers - Iranian military flights are not transponder-equipped for civil tracking. The nearest thing to seeing one fly today is an airshow appearance by a preserved airframe; none are currently airworthy anywhere outside Iran."
+  },
+  "lastUpdated": "2026-09-08",
+  "changelog": [
+    {
+      "date": "2026-09-08",
+      "change": "Entry created - full article, specifications, variants, survivors and incident log written from Wikipedia, FAS, Aviationist, TWZ, 19FortyFive and named aviation-press sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-08",
+      "change": "Operators: corrected US Navy fleetSize from a placeholder 0 to its real total-delivered figure (632, per USNI), per the project's operators-research standard.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "f-14",
+    "f14",
+    "tomcat",
+    "grumman",
+    "top gun",
+    "phoenix missile",
+    "awg-9",
+    "iran air force",
+    "swing wing",
+    "variable sweep",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The Grumman F-14 Tomcat is a twin-engine, variable-sweep-wing fighter built for the US Navy as a carrier-based interceptor, armed with the AN/AWG-9 radar and AIM-54 Phoenix missile to stop Soviet bombers and cruise missiles before they could threaten a carrier group. It first flew on 21 December 1970 and entered service on 22 September 1974, replacing the F-4 Phantom II aboard USS Enterprise. {{ref:wiki-f14}}",
+      "The US Navy retired its last Tomcat on 22 September 2006 after 712 were built, but the aircraft did not disappear with it: Iran bought 80 in 1974, kept dozens flying through four decades of sanctions with no US support, and used them in the only sustained air combat the type has ever seen. Israeli airstrikes on Iran's F-14 base at Isfahan in March 2026 may have brought that second career to an end, though independent confirmation is still lacking. {{ref:twz-isfahan}} {{ref:ff19-aug2026}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins: the F-111B's Replacement",
+        "paragraphs": [
+          "The Tomcat exists because the F-111B did not work. The Navy had been pressed into a joint fighter programme with the Air Force's F-111 in the early 1960s, and the carrier-based B model came out overweight and short on the manoeuvrability a fleet-defence fighter needed. The Navy killed the F-111B in 1968 and issued its own Naval Fighter Experimental requirement the same year, calling for a tandem two-seat, twin-engine fighter capable of Mach 2.2 that could still operate off a carrier deck. Grumman won the contract, and much of the F-111B's most useful work survived into the new design: its AWG-9 radar and Phoenix missile system carried straight across. {{ref:wiki-f14}}",
+          "The variable-sweep wing was the piece that made both requirements possible at once. Swept back to 68 degrees it cut drag for supersonic dashes; spread to 20 degrees it gave the low-speed lift a carrier landing demands, and could overswing to 75 degrees on deck purely to save parking space. A Central Air Data Computer moved the wings automatically through the flight envelope, a refinement the F-111B never had - that aircraft's fixed geometry had needed draggy swiveling pylons just to carry weapons at all sweep angles. {{ref:wiki-f14}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The AWG-9's 36-inch planar array could track 24 targets and engage six simultaneously in track-while-scan mode out to 60 nautical miles, and the AIM-54 Phoenix it guided reached 110 nautical miles in April 1973 testing - in November that year a single Tomcat fired six Phoenixes in 38 seconds and scored four hits. No other fighter weapon of the era matched that reach, though the Phoenix was built to kill bombers on a predictable course, not to win a dogfight, and Tomcat crews still trained hard on close-in air combat with the Sidewinder and the internal cannon. {{ref:wiki-f14}}",
+          "The F-14A's weakness was its engines. The Pratt & Whitney TF30 had been designed for the F-111's bomber-like flight envelope, not for a fighter pulling hard turns at high angle of attack, and it stalled easily when pushed there - Navy Secretary John Lehman called the TF30/F-14 pairing 'probably the worst engine/airframe mismatch we have had in years', and engine failure caused 28 percent of all Tomcat losses. {{ref:wiki-f14}} The General Electric F110 fitted to the F-14B and F-14D fixed it: 27,000 lbf per engine against the TF30's 20,900 lbf, a 61 percent faster climb, and reliable cruise above 30,000 ft that the TF30 could rarely sustain."
+        ]
+      },
+      {
+        "heading": "Iran's Tomcats",
+        "paragraphs": [
+          "The Shah of Iran ordered 30 F-14s in January 1974 and expanded the order to 80 within months, alongside 714 Phoenix missiles, worth close to $2 billion with support and training included; 79 had been delivered by the time the 1979 revolution ended the relationship and cut Iran off from US spares entirely. {{ref:ff19-cost}} Iran flew the F-14A - it never received the B or D - and kept a meaningful number airworthy for over 40 years afterward through cannibalisation, black-market parts and a domestic weapons programme that eventually produced the Fakour-90, a locally built Phoenix equivalent. {{ref:wiki-f14}}",
+          "The only sustained combat the Tomcat has ever flown was Iran's, against Iraq from 1980 to 1988. Iran claims more than 160 Iraqi aircraft shot down, with researcher Tom Cooper independently confirming at least 15 MiG-23 kills; Iran's own losses are put at 10 to 16 aircraft, split between air combat, surface-to-air missiles and accidents. Jalil Zandi, credited with 11 confirmed kills, was the highest-scoring Tomcat pilot ever. {{ref:wiki-f14}} US retirees were smelted rather than sold as surplus specifically to keep parts from reaching Iran through the second-hand market."
+        ]
+      },
+      {
+        "heading": "US Combat & the 'Bombcat'",
+        "paragraphs": [
+          "The Tomcat's US combat record was thin next to Iran's. Navy F-14s shot down two Libyan Su-22s over the Gulf of Sidra on 19 August 1981 and two Libyan MiG-23s on 4 January 1989, and the type's only Desert Storm combat loss came on 21 January 1991, when a TF30-powered F-14A was hit by an SA-2 missile near Al Asad; both crew survived and were recovered. {{ref:wiki-f14}} For most of the Cold War the Tomcat was a pure interceptor with no air-to-ground capability at all.",
+          "That changed after Desert Storm, when LANTIRN targeting pods and later JDAM integration, cleared on 15 February 2001, turned the Tomcat into a strike aircraft crews nicknamed the 'Bombcat'. F-14s flew among the first strikes of Operation Enduring Freedom on 7 October 2001, a role the airframe had never been designed for and that extended its useful life into the early 2000s even as its air-to-air role was being handed to the Super Hornet. {{ref:wiki-f14}}"
+        ]
+      },
+      {
+        "heading": "Top Gun & Cultural Reach",
+        "paragraphs": [
+          "Top Gun (1986) fixed the F-14 in popular culture years before its most demanding operational years even began, and the film's success is credited with a genuine bump in Navy recruiting - a marketing effect no other US military aircraft has matched. The aircraft the public associates with the film was, at that point, still flying underpowered TF30 engines and had yet to drop a single guided bomb.",
+          "The gap between the Hollywood image and the maintenance reality was real. A Tomcat needed a notoriously high number of maintenance hours for every hour flown, and its complexity was itself an argument for retiring it in favour of the cheaper, more reliable Super Hornet once the Cold War threat the AWG-9/Phoenix combination was built to counter had gone."
+        ]
+      },
+      {
+        "heading": "Retirement, and a Contested Second Ending",
+        "paragraphs": [
+          "The US Navy flew its last F-14 combat mission over Iraq on 8 February 2006 and formally retired the type on 22 September 2006 at NAS Oceana, replaced entirely by the F/A-18E/F Super Hornet. {{ref:wiki-f14}} That left Iran as the sole operator, flying an aircraft no manufacturer or parts supplier would sell it, on airframes now more than 45 years old.",
+          "In March 2026, amid the wider Israeli and US air campaign against Iran, the Israeli Air Force struck Iran's 8th Tactical Air Base at Isfahan, the last known home of its F-14 fleet, and stated explicitly that F-14s were among the targets; satellite imagery showed multiple destroyed aircraft and extensive taxiway cratering, though the exact number of Tomcats hit was never confirmed. {{ref:twz-isfahan}} Iranian state media released footage in June 2026 purportedly showing a Tomcat returning from a mission, but its authenticity and date are disputed, and no independent source has confirmed an Iranian F-14 flew during the 2026 conflict. As of August 2026 whether any airworthy Tomcat remains anywhere in the world was, by design of both sides' silence, simply unknown. {{ref:ff19-aug2026}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f14",
+      "name": "Grumman F-14 Tomcat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat"
+    },
+    {
+      "id": "twz-isfahan",
+      "name": "Iranian F-14 Tomcats Meet Their Doom In Israeli Airstrikes",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/iranian-f-14-tomcats-meet-their-doom-in-israeli-airstrikes"
+    },
+    {
+      "id": "ff19-aug2026",
+      "name": "Top Gun, Tehran-Style: Iran Spent Billions on New F-14 Tomcats Like Maverick Flew, But No One Knows If They Still Fly",
+      "publisher": "19FortyFive",
+      "url": "https://www.19fortyfive.com/2026/08/top-gun-tehran-style-iran-spent-billions-of-new-f-14-tomcats-like-maverick-flew-but-no-one-knows-if-still-fly/"
+    },
+    {
+      "id": "ff19-cost",
+      "name": "Iran Spent $2,000,000,000 for 80 F-14 Tomcat Fighter Planes Made in the USA and No One Knows How Many Are Still Flying Today",
+      "publisher": "19FortyFive",
+      "url": "https://www.19fortyfive.com/2026/08/iran-spent-2000000000-for-80-f-14-tomcat-fighter-planes-made-in-the-usa-and-no-one-know-how-many-are-still-flying-today/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "The War Zone - Iranian F-14 Tomcats Meet Their Doom In Israeli Airstrikes",
+      "url": "https://www.twz.com/air/iranian-f-14-tomcats-meet-their-doom-in-israeli-airstrikes"
+    },
+    {
+      "name": "The Aviationist - Israeli Air Force Strikes Iranian F-14 Tomcat Fleet at Isfahan Air Base",
+      "url": "https://theaviationist.com/2026/03/08/iranian-f-14-fleet-update/"
+    },
+    {
+      "name": "Cradle of Aviation Museum",
+      "url": "https://cradleofaviation.org/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1981-08-19",
+      "title": "Gulf of Sidra shootdown of two Libyan Su-22s",
+      "tag": "Air-to-air combat",
+      "summary": "Two VF-41 F-14s engaged two Libyan Su-22 Fitters that had fired first during a freedom-of-navigation exercise over the Gulf of Sidra, downing both with AIM-9L Sidewinders - the type's first confirmed US air-to-air kills.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat"
+    },
+    {
+      "date": "1989-01-04",
+      "title": "Gulf of Sidra shootdown of two Libyan MiG-23s",
+      "tag": "Air-to-air combat",
+      "summary": "Two VF-32 F-14s shot down two Libyan MiG-23 Floggers that manoeuvred aggressively toward them over international waters, the second and last confirmed US Tomcat air-to-air victory.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat"
+    },
+    {
+      "date": "1991-01-21",
+      "title": "Only US combat loss, Operation Desert Storm",
+      "tag": "Shot down by SAM",
+      "summary": "An F-14A flying an escort mission near Al Asad airbase in Iraq was hit by an SA-2 surface-to-air missile. Both crew ejected; the pilot was rescued by US Air Force special operations forces, marking the Navy's only Tomcat combat loss of the war.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat"
+    },
+    {
+      "date": "2006-09-22",
+      "title": "US Navy retires the F-14",
+      "tag": "Retirement",
+      "summary": "The Tomcat formally retired from US Navy service at NAS Oceana, replaced by the F/A-18E/F Super Hornet, five months after its final combat mission over Iraq. The Navy subsequently ordered retired airframes demilitarised and smelted to prevent parts reaching Iran.",
+      "source": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat"
+    },
+    {
+      "date": "2026-03-08",
+      "title": "Israeli airstrikes on Iran's F-14 base at Isfahan",
+      "tag": "Destroyed on the ground (disputed extent)",
+      "summary": "The Israeli Air Force struck the 8th Tactical Air Base at Isfahan, home to Iran's remaining F-14 fleet, and stated F-14s were targeted. Satellite imagery showed at least two to three Tomcats destroyed along with other aircraft, but the full extent of losses to the fleet was not independently confirmed, and Iran disputed the claim without providing verified evidence of surviving aircraft.",
+      "fatalities": 0,
+      "source": "https://www.twz.com/air/iranian-f-14-tomcats-meet-their-doom-in-israeli-airstrikes"
+    }
+  ]
+}

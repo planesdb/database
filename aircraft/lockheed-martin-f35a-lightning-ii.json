@@ -1,0 +1,523 @@
+{
+  "name": "F-35A Lightning II",
+  "fullName": "Lockheed Martin F-35A Lightning II",
+  "manufacturer": "Lockheed Martin",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Stealth Multirole Fighter",
+  "tagline": "The cornerstone of 5th-generation global air power and sensor fusion. As the conventional takeoff and landing variant of the Joint Strike Fighter family, it is the primary multirole fighter for the United States Air Force and numerous allied nations.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "Born from the Joint Strike Fighter (JSF) program initiated in the 1990s, Lockheed Martin's X-35 prototype defeated Boeing's X-32 to secure the definitive development contract. The first production-representative F-35A logged its maiden flight on December 15, 2006. After extensive testing, software updates, and manufacturing refinements, the U.S. Air Force officially declared Initial Operating Capability (IOC) for the F-35A on August 2, 2016. The program has scaled into the largest military procurement in history, acting as a unified standard for NATO and global allies, despite drawing notable early scrutiny for long development delays and lifecycle sustainment costs.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1200,
+      "text": "1,043 kn (1,200 mph / 1,931 km/h)"
+    },
+    "cruiseSpeed": "~700 mph (Mach 0.95)",
+    "range": {
+      "miles": 1350,
+      "text": "1,350 mi unrefueled (1,150 nmi) combat radius on internal fuel"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft"
+    },
+    "wingspan": {
+      "ft": 35,
+      "text": "35 ft 0 in (10.7 m)"
+    },
+    "length": {
+      "ft": 51.3,
+      "text": "51 ft 4 in (15.7 m)"
+    },
+    "height": {
+      "ft": 14.3,
+      "text": "14 ft 4 in (4.38 m)"
+    },
+    "weight": "empty: 28,999 lb (13,154 kg); MTOW: 65,918 lb (29,900 kg)",
+    "engines": "1 x Pratt & Whitney F135-PW-100 afterburning turbofan (43,000 lbf max thrust)",
+    "armament": "1 x 25mm GAU-22/A 4-barrel cannon; internal bays holding AIM-120 AMRAAM, JDAM, JSOW; external hardpoints for expanded missile and bomb carriage ('Beast Mode')",
+    "crew": "1 (pilot)",
+    "capacity": "Up to 18,000 lb (8,100 kg) of weapons payload (internal and external)",
+    "firstFlight": {
+      "date": "2006-12-15",
+      "year": 2006
+    },
+    "serviceEntryDate": "2016-08-02",
+    "retiredDate": null,
+    "numberBuilt": 1325,
+    "unitCost": {
+      "usd": 102900000,
+      "text": "$82.5M flyaway airframe + $20.4M F135 engine (Lots 15-17 average)"
+    },
+    "combatLosses": "Zero F-35s of any variant have been lost to enemy fire to date. All confirmed F-35A hull losses are accidents: 1 destroyed at Eglin AFB, FL on 19 May 2020 (excess landing speed + flight-control glitch, pilot ejected safely) and 1 destroyed at Eielson AFB, AK on 28 Jan 2025 (landing-gear hydraulic icing, pilot ejected safely). A well-publicized September 2023 South Carolina ejection involved an F-35B, not an F-35A, and is not counted here."
+  },
+  "variants": [
+    {
+      "code": "F-35A",
+      "desc": "Conventional Takeoff and Landing (CTOL) variant. The only model with an internal cannon, highly utilized by air forces worldwide."
+    },
+    {
+      "code": "F-35B",
+      "desc": "Short Takeoff and Vertical Landing (STOVL) variant utilized by the USMC, Royal Air Force, and Italian Navy, featuring a specialized lift-fan mechanism."
+    },
+    {
+      "code": "F-35C",
+      "desc": "Carrier Variant (CV) featuring larger folding wings, heavy-duty landing gear, and a tailhook system tailored for US Navy catapult operations."
+    },
+    {
+      "code": "F-35I 'Adir'",
+      "desc": "Customized Israeli Air Force model allowing localized integration of proprietary electronic warfare systems, weapons, and software suites."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "443 operational against a planned buy of 1,763 - the largest F-35A programme by an order of magnitude",
+      "homeBase": "Hill AFB, Luke AFB, Nellis AFB, Eglin AFB, RAF Lakenheath",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "Largest Export Operator",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "105 F-35A ordered, 40 operational; final assembly at Nagoya",
+      "homeBase": "Misawa Air Base, Japan"
+    },
+    {
+      "name": "Israeli Air Force (F-35I Adir)",
+      "role": "First Combat Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "75 ordered, 42 operational; the only customer permitted to fit its own systems to the aircraft",
+      "homeBase": "Nevatim Airbase, Israel",
+      "logo": "israeli-air-force.webp"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "International Partner Operator",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "72 ordered and all 72 delivered",
+      "homeBase": "RAAF Base Williamtown & Tindal",
+      "logo": "raaf.webp"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "60 ordered, 39 operational",
+      "homeBase": "Cheongju Air Base, South Korea"
+    },
+    {
+      "name": "Royal Netherlands Air Force",
+      "role": "International Partner Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "58 ordered, 49 operational",
+      "homeBase": "Leeuwarden Air Base & Volkel Air Base",
+      "logo": "royal-netherlands-af.webp"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "International Partner Operator",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "75 ordered, 42 operational; assembled at Cameri, the only F-35 line outside the United States",
+      "homeBase": "Amendola Air Base, Italy",
+      "logo": "italian-air-force.webp"
+    },
+    {
+      "name": "Royal Norwegian Air Force",
+      "role": "International Partner Operator",
+      "status": "In Service",
+      "since": "2017",
+      "fleetSize": "52 delivered and operational - the first European partner to reach full fleet strength",
+      "homeBase": "Orland Air Station, Norway"
+    },
+    {
+      "name": "Royal Danish Air Force",
+      "role": "International Partner Operator",
+      "status": "In Service",
+      "since": "2021",
+      "fleetSize": "43 ordered (27 plus a further 16 approved in October 2025), 17 delivered",
+      "homeBase": "Skrydstrup Air Base, Denmark"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "International Partner Operator",
+      "status": "On Order",
+      "since": "2026",
+      "fleetSize": "88 ordered, first aircraft due 2026",
+      "homeBase": "CFB Cold Lake and CFB Bagotville, Canada"
+    },
+    {
+      "name": "Belgian Air Component",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2023",
+      "fleetSize": "34 ordered, 4 operational",
+      "homeBase": "Florennes Air Base, Belgium"
+    },
+    {
+      "name": "Polish Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2024",
+      "fleetSize": "32 ordered, 3 operational",
+      "homeBase": "Lask Air Base, Poland"
+    },
+    {
+      "name": "Six further European and Asian customers",
+      "role": "Export Customers",
+      "status": "On Order",
+      "since": "2020s",
+      "fleetSize": "Finland (64), Switzerland (36), Germany (35), Romania (32), Czech Republic (24), Greece (20) and Singapore (8), delivering from 2026",
+      "homeBase": "Various"
+    },
+    {
+      "name": "Turkish Air Force",
+      "role": "Removed Partner",
+      "status": "Cancelled",
+      "since": "2002 (partner) - 2019 (removed)",
+      "fleetSize": "100 planned; Turkey was expelled in July 2019 over its S-400 purchase and the six aircraft built remain in US storage",
+      "homeBase": "Never delivered"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F35",
+    "howToFind": "Search Flightradar24 for the ICAO type identifier 'F35'. They are often found conducting training sorties around massive operational hubs such as Hill AFB (Utah), Luke AFB (Arizona), or RAF Lakenheath (UK). Active-duty training callsigns frequently use randomized tactical names (e.g., 'HAMMER', 'TIGER', 'BOLT')."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/feed/",
+      "topicTag": "F-35"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Pentagon considers massive new order for more F-35 Lightning IIs",
+      "source": "19FortyFive",
+      "date": "2026-04-01",
+      "category": "Program Update",
+      "url": "https://www.19fortyfive.com/2026/04/the-u-s-military-wants-to-place-a-massive-order-for-more-f-35-lightning-ii-stealth-fighters/"
+    },
+    {
+      "title": "F-35 programme chief warns fleet has outgrown its support system amid record-low readiness",
+      "source": "Military Times",
+      "date": "2026-06-24",
+      "category": "Readiness",
+      "url": "https://www.militarytimes.com/news/your-military/2026/06/24/f-35-program-chief-warns-fleet-has-outgrown-its-support-system-amid-record-low-readiness/"
+    }
+  ],
+  "tags": [
+    "f-35",
+    "f35",
+    "f-35a",
+    "lightning",
+    "lightning ii",
+    "stealth fighter",
+    "jsf",
+    "joint strike fighter",
+    "lockheed",
+    "usaf",
+    "5th generation"
+  ],
+  "quickFacts": [
+    "The F-35A became the first fifth-generation nuclear-capable fighter when it was certified to carry the B61-12 bomb in 2024.",
+    "It's the 'cheap' F-35: flyaway cost has dipped below $80M - less than many 4th-generation fighters.",
+    "Over 20 countries have ordered the A-model, and the 1,000th F-35 overall was delivered in 2025 - the fastest-growing fighter fleet in the world.",
+    "Unlike the B and C variants, the A has an internal 25 mm cannon and can pull the full 9g.",
+    "Even the UK - historically a B-model STOVL customer - announced in June 2025 it will buy 12 F-35As for NATO's nuclear mission.",
+    "Its single F135 engine produces more thrust than both engines of an F/A-18C combined."
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed Martin F-35A Lightning II is the conventional take-off and landing variant of the F-35 Joint Strike Fighter family, developed for the US Air Force and export customers. It is the lightest and least expensive of the three F-35 variants and the only one with an internal cannon.{{ref:wiki-f35}}",
+      "More than 1,300 F-35As fly with the US Air Force and over a dozen allied nations. In 2023 it became the first fifth-generation fighter certified to carry a US nuclear weapon, and in 2025 the United Kingdom - previously a STOVL-only F-35B customer - ordered the A-model for the first time.{{ref:twz-b61}}{{ref:armscontrol-uk}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The F-35 traces its lineage to a Pentagon accounting problem. A 1993 'Bottom-Up Review' of post-Cold War force structure killed the Air Force's Multi-Role Fighter and the Navy/Marine Corps' Advanced Attack/Fighter programs outright, folding their requirements into a new Joint Advanced Strike Technology effort. JAST's program office stood up on 27 January 1994 with an unusually blunt mandate: find one airframe family that could replace the F-16, A-10, F/A-18 and AV-8B Harrier all at once.{{ref:wiki-jsf}}",
+          "JAST absorbed a parallel short-takeoff-and-vertical-landing effort - the Common Affordable Lightweight Fighter, itself a descendant of a DARPA supersonic-STOVL study - in 1994, and the merged program formally became the Joint Strike Fighter during its engineering and manufacturing phase. In November 1996 the Pentagon down-selected to two contractors to build flying demonstrators: Lockheed Martin's X-35 and Boeing's X-32.{{ref:wiki-jsf}}",
+          "The X-35A first flew from Palmdale, California on 24 October 2000, and over the following year Lockheed's team - working with Northrop Grumman and BAE Systems - proved the same basic airframe could do conventional takeoffs, carrier landings and vertical STOVL flight with a shaft-driven lift fan. On 26 October 2001 the Pentagon picked Lockheed Martin's design over Boeing's, in what was then the richest contract in military history.{{ref:lm-win}}"
+        ]
+      },
+      {
+        "heading": "Development, Cost & Modernization",
+        "paragraphs": [
+          "The first F-35A, tail number AA-1, flew on 15 December 2006 from Lockheed's Fort Worth plant, and the Air Force declared Initial Operational Capability with the 34th Fighter Squadron at Hill AFB, Utah on 2 August 2016 - nearly a decade later, after a development program that repeatedly blew through its own cost and schedule baselines.{{ref:lm-firstflight}}{{ref:usni-ioc}}",
+          "Sustainment, not development, has proven the program's more durable headache. The Autonomic Logistics Information System (ALIS), meant to automate maintenance scheduling and parts tracking fleet-wide, became notorious for feeding crews inaccurate data that maintainers ended up re-tracking by hand in spreadsheets - so much so that the Pentagon began replacing it in 2021 with a leaner, faster Operational Data Integrated Network (ODIN), completing the first hardware rollout across squadrons in January 2022.{{ref:defensenews-odin}}{{ref:gao-alis}}",
+          "The current modernization wave, Block 4, rides on a hardware and software package called Technology Refresh 3 (TR-3) - new mission computers, a much bigger cockpit display processor, and expanded memory needed to support new weapons and sensor upgrades. TR-3's own certification problems froze deliveries for roughly a year before the first upgraded jets, still in a stripped-down 'training-only' configuration, began shipping in July 2024.{{ref:lm-tr3}} GAO's recurring 'F-35 Sustainment' reports have chronicled the fallout in blunt terms: total life-cycle costs, once projected at $1.1 trillion in 2018, had grown to $1.58 trillion by 2023 - pushing the program's combined acquisition-plus-sustainment bill past $2 trillion even as the Pentagon plans to fly the jets less to save money.{{ref:gao-blog}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Of the three Lightning II variants, the F-35A is the one built with the fewest compromises for anything other than flying and fighting. It skips the F-35B's shaft-driven lift fan and roll posts and the F-35C's reinforced carrier landing gear, oversized folding wings and tailhook, which lets it carry the family's largest internal fuel fraction relative to its size, keep its empty weight the lowest of the three, and hold the lowest flyaway unit cost by a wide margin.{{ref:jalopnik-variants}}",
+          "It is also the only F-35 variant built around an internal gun: a four-barrel GAU-22/A 25mm rotary cannon buried in the left wing root, firing through a door that opens only when the trigger is pulled to preserve the jet's stealth shaping. The B and C models instead carry an external, removable gun pod slung under the fuselage - a concession to internal volume that both give up in exchange for their STOVL and carrier hardware.{{ref:twz-gunpods}} The A-model is stressed to a full 9g, the highest structural limit in the family, reflecting its role as the closest thing to a straight air-superiority replacement for the F-16.{{ref:f16net-forum}}",
+          "Underneath the shared stealth shaping, all three variants lean on the same sensor architecture: a Northrop Grumman AN/APG-81 AESA radar with more than 1,600 transmit-receive modules, a chin-mounted Electro-Optical Targeting System (EOTS) for infrared search-and-track and laser designation, and the AN/AAQ-37 Distributed Aperture System - six infrared cameras giving the pilot an unbroken 360-degree view through the airframe itself. The mission computer fuses all of it, plus off-board data, into a single tactical picture rather than a cockpit full of separate displays - the capability pilots and officials routinely describe as a 'god's-eye view' of the fight.{{ref:list25-fusion}}",
+          "That gun wasn't trouble-free in service. Pentagon testers flagged 'unacceptable' accuracy in the F-35A's cannon as late as 2019, tracing the fault to misaligned gun mounts and cracked skin panels near the muzzle after live firing; software and hardware fixes through the early 2020s eventually brought it up to what the Joint Program Office called an 'effective' standard by 2024.{{ref:twz-cannon}}"
+        ]
+      },
+      {
+        "heading": "Combat & Operational History",
+        "paragraphs": [
+          "The F-35's combat debut belonged to Israel, not the United States. On 22 May 2018, Israeli Air Force chief Maj. Gen. Amikam Norkin told an international gathering of air force commanders in Herzliya that his F-35I Adirs - a heavily Israeli-modified F-35A variant with locally integrated electronic warfare and weapons - had already flown live strikes in the region, the first F-35 combat missions anywhere in the world.{{ref:npr-2018}}",
+          "The Adir remains the most combat-tested F-35 in the world. Israel has since publicly acknowledged additional operational use of the type, including strikes tied to its long-running campaign against Iranian-linked targets and, in June 2025, a large air campaign against Iran's nuclear and military infrastructure that involved F-35Is alongside other IAF strike aircraft.{{ref:yahoo-iran}} Beyond Israel, F-35As now fly with the US Air Force and more than a dozen partner nations - Norway, the Netherlands, Australia, Japan, South Korea, Poland, Italy, Belgium, Denmark, Finland and others - forming the backbone of NATO and allied fifth-generation airpower even where combat use has not been publicly reported.",
+          "US Air Force F-35As have suffered mishaps rather than combat losses. On 19 May 2020, a 58th Fighter Squadron jet at Eglin AFB, Florida crashed on landing after the pilot - fatigued and distracted by a misaligned helmet display - came in roughly 50 knots too fast, compounded by a previously unknown flight-control logic fault; the pilot ejected safely and the $176 million aircraft was destroyed.{{ref:airforcetimes-eglin}} Almost five years later, on 28 January 2025, an F-35A at Eielson AFB, Alaska suffered landing-gear icing after water-contaminated hydraulic fluid froze in flight; after a 50-minute airborne consultation with Lockheed engineers failed to resolve it, the pilot ejected in a widely shared video, and the jet - valued at roughly $200 million - was destroyed.{{ref:alaskasnews-eielson}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Legacy",
+        "paragraphs": [
+          "The F-35A is, by numbers alone, the most successful fifth-generation fighter program in history: more than 1,300 delivered, over 20 nations committed as customers, and the wider F-35 fleet passing its 1,000th airframe milestone in 2025 even as GAO continued flagging cost and schedule problems in back-to-back annual reports. On 12 October 2023 it became the first fifth-generation fighter certified to carry the B61-12 nuclear gravity bomb - a certification unique to the A-model, since neither the F-35B nor F-35C is cleared for the nuclear mission.{{ref:twz-b61}}",
+          "That distinction directly shaped one of 2025's most notable F-35 orders. Ahead of the NATO summit in the Hague, the United Kingdom - previously an F-35B-only customer flying the type from its carriers - announced it would buy at least 12 F-35As for RAF Marham, rejoining NATO's nuclear-sharing mission for the first time since it retired its own air-launched nuclear weapons at the end of the Cold War. Buying the A-model rather than more B-model jets was also, officials noted, the cheaper option: up to 25% less per aircraft.{{ref:armscontrol-uk}}",
+          "With Block 4 modernization and Technology Refresh 3 still working through certification, and Lockheed ramping deliveries toward 170-190 jets a year, the F-35A remains the most widely ordered version of the Joint Strike Fighter among Western air forces."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f35",
+      "name": "Lockheed Martin F-35 Lightning II",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "id": "wiki-jsf",
+      "name": "Joint Strike Fighter program",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joint_Strike_Fighter_program"
+    },
+    {
+      "id": "gao-blog",
+      "name": "The F-35 Will Now Exceed $2 Trillion As the Military Plans to Fly It Less",
+      "publisher": "U.S. GAO",
+      "url": "https://www.gao.gov/blog/f-35-will-now-exceed-2-trillion-military-plans-fly-it-less"
+    },
+    {
+      "id": "gao-alis",
+      "name": "The F-35: ALIS in the Looking-Glass",
+      "publisher": "U.S. GAO",
+      "url": "https://www.gao.gov/blog/f-35-alis-looking-glass"
+    },
+    {
+      "id": "twz-b61",
+      "name": "F-35A Is Officially Certified For Nuclear Strike",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/f-35a-is-officially-certified-for-nuclear-strike"
+    },
+    {
+      "id": "armscontrol-uk",
+      "name": "UK to Purchase F-35As and Join NATO Nuclear Mission",
+      "publisher": "Arms Control Association",
+      "url": "https://www.armscontrol.org/act/2025-07/news/uk-purchase-f-35as-and-join-nato-nuclear-mission"
+    },
+    {
+      "id": "lm-win",
+      "name": "Lockheed Martin Team Wins Joint Strike Fighter Competition",
+      "publisher": "Lockheed Martin",
+      "url": "https://news.lockheedmartin.com/2001-10-26-Lockheed-Martin-Team-Wins-Joint-Strike-Fighter-Competition-Pledges-Full-Commitment-to-This-Cornerstone-of-Future-Defense-Capability"
+    },
+    {
+      "id": "lm-firstflight",
+      "name": "Lockheed Martin F-35 Lightning II Stealth Fighter Completes First Flight",
+      "publisher": "Lockheed Martin",
+      "url": "https://news.lockheedmartin.com/2006-12-15-Lockheed-Martin-F-35-Lightning-II-Stealth-Fighter-Completes-First-Flight"
+    },
+    {
+      "id": "usni-ioc",
+      "name": "U.S. Air Force Declares Initial Operational Capability on F-35A",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2016/08/02/air-force-declares-ioc-f-35a"
+    },
+    {
+      "id": "defensenews-odin",
+      "name": "Pentagon completes first phase in replacing troubled F-35 logistics system",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/air/2022/01/31/pentagon-completes-first-phase-in-replacing-troubled-f-35-logistics-system/"
+    },
+    {
+      "id": "lm-tr3",
+      "name": "Lockheed Martin Update on F-35 Technology Refresh 3",
+      "publisher": "Lockheed Martin",
+      "url": "https://www.lockheedmartin.com/en-us/news/statements-speeches/2024/lockheed-martin-update-on-f-35-technology-refresh-3.html"
+    },
+    {
+      "id": "jalopnik-variants",
+      "name": "Every Variant Of The F-35, And What Makes Them Unique",
+      "publisher": "Jalopnik",
+      "url": "https://www.jalopnik.com/2010854/every-f35-variant-explained/"
+    },
+    {
+      "id": "twz-gunpods",
+      "name": "F-35B And F-35C Use Different 25mm Gun Pods Unique To Each Variant",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/f-35b-and-f-35c-use-different-25mm-gun-pods-unique-to-each-variant"
+    },
+    {
+      "id": "f16net-forum",
+      "name": "F-35A maximum G rating",
+      "publisher": "F-16.net",
+      "url": "https://www.f-16.net/forum/viewtopic.php?t=25297"
+    },
+    {
+      "id": "list25-fusion",
+      "name": "USAF F-35A Sensor Fusion: Hunting Mobile SAMs In The Pacific",
+      "publisher": "List25",
+      "url": "https://list25.com/f35a-sensor-fusion-pacific-sams/"
+    },
+    {
+      "id": "twz-cannon",
+      "name": "F-35A's Beleaguered 25mm Cannon Is Finally \"Effective\"",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/f-35as-beleaguered-25mm-cannon-is-finally-effective"
+    },
+    {
+      "id": "npr-2018",
+      "name": "Israel Says F-35s See First-Ever Combat With IDF Over Syria",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/sections/thetwo-way/2018/05/22/613259802/israel-says-f-35s-see-first-ever-combat-with-idf-over-syria"
+    },
+    {
+      "id": "yahoo-iran",
+      "name": "Israel struck Iran with F-35I Adir stealth fighter jets",
+      "publisher": "Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/israel-struck-iran-f-35i-184402644.html"
+    },
+    {
+      "id": "airforcetimes-eglin",
+      "name": "Eglin F-35 crash resulted from tired, distracted pilot and unresponsive tail glitch",
+      "publisher": "Air Force Times",
+      "url": "https://www.airforcetimes.com/news/your-air-force/2020/10/05/eglin-f-35-crash-resulted-from-tired-distracted-pilot-and-unresponsive-tail-glitch-investigators-find/"
+    },
+    {
+      "id": "alaskasnews-eielson",
+      "name": "Cause of January F-35 crash at Eielson detailed in new report",
+      "publisher": "Alaska's News Source",
+      "url": "https://www.alaskasnewssource.com/2025/08/28/cause-january-f-35-crash-eielson-detailed-new-report/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Lockheed Martin - F-35 Lightning II official profile",
+      "url": "https://www.f35.com"
+    },
+    {
+      "name": "U.S. Air Force - F-35A Lightning II Fact Sheet",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104581/f-35a-lightning-ii/"
+    },
+    {
+      "name": "Wikipedia - Lockheed Martin F-35 Lightning II",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"
+    }
+  ],
+  "survivors": {
+    "intro": "The F-35A remains in full-rate production and active front-line service worldwide, so there are no retired or museum-preserved airframes yet - and none are expected for many years. The only F-35A prototype that might have qualified, AA-1, was not preserved: after completing 91 test flights, it was expended as a live-fire target at Naval Air Weapons Station China Lake in 2009. The handful of F-35As seen at museums, including a brief 2025 appearance at the National Museum of the U.S. Air Force for a NATO parliamentary event, are active-duty aircraft on temporary loan, not accessioned survivors.",
+    "airframes": []
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster - expanded three rows to fourteen covering every F-35A customer with ordered and delivered figures, and recorded Turkey as a removed partner.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2014-06-23",
+      "title": "Engine fire at Eglin AFB",
+      "summary": "An F-35A caught fire on the runway at Eglin Air Force Base during its takeoff roll after a fan blade in the engine failed. The pilot escaped safely but the aircraft was written off, triggering a brief fleet-wide grounding.",
+      "fatalities": 0,
+      "tag": "Engine fire",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2016-09-23",
+      "title": "Flightline fire at Mountain Home AFB",
+      "tag": "Ground fire",
+      "summary": "An F-35A was badly damaged by fire on the flightline at Mountain Home Air Force Base in Idaho. The pilot was unhurt and the airframe was later reduced to an instructional trainer rather than repaired.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2019-04-09",
+      "title": "First fatal F-35 crash, off Japan",
+      "summary": "A Japan Air Self-Defense Force F-35A crashed into the Pacific Ocean off Aomori Prefecture during a night training mission, killing the pilot. Investigators attributed the crash to spatial disorientation, and it was the first fatal crash of any F-35 variant.",
+      "fatalities": 1,
+      "tag": "Training accident",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2020-05-19",
+      "title": "Crash-landing at Eglin AFB",
+      "summary": "An F-35A crashed while landing at Eglin Air Force Base. Investigators cited pilot fatigue, an oxygen-system design flaw and unresponsive flight controls; the pilot ejected safely.",
+      "fatalities": 0,
+      "tag": "Ejection",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2022-01-04",
+      "title": "Belly landing by a South Korean F-35A",
+      "tag": "Systems failure",
+      "summary": "A Republic of Korea Air Force F-35A lost almost every system apart from the flight controls after a hydraulic failure, and the pilot put it down on its belly at Seosan air base. He walked away, and the aircraft was later written off.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2022-10-19",
+      "title": "Loss of control near Hill AFB",
+      "summary": "An F-35A departed controlled flight and crashed near Hill Air Force Base after wake turbulence from a formation exercise induced air-data system errors. The pilot ejected safely.",
+      "fatalities": 0,
+      "tag": "Flight-control issue",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2025-01-28",
+      "title": "Cold-weather hydraulic failure at Eielson AFB",
+      "summary": "An F-35A crashed at Eielson Air Force Base, Alaska after a hydraulic system failure attributed to extreme cold. The aircraft was destroyed.",
+      "fatalities": 0,
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    }
+  ]
+}

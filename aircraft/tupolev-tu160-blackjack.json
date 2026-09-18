@@ -1,0 +1,313 @@
+{
+  "name": "Tu-160 Blackjack",
+  "fullName": "Tupolev Tu-160 \"Blackjack\"",
+  "manufacturer": "Tupolev",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Supersonic Strategic Bomber / Cruise Missile Carrier",
+  "tagline": "The Tu-160 is a four-engine, variable-sweep supersonic strategic bomber built by Tupolev for the Soviet Union and flown today by Russia's Long-Range Aviation. Guinness World Records lists it as the heaviest combat aircraft ever built, and at Mach 2.05 it remains the fastest bomber in frontline service anywhere in the world.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "Guinness World Records lists the Tu-160 as the heaviest combat aircraft ever built, at a maximum takeoff weight of 606,271 lb",
+    "Russian crews call it the 'White Swan' for its anti-flash white finish; 'Blackjack' is the NATO reporting name, not one the Russians use",
+    "Between 1989 and 1990 the type set 44 world records for speed, altitude and payload in its weight class",
+    "Every airframe carries an individual name, usually of a pilot or designer - the aircraft lost in 2003 was 'Mikhail Gromov'",
+    "Ukraine inherited 19 Tu-160s when the Soviet Union broke up, scrapped 11 of them under a US-funded disarmament programme, and returned eight to Russia in 1999 to settle a natural gas debt",
+    "It has never flown into defended airspace: with no meaningful stealth shaping, Russia fires its cruise missiles from inside its own or neutral airspace rather than penetrating enemy air defences"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the standard production Tu-160 as built at Kazan. The modernised Tu-160M keeps the same airframe and dimensions but changes the radar, cockpit, defensive systems and engines.",
+    "maxSpeed": {
+      "mph": 1380,
+      "text": "1,199 kn (1,380 mph / 2,220 km/h)"
+    },
+    "cruiseSpeed": "600 mph (960 km/h), about Mach 0.9",
+    "range": {
+      "miles": 7600,
+      "text": "7,600 mi (12,300 km, 6,640 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 52000,
+      "text": "52,000 ft (16,000 m)"
+    },
+    "wingspan": {
+      "ft": 183,
+      "text": "182 ft 9 in (55.7 m) fully spread; 117 ft (35.6 m) fully swept"
+    },
+    "length": {
+      "ft": 178,
+      "text": "177 ft 6 in (54.1 m)"
+    },
+    "height": {
+      "ft": 43,
+      "text": "43 ft (13.1 m)"
+    },
+    "weight": "empty: 242,508 lb (110,000 kg); MTOW: 606,271 lb (275,000 kg)",
+    "engines": "Four Kuznetsov NK-32 afterburning turbofans, 55,100 lbf (245 kN) each in afterburner; new-build and modernised aircraft use the improved NK-32-02",
+    "armament": "Two internal rotary launchers, each holding six Kh-55SM, Kh-101 or Kh-102 cruise missiles; alternatively twelve Kh-15 short-range missiles, or free-fall bombs and naval mines",
+    "crew": "4 (pilot, co-pilot, navigator/bombardier, defensive systems operator)",
+    "capacity": "Two internal weapons bays with a combined ordnance load of 99,208 lb (45,000 kg); 286,600 lb (130,000 kg) of internal fuel",
+    "firstFlight": {
+      "date": "1981-12-18",
+      "year": 1981
+    },
+    "serviceEntryDate": "1987-04-01",
+    "retiredDate": null,
+    "numberBuilt": 41,
+    "unitCost": {
+      "usd": 240000000,
+      "text": "$240M (2018) - President Vladimir Putin gave the price of new-build aircraft as 'more than 15 billion' rubles each, which converts to roughly $240M at 2018 exchange rates",
+      "inflationText": null
+    },
+    "combatLosses": "No Tu-160 has been lost in combat. Ukraine's Operation Spiderweb drone raid of 1 June 2025 was claimed to have hit four aircraft, but satellite-imagery analysis afterwards concluded the Tu-160 fleet was largely intact."
+  },
+  "variants": [
+    {
+      "code": "Tu-160 / Tu-160S",
+      "desc": "The original production standard, built at Kazan between 1984 and 1992 and armed with the Kh-55SM nuclear cruise missile. Thirty-two serial aircraft followed nine test airframes, and the type was designed purely for the strategic nuclear mission: there was no conventional weapons capability at all until the mid-2000s. 'Tu-160S' is the internal designation used to distinguish serial aircraft from the prototypes."
+    },
+    {
+      "code": "Tu-160M",
+      "desc": "The modernisation standard agreed with the Russian defence ministry in 2002, initially covering 15 aircraft. It added conventional strike capability - the first Kh-555-capable aircraft was handed over in April 2008 - along with a new radar, updated avionics and the ability to carry the Kh-101 and Kh-102 cruise missiles. A Tu-160M with the new radar and avionics first flew in November 2014 and was delivered the following month."
+    },
+    {
+      "code": "Tu-160M (new-build)",
+      "desc": "Aircraft assembled from scratch at Kazan after production restarted, rather than converted from existing airframes. The first newly built example flew in January 2022, and officials said it contained around 80 percent new or modernised equipment, though that figure refers to systems rather than structure. Two were delivered in 2025 against a 2015 ambition of 50 aircraft and a 2018 contract for 10."
+    },
+    {
+      "code": "Tu-160M2",
+      "desc": "The most heavily reworked standard, with a glass cockpit, new communications, control and defensive systems and uprated NK-32-02 engines. A modernised Tu-160M2 made its first test flight from the Kazan Aviation Plant on 2 February 2020. Two Tu-160M2s were reported commissioned alongside two Tu-160Ms by mid-2025."
+    },
+    {
+      "code": "Proposed variants",
+      "desc": "None of these were built. The Tu-160P (also called Tu-161) was a long-range escort fighter carrying air-to-air missiles; the Tu-160PP an electronic warfare and jamming platform; the Tu-160R a strategic reconnaissance aircraft; and the Tu-160V a liquid-hydrogen-fuelled version. The Tu-160SK, displayed in 1994, was a commercial proposal to air-launch satellites from beneath the fuselage."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Russian Aerospace Forces (Long-Range Aviation)",
+      "role": "Sole Current Operator",
+      "status": "In Service",
+      "since": "1992",
+      "fleetSize": "~15-18 (Tu-160 and Tu-160M combined)",
+      "homeBase": "Engels-2 Air Base, Saratov Oblast - 121st Guards Heavy Bomber Aviation Regiment"
+    },
+    {
+      "name": "Soviet Air Forces / Long-Range Aviation",
+      "role": "Original Operator (historical)",
+      "status": "Retired (superseded by Russia, 1991)",
+      "since": "1987",
+      "fleetSize": "About 30 delivered before the Soviet collapse, split between Pryluky and Engels",
+      "homeBase": "Pryluky Air Base, Ukrainian SSR - 184th Guards Heavy Bomber Aviation Regiment"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Inherited Operator (historical)",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "19 inherited; 11 scrapped, 8 transferred to Russia in 1999, 1 preserved as a museum aircraft",
+      "homeBase": "Pryluky Air Base, Chernihiv Oblast"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "Not assigned (no civil ICAO type code; Russian strategic bombers are not registered for civil air traffic)",
+    "howToFind": "Tu-160s do not broadcast civil ADS-B and never appear directly on Flightradar24. Their movements surface indirectly - through NATO, Norwegian and British fighters scrambled to shadow them over the Norwegian and Barents Seas, and occasionally through the Il-78 tankers and Il-62 support aircraft that accompany long-range deployments, some of which do transmit."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, The Aviation Geek Club, 19FortyFive and The War Zone.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Blackjack",
+    "White Swan",
+    "Belyy Lebed",
+    "Tu160",
+    "Swing Wing"
+  ],
+  "article": {
+    "overview": [
+      "The Tu-160 is a four-engine, variable-sweep supersonic strategic bomber designed by the Tupolev bureau and built at the Kazan Aircraft Production Association. It first flew on 18 December 1981, entered service with the Soviet Long-Range Aviation in April 1987, and remains Russia's largest and fastest bomber. {{ref:wiki-tu160}}",
+      "At a maximum takeoff weight of 606,271 lb it is the heaviest combat aircraft ever built, and it carries up to 99,208 lb of cruise missiles in two internal bays. Forty-one were completed in the original 1984-1992 run; production restarted at Kazan in the 2020s, but only a handful of new aircraft have been delivered against a 2015 target of 50. {{ref:wiki-tu160}} {{ref:19fortyfive-2026}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Soviet Union launched a competition for a new supersonic strategic bomber in 1967, and reframed it in 1972 as a multi-mission requirement in response to the American B-1 programme. Tupolev's submission beat the Myasishchev M-18 and the Sukhoi T-4, and the design was accepted in 1972. Western observers first saw the aircraft in a satellite photograph taken at Zhukovsky airfield in November 1981, a month before its first flight - the source of the NATO reporting name Blackjack, which Russian crews have never used. To them it is the Belyy Lebed, the White Swan, after its anti-flash white finish. {{ref:wiki-tu160}}",
+          "Series production ran at Kazan from 1984 to 1992, delivering 32 serial aircraft behind nine test airframes. The first operational examples went to the 184th Guards Heavy Bomber Aviation Regiment at Pryluky in the Ukrainian SSR in April 1987. One of the early production aircraft was lost during manufacturer's flight tests in March 1987, though the test crew ejected. {{ref:wiki-tu160}} {{ref:agc-2003}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Tu-160 uses a blended wing-body with variable-geometry outer wing panels that sweep from 20 to 65 degrees, full-span leading-edge slats and double-slotted trailing-edge flaps. Titanium makes up about 30 percent of the structure, and the single largest component in the aircraft is the six-tonne wing sweep hinge carrier. It was the first Soviet combat aircraft to fly with a fly-by-wire control system. {{ref:wiki-tu160}}",
+          "The four NK-32 afterburning turbofans produce 245 kN each with reheat, and unlike the B-1B - whose fixed inlets cap it at Mach 1.2 - the Tu-160 kept variable intake ramps, so it can still reach Mach 2.05 at altitude. That decision cost it radar signature: the shaping reduces returns compared with earlier Soviet bombers but falls well short of genuine stealth, which is why the aircraft is used as a stand-off missile launcher rather than a penetrating bomber. Two rotary launchers in tandem weapons bays each hold six Kh-55SM, Kh-101 or Kh-102 cruise missiles, and there is no defensive gun. {{ref:wiki-tu160}} {{ref:19fortyfive-2026}}"
+        ]
+      },
+      {
+        "heading": "The Soviet Collapse & the Ukrainian Fleet",
+        "paragraphs": [
+          "When the Soviet Union dissolved in 1991, 19 of the roughly 30 delivered Tu-160s were sitting at Pryluky, inside newly independent Ukraine, which had no strategic mission for them and no money to fly them. Eleven were cut up in the late 1990s under the American-funded Nunn-Lugar Cooperative Threat Reduction programme, the first of them dismantled in November 1998. {{ref:wiki-tu160}}",
+          "Eight of the remaining aircraft were flown back to Russia in 1999 as part of a settlement of Ukraine's natural gas debt, roughly doubling the size of Russia's usable fleet at a stroke. One airframe was kept and is preserved at the Poltava Museum of Long-Range and Strategic Aviation. {{ref:wiki-tu160}}"
+        ]
+      },
+      {
+        "heading": "Combat Use",
+        "paragraphs": [
+          "The Tu-160 waited 28 years for its first combat mission, flying it on 17 November 2015 when several aircraft launched Kh-101 cruise missiles from over the Mediterranean at targets in Syria's Idlib and Aleppo provinces, alongside Tu-95MS bombers. Reports of the number of missiles fired in that opening series of strikes range from 34 to 83, with 14 targets claimed destroyed. The aircraft had been given a conventional weapons capability only in the mid-2000s; before that it was purely a nuclear platform. {{ref:wiki-tu160}}",
+          "Since 2022 it has been used the same way against Ukraine, firing Kh-101s from Russian or Caspian airspace - eight missiles aimed at Vinnytsia airport on 6 March 2022, four to six at Kyiv from over the Caspian on 26 June 2022. It has never been sent through Ukrainian air defences, and that is a deliberate limitation rather than caution: the airframe has no meaningful stealth, so its value lies entirely in the reach of the missiles it carries. Newer weapons including the Kh-BD, credited with a 6,500 km range, extend that reach further still. {{ref:wiki-tu160}} {{ref:19fortyfive-2026}}"
+        ]
+      },
+      {
+        "heading": "Records & Strategic Signalling",
+        "paragraphs": [
+          "Between 1989 and 1990 the Tu-160 set 44 world records for speed, altitude and payload in its weight class. Long-range flights have continued to serve as demonstrations since: two aircraft flew a 23-hour patrol covering 18,000 km in June 2010, two deployed 7,000 km non-stop to Chukotka in the Russian Far East in August 2018, and two flew 11,000 km non-stop to South Africa in October 2019 with air-to-air refuelling - the type's first visit to the African continent. {{ref:wiki-tu160}}",
+          "Some deployments are more pointed. Two aircraft went to Venezuela in September 2008 during a period of sharp US-Russian tension, escorted by NATO fighters for much of the Atlantic crossing, and repeated the trip in December 2018 with An-124 and Il-62 support. In October 2008 twelve Tu-160s and Tu-95s flew Russia's largest strategic exercise since 1984, including the first firing of a full Tu-160 missile load. Interceptions are routine: British and Norwegian fighters met a pair near the UK in September 2007, Danish F-16s that December, and Colombian Kfirs after two aircraft crossed into Colombian airspace without clearance in November 2013. {{ref:wiki-tu160}}"
+        ]
+      },
+      {
+        "heading": "Rebuilding the Fleet & Outlook",
+        "paragraphs": [
+          "Restarting Tu-160 production proved far harder than announcing it. Kazan had to digitise paper drawings, restore vacuum welding capability for the titanium structure and rebuild a supplier network that had been distributed across the Soviet Union. The first newly assembled aircraft flew in January 2022; two were delivered in 2025, against a 2015 ambition of 50 aircraft and a firm 2018 contract for ten, and no completion schedule for that contract has been published. President Vladimir Putin put the price of those aircraft at more than 15 billion rubles each, roughly $240M at 2018 exchange rates. {{ref:19fortyfive-2026}} {{ref:twz-costs}}",
+          "The Federation of American Scientists put the active fleet at 15 Tu-160 and Tu-160M aircraft in May 2026. Ukrainian long-range drone strikes have reached both the fleet and its production line - the Kazan plant was hit on 20 January 2025, and Operation Spiderweb struck five bomber bases on 1 June 2025 - forcing Russia to disperse its bombers and harden their bases. Modernisation is concentrated on systems rather than structure: new radar, digital cockpit, navigation, communications and countermeasures, plus NK-32-02 engines intended to improve fuel efficiency and range. {{ref:19fortyfive-2026}} {{ref:spiderweb}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-tu160",
+      "name": "Tupolev Tu-160",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+    },
+    {
+      "id": "agc-2003",
+      "name": "Blackjack Down: the tragic crash of Russian Air Force first operational Tu-160 strategic bomber",
+      "publisher": "The Aviation Geek Club",
+      "url": "https://theaviationgeekclub.com/blackjack-down-the-tragic-crash-of-russian-air-force-first-operational-tu-160-strategic-bomber/"
+    },
+    {
+      "id": "19fortyfive-2026",
+      "name": "Russia Promised 50 New Tu-160M Bombers in 2015. Ten Years Later It Has Delivered Two, and Its Whole Fleet Is 15",
+      "publisher": "19FortyFive",
+      "url": "https://www.19fortyfive.com/2026/07/russia-promised-50-new-tu-160m-bombers-in-2015-ten-years-later-it-has-delivered-two-and-its-whole-fleet-is-15/"
+    },
+    {
+      "id": "spiderweb",
+      "name": "Operation Spiderweb",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Spiderweb"
+    },
+    {
+      "id": "twz-costs",
+      "name": "Here Is What Russia's Military Aircraft And Missiles Actually Cost",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/here-is-what-russias-military-aircraft-and-missiles-actually-cost"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Tupolev Tu-160",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+    },
+    {
+      "name": "Ghost of the Cold War: Why Russia Is Building New Mach 2 Tu-160M Bombers in 2026",
+      "url": "https://www.19fortyfive.com/2026/02/ghost-of-the-cold-war-why-russia-is-building-new-mach-2-tu-160m-bombers-in-2026/"
+    },
+    {
+      "name": "Russia delivers two modernized Tu-160M strategic bombers",
+      "url": "https://www.aerotime.aero/articles/russia-delivers-tu-160m-strategic-bombers"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2003-09-18",
+      "title": "Fatal crash of 'Mikhail Gromov' near Engels",
+      "tag": "Structural failure",
+      "summary": "Tu-160 'Mikhail Gromov' of the 121st Guards Regiment left Engels-2 on a post-maintenance check flight after an engine change and broke up about 41 km from the base. A defect in the fuel tank venting system let a partial vacuum build in the wing tanks as fuel was consumed, imploding a tank and causing structural failure. All four crew were killed.",
+      "fatalities": 4,
+      "source": "https://theaviationgeekclub.com/blackjack-down-the-tragic-crash-of-russian-air-force-first-operational-tu-160-strategic-bomber/"
+    },
+    {
+      "date": "2008-09-10",
+      "title": "Deployment to Venezuela",
+      "tag": "Strategic deployment",
+      "summary": "Two Tu-160s, 'Vasily Senko' and 'Aleksandr Molodchiy', flew to Venezuela during a period of heightened US-Russian tension and were escorted by NATO fighters for much of the transatlantic crossing.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+    },
+    {
+      "date": "2010-06-10",
+      "title": "23-hour, 18,000 km record patrol",
+      "tag": "Record flight",
+      "summary": "Two Tu-160s completed a patrol lasting 23 hours and covering roughly 18,000 km, the longest sortie flown by the type and one of the longest strategic patrols on record.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+    },
+    {
+      "date": "2013-11-01",
+      "title": "Colombian airspace violation",
+      "tag": "Airspace violation",
+      "summary": "Two Tu-160s, 'Aleksandr Golovanov' and 'Aleksandr Novikov', entered Colombian airspace twice without clearance while transiting between Venezuela and Nicaragua. Colombian Air Force Kfirs intercepted them on the second occasion.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+    },
+    {
+      "date": "2015-11-17",
+      "title": "Combat debut over Syria",
+      "tag": "Combat debut",
+      "summary": "Twenty-eight years after entering service, the Tu-160 flew its first combat mission, launching Kh-101 cruise missiles from over the Mediterranean against targets in Idlib and Aleppo provinces alongside Tu-95MS bombers.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+    },
+    {
+      "date": "2019-10-23",
+      "title": "Non-stop flight to South Africa",
+      "tag": "Long-range deployment",
+      "summary": "Two Tu-160s flew 11,000 km non-stop from Russia to South Africa with air-to-air refuelling, a 13-hour sortie and the type's first visit to the African continent.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+    },
+    {
+      "date": "2020-02-02",
+      "title": "First flight of the modernised Tu-160M",
+      "tag": "Programme milestone",
+      "summary": "A modernised Tu-160M flew for the first time from the Gorbunov Kazan Aviation Plant, beginning trials of the new radar, glass cockpit, communications and defensive systems that define the current upgrade standard.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+    },
+    {
+      "date": "2025-01-20",
+      "title": "Drone attack on the Kazan production plant",
+      "tag": "Attack on production facility",
+      "summary": "Ukrainian long-range drones struck the Gorbunov Kazan Aviation Plant, where the Tu-160 is built and modernised, roughly 1,000 km from the Ukrainian border. Several explosions were reported; Russian sources said damage was minimal.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+    },
+    {
+      "date": "2025-06-01",
+      "title": "Operation Spiderweb drone raid on bomber bases",
+      "tag": "Attack on airbase",
+      "summary": "Ukraine's SBU launched 117 small quadcopters from trucks inside Russia against five bomber bases. Ukraine claimed four Tu-160s were hit, but subsequent satellite-imagery analysis attributed the confirmed losses to Tu-95s, Tu-22M3s and an An-12, and concluded the Tu-160 fleet was largely intact.",
+      "source": "https://en.wikipedia.org/wiki/Operation_Spiderweb"
+    }
+  ],
+  "survivors": {
+    "intro": "Only a handful of Tu-160s exist outside the active Russian fleet. The single preserved airframe is the one Ukraine retained when the rest of its inherited fleet was scrapped or traded away.",
+    "airframes": [
+      {
+        "location": "Poltava Museum of Long-Range and Strategic Aviation",
+        "place": "Poltava, Ukraine",
+        "note": "The last of the 19 Tu-160s Ukraine inherited in 1991. Eleven were scrapped under the Nunn-Lugar programme and eight were transferred to Russia in 1999; this aircraft was retained for display.",
+        "countryCode": "ua",
+        "country": "Ukraine",
+        "name": "Soviet-built Tu-160"
+      }
+    ]
+  }
+}

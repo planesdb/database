@@ -1,0 +1,363 @@
+{
+  "name": "DC-3",
+  "fullName": "Douglas DC-3",
+  "manufacturer": "Douglas Aircraft Company",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Twin-Engine Airliner",
+  "tagline": "The airliner that made passenger flying a real business. Douglas built it at American Airlines' request to finally let a carrier turn a profit flying people instead of mail, and it worked so completely that the DC-3 captured most of the world's airline traffic within a few years - a civilian workhorse still hauling freight and passengers on bush and charter routes today, ninety years after its first flight.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "Douglas designed the DC-3 (and its sleeper-berth sibling, the DST) at the request of American Airlines, which wanted a twin-engine aircraft that could fly coast-to-coast with sleeping berths and, crucially, turn a profit carrying passengers alone. The prototype first flew on 17 December 1935, and American Airlines opened scheduled DC-3 service on 26 June 1936. It was an immediate commercial triumph: within four years the DC-3 was estimated to be carrying the large majority of the world's airline passengers, and it single-handedly proved that airlines could be a real business rather than a government-subsidised mail service. Civilian DC-3/DST production ran to 607 aircraft before the war, at which point most of Douglas's production capacity shifted to the militarised C-47 Skytrain - a separate, purpose-built military transport variant with a reinforced cargo floor and large freight door, covered in this database as its own entry. Existing civilian DC-3s were also directly requisitioned by the US military during WWII under a variety of designations (C-48 through C-84, depending on the specific airline configuration impressed into service). After the war, thousands of surplus military C-47s were converted back into civilian DC-3 airliner configuration, flooding the market with cheap, rugged twin-engine transports and giving the type a second life on regional and cargo routes worldwide - a boom that did more to spread the DC-3 across the world's airlines than the original pre-war production run ever did. The type's legendary reliability kept it flying for decades afterward on scheduled and charter routes, and turboprop conversions such as the Basler BT-67 continue to rebuild 1940s airframes for Antarctic science, aerial spraying and cargo work today. Nearly a century after its first flight, DC-3s still fly commercially in parts of the world, including scheduled Arctic freight service.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 230,
+      "text": "200 kn (230 mph / 370 km/h)"
+    },
+    "cruiseSpeed": "207 mph (333 km/h)",
+    "range": {
+      "miles": 1720,
+      "text": "1,720 mi (2,769 km, 1,495 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 23200,
+      "text": "23,200 ft (7,071 m)"
+    },
+    "wingspan": {
+      "ft": 95.2,
+      "text": "95 ft 2 in (29.0 m)"
+    },
+    "length": {
+      "ft": 64.7,
+      "text": "64 ft 8 in (19.7 m)"
+    },
+    "height": {
+      "ft": 16.9,
+      "text": "16 ft 11 in (5.16 m)"
+    },
+    "weight": "empty: 16,865 lb (7,650 kg); MTOW: 25,199 lb (11,430 kg)",
+    "engines": "2 x Pratt & Whitney R-1830 Twin Wasp 14-cylinder twin-row radial engines, up to 1,200 hp each",
+    "crew": "2 pilots + cabin crew",
+    "capacity": "21-32 passengers, or up to roughly 6,000 lb (2,722 kg) of freight in cargo configuration",
+    "firstFlight": {
+      "date": "1935-12-17",
+      "year": 1935
+    },
+    "serviceEntryDate": "1936-06-26",
+    "retiredDate": null,
+    "numberBuilt": 607,
+    "unitCost": {
+      "usd": 79000,
+      "text": "$60,000-$80,000 (1936 list price; American Airlines' launch order priced around $79,000) - roughly $1.8M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$1.8M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "DST",
+      "desc": "The original Douglas Sleeper Transport - the sleeper-berth version that first flew in December 1935, aimed at overnight transcontinental routes."
+    },
+    {
+      "code": "DC-3",
+      "desc": "The day-plane version that followed the DST and became the standard production model, seating 21-32 passengers and launching profitable scheduled airline service in 1936."
+    },
+    {
+      "code": "DC-3C / civilianised C-47s",
+      "desc": "Post-1945 conversions of war-surplus military C-47 airframes back into civilian airliner and freight configuration - by far the largest source of DC-3s that airlines actually flew in the postwar decades."
+    },
+    {
+      "code": "Super DC-3",
+      "desc": "A 1949 stretched, squared-tail, more powerful re-engined update intended to modernise the type for continued airline use; commercially unsuccessful as a new-build but several surplus military airframes were later converted to the standard."
+    },
+    {
+      "code": "Basler BT-67",
+      "desc": "A modern turboprop conversion - stretched fuselage, Pratt & Whitney PT6A turboprops, glass cockpit - that rebuilds 1940s DC-3 airframes for Antarctic science, aerial spraying and cargo operators today."
+    },
+    {
+      "code": "C-47 Skytrain / Dakota",
+      "desc": "The militarised WWII transport derivative, with a strengthened cargo floor, large freight door and glider-tow fitting - a distinct wartime variant covered in its own dedicated database entry."
+    }
+  ],
+  "operators": [
+    {
+      "name": "American Airlines",
+      "role": "Launch civilian operator",
+      "status": "Retired",
+      "since": "1936",
+      "fleetSize": "Launch customer for the DST sleeper; one of five US carriers that ordered over 400 DC-3s between them",
+      "homeBase": "Newark & Chicago",
+      "logo": "american-airlines.png"
+    },
+    {
+      "name": "United Air Lines",
+      "role": "Early major civilian operator",
+      "status": "Retired",
+      "since": "1937",
+      "fleetSize": "One of the five US carriers that between them ordered over 400 DC-3s before the war",
+      "homeBase": "Chicago and transcontinental routes"
+    },
+    {
+      "name": "KLM Royal Dutch Airlines",
+      "role": "Largest pre-war European operator",
+      "status": "Retired",
+      "since": "1936",
+      "fleetSize": "23 bought before the outbreak of war in Europe",
+      "homeBase": "Amsterdam Schiphol and the Dutch East Indies route"
+    },
+    {
+      "name": "Buffalo Airways and other bush operators",
+      "role": "Civilian scheduled freight/passenger operator",
+      "status": "In Service",
+      "since": "1970",
+      "fleetSize": "A handful in scheduled freight and passenger service; the last scheduled DC-3 passenger route was still flying in Colombia in 2026",
+      "homeBase": "Yellowknife, Canada and other remote/Arctic hubs"
+    },
+    {
+      "name": "Basler Turbo Conversions operators",
+      "role": "Turboprop-converted (BT-67) cargo and science operator",
+      "status": "In Service",
+      "since": "1990",
+      "fleetSize": "Dozens of converted airframes worldwide",
+      "homeBase": "Antarctic research stations, African and Latin American cargo operators"
+    },
+    {
+      "name": "Private warbird and heritage airline operators",
+      "role": "Heritage & airshow operator",
+      "status": "In Service",
+      "since": "1950s",
+      "fleetSize": "~150 estimated still flying in 2023, of 16,079 built across the family (607 civil DC-3s, 10,048 C-47s, 4,937 Li-2s)",
+      "homeBase": "Private collections and heritage airlines, worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "DC3",
+    "howToFind": "One of the most commonly seen pre-jet-age types still flying, both in scheduled and charter civilian service in parts of the world and at heritage airshow events; visible on Flightradar24 year-round using the shared ICAO type code 'DC3'."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Vintage Aviation News",
+      "url": "https://vintageaviationnews.com/feed",
+      "topicTag": "DC-3"
+    },
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "DC-3"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "DC-3 Society announces inaugural Operator Conference & Showcase at Flabob Airport",
+      "source": "General Aviation News",
+      "date": "2026-06-14",
+      "category": "Events",
+      "url": "https://generalaviationnews.com/2026/06/14/dc3-society-conference-flabob-airport/"
+    }
+  ],
+  "tags": [
+    "dc-3",
+    "dc3",
+    "douglas dc-3",
+    "dst",
+    "douglas",
+    "airliner",
+    "vintage airliner",
+    "vintage cargo",
+    "bush plane",
+    "gooney bird",
+    "basler bt-67",
+    "c-47",
+    "dakota"
+  ],
+  "quickFacts": [
+    "The DC-3 was the first airliner that could turn a profit carrying passengers alone, without a government mail subsidy - it single-handedly made the modern airline business viable.",
+    "Within about four years of its 1936 debut, the DC-3 is estimated to have carried the large majority of the world's airline passengers.",
+    "Only 607 pure civilian DC-3/DST aircraft were built before the war - most of the type's huge worldwide civilian fleet came later, converted from surplus military C-47s after 1945.",
+    "Canada's Buffalo Airways still runs scheduled DC-3 freight service into the Arctic, nearly ninety years after the type's first flight.",
+    "The Basler BT-67 turboprop conversion rebuilds 1940s DC-3 airframes into effectively new aircraft, several of which now support Antarctic science stations.",
+    "The old aviation saying holds up: 'the only replacement for a DC-3 is another DC-3' - no direct successor was ever built for its combination of ruggedness, simplicity and short-field capability."
+  ],
+  "article": {
+    "overview": [
+      "The Douglas DC-3 is a twin-engine airliner introduced by Douglas Aircraft in 1935, one of the first aircraft able to carry passengers profitably without government mail subsidies. American Airlines began flying it on 26 June 1936.{{ref:wiki-dc3}}",
+      "A militarised version, the C-47 Skytrain/Dakota, is covered separately in this database. Douglas built 607 civilian DC-3s before the war redirected production to the C-47, and thousands of war-surplus C-47s were later converted back into airliners, extending the type's commercial career for decades; more than 150 are still estimated to be flying today.{{ref:wiki-dc3}}{{ref:forbes}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The DC-3's story starts with a phone call from American Airlines, which wanted a twin-engine sleeper transport comfortable enough to fly coast-to-coast overnight and, unlike almost everything flying at the time, one that could actually turn a profit carrying people rather than relying on government mail contracts to stay solvent.{{ref:wiki-dc3}}",
+          "The prototype Douglas Sleeper Transport first flew on 17 December 1935, and the day-plane DC-3 variant that followed became the aircraft that made that business case real: rugged, twin-engined, honest to fly, and efficient enough to carry 21-32 passengers profitably on ticket revenue alone. It captured most of the world's airline traffic within about four years.{{ref:wiki-dc3}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The type's virtue is structural honesty: a fat low wing built like a bridge (the multi-spar centre section shrugs at overloads and hard landings), two dependable Twin Wasp radials, and handling so forgiving that pilots with modest training could fly it into short, rough strips other airliners of the era couldn't touch.{{ref:wiki-dc3}}",
+          "That same simplicity is why the type has never really gone away: parts are plentiful, the airframe outlasts engines, and the modern Basler BT-67 conversion - stretched, turboprop-powered, glass-cockpit - keeps rebuilding 1940s DC-3 airframes into effectively new aircraft for Antarctic science, spraying and cargo operators.{{ref:basler}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Civilian production ran to 607 DC-3/DST aircraft before the war redirected Douglas's factories to the militarised C-47. The US military also requisitioned existing airline DC-3s directly, assigning them a scatter of designations (C-48 through C-84) depending on the specific airline configuration seized.{{ref:wiki-dc3}}",
+          "The bigger story for the DC-3 as a civilian type came after 1945: thousands of war-surplus C-47s were converted back into airliner configuration, flooding the world's airlines with cheap, rugged twin-engine transports and extending the DC-3's commercial career for decades on regional and secondary routes worldwide, well into the jet age.{{ref:wiki-dc3}}",
+          "Air forces and airlines alike kept flying the type into the 1990s and beyond; today civilian DC-3s still haul freight in Canada's north and passengers on nostalgia and charter routes, a working fleet in its tenth decade.{{ref:forbes}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Ninety years on, more than 150 DC-3s are estimated to still be flying worldwide - flying museums, bush freight haulers, and Antarctic workhorses via the Basler turboprop conversion - with no direct successor ever built for its particular mix of ruggedness, simplicity and short-field capability.{{ref:forbes}}",
+          "The old line remains true: the only replacement for a DC-3 is another DC-3."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-dc3",
+      "name": "Douglas DC-3",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Douglas_DC-3"
+    },
+    {
+      "id": "forbes",
+      "name": "90 Years After Its First Flight, Over 150 Douglas DC-3s Still Fly",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/michaelgoldstein/2026/02/09/90-years-after-its-first-flight-over-150-douglas-dc-3s-still-fly/"
+    },
+    {
+      "id": "basler",
+      "name": "BT-67",
+      "publisher": "Basler Turbo Conversions",
+      "url": "https://www.baslerturbo.com/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Douglas DC-3",
+      "url": "https://en.wikipedia.org/wiki/Douglas_DC-3"
+    },
+    {
+      "name": "National Air and Space Museum - Douglas DC-3",
+      "url": "https://airandspace.si.edu/collection-objects/douglas-dc-3/nasm_A19530075000"
+    },
+    {
+      "name": "Forbes - 90 Years After Its First Flight, Over 150 Douglas DC-3s Still Fly",
+      "url": "https://www.forbes.com/sites/michaelgoldstein/2026/02/09/90-years-after-its-first-flight-over-150-douglas-dc-3s-still-fly/"
+    },
+    {
+      "name": "Basler Turbo Conversions",
+      "url": "https://www.baslerturbo.com/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-17",
+      "change": "Temporarily merged with the C-47 Dakota entry (id douglas-c47-dakota) into a single combined DC-3/C-47 article.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-22",
+      "change": "Split back into two dedicated entries per user request: this entry is now civilian-focused (DC-3 airline history, civil production and operators), with the C-47/Dakota's military service restored as its own separate entry (data/aircraft/douglas-c47-dakota.json). numberBuilt, categories, operators, incidents and the article were all rewritten to cover only the civilian DC-3 story.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed hero photo credit mismatch (same underlying photo/media record as the C-47 Dakota entry) - replaced an inaccurate photographer credit with a generic Wikimedia Commons credit.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Gave every operator row a real scale figure in place of the vague \"Historical\" placeholders, and added KLM as the largest pre-war European operator.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1940-08-31",
+      "title": "Pennsylvania Central Airlines Flight 19 (the Lovettsville air disaster)",
+      "tag": "Weather / lightning strike",
+      "summary": "The DC-3A flew into an intense thunderstorm over Lovettsville, Virginia and dived into a field; investigators concluded a lightning strike was the probable cause. All 25 aboard died, among them US Senator Ernest Lundeen, and it was the deadliest US airline accident to that point.",
+      "fatalities": 25,
+      "source": "https://en.wikipedia.org/wiki/Pennsylvania_Central_Airlines_Flight_19"
+    },
+    {
+      "date": "1947-01-26",
+      "title": "KLM gust-lock takeoff crash",
+      "summary": "A KLM Douglas DC-3 crashed on takeoff from Copenhagen Kastrup Airport after the crew failed to remove the elevator gust locks before departure, killing 22 of those aboard.",
+      "fatalities": 22,
+      "tag": "Checklist/mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/1947_KLM_Douglas_DC-3_crash"
+    },
+    {
+      "date": "1948-01-28",
+      "title": "Los Gatos Canyon crash - the \"Deportee\" flight",
+      "tag": "In-flight fire / wing failure",
+      "summary": "A fuel leak in the port engine caught fire and burned through the wing spar, which detached in flight over California's Diablo Range. All 32 aboard were killed, 28 of them Mexican farm workers being deported, whose names went unreported at the time - the injustice that prompted Woody Guthrie's song \"Deportee (Plane Wreck at Los Gatos)\".",
+      "fatalities": 32,
+      "source": "https://en.wikipedia.org/wiki/1948_Los_Gatos_DC-3_crash"
+    },
+    {
+      "date": "1948-12-28",
+      "title": "Disappearance of Airborne Transport NC16002",
+      "tag": "Disappearance",
+      "summary": "The DC-3 vanished on a night flight from San Juan to Miami with 32 people aboard after a last call reporting it 50 miles out. It was never found and no probable cause was ever determined - one of the cases later folded into Bermuda Triangle folklore.",
+      "fatalities": 32,
+      "source": "https://en.wikipedia.org/wiki/1948_Airborne_Transport_DC-3_disappearance"
+    },
+    {
+      "date": "1996-09-25",
+      "title": "Texel DC-3 crash",
+      "summary": "A Dutch Dakota Association DC-3 on a sightseeing flight suffered an engine failure from a blocked oil pump; the crew could not feather the propeller and lost control near Texel, the Netherlands, killing all 32 occupants.",
+      "fatalities": 32,
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/1996_Texel_Douglas_DC-3_crash"
+    },
+    {
+      "date": "2001-01-25",
+      "title": "RUTACA Airlines Flight 225",
+      "tag": "Engine failure",
+      "summary": "The DC-3 developed engine trouble just after takeoff and came down in Ciudad Bolívar, Venezuela, killing 24 people on board and one on the ground.",
+      "fatalities": 25,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_DC-3_since_2000"
+    },
+    {
+      "date": "2019-03-09",
+      "title": "LASER Aéro Colombia crash near San Carlos de Guaroa",
+      "tag": "Loss of control",
+      "summary": "The DC-3 crashed on a flight between San José del Guaviare and Villavicencio, killing all fourteen aboard - a reminder that the type was still flying scheduled passenger services in Colombia eight decades after entering airline use.",
+      "fatalities": 14,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_DC-3_since_2000"
+    }
+  ]
+}

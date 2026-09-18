@@ -1,0 +1,346 @@
+{
+  "name": "KC-390",
+  "fullName": "Embraer KC-390 Millennium",
+  "manufacturer": "Embraer",
+  "originCountry": {
+    "name": "Brazil",
+    "code": "br"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Tactical Transport & Tanker",
+  "tagline": "The Embraer KC-390 Millennium is a twin-turbofan tactical transport and aerial-refuelling aircraft built in Brazil to replace the Lockheed C-130 Hercules in Brazilian Air Force service. It carries 26 tonnes at a Mach 0.80 jet cruise rather than a turboprop one, and has become Embraer's most successful defence export, ordered by ten countries while Brazil cut its own fleet from 28 aircraft to 19.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "It is the largest and heaviest aircraft Embraer has ever built.",
+    "Its two IAE V2500 turbofans come from the same family that powers the Airbus A320, giving it a Mach 0.80 cruise where the C-130 it replaces flies on turboprops.",
+    "Embraer says the cargo bay can be reconfigured between roles - troops, stretchers, pallets, airdrop - in three hours or less.",
+    "Brazil cut its own order from 28 aircraft to 19 and then stretched the deliveries out to 2034, turning a nine-year programme into a sixteen-year one.",
+    "Revista Força Aérea reported in March 2026 that only two of the Brazilian Air Force's eight aircraft were operational, the rest grounded by damage, overhaul or upgrade work.",
+    "It refuels other aircraft from two wing-mounted hose-and-drogue pods at anything from 120 to 300 knots and 2,000 to 32,000 ft, and has passed fuel to U.S. Air Force C-17s and C-130s."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Brazilian Air Force KC-390, the aerial-refuelling-capable configuration. Range falls sharply with load: the quoted figure is with a full 26-tonne payload, against a 3,880 mi (6,240 km) ferry range empty.",
+    "maxSpeed": {
+      "mph": 614,
+      "text": "534 kn (614 mph / 988 km/h)"
+    },
+    "cruiseSpeed": "540 mph (870 km/h, Mach 0.80)",
+    "range": {
+      "miles": 1240,
+      "text": "1,240 mi (2,000 km, 1,080 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 36000,
+      "text": "36,000 ft (11,000 m)"
+    },
+    "wingspan": {
+      "ft": 115,
+      "text": "115 ft 0 in (35.05 m)"
+    },
+    "length": {
+      "ft": 115.5,
+      "text": "115 ft 6 in (35.20 m)"
+    },
+    "height": {
+      "ft": 38.8,
+      "text": "38 ft 10 in (11.84 m)"
+    },
+    "weight": "empty: 77,162 lb (35,000 kg); MTOW: 191,800 lb (86,999 kg)",
+    "engines": "2 x International Aero Engines V2500-E5 turbofans, 31,330 lbf (139.4 kN) each",
+    "crew": "3 (two pilots and a loadmaster)",
+    "capacity": "57,320 lb (26,000 kg) maximum payload in a cargo bay 60 ft 8 in (18.5 m) long, 11 ft 4 in (3.45 m) wide and 9 ft 8 in (2.95 m) high - 80 troops, 66 paratroopers, or 74 stretchers plus eight attendants",
+    "firstFlight": {
+      "date": "2015-02-03",
+      "year": 2015
+    },
+    "serviceEntryDate": "2019-09-04",
+    "retiredDate": null,
+    "numberBuilt": 16,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Embraer publishes no list price; the aircraft alone has been reported at around 80 million euros (2024), while Austria's four-aircraft package including support was valued at over 500 million euros, roughly $532M"
+    }
+  },
+  "variants": [
+    {
+      "code": "KC-390",
+      "desc": "The Brazilian Air Force configuration and the designation the type carried from 2011 until the export name was adopted. Every FAB aircraft is built to the tanker standard, with hardpoints and plumbing for two wing-mounted hose-and-drogue pods, and 19 are on firm order against an original 28. Eight had been delivered by October 2025, registered FAB2853 to FAB2860."
+    },
+    {
+      "code": "C-390 Millennium",
+      "desc": "The global market name announced in November 2019, applied to aircraft ordered without the refuelling installation. Structurally it is the same airframe - the tanker equipment is a fit rather than a different build - so the distinction is largely one of customer configuration. Portugal and Hungary buy theirs as KC-390s; Austria, the Czech Republic, the Netherlands, South Korea and Sweden as C-390s."
+    },
+    {
+      "code": "C-390 IVR (proposed)",
+      "desc": "An intelligence, surveillance and reconnaissance and maritime patrol derivative that Embraer and the Brazilian Air Force agreed to study in December 2024. The aim is to reuse the airframe for the roles Brazil currently flies with much older platforms over the South Atlantic and the Amazon, adding sensors and mission systems rather than changing the aircraft structurally. Nothing has been ordered."
+    },
+    {
+      "code": "Boom-equipped tanker (proposed)",
+      "desc": "In February 2026 Embraer signed a memorandum of understanding with Northrop Grumman to develop an autonomous refuelling boom for the type, designed as an optional fit that can be retrofitted to aircraft already delivered without losing the cargo role. It is aimed at the U.S. Air Force and at F-35 operators such as the Netherlands and the Czech Republic, whose aircraft need boom rather than drogue refuelling."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Brazilian Air Force",
+      "role": "Launch Customer",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "8 delivered of 19 on order",
+      "homeBase": "Anápolis Air Force Base - Goiás, Brazil"
+    },
+    {
+      "name": "Portuguese Air Force",
+      "role": "First Export Customer",
+      "status": "In Service",
+      "since": "2023",
+      "fleetSize": "4 delivered of 6 on order",
+      "homeBase": "Beja Air Base - Portugal"
+    },
+    {
+      "name": "Hungarian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2023",
+      "fleetSize": "2 (fleet complete)",
+      "homeBase": "Kecskemét Air Base - Hungary"
+    },
+    {
+      "name": "Czech Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2026",
+      "fleetSize": "1 delivered of 2 on order",
+      "homeBase": "Pardubice - Czech Republic"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "E390",
+    "howToFind": "Filter by type code E390 - the fleet is small enough that it returns every aircraft flying. Brazilian machines carry the registrations FAB2853 to FAB2860 and work out of Anápolis and Galeão, and the Antarctic resupply runs each southern summer route through Rio Gallegos and Ushuaia in Argentina, which are the easiest sightings to plan for. Embraer's own test aircraft appear under PT- registrations around Gavião Peixoto and São José dos Campos, and European aircraft are most often seen out of Beja in Portugal and Kecskemét in Hungary."
+  },
+  "lastUpdated": "2026-09-08",
+  "changelog": [
+    {
+      "date": "2026-09-08",
+      "change": "Entry created - full article, specifications, variants and incident log written from Embraer, Wikipedia, FlightGlobal, Breaking Defense, Defense News, Aviation Safety Network and named Brazilian aviation press.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-08",
+      "change": "Operators: corrected Hungarian Air Force fleetSize from 3 to the real figure of 2, which completed Hungary's full contracted fleet in November 2025 (Hungary was the first C-390 export customer to do so).",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "kc-390",
+    "kc390",
+    "c-390",
+    "c390",
+    "millennium",
+    "embraer",
+    "brazilian air force",
+    "fab",
+    "tactical transport",
+    "tanker",
+    "hercules replacement",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The Embraer KC-390 Millennium is a twin-turbofan tactical transport and aerial-refuelling aircraft built in Brazil, and the largest aircraft Embraer has ever produced. It first flew on 3 February 2015 and was delivered to the Brazilian Air Force on 4 September 2019 to replace the Lockheed C-130 Hercules, which the FAB had flown since the 1960s and retired on 7 March 2024. {{ref:wiki-c390}} {{ref:fg-hercules}}",
+      "It carries 26 tonnes over 1,080 nmi, cruises at Mach 0.80 on two IAE V2500 turbofans, and can refuel other aircraft from two wing-mounted pods. {{ref:wiki-c390}} {{ref:embraer-c390}} Brazil ordered 28 and has since cut that to 19 while stretching deliveries to 2034; ten countries have ordered the type, making it Embraer's most successful defence export. {{ref:wiki-orders}} {{ref:ar-2034}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the Brazilian Requirement",
+        "paragraphs": [
+          "Design work began in the mid-2000s around a Brazilian Air Force requirement to replace its C-130s with an aircraft Brazil would own the intellectual property to and could sell abroad. The government committed R$800 million - about US$440 million - in May 2008, and on 14 April 2009 Embraer received a contract worth $1.5 billion covering two prototypes. The aircraft was designated C-390 at first and redesignated KC-390 in early 2011 to reflect the tanker role; the export name C-390 Millennium followed in November 2019. The FAB signed for 28 aircraft in May 2014. {{ref:wiki-c390}}",
+          "The fleet being replaced was substantial and old. The 1st Squadron of the 1st Transport Group - 1º/1º GT, the Esquadrão Gordo - operated ten C-130Ms at Galeão in Rio de Janeiro, two of them KC-130M tankers. {{ref:cavok-gordo}} Brazil had flown Hercules for almost sixty years when the last one was retired on 7 March 2024. {{ref:fg-hercules}} Replacing it with a clean-sheet jet rather than buying more C-130Js was as much industrial policy as air-force procurement: the programme was intended from the outset to give Embraer a defence product with an export market behind it."
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The decision that defines the aircraft is the choice of turbofans over turboprops. Two International Aero Engines V2500-E5s of 31,330 lbf each - from the family that powers the Airbus A320 - give a Mach 0.80 cruise of about 540 mph and a 36,000 ft ceiling, where a C-130J cruises on four propellers well below that. {{ref:wiki-c390}} {{ref:embraer-c390}} The aircraft is flown through full fly-by-wire controls with active sidesticks, on Rockwell Collins Pro Line Fusion avionics, with an enhanced vision system fed by four cameras and directional infrared countermeasures for self-protection. {{ref:wiki-c390}}",
+          "The hold is 18.5 m long, 3.45 m wide and 2.95 m high, takes 26,000 kg, and loads through a rear ramp. Embraer quotes airdrop capability of up to 41,887 lb by low-velocity aerial delivery, up to 22 skid boards by container delivery system, and 22,046 lb by low-altitude parachute extraction, along with 74 stretchers and eight attendants in the aeromedical fit and a reconfiguration time of three hours or less between roles. The aircraft is cleared for semi-prepared strips, quoted as a 4,000 ft critical field length carrying 12 tonnes 500 nm, and ten passes on a CBR 4 surface. {{ref:embraer-c390}} As a tanker it trails two Cobham hose-and-drogue pods and can pass fuel between 120 and 300 kn and from 2,000 to 32,000 ft. {{ref:wiki-c390}} {{ref:embraer-c390}}"
+        ]
+      },
+      {
+        "heading": "Into Service with the FAB",
+        "paragraphs": [
+          "Brazilian civil type certification came on 23 October 2018 and the first aircraft was handed over on 4 September 2019, going to the Esquadrão Zeus at Anápolis. The Esquadrão Gordo at Galeão became the second unit on 25 March 2022, taking FAB2853 and FAB2857; the final type certificate followed in March 2023. {{ref:wiki-c390}} {{ref:cavok-gordo}} Eight aircraft had been delivered by October 2025, registered FAB2853 through FAB2860. {{ref:wiki-orders}}",
+          "Embraer's own numbers for the type are strong. On delivering the seventh Brazilian aircraft in September 2024 the company put the worldwide fleet past 14,000 flight hours, with a mission completion rate above 99 percent and a mission capability rate of 93 percent. {{ref:embraer-7th}} Those are fleet-wide figures across all operators rather than a statement about the Brazilian aircraft specifically, and the Brazilian picture has since turned out to be considerably worse."
+        ]
+      },
+      {
+        "heading": "Missions Flown",
+        "paragraphs": [
+          "The FAB has used the aircraft mostly for logistics, disaster relief and evacuation rather than anything combat-related. It moved supplies through the COVID-19 crisis, and in June 2022 a KC-390 of the Esquadrão Gordo took part in the Brazilian Antarctic Campaign for the first time, airdropping supplies to the Comandante Ferraz station - by the first quarter of 2023 the Brazilian fleet had passed 8,000 flight hours and flown two Antarctic resupply missions. {{ref:wiki-c390}} During the 2022 Russian invasion of Ukraine a KC-390 and a VC-99B were sent to bring out Brazilian and other nationals and delivered around 12 tonnes of humanitarian aid, and the type flew repatriation sorties out of Israel in October 2023. {{ref:wiki-c390}} {{ref:fg-israel}} It was among the transports committed to Operation Taquari II during the Rio Grande do Sul floods in May 2024. {{ref:aeroflap-rs}}",
+          "Refuelling work has largely been exercise flying. In February 2021, at Exercise Culminating in Louisiana, a KC-390 flew joint missions with U.S. Air Force C-17s and C-130s. {{ref:wiki-c390}} The type has never been used in combat by any operator, and the FAB's use of it is best read as strategic and tactical airlift with a tanker capability held in reserve."
+        ]
+      },
+      {
+        "heading": "A Shrinking Order and a Grounded Fleet",
+        "paragraphs": [
+          "Brazil has repeatedly cut what it will buy. In November 2021 the air force said it intended to reduce the order from 28 aircraft to 15, and Embraer responded by threatening legal measures. {{ref:fg-cut}} The two sides negotiated instead: six aircraft came off the contract in June 2022, taking it to 22, and three more in October 2022, settling at 19. {{ref:wiki-orders}} In September 2025 the delivery schedule was extended to 2034, turning what had been a nine-year plan into a sixteen-year one, against budget pressure and shifting priorities. {{ref:ar-2034}}",
+          "Availability has been the sharper problem. Revista Força Aérea reported in March 2026 that only two of the eight delivered aircraft were flying: FAB2853 damaged by severe weather in 2021 and since cannibalised for parts, FAB2855 in overhaul since June 2025, FAB2856 at Embraer for updates since February 2024, FAB2857 grounded since January 2026, and FAB2859 out with cracks at the wing-fuselage joint after a hard landing at Ushuaia - none of them with a return date. {{ref:rfa-fleet}} {{ref:asn-2859}} Embraer and the FAB signed a long-term logistics support agreement on 18 June 2026 covering component repair, spares, engineering and technical documentation, with the air force's general support commander, Lieutenant-Brigadier Valter Malta, framing it explicitly around fleet availability. {{ref:avitrader-support}}"
+        ]
+      },
+      {
+        "heading": "Exports & Outlook",
+        "paragraphs": [
+          "The export book has grown faster than the home fleet. Firm orders by mid-2026 covered Portugal (6), Austria (4), the Netherlands (5), South Korea (3), Sweden (4), the United Arab Emirates (10), the Czech Republic (2), Hungary (2) and Uzbekistan (2), with 14 aircraft delivered across all customers by May 2026. {{ref:wiki-orders}} Austria's four-aircraft package, including support, was valued at over 500 million euros - roughly $532 million - when it was announced in September 2023. {{ref:dn-austria}} Embraer built six aircraft in 2026 and is aiming at ten a year by the end of the decade. {{ref:bd-ramp}}",
+          "Two developments could widen the type's reach. In February 2026 Embraer signed a memorandum of understanding with Northrop Grumman to develop an optional, retrofittable autonomous refuelling boom, aimed at the U.S. Air Force and at F-35 operators such as the Netherlands and the Czech Republic whose fighters cannot take fuel from a drogue. {{ref:bd-northrop}} Separately, Embraer and the FAB agreed in December 2024 to study an intelligence, surveillance and reconnaissance and maritime patrol version. Neither has been ordered, and for now the aircraft's position is an unusual one: a national programme whose foreign customers are more committed to it than its own air force. {{ref:wiki-c390}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-c390",
+      "name": "Embraer C-390 Millennium",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Embraer_C-390_Millennium"
+    },
+    {
+      "id": "wiki-orders",
+      "name": "List of Embraer C-390 Millennium orders and deliveries",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Embraer_C-390_Millennium_orders_and_deliveries"
+    },
+    {
+      "id": "embraer-c390",
+      "name": "KC-390 Millennium",
+      "publisher": "Embraer Defense & Security",
+      "url": "https://defense.embraer.com/air/c-390/"
+    },
+    {
+      "id": "embraer-7th",
+      "name": "Embraer delivers the seventh C-390 Millennium to the Brazilian Air Force",
+      "publisher": "Embraer",
+      "url": "https://www.embraer.com/media-center/en/?mediatype=NEWS&detail=13285"
+    },
+    {
+      "id": "fg-cut",
+      "name": "Embraer vows legal measures as Brazilian air force to cut KC-390 order by nearly half",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/fixed-wing/embraer-vows-legal-measures-as-brazilian-air-force-to-cut-kc-390-order-by-nearly-half/146480.article"
+    },
+    {
+      "id": "fg-hercules",
+      "name": "Brazilian air force sends its last Hercules into retirement",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/defence/brazilian-air-force-sends-its-last-hercules-into-retirement/157297.article"
+    },
+    {
+      "id": "fg-israel",
+      "name": "Brazil and Poland send military transports to evacuate citizens from Israel",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/fixed-wing/brazil-and-poland-send-military-transports-to-evacuate-citizens-from-israel/155293.article"
+    },
+    {
+      "id": "ar-2034",
+      "name": "Brazil Extends KC-390 Aircraft Deliveries to Air Force Until 2034",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2025/brazil-extends-kc-390-aircraft-deliveries-to-air-force-until-2034"
+    },
+    {
+      "id": "rfa-fleet",
+      "name": "EXCLUSIVO: apenas dois KC-390 estão operacionais na frota da FAB!",
+      "publisher": "Revista Força Aérea",
+      "url": "https://forcaaerea.com.br/exclusivo-apenas-dois-kc-390-estao-operacionais-na-frota-da-fab/"
+    },
+    {
+      "id": "asn-2859",
+      "name": "Incident Embraer KC-390 FAB2859, 12 September 2025",
+      "publisher": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/wikibase/569035"
+    },
+    {
+      "id": "avitrader-support",
+      "name": "Embraer backs FAB KC-390 fleet",
+      "publisher": "AviTrader",
+      "url": "https://avitrader.com/2026/06/22/embraer-backs-fab-kc-390-fleet/"
+    },
+    {
+      "id": "bd-northrop",
+      "name": "Northrop, Brazil's Embraer partner on KC-390 to pitch US, others",
+      "publisher": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/02/northrop-brazils-embraer-partner-on-kc-390-to-pitch-us-others/"
+    },
+    {
+      "id": "bd-ramp",
+      "name": "Embraer ramping KC-390 production, plans Czech, Uzbek, Korean deliveries this year",
+      "publisher": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/06/embraer-ramping-kc-390-production-plans-czech-uzbek-korean-deliveries-this-year/"
+    },
+    {
+      "id": "dn-austria",
+      "name": "Austria to buy four Embraer C-390 cargo planes for over $500 million",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2023/09/21/austria-to-buy-four-embraer-c-390-cargo-planes-for-over-500-million/"
+    },
+    {
+      "id": "cavok-gordo",
+      "name": "FAB: Esquadrão Gordo incorpora hoje seus dois primeiros KC-390",
+      "publisher": "Cavok Brasil",
+      "url": "https://www.cavok.com.br/fab-esquadrao-gordo-incorpora-hoje-seus-dois-primeiros-kc-390"
+    },
+    {
+      "id": "aeroflap-rs",
+      "name": "Floods in RS: FAB's largest plane transports cold clothing to the South",
+      "publisher": "Aeroflap",
+      "url": "https://www.aeroflap.com.br/en/enchentes-no-rs-maior-aviao-da-fab-transporta-roupas-de-frio-para-o-sul/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Embraer Defense & Security - KC-390 Millennium",
+      "url": "https://defense.embraer.com/air/c-390/"
+    },
+    {
+      "name": "Wikipedia - List of Embraer C-390 Millennium orders and deliveries",
+      "url": "https://en.wikipedia.org/wiki/List_of_Embraer_C-390_Millennium_orders_and_deliveries"
+    },
+    {
+      "name": "Breaking Defense - Northrop and Embraer partner on the KC-390",
+      "url": "https://breakingdefense.com/2026/02/northrop-brazils-embraer-partner-on-kc-390-to-pitch-us-others/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2017-10-12",
+      "title": "Prototype loses 17,000 ft during stall testing",
+      "tag": "Flight test upset",
+      "summary": "The first prototype, PT-ZNF, departed controlled flight during high angle-of-attack testing at Gavião Peixoto when test equipment broke loose and shifted aft, moving the centre of gravity. The aircraft fell from about 20,000 ft to around 3,000 ft before the crew recovered at roughly 1,000 ft above ground and landed safely. Embraer said the test had pushed the aircraft beyond its operating limits and grounded the prototype.",
+      "fatalities": 0,
+      "source": "https://theaviationist.com/2017/11/09/first-prototype-of-brazilian-kc-390-military-cargo-aircraft-almost-crashed-during-stall-tests-last-month/"
+    },
+    {
+      "date": "2018-05-05",
+      "title": "Prototype PT-ZNF written off in runway overrun",
+      "tag": "Runway excursion",
+      "summary": "After a series of circuits at Embraer's Gavião Peixoto site, PT-ZNF landed on runway 20 and could not stop in the distance remaining. It overran onto soft ground, lost its landing gear and was assessed as damaged beyond repair. All three crew escaped uninjured, and CENIPA classified the event as an incident and closed the file without a final report.",
+      "fatalities": 0,
+      "source": "https://www.baaa-acro.com/crash/crash-embraer-kc-390-gaviao-peixoto"
+    },
+    {
+      "date": "2019-09-04",
+      "title": "First delivery to the Brazilian Air Force",
+      "tag": "Milestone",
+      "summary": "FAB2853 was handed over to the Brazilian Air Force, entering service with the Esquadrão Zeus at Anápolis and beginning the replacement of the C-130 Hercules fleet the FAB had flown since the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Embraer_C-390_Millennium"
+    },
+    {
+      "date": "2025-09-12",
+      "title": "FAB2859 hard landing at Ushuaia",
+      "tag": "Hard landing",
+      "summary": "Returning from the Brazilian Antarctic station, the aircraft made a hard landing in a tailwind at Ushuaia-Islas Malvinas Airport in Argentina and returned to Galeão. Embraer technicians found significant cracks at the wing-fuselage joint; the aircraft has not flown operationally since, and whether it will be repaired or scrapped remained undecided into 2026.",
+      "fatalities": 0,
+      "source": "https://aviation-safety.net/wikibase/569035"
+    }
+  ]
+}

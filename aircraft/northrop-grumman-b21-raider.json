@@ -1,0 +1,266 @@
+{
+  "name": "B-21 Raider",
+  "fullName": "Northrop Grumman B-21 Raider",
+  "manufacturer": "Northrop Grumman",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Stealth Strategic Bomber",
+  "tagline": "The Northrop Grumman B-21 Raider is a stealth strategic bomber in development for the United States Air Force, intended to replace the B-1 and B-2 and to carry both conventional and nuclear weapons. It first flew on 10 November 2023 and is planned to reach Ellsworth Air Force Base in 2027, but almost every specification remains classified - the Air Force has published a cost and a fleet size, and essentially nothing else.",
+  "status": "In Development",
+  "inProduction": true,
+  "quickFacts": [
+    "The Air Force has published no dimensions, weight, speed, range, engine or crew figures for the B-21. Numbers that circulate widely are analysts' estimates, not official data.",
+    "Northrop won the contract in October 2015 against a joint Boeing-Lockheed Martin bid, and the Government Accountability Office found that cost was the deciding factor.",
+    "The official fact sheet says the aircraft is 'designed to accommodate manned or unmanned operations' - the Air Force has never confirmed a crew size.",
+    "Congress came close to forcing the programme's cost into the open in the 2017 defence bill; the disclosure provision was stripped out in the final conference report.",
+    "An operational test pilot flew the aircraft in June 2026, far earlier in the programme than is normal - the Air Force said it had not done this so early in a modern test programme.",
+    "The published average unit procurement cost is $692 million in 2022 dollars, against a projected $203 billion to develop, buy and run a fleet of at least 100 aircraft over 30 years."
+  ],
+  "specifications": {
+    "specificationsNote": "\"??\" means the figure has not been published. The B-21 is a special access programme and the Air Force releases no dimensions, weights, performance or propulsion data for it; the only officially published numbers are the unit cost and the minimum fleet size of 100 aircraft. Estimates circulate widely in the aviation press, but none are confirmed, so none are recorded here.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "??"
+    },
+    "cruiseSpeed": "??",
+    "range": {
+      "miles": null,
+      "text": "??"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "??"
+    },
+    "wingspan": {
+      "ft": null,
+      "text": "??"
+    },
+    "length": {
+      "ft": null,
+      "text": "??"
+    },
+    "height": {
+      "ft": null,
+      "text": "??"
+    },
+    "weight": "??",
+    "engines": "??",
+    "armament": "??",
+    "crew": "??",
+    "capacity": "??",
+    "firstFlight": {
+      "date": "2023-11-10",
+      "year": 2023
+    },
+    "serviceEntryDate": "??",
+    "retiredDate": null,
+    "numberBuilt": "??",
+    "unitCost": {
+      "usd": 692000000,
+      "text": "$692M average unit procurement cost (base year 2022 dollars; the same figure is published as $550M in 2010 dollars and $639M in 2019 dollars) - roughly $790M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$790M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "B-21 Raider",
+      "desc": "The only version announced. Northrop Grumman received the engineering and manufacturing development contract on 27 October 2015 and the aircraft has been developed under a single designation since, with no sub-variants disclosed. The Air Force describes it as a dual-capable penetrating strike bomber carrying both conventional and nuclear weapons, built around an open systems architecture intended to let subsystems be replaced competitively rather than locking the fleet to one supplier for decades."
+    }
+  ],
+  "operators": [
+    {
+      "name": "US Air Force",
+      "role": "Launch Operator",
+      "status": "In Development",
+      "since": "2027 (planned)",
+      "fleetSize": "Minimum of 100 aircraft planned; Ellsworth AFB in South Dakota was named the first main operating base and formal training unit in 2021",
+      "homeBase": "Edwards AFB, California (flight test); Ellsworth AFB, South Dakota (first operational base)",
+      "logo": "usaf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B21 (not in general use - the type does not squawk publicly)",
+    "howToFind": "You will not track a B-21. The test fleet flies from Edwards AFB in restricted airspace with transponders off, and no B-21 has ever appeared on a public flight-tracking network. Photographs of the aircraft in flight come from spotters on public land near Edwards and Palmdale rather than from ADS-B."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created while the aircraft is still in development - full article, variants, operators and programme milestone log written from US Air Force and Air Force Global Strike Command fact sheets, Ellsworth AFB releases and named aviation press. Unpublished specifications are recorded as \"??\" rather than estimated.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "b-21",
+    "b21",
+    "raider",
+    "northrop grumman b-21",
+    "lrs-b",
+    "long range strike bomber",
+    "stealth bomber",
+    "flying wing",
+    "b-2 replacement",
+    "nuclear triad",
+    "in development",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The Northrop Grumman B-21 Raider is a stealth strategic bomber being developed for the United States Air Force, designed to penetrate defended airspace and deliver conventional or nuclear weapons. It was rolled out at Palmdale, California on 2 December 2022 and first flew on 10 November 2023.{{ref:wiki-b21}}{{ref:af-b21}}",
+      "It is the first American bomber programme since the B-2, and it is being run with markedly more secrecy: the Air Force publishes an average unit cost and a minimum fleet size of 100 aircraft, and no dimensions, weights, performance or propulsion figures at all. The first operational aircraft are planned for Ellsworth Air Force Base in 2027.{{ref:af-b21}}{{ref:ellsworth-prod}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Long Range Strike Bomber programme began as a classified effort in 2011, replacing the cancelled Next-Generation Bomber and responding to a problem the existing fleet could not solve: the B-2 numbered only 20 aircraft, the B-1 was not stealthy, and air defences had improved considerably since both were designed. A request for proposals went out in July 2014, and in October 2015 Northrop Grumman won the development contract against a joint Boeing and Lockheed Martin bid.{{ref:wiki-b21}}{{ref:af-b21}}",
+          "The losing team protested, and the Government Accountability Office upheld the award, finding that cost had been the deciding factor between two technically acceptable proposals.{{ref:wiki-b21}} That framing has shaped the programme since: the Air Force has repeatedly presented the B-21 as an exercise in affordability and schedule discipline as much as capability, in explicit contrast to the B-2, which was cut from 132 aircraft to 21 as its unit cost climbed."
+        ]
+      },
+      {
+        "heading": "What Is Actually Known",
+        "paragraphs": [
+          "The aircraft is a flying wing, visibly related to the B-2 but smaller, and the Air Force describes it as a 'dual-capable penetrating strike stealth bomber capable of delivering both conventional and nuclear munitions', able to employ 'a broad mix of stand-off and direct-attack munitions'.{{ref:af-b21}} It is being built around an open systems architecture, which the service says is intended to reduce integration risk and enable competition - in practice, to allow sensors, processors and weapons interfaces to be replaced by whichever supplier wins a later contract rather than locking the fleet to its original vendor for forty years.{{ref:afgsc-b21}}",
+          "Northrop has also leaned heavily on digital engineering, including a cloud-based digital twin used to support operations and sustainment, and the programme runs with around 8,000 staff and more than 400 suppliers across at least 40 states.{{ref:wiki-b21}} On crewing, the official position is deliberately open: the fact sheet says only that the aircraft is 'designed to accommodate manned or unmanned operations', and the Air Force has never confirmed a crew size.{{ref:af-b21}}"
+        ]
+      },
+      {
+        "heading": "The Specification Gap",
+        "paragraphs": [
+          "Almost everything a reader would normally expect from an aircraft entry is unavailable. The Air Force's own fact sheet carries no dimensions, no weights, no speed, no range, no ceiling, no engine designation and no crew figure. The only numbers it publishes are an average unit procurement cost - $550 million in 2010 dollars, $639 million in 2019 dollars, $692 million in 2022 dollars - and a minimum inventory objective of 100 aircraft.{{ref:af-b21}}{{ref:afgsc-b21}} Figures for wingspan, weight and thrust circulate widely in the aviation press and in reference works, but they are analysts' estimates rather than released data, which is why this entry records them as unknown rather than repeating them.",
+          "The secrecy has been contested. In 2016 Senator John McCain sought to force public disclosure of the programme's cost, and the provision was removed from the final conference report of the 2017 National Defense Authorization Act.{{ref:wiki-b21}} What the Air Force does publish - a per-aircraft cost, and a projected $203 billion to develop, procure and operate at least 100 aircraft over 30 years - is enough to argue about the programme's affordability while revealing nothing about what the aircraft can do."
+        ]
+      },
+      {
+        "heading": "Flight Test",
+        "paragraphs": [
+          "The aircraft under test are not prototypes. Northrop states that the B-21 test article carries mission systems and was built by the same technicians using the same processes and tooling as production aircraft{{ref:ng-b21}} - a deliberate departure from the usual pattern of hand-built prototypes that must be re-engineered for manufacture, and the reason testing and low-rate production have been able to overlap. The first aircraft was unveiled at Palmdale on 2 December 2022 and flew on 10 November 2023, moving to Edwards Air Force Base for testing with the 412th Test Wing and the Raider Combined Test Force. A second aircraft made its first flight on 11 September 2025, and by mid-2026 two were flying at Edwards, which allowed the programme to expand from airworthiness work into mission-systems and weapons-integration testing. The Air Force confirmed aerial refuelling with KC-135 tankers in April 2026.{{ref:wiki-b21}}{{ref:ar-ot}}",
+          "The programme has also inverted the usual test sequence. On 11 June 2026 an operational test pilot flew the aircraft alongside a developmental test pilot - normally operational crews only get an aircraft once developmental testing has validated the design. Colonel Matt Guasco noted the Air Force 'had not done this so early in a modern test program', the intent being to surface crew-interface, maintenance and weapons-employment problems before production rates climb rather than after.{{ref:ar-ot}}"
+        ]
+      },
+      {
+        "heading": "Production and Fielding",
+        "paragraphs": [
+          "Low-rate initial production was authorised on 23 January 2024, and on 23 February 2026 the Department of the Air Force announced a 25 percent increase in annual production capacity, funded by $4.5 billion from fiscal 2025 reconciliation legislation. Secretary of the Air Force Troy Meink framed it as 'disciplined execution at the speed the security environment demands', and General Dale White said the decision reflected 'confidence in the program's performance and the stability of the industrial base'.{{ref:ellsworth-prod}}",
+          "Ellsworth Air Force Base in South Dakota was named the first main operating base and formal training unit in 2021, with Dyess in Texas and Whiteman in Missouri to follow, and Tinker in Oklahoma handling depot maintenance. Fielding at Ellsworth is projected for 2027.{{ref:af-b21}}{{ref:ellsworth-prod}} The minimum inventory objective remains 100 aircraft, though studies have suggested numbers between 145 and 200 and the fleet size is still argued over.{{ref:wiki-b21}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The B-21 is one of three legs of a simultaneous nuclear modernisation, alongside the LGM-35 Sentinel intercontinental missile and the Columbia-class submarine, and it is the only one of the three that also has a conventional job.{{ref:wiki-b21}} It is intended to replace both the B-1 and the B-2, which together are planned to leave service by around 2040 - a fleet the B-21 must be numerous enough to succeed, which is why the argument about whether 100 aircraft is sufficient matters more than it would for a supplementary type.",
+          "For now the aircraft exists in small numbers, flies from one base, and is described publicly in terms that carefully avoid saying what it can do. Whether the programme's central claim - that it can be delivered affordably and at scale, unlike the B-2 - holds up will not be clear until production rates and real fielding dates can be measured against the schedule. On present plans the first operational Raiders arrive in 2027.{{ref:ellsworth-prod}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "af-b21",
+      "name": "B-21 Raider fact sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/2682973/b-21-raider/"
+    },
+    {
+      "id": "afgsc-b21",
+      "name": "B-21 Raider",
+      "publisher": "Air Force Global Strike Command",
+      "url": "https://www.afgsc.af.mil/About/Fact-Sheets/Display/Article/3910438/b-21-raider/"
+    },
+    {
+      "id": "ellsworth-prod",
+      "name": "DAF increases B-21 Raider production capacity to deliver combat capability faster",
+      "publisher": "Ellsworth Air Force Base",
+      "url": "https://www.ellsworth.af.mil/News/Article-Display/Article/4413059/daf-increases-b-21-raider-production-capacity-to-deliver-combat-capability-fast/"
+    },
+    {
+      "id": "ar-ot",
+      "name": "U.S. Air Force Begins Combat-Focused Testing of B-21 Raider with First Operational Test Pilot Flight",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/u-s-air-force-begins-combat-focused-testing-of-b-21-raider-with-first-operational-test-pilot-flight"
+    },
+    {
+      "id": "wiki-b21",
+      "name": "Northrop Grumman B-21 Raider",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider"
+    },
+    {
+      "id": "ng-b21",
+      "name": "What You Need to Know About Northrop Grumman's B-21 Raider",
+      "publisher": "Northrop Grumman",
+      "url": "https://news.northropgrumman.com/b-21/what-you-need-to-know-about-northrop-grummans-b-21-raider"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "B-21 Raider makes public debut; will become backbone of Air Force's bomber fleet",
+      "url": "https://www.af.mil/News/Article-Display/Article/3235250/"
+    },
+    {
+      "name": "B-21 Raider's Production to Accelerate, First Delivery in 2027",
+      "url": "https://theaviationist.com/2026/02/24/b-21-raiders-accelerate-production/"
+    },
+    {
+      "name": "USAF and Northrop Grumman accelerate B-21 Raider bomber production by 25%",
+      "url": "https://www.flightglobal.com/fixed-wing/usaf-reaches-deal-with-northrop-to-accelerate-b-21-production-by-25/166411.article"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2015-10-27",
+      "title": "Northrop Grumman wins the Long Range Strike Bomber contract",
+      "tag": "Programme milestone",
+      "summary": "Northrop Grumman was awarded the engineering and manufacturing development contract for the LRS-B, beating a joint Boeing and Lockheed Martin bid. The losing team protested; the Government Accountability Office upheld the award, finding cost had been the deciding factor between two technically acceptable proposals.",
+      "source": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/2682973/b-21-raider/"
+    },
+    {
+      "date": "2022-12-02",
+      "title": "Public rollout at Palmdale",
+      "tag": "Programme milestone",
+      "summary": "The first B-21 was unveiled at Northrop Grumman's Palmdale facility in California, the first new American bomber shown publicly since the B-2 in 1988. Only the front of the aircraft was displayed, and no specifications were released.",
+      "source": "https://www.af.mil/News/Article-Display/Article/3235250/"
+    },
+    {
+      "date": "2023-11-10",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "The first B-21 flew from Palmdale to Edwards Air Force Base, entering the flight test programme with the 412th Test Wing and the Raider Combined Test Force.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider"
+    },
+    {
+      "date": "2024-01-23",
+      "title": "Low-rate initial production authorised",
+      "tag": "Programme milestone",
+      "summary": "The Air Force awarded the low-rate initial production contract, moving the programme from development into manufacturing while flight testing continued.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider"
+    },
+    {
+      "date": "2025-09-11",
+      "title": "Second test aircraft flies",
+      "tag": "Programme milestone",
+      "summary": "The second B-21 made its first flight, allowing the test programme to run airworthiness and mission-systems work in parallel rather than in sequence.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "Production capacity increased by 25 percent",
+      "tag": "Programme milestone",
+      "summary": "The Department of the Air Force announced a 25 percent increase in annual B-21 production capacity, funded by $4.5 billion from fiscal 2025 reconciliation legislation, with fielding at Ellsworth Air Force Base projected for 2027.",
+      "source": "https://www.ellsworth.af.mil/News/Article-Display/Article/4413059/daf-increases-b-21-raider-production-capacity-to-deliver-combat-capability-fast/"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "First flight by an operational test pilot",
+      "tag": "Programme milestone",
+      "summary": "An operational test pilot flew the B-21 alongside a developmental test pilot at Edwards, unusually early in a modern bomber programme. The aim was to expose crew-interface, maintenance and weapons-employment issues before production rates increased.",
+      "source": "https://www.armyrecognition.com/news/aerospace-news/2026/u-s-air-force-begins-combat-focused-testing-of-b-21-raider-with-first-operational-test-pilot-flight"
+    }
+  ]
+}

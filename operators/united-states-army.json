@@ -1,0 +1,22 @@
+{
+  "id": "united-states-army",
+  "slug": "united-states-army",
+  "name": "United States Army",
+  "shortName": "US Army",
+  "type": "military",
+  "country": {
+    "name": "United States",
+    "code": "us"
+  },
+  "founded": "1775-06-14",
+  "foundedDisplay": "14 June 1775",
+  "headquarters": "The Pentagon, Arlington County, Virginia, USA",
+  "logo": "us-army.webp",
+  "website": null,
+  "tagline": "Gave up its fixed-wing combat aircraft in 1947 and answered by building the largest helicopter fleet in the world.",
+  "bio": [
+    "The Army has flown since 1909, when it bought the Wright Military Flyer, but its modern aviation branch is defined by what it lost. The 1947 National Security Act and the Key West Agreement that followed handed fixed-wing combat aviation to the newly independent Air Force and left the Army with light aircraft and helicopters. Rather than accept a diminished role, the Army spent the 1950s working out what rotary wing could do, and in Vietnam demonstrated it: the 1st Cavalry Division (Airmobile) moved a brigade by helicopter, and the UH-1 turned troop movement, resupply and casualty evacuation into something measured in minutes.",
+    "That inheritance is why the world's largest military helicopter fleet belongs to an army rather than an air force. It flies roughly 1,200 AH-64 Apaches, the UH-60 Black Hawk, and the CH-47 Chinook - first flown in 1961 and still in production sixty years later, the only Vietnam-era airframe that can say so. The UH-72 Lakota, a militarised H145, handles training and homeland support."
+  ],
+  "matchPattern": "united states army(?! air)|\\bus army\\b"
+}

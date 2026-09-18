@@ -1,0 +1,22 @@
+{
+  "id": "fleet-air-arm",
+  "slug": "fleet-air-arm",
+  "name": "Fleet Air Arm",
+  "shortName": "FAA",
+  "type": "military",
+  "country": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "founded": "1939-05-24",
+  "foundedDisplay": "24 May 1939",
+  "headquarters": "RNAS Yeovilton, Somerset, England",
+  "logo": null,
+  "website": null,
+  "tagline": "The Royal Navy's own air arm, which spent twenty-one years under RAF control before the Admiralty won it back on the eve of the war it would help decide.",
+  "bio": [
+    "Britain's naval flying began with the Royal Naval Air Service in 1914, but the RNAS was folded into the new Royal Air Force in 1918 and naval aviation spent the interwar years as somebody else's branch - crewed by sailors, commanded by airmen, and starved of modern aircraft by an air force with bombers to fund. The Admiralty regained full control on 24 May 1939, months before it mattered. What followed vindicated the argument: in November 1940 twenty-one Swordfish from HMS Illustrious crippled the Italian battle fleet at anchor in Taranto, a night attack studied closely in Tokyo the following year, and in May 1941 a single Swordfish torpedo jammed Bismarck's rudder and left her steaming in circles for the Home Fleet to finish.",
+    "The Falklands in 1982 made the case a second time, when Sea Harriers flying from Hermes and Invincible held air superiority over the task force with no airborne early warning and no diversion airfield within a thousand miles. Today the Fleet Air Arm flies the F-35B from HMS Queen Elizabeth and HMS Prince of Wales - 809 Naval Air Squadron re-formed on the type in 2023, alongside the RAF's 617 Squadron - with Merlin HM2 for anti-submarine work and airborne surveillance and Wildcat HMA2 for the surface fight."
+  ],
+  "matchPattern": "royal navy|fleet air arm"
+}

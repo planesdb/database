@@ -1,0 +1,440 @@
+{
+  "name": "Vulcan",
+  "fullName": "Avro Vulcan",
+  "manufacturer": "Avro",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Strategic Delta-Wing Bomber",
+  "tagline": "The Avro Vulcan is a British four-engine delta-wing strategic bomber that carried the United Kingdom's airborne nuclear deterrent from 1956 until 1969, when the role passed to Royal Navy submarines. It flew its only combat missions in 1982, when Operation Black Buck sent single aircraft 3,900 miles from Ascension Island to bomb Port Stanley - at the time the longest-range bombing raids ever flown.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Test pilot Roly Falk barrel-rolled a 70-tonne production Vulcan in front of the crowd at Farnborough in 1955 - a manoeuvre no bomber of that size had any business performing.",
+    "Only the two pilots had ejection seats. The three rear crew, who sat facing backwards on the lower deck, had to climb out through the entrance door, which is why four men died at Heathrow in 1956 and five over Malta in 1975 while both pilots survived.",
+    "The Vulcan's distinctive howl is acoustic resonance in its air intakes - the same effect as wind over a cavity - and it happens at a particular power setting rather than being the engines themselves.",
+    "Black Buck 1 needed 11 Victor tankers and 18 separate air-to-air refuellings to put one bomber over the target, burning roughly 1.1 million gallons of fuel to drop 21 bombs.",
+    "Exactly one of those 21 bombs hit the runway at Port Stanley, and Argentine engineers had it repaired for transport aircraft within 24 hours - the raid's real effect was political rather than physical.",
+    "XH558 returned to the air as a civilian display aircraft in 2007 after a restoration costing about £6.5 million, and flew until October 2015 - the last airworthy Vulcan."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the Vulcan B.2 with Olympus 301 engines, the definitive production version. The earlier B.1 was smaller-winged and substantially less powerful.",
+    "maxSpeed": {
+      "mph": 645,
+      "text": "560 kn (645 mph / 1,038 km/h)"
+    },
+    "cruiseSpeed": "620 mph (998 km/h); around 500 kn in the cruise between 35,000 and 50,000 ft",
+    "range": {
+      "miles": 4600,
+      "text": "4,600 mi (7,400 km, 4,000 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 55000,
+      "text": "55,000 ft (16,800 m)"
+    },
+    "wingspan": {
+      "ft": 111,
+      "text": "111 ft 0 in (33.83 m)"
+    },
+    "length": {
+      "ft": 99.9,
+      "text": "99 ft 11 in (30.45 m)"
+    },
+    "height": {
+      "ft": 27.2,
+      "text": "27 ft 2 in (8.28 m)"
+    },
+    "weight": "MTOW: 200,000 lb (90,700 kg)",
+    "engines": "Four Bristol Siddeley Olympus 301 turbojets, 20,000 lbf (89 kN) each; earlier B.2s used the Olympus 200/201 at 17,000 lbf (76 kN)",
+    "armament": "One Blue Steel stand-off nuclear missile, or one free-fall nuclear weapon (Blue Danube, Red Beard, Yellow Sun, later WE.177), or 21 conventional 1,000 lb bombs in the bomb bay. No defensive guns; wing pylons carried AGM-45 Shrike anti-radar missiles in 1982.",
+    "crew": "5 (two pilots on the upper deck; navigator radar, navigator plotter and air electronics officer facing rearwards below)",
+    "capacity": "21,000 lb (9,500 kg) bomb load",
+    "firstFlight": {
+      "date": "1952-08-30",
+      "year": 1952
+    },
+    "serviceEntryDate": "1956-07-20",
+    "retiredDate": "1984-03-31",
+    "numberBuilt": 136,
+    "unitCost": {
+      "usd": 2800000,
+      "text": "$2.8M (mid-1960s B.2; over £1M at the $2.80 exchange rate fixed through the period, against roughly £750,000 for the earlier B.1) - about £25M in 2026 pounds, adjusted for inflation",
+      "inflationText": "≈£25M in 2026 pounds"
+    }
+  },
+  "variants": [
+    {
+      "code": "B.1",
+      "desc": "The first production version, 45 built, powered by Olympus 101/102/104 engines of up to 13,500 lbf and finished in anti-flash white to reflect the heat of a nuclear detonation. It flew the pure high-altitude profile the type was designed for, relying on height and speed rather than any defensive armament. The original plain delta wing suffered buffet at altitude and was progressively replaced by the cranked Phase 2 wing."
+    },
+    {
+      "code": "B.1A",
+      "desc": "Forty of the B.1s rebuilt between 1959 and 1963 with a comprehensive electronic countermeasures suite housed in an enlarged, squared-off tail cone - the most visible external change in the type's history. The ECM fit was the response to Soviet radar-guided defences that made passive high-altitude penetration look increasingly optimistic. All had been withdrawn by 1968 as the B.2 took over."
+    },
+    {
+      "code": "B.2",
+      "desc": "The definitive version and by far the most numerous at 89 built. It combined the enlarged Phase 2C wing, more powerful Olympus 200/201 or 301 engines of up to 20,000 lbf, an improved electrical system and full ECM. The B.2 carried the Blue Steel stand-off missile from 1963, and the last 28 off the line were built with the wing hardpoints intended for the American Skybolt ballistic missile."
+    },
+    {
+      "code": "B.2 (MRR)",
+      "desc": "Nine B.2s converted from 1973 for maritime radar reconnaissance with No. 27 Squadron, replacing the retired Victor SR.2 in the role. They traded the anti-flash white for a gloss grey-green camouflage with light grey undersides and carried air-sampling pods for atmospheric radiation monitoring. The conversion kept airframes useful after the nuclear strike role had passed to the Royal Navy."
+    },
+    {
+      "code": "K.2",
+      "desc": "Six B.2s hurriedly converted to single-point air-to-air tankers in 1982, a direct response to the Falklands campaign exhausting the Victor tanker fleet. The bomb bay took three additional fuel tanks and a hose drum unit was fitted in the tail. Converted in a matter of weeks, they served only until March 1984 - the last Vulcans in RAF service, outliving the bombers they were built from."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "136 built; equipped up to nine front-line squadrons at Waddington, Scampton, Coningsby, Finningley and Akrotiri",
+      "homeBase": "RAF Waddington and RAF Scampton, Lincolnshire",
+      "logo": "raf.png"
+    },
+    {
+      "name": "RAF Vulcan Display Flight",
+      "role": "Display Operator",
+      "status": "Retired",
+      "since": "1984",
+      "fleetSize": "One aircraft (XH558) flown for the RAF display circuit until September 1992, eight years after the type left operational service",
+      "homeBase": "RAF Waddington, Lincolnshire",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Vulcan to the Sky Trust",
+      "role": "Civilian Display Operator",
+      "status": "Retired",
+      "since": "2007",
+      "fleetSize": "One aircraft (XH558), returned to flight in October 2007 and flown at air shows until 28 October 2015",
+      "homeBase": "Doncaster Sheffield Airport, South Yorkshire"
+    },
+    {
+      "name": "Preservation groups (ground-running)",
+      "role": "Heritage Operators",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "Three kept in live taxiable condition - XH558 at Doncaster, XL426 at Southend, XM655 at Wellesbourne Mountford",
+      "homeBase": "Various UK airfields"
+    }
+  ],
+  "survivors": {
+    "intro": "Nineteen Vulcans survive, all in the United Kingdom apart from four exported to Canada and the United States. None is airworthy, but three are kept in live ground-running condition and perform taxi runs, including both aircraft that flew the Black Buck raids.",
+    "airframes": [
+      {
+        "serial": "XH558",
+        "name": "Spirit of Great Britain",
+        "location": "Vulcan to the Sky Trust",
+        "place": "Doncaster Sheffield Airport, South Yorkshire, United Kingdom",
+        "url": "https://www.vulcantothesky.org/",
+        "note": "The last Vulcan to fly. Restored to airworthiness at a cost of around £6.5 million and flown from October 2007 until 28 October 2015, when the companies providing its technical support withdrew and its fatigue life could not be economically extended. Kept in taxiable condition.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XM655",
+        "location": "XM655 Maintenance and Preservation Society",
+        "place": "Wellesbourne Mountford Airfield, Warwickshire, United Kingdom",
+        "url": "https://www.xm655.com/",
+        "note": "The youngest Vulcan built, delivered in 1964. Maintained in live ground-running condition by volunteers, many of them ex-RAF personnel who worked on the type in service, and run publicly on open days.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XL426",
+        "location": "Vulcan Restoration Trust",
+        "place": "London Southend Airport, Essex, United Kingdom",
+        "url": "https://www.avrovulcan.com/",
+        "note": "Kept in live ground-running condition and taxied at public 'Visit the Vulcan' events.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XM607",
+        "location": "RAF Waddington",
+        "place": "Waddington, Lincolnshire, United Kingdom",
+        "note": "The aircraft that bombed Port Stanley on Black Buck 1, and the only Vulcan to score a direct hit on the runway. Preserved as a gate guardian at the station it flew from.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XM597",
+        "location": "National Museum of Flight",
+        "place": "East Fortune, East Lothian, United Kingdom",
+        "note": "Flew Black Buck 5 and 6 against Argentine radars, destroying a Skyguard fire-control set, and diverted to Rio de Janeiro when its refuelling probe broke. It still wears the small Brazilian flag painted on its nose to mark the internment.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XM598",
+        "location": "RAF Museum Midlands - National Cold War Exhibition",
+        "place": "Cosford, Shropshire, United Kingdom",
+        "url": "https://www.rafmuseum.org.uk/midlands/",
+        "note": "Displayed indoors alongside the Valiant and Victor - the only place all three V-bombers can be seen together.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XJ824",
+        "location": "Imperial War Museum Duxford",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "url": "https://www.iwm.org.uk/visits/iwm-duxford",
+        "note": "An early B.2 displayed under cover in the AirSpace hangar.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XM605",
+        "location": "Castle Air Museum",
+        "place": "Atwater, California, United States",
+        "note": "One of four Vulcans outside the United Kingdom; the others are XM573 at Ashland, Nebraska, XM606 at Bossier City, Louisiana, and XL361 as a gate guardian at CFB Goose Bay in Canada.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "VULC",
+    "howToFind": "No Vulcan has flown since October 2015, so none will ever appear airborne on a tracking network. XH558, XL426 and XM655 are still run on the ground and taxied at public events, which flight trackers do not show - the operators' own sites publish those dates instead."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created - full article, specifications, variants, operators, survivors and incident log written from Wikipedia, the RAF Museum, Vulcan to the Sky, Key Aero and the preservation societies' own sites.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "vulcan",
+    "avro vulcan",
+    "v-force",
+    "v bomber",
+    "vbomber",
+    "delta bomber",
+    "black buck",
+    "xh558",
+    "tin triangle",
+    "olympus",
+    "blue steel",
+    "falklands",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The Avro Vulcan is a British four-engine delta-wing strategic bomber, built by Avro for the Royal Air Force and flown from 1956 to 1984. It was the second of the three V-bombers - alongside the Vickers Valiant and Handley Page Victor - that carried the United Kingdom's airborne nuclear deterrent, and 136 were built.{{ref:wiki-vulcan}}",
+      "Designed to cross the Soviet Union at high altitude beyond the reach of fighters, it lost that role to surface-to-air missiles within a decade and spent its second half at low level. Its only combat came in 1982, when Operation Black Buck flew single aircraft nearly 4,000 miles from Ascension Island to bomb the Falklands.{{ref:wiki-vulcan}}{{ref:wiki-blackbuck}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Air Ministry Specification B.35/46 asked for a bomber able to carry a 10,000 lb nuclear weapon 1,500 nautical miles at 500 knots and 50,000 ft. Avro's chief designer Roy Chadwick and his successor Stuart Davies concluded that a conventional swept wing meeting those figures would be too heavy, and turned instead to the delta - a planform pioneered by Alexander Lippisch in Germany - which offered a thick root for fuel and weapons, high internal volume and low drag without a tail. The result was effectively a swept flying wing with a minimal forward fuselage.{{ref:wiki-vulcan}}",
+          "Because nothing that shape had flown at scale in Britain, Avro built the one-third-scale Avro 707 research aircraft to explore the delta's low-speed handling before committing. The prototype Vulcan VX770 first flew on 30 August 1952 in the hands of Roly Falk, and the type entered RAF service on 20 July 1956 when XA897 joined 230 Operational Conversion Unit at Waddington.{{ref:wiki-vulcan}}{{ref:vtst-service}} Falk had already demonstrated what the airframe could do by barrel-rolling a production aircraft at the 1955 Farnborough show, a 70-tonne bomber performing a manoeuvre expected of fighters.{{ref:ads-roll}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The pure delta did not survive contact with the wind tunnel. Testing at RAE Farnborough showed buffet and a dangerous nose-down Mach tuck as the aircraft approached its design altitude and speed, and the fix was a cranked and drooped leading edge with vortex generators - the Phase 2 wing, which became standard on later production and was retrofitted to earlier airframes. The B.2 went further with the larger Phase 2C wing and Olympus engines that grew from 13,500 lbf in the B.1 to 20,000 lbf in the Olympus 301, roughly a 50 percent increase in thrust across the type's life.{{ref:wiki-vulcan}}",
+          "Two design decisions defined how the Vulcan was experienced. Its howl - the sound the type is remembered for - is acoustic resonance in the air intakes at a particular power setting, the same phenomenon as wind across a cavity, rather than anything to do with the engines themselves.{{ref:hushkit-howl}} The second was less benign: only the two pilots had ejection seats, while the three rear crew sat facing backwards on the lower deck and had to escape through the entrance door. In the two worst accidents in the type's history both pilots ejected and every rear crew member died.{{ref:wiki-heathrow}}{{ref:wiki-zabbar}}"
+        ]
+      },
+      {
+        "heading": "The V-Force and the Deterrent",
+        "paragraphs": [
+          "From 1962 the Vulcan force stood Quick Reaction Alert, one armed aircraft per squadron held ready to launch within fifteen minutes - against an estimated four minutes of warning of a Soviet strike. The weapons changed as British nuclear capability matured: the Blue Danube fission bomb first, then the tactical Red Beard and the Yellow Sun thermonuclear weapon, and from 1963 the Blue Steel stand-off missile with three squadrons, which let the bomber release from about 100 miles out rather than overflying the target.{{ref:wiki-vulcan}}",
+          "The intended successor never arrived. The last 28 production B.2s were built with wing hardpoints for the American GAM-87 Skybolt air-launched ballistic missile, which would have extended the Vulcan's useful life considerably; President Kennedy cancelled Skybolt in 1962, leaving Britain with Blue Steel as a stopgap and pushing it towards the submarine-launched Polaris. When the Royal Navy took over the deterrent in 1969 the Vulcan lost the mission it had been designed for, and continued in a tactical nuclear strike role with the WE.177 under NATO command.{{ref:wiki-vulcan}}"
+        ]
+      },
+      {
+        "heading": "Down to Low Level",
+        "paragraphs": [
+          "The high-altitude concept had a short life. The shooting down of Gary Powers's U-2 over Sverdlovsk in 1960 demonstrated that Soviet surface-to-air missiles could reach the altitudes the V-force depended on, and by the mid-1960s the Vulcan's survival profile had inverted: instead of flying above the defences it would fly beneath their radar coverage, at 250 to 300 feet. The switch demanded structural work, because an airframe optimised for smooth air at 50,000 ft accumulates fatigue quickly in low-level turbulence, and the wings were strengthened accordingly.{{ref:wiki-vulcan}}",
+          "The change also gave the type a second decade of usefulness. Nine B.2s were converted from 1973 to maritime radar reconnaissance with No. 27 Squadron, and Vulcans became regular and respected participants in US Red Flag exercises, where the delta's agility at low level surprised crews who had expected a lumbering bomber.{{ref:ads-roll}} The conventional bombing capability retained through all of this - 21 1,000 lb bombs in the bomb bay - was the reason the aircraft was available in 1982.{{ref:wiki-vulcan}}"
+        ]
+      },
+      {
+        "heading": "Operation Black Buck",
+        "paragraphs": [
+          "The Vulcan's only combat missions came within two years of its planned retirement. Seven Black Buck sorties were mounted from Ascension Island during the 1982 Falklands War, of which five were completed; each was a round trip of about 6,600 nautical miles taking sixteen hours, and the logistics were extraordinary. Black Buck 1, flown by XM607 on 1 May after primary aircraft XM598 lost cabin pressurisation, required 11 Victor tankers and 18 air-to-air refuellings to deliver one bomber to the target. Of the 21 bombs dropped, one hit the runway at Port Stanley, and Argentine engineers repaired it for transport use within a day.{{ref:wiki-blackbuck}}",
+          "The later sorties did more measurable damage. Black Buck 5 and 6 carried AGM-45 Shrike anti-radar missiles rather than bombs; on Black Buck 6, XM597 destroyed a Skyguard fire-control radar, killing its four operators, then broke its refuelling probe on the way home and diverted to Rio de Janeiro with under 2,000 lb of fuel remaining. Aircraft and crew were interned at Galeão for a week and released on 10 June in exchange for Lynx helicopter spares.{{ref:wiki-blackbuck}} The raids' military value is still argued over - the runway was never closed to transport aircraft - but they demonstrated that Britain could reach the islands from the air, and the effectiveness of the Vulcan's jamming against Argentine radar was not in dispute.{{ref:wiki-blackbuck}}"
+        ]
+      },
+      {
+        "heading": "Retirement and Preservation",
+        "paragraphs": [
+          "The Falklands briefly reversed the retirement. With the Victor tanker fleet worn out by Black Buck, six B.2s were converted to K.2 tankers in a matter of weeks, and these outlasted the bombers: the last left RAF service on 31 March 1984.{{ref:key-vulcan}} XH558 was then flown by the RAF's Vulcan Display Flight until September 1992, sold to private ownership in 1993, and acquired by the Vulcan to the Sky Trust in 2005 for a return to flight.{{ref:wiki-xh558}}",
+          "That restoration cost around £6.5 million by its first flight on 18 October 2007 and survived a funding crisis resolved by a £500,000 donation from Sir Jack Hayward. XH558 flew the display circuit until 28 October 2015, when the companies underwriting its technical support withdrew and its fatigue life could not be extended at acceptable cost.{{ref:wiki-xh558}} Nineteen Vulcans survive. None is airworthy, but XH558 at Doncaster, XL426 at Southend and XM655 at Wellesbourne Mountford are all kept in live ground-running condition and still taxi under their own power.{{ref:wiki-survivors}}{{ref:xm655}}{{ref:vrt-xl426}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-vulcan",
+      "name": "Avro Vulcan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Avro_Vulcan"
+    },
+    {
+      "id": "wiki-blackbuck",
+      "name": "Operation Black Buck",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Black_Buck"
+    },
+    {
+      "id": "wiki-xh558",
+      "name": "Avro Vulcan XH558",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Avro_Vulcan_XH558"
+    },
+    {
+      "id": "wiki-survivors",
+      "name": "List of surviving Avro Vulcans",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Avro_Vulcans"
+    },
+    {
+      "id": "wiki-heathrow",
+      "name": "1956 London Heathrow Avro Vulcan crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1956_London_Heathrow_Avro_Vulcan_crash"
+    },
+    {
+      "id": "wiki-zabbar",
+      "name": "1975 Zabbar Avro Vulcan crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1975_%C5%BBabbar_Avro_Vulcan_crash"
+    },
+    {
+      "id": "vtst-service",
+      "name": "The Vulcan Enters RAF Service",
+      "publisher": "Vulcan to the Sky Trust",
+      "url": "https://vulcantothesky.org/articles/the-vulcan-enters-raf-service/"
+    },
+    {
+      "id": "ads-roll",
+      "name": "Countdown to Farnborough: 1955 & the Vulcan Barrel-Roll",
+      "publisher": "ADS Group",
+      "url": "https://www.adsgroup.org.uk/knowledge/countdown-farnborough-1955-vulcan-barrel-roll/"
+    },
+    {
+      "id": "hushkit-howl",
+      "name": "Why did the Vulcan bomber sound so good?",
+      "publisher": "Hush-Kit",
+      "url": "https://hushkit.substack.com/p/why-did-the-vulcan-bomber-sound-so"
+    },
+    {
+      "id": "key-vulcan",
+      "name": "Avro Vulcan origins and career",
+      "publisher": "Key Aero",
+      "url": "https://www.key.aero/article/avro-vulcan-origins-and-career"
+    },
+    {
+      "id": "xm655",
+      "name": "XM655 Maintenance and Preservation Society",
+      "publisher": "XM655 MaPS",
+      "url": "https://www.xm655.com/"
+    },
+    {
+      "id": "vrt-xl426",
+      "name": "Vulcan Restoration Trust - XL426",
+      "publisher": "Vulcan Restoration Trust",
+      "url": "https://www.avrovulcan.com/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Vulcan to the Sky Trust - XH558",
+      "url": "https://www.vulcantothesky.org/"
+    },
+    {
+      "name": "RAF Museum Midlands - National Cold War Exhibition",
+      "url": "https://www.rafmuseum.org.uk/midlands/"
+    },
+    {
+      "name": "1958 Syerston Avro Vulcan crash",
+      "url": "https://en.wikipedia.org/wiki/1958_Syerston_Avro_Vulcan_crash"
+    },
+    {
+      "name": "No. 230 Operational Conversion Unit RAF",
+      "url": "https://en.wikipedia.org/wiki/No._230_Operational_Conversion_Unit_RAF"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1955-09",
+      "title": "Barrel roll at the Farnborough air show",
+      "tag": "Display flight",
+      "summary": "Test pilot Roly Falk barrel-rolled a production Vulcan B.1 in front of the Farnborough crowd during the September 1955 SBAC show, demonstrating a level of agility not expected of a 70-tonne bomber. It became the type's defining public moment and was never officially repeated.",
+      "source": "https://www.adsgroup.org.uk/knowledge/countdown-farnborough-1955-vulcan-barrel-roll/"
+    },
+    {
+      "date": "1956-10-01",
+      "title": "XA897 destroyed on approach to Heathrow",
+      "tag": "Controlled flight into terrain",
+      "summary": "The first Vulcan delivered to the RAF struck the ground 1,030 yards short of the runway during a ground-controlled approach in torrential rain, returning from a proving flight to Australia and New Zealand. The pilot and Air Marshal Sir Harry Broadhurst ejected; the three rear crew and a technical adviser, who had no ejection seats, were killed.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/1956_London_Heathrow_Avro_Vulcan_crash"
+    },
+    {
+      "date": "1958-09-20",
+      "title": "Prototype VX770 breaks up at Syerston",
+      "tag": "Structural failure",
+      "summary": "The first Vulcan prototype disintegrated during a high-speed run at a Battle of Britain display when the starboard wing failed and the main spar collapsed. All four crew died, along with three people on the ground in a controllers' caravan struck by wreckage. The board of inquiry confirmed gross structural failure but could not establish the cause with certainty.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/1958_Syerston_Avro_Vulcan_crash"
+    },
+    {
+      "date": "1975-10-14",
+      "title": "XM645 breaks up over Zabbar, Malta",
+      "tag": "Undershoot and in-flight breakup",
+      "summary": "The aircraft undershot the runway at RAF Luqa, shearing off its undercarriage and igniting a starboard wing fire. During an attempted go-around both pilots ejected and the aircraft exploded over the town of Zabbar before the five rear crew could escape, killing them and one woman on the ground. Over 100 buildings were damaged. The inquiry found the accident avoidable and cited pilot error.",
+      "fatalities": 6,
+      "source": "https://en.wikipedia.org/wiki/1975_%C5%BBabbar_Avro_Vulcan_crash"
+    },
+    {
+      "date": "1982-05-01",
+      "title": "Black Buck 1 - the longest bombing raid then flown",
+      "tag": "Combat mission",
+      "summary": "XM607 bombed Port Stanley airfield after a 6,600-nautical-mile round trip from Ascension Island supported by 11 Victor tankers and 18 air-to-air refuellings. One of 21 bombs cratered the runway. It was the longest-range bombing raid in history at the time, a record held until the 1991 Gulf War.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Operation_Black_Buck"
+    },
+    {
+      "date": "1982-06-03",
+      "title": "XM597 interned in Brazil after Black Buck 6",
+      "tag": "Diversion",
+      "summary": "After destroying an Argentine Skyguard fire-control radar with Shrike missiles, XM597 broke its air-to-air refuelling probe on the return leg and diverted to Rio de Janeiro with less than 2,000 lb of fuel remaining. Aircraft and crew were interned at Galeao and released on 10 June in exchange for Lynx helicopter spares. The aircraft still carries a small Brazilian flag on its nose.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Operation_Black_Buck"
+    },
+    {
+      "date": "1984-03-31",
+      "title": "Last Vulcan withdrawn from RAF service",
+      "tag": "Retirement",
+      "summary": "The final K.2 tankers, converted from bombers during the Falklands campaign, were withdrawn from RAF service, ending 28 years of Vulcan operations. The bombers themselves had stood down over the preceding months.",
+      "source": "https://www.key.aero/article/avro-vulcan-origins-and-career"
+    },
+    {
+      "date": "2015-10-28",
+      "title": "XH558 flies for the last time",
+      "tag": "Final flight",
+      "summary": "The last airworthy Vulcan made its final flight after eight display seasons in civilian hands, grounded when the companies providing its technical support withdrew and its fatigue life could not be extended at acceptable cost. It remains at Doncaster in taxiable condition.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Avro_Vulcan_XH558"
+    }
+  ]
+}

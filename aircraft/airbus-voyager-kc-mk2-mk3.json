@@ -1,0 +1,280 @@
+{
+  "name": "KC2 Voyager",
+  "fullName": "Airbus Voyager KC.Mk 2 / KC.Mk 3",
+  "manufacturer": "Airbus Defence and Space",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Multi-Role Tanker Transport",
+  "tagline": "The RAF's premier strategic airlifter and dual-role aerial refueling platform. Based on the Airbus A330-200 Multi Role Tanker Transport, it carries all of its fuel within the existing wing and fuselage tanks, so it never has to trade away passenger or freight capacity to refuel other aircraft.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "To replace the aging VC10 and TriStar fleets, the UK Ministry of Defence entered into a Private Finance Initiative (PFI) contract with the AirTanker consortium to provide a fleet of 14 customized Airbus A330-200 aircraft, designated as 'Voyager'. The foundational A330 MRTT program logged its maiden flight on June 15, 2007, and the type formally entered service with the RAF in April 2014. The fleet remains central to the UK's global reach, supporting ongoing defense operations, routine South Atlantic Air Bridge logistics to the Falkland Islands, and high-profile VIP transport via the specially liveried 'Vespina' airframe.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 547,
+      "text": "475 kn (547 mph / 880 km/h)"
+    },
+    "cruiseSpeed": "~534 mph (Mach 0.82)",
+    "range": {
+      "miles": 9200,
+      "text": "8,000–9,200 mi (7,000–8,000 nmi) depending on configuration"
+    },
+    "serviceCeiling": {
+      "ft": 41100,
+      "text": "41,100 ft"
+    },
+    "wingspan": {
+      "ft": 197.8,
+      "text": "197 ft 10 in (60.3 m)"
+    },
+    "length": {
+      "ft": 192.9,
+      "text": "192 ft 11 in (58.8 m)"
+    },
+    "height": {
+      "ft": 57.1,
+      "text": "57 ft 1 in (17.4 m)"
+    },
+    "weight": "empty: 275,600 lb (125,000 kg); MTOW: 513,700 lb (233,000 kg)",
+    "engines": "2 x Rolls-Royce Trent 772B-60 turbofans (71,100 lbf thrust each)",
+    "crew": "3 (2 pilots, 1 mission systems operator); extra cabin crew for transport",
+    "capacity": "Up to 291 passengers and 43 tonnes (94,798 lb) of freight; aeromedical profile allows up to 40 stretchers",
+    "firstFlight": {
+      "date": "2007-06-15",
+      "year": 2007
+    },
+    "serviceEntryDate": "2014-04-01",
+    "retiredDate": null,
+    "numberBuilt": 14,
+    "unitCost": {
+      "usd": 220000000,
+      "text": "~$220M (estimated commercial equivalent conversion value)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Voyager KC.Mk 2",
+      "desc": "Equipped with two underwing Cobham 905E pods for hose-and-drogue refueling of probe-equipped aircraft like the Typhoon and F-35B."
+    },
+    {
+      "code": "Voyager KC.Mk 3",
+      "desc": "Features the two underwing refueling pods alongside an additional Cobham 805E Fuselage Refuelling Unit (FRU) centerline station for larger receiving aircraft."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2014",
+      "fleetSize": "14 (9 core operational, 5 surge/commercial capability)",
+      "homeBase": "RAF Brize Norton",
+      "logo": "raf.png"
+    },
+    {
+      "name": "AirTanker Services",
+      "role": "Leasing Consortium & Operator",
+      "status": "In Service",
+      "since": "2012",
+      "fleetSize": "14",
+      "homeBase": "RAF Brize Norton"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A332",
+    "howToFind": "Search public flight trackers for the ICAO type designator 'A332' or filter by standard RAF tanker callsigns such as 'TOWLINE', 'VANDAL', or 'ASCOT'. Core operations concentrate extensively around Oxfordshire (RAF Brize Norton), regular training patterns over the North Sea, and periodic deployments via RAF Akrotiri (Cyprus) or RAF Mount Pleasant (Falkland Islands)."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "RAF News Feed",
+      "url": "https://www.raf.mod.uk/news/",
+      "topicTag": "Voyager"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "A Royal Air Force Voyager KC Mk 2 tanker aircraft from the Falklands made a stopover in Chile",
+      "source": "Zona Militar",
+      "date": "2026-01-29",
+      "category": "Deployments",
+      "url": "https://www.zona-militar.com/en/2026/01/29/a-royal-air-force-voyager-kc-mk-2-tanker-aircraft-from-the-malvinas-made-a-stopover-in-chile/"
+    },
+    {
+      "title": "RAF withdraws Falklands tanker to support Middle East",
+      "source": "Defence Eye",
+      "date": "2026-04-23",
+      "category": "Deployments",
+      "url": "https://www.defenceeye.co.uk/2026/04/23/raf-withdraw-falklands-tanker-to-support-middle-east/"
+    },
+    {
+      "title": "RAF seeks refuelling boom capability for Voyager tankers",
+      "source": "Aviation Week",
+      "date": "2026-03-01",
+      "category": "Development",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/raf-seeks-refueling-boom-capability-voyager-tankers"
+    }
+  ],
+  "tags": [
+    "voyager",
+    "a330",
+    "a330-200",
+    "mrtt",
+    "airbus",
+    "tanker",
+    "air-to-air refueling",
+    "airtanker",
+    "brize norton",
+    "raf",
+    "vespina",
+    "zz336"
+  ],
+  "quickFacts": [
+    "The RAF's Voyagers are owned and maintained under the AirTanker private finance deal - at around £10.5 billion over 27 years, one of the largest PFI contracts ever signed in Britain.",
+    "Unlike most modern tankers, RAF Voyagers have no refuelling boom - only probe-and-drogue hoses - which is why RAF F-35As joining NATO's nuclear mission will initially rely on allied boom tankers.",
+    "One Voyager, ZZ336 'Vespina', doubles as the UK government's VIP transport with a Union Flag paint scheme.",
+    "In November 2022 a Voyager made the world's first 100% sustainable-aviation-fuel flight by a military aircraft of its size.",
+    "A single Voyager can offload enough fuel to fill more than 20 Typhoons and still fly home.",
+    "The 2014 Black Sea incident - a camera wedged against the captain's side-stick sent the jet plunging 4,400 ft - remains one of the strangest causes of a major air incident on record."
+  ],
+  "article": {
+    "overview": [
+      "The Airbus Voyager KC2/KC3 is the Royal Air Force's air-to-air refuelling tanker and transport aircraft, based on the Airbus A330 MRTT. Fourteen aircraft have flown from RAF Brize Norton since 2012 under a 27-year private finance initiative in which the AirTanker consortium owns and maintains the fleet.{{ref:wiki-voyager}}",
+      "Each Voyager refuels other aircraft using underwing hose-and-drogue pods (KC2) or an additional centreline unit (KC3), while retaining an airline-standard cabin that can carry up to 291 passengers and freight - and, on one aircraft, the Prime Minister.{{ref:raf-voyager}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "By the 2000s the RAF's tankers were flying museum pieces: VC10s and TriStars, 1960s designs devouring maintenance hours. The Future Strategic Tanker Aircraft program chose the Airbus A330 MRTT{{ref:wiki-mrtt}} - a new-build widebody with enormous inherent fuel volume - but procured it like no tanker before: a Private Finance Initiative under which the AirTanker consortium owns, services and even crews parts of the operation, selling the RAF guaranteed availability until 2035.{{ref:wiki-voyager}}",
+          "The A330 MRTT's core trick makes it possible: the airliner's standard wing tanks hold 111 tonnes of fuel with no cargo-bay tanks at all, so a Voyager gives away fuel while still carrying 291 passengers and freight below - tanker, transport and (in one aircraft's case) VIP state transport in a single airframe.{{ref:airbus-mrtt}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "RAF Voyagers come in two flavours: the KC2 with two underwing hose-and-drogue pods, and the KC3 adding a centreline fuselage unit for large receivers - probe-and-drogue throughout, matching RAF and allied naval practice. What they famously lack is a boom, which is why Britain's own boom-receptacle aircraft (C-17, P-8, Wedgetail) cannot tank from their own tankers - a procurement quirk debated ever since.{{ref:wiki-voyager}}",
+          "The MRTT's refuelling stations are flown by operators at consoles rather than windows, via cameras - and the type pioneered the next step: automatic air-to-air refuelling, with the boom variant certifying hands-off contacts for other air forces. Voyagers also retain full airline-standard cabins, which is why one (ZZ336 'Vespina') carries the Union-flag VIP scheme for government flights.{{ref:airbus-mrtt}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Since 2012 the fleet of fourteen (nine core, five surge) from RAF Brize Norton has underwritten every British air operation: continuous towlines for Quick Reaction Alert intercepts over the North Atlantic, Operation Shader's years over Iraq and Syria, fighter drags to the Falklands, the Pacific and everywhere Typhoons and F-35s deploy, plus the airlift backbone - including the 2021 Kabul evacuation's shuttle legs.{{ref:raf-voyager}}",
+          "Its oddest missions made headlines: the 'Vespina' VIP conversion, medevac flights during COVID, and 2022's Operation Pitting-style dashes - while its most historic came in November 2022, when a Voyager flew the RAF's first 100%-sustainable-aviation-fuel flight by a large military aircraft.{{ref:raf-voyager}}",
+          "The wider MRTT family the Voyager belongs to has become the Western world's tanker: 15 nations flying or ordering, from Australia's pathfinding KC-30As to NATO's pooled Eindhoven fleet - every one of them validating the airliner-tanker formula Britain bought early.{{ref:airbus-mrtt}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The PFI structure remains the program's most-studied feature: praised for delivering a young, superbly available fleet with zero RAF maintenance burden; criticised for cost (the National Audit Office's scrutiny is perennial), for the missing boom, and for early rules that kept fitting defensive aids to only part of the fleet. Availability contracting worked; the fine print taught lessons.{{ref:wiki-voyager}}",
+          "With the contract running to 2035, Britain's next-tanker debate is already live - boom capability, fleet ownership and autonomous refuelling all on the table - while the Voyagers themselves, barely teenagers by airliner standards, fly some of the youngest tanker hours in NATO.{{ref:raf-voyager}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The Voyager proved the airliner-tanker so thoroughly that the argument moved on: the question in every air force is no longer whether to convert a widebody but which one, and the A330 MRTT's global order book is substantially the answer. Britain's early, unorthodox bet seeded that standard.{{ref:airbus-mrtt}}",
+          "At home its legacy is the quiet kind: no RAF fast jet has wanted for fuel anywhere on the planet in over a decade, a service run to airline-standard reliability that most Britons only notice when one lands painted like the flag.{{ref:raf-voyager}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "raf-voyager",
+      "name": "Voyager KC Mk2/Mk3",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/aircraft/voyager-kc-mk2/"
+    },
+    {
+      "id": "wiki-voyager",
+      "name": "AirTanker Voyager / Future Strategic Tanker Aircraft",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AirTanker"
+    },
+    {
+      "id": "airbus-mrtt",
+      "name": "A330 MRTT",
+      "publisher": "Airbus",
+      "url": "https://www.airbus.com/en/products-services/defence/military-aircraft/a330-mrtt"
+    },
+    {
+      "id": "wiki-mrtt",
+      "name": "Airbus A330 MRTT",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A330_MRTT"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Royal Air Force - Voyager current aircraft details",
+      "url": "https://www.raf.mod.uk/aircraft/current-aircraft/voyager/"
+    },
+    {
+      "name": "AirTanker - A new generation description",
+      "url": "https://www.airtanker.co.uk/media/news/airtanker-news/a-new-generation/"
+    },
+    {
+      "name": "Defence Equipment & Support - A330 Voyager program overview",
+      "url": "https://des.mod.uk/what-we-do/raf-procurement-support/a330-voyager/"
+    },
+    {
+      "name": "Wikipedia - Airbus A330 MRTT",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A330_MRTT"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2014-02-09",
+      "title": "In-flight upset over the Black Sea",
+      "summary": "RAF Voyager ZZ333, carrying 198 people to Afghanistan, suddenly pitched nose-down and lost 4,400 feet in 27 seconds after a loose camera jammed against the captain's side-stick. The aircraft recovered and diverted to Incirlik, Turkey; several occupants were injured but there were no fatalities.",
+      "fatalities": 0,
+      "tag": "Loss of control (in-flight)",
+      "source": "https://aviation-safety.net/wikibase/163810"
+    },
+    {
+      "date": "2025-06-20",
+      "title": "Security breach and vandalism at Brize Norton",
+      "summary": "Activists breached security at RAF Brize Norton and sprayed paint into the engine and fuselage of a Voyager KC3 tanker, prompting a review of base security. No injuries were reported.",
+      "fatalities": 0,
+      "tag": "Security breach",
+      "source": "https://theaviationist.com/2025/06/20/raf-brize-norton-protesters/"
+    }
+  ]
+}

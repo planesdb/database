@@ -1,0 +1,337 @@
+{
+  "name": "MQ-9 Reaper",
+  "fullName": "General Atomics MQ-9 Reaper",
+  "manufacturer": "General Atomics Aeronautical Systems",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "drones",
+    "spy-planes"
+  ],
+  "role": "MALE Hunter-Killer Drone",
+  "tagline": "The definitive military hunter-killer drone. Its turboprop engine lets it loiter over a target for a full day while a ground-based crew watches full-motion video and, when authorised, engages with precision munitions.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "General Atomics developed the Reaper as a scaled-up, far more powerful successor to the MQ-1 Predator, first flying it on 2 February 2001 and delivering it to the US Air Force in 2007. Its 900-shaft-horsepower turboprop gives it roughly nine times the payload and much greater speed and altitude than the Predator, letting it carry a genuine mixed load of surveillance sensors and precision-guided weapons on the same sortie. It flew its first combat missions over Afghanistan in 2007 and has since become the backbone of US and allied armed ISR (intelligence, surveillance and reconnaissance) operations, logging well over two million flight hours across Afghanistan, Iraq, Syria, Yemen, the Horn of Africa and the Sahel. Because it operates in contested and semi-contested airspace without the survivability of a stealth aircraft, it has also suffered a steady string of combat losses - most heavily to Houthi air defences over Yemen from 2023 onward, and in one high-profile 2023 case, a Russian Su-27 intentionally struck one over the Black Sea, causing it to crash into international waters.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 300,
+      "text": "261 kn (300 mph / 482 km/h)"
+    },
+    "cruiseSpeed": "170-200 mph (274-322 km/h)",
+    "range": {
+      "miles": 1150,
+      "text": "1,150 mi (1,851 km, 1,000 nmi) operational radius; up to 42 hrs endurance with external tanks"
+    },
+    "serviceCeiling": {
+      "ft": 25000,
+      "text": "25,000 ft (7,620 m)"
+    },
+    "wingspan": {
+      "ft": 66,
+      "text": "66 ft (20.1 m); extended-range variants up to 88 ft"
+    },
+    "length": {
+      "ft": 36,
+      "text": "36 ft (11 m)"
+    },
+    "height": {
+      "ft": 12.5,
+      "text": "12 ft 6 in (3.81 m)"
+    },
+    "weight": "empty: 4,900 lb (2,223 kg); MTOW: 10,500 lb (4,760 kg)",
+    "engines": "1 x Honeywell TPE331-10 turboprop (900 shp)",
+    "armament": "AGM-114 Hellfire missiles, GBU-12/GBU-38 laser/GPS-guided bombs, GBU-49, AIM-9X Sidewinder (on later variants)",
+    "crew": "0 onboard - remote pilot + sensor operator (ground control station)",
+    "capacity": "3,800 lb payload (2,000 lb external / 800 lb internal)",
+    "firstFlight": {
+      "date": "2001-02-02",
+      "year": 2001
+    },
+    "serviceEntryDate": "2007-05-01",
+    "retiredDate": null,
+    "numberBuilt": 575,
+    "unitCost": {
+      "usd": 34000000,
+      "text": "~$34M (2024, flyaway)"
+    }
+  },
+  "variants": [
+    {
+      "code": "MQ-9A",
+      "desc": "Baseline production Reaper flown by the USAF, CBP and multiple allied air forces."
+    },
+    {
+      "code": "MQ-9B SkyGuardian",
+      "desc": "Extended-range, NATO airspace-certified export variant with de-icing and extra fuel capacity."
+    },
+    {
+      "code": "MQ-9B SeaGuardian",
+      "desc": "Maritime surveillance variant fitted with a maritime search radar and sonobuoy processing."
+    },
+    {
+      "code": "MQ-9 Reaper ER",
+      "desc": "Extended-range variant with wing-mounted fuel pods, pushing endurance past 30 hours."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "~300",
+      "homeBase": "Creech AFB & multiple ANG units",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Operator (Protector RG Mk1)",
+      "status": "In Service",
+      "since": "2023",
+      "fleetSize": "16 (on order/delivery)",
+      "homeBase": "RAF Waddington",
+      "logo": "raf.png"
+    },
+    {
+      "name": "US Customs & Border Protection",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2005",
+      "fleetSize": "~10",
+      "homeBase": "Multiple border stations"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2009",
+      "fleetSize": "~8",
+      "homeBase": "Amendola AB",
+      "logo": "italian-air-force.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "REAP",
+    "howToFind": "Reapers rarely broadcast civil ADS-B during operational or training sorties, so Flightradar24 sightings are uncommon and mostly limited to test/ferry flights near operating bases such as Creech AFB (Nevada) or Grand Forks AFB (North Dakota), or NATO-airspace SkyGuardian flights operated under civil-style flight rules."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/feed",
+      "topicTag": "MQ-9 Reaper"
+    },
+    {
+      "name": "Defense News",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+      "topicTag": "MQ-9"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Air Force dubs MQ-9 the 'MVP' of Epic Fury as lawmakers press manned-unmanned future",
+      "source": "Military Times",
+      "date": "2026-05-21",
+      "category": "Combat",
+      "url": "https://www.militarytimes.com/news/your-military/2026/05/21/air-force-dubs-mq-9-the-mvp-of-epic-fury-as-lawmakers-press-manned-unmanned-future/"
+    },
+    {
+      "title": "Air Force MQ-9 fleet drops to 135 aircraft after Iran combat losses",
+      "source": "Air Force Times",
+      "date": "2026-05-13",
+      "category": "Losses",
+      "url": "https://www.airforcetimes.com/news/pentagon-congress/2026/05/13/air-force-mq-9-fleet-drops-to-135-aircraft-after-iran-combat-losses/"
+    },
+    {
+      "title": "Pentagon to explore cheaper replacements for the MQ-9 Reaper",
+      "source": "Military Times",
+      "date": "2026-07-08",
+      "category": "Future",
+      "url": "https://www.militarytimes.com/industry/techwatch/2026/07/08/pentagon-to-explore-cheaper-replacements-for-the-mq-9-reaper/"
+    }
+  ],
+  "tags": [
+    "mq-9",
+    "mq9",
+    "reaper",
+    "general atomics",
+    "drone",
+    "uav",
+    "unmanned aerial vehicle",
+    "hunter-killer",
+    "predator b",
+    "military drone",
+    "usaf drone"
+  ],
+  "quickFacts": [
+    "RAF Reaper crews at Waddington and Creech AFB flew combat missions over Iraq, Syria and Afghanistan for over 15 years without the aircraft ever basing in the UK.",
+    "A Reaper crew changes over mid-mission: pilots fly 8-hour shifts from a ground station while the aircraft stays airborne for a day or more.",
+    "The RAF's August 2015 Reaper strike on a British ISIS member in Syria was announced by the Prime Minister in Parliament - a legal and constitutional first.",
+    "Its RAF replacement, the Protector RG1, is certified to fly in civilian airspace - something the Reaper was never allowed to do over Britain.",
+    "One RAF Reaper squadron is No. 39 - a WWI-founded squadron that has gone from biplanes to remote combat aircraft flown from another continent."
+  ],
+  "article": {
+    "overview": [
+      "The General Atomics MQ-9 Reaper is an uncrewed, remotely piloted aircraft built for surveillance and precision strike. Developed from the smaller MQ-1 Predator, it first flew in February 2001 and entered US Air Force service in 2007.{{ref:wiki-mq9}}",
+      "A Reaper can loiter over a target for more than 24 hours, and carries sensors and up to eight Hellfire missiles or guided bombs, flown remotely by a two-person crew. It has flown extensively over Afghanistan, Iraq, Syria and Libya, and ten nations now operate Reaper variants; over the Red Sea and during the 2026 war with Iran, dozens have been shot down as cheaper air defences have caught up with the type.{{ref:wiki-mq9}}{{ref:afm-replace}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Reaper is the Predator's ambitious child. General Atomics' MQ-1 Predator proved in the Balkans and Afghanistan that a slow, cheap, persistent aircraft with a satellite link could transform surveillance - and, after 2001, that it could kill. But the Predator was a converted reconnaissance machine: 100 knots, two Hellfires, allergic to weather.{{ref:wiki-mq9}}",
+          "The company built the fix on its own money. 'Predator B' scaled the airframe up around a 900-hp turboprop - triple the speed, 15 times the payload - and first flew in February 2001, nine months before the armed-drone era it anticipated became official doctrine. The Air Force named it Reaper: the service's first true hunter-killer aircraft.{{ref:wiki-mq9}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Everything on the MQ-9 serves persistence. The 66-foot glider-like wing and Honeywell TPE331 turboprop keep it aloft for 24+ hours at up to 50,000 feet; the bulbous nose houses the satellite dish that lets crews at Creech AFB, Nevada fly aircraft over any continent (local crews handle takeoff and landing).{{ref:af-mq9}}",
+          "The chin turret is the real weapon: the Multi-Spectral Targeting System fuses infrared, TV and laser designation into imagery that turned intelligence work from snapshots into unblinking video biography. Under the wings: up to eight Hellfires or 500 lb guided bombs - later joined by air-launched drones and even air-to-air missiles in trials.{{ref:af-mq9}}",
+          "A Reaper crew is two people and a coffee machine: pilot and sensor operator, working shifts through a mission that may outlast three crews - the 'remote-split' model that made one aircraft's day-long stare a routine, industrial product.{{ref:wiki-mq9}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "From 2007 the Reaper became the signature weapon of two decades of counter-terrorism: the persistent stare over Afghanistan, Iraq, Syria, Libya and the Sahel, and the strike that followed - including the January 2020 killing of Iranian general Qasem Soleimani at Baghdad airport, history's most consequential drone strike. The campaigns made the MQ-9 the most combat-proven aircraft of its generation and the centre of the era's fiercest ethical debates.{{ref:wiki-mq9}}",
+          "The 2020s turned the hunter into prey. Over the Red Sea, Houthi missiles downed well over a dozen Reapers by 2025 - the drones deliberately absorbing risk that would otherwise fall on crewed aircraft - and the 2026 war with Iran cost around two dozen more, shot down or destroyed on the ground. The losses validated the original bargain (no aircrew were lost with them) while exposing its price tag: $30M+ per airframe.{{ref:afm-replace}}{{ref:dsa-houthi}}",
+          "Ten nations now fly Reaper variants - from Britain's Protector RG1 (the certified, de-iced MQ-9B evolution) to France, Italy, the Netherlands, Japan and India's incoming fleet - on missions from maritime patrol to NATO's eastern flank.{{ref:wiki-mq9}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The Reaper's evolution has chased its own vulnerability. Extended-range tanks and hardpoint growth came first; then self-protection pods, and the SkyGuardian/SeaGuardian (MQ-9B) generation - bigger wing, 40-hour endurance, certified to fly in civil airspace and de-iced for all weather - which won Britain, Belgium, Japan and more.{{ref:ga-mq9b}}",
+          "The USAF stopped buying MQ-9As in 2021 and planned a phase-out, but the losses over Iran changed the calculus. With around two dozen Reapers lost, the service moved in 2026 to replace attrition with new aircraft, most likely MQ-9Bs, while reviewing 50+ industry proposals for a next-generation successor.{{ref:afm-replace}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The Reaper normalised a new kind of air power: persistent, remote, industrial - and politically frictionless enough to be used constantly, which is exactly what its critics fear and its operators value. Every armed drone flying today, from Turkish Bayraktars to China's Wing Loongs, competes in a market category the MQ-9 defined.{{ref:wiki-mq9}}",
+          "Its deepest legacy may be conceptual: the Reaper proved that an aircraft's most valuable component was never the pilot's body but the pilot's judgment - which could be delivered by satellite. Everything now emerging, from loyal wingmen to autonomous collaborative combat aircraft, builds on that separation the Reaper made routine.{{ref:afm-replace}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-mq9",
+      "name": "General Atomics MQ-9 Reaper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper"
+    },
+    {
+      "id": "af-mq9",
+      "name": "MQ-9 Reaper Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104470/mq-9-reaper/"
+    },
+    {
+      "id": "ga-mq9b",
+      "name": "MQ-9B SkyGuardian",
+      "publisher": "General Atomics Aeronautical",
+      "url": "https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b"
+    },
+    {
+      "id": "afm-replace",
+      "name": "To Replace Lost MQ-9s, USAF Eyes Next-Gen Reaper",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/to-replace-lost-mq-9s-usaf-eyes-next-gen-reaper/"
+    },
+    {
+      "id": "dsa-houthi",
+      "name": "Houthi Forces Shoot Down 14th U.S. Military MQ-9 Reaper Drone Over Yemen",
+      "publisher": "Defence Security Asia",
+      "url": "https://defencesecurityasia.com/en/houthi-forces-shoot-down-14th-u-s-military-mq-9-reaper-drone-over-yemen/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "General Atomics Aeronautical Systems - MQ-9A Reaper (Predator B)",
+      "url": "https://www.ga-asi.com/remotely-piloted-aircraft/mq-9a"
+    },
+    {
+      "name": "U.S. Air Force Fact Sheet - MQ-9 Reaper",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104470/mq-9-reaper/"
+    },
+    {
+      "name": "Air & Space Forces Magazine - MQ-9 Reaper",
+      "url": "https://www.airandspaceforces.com/weapons/mq-9/"
+    },
+    {
+      "name": "Airforce Technology - Predator/Reaper UAV Project Profile",
+      "url": "https://www.airforce-technology.com/projects/predator-uav/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and 2025-2026 attrition/replacement status.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2019-06-06",
+      "title": "Shot down by Houthi forces over Yemen",
+      "summary": "An armed U.S. MQ-9 was shot down over Yemen by Houthi forces using a Soviet-era SA-6 surface-to-air missile system, reportedly with Iranian technical assistance.",
+      "fatalities": 0,
+      "tag": "Shot down",
+      "source": "https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper"
+    },
+    {
+      "date": "2019-11-20",
+      "title": "Italian MQ-9 downed over Libya",
+      "summary": "An Italian Air Force MQ-9 Reaper was shot down near Tarhuna, Libya, reportedly by a Pantsir air-defence system operated by forces loyal to Khalifa Haftar.",
+      "fatalities": 0,
+      "tag": "Shot down",
+      "source": "https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper"
+    },
+    {
+      "date": "2020-08-18",
+      "title": "Mid-air collision over Syria",
+      "summary": "Two U.S. MQ-9 Reapers were destroyed in a mid-air collision during operations over Syria.",
+      "fatalities": 0,
+      "tag": "Mid-air collision",
+      "source": "https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper"
+    },
+    {
+      "date": "2023-03-14",
+      "title": "Downed after Russian jet intercept over the Black Sea",
+      "summary": "A Russian Su-27 dumped fuel on and struck the propeller of a U.S. MQ-9 conducting reconnaissance over international waters in the Black Sea, forcing operators to ditch the drone into the sea near Crimea.",
+      "fatalities": 0,
+      "tag": "Combat loss / intercept incident",
+      "source": "https://en.wikipedia.org/wiki/2023_Black_Sea_drone_incident"
+    },
+    {
+      "date": "2024-04-25",
+      "title": "Shot down over Yemen (Saada)",
+      "summary": "Houthi forces shot down a U.S. MQ-9 Reaper over Saada Governorate, Yemen, part of an escalating string of Houthi drone shootdowns.",
+      "fatalities": 0,
+      "tag": "Shot down",
+      "source": "https://www.airandspaceforces.com/houthis-shoot-down-third-mq-9/"
+    }
+  ]
+}

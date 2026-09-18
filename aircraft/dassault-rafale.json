@@ -1,0 +1,380 @@
+{
+  "name": "Rafale",
+  "fullName": "Dassault Rafale",
+  "manufacturer": "Dassault Aviation",
+  "originCountry": {
+    "name": "France",
+    "code": "fr"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Multirole Combat Aircraft",
+  "tagline": "France's independently developed omni-role fighter, equally at home flying from a carrier deck or a land base. Built in both carrier-capable and land-based versions, it is one of the very few modern fighters flown from both a conventional runway and a carrier's catapult, and has seen extensive combat over Libya, Mali, Iraq and Syria.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "Developed after France withdrew from the multinational Eurofighter program in 1985 to pursue its own independent design better suited to French carrier operations and nuclear-strike requirements, the Rafale demonstrator first flew in July 1986, with production aircraft entering French Navy service in 2004 and French Air Force service in 2006. Its canard-delta layout, extensive use of composite materials and advanced fly-by-wire flight controls give it exceptional agility across a wide flight envelope, while its designed 'omnirole' philosophy - carrying air-to-air, air-to-ground and reconnaissance stores simultaneously on the same sortie - lets a single aircraft switch roles mid-mission rather than requiring dedicated airframes for each task. The Rafale saw its combat debut over Afghanistan in 2007 and has since flown extensively in French-led operations including the 2011 NATO intervention in Libya, counter-terrorism strikes in Mali and the Sahel, and the coalition air campaign against ISIS in Iraq and Syria, as well as launching cruise missile strikes from French carriers and land bases. It achieved major export breakthroughs from 2015 onward, with India, Egypt, Qatar, Greece, Croatia, Indonesia and the United Arab Emirates all placing orders - India's 36-aircraft deal and subsequent additional naval order being particularly significant, with Indian Rafales reportedly seeing their first confirmed air-to-air combat use during the brief India-Pakistan aerial clashes of 2025, an engagement still subject to competing claims from both sides. Dassault continues Rafale production for both French and export orders alongside early development of France's next-generation FCAS fighter program.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1231,
+      "text": "1,070 kn (1,231 mph / 1,980 km/h)"
+    },
+    "cruiseSpeed": "~600 mph (965 km/h)",
+    "range": {
+      "miles": 2000,
+      "text": "2,000 mi (3,700 km) ferry range with external fuel tanks"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft (15,240 m)"
+    },
+    "wingspan": {
+      "ft": 35.75,
+      "text": "35 ft 9 in (10.9 m)"
+    },
+    "length": {
+      "ft": 50.17,
+      "text": "50 ft 2 in (15.27 m)"
+    },
+    "height": {
+      "ft": 17.58,
+      "text": "17 ft 7 in (5.34 m)"
+    },
+    "weight": "empty: 21,957 lb (9,960 kg); MTOW: 54,000 lb (24,500 kg)",
+    "engines": "2 x Snecma M88-2 afterburning turbofans, 11,250 lbf thrust each (16,900 lbf with afterburner)",
+    "armament": "1 x 30 mm GIAT DEFA 791B cannon; up to 20,900 lb (9,500 kg) of air-to-air missiles (Meteor, MICA), air-to-ground weapons (SCALP, AASM), anti-ship missiles (Exocet) or the ASMP-A nuclear stand-off missile",
+    "crew": "1 (Rafale C/M); 2 (Rafale B twin-seat variant)",
+    "capacity": "N/A - combat aircraft; up to 20,900 lb (9,500 kg) of external stores across 14 hardpoints",
+    "firstFlight": {
+      "date": "1986-07-04",
+      "year": 1986
+    },
+    "serviceEntryDate": "2004-05-18",
+    "retiredDate": null,
+    "numberBuilt": 260,
+    "unitCost": {
+      "usd": 115000000,
+      "text": "~$115M (current export contract pricing, 2026 dollars) including weapons and support package"
+    }
+  },
+  "variants": [
+    {
+      "code": "Rafale C",
+      "desc": "Single-seat, land-based French Air Force version."
+    },
+    {
+      "code": "Rafale B",
+      "desc": "Twin-seat, land-based French Air Force version used for both training and complex strike missions."
+    },
+    {
+      "code": "Rafale M",
+      "desc": "Carrier-capable single-seat naval version with reinforced undercarriage and an arrestor hook, flown from the carrier Charles de Gaulle."
+    },
+    {
+      "code": "Rafale DH/EH (India)",
+      "desc": "Export-configured two-seat and single-seat versions delivered to the Indian Air Force with India-specific weapons integration."
+    }
+  ],
+  "operators": [
+    {
+      "name": "French Air and Space Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2006",
+      "fleetSize": "~102, rising toward 185 under successive tranche orders",
+      "homeBase": "Saint-Dizier and Mont-de-Marsan airbases, France",
+      "logo": "french-air-force.webp"
+    },
+    {
+      "name": "French Navy (Aeronavale)",
+      "role": "Carrier Operator",
+      "status": "In Service",
+      "since": "2004",
+      "fleetSize": "~44 Rafale M - the only navalised Rafale fleet alongside India",
+      "homeBase": "Aircraft carrier Charles de Gaulle; Landivisiau airbase",
+      "logo": "french-fleet-air-arm.svg"
+    },
+    {
+      "name": "United Arab Emirates Air Force",
+      "role": "Largest Export Order",
+      "status": "On Order",
+      "since": "2021 (order)",
+      "fleetSize": "80 Rafale F4 ordered in December 2021 - the largest Rafale contract ever signed",
+      "homeBase": "UAE airbases"
+    },
+    {
+      "name": "Egyptian Air Force",
+      "role": "First Export Customer",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "54 - an initial 24 in 2015 followed by 30 more in 2021",
+      "homeBase": "Egyptian airbases"
+    },
+    {
+      "name": "Indonesian Air Force",
+      "role": "Export Operator",
+      "status": "On Order",
+      "since": "2022 (order)",
+      "fleetSize": "42 ordered in 2022, deliveries running through the late 2020s",
+      "homeBase": "Indonesian airbases"
+    },
+    {
+      "name": "Indian Air Force & Indian Navy",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "36 delivered to the Air Force by April 2022, plus 26 Rafale M ordered for the Navy in 2025",
+      "homeBase": "Ambala and Hasimara airbases, India",
+      "logo": "indian-air-force.webp"
+    },
+    {
+      "name": "Qatar Emiri Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "36 - 24 ordered in 2015 with a further 12 exercised in 2017",
+      "homeBase": "Qatari airbases"
+    },
+    {
+      "name": "Hellenic Air Force",
+      "role": "First European Export Customer",
+      "status": "In Service",
+      "since": "2021",
+      "fleetSize": "24 - 18 second-hand French aircraft and 6 new-build",
+      "homeBase": "Tanagra Air Base, Greece"
+    },
+    {
+      "name": "Croatian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2024",
+      "fleetSize": "12 second-hand French aircraft ordered in 2021",
+      "homeBase": "Zagreb-Pleso, Croatia"
+    },
+    {
+      "name": "Serbian Air Force",
+      "role": "Export Operator",
+      "status": "On Order",
+      "since": "2024 (order)",
+      "fleetSize": "12 ordered in August 2024 - the first Rafale sale to a country outside NATO in Europe",
+      "homeBase": "Batajnica Air Base, Serbia"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "RAFA",
+    "howToFind": "Regularly visible on Flightradar24 during French, Indian, Egyptian, Qatari and other export operator training flights, air show transits, and (where publicly broadcast) operational sorties; French Navy Rafale M movements to and from the carrier Charles de Gaulle are also occasionally trackable."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Defense News",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+      "topicTag": "Dassault Rafale"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "France commits 16 Rafales to Ukraine in Bastille Day announcement",
+      "source": "MiGFlug",
+      "date": "2026-07-15",
+      "category": "Exports",
+      "url": "https://migflug.com/jetflights/france-ukraine-16-rafale-deal-2026/"
+    },
+    {
+      "title": "Dassault Aviation H1 2026 results: defence exports drive 50% sales jump",
+      "source": "GlobeNewswire",
+      "date": "2026-07-22",
+      "category": "Program Update",
+      "url": "https://www.globenewswire.com/news-release/2026/07/22/3331568/0/en/Dassault-Aviation-2026-first-half-year-Results-Financial-Release.html"
+    },
+    {
+      "title": "France's Rafale doesn't need stealth to compete with the F-35, Dassault argues",
+      "source": "19FortyFive",
+      "date": "2026-07-01",
+      "category": "Feature",
+      "url": "https://www.19fortyfive.com/2026/07/frances-dassault-rafale-doesnt-care-one-bit-about-stealth-or-the-f-35/"
+    }
+  ],
+  "tags": [
+    "dassault rafale",
+    "french fighter",
+    "omnirole",
+    "carrier fighter",
+    "charles de gaulle carrier",
+    "indian air force rafale",
+    "multirole combat aircraft",
+    "meteor missile",
+    "canard delta"
+  ],
+  "quickFacts": [
+    "France calls the Rafale 'omnirole' - a single squadron can fly nuclear strike, carrier defence, reconnaissance and dogfighting on the same day.",
+    "It carries France's airborne nuclear deterrent: the ASMP-A supersonic cruise missile.",
+    "India's April 2025 order for 26 naval Rafale Ms (~$7.5B) will take its Rafale fleet toward 62 jets across two services.",
+    "Rafales fly from the carrier Charles de Gaulle using catapults - the only non-American fighter in service designed for 'cat and trap' operations.",
+    "Export sales exploded after 2015: Egypt, Qatar, India, Greece, Croatia, UAE, Indonesia and Serbia - after 15 years without a single foreign order.",
+    "In May 2025, Pakistan claimed to have downed Indian Rafales in the largest air battle in decades; India acknowledged unspecified losses while disputing details - the fog of war around that fight is still clearing."
+  ],
+  "article": {
+    "overview": [
+      "The Dassault Rafale is a French twin-engine, delta-canard multirole fighter built by Dassault Aviation for the French Air and Space Force and Navy. It is designed to perform air defence, deep strike, reconnaissance, carrier operations and nuclear deterrence missions from a single airframe.{{ref:wiki-rafale}}",
+      "More than 530 export Rafales have been ordered by nine nations as of 2026, with the production line ramping from two aircraft a month toward four and a delivery backlog stretching past 2032.{{ref:dsm-rafale}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Rafale was born from a divorce: France left the multinational program that became the Eurofighter in 1985 because its partners would not accommodate a carrier-capable, lighter design with the strike emphasis Paris required. Going it alone was ruinously expensive and thoroughly deliberate - full sovereignty over every system, from airframe to radar to weapons, remains the aircraft's core selling point.{{ref:wiki-rafale}}",
+          "The Rafale A demonstrator flew in 1986, the production design in 1991, and the type entered service with the Aéronavale in 2001 - replacing, in time, seven different aircraft types across the French forces. The word Dassault coined for it, 'omnirole', was marketing that happened to be true: swing-role on a single sortie, nuclear-capable, carrier-suited.{{ref:wiki-rafale}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The formula is a close-coupled delta-canard - the moving foreplanes work with the big delta for lift and agility - built around two Snecma M88s, up to 14 hardpoints carrying 9.5 tonnes, and a genuinely low observable-ish signature achieved through shaping and materials rather than full stealth. Dassault bet that reduced signature plus superb electronic warfare would age better than first-generation stealth's maintenance bills.{{ref:wiki-rafale}}",
+          "That electronic suite, SPECTRA, is the quiet star: a fused warning, jamming and decoy system credited with letting Rafales operate over Libya in 2011 before defences were fully suppressed. With the RBE2 AESA radar, Meteor ramjet missiles and the F4 standard's connectivity, the Rafale fights as a networked sensor node - and the F5 standard now in development pairs it with a loyal-wingman drone and the next nuclear missile.{{ref:dsm-rafale}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "French Rafales have fought continuously since 2007: Afghanistan, the 2011 Libya campaign (flying the opening strikes), Mali and the Sahel's long Operation Barkhane, and the anti-ISIS air war over Iraq and Syria - land- and carrier-based, often with the nuclear squadrons' jets rotating through conventional duty. Few Western fighters have a denser recent combat log.{{ref:wiki-rafale}}",
+          "Its combat story acquired a contested chapter in May 2025, when Pakistan claimed Rafale losses in the four-day clash with India - claims France and India partially disputed while acknowledging attrition; the fog around that episode became part of the type's export politics even as India doubled down on the aircraft itself.{{ref:csdr-india}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The export dam broke in 2015: Egypt first, then Qatar, India's initial 36, Greece, Croatia, the UAE's landmark 80-jet order, Serbia and Indonesia. By late 2025 firm orders passed 533, and Dassault - long a boutique producer - was industrialising: two per month became three in 2025, with four per month the target to eat a backlog stretching years.{{ref:dsm-rafale}}{{ref:at-dassault}}",
+          "India is becoming the second pillar: 26 Rafale M for its carriers signed in 2025, and in January 2026 its Defence Procurement Board cleared the long-debated 114-aircraft MRFA buy - 18 fly-away, 96 built in India with 60% local content - which would make India both the largest Rafale operator outside France and a production hub in its own right.{{ref:et-india}}{{ref:aa2z-india}}",
+          "At home, France plans on the Rafale into the 2060s: the F5 standard around 2030 with its UCAV wingman, the ASN4G hypersonic nuclear missile beyond, and the type bridging all the way to whatever the Franco-German FCAS becomes - if it becomes.{{ref:dsm-rafale}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The Rafale's export success rests on full national sovereignty over a complete combat system, sold without the end-use political restrictions that increasingly complicate American jets. For a widening set of buyers - India above all - that independence is a deciding factor.{{ref:csdr-india}}",
+          "It is also a counter-example in the stealth debate: a 'generation 4.5' design that has outsold every European rival by betting on electronic warfare, weapons and availability rather than low observability. Whether that approach holds against 2030s air defences will depend on the F5 standard and future orders.{{ref:dsm-rafale}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-rafale",
+      "name": "Dassault Rafale",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dassault_Rafale"
+    },
+    {
+      "id": "dsm-rafale",
+      "name": "Rafale Rising: Production Ramp-Up and the Road to the F5 Standard",
+      "publisher": "Defense Security Monitor (Forecast International)",
+      "url": "https://dsm.forecastinternational.com/2026/02/04/rafale-rising-production-ramp-up-and-the-road-to-the-f5-standard/"
+    },
+    {
+      "id": "at-dassault",
+      "name": "Dassault lifts 2026 guidance after 2025 rise in deliveries",
+      "publisher": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/dassault-2025-sales-jump-india-rafale-orders-2026-outlook"
+    },
+    {
+      "id": "et-india",
+      "name": "Rafale Orders Explode! India Eyes Becoming Production Hub",
+      "publisher": "EurAsian Times",
+      "url": "https://www.eurasiantimes.com/rafale-order-books-explode-india-eyes/"
+    },
+    {
+      "id": "aa2z-india",
+      "name": "India Can Order 114 New European Fighter Jets This Year",
+      "publisher": "Aviation A2Z",
+      "url": "https://aviationa2z.com/index.php/2026/03/07/india-can-order-114-new-european-fighter-jets-this-year/"
+    },
+    {
+      "id": "csdr-india",
+      "name": "India's Return to Rafale Jets",
+      "publisher": "CSDR",
+      "url": "https://csdronline.com/blind-spot/indias-return-to-rafale-jets/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Dassault Rafale",
+      "url": "https://en.wikipedia.org/wiki/Dassault_Rafale"
+    },
+    {
+      "name": "Dassault Aviation - Rafale official page",
+      "url": "https://www.dassault-aviation.com/en/defense/rafale/introduction/"
+    },
+    {
+      "name": "French Ministry of Armed Forces - Rafale program",
+      "url": "https://www.defense.gouv.fr/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and the 2025-26 order/production surge.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster - split the combined Egypt/Qatar row and added the six missing export customers (UAE, Indonesia, Greece, Croatia, Serbia and the Indian naval order) with order sizes and dates.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2009-09-23",
+      "title": "Two Rafales collide over the Atlantic",
+      "summary": "Two French Navy Rafale M fighters collided mid-air during a night training exercise off the French coast. One pilot was rescued and one was killed.",
+      "fatalities": 1,
+      "tag": "Mid-air collision",
+      "source": "https://www.france24.com/en/20090925-rafale-jet-crash-likely-caused-mid-air-collision-"
+    },
+    {
+      "date": "2019-03-20",
+      "title": "Passenger's accidental ejection",
+      "summary": "A civilian passenger on an incentive flight in a two-seat Rafale was inadvertently ejected during negative-g manoeuvring after grabbing the ejection handle through an inadequately secured harness. A resulting fault also disabled the pilot's own ejection seat, but the pilot landed the aircraft safely.",
+      "fatalities": 0,
+      "tag": "Ejection incident",
+      "source": "https://theaviationist.com/2020/04/09/report-released-on-french-rafale-passengers-accidental-ejection-reveals-both-human-and-technical-failures/"
+    },
+    {
+      "date": "2024-08-14",
+      "title": "Fatal collision near Colombey-les-Belles",
+      "summary": "A Rafale B and a Rafale C collided mid-air during a simulated-combat training sortie in northeastern France. Both crew of one jet were killed; the other pilot survived with minor injuries.",
+      "fatalities": 2,
+      "tag": "Mid-air collision",
+      "source": "https://theaviationist.com/2024/08/14/two-french-rafales-collide-one-pilot-safe-two-missing/"
+    },
+    {
+      "date": "2025-05-07",
+      "title": "Loss during Operation Sindoor",
+      "summary": "During India's strikes on Pakistan, an Indian Air Force Rafale came down in Bathinda district, Punjab. Pakistan claimed it as a combat shootdown; India has not confirmed the cause.",
+      "tag": "Combat loss (disputed)",
+      "source": "https://euro-sd.com/2025/05/major-news/44254/first-rafale-lost-in-combat/"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "name": "A400M Atlas",
+  "fullName": "Airbus A400M Atlas",
+  "manufacturer": "Airbus Defence and Space",
+  "originCountry": {
+    "name": "Multinational (Europe)",
+    "code": "eu"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Strategic/tactical airlift / Aerial refueling",
+  "tagline": "The versatile, next-generation European airlifter bridging the gap between tactical and strategic transport. Sized between the Lockheed C-130 Hercules and the Boeing C-17 Globemaster III, it can carry heavier and more oversized loads than the C-130 while still operating from short, unprepared airstrips.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "The A400M project originated in 1982 with the Future International Military Airlifter (FIMA) group, a joint venture tasked with developing a replacement for the aging C-130 Hercules and Transall C-160 transports. After structural reorganization and the creation of Euroflag, the partner nations—including France, Germany, Spain, the United Kingdom, Turkey, Belgium, and Luxembourg—formally initiated the procurement program through OCCAR in 2003. Powered by newly developed Europrop TP400-D6 turboprop engines with unique counter-rotating propellers, the aircraft encountered significant developmental, software, and financial delays. The prototype completed its maiden flight on 11 December 2009 from Seville Airport, Spain. EASA certification followed in March 2013, and the first production model entered operational service with the French Air Force in August 2013. The Atlas has since become a mainstay of modern European military airlift operations, providing long-range deployment, humanitarian relief, and tactical support around the world.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 485,
+      "text": "421 kn (485 mph / 780 km/h)"
+    },
+    "cruiseSpeed": "481 mph (780 km/h, Mach 0.68-0.72)",
+    "range": {
+      "miles": 2050,
+      "text": "2,050 mi (3,300 km, 1,780 nmi) at maximum payload; up to 5,409 mi (8,704 km, 4,700 nmi) ferry range"
+    },
+    "serviceCeiling": {
+      "ft": 40000,
+      "text": "40,000 ft (12,200 m)"
+    },
+    "wingspan": {
+      "ft": 139.08,
+      "text": "139 ft 1 in (42.4 m)"
+    },
+    "length": {
+      "ft": 147.96,
+      "text": "148 ft 0 in (45.1 m)"
+    },
+    "height": {
+      "ft": 48.25,
+      "text": "48 ft 3 in (14.7 m)"
+    },
+    "weight": "empty: 168,654 lb (76,500 kg); MTOW: 310,852 lb (141,000 kg)",
+    "engines": "4 x Europrop TP400-D6 turboprops (11,000 hp / 8,200 kW each) with 8-blade variable pitch counter-rotating propellers",
+    "crew": "3 (2 pilots, 1 loadmaster)",
+    "capacity": "116 paratroopers, 120 troops, or up to 37 tonnes (81,600 lb) of cargo",
+    "firstFlight": {
+      "date": "2009-12-11",
+      "year": 2009
+    },
+    "serviceEntryDate": "2013-08-01",
+    "retiredDate": null,
+    "numberBuilt": 130,
+    "unitCost": {
+      "usd": 200000000,
+      "text": "~$200M-$220M (approx. €150M-€175M)"
+    },
+    "combatLosses": "No A400M has been lost in combat. One aircraft (MSN023, registration EC-403, built for the Turkish Air Force) was destroyed in the 9 May 2015 Seville production test-flight crash that killed 4 of its 6 crew, after engine-control software was installed with corrupted torque-calibration data."
+  },
+  "variants": [
+    {
+      "code": "A400M Atlas",
+      "desc": "Standard production configuration multirole strategic/tactical airlifter and aerial refueling tanker."
+    },
+    {
+      "code": "A400M Firefighter",
+      "desc": "Demonstrated variant equipped with a roll-on/roll-off firefighting kit for aerial water dropping trials."
+    }
+  ],
+  "operators": [
+    {
+      "name": "German Air Force (Luftwaffe)",
+      "logo": "luftwaffe.webp",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2014",
+      "fleetSize": "~40+",
+      "homeBase": "Wunstorf Air Base"
+    },
+    {
+      "name": "French Air and Space Force",
+      "role": "Launch Operator",
+      "status": "In Service",
+      "since": "2013",
+      "fleetSize": "~20+",
+      "homeBase": "Orléans-Bricy Air Base",
+      "logo": "french-air-force.webp"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Strategic/Tactical Airlift Operator",
+      "status": "In Service",
+      "since": "2014",
+      "fleetSize": "22",
+      "homeBase": "RAF Brize Norton",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Spanish Air and Space Force",
+      "role": "Operator & Production Host",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "~14",
+      "homeBase": "Zaragoza Air Base",
+      "logo": "spanish-air-force.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A400",
+    "howToFind": "Filter Flightradar24's aircraft-type field for \"A400\" or track via military callsigns (such as ASY, RRR, GAF, CTM). Many operational flights are visible using standard ADS-B, though some tactical combat or special operations training exercises may be hidden or operate without active transponders."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "Airbus Press Releases",
+      "url": "https://www.airbus.com/en/newsroom",
+      "topicTag": "A400M"
+    },
+    {
+      "name": "Air Data News",
+      "url": "https://www.airdatanews.com",
+      "topicTag": "A400M"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "France transforms A400M Atlas into ISR surveillance powerhouse",
+      "source": "AeroNewsJournal",
+      "date": "2026-06-01",
+      "category": "Development",
+      "url": "https://www.aeronewsjournal.com/2026/06/france-transforms-a400m-atlas-into-isr.html"
+    },
+    {
+      "title": "France unleashes A400M Atlas military transport in firefighting debut",
+      "source": "AeroNewsJournal",
+      "date": "2026-07-01",
+      "category": "Deployments",
+      "url": "https://www.aeronewsjournal.com/2026/07/france-unleashes-a400m-atlas-military.html"
+    },
+    {
+      "title": "Airbus develops new A400M 'Mothership' variant to launch Taurus missiles or 50 drones",
+      "source": "Army Recognition",
+      "date": "2026-06-15",
+      "category": "Development",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/airbus-develops-new-a400m-mothership-variant-to-launch-12-taurus-missiles-or-50-drones-for-long-range-strikes"
+    }
+  ],
+  "tags": [
+    "a400m",
+    "a400",
+    "atlas",
+    "airbus",
+    "military transport",
+    "airlifter",
+    "turboprop",
+    "tactical airlift",
+    "tanker"
+  ],
+  "quickFacts": [
+    "Its eight-bladed scimitar propellers rotate in opposite directions on each wing ('down between engines'), cancelling torque and letting the wing be lighter - a first on an aircraft this size.",
+    "The A400M can carry a 37-tonne load into a strip of rough sand or gravel shorter than 800 metres - then refuel two fighters on the way home from wing-mounted pods.",
+    "It sits deliberately between the C-130 and C-17 in size: double a Hercules' load, but able to land where a Globemaster can't.",
+    "RAF Atlases took over the UK's tactical transport and special-forces support roles when the Hercules retired in 2023.",
+    "The UK's 2025 defence review pointed to buying up to six more Atlases to grow the fleet beyond 22.",
+    "Test aircraft were nicknamed 'Grizzly' - the production fleet's official RAF name, Atlas, was chosen by public suggestion."
+  ],
+  "article": {
+    "overview": [
+      "The Airbus A400M Atlas is a four-engine turboprop military transport aircraft built by Airbus for European and allied air forces. Conceived in 1982 to replace the C-130 Hercules and Transall C-160, it first flew in 2009 and entered service with the French Air Force in 2013, after a troubled development programme that nearly collapsed in 2010.{{ref:wiki-a400m}}",
+      "Sized between the C-130 it replaces and the larger Boeing C-17, the A400M carries heavier loads onto rougher airstrips than a Hercules while retaining the range to airlift cargo across continents, powered by the most powerful turboprop engines ever fielded in the West.{{ref:wiki-a400m}}"
+    ],
+    "sections": [
+      {
+        "heading": "Programme History",
+        "paragraphs": [
+          "The programme's roots go back to 1982, when Aerospatiale, British Aerospace, Lockheed and MBB formed the Future International Military Airlifter group to jointly design a C-130/Transall successor.{{ref:wiki-a400m}} Lockheed walked away in 1989 to build its own upgraded Hercules, the C-130J, instead - the remaining European partners reorganised as Euroflag, later adding Italy's Alenia and Spain's CASA.{{ref:wiki-a400m}} A launch contract for 212 aircraft was finally signed in May 2003 between Airbus Military and OCCAR, the multinational procurement agency representing eight partner nations, after a contentious engine competition in which the newly formed Europrop International consortium's TP400 beat a Pratt & Whitney Canada bid that United Technologies alleged had been undercut by political interference.{{ref:wiki-a400m}}",
+          "What followed was one of the roughest development programmes in modern military aviation. The first flight, planned for 2008, slipped to 11 December 2009 after engine problems, and by mid-2009 the French Senate was told the project was €5 billion over budget and three to four years late, burning through €1-1.5 billion a year.{{ref:wiki-a400m}} Airbus CEO Tom Enders warned the whole programme could be abandoned; South Africa cancelled its order outright in November 2009, and a PricewaterhouseCoopers audit projected the overrun could reach €11.2 billion.{{ref:wiki-a400m}} The partner nations chose to save it: in November 2010 they finalised a renegotiated contract and lent Airbus Military €1.5 billion, though the total order shrank from 180 aircraft to 170 in the process.{{ref:wiki-a400m}}",
+          "Airbus later admitted its own share of the blame. 'We underestimated the engine problems,' CEO Tom Enders told Bild am Sonntag in 2016. 'Airbus had let itself be persuaded by some well-known European leaders into using an engine made by an inexperienced consortium.'{{ref:wiki-a400m}} EASA finally certified the aircraft in March 2013, and the first production A400M was delivered to the French Air Force that August - a decade after the launch contract, and roughly five years behind the original schedule."
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The A400M was deliberately sized between the Lockheed C-130 Hercules and Boeing C-17 Globemaster III: it can carry cargo too large or heavy for a Hercules - up to 37 tonnes over 2,000 nmi, including light armoured vehicles, Patriot missile components or a Puma helicopter - while still operating from the short, rough, unprepared strips a C-17 cannot use.{{ref:wiki-a400m}} Four Europrop TP400-D6 turboprops, the most powerful of their kind ever to enter Western service, turn eight-bladed composite scimitar propellers configured 'down between engines': the inboard and outboard propeller on each wing spin in opposite directions, cancelling torque and prop-wash, reducing yaw if an outboard engine fails, and letting Airbus shrink the tail fin by 17% and the tailplane by 8%.{{ref:wiki-a400m}}",
+          "More than 30% of the airframe is composite material, including a carbon-fibre wing spanning 42.4 m that alone can carry 25 tonnes of fuel.{{ref:wiki-a400m}} Inside, the A400M shares Airbus's fly-by-wire architecture and glass cockpit philosophy with its civil airliners, adapted for the military mission with a dual hydraulic-plus-electric actuation system designed to give some redundancy against battle damage, and a forward-looking infrared enhanced-vision system for the head-up display during low-level or night tactical flying.{{ref:wiki-a400m}}",
+          "Beyond hauling cargo, the Atlas is built to be a multirole platform: it can air-drop up to 116 paratroopers or deliver vehicles and humanitarian aid by parachute, convert to a medical evacuation aircraft, and act as a tanker refuelling other aircraft - and, since further development work, helicopters - from wing-mounted pods or a centreline hose-and-drum unit.{{ref:wiki-a400m}} None of this came easily: in 2016 Airbus had to fix a batch of faulty propeller gearboxes from supplier Avio Aero after a flawed heat-treatment process weakened their ring gears, and separately found stress-cracking in a fuselage alloy used on early airframes.{{ref:wiki-a400m}}"
+        ]
+      },
+      {
+        "heading": "In Service",
+        "paragraphs": [
+          "The A400M's operational career began just months after entering service: a French Air Force aircraft flew its first mission on 29 December 2013, supporting Operation Serval in Mali.{{ref:wiki-a400m}} The RAF logged its own operational debut in March 2015 with a cargo run to RAF Akrotiri, Cyprus, and by September that year had become the type's flying-hours fleet leader.{{ref:wiki-a400m}} In July 2018 a German Air Force A400M carried 75 soldiers from Wunstorf to Mazar-i-Sharif, Afghanistan - the type's first flight into an active war zone, which the Luftwaffe's inspector called a milestone proving its defensive equipment worked for real.{{ref:wiki-a400m}}",
+          "Humanitarian missions have proven just as demanding. French, German and British A400Ms flew disaster relief into the Caribbean after Hurricane Irma in September 2017, delivering a Puma helicopter and emergency supplies.{{ref:wiki-a400m}} An RAF A400M carried search-and-rescue teams to Morocco after the devastating 2023 earthquake.{{ref:wiki-a400m}} And in May 2026, an RAF Atlas flew nearly 10,000 km via Ascension Island - refuelling mid-air from a Voyager tanker - to air-drop 3.3 tonnes of medical supplies and paratroop medics onto Tristan da Cunha, one of the world's most remote inhabited islands, to treat a hantavirus case when the island's two-person medical team and oxygen supplies ran critically low.{{ref:wiki-a400m}}",
+          "The type's most intense test came in August 2021: 25 A400Ms from six nations flew round-the-clock evacuation sorties from Kabul airport as the Afghan government collapsed, with German aircraft alone lifting out more than 5,300 people over 35 flights.{{ref:wiki-pitting}} The programme has not been free of tragedy - a brand-new production aircraft crashed on its first test flight from Seville on 9 May 2015 after engine-control software was installed with corrupted data, freezing three engines at idle and killing 4 of the 6 crew aboard, grounding several partner fleets while investigators traced the fault.{{ref:seville-crash}}"
+        ]
+      },
+      {
+        "heading": "Legacy and Future",
+        "paragraphs": [
+          "When the RAF retired its C-130J Hercules fleet in June 2023, the Atlas formally inherited the UK's tactical transport and special-forces support missions, including qualifying for rough-strip and beach-landing operations the Hercules had owned for six decades.{{ref:raf-atlas}} More than 130 aircraft have now been built for eight core operator nations, with export customers including Malaysia, Indonesia and Kazakhstan gradually growing the user base beyond the original European partners.{{ref:wiki-a400m}}",
+          "The UK's 2025 Strategic Defence Review floated buying up to six further Atlases to grow the RAF fleet past 22, while Germany - having struggled for years to find buyers for 13 surplus airframes it no longer needed - eventually chose to keep them in service rather than sell them off.{{ref:wiki-a400m}} One of the five original 'Grizzly' development aircraft, MSN4, retired to Bremen in November 2022 after nearly twelve years and 1,000 test flights proving capabilities from aerial refuelling to low-level flying, and now sits on permanent display at the site where every A400M is built.{{ref:msn4-retire}} More than a decade after its bruising development, the Atlas that partner nations almost cancelled twice is now the backbone of European tactical airlift - and the type export orders it once badly needed are, at last, arriving."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-a400m",
+      "name": "Airbus A400M Atlas",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A400M_Atlas"
+    },
+    {
+      "id": "seville-crash",
+      "name": "2015 Seville Airbus A400M crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2015_Seville_Airbus_A400M_crash"
+    },
+    {
+      "id": "wiki-pitting",
+      "name": "2021 evacuation from Afghanistan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2021_evacuation_from_Afghanistan"
+    },
+    {
+      "id": "raf-atlas",
+      "name": "Atlas C.1 (A400M)",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/aircraft/current-aircraft/atlas-c1-a400m/"
+    },
+    {
+      "id": "msn4-retire",
+      "name": "The last flight of a warrior: Airbus A400M MSN4 retires in Bremen",
+      "publisher": "Airbus",
+      "url": "https://www.airbus.com/en/newsroom/stories/2022-11-the-last-flight-of-a-warrior-airbus-a400m-msn4-retires-in-bremen"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Airbus A400M Atlas",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A400M_Atlas"
+    },
+    {
+      "name": "Airbus Defence and Space - A400M Technical Specifications",
+      "url": "https://www.airbus.com/en/products-services/defence/military-aircraft/a400m"
+    },
+    {
+      "name": "UK Defence Equipment & Support (DE&S) - Atlas A400M",
+      "url": "https://des.mod.uk/what-we-do/raf-procurement-support/atlas-a400m/"
+    }
+  ],
+  "survivors": {
+    "intro": "The A400M fleet is still young and almost entirely in active service, so there is no wave of retirees yet - but one of the original development aircraft that proved the design is preserved and on public display.",
+    "airframes": [
+      {
+        "serial": "MSN4 (\"Grizzly 4\")",
+        "name": null,
+        "location": "Airbus Defence and Space site, on permanent display",
+        "place": "Bremen, Germany",
+        "url": "https://www.airbus.com/en/newsroom/stories/2022-11-the-last-flight-of-a-warrior-airbus-a400m-msn4-retires-in-bremen",
+        "note": "Development aircraft used to prove air-to-air refuelling and aerial-delivery capability; retired after nearly 12 years, 1,000 flights and 2,000 flight hours, and returned to Bremen - where every A400M is built - in November 2022.",
+        "featured": true,
+        "countryCode": "de",
+        "country": "Germany"
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2015-05-09",
+      "title": "Fatal test-flight crash near Seville",
+      "summary": "An A400M crashed shortly after takeoff during a pre-delivery test flight near Seville, Spain, killing four of the six crew. Investigators found engine-control software had been installed with erased calibration data on three of the four engines, causing them to shut down after takeoff.",
+      "fatalities": 4,
+      "tag": "Test flight incident",
+      "source": "https://en.wikipedia.org/wiki/2015_Seville_Airbus_A400M_crash"
+    },
+    {
+      "date": "2017-02-01",
+      "title": "Fleet grounded over cracked propeller gearboxes",
+      "summary": "Germany and other A400M operators grounded parts of their fleets after cracks were found in the aircraft's propeller gearboxes, forcing Airbus into a multi-year redesign and torque-limiting fix.",
+      "tag": "Mechanical defect / grounding",
+      "source": "https://ukdefencejournal.org.uk/germany-grounds-a400m-aircraft-engine-worries/"
+    }
+  ]
+}

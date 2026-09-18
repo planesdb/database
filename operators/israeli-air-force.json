@@ -1,0 +1,19 @@
+{
+  "id": "israeli-air-force",
+  "slug": "israeli-air-force",
+  "name": "Israeli Air Force",
+  "shortName": "IAF",
+  "type": "military",
+  "country": { "name": "Israel", "code": "il" },
+  "founded": "1948-05-28",
+  "foundedDisplay": "28 May 1948",
+  "headquarters": "HaKirya, Tel Aviv, Israel",
+  "logo": "israeli-air-force.webp",
+  "website": null,
+  "tagline": "Born mid-war in 1948 from a handful of smuggled and surplus aircraft, and forged by decades of conflict into one of the world's most combat-experienced air arms.",
+  "bio": [
+    "The Israeli Air Force was established on 28 May 1948, days after Israel declared independence and while the country was already at war. Its first fighters were Avia S-199s - Czechoslovak-built derivatives of the German Bf 109 - smuggled in and flown by a mix of Israeli pilots and overseas volunteers, soon joined by ex-Czechoslovak Spitfires. From those improvised beginnings it grew into a force defined by audacious operations, most famously Operation Focus in June 1967, the pre-emptive strike that destroyed the bulk of three Arab air forces on the ground in the opening hours of the Six-Day War.",
+    "Israeli squadrons have flown the Mirage III, F-4 Phantom, F-15 and F-16 through repeated wars and countless smaller actions, racking up more jet-versus-jet victories than almost any other air arm and shaping how several of those types were developed and upgraded. Today the force fields large F-16 and F-15 fleets, AH-64 Apache attack helicopters and the F-35I \"Adir\", a uniquely Israeli-modified variant of the Lightning II - making it the first air force outside the United States to use the F-35 in combat."
+  ],
+  "matchPattern": "israeli air force|israel air force|israel defense forces air force"
+}

@@ -1,0 +1,449 @@
+{
+  "name": "F-15 Eagle",
+  "fullName": "McDonnell Douglas F-15 Eagle / Boeing F-15E Strike Eagle",
+  "manufacturer": "McDonnell Douglas / Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets",
+    "bombers"
+  ],
+  "role": "Air Superiority Fighter & Strike Fighter",
+  "tagline": "Undefeated in air combat for 50 years - and, as the Strike Eagle, the USAF's hardest-hitting fighter-bomber. Across five decades of combat with the USAF, Israel, Saudi Arabia, Singapore and Japan, F-15s have scored more than 100 air-to-air victories.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "Developed under the F-X program partly in response to inflated Western estimates of the Soviet MiG-25, the F-15A first flew on 27 July 1972 and reached USAF squadrons in 1976. A stripped 'Streak Eagle' broke eight time-to-climb world records in January-February 1975, reaching 98,425 ft in under 3.5 minutes. Israeli Eagles scored the type's first air-to-air kills in June 1979, dominated the June 1982 Bekaa Valley air battles over Lebanon, and in 1983 an Israeli F-15D famously landed after a mid-air collision tore off its entire right wing. USAF F-15Cs went on to score 32 of the coalition's 39 fixed-wing kills during Desert Storm in 1991.\n\nThe two-seat F-15E Strike Eagle, winner of the USAF's 1984 Dual-Role Fighter competition against the F-16XL, first flew on 11 December 1986 and entered service in 1988. In Desert Storm it hunted Scud launchers by night and scored the family's only air-to-air kill with a bomb - an Iraqi Mi-8 helicopter destroyed by a GBU-10 laser-guided bomb - but also suffered the type's first combat losses, two jets downed by ground fire. Strike Eagles have flown continuously in combat since: Bosnia, Kosovo, Afghanistan, Iraq, Libya, Syria, and in April 2024 they helped shoot down more than 70 Iranian one-way attack drones headed for Israel in a single night.\n\nThe F-15C/D fleet is now retiring - Kadena's long-serving Eagles left Japan in 2023-25, and a Desert Storm MiG-killer entered the Smithsonian's collection in August 2025 - while the USAF began fielding the modernised F-15EX Eagle II in 2021 and upgraded F-15I/S/SA/SG/K variants fly with allied forces deep into the 2040s. The family's long unbeaten air-combat run met a harder edge in 2026: on 2 March, Kuwaiti air defences shot down three USAF F-15s in a friendly-fire incident during Operation Epic Fury against Iran, and on 3 April an F-15E Strike Eagle became the first F-15 family aircraft lost to enemy fire since 1991, triggering a historic two-stage rescue that recovered both crew from deep inside Iranian territory.",
+  "quickFacts": [
+    "The F-15's air-to-air record stands at roughly 104 kills for zero losses in air-to-air combat - no Eagle has ever been shot down by an enemy aircraft.",
+    "In 1983 an Israeli F-15D landed safely after a mid-air collision tore off its entire right wing - the pilot only discovered the wing was missing after landing.",
+    "The 'Streak Eagle' record-breaker out-climbed a Saturn V rocket to 40,000 feet in 1975, setting eight world time-to-climb records.",
+    "An F-15E scored the only air-to-air kill ever made with a bomb: a GBU-10 laser-guided bomb dropped onto a flying Iraqi Mi-8 helicopter in February 1991.",
+    "In April 2024, F-15Es were credited with destroying more than 70 Iranian one-way attack drones headed for Israel in a single night.",
+    "On 3 April 2026 an F-15E was shot down over Iran by a shoulder-fired missile - the first F-15 family loss to enemy fire in 35 years - triggering a rescue involving over 150 aircraft and the first acknowledged US ground presence inside Iran since 1980.",
+    "The F-15EX Eagle II, first delivered in 2021, can carry up to 12 air-to-air missiles - more than any other US fighter.",
+    "The F-15E airframe is rated for 16,000 flight hours, roughly double the design life of the original F-15C."
+  ],
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1650,
+      "text": "1,434 kn (1,650 mph / 2,655 km/h)"
+    },
+    "cruiseSpeed": "570 mph (917 km/h) typical cruise",
+    "range": {
+      "miles": 3450,
+      "text": "3,450 mi (5,550 km) ferry with conformal tanks and drop tanks (F-15C/EX); F-15E combat radius ~790 mi (1,270 km)"
+    },
+    "serviceCeiling": {
+      "ft": 65000,
+      "text": "65,000 ft (19,800 m)"
+    },
+    "wingspan": {
+      "ft": 42.8,
+      "text": "42 ft 10 in (13.05 m)"
+    },
+    "length": {
+      "ft": 63.8,
+      "text": "63 ft 9 in (19.43 m)"
+    },
+    "height": {
+      "ft": 18.5,
+      "text": "18 ft 6 in (5.63 m)"
+    },
+    "weight": "F-15C empty: 28,000 lb (12,700 kg), MTOW: 68,000 lb (30,845 kg); F-15E empty: 31,700 lb (14,380 kg), MTOW: 81,000 lb (36,740 kg)",
+    "engines": "2 × Pratt & Whitney F100-PW-220/229 afterburning turbofans (~23,800-29,000 lbf each with afterburner); GE F110-GE-129 on F-15EX",
+    "armament": "1 × 20 mm M61A1 Vulcan cannon; AIM-7/AIM-9/AIM-120 AAMs; F-15E adds JDAM, Paveway, GBU-28 bunker-buster, StormBreaker, JASSM",
+    "crew": "1 (F-15A/C); 2 (F-15E/EX missions optionally)",
+    "capacity": "Up to 8 AAMs (12 on F-15EX); F-15E up to 23,000 lb (10,400 kg) of ordnance",
+    "firstFlight": {
+      "date": "1972-07-27",
+      "year": 1972
+    },
+    "serviceEntryDate": "1976-01-09",
+    "retiredDate": null,
+    "numberBuilt": 1700,
+    "unitCost": {
+      "usd": 90000000,
+      "text": "$90M+ (F-15EX flyaway, 2020s); F-15C about $30M (1998 dollars); F-15E about $87M at 2020s upgraded standard, ~$31M original 1990s flyaway"
+    },
+    "combatLosses": "Zero F-15A/C/EX lost in air-to-air combat. F-15E: 2 lost to Iraqi ground fire in Desert Storm (1991), 1 lost to mechanical failure over Libya (2011), 1 shot down by a shoulder-fired missile over Iran (3 Apr 2026) - the family's first loss to enemy fire since 1991. Separately, 3 USAF F-15s were destroyed by Kuwaiti friendly fire on 2 Mar 2026; all crews were recovered safely in both incidents."
+  },
+  "variants": [
+    {
+      "code": "F-15A/B",
+      "desc": "Original single- and two-seat air superiority versions from 1972."
+    },
+    {
+      "code": "F-15C/D",
+      "desc": "Improved 1979 versions with more fuel, better radar and conformal tank capability - the definitive Cold War Eagle."
+    },
+    {
+      "code": "F-15J",
+      "desc": "Licence-built air defence version for Japan, produced by Mitsubishi."
+    },
+    {
+      "code": "F-15E Strike Eagle",
+      "desc": "Two-seat, long-range strike derivative with conformal tanks, a weapon systems officer, and up to 23,000 lb of ordnance - the USAF's heaviest-hitting fighter-bomber."
+    },
+    {
+      "code": "F-15I / F-15S / F-15SA / F-15SG / F-15K",
+      "desc": "Advanced two-seat strike derivatives for Israel, Saudi Arabia, Singapore and South Korea."
+    },
+    {
+      "code": "F-15EX Eagle II",
+      "desc": "New-build 2020s variant with fly-by-wire, AESA radar, EPAWSS electronic warfare suite and 12-missile loadout."
+    }
+  ],
+  "operators": [
+    {
+      "name": "US Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1976",
+      "fleetSize": "~580 incl. F-15C/D/E/EX",
+      "homeBase": "Multiple (Portland ANG, Barnes ANG, Eglin, Seymour Johnson, RAF Lakenheath, Mountain Home)",
+      "logo": "usaf.svg"
+    },
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "Export Operator (F-15J/DJ)",
+      "status": "In Service",
+      "since": "1981",
+      "fleetSize": "~200",
+      "homeBase": "Multiple",
+      "logo": "jasdf.webp"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Export Operator (F-15A/C, F-15I)",
+      "status": "In Service",
+      "since": "1976",
+      "fleetSize": "~105 incl. F-15I",
+      "homeBase": "Tel Nof / Hatzerim",
+      "logo": "israeli-air-force.webp"
+    },
+    {
+      "name": "Republic of Singapore Air Force",
+      "role": "Export Operator (F-15SG)",
+      "status": "In Service",
+      "since": "2009",
+      "fleetSize": "~40",
+      "homeBase": "Paya Lebar / Mountain Home (training)"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F15",
+    "howToFind": "Search type 'F15'. Japanese F-15Js around Naha, US ANG Eagles on training sorties, and Strike Eagles from RAF Lakenheath (callsigns like 'GRIM' and 'DUDE') appear when squawking; new F-15EX test flights from St. Louis are regularly tracked."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/",
+      "topicTag": "F-15"
+    },
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/",
+      "topicTag": "F-15"
+    },
+    {
+      "name": "Boeing Defense News",
+      "url": "https://www.boeing.com/defense",
+      "topicTag": "F-15EX"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "USAF aims to double its F-15EX Eagle II fleet",
+      "source": "Military Times",
+      "date": "2026-04-24",
+      "category": "Program Update",
+      "url": "https://www.militarytimes.com/industry/techwatch/2026/04/24/us-air-force-aims-to-double-f-15ex-eagle-fleet/"
+    },
+    {
+      "title": "USAF expands F-15EX Eagle II strike capability with first operational air-to-ground weapons release",
+      "source": "Zona Militar",
+      "date": "2026-07-20",
+      "category": "Weapons",
+      "url": "https://www.zona-militar.com/en/2026/07/20/usaf-expands-f-15ex-eagle-ii-strike-capabilities-with-first-operational-air-to-ground-weapons-release/"
+    },
+    {
+      "title": "A brand-new Boeing F-15EX Eagle II deploys near China's backyard",
+      "source": "19FortyFive",
+      "date": "2026-07-01",
+      "category": "Deployment",
+      "url": "https://www.19fortyfive.com/2026/07/a-brand-new-boeing-f-15ex-eagle-ii-fighter-just-touched-down-in-chinas-backyard/"
+    }
+  ],
+  "tags": [
+    "f-15",
+    "eagle",
+    "f-15e",
+    "strike eagle",
+    "mudhen",
+    "mcdonnell douglas",
+    "boeing",
+    "usaf",
+    "air superiority",
+    "strike fighter",
+    "f-15ex",
+    "eagle ii",
+    "streak eagle",
+    "lakenheath",
+    "fighter"
+  ],
+  "article": {
+    "overview": [
+      "The McDonnell Douglas F-15 Eagle is an American twin-engine, all-weather air superiority fighter developed for the US Air Force following lessons learned over Vietnam. It first flew in 1972 and entered service with a thrust-to-weight ratio above 1:1.{{ref:wiki-f15}}",
+      "It has been flown in combat by the US Air Force, Israel, Saudi Arabia, Singapore and Japan, and has scored over 100 confirmed air-to-air kills without ever losing an aerial engagement. Its two-seat derivative, the F-15E Strike Eagle, extended that record as a long-range strike aircraft, though in April 2026 an F-15E became the first aircraft in the family shot down by enemy fire.{{ref:militarytimes-rescue}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the F-X Program",
+        "paragraphs": [
+          "Air Force fighter pilots came out of Vietnam frustrated: the F-4 Phantom, for all its speed, had been designed as a missile-truck interceptor and struggled to turn with smaller, more agile MiGs at close range. The F-X program that followed was deliberately, almost stubbornly single-minded - no bombs, no compromises, an aircraft optimised purely to win a dogfight - and inflated Cold War intelligence estimates of the new Soviet MiG-25's speed and agility only sharpened the requirement.{{ref:wiki-f15}}",
+          "McDonnell Douglas's design paired a huge wing - big enough to generate lift and turn hard even at high altitude - with two Pratt & Whitney F100 afterburning turbofans giving a clean F-15A enough thrust to accelerate while climbing straight up. The first F-15A flew on 27 July 1972, and the type reached operational USAF squadrons in January 1976.{{ref:wiki-f15}}",
+          "The Eagle's early reputation for raw performance was cemented by a stripped-down test aircraft nicknamed 'Streak Eagle', which had its radar, most paint and even some structure removed to chase pure climb performance. Between January and February 1975 it set eight time-to-climb world records, reaching 98,425 ft in 3 minutes 27.8 seconds from brake release - out-climbing a Saturn V moon rocket to 40,000 ft along the way and beating records the Soviet MiG-25 had held.{{ref:streak-nmusaf}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The Eagle's air-combat debut belonged to Israel. On 27 June 1979, Israeli Air Force F-15s scored the type's first confirmed air-to-air kills, downing Syrian MiG-21s over Lebanon - the opening entry in what would become the most one-sided kill record of any fighter of its era.{{ref:wiki-f15}}",
+          "During June 1982's Bekaa Valley air battles over Lebanon - part of Operation Mole Cricket 19 - Israeli F-15s and F-16s, aided by airborne early warning and electronic jamming of Syrian air defences, destroyed dozens of Syrian MiGs for no Israeli air-to-air losses, one of the most lopsided air campaigns in modern history.{{ref:wiki-f15}}",
+          "The Eagle's structural margins produced one of its most-told stories the following year. On 1 May 1983, Israeli F-15D 'Markia Shchakim' collided with an A-4 Skyhawk during a training engagement over the Negev and lost virtually its entire right wing. Pilot Zivi Nedivi, believing he still had partial wing surface, used afterburner to maintain control and landed at nearly double normal approach speed; only on the ground did he discover the wing was almost entirely gone. The incident prompted wind-tunnel studies confirming the Eagle's wide, flat fuselage itself generates significant lift - effectively flying as a lifting body when a wing is lost.{{ref:wiki-f15}}"
+        ]
+      },
+      {
+        "heading": "Desert Storm",
+        "paragraphs": [
+          "The F-15's largest combat test came in the 1991 Gulf War. USAF F-15Cs, flying combat air patrols ahead of coalition strike packages, scored 32 of the coalition's 39 fixed-wing air-to-air kills.{{ref:wiki-f15}}",
+          "The newer, two-seat F-15E Strike Eagle fought a very different war in parallel: night after night, Strike Eagle crews hunted Iraqi mobile Scud missile launchers across the western desert, often flying below 500 feet in total darkness using terrain-following radar and LANTIRN targeting pods.{{ref:wiki-f15e}}",
+          "On 14 February 1991, an F-15E crewed by Captain Tim Bennett and WSO Captain Dan Bakke spotted an Iraqi Mi-8 helicopter and destroyed it with a GBU-10 laser-guided bomb - the only air-to-air kill ever credited to a guided bomb, and the Strike Eagle's sole aerial victory of the war.{{ref:wiki-f15e}}",
+          "The campaign also produced the family's first combat losses. Two F-15Es were shot down by Iraqi ground fire in the war's opening days; the crew of one, Col. David Eberly and Maj. Thomas Griffith, were captured and held as prisoners of war until the ceasefire.{{ref:wiki-f15e}}"
+        ]
+      },
+      {
+        "heading": "The F-15E Strike Eagle",
+        "paragraphs": [
+          "The F-15E traces to the USAF's 1984 Dual-Role Fighter competition, which pitted a strike-optimised F-15 derivative against General Dynamics' F-16XL. McDonnell Douglas's design won on the strength of the two-seat Eagle's raw payload and range, and the first F-15E flew on 11 December 1986, entering service in 1988.{{ref:wiki-f15e}}",
+          "Conformal fuel tanks hugging the intakes extended range without the drag penalty of external tanks, a rear-seat weapon systems officer split the workload of low-level night attack from air-to-air defence, and a strengthened airframe was rated for 16,000 flight hours - roughly double the F-15C's design life, anticipating decades of low-level strike flying.{{ref:wiki-f15e}}",
+          "Since Desert Storm, Strike Eagles have flown in nearly every major US and allied air campaign: Bosnia, Kosovo, Afghanistan, Iraq, Libya and Syria. In April 2024, F-15Es based in the Middle East were credited with destroying more than 70 Iranian one-way attack drones launched at Israel in a single night during Iran's first direct attack on Israeli territory - one of the largest air-defence intercept efforts of the 21st century.{{ref:wiki-f15e}}",
+          "Export derivatives carried the Strike Eagle formula worldwide: Israel's F-15I 'Ra'am' from 1998, Saudi Arabia's F-15S and fly-by-wire F-15SA, Singapore's AESA-radar F-15SG, and South Korea's SLAM-ER-armed F-15K."
+        ]
+      },
+      {
+        "heading": "2026 Combat Losses over Iran",
+        "paragraphs": [
+          "The Eagle's unbeaten combat record met its sharpest edge yet during 2026's Operation Epic Fury, the joint US-Israeli air campaign against Iran. On 2 March 2026, Kuwaiti air defences mistakenly shot down three USAF F-15s in a friendly-fire incident; all three pilots were recovered safely, though one of them would be shot down again a month later - this time by the enemy.{{ref:militarytimes-kuwait}}",
+          "At 4:40 a.m. local time on 3 April 2026, an F-15E Strike Eagle callsign Dude 44, flying a strike mission over southwestern Iran on the campaign's 34th day, was hit by a shoulder-fired heat-seeking missile and went down - the first F-15-family aircraft lost to enemy fire since 1991.{{ref:defensenews-shootdown}} Both crew ejected and landed miles apart in hostile territory; the pilot came down in Khuzestan province and was recovered within hours by a combat search-and-rescue package of A-10s, HC-130Js and HH-60W helicopters that flew seven hours over Iranian airspace under fire.{{ref:militarytimes-rescue}}",
+          "The weapon systems officer, badly injured on ejection, evaded Iranian forces alone for two days across the Zagros Mountains, treating his own wounds and hiding in a mountain crevice while MQ-9 Reaper drones and Israeli intelligence support helped track approaching search parties. A second, larger rescue force - some 155 aircraft including bombers, fighters, tankers and Naval Special Warfare operators flown in aboard reassembled MH-6 Little Bird helicopters - launched overnight on 4-5 April and extracted him from a forward site in Isfahan province, marking the first publicly acknowledged US ground presence inside Iran since 1980's failed Operation Eagle Claw.{{ref:militarytimes-rescue}}",
+          "An A-10 providing rescue escort was badly damaged by ground fire and its pilot ejected safely over Kuwait; two MC-130J Commando IIs became stuck in soft ground at the extraction site and were deliberately destroyed to keep sensitive equipment out of Iranian hands. No US personnel were killed across either rescue.{{ref:militarytimes-rescue}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "By the 2020s the F-15C/D fleet was reaching the end of the line. Kadena Air Base's permanently based Eagles, a fixture of Japanese air defence since 1981, left Okinawa in 2023-25 pending replacement, and in August 2025 a Desert Storm double-MiG-killer flown by Cesar 'Rico' Rodriguez was accessioned into the Smithsonian's National Air and Space Museum - the first F-15 in the collection.{{ref:si-f15c}}",
+          "Its replacement, the F-15EX Eagle II, is a new-build jet combining the airframe with fly-by-wire controls, an AN/APG-82 AESA radar and the EPAWSS electronic-warfare suite, capable of carrying 12 air-to-air missiles - more than any other US fighter. First delivered to Eglin AFB in March 2021, F-15EXs began arriving at Kadena for familiarisation training in 2025, and by June 2026 the type's return to Okinawa was advancing the base's transition to next-generation airpower, even as Congress voted in its December 2025 defense bill to preserve both the A-10 and F-15E from further retirement.{{ref:pacaf-kadena}}",
+          "Mitsubishi Heavy Industries has licence-built the F-15J and two-seat F-15DJ in Japan since 1981, and they remain the backbone of the Japan Air Self-Defense Force's air defence, scrambled regularly to intercept Russian and Chinese aircraft approaching Japanese airspace. Among the export strike derivatives, Singapore's F-15SG introduced the APG-63(V)3 AESA radar to the family.{{ref:wiki-f15}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f15",
+      "name": "McDonnell Douglas F-15 Eagle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle"
+    },
+    {
+      "id": "wiki-f15e",
+      "name": "McDonnell Douglas F-15E Strike Eagle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle"
+    },
+    {
+      "id": "streak-nmusaf",
+      "name": "McDonnell Douglas F-15 Streak Eagle",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197972/mcdonnell-douglas-f-15-streak-eagle/"
+    },
+    {
+      "id": "si-f15c",
+      "name": "F-15C Eagle Joins National Air and Space Museum Collection",
+      "publisher": "Smithsonian Institution",
+      "url": "https://www.si.edu/newsdesk/releases/f-15c-eagle-joins-national-air-and-space-museum-collection"
+    },
+    {
+      "id": "militarytimes-kuwait",
+      "name": "3 F-15s shot down by Kuwait in friendly fire incident, pilots safe, US says",
+      "publisher": "Military Times",
+      "url": "https://www.militarytimes.com/news/your-military/2026/03/02/3-f-15s-shot-down-by-kuwait-in-friendly-fire-incident-pilots-safe-us-says/"
+    },
+    {
+      "id": "defensenews-shootdown",
+      "name": "US F-15E fighter jet shot down over Iran",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
+    },
+    {
+      "id": "militarytimes-rescue",
+      "name": "The rescue mission that brought 2 F-15E Strike Eagle crew members home",
+      "publisher": "Military Times",
+      "url": "https://www.militarytimes.com/news/your-military/2026/04/08/the-rescue-mission-that-brought-2-f-15e-strike-eagle-crew-members-home/"
+    },
+    {
+      "id": "pacaf-kadena",
+      "name": "F-15EX returns to Kadena, advances transition to next-generation airpower",
+      "publisher": "Pacific Air Forces",
+      "url": "https://www.pacaf.af.mil/News/Article-Display/Article/4532070/f-15ex-returns-to-kadena-advances-transition-to-next-generation-airpower/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "McDonnell Douglas F-15 Eagle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle"
+    },
+    {
+      "name": "McDonnell Douglas F-15E Strike Eagle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle"
+    },
+    {
+      "name": "Boeing - F-15EX Eagle II",
+      "url": "https://www.boeing.com/defense/f-15ex"
+    },
+    {
+      "name": "ASM-135 ASAT - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ASM-135_ASAT"
+    },
+    {
+      "name": "USAF 48th Fighter Wing (RAF Lakenheath)",
+      "url": "https://www.lakenheath.af.mil/"
+    },
+    {
+      "name": "The rescue mission that brought 2 F-15E Strike Eagle crew members home - Military Times",
+      "url": "https://www.militarytimes.com/news/your-military/2026/04/08/the-rescue-mission-that-brought-2-f-15e-strike-eagle-crew-members-home/"
+    }
+  ],
+  "survivors": {
+    "intro": "Over 1,700 F-15s of all variants have been built; most retiring F-15C/Ds are being demilitarised or transferred to allied air forces rather than preserved, but a handful of historically significant airframes are on public display.",
+    "airframes": [
+      {
+        "serial": "72-0119",
+        "name": "Streak Eagle",
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197972/mcdonnell-douglas-f-15-streak-eagle/",
+        "note": "The record-breaking F-15A that set eight world time-to-climb records in early 1975, on display largely as it flew.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "85-0114",
+        "name": null,
+        "location": "Steven F. Udvar-Hazy Center, Smithsonian National Air and Space Museum",
+        "place": "Chantilly, Virginia",
+        "url": "https://www.si.edu/newsdesk/releases/f-15c-eagle-joins-national-air-and-space-museum-collection",
+        "note": "Flown by Capt. Cesar 'Rico' Rodriguez to two MiG kills during Desert Storm (a MiG-29 on 19 Jan 1991 and a MiG-23 on 26 Jan 1991); accessioned as the Smithsonian's first F-15 in August 2025.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved. Also renamed magazine-style section headings to plain factual ones.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1983-05-01",
+      "title": "Negev mid-air collision",
+      "summary": "An Israeli Air Force F-15D collided with an A-4 Skyhawk during a training dogfight, shearing off roughly two feet of the F-15's right wing. The pilot used afterburner-assisted lift to land the aircraft safely, and it was later repaired and returned to service.",
+      "fatalities": 0,
+      "tag": "Mid-air collision",
+      "source": "https://en.wikipedia.org/wiki/1983_Negev_mid-air_collision"
+    },
+    {
+      "date": "1991-01-18",
+      "title": "Desert Storm combat loss",
+      "summary": "An F-15E was shot down by Iraqi anti-aircraft artillery during the opening night of Operation Desert Storm; both crew were killed.",
+      "fatalities": 2,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/List_of_F-15_losses"
+    },
+    {
+      "date": "1994-04-14",
+      "title": "Black Hawk shootdown over northern Iraq",
+      "tag": "Friendly fire",
+      "summary": "Two USAF F-15Cs patrolling the northern no-fly zone misidentified two US Army UH-60 Black Hawks as Iraqi Hinds and shot them down, killing all 26 people aboard. The disaster forced sweeping changes to combat identification, AWACS control and rules-of-engagement training.",
+      "fatalities": 26,
+      "source": "https://en.wikipedia.org/wiki/1994_Black_Hawk_shootdown_incident"
+    },
+    {
+      "date": "2002-04-30",
+      "title": "Structural failure during a test dive over the Gulf of Mexico",
+      "summary": "An F-15C broke apart during a high-speed test dive after the honeycomb structure supporting its port vertical stabiliser failed. Test pilot Maj. James Duricy was killed.",
+      "fatalities": 1,
+      "tag": "Structural failure",
+      "source": "https://en.wikipedia.org/wiki/List_of_F-15_losses"
+    },
+    {
+      "date": "2007-11-02",
+      "title": "In-flight breakup over Missouri triggers worldwide grounding",
+      "summary": "An F-15C broke apart in flight near St. Louis during a training mission after a manufacturing defect in a fuselage longeron. The pilot ejected with serious injuries, and the U.S. Air Force grounded its entire F-15 fleet.",
+      "fatalities": 0,
+      "tag": "Structural failure",
+      "source": "https://en.wikipedia.org/wiki/List_of_F-15_losses"
+    },
+    {
+      "date": "2011-03-21",
+      "title": "Crash near Benghazi during Odyssey Dawn",
+      "summary": "An F-15E crashed near Benghazi, Libya during Operation Odyssey Dawn after equipment problems and a fuel imbalance caused a flat spin. Both crew ejected safely and were recovered.",
+      "fatalities": 0,
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/List_of_F-15_losses"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "Kuwaiti friendly fire downs three F-15s",
+      "tag": "Friendly fire",
+      "summary": "Kuwaiti air defences shot down three USAF F-15s during Operation Epic Fury, the US-Israeli air campaign against Iran. All the pilots were recovered safely - one of whom would be shot down again a month later, over Iran.",
+      "fatalities": 0,
+      "source": "https://www.militarytimes.com/news/your-military/2026/03/02/3-f-15s-shot-down-by-kuwait-in-friendly-fire-incident-pilots-safe-us-says/"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "F-15E 'Dude 44' shot down over Iran",
+      "tag": "Shot down",
+      "summary": "A Strike Eagle was brought down over south-western Iran by a shoulder-fired missile - the first F-15-family loss to enemy fire since 1991. The pilot was recovered within hours; the injured weapon systems officer evaded capture in the Zagros Mountains for two days before a rescue involving more than 150 aircraft and special operations forces extracted him. No US personnel were killed.",
+      "fatalities": 0,
+      "source": "https://www.defensenews.com/news/your-military/2026/04/03/us-fighter-jet-shot-down-over-iran/"
+    }
+  ]
+}

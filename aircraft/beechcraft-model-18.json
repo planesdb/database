@@ -1,0 +1,277 @@
+{
+  "name": "Model 18 Twin Beech",
+  "fullName": "Beechcraft Model 18",
+  "manufacturer": "Beechcraft",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Light Transport & Aircrew Trainer",
+  "tagline": "The Beechcraft Model 18, universally called the Twin Beech, is a twin-engine light transport that first flew on 15 January 1937 and stayed in production until November 1969. That 32-year run was a world record at the time, and over 9,000 were built in civil, military training and freight forms.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Production ran from 1937 to November 1969 - over 32 years, a world record for a single type when it ended",
+    "More than 90 percent of USAAF bombardiers and navigators in the Second World War trained on Model 18 derivatives",
+    "Over 4,500 served in uniform as the AT-7 Navigator, AT-11 Kansan, C-45 Expeditor and the Navy's JRB and SNB families",
+    "In the early postwar years it was, in Beech's own description, the pre-eminent business aircraft and feeder airliner",
+    "Its twin-tailfin layout is what makes it recognisable at a glance, and the reason it is still cast in period films",
+    "Two of the most famous private aviation accidents in music history involved Twin Beeches: Otis Redding's H18 in 1967 and Jim Croce's E18S in 1973"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the postwar D18S, the first and most numerous of the postwar civil models at 1,035 built. Sources differ on its maximum takeoff weight, quoting both 7,500 lb and 8,750 lb. Earlier prewar models were lighter and less powerful; the E18S onward had a redesigned wing and a longer fuselage.",
+    "maxSpeed": {
+      "mph": 225,
+      "text": "196 kn (225 mph / 362 km/h)"
+    },
+    "cruiseSpeed": "160 mph (257 km/h) at 5,000 ft",
+    "range": {
+      "miles": 1200,
+      "text": "1,200 mi (1,931 km) at 160 mph and 5,000 ft"
+    },
+    "serviceCeiling": {
+      "ft": 26000,
+      "text": "26,000 ft (7,925 m)"
+    },
+    "wingspan": {
+      "ft": 48,
+      "text": "47 ft 8 in (14.53 m)"
+    },
+    "length": {
+      "ft": 34,
+      "text": "34 ft 3 in (10.44 m)"
+    },
+    "height": {
+      "ft": 10,
+      "text": "9 ft 9 in (2.97 m)"
+    },
+    "weight": "empty: 5,420 lb (2,458 kg); MTOW: 7,500 lb (3,402 kg)",
+    "engines": "Two Pratt & Whitney R-985-AN-1 Wasp Junior nine-cylinder radials, 450 hp each",
+    "crew": "2 pilots",
+    "capacity": "6 passengers in the D18S; prewar and later civil models seated up to nine, and stretched turboprop conversions took as many as 17",
+    "firstFlight": {
+      "date": "1937-01-15",
+      "year": 1937
+    },
+    "serviceEntryDate": "1937-03-04",
+    "retiredDate": "1976",
+    "numberBuilt": 9000,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed as a single figure - the type was sold across 32 years and dozens of civil and military models, and surviving airframes now trade on the used warbird and utility market rather than at any list price",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "Model 18A / 18B / 18D",
+      "desc": "The prewar production models, offered with a choice of engines as Beech worked out which powerplant suited the airframe. They established the layout that never changed: twin radials, all-metal semi-monocoque construction with fabric-covered control surfaces, tailwheel gear and the distinctive twin fins. The type certificate was granted on 4 March 1937, seven weeks after the first flight."
+    },
+    {
+      "code": "C18S / D18S",
+      "desc": "The nine-passenger C18S was the last major prewar civil model and the basis for the wartime AT-7. The D18S that followed in 1945 was the first postwar version and the most numerous single model at 1,035 built, aimed squarely at the business and feederliner market that the type came to dominate in the late 1940s."
+    },
+    {
+      "code": "E18S / G18S / H18",
+      "desc": "The later civil generation. The E18S of 1955 brought a redesigned wing and a stretched fuselage across 403 aircraft, and the H18 of 1963 offered an optional tricycle undercarriage - 109 were built that way, changing the aircraft's ground stance and its handling for pilots who had never flown a taildragger."
+    },
+    {
+      "code": "AT-7 Navigator / AT-11 Kansan",
+      "desc": "The wartime training variants and the reason so many were built. The AT-7 Navigator was a navigation trainer derived from the C18S, 577 of them; the AT-11 Kansan added a bombardier's nose and gun positions for bombing and gunnery training, 1,582 for the USAAF. Together they trained over 90 percent of American bombardiers and navigators."
+    },
+    {
+      "code": "C-45 Expeditor / JRB / SNB",
+      "desc": "The military transport and utility family. The USAAF and USAF flew the C-45 Expeditor, with 1,137 of the standardised seven-seat C-45F ordered; the Navy operated the JRB for transport and photo-reconnaissance and the SNB as a trainer. Between 1951 and 1955 around 900 USAF aircraft were remanufactured with new fuselages, wing centre sections and undercarriages."
+    },
+    {
+      "code": "Volpar, PacAero and Hamilton conversions",
+      "desc": "Third-party rebuilds that kept the airframe earning into the jet age. Volpar fitted tricycle gear and, in the Turbo 18, 705 hp Garrett TPE331 turboprops; PacAero's Tradewind replaced the twin fins with a single tail; and Hamilton's Westwind stretched the fuselage for up to 17 passengers. Air America flew Volpar-converted aircraft extensively in Southeast Asia."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces",
+      "role": "Wartime Training Operator (historical)",
+      "status": "Retired",
+      "since": "1940",
+      "fleetSize": "Over 4,500 across the AT-7, AT-11 and C-45 families; more than 90 percent of American bombardiers and navigators trained on them",
+      "homeBase": "USAAF navigation and bombardier training fields across the United States"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Transport Operator (historical)",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "Around 900 aircraft remanufactured between 1951 and 1955; the C-45 served until 1963",
+      "homeBase": "Strategic Air Command and support units, 1946-1963"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Transport and Training Operator (historical)",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "JRB and SNB variants in numbers; the last UC-45J was retired in 1972",
+      "homeBase": "US Navy training and utility squadrons"
+    },
+    {
+      "name": "United States Army",
+      "role": "Transport Operator (historical)",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "C-45s flown until 1976, the last military operator of the type in American service",
+      "homeBase": "US Army aviation units"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Training and Transport Operator (historical)",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "394 aircraft between 1941 and 1972, the largest foreign military fleet; the Royal Canadian Navy flew a further 10 from 1952 to 1960",
+      "homeBase": "RCAF training and transport stations across Canada"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Lend-Lease Operator (historical)",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "76 aircraft supplied under Lend-Lease",
+      "homeBase": "RAF communications and training units"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Transport Operator (historical)",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "125 aircraft from 1949 into the 1970s",
+      "homeBase": "Italian Air Force transport and liaison units"
+    },
+    {
+      "name": "Civil operators worldwide",
+      "role": "Business, Feederliner and Utility Operators",
+      "status": "In Service",
+      "since": "1937",
+      "fleetSize": "Around 240 still on the FAA register as of August 2017, working as freighters, skydiving platforms, sprayers and warbirds; Air America flew Volpar-converted aircraft in Southeast Asia",
+      "homeBase": "Private and commercial operators across North America and worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "BE18",
+    "howToFind": "Being civil-registered, Twin Beeches transmit like any other light aircraft and are among the easiest wartime-era types to catch on the map. Filter for type BE18 and look at North American general aviation fields - skydiving operations and small freight runs are the most common working uses left, and the warbird fleet appears through the summer display season. Numbers are thin but steady rather than occasional."
+  },
+  "lastUpdated": "2026-09-10",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia and the Bureau of Aircraft Accidents Archives.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Twin Beech",
+    "D18S",
+    "Beech 18",
+    "C-45 Expeditor",
+    "AT-11 Kansan",
+    "Beechcraft 18"
+  ],
+  "article": {
+    "overview": [
+      "The Beechcraft Model 18, known everywhere as the Twin Beech, is a twin-engine light transport designed in the mid-1930s for the business and feederliner market. It first flew on 15 January 1937 and was granted its type certificate seven weeks later on 4 March. Production continued until November 1969 - over 32 years, a world record for a single type at the time - and yielded more than 9,000 aircraft. {{ref:wiki-beech18}}",
+      "It sold in numbers because the war turned a business aeroplane into a training aircraft. Over 4,500 served in uniform as the AT-7 Navigator, AT-11 Kansan, C-45 Expeditor and the Navy's JRB and SNB families, and more than 90 percent of American bombardiers and navigators in the Second World War learned their trade in one. {{ref:wiki-beech18}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Beech set out in the mid-1930s to build a twin that a company could use to move executives, and a small airline could use to move passengers, at a time when neither market was well served. The design that emerged was conventional for its era in almost every respect - twin radials, all-metal semi-monocoque construction with fabric-covered control surfaces, tailwheel undercarriage - with one exception that gave it its silhouette: the twin fins mounted at the tips of the tailplane rather than a single fin on the centreline. {{ref:wiki-beech18}}",
+          "Beech noted from the start that the design would have a military application, and that judgement is what turned a modest civil aircraft into a nine-thousand-aircraft programme. The first flight came on 15 January 1937 and certification on 4 March, but it was the American entry into the war that filled the order books. {{ref:wiki-beech18}}"
+        ]
+      },
+      {
+        "heading": "Training the Bomber Crews",
+        "paragraphs": [
+          "The Model 18's largest contribution was not carrying executives but teaching aircrew. The AT-7 Navigator, derived from the nine-seat C18S, gave student navigators a stable twin with room for instructor and plotting table; 577 were built. The AT-11 Kansan added a glazed bombardier's nose and gun positions so bombing and gunnery could be taught on the same airframe, and 1,582 were delivered to the USAAF. {{ref:wiki-beech18}}",
+          "The scale of that work is the striking part: over 90 percent of USAAF bombardiers and navigators trained on these aircraft. Alongside them the C-45 Expeditor carried people and freight - 1,137 of the standardised seven-seat C-45F alone were ordered - while Navy JRBs flew transport and photo-reconnaissance and SNBs trained crews. Some aircraft went to China as light bombers, and others served as mother ships directing target drones. {{ref:wiki-beech18}}"
+        ]
+      },
+      {
+        "heading": "The Postwar Business Aircraft",
+        "paragraphs": [
+          "In the early postwar years the Twin Beech was, in Beech's market and largely in fact, the pre-eminent business aircraft and feeder airliner. The D18S of 1945 was built for exactly that role and became the most numerous single model at 1,035 aircraft. The E18S of 1955 brought a redesigned wing and a stretched fuselage across 403 more, and the H18 of 1963 offered tricycle undercarriage as an option, taken up on 109 aircraft. {{ref:wiki-beech18}}",
+          "What kept it selling for three decades was that nothing quite replaced it at the price. The military kept buying too: the USAF remanufactured around 900 aircraft between 1951 and 1955 with new fuselages, wing centre sections and undercarriages rather than order a new type, and flew C-45s until 1963. The Navy retired its last UC-45J in 1972 and the US Army flew C-45s until 1976. {{ref:wiki-beech18}}"
+        ]
+      },
+      {
+        "heading": "Conversions & Second Careers",
+        "paragraphs": [
+          "Few light twins have been rebuilt as often. Volpar fitted tricycle undercarriages and then, in the Turbo 18, replaced the radials entirely with 705 hp Garrett TPE331 turboprops. PacAero's Tradewind swapped the twin fins for a single tail, changing the aircraft's whole appearance. Hamilton's Westwind stretched the fuselage to carry as many as 17. Air America flew Volpar conversions extensively in Southeast Asia. {{ref:wiki-beech18}}",
+          "The civil work list is longer still: aerial spraying, sterile insect release, fish stocking, dry-ice cloud seeding, aerial firefighting, air mail, air ambulance, skydiving, freight and a long career in film work. Around 240 remained on the FAA register as of August 2017, which for a type whose production ended in 1969 is a substantial working fleet rather than a museum remnant. {{ref:wiki-beech18}}"
+        ]
+      },
+      {
+        "heading": "Accidents & Reputation",
+        "paragraphs": [
+          "A type that flew this long in this many hands accumulates a long accident record, and two of its losses are among the best known in popular music. Otis Redding's H18, N390R, came down in Lake Monona near Madison, Wisconsin on 10 December 1967 three miles short of the runway, killing the singer and six others; trumpeter Ben Cauley was the sole survivor, and the cause was never determined because the left engine and propeller were never recovered. Jim Croce's chartered E18S, N50JR, struck a tree 590 feet past the runway end on a foggy night departure from Natchitoches, Louisiana on 20 September 1973, killing all six aboard. {{ref:baaa-redding}} {{ref:baaa-croce}}",
+          "Other losses run from the operational to the political. A Navy SNB-1 collided with a Cubana DC-4 in 1951, killing all 39 aboard the airliner. In 1965 a civil Beech 18 carrying the Indian chief minister Balwantrai Mehta was shot down near Bhuj by a Pakistan Air Force F-86 Sabre. The Montana Band lost ten members near Lakeside, Montana in 1987 when their D18S struck a hillside during unauthorised aerobatics. {{ref:wiki-beech18}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Model 18 is the aircraft that established Beech as a builder of serious twins, and its 32-year production run - a world record for a single type when it ended in November 1969 - is the clearest measure of how well the formula fitted its market. Over 9,000 were built, more than 4,500 of them for military service. {{ref:wiki-beech18}}",
+          "Preserved examples are held at the National Museum of the United States Air Force, the National Museum of Naval Aviation at Pensacola, the Smithsonian and the Beechcraft Heritage Museum at Tullahoma, among many others. The last aircraft built, a 1970 H18 delivered to the Miyazaki Aviation College in Japan, is preserved there. {{ref:wiki-beech18}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-beech18",
+      "name": "Beechcraft Model 18",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beechcraft_Model_18"
+    },
+    {
+      "id": "baaa-redding",
+      "name": "Crash of a Beechcraft H18 off Madison: 7 killed",
+      "publisher": "Bureau of Aircraft Accidents Archives",
+      "url": "https://www.baaa-acro.com/crash/crash-beechcraft-h18-madison-7-killed"
+    },
+    {
+      "id": "baaa-croce",
+      "name": "Crash of a Beechcraft E18S in Natchitoches: 6 killed",
+      "publisher": "Bureau of Aircraft Accidents Archives",
+      "url": "https://www.baaa-acro.com/crash/crash-beechcraft-e18s-natchitoches-6-killed"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Beechcraft Model 18",
+      "url": "https://en.wikipedia.org/wiki/Beechcraft_Model_18"
+    },
+    {
+      "name": "Bureau of Aircraft Accidents Archives",
+      "url": "https://www.baaa-acro.com/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1967-12-10",
+      "title": "Otis Redding's H18 crashes into Lake Monona",
+      "tag": "Loss of control",
+      "summary": "H18 N390R, owned by Otis Redding and carrying the singer and members of the Bar-Kays, went out of control on approach to Madison, Wisconsin and crashed into Lake Monona three miles short of the runway. Seven of the eight aboard were killed; Ben Cauley survived. The cause was never determined - the left engine and propeller were never recovered.",
+      "fatalities": 7,
+      "source": "https://www.baaa-acro.com/crash/crash-beechcraft-h18-madison-7-killed"
+    },
+    {
+      "date": "1973-09-20",
+      "title": "Jim Croce killed on takeoff from Natchitoches",
+      "tag": "Collision with obstacle",
+      "summary": "E18S N50JR struck a tree about 590 feet beyond the runway end during a night departure from Natchitoches, Louisiana, killing all six aboard including the singer Jim Croce and guitarist Maury Muehleisen. Investigators found the pilot failed to see and avoid the trees, with fog and the pilot's severe coronary artery disease as contributing factors.",
+      "fatalities": 6,
+      "source": "https://www.baaa-acro.com/crash/crash-beechcraft-e18s-natchitoches-6-killed"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "name": "Mirage III",
+  "fullName": "Dassault Mirage III",
+  "manufacturer": "Dassault Aviation",
+  "originCountry": {
+    "name": "France",
+    "code": "fr"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Cold War Delta-Wing Fighter",
+  "tagline": "The delta-winged French fighter that swept Egyptian and Syrian air forces from the sky in the Six-Day War. Simple, fast and reliable, it became one of the most successful and widely exported Western combat aircraft of the Cold War.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Developed by Dassault in response to a 1952 French Air Force requirement for a lightweight all-weather interceptor, the Mirage III adopted a tailless delta-wing configuration that gave excellent high-speed performance and a simple, low-drag structure at the cost of higher landing speeds and reduced low-speed manoeuvrability. It first flew in November 1956 and became the first Western European aircraft to exceed Mach 2 in level flight, entering French Air Force service in 1961. Dassault exported the type with enormous success to over 20 air forces worldwide, and it earned its greatest fame with the Israeli Air Force, which used French-supplied Mirage IIICJs to devastating effect in Operation Focus, the opening strike of the Six-Day War on 5 June 1967: in a few hours of coordinated low-level attacks, Israeli aircraft (Mirages prominent among them) destroyed the vast majority of Egypt's air force on the ground, followed by similar strikes against Jordan, Syria and Iraq, effectively deciding the air war before it had properly begun. Mirage IIIs also saw extensive combat with Argentina (against Britain's Sea Harriers in the 1982 Falklands War, where they proved outmatched by the more agile Harrier and superior AIM-9L Sidewinder missiles), South Africa, Pakistan, Australia and Switzerland. Total production across all Mirage III/5/50 variants exceeded 1,400 aircraft, and the design's clean-sheet delta-wing layout directly influenced Dassault's later Mirage F1, Mirage 2000 and, eventually, the modern Rafale.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1460,
+      "text": "1,269 kn (1,460 mph / 2,350 km/h)"
+    },
+    "cruiseSpeed": "~570 mph (920 km/h)",
+    "range": {
+      "miles": 900,
+      "text": "900 mi (1,450 km) on internal fuel; up to 2,485 mi (4,000 km) ferry range with drop tanks"
+    },
+    "serviceCeiling": {
+      "ft": 55775,
+      "text": "55,775 ft (17,000 m)"
+    },
+    "wingspan": {
+      "ft": 27,
+      "text": "27 ft 0 in (8.22 m)"
+    },
+    "length": {
+      "ft": 49.25,
+      "text": "49 ft 3 in (15.03 m)"
+    },
+    "height": {
+      "ft": 13.5,
+      "text": "13 ft 6 in (4.12 m)"
+    },
+    "weight": "empty: 15,540 lb (7,050 kg); loaded: 29,760 lb (13,500 kg)",
+    "engines": "1 x SNECMA Atar 9C afterburning turbojet, 13,670 lbf thrust with afterburner",
+    "armament": "2 x 30 mm DEFA cannon; up to 4,000 lb (1,800 kg) of bombs, rockets or air-to-air missiles (Matra R530/R550 Magic)",
+    "crew": "1 (pilot); Mirage IIIB/D two-seat trainer variants carried 2",
+    "capacity": "N/A - single-seat fighter; up to 4,000 lb (1,800 kg) of external ordnance across 5 hardpoints",
+    "firstFlight": {
+      "date": "1956-11-17",
+      "year": 1956
+    },
+    "serviceEntryDate": "1961-07-01",
+    "retiredDate": "2005",
+    "numberBuilt": 1422,
+    "unitCost": {
+      "usd": 2000000,
+      "text": "~$2M (1960s program dollars; roughly $21M in 2026 dollars, adjusted for CPI inflation)",
+      "inflationText": "≈$21M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "Mirage IIIC",
+      "desc": "Original French Air Force interceptor version."
+    },
+    {
+      "code": "Mirage IIIE",
+      "desc": "Extended-range strike-fighter variant with a lengthened fuselage and nuclear-strike capability."
+    },
+    {
+      "code": "Mirage IIICJ (Israel)",
+      "desc": "Israeli export version, the type that flew Operation Focus in the 1967 Six-Day War."
+    },
+    {
+      "code": "Mirage 5",
+      "desc": "Simplified, radar-reduced clear-weather ground-attack export version developed at Israel's request, later widely exported elsewhere."
+    },
+    {
+      "code": "Atlas Cheetah (South Africa)",
+      "desc": "Extensively rebuilt South African upgrade with canards and modern avionics, extending the airframe's service life into the 1990s."
+    }
+  ],
+  "operators": [
+    {
+      "name": "French Air Force",
+      "role": "Original Operator",
+      "status": "Retired",
+      "since": "1961",
+      "fleetSize": "420 for French service - 95 IIIC, 192 IIIE, 63 IIIB trainers, 50 IIIR and 20 IIIRD",
+      "homeBase": "French Air Force bases",
+      "logo": "french-air-force.webp"
+    },
+    {
+      "name": "Pakistan Air Force",
+      "role": "Last Front-line Operator",
+      "status": "In Service",
+      "since": "1967",
+      "fleetSize": "87 - the last air force still flying the type, sustained by second-hand buys and the ROSE upgrade",
+      "homeBase": "Pakistani airbases",
+      "logo": "pakistan-air-force.webp"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Largest Licence Operator",
+      "status": "Retired",
+      "since": "1964",
+      "fleetSize": "100 licence-built by GAF - 48 interceptors, 50 fighter-bombers, 16 trainers; sold on to Pakistan",
+      "homeBase": "RAAF Williamtown and Butterworth, Malaysia"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Combat Operator (1967 and 1973 wars)",
+      "status": "Retired",
+      "since": "1963",
+      "fleetSize": "76 - the basis for the locally built IAI Nesher and Kfir",
+      "homeBase": "Hatzor and Tel Nof airbases, Israel",
+      "logo": "israeli-air-force.webp"
+    },
+    {
+      "name": "Swiss Air Force",
+      "role": "Licence Operator",
+      "status": "Retired",
+      "since": "1966",
+      "fleetSize": "54 licence-built - 36 Mirage IIIS interceptors and 18 IIIRS, heavily modified for Alpine operations",
+      "homeBase": "Swiss airbases"
+    },
+    {
+      "name": "South African Air Force",
+      "role": "Cold War Operator",
+      "status": "Retired",
+      "since": "1963",
+      "fleetSize": "37 in total, later rebuilt into the Atlas Cheetah under sanctions",
+      "homeBase": "South African Air Force bases",
+      "logo": "south-african-air-force.webp"
+    },
+    {
+      "name": "~15 other air forces worldwide",
+      "role": "Export Operators",
+      "status": "Retired",
+      "since": "1960s",
+      "fleetSize": "1,422 built across the Mirage III/5/50 family; Spain (31), Argentina (17), Brazil (16), Lebanon (12) and ~10 smaller fleets",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "MIR3",
+    "howToFind": "A handful of Mirage IIIs remain airworthy in private warbird and museum collections, particularly in France and Switzerland, and appear at European airshows; visible on Flightradar24 during transit and display flights with civil registrations."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "AeroTime",
+      "url": "https://www.aerotime.aero/feed",
+      "topicTag": "Mirage III"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Pakistan Air Force test-launches new Taimoor cruise missile from a Mirage III",
+      "source": "Zona Militar",
+      "date": "2026-01-06",
+      "category": "Weapons Test",
+      "url": "https://www.zona-militar.com/en/2026/01/06/a-pakistan-air-force-mirage-iii-conducted-a-test-launch-of-the-new-taimoor-cruise-missile/"
+    }
+  ],
+  "tags": [
+    "mirage iii",
+    "dassault",
+    "delta wing fighter",
+    "six-day war",
+    "operation focus",
+    "israeli air force",
+    "french fighter",
+    "cold war jet",
+    "atar engine"
+  ],
+  "quickFacts": [
+    "The Mirage III was the first European fighter to fly at Mach 2 in level flight.",
+    "Israel's Mirage IIIs opened the Six-Day War in 1967 and made the delta shape world-famous - and export orders followed the victories.",
+    "Its tailless delta made it beautiful, fast and tricky: landing speeds were high and turning fights bled energy viciously.",
+    "Switzerland flew Mirage IIIs until 2003; Pakistan kept upgraded Mirage III/5s flying into the 2020s.",
+    "Dassault's private-venture prototype beat official French programs so decisively that the government simply bought the company's idea."
+  ],
+  "article": {
+    "overview": [
+      "The Dassault Mirage III is a French single-engine, delta-wing fighter built by Dassault Aviation. It was the first European aircraft to reach twice the speed of sound, and more than 1,400 were built for over twenty air forces.{{ref:wiki-mirage3}}",
+      "Israeli Mirage IIIs led the opening air strikes of the 1967 Six-Day War, destroying most of the Egyptian air force on the ground in a single morning.{{ref:wiki-mirage3}} Derivatives including the Mirage 5, Mirage 50, Kfir, Nesher and Atlas Cheetah kept the delta-wing design in service into the 2020s."
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Mirage III began as a failure: France's 1953 light-interceptor requirement produced the tiny Mystère-Delta, underpowered and undersized. Dassault's response was to scale up rather than give up - a bigger delta around the new Atar engine - and the Mirage III prototype of November 1956 immediately showed the shape's promise, passing Mach 1.5 within months.{{ref:wiki-mirage3}}",
+          "On 24 October 1958 the pre-production Mirage IIIA took European aviation past a threshold: Mach 2.0 in level flight, the continent's first. Orders followed from a world that wanted supersonic prestige at non-superpower prices.{{ref:wiki-mirage3}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The pure delta gave the Mirage its virtues cheaply: huge internal volume for fuel, low supersonic drag, structural simplicity, and that unmistakable planform. The costs were a delta's classics - ferocious landing speeds, energy bleeding away in hard turns - which its pilots learned to fight around: slash, climb, never circle.{{ref:wiki-mirage3}}",
+          "It was designed for austerity export from the start: simple systems, optional booster rocket for high-altitude intercepts, and a structure that Switzerland, Australia and Belgium could licence-build. The recce, trainer and simplified ground-attack (Mirage 5) versions turned one airframe into a whole catalogue.{{ref:wiki-mirage3}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "Israel made the Mirage mythical. Its 'Shahak' pilots scored the type's - and Israel's - first kills in the mid-1960s, and on 5 June 1967 the Mirage-led Operation Moked destroyed most of the Egyptian, Syrian and Jordanian air forces in hours, the aircraft's low-level dash and reliability at the heart of the plan. In the dogfights of the Six-Day War and the 1973 war that followed, Mirages and their Nesher derivatives amassed one of the highest kill tallies of any Western fighter, many at the hands of the world's leading jet aces.{{ref:wiki-moked}}",
+          "Other operators' Mirages fought too: Pakistan's against India in 1971, South Africa's over Angola, Argentina's against Britain in 1982 - where, stretched beyond fuel limits over the Falklands, they traded losses with Sea Harriers and exposed the type's range limits - and Chile's, Peru's and others' in regional clashes.{{ref:wiki-mirage3}}",
+          "The French embargo of 1967 produced the strangest chapter: denied its paid-for Mirage 5s, Israel built its own - the Nesher, then the re-engined Kfir - via acquired plans, while apartheid South Africa later evolved the Cheetah. The Mirage became the rare fighter with unauthorised descendants.{{ref:wiki-kfir}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "More than 1,400 Mirage III/5/50s came off lines in France, Switzerland, Australia and Belgium, in an alphabet of national variants. Upgrades kept them dangerous for decades - Israeli avionics packages, Swiss and Brazilian canard retrofits, new radars and missiles - and the last military examples (Pakistan's, meticulously refurbished ROSE Mirages) served into the 2020s.{{ref:wiki-mirage3}}",
+          "Its lineage defined Dassault: the Mirage F1 departed from the delta, the Mirage 2000 returned to it with fly-by-wire curing the old vices, and the Rafale's delta-canard closes the circle - sixty years of French fighters all answering the shape drawn in 1956.{{ref:wiki-mirage3}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Mirage III proved a middle power could build - and dozens could operate - a world-class Mach 2 fighter, breaking the superpower duopoly on high-end air combat. French strategic independence, arms-export policy and a large fraction of the Global South's air power all trace to its order book.{{ref:wiki-mirage3}}",
+          "The delta shape appeared widely on aviation posters and squadron insignia through the 1960s and 70s, and preserved Mirage IIIs are displayed in museums on every continent.{{ref:dassault-mirage3}}{{ref:wiki-mirage3}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-mirage3",
+      "name": "Dassault Mirage III",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dassault_Mirage_III"
+    },
+    {
+      "id": "wiki-moked",
+      "name": "Operation Focus (Moked)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Focus"
+    },
+    {
+      "id": "wiki-kfir",
+      "name": "IAI Kfir",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IAI_Kfir"
+    },
+    {
+      "id": "dassault-mirage3",
+      "name": "Mirage III",
+      "publisher": "Dassault Aviation",
+      "url": "https://www.dassault-aviation.com/en/passion/aircraft/military-dassault-aircraft/mirage-iii/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Dassault Mirage III",
+      "url": "https://en.wikipedia.org/wiki/Dassault_Mirage_III"
+    },
+    {
+      "name": "Dassault Aviation - Mirage family heritage",
+      "url": "https://www.dassault-aviation.com/en/group/heritage/"
+    },
+    {
+      "name": "Israeli Air Force - historical aircraft archive",
+      "url": "https://www.iaf.org.il/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster from the full operators list - added the Australian and Swiss licence fleets, corrected the French and Israeli figures to the published per-variant totals, moved Pakistan to In Service as the last front-line operator, and folded the remaining ~15 customers into a combined row. Attached a previously uncited reference.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1967-09-01",
+      "title": "Fatal display-training crash at Williamtown",
+      "summary": "A RAAF Mirage IIIO practicing low-level barrel rolls ahead of an Air Force Week display suffered roll-coupling instability and crashed inverted near Williamtown, killing the pilot.",
+      "fatalities": 1,
+      "tag": "Training/display accident",
+      "source": "https://aviation-safety.net/wikibase/58417"
+    },
+    {
+      "date": "1982-05-01",
+      "title": "Shot down by a Sea Harrier over the Falklands",
+      "summary": "During the first major air battle of the Falklands War, an Argentine Mirage IIIEA was shot down north of West Falkland by a Sidewinder fired from a Royal Navy Sea Harrier. The pilot ejected and survived.",
+      "fatalities": 0,
+      "tag": "Combat loss",
+      "source": "https://triservice.blogspot.com/2014/02/aircraft-losses-during-falklands-war.html"
+    },
+    {
+      "date": "1982-05-01",
+      "title": "Downed by Argentina's own air defences over Stanley",
+      "summary": "On the same day, a second Argentine Mirage IIIEA, already damaged by a Sea Harrier, was shot down over Stanley by Argentina's own anti-aircraft defences, killing the pilot.",
+      "fatalities": 1,
+      "tag": "Friendly fire",
+      "source": "https://triservice.blogspot.com/2014/02/aircraft-losses-during-falklands-war.html"
+    },
+    {
+      "date": "2025-04-15",
+      "title": "Training crash near Vehari",
+      "summary": "A two-seat Pakistan Air Force Mirage IIIDL crashed near Vehari, reportedly after a technical malfunction. Both crew ejected safely.",
+      "fatalities": 0,
+      "tag": "Training accident",
+      "source": "https://aviation-safety.net/wikibase/498731"
+    }
+  ]
+}

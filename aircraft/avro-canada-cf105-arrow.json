@@ -1,0 +1,277 @@
+{
+  "name": "CF-105 Arrow",
+  "fullName": "Avro Canada CF-105 Arrow",
+  "manufacturer": "Avro Aircraft Limited (Avro Canada)",
+  "originCountry": {
+    "name": "Canada",
+    "code": "ca"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Supersonic All-Weather Interceptor",
+  "tagline": "Canada's cancelled Mach 2 delta-wing dream. Designed to defend North American airspace against high-altitude Soviet bombers, its performance reportedly rivalled or exceeded contemporaries like the English Electric Lightning - before the entire program was abruptly cancelled, before it ever reached squadron service.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "history": "Avro Canada developed the Arrow at its Malton, Ontario plant in response to a 1953 Royal Canadian Air Force requirement for a Mach 2-capable interceptor able to counter Soviet bombers approaching over the polar route. The prototype (RL-201) first flew on 25 March 1958, and by early 1959 five Arrows had flown, with the aircraft demonstrating speeds beyond Mach 1.9 in testing while still well short of its performance envelope. On 20 February 1959 - remembered in Canada as 'Black Friday' - Prime Minister John Diefenbaker's government cancelled the program outright, citing spiralling costs, the changing missile-versus-bomber threat calculus, and pressure to buy American systems instead. Roughly 14,000-15,000 Avro and supplier employees lost their jobs within days, and the government further ordered the destruction of all existing airframes, tooling, blueprints, and completed engines, a decision that remains one of the most controversial in Canadian industrial history. Many displaced Avro engineers went on to work on NASA's Mercury, Gemini, and Apollo programs and on the Anglo-French Concorde, and the Arrow's cancellation is still widely cited in Canadian politics and popular culture as a symbol of lost technological ambition and dependence on the United States for defence procurement.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1307,
+      "text": "1,136 kn (1,307 mph / 2,104 km/h)"
+    },
+    "cruiseSpeed": "606 mph (976 km/h, Mach 0.91) at 36,000 ft",
+    "range": {
+      "miles": 300,
+      "text": "300 mi (483 km, 261 nmi) combat radius"
+    },
+    "serviceCeiling": {
+      "ft": 53000,
+      "text": "53,000 ft (16,150 m)"
+    },
+    "wingspan": {
+      "ft": 50,
+      "text": "50 ft (15.25 m)"
+    },
+    "length": {
+      "ft": 77.75,
+      "text": "77 ft 9 in (23.71 m)"
+    },
+    "height": {
+      "ft": 21.17,
+      "text": "21 ft 2 in (6.45 m)"
+    },
+    "weight": "empty: 49,040 lb (22,244 kg); gross: 56,920 lb (25,818 kg); MTOW: 68,605 lb (31,119 kg)",
+    "engines": "2 x Pratt & Whitney J75-P-3 turbojets (23,500 lbf with afterburner each) in the Mk 1 test aircraft; production Mk 2 was to use 2 x Orenda Iroquois turbojets (~30,000 lbf each)",
+    "armament": "Internal weapons bay planned for 2 x AIR-2A Genie unguided nuclear air-to-air rockets, or up to 8 x AIM-4 Falcon or 3 x AIM-7 Sparrow II guided missiles, controlled by the Astra fire-control system - never operationally fitted before cancellation",
+    "crew": "2 (pilot + navigator/weapons systems operator)",
+    "capacity": "N/A (dedicated interceptor, no cargo/passenger capacity)",
+    "firstFlight": {
+      "date": "1958-03-25",
+      "year": 1958
+    },
+    "serviceEntryDate": null,
+    "retiredDate": "1959-02-20",
+    "numberBuilt": 5,
+    "unitCost": {
+      "usd": 12000000,
+      "text": "~$12.5M (1959 CAD, roughly at parity with USD at the time; program-amortized cost - never achieved planned production economies) - roughly $144M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$144M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "Arrow Mk 1",
+      "desc": "Initial test aircraft powered by imported Pratt & Whitney J75 turbojets pending the Iroquois engine's readiness; five built and flown before cancellation."
+    },
+    {
+      "code": "Arrow Mk 2",
+      "desc": "Intended production standard with domestically-developed Orenda Iroquois engines and full Astra/Sparrow weapons fit; first airframe (RL-206) was on the ramp for taxi trials when the program was cancelled."
+    },
+    {
+      "code": "Arrow 2 (proposed reconnaissance/strike studies)",
+      "desc": "Paper studies for reconnaissance and strike derivatives explored by Avro but never funded."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Intended Sole Operator",
+      "status": "Cancelled Pre-Service",
+      "since": "N/A",
+      "fleetSize": "0 (program cancelled before delivery)",
+      "homeBase": "Intended: RCAF interceptor squadrons, North Bay & other NORAD sites",
+      "logo": "rcaf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Not applicable - no Arrow airframe survives intact and none ever entered service, so the type cannot appear on Flightradar24 or any live tracker. A flying full-scale replica project has been discussed publicly in Canada but has not been completed or flown as of this writing."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Ingenium Canada - Channel",
+      "url": "https://ingeniumcanada.org/channel/rss.xml",
+      "topicTag": "Avro Arrow"
+    },
+    {
+      "name": "The Aviationist",
+      "url": "https://theaviationist.com/feed/",
+      "topicTag": "CF-105 Arrow"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Avro Arrow replica installation nears completion at Mississauga park",
+      "source": "MPulse Mississauga",
+      "date": "2026-03-12",
+      "category": "Heritage",
+      "url": "https://mpulse.ca/avro-arrow-replica-nears-completion/"
+    }
+  ],
+  "tags": [
+    "cf-105",
+    "cf105",
+    "avro arrow",
+    "avro canada",
+    "black friday",
+    "cancelled fighter",
+    "delta wing",
+    "canadian interceptor",
+    "rcaf",
+    "iroquois engine",
+    "cold war fighter"
+  ],
+  "quickFacts": [
+    "On 'Black Friday' - 20 February 1959 - Canada cancelled the Arrow without warning and 14,528 Avro employees were laid off the same afternoon.",
+    "Every completed Arrow, every jig and almost every drawing was ordered destroyed - fuelling 60 years of conspiracy theories about why.",
+    "Around 25 of Avro's best engineers went to NASA and became key figures in Mercury, Gemini and Apollo - Canada's loss put men on the Moon.",
+    "It flew at Mach 1.98 in 1958 with interim engines; with the Canadian Iroquois engine it was expected to exceed Mach 2.5.",
+    "Free-flight test models fired into Lake Ontario in the 1950s were hunted by the 'Raise the Arrow' expedition, which recovered one in 2018.",
+    "The Arrow's fly-by-wire control augmentation predated most fighters by two decades."
+  ],
+  "article": {
+    "overview": [
+      "The Avro Arrow is a Canadian twin-engine, delta-wing supersonic interceptor built by Avro Canada for the Royal Canadian Air Force. It first flew in 1958, matching the performance of the world's most capable interceptors of the era.{{ref:wiki-arrow}}",
+      "The programme was cancelled in February 1959, eleven months after first flight, in an announcement known as 'Black Friday'; the government subsequently ordered every flying aircraft, airframe, jig, drawing and film destroyed.{{ref:cbc-arrow}} The decision remains one of the most disputed in Canadian industrial history."
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The requirement was geography: Soviet bombers coming over the Pole would cross Canada first, and the RCAF wanted an interceptor to meet them - two crew, twin engines, Mach 2, huge combat radius, all-weather radar and missiles, operating from Arctic-adjacent bases. Nothing existing came close, so in 1953 Avro Canada was asked to build the impossible domestically.{{ref:wiki-arrow}}",
+          "Avro's answer skipped prototypes entirely: the Cook-Craigie plan tooled for production from day one, betting that the design was right. The company also launched its own engine - Orenda's PS-13 Iroquois, among the most powerful turbojets of its era - to replace the interim American J75s in later aircraft.{{ref:wiki-arrow}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Arrow was aggressively modern: a thin, high-mounted delta over a slab-sided fuselage with internal weapons bay bigger than a B-29's bomb bay, fly-by-wire flight controls with artificial feel (years ahead of general practice), 4,000 psi hydraulics, and design-by-computer stress analysis - engineering practices a decade early, in Malton, Ontario.{{ref:wiki-arrow}}",
+          "Flight test backed the swagger: RL-201 flew on 25 March 1958, and the five J75-powered Arrows reached Mach 1.98 and 50,000+ feet while still in early envelope expansion - with the far more powerful Iroquois-engined Mk 2, expected to push well past Mach 2, sitting essentially complete when the axe fell.{{ref:cbc-arrow}}"
+        ]
+      },
+      {
+        "heading": "Cancellation",
+        "paragraphs": [
+          "The Arrow's enemies were arithmetic and era. Costs had grown fivefold as Avro absorbed airframe, engine, missile and fire-control programs; export prospects died against American competition and politics; and the post-Sputnik consensus - briefly, catastrophically - held that missiles made manned interceptors obsolete. Canada was also joining NORAD and being offered American Bomarc missiles instead.{{ref:wiki-arrow}}",
+          "On 20 February 1959 - 'Black Friday' - Prime Minister Diefenbaker cancelled the program outright. Avro fired 14,528 employees that afternoon over the intercom. Within months came the order that turned cancellation into legend: all five flying Arrows and 31 aircraft on the line were torched and guillotined, tooling smashed, blueprints burned. The stated reasons (security, avoiding a museum-piece reproach) have never satisfied anyone.{{ref:cbc-arrow}}",
+          "The epilogue stung worst: within a few years Canada bought American Voodoo interceptors and nuclear-armed Bomarcs that never worked as promised - procuring, at length, roughly what it had destroyed.{{ref:wiki-arrow}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "What survived survived by accident or stealth: a nose section and cockpit smuggled to what is now the Canada Aviation and Space Museum{{ref:casm-arrow}}, outer wing panels, an Iroquois engine, and - recovered from Lake Ontario decades later - free-flight test models fired over the water in the 1950s. Full-scale replicas built by volunteers keep the shape physically present in Canadian museums.{{ref:cbc-arrow}}",
+          "Performance claims, cost trajectories and cancellation motives remain disputed today because so many programme records were destroyed.{{ref:wiki-arrow}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Arrow's cancellation ended Canada's run as a designer of front-line combat aircraft. Chief aerodynamicist Jim Chamberlin led 25 Avro engineers to NASA's Space Task Group, a group that grew to 32 and supplied lead engineers and programme managers to Mercury, Gemini and Apollo - Tecwyn Roberts became NASA's first flight dynamics officer and Owen Maynard ran the Lunar Module engineering office.{{ref:wiki-stg}} Whether the decision was fiscal prudence or a historic mistake is still argued over in books, films and Parliament.{{ref:cbc-arrow}}",
+          "The Arrow has appeared on Canadian postage stamps, in a 1997 CBC mini-series, and in museum displays nationwide, and remains one of the most widely recognised aircraft shapes in Canadian history.{{ref:wiki-arrow}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-arrow",
+      "name": "Avro Canada CF-105 Arrow",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Avro_Canada_CF-105_Arrow"
+    },
+    {
+      "id": "cbc-arrow",
+      "name": "The Avro Arrow: a Canadian story",
+      "publisher": "CBC Archives",
+      "url": "https://www.cbc.ca/archives/topic/the-avro-arrow-canadas-broken-dream"
+    },
+    {
+      "id": "casm-arrow",
+      "name": "Avro Arrow nose section",
+      "publisher": "Canada Aviation and Space Museum",
+      "url": "https://ingeniumcanada.org/aviation/artifact/avro-arrow"
+    },
+    {
+      "id": "wiki-stg",
+      "name": "Space Task Group",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Space_Task_Group"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Avro Canada CF-105 Arrow",
+      "url": "https://en.wikipedia.org/wiki/Avro_Canada_CF-105_Arrow"
+    },
+    {
+      "name": "Royal Canadian Air Force - CF-105 Arrow (Historical Aircraft)",
+      "url": "https://www.canada.ca/en/air-force/services/aircraft/cf-105.html"
+    },
+    {
+      "name": "Canadian Aviation Museum - Avro Canada CF-105 Arrow",
+      "url": "https://canadianaviationmuseum.ca/museum/aircraft/avro-canada-cf-105-arrow/"
+    },
+    {
+      "name": "Ingenium Canada - The Death of a Dream: The 60th Anniversary of Avro's Black Friday",
+      "url": "https://ingeniumcanada.org/channel/articles/the-death-of-a-dream-the-sixtieth-anniversary-of-avros-black-friday"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed a hero-image bug: an extra untitled photo in the hero/ folder was alphabetically outranking the documented hero photo, so the page was showing the wrong image under the right photo's credit (\"Imer, CC BY-SA 3.0\"). Removed the conflicting file (it remains available in the gallery) so the correctly-credited photo displays again.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Added the Avro-to-NASA Space Task Group brain drain to the Legacy section and attached the two previously uncited references.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Status changed from \"Retired\" to the new \"Cancelled\" value - the Arrow never entered service, and \"Retired\" was a workaround for a status the site did not previously offer.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1958-06-11",
+      "title": "Landing-gear failure on prototype RL-201",
+      "summary": "During a landing, a fault in the landing gear's retraction chain caused a runway excursion and gear collapse. The aircraft was repaired and returned to flight testing.",
+      "tag": "Test flight incident",
+      "source": "https://en.wikipedia.org/wiki/Avro_Canada_CF-105_Arrow"
+    },
+    {
+      "date": "1958-11-11",
+      "title": "Landing-gear collapse on prototype RL-202",
+      "summary": "A flight-control fault inadvertently commanded the elevons fully down during landing, reducing tyre friction and causing brake lockup and gear collapse.",
+      "tag": "Test flight incident",
+      "source": "https://en.wikipedia.org/wiki/Avro_Canada_CF-105_Arrow"
+    }
+  ],
+  "incidentsLabel": "Test Flight Incidents"
+}

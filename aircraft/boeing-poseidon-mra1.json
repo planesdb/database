@@ -1,0 +1,280 @@
+{
+  "name": "Poseidon MRA1",
+  "fullName": "Boeing Poseidon MRA1",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes"
+  ],
+  "role": "Maritime Patrol & Reconnaissance Aircraft",
+  "tagline": "The RAF's cutting-edge submarine hunter and maritime protector. Based on the commercial Boeing 737-800 airframe, it protects the UK's nuclear deterrent by patrolling the seas, tracking subsurface threats and flying search and rescue missions.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "Following the retirement of the Nimrod MR2 and the cancellation of the MRA4 project, the UK faced a critical maritime patrol capability gap. To fill this, the Ministry of Defence selected the Boeing P-8A Poseidon, designating it the Poseidon MRA1. The first aircraft arrived at RAF Kinloss on February 4, 2020, and Initial Operating Capability (IOC) was declared on April 1, 2020. Deliveries of the planned nine airframes concluded in January 2022. Operated primarily from RAF Lossiemouth, the fleet is heavily utilized to counter rising Russian naval and submarine activity across the North Atlantic.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 564,
+      "text": "490 kn (564 mph / 908 km/h)"
+    },
+    "cruiseSpeed": "~506 mph (440 knots)",
+    "range": {
+      "miles": 5000,
+      "text": "4,500 nmi ferry range; 1,200 nmi with 4 hours on station"
+    },
+    "serviceCeiling": {
+      "ft": 41000,
+      "text": "41,000 ft"
+    },
+    "wingspan": {
+      "ft": 123.5,
+      "text": "123 ft 6 in (37.64 m)"
+    },
+    "length": {
+      "ft": 129.5,
+      "text": "129 ft 6 in (39.47 m)"
+    },
+    "height": {
+      "ft": 42.8,
+      "text": "42 ft 9 in (13.03 m)"
+    },
+    "weight": "empty: 138,300 lb (62,730 kg); MTOW: 189,200 lb (85,820 kg)",
+    "engines": "2 x CFM International CFM56-7B turbofans (27,000 lbf thrust each)",
+    "armament": "Mk54 lightweight torpedoes, Harpoon anti-ship missiles",
+    "crew": "9 (2 pilots, 1 tactical coordinator, 1 co-tactical coordinator, 5 weapon system operators)",
+    "capacity": "Up to 129 sonobuoys; internal weapons bay and underwing hardpoints",
+    "firstFlight": {
+      "date": "2009-04-25",
+      "year": 2009
+    },
+    "serviceEntryDate": "2020-04-01",
+    "retiredDate": null,
+    "numberBuilt": 9,
+    "unitCost": {
+      "usd": 250000000,
+      "text": "~$250M per airframe (UK program acquisition basis)"
+    }
+  },
+  "variants": [
+    {
+      "code": "P-8A Poseidon",
+      "desc": "The primary production variant utilized by the US Navy, Royal Australian Air Force, and other international customers."
+    },
+    {
+      "code": "Poseidon MRA1",
+      "desc": "Specific designation and configuration configuration utilized by the UK Royal Air Force."
+    },
+    {
+      "code": "P-8I Neptune",
+      "desc": "Export variant customized for the Indian Navy, featuring specific localized radar and magnetic anomaly detection systems."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Sole UK Operator",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "9",
+      "homeBase": "RAF Lossiemouth",
+      "logo": "raf.png"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "P8",
+    "howToFind": "Search public flight trackers for the ICAO type designator 'P8'. Sightings are most consistent tracking around northern Scotland, the North Sea, and during oceanic transits departing from RAF Lossiemouth. They frequently operate under callsigns associated with No. 120 or No. 201 Squadrons."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "RAF News",
+      "url": "https://www.raf.mod.uk/news/",
+      "topicTag": "Poseidon"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Fourteenth P-8A Poseidon aircraft arrives to complete Australia's maritime patrol fleet",
+      "source": "Australian Department of Defence",
+      "date": "2026-05-27",
+      "category": "Deliveries",
+      "url": "https://www.defence.gov.au/news-events/releases/2026-05-27/fourteenth-p-8a-poseidon-aircraft-arrives-complete-australias-maritime-patrol-fleet"
+    },
+    {
+      "title": "U.S. approves possible FMS of 3 P-8A maritime patrol aircraft to Denmark",
+      "source": "Naval News",
+      "date": "2026-01-15",
+      "category": "Exports",
+      "url": "https://www.navalnews.com/naval-news/2026/01/u-s-approves-possible-fms-of-3-p-8a-maritime-patrol-aircraft-to-denmark/"
+    },
+    {
+      "title": "RAF P-8A Poseidon aircraft trains with the Royal Navy in the Baltic Sea region",
+      "source": "Royal Air Force",
+      "date": "2026-03-01",
+      "category": "Exercises",
+      "url": "https://www.raf.mod.uk/news/articles/raf-p-8a-poseidon-aircraft-trains-with-the-royal-navy-in-the-baltic-sea-region/"
+    }
+  ],
+  "tags": [
+    "p-8",
+    "p8",
+    "poseidon",
+    "mra1",
+    "boeing 737",
+    "maritime patrol",
+    "anti-submarine",
+    "submarine hunter",
+    "raf",
+    "lossiemouth",
+    "reconnaissance"
+  ],
+  "quickFacts": [
+    "The Poseidon closed a ten-year gap: after the Nimrod's 2010 cancellation Britain - an island nation - had no maritime patrol aircraft at all until the first MRA1 arrived in 2020.",
+    "During the gap, allied P-3s and P-8s had to be invited in to hunt submarines off Scotland - a sovereignty embarrassment that drove the purchase.",
+    "It's a militarised Boeing 737 airliner carrying torpedoes, sonobuoys and a radar that can spot a periscope in open ocean.",
+    "Each RAF Poseidon carries a name with local Moray roots - the first is 'Pride of Moray'.",
+    "RAF Poseidons regularly shadow Russian submarines and task groups in the North Atlantic and High North, work that is almost never publicised in detail.",
+    "The nine-strong fleet at Lossiemouth shares its type with the US Navy, Norway and others - so allied crews can service and arm each other's jets."
+  ],
+  "article": {
+    "overview": [
+      "The Boeing Poseidon MRA1 is the Royal Air Force's designation for the P-8A Poseidon, a militarised Boeing 737 used for maritime patrol and anti-submarine warfare. Nine aircraft entered RAF service between 2020 and 2022, flying from RAF Lossiemouth.{{ref:raf-p8}}",
+      "Britain bought the type after scrapping the Nimrod MRA4 programme in 2010, leaving it without any maritime patrol aircraft for almost a decade. The Poseidon carries a maritime radar, acoustic processors for sonobuoys, and Harpoon missiles and torpedoes, and is flown by ten nations including the US Navy, India, Australia and Norway.{{ref:wiki-p8}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Britain's path to the Poseidon runs through a national embarrassment: the 2010 defence review scrapped the Nimrod MRA4 program - nine rebuilt aircraft, £3.4 billion spent, essentially complete - and left the UK, an island nuclear power, with no maritime patrol aircraft at all. For nearly a decade allied P-3s and P-8s covered British waters while RAF crews kept skills alive embedded abroad ('Project Seedcorn').{{ref:wiki-nimrod}}",
+          "The 2015 review bought the fix off the shelf: nine P-8A Poseidons, the U.S. Navy's proven 737-based hunter, designated Poseidon MRA1. First aircraft arrived at Lossiemouth in early 2020; the ninth completed the fleet in January 2022.{{ref:raf-p8}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The P-8 formula is commercial pragmatism weaponised: a strengthened 737-800 fuselage with -900 wings, airline economics and global support, carrying a mission suite that does the exotic work - an APY-10 maritime radar{{ref:boeing-p8}}, electro-optics, an acoustics system processing fields of multistatic sonobuoys, and a weapons bay plus pylons for Mk 54 torpedoes and Harpoon anti-ship missiles.{{ref:wiki-p8}}",
+          "Unlike its low-flying predecessors, the P-8 hunts mostly from altitude - sonobuoys and (in U.S. service) winged torpedo kits doing the descending - which spares airframes and crews while a 737's speed gets them to a datum hundreds of miles out far faster than any turboprop. Nine-person crews work consoles down a cabin that still looks faintly like the airliner it was.{{ref:raf-p8}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "From Lossiemouth the fleet's beat is the High North: the Greenland-Iceland-UK gap, the Norwegian Sea approaches, and above all the waters guarding the Clyde-based nuclear deterrent - the mission stated openly, shadowing Russian submarines whose activity NATO calls the highest since the Cold War. Poseidons routinely track surfaced and submerged contacts, escort Russian task groups past the UK, and surge for carrier-group protection.{{ref:raf-p8}}",
+          "The nine aircraft - named for figures from RAF maritime history (Pride of Moray, Terence Bulloch, City of Elgin among them) - work as one node of an interoperable Atlantic web: identical airframes fly from Norway, Iceland's Keflavik ramps and U.S. Navy stations, sharing tactics, buoys and data. NATO's ASW revival is, to a large degree, a P-8 users' club.{{ref:wiki-p8}}",
+          "Deliveries continue worldwide - the U.S. Navy's 120+, India's naval P-8Is with combat patrol experience on two seaboards, Australia, Norway, New Zealand, Germany, Canada and South Korea joining - making the 737 hunter the standard Western answer to the submarine century.{{ref:wiki-p8}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The MRA1 fleet tracks the U.S. Navy's spiral upgrades - acoustic processing, radar modes, weapons integration arriving as block updates - keeping nine airframes current without a national development program: the entire point of buying the world-standard type. Wedgetail AEW aircraft on the same Lossiemouth pattern of 737 commonality follow for the RAF.{{ref:raf-p8}}",
+          "Its limits are the fleet's size: nine aircraft to cover the deterrent, the North Atlantic and coalition demands is the thinnest of margins, a fact every UK defence review since has acknowledged and none has yet fixed.{{ref:raf-p8}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The Poseidon MRA1 is the case study in capability gaps: how quickly a sovereign skill evaporates (one review), what it costs to keep the embers alive (a decade of Seedcorn exchange postings), and how a nation buys its way back (off the shelf, from an ally, at the price of independence in the design). Defence colleges teach the Nimrod-to-Poseidon decade as a warning.{{ref:wiki-nimrod}}",
+          "Operationally the verdict is kinder: within two years of arrival the RAF was again a first-rank anti-submarine warfare force on NATO's northern flank, and the 737-based Poseidon has become the standard Western maritime patrol aircraft.{{ref:wiki-p8}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "raf-p8",
+      "name": "Poseidon MRA1",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/aircraft/poseidon-mra1/"
+    },
+    {
+      "id": "wiki-p8",
+      "name": "Boeing P-8 Poseidon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon"
+    },
+    {
+      "id": "wiki-nimrod",
+      "name": "BAE Systems Nimrod MRA4",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BAE_Systems_Nimrod_MRA4"
+    },
+    {
+      "id": "boeing-p8",
+      "name": "P-8 Poseidon",
+      "publisher": "Boeing",
+      "url": "https://www.boeing.com/defense/maritime-surveillance/p-8-poseidon"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Royal Air Force - Poseidon MRA1 Fact Sheet",
+      "url": "https://www.raf.mod.uk/aircraft/current-aircraft/poseidon-mra11/"
+    },
+    {
+      "name": "ICAO Document 8643 - Aircraft Type Designators",
+      "url": "https://doc8643.com/aircraft/P8"
+    },
+    {
+      "name": "Wikipedia - Boeing P-8 Poseidon",
+      "url": "https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2014-08-19",
+      "title": "Aggressive Chinese intercept over the South China Sea",
+      "summary": "A Chinese J-11 fighter flew an aggressive intercept of a U.S. Navy P-8A over the South China Sea, closing to within roughly 20 feet and performing a barrel roll over the aircraft — an incident the Pentagon called unsafe and unprofessional.",
+      "fatalities": 0,
+      "tag": "Unsafe intercept",
+      "source": "https://www.cnn.com/2014/08/22/world/asia/us-china-air-encounter/index.html"
+    },
+    {
+      "date": "2023-11-20",
+      "title": "Runway overrun into Kaneohe Bay",
+      "summary": "A U.S. Navy P-8A Poseidon overshot the runway on approach to Marine Corps Air Station Kaneohe Bay, Hawaii, in heavy rain and came to rest in the shallow waters of the bay. All nine crew evacuated safely; the aircraft was later declared unrepairable and scrapped.",
+      "fatalities": 0,
+      "tag": "Runway excursion",
+      "source": "https://www.cnn.com/2023/11/20/politics/us-navy-jet-overshoots-runway-hawaii-intl-hnk/index.html"
+    },
+    {
+      "date": "2025-02-11",
+      "title": "Flares released near an RAAF P-8A",
+      "summary": "A Chinese J-16 fighter conducted what Australia called a dangerous and unprofessional intercept of a Royal Australian Air Force P-8A over the South China Sea, releasing flares in close proximity to the aircraft.",
+      "fatalities": 0,
+      "tag": "Unsafe intercept",
+      "source": "https://www.flightglobal.com/defence/chinese-j-16-makes-unprofessional-intercept-of-australian-p-8a/161784.article"
+    }
+  ]
+}

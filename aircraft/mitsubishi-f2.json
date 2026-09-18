@@ -1,0 +1,294 @@
+{
+  "name": "F-2",
+  "fullName": "Mitsubishi F-2",
+  "manufacturer": "Mitsubishi Heavy Industries",
+  "originCountry": {
+    "name": "Japan",
+    "code": "jp"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Multirole Fighter / Maritime Strike Fighter",
+  "tagline": "Japan's F-16-derived multirole fighter, built for maritime strike. Larger and more composite-intensive than the F-16 it is based on, with an indigenously developed AESA radar, it was purpose-built for anti-ship and air-defense missions around the Japanese home islands.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "The F-2 traces back to Japan's late-1980s plan to develop a successor to its aging F-1 support fighters, initially as a purely domestic design. Diplomatic pressure from Washington, sharpened by trade tensions including the Toshiba-Kongsberg technology-transfer scandal, pushed Japan into a bilateral program instead: a November 1988 memorandum brought General Dynamics (later Lockheed Martin) in as a partner, contributing F-16 technology and up to 45 percent of development work, with program costs split roughly 60/40 between Japan and the United States. The resulting aircraft, though visibly related to the F-16, was extensively reworked - more than 95 percent of the F-16's engineering drawings were changed, with a 25-percent-larger wing built from co-cured graphite-epoxy composite (a first for a tactical fighter), a longer fuselage, wider nose, three-piece bird-strike-resistant canopy and ten weapons stations against the F-16's six. It was also the first operational fighter in the world to fly with an AESA radar, Japan's indigenously developed J/APG-1. The prototype first flew on 7 October 1995, but structural problems discovered during testing delayed service entry to 2000, and cost growth - the unit price ran to roughly four times that of a contemporary Block 50/52 F-16 - led Japan to cut its planned buy from 141 aircraft to 98, including four prototypes, before production ended in 2011. In service, the F-2 has flown air-defense scramble missions against Russian and Chinese aircraft approaching Japanese airspace and forms a core part of Japan's anti-ship strike capability. The type suffered a serious blow in the March 2011 Tohoku earthquake and tsunami, when floodwater damaged 18 F-2Bs at Matsushima Air Base, five of which were subsequently written off. With production over and the airframe aging, Japan is now developing its successor through the trilateral Global Combat Air Programme (GCAP) with the United Kingdom and Italy, targeting a combat debut around 2035.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1320,
+      "text": "~1,147 kn (~1,320 mph / 2,124 km/h)"
+    },
+    "cruiseSpeed": "~Mach 0.9 (subsonic cruise)",
+    "range": {
+      "miles": 518,
+      "text": "518 mi (833 km) combat radius"
+    },
+    "serviceCeiling": {
+      "ft": 59000,
+      "text": "59,000 ft (18,000 m)"
+    },
+    "wingspan": {
+      "ft": 36.5,
+      "text": "36 ft 6 in (11.13 m) with wingtip missile rails; 35 ft (10.8 m) without"
+    },
+    "length": {
+      "ft": 50.9,
+      "text": "50 ft 11 in (15.52 m)"
+    },
+    "height": {
+      "ft": 16.4,
+      "text": "16 ft 5 in (5.0 m)"
+    },
+    "weight": "empty: 21,003 lb (9,527 kg); MTOW: 48,722 lb (22,100 kg)",
+    "engines": "1 x General Electric F110-IHI-129 afterburning turbofan (~17,000 lbf dry / ~29,500 lbf with afterburner)",
+    "armament": "1 x JM61A2 20mm rotary cannon; AAM-3/4/5 and AIM-9L Sidewinder air-to-air missiles, AIM-7M Sparrow, ASM-1/2 anti-ship missiles, Mk.82/84 and GPS-guided bombs",
+    "crew": "1 (F-2A); 2 (F-2B trainer)",
+    "capacity": "N/A - fighter aircraft; 8,085 kg (17,825 lb) external ordnance capacity across 13 hardpoints",
+    "firstFlight": {
+      "date": "1995-10-07",
+      "year": 1995
+    },
+    "serviceEntryDate": "2000-10-01",
+    "retiredDate": null,
+    "numberBuilt": 98,
+    "unitCost": {
+      "usd": 127000000,
+      "text": "~$127M (2009 estimate, reflecting high development-cost recovery on a short production run) - roughly $198M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$198M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "F-2A",
+      "desc": "Single-seat production fighter, the primary operational version."
+    },
+    {
+      "code": "F-2B",
+      "desc": "Two-seat operational trainer variant, retaining full combat capability."
+    },
+    {
+      "code": "XF-2A/XF-2B",
+      "desc": "Pre-production prototypes used in the 1995-2000 flight test and certification program."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "2000",
+      "fleetSize": "~91",
+      "homeBase": "Misawa Air Base (3rd Squadron), Tsuiki Air Base (8th Air Wing), Matsushima Air Base (4th Air Wing, trainers)",
+      "logo": "jasdf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F2",
+    "howToFind": "F-2s rarely broadcast civil ADS-B during operational sorties, so Flightradar24 sightings are limited; occasional appearances come from training and transit flights near JASDF bases such as Misawa, Tsuiki and Matsushima, or at Japanese air show events like the Misawa or Nyutabaru air festivals."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/feed",
+      "topicTag": "Mitsubishi F-2"
+    },
+    {
+      "name": "Defense News",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+      "topicTag": "F-2"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "JASDF F-2 fighter appears carrying a new large stealth cruise missile",
+      "source": "The War Zone",
+      "date": "2026-07-30",
+      "category": "Weapons",
+      "url": "https://www.twz.com/air/japanese-f-2-fighter-appears-with-new-large-stealth-cruise-missile-under-its-wings"
+    },
+    {
+      "title": "Mitsubishi F-2 gains ASM-3A supersonic anti-ship missile capability",
+      "source": "Bulgarian Military",
+      "date": "2025-05-26",
+      "category": "Weapons",
+      "url": "https://bulgarianmilitary.com/2025/05/26/mitsubishi-f-2-gains-asm-3a-supersonic-edge-in-pacific-patrols/"
+    }
+  ],
+  "tags": [
+    "f-2",
+    "f2",
+    "mitsubishi",
+    "jasdf",
+    "japan",
+    "multirole fighter",
+    "maritime strike fighter",
+    "f-16 derivative",
+    "aesa radar",
+    "military",
+    "fighter jet"
+  ],
+  "quickFacts": [
+    "The F-2 beat the F-22 to a milestone: its J/APG-1 was the world's first active electronically scanned array (AESA) radar on a production fighter, in 2000.",
+    "It looks like an F-16 but is 25% larger in wing area, built with a co-cured composite wing that US industry later borrowed back.",
+    "The 2011 tsunami submerged 18 F-2Bs at Matsushima air base - 13 were rebuilt in a salvage program that cost more than new jets.",
+    "Japanese crews nicknamed it the 'Viper Zero' - an F-16 'Viper' descendant built by the maker of the wartime Zero.",
+    "Its successor is being designed with Britain and Italy under GCAP - Japan's first fighter partnership beyond the US."
+  ],
+  "article": {
+    "overview": [
+      "The Mitsubishi F-2 is a Japanese single-engine multirole fighter developed jointly by Mitsubishi Heavy Industries and Lockheed Martin, based on an enlarged F-16 airframe. It was the first production fighter fitted with an active electronically scanned array (AESA) radar.{{ref:wiki-f2}}",
+      "Ninety-eight were built for the Japan Air Self-Defense Force at roughly four times the cost of an F-16, reflecting the price of the 1980s trade dispute that killed Japan's original indigenous design.{{ref:wiki-fsx}} It is due to be replaced by the GCAP fighter from 2035."
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The FS-X program of the mid-1980s began as Japanese autonomy: Mitsubishi's engineers wanted a clean-sheet successor to their F-1 strike fighter. Washington - mid-trade-war, alarmed at Japanese techno-nationalism - pressed hard, and the 1987 compromise made history's most argued-over fighter deal: Japan would co-develop a heavily modified F-16 with General Dynamics, sharing (and paying for) the result.{{ref:wiki-fsx}}",
+          "Congress fought the deal, Tokyo resented it, and the engineering proceeded anyway: a 25% larger co-cured composite wing, longer fuselage, bigger nose for a Japanese radar, drag chute, and strengthening for the quartet of heavyweight ASM-1/ASM-2 anti-ship missiles that defined the mission - defending the sea lanes of an island nation.{{ref:wiki-f2}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The F-2's superlatives hide in its skin and nose: the wing was among the first co-cured composite structures on any fighter (technology American industry gained from the program - the sharing ran both ways), and the J/APG-1 made it the first production fighter in the world with an AESA radar, entering service in 2000 while Western equivalents were still in test.{{ref:wiki-f2}}",
+          "Mission shaped everything else: the big wing carries four 600+ kg sea-skimming missiles plus tanks and Sidewinders on maritime strike profiles no baseline F-16 could fly, and later upgrades added JDAM precision strike and the improved J/APG-2 with AAM-4B - keeping the 'Viper Zero' (its nickname honouring Mitsubishi's other famous fighter) current through mid-life.{{ref:wiki-f2}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Ninety-eight F-2s (of 141 once planned - cost cut the rest) have flown the Japan Air Self-Defense Force's hardest geography since 2000: anti-ship strike squadrons facing the sea approaches, and a share of the relentless scramble mission against Russian and Chinese probes that makes the JASDF one of the world's busiest intercept forces. Like all JSDF equipment, its combat record is, by constitutional design, empty; its value has instead been measured by decades of readiness.{{ref:wiki-f2}}",
+          "Its cruellest day came from the sea it guards: the 2011 Tōhoku tsunami drowned 18 F-2Bs of the training wing at Matsushima - nearly a fifth of the fleet - in one afternoon. Japan's response was characteristic: 13 were painstakingly rebuilt over years at costs no accountant loved, because 98 airframes minus 18 was a strategic hole, not a line item.{{ref:wiki-f2}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The F-2's ledger reads both ways. Against it: unit costs near four times an F-16's, a truncated buy, and early wing-crack and radar teething that critics feasted on. For it: technologies (AESA, co-cured composites) that led the world, an industrial base kept alive, and a fighter precisely fitted to a mission imported types weren't.{{ref:wiki-fsx}}",
+          "Its succession is the lesson applied: after the F-2's dependence experience, Japan launched its F-X/next-fighter effort determined to hold design authority - merging it in 2022 with Britain and Italy as GCAP{{ref:tdn-gcap}}, the sixth-generation programme whose 2035 planned service entry is timed to the F-2's retirement.{{ref:wiki-gcap}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The F-2 is the bridge between Japan's licence-building past and design-authority future: the program that transferred enough capability - painfully, expensively - for Mitsubishi's engineers to demonstrate X-2 stealth technology and negotiate GCAP as equals. Nations remember their tuition; the F-2 was Japan's.{{ref:wiki-fsx}}",
+          "As an aircraft it retires with a strong reputation: an early AESA-radar pioneer, and the fighter that spent 35 years guarding Japan's sea lanes without ever firing in anger.{{ref:wiki-f2}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f2",
+      "name": "Mitsubishi F-2",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mitsubishi_F-2"
+    },
+    {
+      "id": "wiki-fsx",
+      "name": "FS-X program controversy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mitsubishi_F-2#Development"
+    },
+    {
+      "id": "wiki-gcap",
+      "name": "Global Combat Air Programme",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Global_Combat_Air_Programme"
+    },
+    {
+      "id": "tdn-gcap",
+      "name": "Japan, UK, and Italy Secure GCAP Future with Development Contract Extension",
+      "publisher": "The Defense News",
+      "url": "https://www.thedefensenews.com/Japan-UK-and-Italy-Secure-GCAP-Future-with-Development-Contract-Extension-Until-2027/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Mitsubishi Heavy Industries - F-2 Close Support Fighter",
+      "url": "https://www.mhi.com/products/defense/f_2_close_support_fighter.html"
+    },
+    {
+      "name": "Airforce Technology - F-2 Attack Fighter for the Japan Air Self-Defence Force",
+      "url": "https://www.airforce-technology.com/projects/f-2/"
+    },
+    {
+      "name": "Code One Magazine - Japan's F-2 Support Fighter",
+      "url": "https://www.codeonemagazine.com/article.html?item_id=185"
+    },
+    {
+      "name": "Global Combat Air Programme - Wikipedia (successor program context)",
+      "url": "https://en.wikipedia.org/wiki/Global_Combat_Air_Programme"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and GCAP succession status.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2007-10-31",
+      "title": "Crash on takeoff at Nagoya after maintenance",
+      "summary": "An F-2B being test-flown after maintenance crashed during takeoff at Nagoya (Komaki) Airfield. Both test pilots survived with minor injuries; the investigation attributed the crash to improper wiring work.",
+      "fatalities": 0,
+      "tag": "Maintenance fault",
+      "source": "https://en.wikipedia.org/wiki/Mitsubishi_F-2"
+    },
+    {
+      "date": "2011-03-11",
+      "title": "Fleet wrecked by the Tōhoku tsunami",
+      "summary": "The 2011 Tōhoku earthquake and tsunami flooded Matsushima Air Base, damaging or destroying 18 F-2Bs on the ground. Five were scrapped as beyond repair; the remaining 13 were repaired over several years at a cost of roughly ¥80 billion.",
+      "fatalities": 0,
+      "tag": "Natural disaster",
+      "source": "https://en.wikipedia.org/wiki/Mitsubishi_F-2"
+    },
+    {
+      "date": "2019-02-20",
+      "title": "Training crash into the Sea of Japan",
+      "summary": "An F-2B crashed into the Sea of Japan during a training flight. Both the instructor and pilot ejected and survived.",
+      "fatalities": 0,
+      "tag": "Training accident",
+      "source": "https://en.wikipedia.org/wiki/Mitsubishi_F-2"
+    },
+    {
+      "date": "2025-08-07",
+      "title": "Crash off Ibaraki grounds the F-2A fleet",
+      "summary": "An F-2A from Hyakuri Air Base crashed into the Pacific Ocean during a training flight off Ibaraki Prefecture. The pilot ejected and was rescued, and Japan grounded its F-2A fleet pending investigation.",
+      "fatalities": 0,
+      "tag": "Training accident / grounding",
+      "source": "https://www.aa.com.tr/en/asia-pacific/japan-grounds-f-2a-fighter-fleet-after-crash-in-pacific-ocean/3652707"
+    }
+  ]
+}

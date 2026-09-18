@@ -1,0 +1,346 @@
+{
+  "name": "P-51 Mustang",
+  "fullName": "North American P-51 Mustang",
+  "manufacturer": "North American Aviation",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "WWII Long-Range Escort Fighter",
+  "tagline": "The Merlin-engined fighter that finally let Allied bombers fly all the way to Berlin and back with protection. Originally built to a British specification with an underpowered Allison engine, it was transformed by the Rolls-Royce Merlin into an aircraft with the range and speed to break the back of the Luftwaffe's fighter force in early 1944.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Designed in just 102 days in 1940 at the request of the British Purchasing Commission, the original Allison-engined NA-73X performed well at low altitude but was a disappointment above 15,000 ft, where most air combat over Europe took place. Test pilot Ronald Harker of Rolls-Royce flew a Mustang in April 1942 and recommended replacing the Allison with the two-stage supercharged Merlin 61; the resulting P-51B/C transformed the aircraft's high-altitude performance, and when combined with drop tanks giving a combat radius of over 750 miles, the definitive bubble-canopy P-51D of 1944 could finally escort Eighth Air Force B-17s and B-24s on the deepest raids into Germany. Its arrival over Berlin for the first time on 6 March 1944 stunned the Luftwaffe, and the ensuing months of attrition against German fighters - forced up to defend the bombers and shot down by escorting Mustangs in growing numbers - critically weakened the Luftwaffe's fighter arm before D-Day. Some 15,875 Mustangs were built by war's end; the type went on to serve in the Korean War as a ground-attack aircraft and remained in reserve and foreign air force service into the 1980s in some countries. It remains one of the most popular warbirds on the airshow circuit today, with several hundred still airworthy.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 437,
+      "text": "380 kn (437 mph / 703 km/h)"
+    },
+    "cruiseSpeed": "~362 mph (583 km/h) economical cruise",
+    "range": {
+      "miles": 1650,
+      "text": "1,650 mi (2,655 km) with external drop tanks"
+    },
+    "serviceCeiling": {
+      "ft": 41900,
+      "text": "41,900 ft (12,770 m)"
+    },
+    "wingspan": {
+      "ft": 37,
+      "text": "37 ft 0 in (11.28 m)"
+    },
+    "length": {
+      "ft": 32.25,
+      "text": "32 ft 3 in (9.83 m)"
+    },
+    "height": {
+      "ft": 13.75,
+      "text": "13 ft 8 in (4.17 m)"
+    },
+    "weight": "empty: 7,635 lb (3,463 kg); loaded: 9,200 lb (4,175 kg)",
+    "engines": "1 x Packard V-1650-7 (license-built Rolls-Royce Merlin 65) liquid-cooled V-12, 1,490 hp",
+    "armament": "6 x .50 in (12.7 mm) M2 Browning machine guns; underwing hardpoints for up to 2,000 lb of bombs or 6 x 5 in rockets",
+    "crew": "1 (pilot); two-seat TP-51 conversions carried 2",
+    "capacity": "N/A - single-seat fighter; could carry up to 2,000 lb of bombs or 6 x 5 in rockets for ground attack",
+    "firstFlight": {
+      "date": "1940-10-26",
+      "year": 1940
+    },
+    "serviceEntryDate": "1942-01-01",
+    "retiredDate": "1957",
+    "numberBuilt": 15875,
+    "unitCost": {
+      "usd": 51000,
+      "text": "~$51,000 wartime unit cost (1945 dollars; roughly $948,000 in 2026 dollars, adjusted for CPI inflation)",
+      "inflationText": "≈$948,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "P-51A",
+      "desc": "Early Allison-engined variant, strong at low altitude but limited above 15,000 ft."
+    },
+    {
+      "code": "P-51B/C",
+      "desc": "First Merlin-engined variant with the razorback canopy, transforming high-altitude performance."
+    },
+    {
+      "code": "P-51D",
+      "desc": "Definitive and most numerous version with a bubble canopy for all-round visibility and six wing guns; the escort fighter that flew to Berlin."
+    },
+    {
+      "code": "F-51D (Korea)",
+      "desc": "Post-war ground-attack redesignation used extensively for close air support in the Korean War."
+    },
+    {
+      "code": "TP-51/P-51D dual-control",
+      "desc": "Two-seat conversions used for training and, today, for warbird ride experiences."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces / US Air Force",
+      "role": "Primary Wartime Operator",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "~15,000 at wartime peak",
+      "homeBase": "8th and 9th Air Force bases, England; later worldwide",
+      "logo": "usaf.svg"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Original Customer & Operator",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "~900 (Mustang Mk I-IV)",
+      "homeBase": "RAF fighter stations, England",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Operator (Korean War era)",
+      "status": "Retired",
+      "since": "1950",
+      "fleetSize": "~100",
+      "homeBase": "South Korean airbases",
+      "logo": "rokaf.webp"
+    },
+    {
+      "name": "Various private warbird operators worldwide",
+      "role": "Heritage & airshow operator",
+      "status": "In Service",
+      "since": "1960s",
+      "fleetSize": "~175 airworthy worldwide",
+      "homeBase": "Private collections, US, UK, Australia"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "P51",
+    "howToFind": "One of the most commonly seen flying WWII warbirds; regularly appears at US and European airshows (EAA AirVenture, Duxford) and transits between airshow venues with civil registrations, visible on Flightradar24 during warbird season."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "P-51 Mustang"
+    },
+    {
+      "name": "AeroTime",
+      "url": "https://www.aerotime.aero/feed",
+      "topicTag": "Mustang warbird"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Restored P-51B Mustang 'Shillelagh' makes first flight ahead of EAA AirVenture Oshkosh debut",
+      "source": "Vintage Aviation News",
+      "date": "2026-07-20",
+      "category": "Restoration",
+      "url": "https://vintageaviationnews.com/restorations/p-51b-mustang-shillelaugh-makes-successful-first-flight-ahead-of-airventure-oshkosh-debut.html"
+    }
+  ],
+  "tags": [
+    "p-51 mustang",
+    "north american aviation",
+    "wwii fighter",
+    "world war 2",
+    "merlin engine",
+    "escort fighter",
+    "usaaf",
+    "long range fighter",
+    "warbird"
+  ],
+  "quickFacts": [
+    "The Mustang went from drawing board to first flight in 102 days - and only became a legend when someone swapped its Allison engine for a Rolls-Royce Merlin.",
+    "Merlin Mustangs could escort bombers all the way to Berlin and back - the capability Göring said meant Germany had lost the war when he saw them overhead.",
+    "P-51 pilots destroyed 4,950 enemy aircraft in Europe - more than any other US fighter.",
+    "The Tuskegee Airmen's red-tailed P-51s became one of the war's most famous units - bomber crews specifically requested 'Red Tail' escorts.",
+    "Surplus Mustangs dominated postwar air racing - highly modified examples still race at Reno-style events at over 500 mph.",
+    "It fought on into the 1980s: the Dominican Republic retired the last military Mustangs in 1984, four decades after D-Day."
+  ],
+  "article": {
+    "overview": [
+      "The North American P-51 Mustang is an American single-engine, long-range fighter built by North American Aviation to a 1940 British Purchasing Commission specification.{{ref:wiki-p51}}",
+      "Fitted with the Rolls-Royce Merlin engine from 1942, it could escort Allied bombers from England to Berlin and back while outperforming the fighters it met there, helping to establish Allied daylight air superiority over Germany.{{ref:wiki-p51}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "In early 1940 Britain was buying every American fighter it could and wanted North American Aviation to license-build Curtiss P-40s. North American's 'Dutch' Kindelberger made an audacious counter: give us the requirement, and we'll design you something better, faster than you can set up a P-40 line. The British agreed - with a deadline measured in months.{{ref:wiki-p51}}",
+          "The NA-73X prototype was rolled out 102 days after the order was signed and flew that October. It carried two quiet revolutions: a laminar-flow wing that dramatically cut drag, and a radiator buried in the rear fuselage whose heated exhaust air produced measurable thrust - the 'Meredith effect' turning the engine's waste heat into free speed.{{ref:wiki-p51}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The early Allison-engined Mustangs were superb low-altitude aircraft that gasped above 15,000 feet - fine for the RAF's armed reconnaissance, useless for escorting bombers at 25,000. The fix came from Rolls-Royce test pilots who flew one in 1942 and asked the obvious question: what would this airframe do with a Merlin 61?{{ref:wiki-p51}}",
+          "The answer was the P-51B and the definitive bubble-canopied P-51D: 437 mph, superb handling, and - the number that changed the war - range. With the fuselage tank and drop tanks, a Mustang could fly from England to Berlin, fight, and come home: over 1,600 miles of escort radius from a single-engined fighter, at a unit cost roughly half a P-38's.{{ref:wiki-p51}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Mustang's magic was drag accounting. The laminar-flow wing kept airflow smooth across more of its surface than any previous fighter; the Meredith-effect radiator recovered energy every other design threw away; and the airframe was clean in a way that let the same Merlin engine push a Mustang some 30 mph faster than a Spitfire IX.{{ref:wiki-p51}}",
+          "Six .50-calibre Brownings, 437 mph, a 41,900-foot ceiling and honest handling completed a package that was also - crucially for a war economy - simple to mass-produce. Over 15,000 were built in five years.{{ref:naa-p51}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The Mustang's arrival in numbers in early 1944 coincided with a doctrinal unleashing: escort fighters were freed to leave the bombers and hunt the Luftwaffe wherever it rose. Within months of 'Big Week'{{ref:wiki-bigweek}} the German day-fighter force was bleeding pilots faster than it could train them, and by D-Day the Allies owned the sky over the invasion. Mustangs were credited with nearly 5,000 aerial kills in Europe - more than any other American fighter there.{{ref:wiki-p51}}",
+          "It ranged across every theatre: escorting B-29s from Iwo Jima to Japan, dueling over China, and flying again in Korea, where F-51s (re-lettered) flew ground attack until jets matured. The Tuskegee Airmen's red-tailed Mustangs of the 332nd Fighter Group{{ref:wiki-tuskegee}} made the aircraft an emblem of a different battle won.{{ref:wiki-p51}}",
+          "Air forces flew Mustangs into the 1980s (the Dominican Republic retired the last military examples in 1984), by which point the type had begun its third career as the backbone of warbird aviation and unlimited air racing at Reno.{{ref:wiki-p51}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "Strategic bombing doctrine, the P-51 proved, was only as good as its escort - and with escort, it worked. Postwar analysis consistently ranks the Merlin Mustang among the decisive weapons of the European war, an aircraft that solved the one problem the Eighth Air Force couldn't bomb its way past.{{ref:wiki-p51}}",
+          "Around 300 survive today, perhaps half still flying - by far the most numerous WWII fighter still in the air, and a regular performer at airshows worldwide.{{ref:naa-p51}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-p51",
+      "name": "North American P-51 Mustang",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_American_P-51_Mustang"
+    },
+    {
+      "id": "naa-p51",
+      "name": "North American P-51D Mustang",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/north-american-p-51d-mustang/nasm_A19600300000"
+    },
+    {
+      "id": "wiki-tuskegee",
+      "name": "Tuskegee Airmen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tuskegee_Airmen"
+    },
+    {
+      "id": "wiki-bigweek",
+      "name": "Big Week",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Big_Week"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - North American P-51 Mustang",
+      "url": "https://en.wikipedia.org/wiki/North_American_P-51_Mustang"
+    },
+    {
+      "name": "National Museum of the US Air Force - P-51D Mustang",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196252/north-american-p-51d-mustang/"
+    },
+    {
+      "name": "Imperial War Museums - P-51 Mustang",
+      "url": "https://www.iwm.org.uk/collections/item/object/205019953"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Added a survivors section - this type has well-documented preserved/airworthy examples but the field was previously missing, an inconsistency versus similar WWII/Cold War-era entries elsewhere in the database.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "survivors": {
+    "intro": "Several hundred P-51s survive worldwide, from static museum pieces to airworthy warbirds still flying at airshows. These three span a Smithsonian static display, a flying tribute aircraft, and a modern pop-culture cameo.",
+    "airframes": [
+      {
+        "serial": "44-74939",
+        "name": "Willit Run?",
+        "location": "National Air and Space Museum",
+        "place": "Washington, D.C., United States",
+        "url": "https://airandspace.si.edu/",
+        "note": "On permanent static display at the Smithsonian's main Washington building.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "42-103645",
+        "name": "Tuskegee Airmen",
+        "location": "Commemorative Air Force - Red Tail Squadron",
+        "place": "South St. Paul, Minnesota, United States",
+        "url": "https://cafredtail.org/",
+        "note": "Airworthy tribute aircraft honoring the Tuskegee Airmen, painted in their distinctive red-tailed livery and flown at airshows nationwide.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-12840",
+        "name": "Kiss Me Kate",
+        "location": "Privately owned (Valhalla Aviation)",
+        "place": "Los Angeles, California, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_North_American_P-51_Mustangs",
+        "note": "Owned and personally flown by actor Tom Cruise, who piloted this aircraft in Top Gun: Maverick.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "accidentsAndIncidents": [
+    {
+      "date": "1944-12-25",
+      "title": "Top ace George Preddy killed by friendly fire",
+      "summary": "America's top-scoring P-51 ace was shot down and killed by US anti-aircraft fire near Liège, Belgium, while pursuing a German fighter at treetop height during the Battle of the Bulge.",
+      "fatalities": 1,
+      "tag": "Friendly fire",
+      "source": "https://en.wikipedia.org/wiki/George_Preddy"
+    },
+    {
+      "date": "2011-09-16",
+      "title": "2011 Reno Air Races crash",
+      "summary": "A heavily modified racing P-51D lost elevator trim control at over 400 mph and dove into the grandstand area at the Reno Air Races. The pilot and 10 spectators were killed and roughly 69 injured; investigators traced the cause to fatigue failure of reused locknuts in the trim system.",
+      "fatalities": 11,
+      "tag": "Airshow/air race disaster",
+      "source": "https://en.wikipedia.org/wiki/2011_Reno_Air_Races_crash"
+    },
+    {
+      "date": "2017-07-16",
+      "title": "Fatal airshow crash near Atchison, Kansas",
+      "summary": "Veteran airshow pilot Vlado Lenoch and his passenger were killed when their P-51D Mustang crashed near Amelia Earhart Airport shortly after takeoff.",
+      "fatalities": 2,
+      "tag": "Warbird / airshow crash",
+      "source": "https://theaviationist.com/2017/07/17/popular-u-s-airshow-pilot-vlado-lenoch-killed-in-p-51-crash-with-passenger/"
+    }
+  ]
+}

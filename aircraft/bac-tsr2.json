@@ -1,0 +1,293 @@
+{
+  "name": "TSR-2",
+  "fullName": "BAC TSR-2",
+  "manufacturer": "British Aircraft Corporation",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Tactical Strike & Reconnaissance Aircraft",
+  "tagline": "The BAC TSR-2 was a British supersonic strike and reconnaissance aircraft designed to penetrate Soviet defences at low level and deliver a tactical nuclear weapon. One aircraft flew 24 times between September 1964 and March 1965 before the programme was cancelled in the Budget speech of 6 April 1965, and the airframes, jigs and tooling were then destroyed.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "Only one TSR-2 ever flew. XR219 made 24 flights in six months; the second aircraft was due to fly on the day the cancellation was announced and never did.",
+    "The programme's estimated cost per aircraft rose from £1.5 million in 1960 to at least £5 million by 1965 - the escalation that killed it, laid out by Denis Healey in the Commons.",
+    "It reached Mach 1 on dry thrust alone, without reheat, and flew at 200 feet over the Pennines at Mach 1.12 - the low-level supersonic role it was built for.",
+    "After cancellation the surviving airframes were taken to Shoeburyness and shot at, to test how modern structures stood up to gunfire and shrapnel.",
+    "The jigs and tooling were scrapped within six months, which made restarting the programme impossible - the decision was deliberately made irreversible.",
+    "Britain ordered 50 F-111Ks to replace it, cancelled those too in 1968, and ended up with the Phantom and the Buccaneer - the aircraft the RAF had rejected in order to get TSR-2 approved."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are design and flight-test values for the development batch aircraft. Only XR219 ever flew, and it did so with much of the intended navigation and attack system not yet fitted, so the performance below is largely what the aircraft was designed and predicted to achieve rather than what was demonstrated in service.",
+    "maxSpeed": {
+      "mph": 1485,
+      "text": "1,290 kn (1,485 mph / 2,390 km/h) at 40,000 ft; Mach 1.1 at sea level"
+    },
+    "cruiseSpeed": "Mach 1 achievable on dry thrust without reheat; low-level attack profile flown at about Mach 0.95 at sea level",
+    "range": {
+      "miles": 2877,
+      "text": "2,877 mi (4,630 km, 2,500 nmi) ferry range; 863 mi (1,389 km, 750 nmi) combat radius"
+    },
+    "serviceCeiling": {
+      "ft": 40000,
+      "text": "40,000 ft (12,200 m)"
+    },
+    "wingspan": {
+      "ft": 37.17,
+      "text": "37 ft 2 in (11.33 m)"
+    },
+    "length": {
+      "ft": 89,
+      "text": "89 ft 0 in (27.13 m)"
+    },
+    "height": {
+      "ft": 23.75,
+      "text": "23 ft 9 in (7.24 m)"
+    },
+    "weight": "empty: 54,750 lb (24,834 kg); MTOW: 103,500 lb (46,947 kg)",
+    "engines": "Two Bristol Siddeley Olympus 22R reheated turbojets, 22,000 lbf (98 kN) dry and 30,610 lbf (136 kN) with afterburner - a development of the Vulcan's engine, and the ancestor of Concorde's",
+    "armament": "10,000 lb weapons load - 6,000 lb in a 20 ft internal bay and 4,000 lb externally. The bay was sized for tactical nuclear weapons (Red Beard, later WE.177), with provision for six 1,000 lb conventional bombs",
+    "crew": "2 (pilot and observer in tandem)",
+    "capacity": "Rate of climb 15,000 ft/min (76 m/s)",
+    "firstFlight": {
+      "date": "1964-09-27",
+      "year": 1964
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1965-03-31",
+    "numberBuilt": 3,
+    "unitCost": {
+      "usd": 14000000,
+      "text": "$14M (roughly £5M per aircraft on a 150-aircraft order, at the $2.80 exchange rate fixed through the period; the 1960 estimate had been £1.5M) - about $148M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$148M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "TSR-2 (development batch)",
+      "desc": "The only version built. Nine development batch aircraft were ordered and three were completed before cancellation: XR219, which flew; XR220, which was due to make its first flight on the day the cancellation was announced and never did; and XR221. Four more airframes were finished but never flown, and a further batch was part-built when the jigs were scrapped. No production variant was ever built, and no reconnaissance or trainer version got beyond paper."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Intended Operator",
+      "status": "Cancelled",
+      "since": "Never entered service",
+      "fleetSize": "A 150-aircraft order was planned; none were delivered. The RAF's Canberra replacement was eventually met by the Phantom and Buccaneer, and later the Tornado",
+      "homeBase": "Flight testing at A&AEE Boscombe Down, Wiltshire",
+      "logo": "raf.png"
+    }
+  ],
+  "survivors": {
+    "intro": "Two complete TSR-2 airframes survive, both in Britain and both restored to good static condition, along with a nose section at Brooklands and several Olympus engines. Neither survivor ever flew: the only aircraft that did, XR219, was destroyed by gunfire at Shoeburyness.",
+    "airframes": [
+      {
+        "serial": "XR220",
+        "location": "RAF Museum Midlands",
+        "place": "Cosford, Shropshire, United Kingdom",
+        "url": "https://www.rafmuseum.org.uk/midlands/",
+        "note": "The second development aircraft, and the most complete TSR-2 in existence. It was being prepared for its first flight when the cancellation was announced on 6 April 1965 and never left the ground.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XR222",
+        "location": "Imperial War Museum Duxford",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "url": "https://www.iwm.org.uk/visits/iwm-duxford",
+        "note": "An incomplete airframe when the programme ended, rescued from the Cranfield Institute of Technology and restored to static display condition.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "Nose section (T5)",
+        "location": "Brooklands Museum",
+        "place": "Weybridge, Surrey, United Kingdom",
+        "note": "The cockpit and nose section, preserved at the Vickers site where much of the forward fuselage was built.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "Olympus 22R engines",
+        "location": "Gatwick Aviation Museum, RAF Museum Midlands, Science Museum Wroughton and others",
+        "place": "Various, United Kingdom",
+        "note": "Several Olympus 320X and 22R engines survive across UK collections, including the first production 22R. Wing sections, ejection seats and canopies are held at Newark Air Museum and the Midland Air Museum.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "None - the type never received an operational designation in civil use",
+    "howToFind": "Not trackable. Only one TSR-2 ever flew, its last flight was on 31 March 1965, and it was subsequently destroyed. The two surviving airframes are static museum exhibits at Cosford and Duxford."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created for a cancelled aircraft - full article, specifications, operators, survivors and programme log written from Wikipedia, the Hansard record of the April 1965 cancellation debate and Thunder & Lightnings' survivor register.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "tsr-2",
+    "tsr2",
+    "tsr.2",
+    "bac tsr-2",
+    "gor.339",
+    "cancelled",
+    "strike reconnaissance",
+    "olympus",
+    "xr219",
+    "xr220",
+    "british aircraft corporation",
+    "vickers",
+    "english electric",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The BAC TSR-2 was a British twin-engine supersonic strike and reconnaissance aircraft, built by the British Aircraft Corporation to replace the English Electric Canberra. It was designed to cross Soviet defences at very low level and high speed to deliver a tactical nuclear weapon, and to do so in any weather using a navigation and attack system far in advance of anything then flying.{{ref:wiki-tsr2}}",
+      "One aircraft flew. XR219 made 24 test flights between 27 September 1964 and 31 March 1965; six days later the programme was cancelled in the Budget speech, and the airframes, jigs and tooling were destroyed. It remains the most argued-over cancellation in British aviation.{{ref:wiki-tsr2}}{{ref:hansard-cancel}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "General Operational Requirement 339, issued in November 1956, asked for a Canberra replacement that could do several difficult things at once: Mach 2 at altitude or Mach 1.2 down low, all-weather nuclear delivery below 1,000 feet, photographic and electronic reconnaissance, a 1,000-nautical-mile radius, and operation from runways no longer than 3,000 feet.{{ref:wiki-tsr2}} It was an unusually demanding specification, and the aircraft that resulted inherited every one of its demands.",
+          "The Ministry then shaped the industry to build it. In September 1957 it announced it would only consider proposals from paired companies, forcing consolidation on a fragmented aircraft industry. Vickers impressed it with a 'total systems' approach while English Electric had the better supersonic design experience, so the Ministry combined them: English Electric's delta wing on a longer Vickers fuselage, built half each and bolted together forward of the wing. The project was approved on 1 January 1959 under the newly formed British Aircraft Corporation.{{ref:wiki-tsr2}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The airframe was built around low-level speed. A small shoulder-mounted delta wing with down-turned tips gave very high wing loading, which is what allows an aircraft to fly fast at low altitude without being thrown about by turbulence - the opposite of the low wing loading a fighter wants. There were no ailerons at all; roll came from moving the two slab tailplanes differentially, and blown flaps across the whole trailing edge provided the short-field performance the requirement demanded. Two Bristol Siddeley Olympus 22R turbojets gave 22,000 lbf dry and 30,610 lbf reheated - the same engine family as the Vulcan's, and the ancestor of Concorde's.{{ref:wiki-tsr2}}",
+          "The avionics were the harder problem and the more advanced achievement. Forward-looking and sideways-looking radar fed an autopilot capable of sustained automatic terrain-following, so the aircraft could fly a low-level attack profile in cloud and at night without the crew flying it manually for hours. Very little else in 1964 could do that, and it is the part of the programme that survived: terrain-following work done for TSR-2 fed directly into the Tornado two decades later.{{ref:wiki-tsr2}} It was also where the money went. The airframe was demanding but conventional engineering; the nav-attack system was being invented, and Healey's complaint that the aircraft \"tried to combine the most advanced state of every art in every field\" describes the avionics more precisely than it describes the aeroplane.{{ref:hansard-cancel}}"
+        ]
+      },
+      {
+        "heading": "Flight Test",
+        "paragraphs": [
+          "Roland Beamont flew XR219 from Boscombe Down on 27 September 1964, with the undercarriage down and limits of 250 knots and 10,000 feet. Early flights were troubled in specific ways: a fuel pump vibrated at the resonant frequency of the human eyeball, which blurred the crew's vision until the engine was throttled back, and undercarriage vibration dogged the programme until extra tie-struts were fitted near the end.{{ref:wiki-tsr2}}",
+          "What the aircraft did demonstrate, it did well. On its fourteenth flight it exceeded Mach 1 on dry thrust alone, without reheat - the only time a TSR-2 ever flew supersonic{{ref:tl-history}} - and it flew sustained low-level runs at 200 feet over the Pennines at Mach 1.12 - precisely the profile it existed for. Beamont judged it easier to handle supersonically than the Canberra was subsonically. Twenty-four flights over six months were not enough to prove the navigation and attack system, most of which was not yet installed, but the pilots were satisfied the airframe would do what was asked of it.{{ref:wiki-tsr2}}"
+        ]
+      },
+      {
+        "heading": "Cancellation",
+        "paragraphs": [
+          "The Cabinet decided on 1 April 1965 and Chancellor James Callaghan announced it in the Budget speech on 6 April. The argument was cost, and the figures Denis Healey set out in the Commons show the trajectory: research and development estimated at under £40 million in 1957 had reached £90 million by October 1960, when production was expected to cost £1.5 million per aircraft; by October 1964 the total programme stood at about £750 million, with each aircraft costing at least £5 million on a 150-aircraft order. Cancellation charges alone were put at £70 million.{{ref:hansard-cancel}}",
+          "The Commons debate also exposed how brutally the per-aircraft figure depended on how many were bought. Christopher Soames put the cost at around £5 million each across a 150-aircraft order, under £5 million over 100, and nearly £10 million each if only 50 were built - so the cheapest way to make TSR-2 look expensive was to buy fewer, and every reduction in the order made the next reduction easier to justify.{{ref:hansard-cancel}} Healey's defence was that the aircraft 'tried to combine the most advanced state of every art in every field' - that it was undone by its own ambition rather than by mismanagement. Critics then and since have pointed at inter-service politics and at the Royal Navy's competing carrier programme, and the designer Sydney Camm's remark that 'TSR-2 simply got the first three right' - meaning the dimensions - has stuck as the sceptics' summary.{{ref:wiki-tsr2}}{{ref:hansard-cancel}}"
+        ]
+      },
+      {
+        "heading": "The Destruction",
+        "paragraphs": [
+          "What followed is why the cancellation is remembered differently from other cancellations. The jigs, tooling and part-built airframes were scrapped at Brooklands within six months, which removed any possibility of restarting production - a deliberate irreversibility. XR219, the only aircraft that had flown, along with XR221 and the partial XR223, were taken to Shoeburyness and used as targets to measure how modern airframes stood up to gunfire and shrapnel.{{ref:wiki-tsr2}}",
+          "Four further completed airframes were sold for scrap. Two aircraft survived by chance rather than intent: XR220, which had been due to fly on the day of the announcement, and XR222, incomplete at the time and later rescued from Cranfield. They are at Cosford and Duxford, with the nose section of another at Brooklands.{{ref:tl-survivors}}"
+        ]
+      },
+      {
+        "heading": "What Replaced It",
+        "paragraphs": [
+          "The replacement plan collapsed in turn. Britain took an option on up to 110 General Dynamics F-111s, formally ordering 50 F-111Ks in 1966 and 1967; costs escalated past TSR-2's own projections, worsened by the devaluation of the pound, and the order was cancelled in January 1968 with nothing delivered. The Anglo-French Variable Geometry aircraft intended as the longer-term answer also collapsed.{{ref:wiki-tsr2}}",
+          "The RAF eventually covered the role with the McDonnell Douglas Phantom and the Blackburn Buccaneer - the aircraft it had rejected in order to get TSR-2 approved in the first place, and which the Buccaneer went on to fly until 1994. The low-level strike requirement was not properly met until the Panavia Tornado arrived in the 1980s, carrying terrain-following technology descended from the work done for TSR-2 twenty years earlier.{{ref:wiki-tsr2}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-tsr2",
+      "name": "BAC TSR-2",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BAC_TSR-2"
+    },
+    {
+      "id": "hansard-cancel",
+      "name": "Aircraft Projects (Cancellation), 13 April 1965",
+      "publisher": "Hansard, House of Commons",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1965/apr/13/aircraft-projects-cancellation"
+    },
+    {
+      "id": "tl-survivors",
+      "name": "BAC TSR2 - Survivors",
+      "publisher": "Thunder & Lightnings",
+      "url": "https://www.thunder-and-lightnings.co.uk/tsr2/survivors.php"
+    },
+    {
+      "id": "tl-history",
+      "name": "BAC TSR2 - History",
+      "publisher": "Thunder & Lightnings",
+      "url": "https://www.thunder-and-lightnings.co.uk/tsr2/history.php"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Individual History: BAC TSR-2 XR220 (RAF Museum)",
+      "url": "https://www.rafmuseum.org.uk/documents/collections/84-A-1171-TSR-2-XR220.pdf"
+    },
+    {
+      "name": "TSR2 debate, House of Commons, 12 April 1965",
+      "url": "https://hansard.parliament.uk/commons/1965-04-12/debates/cf6d44d6-b71e-44eb-903f-2f2c11cb3ab1/Tsr2Project"
+    },
+    {
+      "name": "Thunder & Lightnings - BAC TSR2",
+      "url": "https://www.thunder-and-lightnings.co.uk/tsr2/survivor.php?id=1"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1964-09-27",
+      "title": "First flight of XR219 from Boscombe Down",
+      "tag": "First flight",
+      "summary": "Roland Beamont, with navigator Donald Bowen, made the maiden flight from Boscombe Down with the undercarriage down and the aircraft limited to 250 knots and 10,000 feet. A fuel pump vibrating at the resonant frequency of the human eyeball blurred the crew's vision on the second flight until the engine was throttled back.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/BAC_TSR-2"
+    },
+    {
+      "date": "1965",
+      "title": "First and only supersonic flight",
+      "tag": "Test milestone",
+      "summary": "On its fourteenth flight, a transit to Warton in early 1965, XR219 exceeded Mach 1 without using reheat - the only time a TSR-2 ever went supersonic. Other sorties included sustained low-level runs at 200 feet over the Pennines at Mach 1.12, the attack profile the aircraft had been designed around.",
+      "fatalities": 0,
+      "source": "https://www.thunder-and-lightnings.co.uk/tsr2/history.php"
+    },
+    {
+      "date": "1965-03-31",
+      "title": "Final flight of XR219",
+      "tag": "Last flight",
+      "summary": "The twenty-fourth and last TSR-2 flight. No other aircraft in the programme ever flew; XR220 was being prepared for its first flight at Boscombe Down at the time.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/BAC_TSR-2"
+    },
+    {
+      "date": "1965-04-06",
+      "title": "Programme cancelled in the Budget speech",
+      "tag": "Cancellation",
+      "summary": "The Cabinet decided on 1 April and the cancellation was announced in the Budget on 6 April. Denis Healey told the Commons the total programme had reached about £750 million with each aircraft costing at least £5 million, against a 1960 production estimate of £1.5 million. Cancellation charges were put at £70 million.",
+      "source": "https://api.parliament.uk/historic-hansard/commons/1965/apr/13/aircraft-projects-cancellation"
+    },
+    {
+      "date": "1965-10",
+      "title": "Jigs and tooling scrapped at Brooklands",
+      "tag": "Programme milestone",
+      "summary": "Within six months of the announcement the production jigs, tooling and part-built airframes were destroyed, making any restart of the programme impossible.",
+      "source": "https://en.wikipedia.org/wiki/BAC_TSR-2"
+    },
+    {
+      "date": "1968-01",
+      "title": "F-111K replacement order cancelled",
+      "tag": "Programme milestone",
+      "summary": "The 50 General Dynamics F-111Ks ordered to replace the TSR-2 were themselves cancelled after costs exceeded TSR-2's own projections, worsened by the devaluation of the pound. None were delivered, and the role passed to the Phantom and Buccaneer.",
+      "source": "https://en.wikipedia.org/wiki/BAC_TSR-2"
+    }
+  ]
+}

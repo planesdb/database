@@ -1,0 +1,360 @@
+{
+  "name": "Harrier",
+  "fullName": "Hawker Siddeley Harrier",
+  "manufacturer": "Hawker Siddeley",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "V/STOL Ground-Attack Fighter",
+  "tagline": "The world's first operational vertical take-off 'jump jet'. Built around the Rolls-Royce Pegasus engine and its four rotating exhaust nozzles, it can hover, fly backwards and, in combat, vector its nozzles in forward flight to force a pursuing fighter to overshoot.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "The Harrier began as the private-venture Hawker P.1127, whose first tethered hover in October 1960 owed everything to the Bristol Pegasus vectored-thrust engine concept funded in part by the US. Via the tri-national Kestrel evaluation squadron, it became the Harrier GR1, entering RAF service on 1 April 1969 - the first V/STOL combat jet in the world to reach operational service. A month later a GR1 flown by Sqn Ldr Tom Lecky-Thompson won the Daily Mail Transatlantic Air Race, flying from a coal yard near London's St Pancras station to a Manhattan pier in 6 hours 11 minutes.\n\nThe Falklands War of 1982 made the aircraft legendary: 28 Royal Navy Sea Harriers and 14 RAF GR3s, flying from the carriers Hermes and Invincible in appalling South Atlantic weather, destroyed 20 Argentine aircraft in air-to-air combat without a single air-to-air loss, the Sea Harrier's AIM-9L Sidewinders and the pilots' training proving decisive against faster Mirages and Daggers. Six Harriers were nevertheless lost to ground fire and accidents, and the requisitioned container ship Atlantic Conveyor was sunk carrying the force's spare Chinooks and tents.\n\nSecond-generation Harrier IIs - the RAF GR5/GR7/GR9 and USMC AV-8B - doubled the payload and modernised the cockpit, flying from Kandahar in support of coalition troops in Afghanistan from 2004 to 2009. The 2010 Strategic Defence and Security Review retired the entire British force with brutal speed - the final flypast came that December - and 72 airframes were sold to the US Marine Corps as spares for around £116 million, a deal still argued about in Parliament. The USMC, Spain and Italy flew the AV-8B into the 2020s, with the Marines' last Harrier squadrons converting to the F-35B - the aircraft that inherited the Harrier's mission and much of its engineering DNA.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 731,
+      "text": "635 kn (731 mph / 1,176 km/h)"
+    },
+    "cruiseSpeed": "~550-575 mph (890-925 km/h) high-subsonic cruise",
+    "range": {
+      "miles": 414,
+      "text": "414 mi (666 km, 360 nmi) hi-lo-hi combat radius; up to 2,130 mi (3,428 km, 1,850 nmi) ferry range with external tanks"
+    },
+    "serviceCeiling": {
+      "ft": 51200,
+      "text": "51,200 ft (15,600 m)"
+    },
+    "wingspan": {
+      "ft": 25.42,
+      "text": "25 ft 3 in (7.70 m)"
+    },
+    "length": {
+      "ft": 46.83,
+      "text": "46 ft 10 in (14.27 m)"
+    },
+    "height": {
+      "ft": 11.92,
+      "text": "11 ft 11 in (3.63 m)"
+    },
+    "weight": "empty: 13,535 lb (6,140 kg); MTOW: 25,200 lb (11,430 kg)",
+    "engines": "1 x Rolls-Royce Pegasus 103 vectored-thrust turbofan (21,500 lbf with water injection)",
+    "armament": "2 x 30 mm ADEN cannon pods; up to 5,000 lb of bombs, rockets or AIM-9 Sidewinder missiles across 5 external hardpoints",
+    "crew": "1 (pilot); two-seat T.2/T.4 trainer variants carried 2",
+    "capacity": "N/A - single-seat attack aircraft; 5 external hardpoints for stores",
+    "firstFlight": {
+      "date": "1967-12-28",
+      "year": 1967
+    },
+    "serviceEntryDate": "1969-04-18",
+    "retiredDate": "2006-11-01",
+    "numberBuilt": 278,
+    "unitCost": {
+      "usd": 5500000,
+      "text": "~$5-6M (early-1970s USD, approximate AV-8A procurement cost; RAF GR3 unit cost was roughly £1-2M in period sterling) - roughly $44M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$44M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "GR.1",
+      "desc": "Initial 1969 RAF production version, the world's first operational vertical take-off strike aircraft."
+    },
+    {
+      "code": "GR.3",
+      "desc": "Improved mid-1970s RAF standard with a laser rangefinder nose, radar warning receiver and the uprated Pegasus 103 engine; the mark that fought in the Falklands War."
+    },
+    {
+      "code": "AV-8A / AV-8C",
+      "desc": "US Marine Corps export version bought from 1971 to give amphibious forces organic close air support without a runway."
+    },
+    {
+      "code": "Sea Harrier FRS.1",
+      "desc": "Royal Navy carrier-based fighter/reconnaissance/strike variant with a raised cockpit and Blue Fox radar; the Fleet Air Arm's principal fixed-wing fighter in the 1982 Falklands War."
+    },
+    {
+      "code": "AV-8S Matador",
+      "desc": "Export version supplied to the Spanish Navy from 1976 and later transferred to the Royal Thai Navy, the last operator of any first-generation Harrier."
+    },
+    {
+      "code": "T.2 / T.4 / TAV-8A",
+      "desc": "Two-seat operational conversion trainers for the RAF and USMC."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Primary Operator (GR.1/GR.3)",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "~140 built",
+      "homeBase": "RAF Wittering & RAF Germany (Gütersloh)",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Royal Navy (Fleet Air Arm)",
+      "role": "Operator (Sea Harrier FRS.1)",
+      "status": "Retired",
+      "since": "1980",
+      "fleetSize": "~57",
+      "homeBase": "RNAS Yeovilton / aircraft carriers"
+    },
+    {
+      "name": "United States Marine Corps",
+      "role": "Operator (AV-8A/AV-8C)",
+      "status": "Retired",
+      "since": "1971",
+      "fleetSize": "~110",
+      "homeBase": "MCAS Cherry Point",
+      "logo": "usmc.webp"
+    },
+    {
+      "name": "Spanish Navy",
+      "role": "Operator (AV-8S Matador)",
+      "status": "Retired",
+      "since": "1976",
+      "fleetSize": "13",
+      "homeBase": "Rota Naval Station",
+      "logo": "spanish-air-force-roundel.svg"
+    },
+    {
+      "name": "Royal Thai Navy",
+      "role": "Final Operator (ex-Spanish AV-8S Matador)",
+      "status": "Retired",
+      "since": "1997",
+      "fleetSize": "9",
+      "homeBase": "HTMS Chakri Naruebet",
+      "logo": "royal-thai-air-force.svg"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "HAR1",
+    "howToFind": "Fully retired from military service worldwide since 2006 (and long before that in RAF/USMC front-line use), the original Hawker Siddeley Harrier does not appear in normal operation on Flightradar24; the only 'flying' examples left are museum static-display or occasional hover/taxi demonstrators at airshows."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "Harrier"
+    },
+    {
+      "name": "AeroTime",
+      "url": "https://www.aerotime.aero/feed",
+      "topicTag": "Harrier jump jet"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "US Marine Corps retires its last AV-8B Harriers, ending its runway-independent era",
+      "source": "CNN",
+      "date": "2026-06-04",
+      "category": "Retirement",
+      "url": "https://www.cnn.com/2026/06/04/us/us-marine-corps-harrier-jump-jet-retirement-intl-hnk-ml"
+    },
+    {
+      "title": "US Marine Corps concludes Harrier operations with AV-8B 'sundown'",
+      "source": "FlightGlobal",
+      "date": "2026-06-01",
+      "category": "Retirement",
+      "url": "https://www.flightglobal.com/archive/2026/06/us-marine-corps-concludes-harrier-operations-with-av-8b-sundown/"
+    },
+    {
+      "title": "Development of the Harrier 'jump jet' ends with final flight at China Lake",
+      "source": "Stars and Stripes",
+      "date": "2025-10-06",
+      "category": "Retirement",
+      "url": "https://www.stripes.com/branches/marine_corps/2025-10-06/harrier-jet-china-lake-retired-19340379.html"
+    }
+  ],
+  "tags": [
+    "harrier",
+    "hawker siddeley",
+    "jump jet",
+    "vtol",
+    "v/stol",
+    "sea harrier",
+    "av-8a",
+    "raf",
+    "royal navy",
+    "falklands war",
+    "pegasus engine",
+    "cold war jet"
+  ],
+  "quickFacts": [
+    "The Harrier was the world's first operational vertical take-off combat jet - and for four decades effectively the only successful one.",
+    "In 1969 an RAF Harrier won the Daily Mail Transatlantic Air Race from a coal yard beside London St Pancras station to downtown Manhattan in 6 hours 11 minutes.",
+    "In the Falklands, British Harriers scored 20 air-to-air kills for zero air-to-air losses against faster Argentine jets.",
+    "Harrier pilots could 'VIFF' - vector the engine nozzles mid-dogfight to brake violently and force an attacker to fly past.",
+    "It could hover, fly backwards and bow to a crowd - but hovering burned fuel so fast that pilots measured it in seconds, not minutes.",
+    "The UK's 2010 retirement sold 72 Harriers to the US Marine Corps for spares at roughly £1.6M each - one of the most argued-over defence decisions of its era.",
+    "The F-35B's vertical-landing system is the Harrier concept reborn: several of its designers cut their teeth on Pegasus and the Harrier II."
+  ],
+  "article": {
+    "overview": [
+      "The Harrier is a British single-engine vertical/short take-off and landing (V/STOL) jet fighter developed by Hawker Siddeley, later British Aerospace. A single vectored-thrust turbofan with four swivelling nozzles lets it take off and land vertically or from very short strips.{{ref:wiki-harrier}}",
+      "For nearly six decades it was the only successful VTOL combat aircraft fielded in the West, flying from jungle clearings, small ship decks and roads. The Sea Harrier fought in the 1982 Falklands War, and the US Marine Corps' AV-8B variant remained in service until its retirement in June 2026.{{ref:tw-sunset}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "NATO planners in the 1950s assumed Warsaw Pact strikes would crater every runway in Europe within the war's first hours, grounding conventional air forces intact. That assumption drove the requirement for a fighter that needed no runway at all.{{ref:wiki-harrier}}",
+          "French engineer Michel Wibault's idea of vectoring engine thrust through rotating nozzles found its way to Bristol's Stanley Hooker, who shaped it into the Pegasus engine, and to Hawker's Sydney Camm - designer of the Hurricane - who wrapped the P.1127 airframe around it. The P.1127 hovered in October 1960, tethered and wobbling; the evaluation Kestrel and, from 1966, the production Harrier GR.1 followed.{{ref:wiki-harrier}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The RAF fielded the world's first operational VTOL combat squadron in 1969, and the concept immediately found its second home: ships. The Sea Harrier of 1980 added radar and Sidewinders for the Royal Navy's small carriers, whose ski-jump bows let Harriers launch heavy and land vertically - a template the world's navies still copy.{{ref:wiki-seaharrier}}",
+          "The U.S. Marines, uniquely among American services, bought a foreign fighter almost off the shelf as the AV-8A - then partnered with McDonnell Douglas and British Aerospace to rebuild it as the AV-8B Harrier II of the 1980s: bigger composite wing, double the payload, and the definitive expression of the breed, serving the Marines, Spain and Italy for four decades.{{ref:wiki-av8b}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Pegasus is the whole trick: one engine, four nozzles - two blowing cool fan air forward of the centre of gravity, two blowing hot exhaust behind it - rotating together through 98.5 degrees. Point them back and the Harrier is a jet; point them down and 21,500 pounds of thrust becomes a hovering platform; point them somewhere between and you get short rolling takeoffs with full warloads.{{ref:wiki-harrier}}",
+          "In combat the nozzles yielded VIFF - 'vectoring in forward flight' - letting a Harrier brake and pivot mid-dogfight in ways nothing else could answer. The price was a reputation as the most unforgiving jet in Western service: hovering on four columns of thrust with puffer-jet controls at each extremity demanded helicopter skills at fighter stakes, and the accident rate showed it.{{ref:wiki-av8b}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The Falklands War of 1982 was the Harrier's vindication: the only fixed-wing air cover Britain could bring 8,000 miles south flew from two small carriers, and the Sea Harrier's combination of VIFF agility, AIM-9L missiles and superb pilots swept the sky - 20+ kills, none lost in air combat. RAF GR.3s flew ground attack alongside; a war without runways was won by the jet that didn't need one.{{ref:wiki-seaharrier}}",
+          "Marine AV-8Bs made the concept expeditionary doctrine: Desert Storm from amphibious ships and forward pads, Iraq, Afghanistan (including responding when the Taliban's 2012 Camp Bastion raid destroyed six on the ground - the worst U.S. air-loss day since Vietnam), Libya, and strikes against ISIS and Houthi targets into the 2020s.{{ref:wiki-av8b}}",
+          "The long goodbye ran in stages: the Sea Harrier retired in 2006, Britain's Harrier force fell to austerity in 2010 (its jets sold to the U.S. as spares), Spain and Italy transitioned to F-35Bs - and on 3 June 2026, VMA-223 'Bulldogs' flew the U.S. Marine Corps' final AV-8B sortie at Cherry Point, closing Western VTOL's first chapter 66 years after the P.1127 first wobbled into a hover.{{ref:tw-sunset}}{{ref:av-sunset}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "Every F-35B that lands vertically on a small deck anywhere in the world is executing the Harrier's idea with new technology - its lift fan and swivelling nozzle are direct descendants, and the ski-jump carriers built for Harriers now host their successor. The niche the P.1127 invented turned out to be permanent.{{ref:wiki-harrier}}",
+          "The Harrier became a fixture of airshow displays for manoeuvres no other fixed-wing fighter could replicate, including the mid-air 'bow' and hovering sideways slide.{{ref:wiki-harrier}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-harrier",
+      "name": "Hawker Siddeley Harrier",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawker_Siddeley_Harrier"
+    },
+    {
+      "id": "wiki-seaharrier",
+      "name": "British Aerospace Sea Harrier",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/British_Aerospace_Sea_Harrier"
+    },
+    {
+      "id": "wiki-av8b",
+      "name": "McDonnell Douglas AV-8B Harrier II",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_AV-8B_Harrier_II"
+    },
+    {
+      "id": "tw-sunset",
+      "name": "The USMC's AV-8B Harrier Has Flown Off Into The Sunset",
+      "publisher": "TWZ (The War Zone)",
+      "url": "https://www.twz.com/air/marines-av-8-harrier-jump-jet-takes-its-final-bow"
+    },
+    {
+      "id": "av-sunset",
+      "name": "End of an Era: U.S. Marine Corps Celebrates AV-8B Harrier II Sundown",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/06/03/end-of-an-era-usmc-av-8b-harrier-ii-sundown/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Hawker Siddeley Harrier",
+      "url": "https://en.wikipedia.org/wiki/Hawker_Siddeley_Harrier"
+    },
+    {
+      "name": "Wikipedia - Harrier jump jet (family overview)",
+      "url": "https://en.wikipedia.org/wiki/Harrier_jump_jet"
+    },
+    {
+      "name": "RAF Museum - Hawker Siddeley Harrier GR3",
+      "url": "https://www.rafmuseum.org.uk/research/collections/hawker-siddeley-harrier-gr3/"
+    },
+    {
+      "name": "BAE Systems Heritage - Hawker Siddeley Harrier",
+      "url": "https://www.baesystems.com/en/heritage/hawker-siddeley-harrier"
+    },
+    {
+      "name": "naval-history.net - British Aircraft Losses, Falklands War 1982",
+      "url": "https://www.naval-history.net/F63-Falklands-British_aircraft_lost.htm"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and the June 2026 USMC retirement.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1982-05-04",
+      "title": "Sea Harrier shot down at Goose Green",
+      "summary": "During a bombing raid on Goose Green in the Falklands War, a Sea Harrier was hit by 35mm anti-aircraft fire, lost a wing, caught fire and crashed. The pilot, Lt Nick Taylor, was killed.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://aviation-safety.net/wikibase/77340"
+    },
+    {
+      "date": "1982-05-06",
+      "title": "Two Sea Harriers lost over the South Atlantic",
+      "summary": "Two Sea Harriers launched from HMS Invincible on a combat air patrol in bad weather and never returned; they are presumed to have collided. Both pilots were lost.",
+      "fatalities": 2,
+      "tag": "Combat/weather loss",
+      "source": "https://aviation-safety.net/wikibase/77498"
+    },
+    {
+      "date": "1982-05-25",
+      "title": "Loss of the Atlantic Conveyor",
+      "tag": "Ship loss / materiel",
+      "summary": "An Exocet missile sank the container ship supporting the Falklands Harrier force, destroying six Wessex and three Chinook helicopters and vital stores. The Harriers already flown off to Hermes and Invincible fought on, latterly from a crude forward strip of metal planking at San Carlos.",
+      "fatalities": 12,
+      "source": "https://en.wikipedia.org/wiki/Atlantic_Conveyor"
+    },
+    {
+      "date": "2005-10-14",
+      "title": "Kandahar rocket attack",
+      "tag": "Ground attack",
+      "summary": "A Taliban rocket strike on Kandahar Airfield destroyed one RAF Harrier GR7 and damaged another on the ground - the most serious materiel loss of the RAF's five-year Harrier deployment to Afghanistan.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/British_Aerospace_Harrier_II"
+    },
+    {
+      "date": "2019-05-20",
+      "title": "Training crash near MCAS Cherry Point",
+      "summary": "A U.S. Marine Corps AV-8B Harrier crashed near Havelock, North Carolina, outside MCAS Cherry Point. The pilot ejected safely.",
+      "fatalities": 0,
+      "tag": "Training accident",
+      "source": "https://news.usni.org/2019/05/20/marine-corps-av-8b-harrier-crashes-outside-mcas-cherry-point-pilot-safely-ejected"
+    }
+  ]
+}

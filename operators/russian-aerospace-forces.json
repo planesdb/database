@@ -1,0 +1,22 @@
+{
+  "id": "russian-aerospace-forces",
+  "slug": "russian-aerospace-forces",
+  "name": "Russian Aerospace Forces",
+  "shortName": "VKS",
+  "type": "military",
+  "country": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "founded": "2015-08-01",
+  "foundedDisplay": "1 August 2015",
+  "headquarters": "Moscow, Russia",
+  "logo": "russian-aerospace-forces.svg",
+  "website": null,
+  "tagline": "A single branch holding the air force, air defence and space forces, flying bombers designed under Stalin alongside a fifth-generation fighter.",
+  "bio": [
+    "The Vozdushno-Kosmicheskiye Sily were created on 1 August 2015 by merging the Russian Air Force with the Aerospace Defence Forces, putting combat aviation, ground-based air and missile defence, and military space operations under one command - a structure with no direct equivalent in NATO, where those functions are usually split across services.",
+    "Its Long-Range Aviation arm is the most striking illustration of continuity in the fleet. The Tu-95MS entered service in the 1950s and is expected to fly into the 2040s, contra-rotating turboprops and all, alongside the supersonic Tu-160 and the Tu-22M3. At the other end, the Su-57 first flew in 2010 and has been delivered in small serial batches since 2020, making it the first Russian fighter designed from the outset for reduced radar cross-section."
+  ],
+  "matchPattern": "russian aerospace forces"
+}

@@ -1,0 +1,263 @@
+{
+  "name": "Fokker Dr.I",
+  "fullName": "Fokker Dr.I Dreidecker",
+  "manufacturer": "Fokker-Flugzeugwerke",
+  "originCountry": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "WWI Triplane Fighter",
+  "tagline": "The distinctive triple-winged fighter flown by the Red Baron and his 'Flying Circus'. Manfred von Richthofen - history's top-scoring flying ace with 80 confirmed victories - was flying one when he was killed in April 1918, and its short wingspan gave it an exceptional rate of climb and near-unmatched turning ability.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Inspired by the surprising success of the British Sopwith Triplane over the Western Front in mid-1917, Anthony Fokker's design team, led by engineer Reinhold Platz, rushed the Dreidecker into development, and Richthofen himself flew an early prototype and enthusiastically endorsed it after a mock dogfight. It entered frontline service in August 1917 with Jasta 11, the squadron Richthofen commanded within Jagdgeschwader 1 (nicknamed the 'Flying Circus' for its brightly painted aircraft and mobile basing). Early production was hampered by a string of structural failures in the upper wing, which caused at least two fatal crashes and grounded the type for weeks while Fokker's factory reinforced the wing ribs and improved quality control; the type resumed service in November 1917 with the problem resolved. Its slow top speed compared to contemporaries like the S.E.5a and SPAD XIII limited its usefulness by mid-1918, and production wound down after only around 320 were built, with the type withdrawn from frontline units as newer Fokker D.VII biplanes arrived - but its association with Richthofen, who scored 19 of his 80 victories in a Dr.I before his death on 21 April 1918, cemented it as one of the most famous aircraft shapes in aviation history.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 103,
+      "text": "90 kn (103 mph / 165 km/h)"
+    },
+    "cruiseSpeed": "~90 mph (145 km/h)",
+    "range": {
+      "miles": 186,
+      "text": "186 mi (300 km) / roughly 1.5 hours endurance"
+    },
+    "serviceCeiling": {
+      "ft": 20000,
+      "text": "20,000 ft (6,100 m)"
+    },
+    "wingspan": {
+      "ft": 23.58,
+      "text": "23 ft 7 in (7.19 m)"
+    },
+    "length": {
+      "ft": 18.92,
+      "text": "18 ft 11 in (5.77 m)"
+    },
+    "height": {
+      "ft": 9.67,
+      "text": "9 ft 8 in (2.95 m)"
+    },
+    "weight": "empty: 894 lb (406 kg); loaded: 1,289 lb (585 kg)",
+    "engines": "1 x Oberursel Ur.II 9-cylinder rotary engine, 110 hp (a licensed copy of the French Le Rhône 9J)",
+    "armament": "2 x fixed, forward-firing 7.92 mm LMG 08/15 'Spandau' machine guns synchronized to fire through the propeller arc",
+    "crew": "1 (pilot)",
+    "capacity": "N/A - single-seat fighter, no cargo capacity",
+    "firstFlight": {
+      "date": "1917-07-05",
+      "year": 1917
+    },
+    "serviceEntryDate": "1917-08-21",
+    "retiredDate": "1918-11",
+    "numberBuilt": 320,
+    "unitCost": {
+      "usd": 1000,
+      "text": "~$1,000 wartime unit cost (roughly 15,000 Reichsmarks at contemporary exchange rates) - roughly $26,000 in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$26,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "V.3/V.4 prototypes",
+      "desc": "Early triplane prototypes tested and personally flown by Manfred von Richthofen before production approval."
+    },
+    {
+      "code": "Dr.I (production)",
+      "desc": "Standard production triplane, initially grounded in late 1917 for wing structural reinforcement before resuming service."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Luftstreitkräfte (Imperial German Air Service)",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1917",
+      "fleetSize": "~320 built",
+      "homeBase": "Jagdgeschwader 1 and other Jasta units, Western Front"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No original Dr.I survives; a number of accurate flying reproductions (including several built by The Vintage Aviator and private warbird builders) appear at WWI heritage airshows, particularly in Germany, the UK, New Zealand and the US."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "Fokker Dr.I"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Old Rhinebeck Aerodrome's Fokker Dr.I replica returns to flight after wing rebuild",
+      "source": "Vintage Aviation News",
+      "date": "2025-10-22",
+      "category": "Restoration",
+      "url": "https://vintageaviationnews.com/vintage-aviation/fokker-dr-i-triplane-takes-flight-again-at-old-rhinebeck-aerodrome-after-restoration.html"
+    }
+  ],
+  "tags": [
+    "fokker dr.i",
+    "dreidecker",
+    "triplane",
+    "red baron",
+    "manfred von richthofen",
+    "wwi fighter",
+    "world war 1",
+    "german air service",
+    "jasta 11",
+    "flying circus"
+  ],
+  "quickFacts": [
+    "The Red Baron scored his final 19 victories - and died - in the Dr.I, and his all-red triplane made it the most recognisable aircraft of the war.",
+    "Only around 320 were built, and not a single original survives - every Dr.I flying today is a reproduction.",
+    "Its three wings gave phenomenal climb and turn rates but capped its speed - experienced pilots loved it; average ones found it vicious.",
+    "Early wing structural failures killed two aces in October 1917 and grounded the fleet for reinforcement.",
+    "Werner Voss fought eight British aces single-handed in a Dr.I for ten minutes in September 1917 - putting bullets through every one of their aircraft before falling."
+  ],
+  "article": {
+    "overview": [
+      "The Fokker Dr.I is a German single-seat triplane fighter built by Fokker-Flugzeugwerke during the First World War. Only 320 were built, and its front-line service lasted barely a year.{{ref:wiki-dr1}}",
+      "It is best known as the aircraft flown by Manfred von Richthofen, the war's highest-scoring ace, who scored his final victories in a Dr.I and was killed while flying one on 21 April 1918.{{ref:wiki-dr1}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Dr.I was Germany's answer to a British shock: the Sopwith Triplane, whose three narrow wings gave climb and turn that embarrassed the Albatros fighters of early 1917. German industry was ordered to respond in kind, and a dozen firms hurried triplane prototypes to trial.{{ref:wiki-dr1}}",
+          "Anthony Fokker's entry - shaped by designer Reinhold Platz around cantilever wings needing almost no drag-producing rigging wire - won the fly-off with front-line pilots' enthusiasm behind it. Werner Voss took a prototype to the Front in September 1917 and made it instantly mythical: in three weeks he scored ten victories, the last in a lone dogfight against seven of Britain's finest that remains the most admired single-handed fight of the war.{{ref:wiki-voss}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The triplane layout traded speed for everything else: three short wings stacked lift into a tiny span, making the Dr.I absurdly agile and quick-climbing but slow - slower than most opponents, an interceptor of position rather than pursuit. Its rotary engine's torque, as with the Camel, made right-hand manoeuvres startling.{{ref:wiki-dr1}}",
+          "Platz's thick cantilever wings were structurally advanced - and fatally let down by wartime workmanship. A series of wing failures killed pilots in late 1917, grounding the type while construction and moisture-sealing were fixed; confidence never fully returned, and the episode capped the Dr.I's production at 320 while the war demanded thousands.{{ref:wiki-dr1}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "In expert hands the Dr.I was a knife-fight champion: Voss's rampage, Richthofen's final 19 victories, and the crack pilots of Jagdgeschwader 1 - the 'Flying Circus' - using its climb and turn to dictate engagements through the war's last spring. The Baron called it 'manoeuvrable as the devil'.{{ref:wiki-mvr}}",
+          "It is forever fixed at one moment: 21 April 1918, Richthofen low over the Somme in Dr.I 425/17, pursuing a Camel against his own rules, killed by a single bullet - probably from Australian gunners on the ground - and brought down intact in Allied lines. The most famous pilot of the war died in its most famous aircraft, and souvenir hunters stripped the red triplane to fragments within hours.{{ref:wiki-death}}",
+          "By summer 1918 the Dr.I was outclassed and withdrawn in favour of Fokker's D.VII - the war's best all-round fighter, but never its most famous.{{ref:wiki-dr1}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The Dr.I's production life was brutally short: trials in mid-1917, the grounding that autumn, peak service strength (around 170 at the Front) in spring 1918, withdrawal by summer. Its rotary engine was itself a dead-end - many were copies of a captured French design, and Germany's rotary supply never matched its needs.{{ref:wiki-dr1}}",
+          "Not one genuine Dr.I survives: the last original was destroyed in a Berlin museum by Allied bombing in 1944. Every triplane flying or displayed today - and there are dozens, so magnetic is the type - is a reproduction, most wearing a red that only one of the 320 originals ever wore.{{ref:wiki-dr1}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Dr.I is the aircraft popular culture reaches for whenever it means 'WWI': the Red Baron's mount in every film, cartoon and pizza logo, Snoopy's eternal adversary. The Dr.I's outsized fame relative to its modest production run and short service life owes largely to its association with Richthofen.{{ref:wiki-mvr}}",
+          "Its serious legacy is Platz's cantilever wing, which - workmanship scandal notwithstanding - pointed straight at the future: the Fokker D.VII refined it, and the strut-free monoplanes of the following decades descended from it. No later fighter used the triplane configuration, but Platz's cantilever-wing construction became a standard aviation technique.{{ref:wiki-dr1}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-dr1",
+      "name": "Fokker Dr.I",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fokker_Dr.I"
+    },
+    {
+      "id": "wiki-mvr",
+      "name": "Manfred von Richthofen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen"
+    },
+    {
+      "id": "wiki-voss",
+      "name": "Werner Voss",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Werner_Voss"
+    },
+    {
+      "id": "wiki-death",
+      "name": "Death of Manfred von Richthofen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Manfred_von_Richthofen"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Fokker Dr.I",
+      "url": "https://en.wikipedia.org/wiki/Fokker_Dr.I"
+    },
+    {
+      "name": "Deutsches Museum - Fokker Dr.I collection notes",
+      "url": "https://www.deutsches-museum.de/en/"
+    },
+    {
+      "name": "Imperial War Museums - Manfred von Richthofen and the Fokker Dr.I",
+      "url": "https://www.iwm.org.uk/history/who-was-the-red-baron"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1917-09-15",
+      "title": "Death of ace Kurt Wolff",
+      "summary": "Flying one of Richthofen's prototype triplanes near Wervik, Belgium, Wolff was attacked from behind during a dogfight with three Sopwith Camels and shot down; his aircraft crashed and burned.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Wolff_(aviator)"
+    },
+    {
+      "date": "1917-09-23",
+      "title": "Death of ace Werner Voss",
+      "summary": "Flying a Fokker Dr.I prototype near Poelcappelle, Belgium, Voss single-handedly engaged multiple British aces for roughly eight minutes before being fatally hit; his triplane crashed near Frezenberg.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/Werner_Voss"
+    },
+    {
+      "date": "1917-10-30",
+      "title": "Wing failures ground the Dr.I fleet",
+      "tag": "Structural failure",
+      "summary": "Ace Heinrich Gontermann was killed when the top wing of his Dr.I broke up in flight, days after another fatal failure. The triplane was grounded while wing construction and quality control were investigated - a scandal that dogged Fokker and kept the type out of service for weeks.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Fokker_Dr.I"
+    },
+    {
+      "date": "1918-04-21",
+      "title": "Death of Manfred von Richthofen (\"the Red Baron\")",
+      "summary": "While chasing a novice Canadian pilot's Sopwith Camel at very low altitude near the Somme, Richthofen's Fokker Dr.I was hit by a single bullet through the chest; he crash-landed and died within minutes. The RAF credited a pursuing Camel pilot, though modern analysis suggests Australian ground machine-gun fire was the more likely cause.",
+      "fatalities": 1,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen"
+    }
+  ]
+}

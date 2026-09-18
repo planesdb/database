@@ -1,0 +1,518 @@
+{
+  "name": "Spitfire",
+  "fullName": "Supermarine Spitfire",
+  "manufacturer": "Supermarine (Vickers-Armstrong)",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "WWII Fighter Interceptor",
+  "tagline": "Britain's elliptical-winged icon that helped win the Battle of Britain. Built around the Rolls-Royce Merlin and later Griffon engines, it was continuously redeveloped from 1938 through 1948, and roughly 50-70 original Spitfires remain airworthy today on the warbird and airshow circuit.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Designed by R.J. Mitchell at Supermarine and first flown as prototype K5054 on 5 March 1936, the Spitfire entered RAF service with No. 19 Squadron on 4 August 1938. Its elliptical wing, refined with aerodynamicist Beverley Shenstone, was chosen because it gave the thinnest possible wing cross-section while leaving room for retractable undercarriage and eight machine guns. Alongside the Hawker Hurricane, the Spitfire became the fighter of the Battle of Britain in the summer of 1940, and unlike almost every other Allied type it stayed in continuous front-line development throughout the war - progressing from the 1,030 hp Merlin II of the Mk I, through the definitive Merlin 61-powered Mk IX rushed into service in 1942 to counter the Focke-Wulf Fw 190, to the 2,000+ hp Griffon-engined Mk XIV and final Mk 24. More than 20,300 Spitfires (plus over 2,500 Seafire naval variants) were built between 1938 and 1948, making it the most-produced British combat aircraft of the war. It served with the RAF, Royal Navy Fleet Air Arm, and dozens of other air forces (including postwar Israel, which flew ex-Czechoslovak Spitfires in the 1948 Arab-Israeli War), and its last RAF frontline sortie came on 1 April 1954 with a photo-reconnaissance PR.19 over Malaya. Chief designer Joe Smith took over the program after Mitchell's death in 1937 and oversaw its wartime evolution. Today the RAF's own Battle of Britain Memorial Flight keeps several Spitfires flying for ceremonial and airshow duties alongside a wider community of privately owned warbirds.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 404,
+      "text": "351 kn (404 mph / 650 km/h)"
+    },
+    "cruiseSpeed": "~270 mph (435 km/h) economical cruise",
+    "range": {
+      "miles": 434,
+      "text": "434 mi (700 km) on internal fuel (Mk IX); up to 980 mi (1,577 km) with drop tanks"
+    },
+    "serviceCeiling": {
+      "ft": 43000,
+      "text": "43,000 ft (13,100 m) (Mk IX); high-altitude PR variants flew even higher"
+    },
+    "wingspan": {
+      "ft": 36.83,
+      "text": "36 ft 10 in (11.23 m); clipped-wing variants 32 ft 2 in (9.8 m)"
+    },
+    "length": {
+      "ft": 29.92,
+      "text": "29 ft 11 in (9.12 m)"
+    },
+    "height": {
+      "ft": 11.42,
+      "text": "11 ft 5 in (3.48 m)"
+    },
+    "weight": "empty: 5,610 lb (2,545 kg); loaded: 7,500 lb (3,400 kg) [Mk IX]",
+    "engines": "1 x Rolls-Royce Merlin 61 liquid-cooled V-12 (1,565 hp) [Mk IX]; later marks used Rolls-Royce Griffon engines producing up to 2,340 hp",
+    "armament": "2 x 20 mm Hispano cannon + 4 x .303 in Browning machine guns (Mk IX 'C' wing); early marks carried 8 x .303 in Brownings; fighter-bomber marks could carry up to 1,000 lb of bombs or unguided rockets",
+    "crew": "1 (pilot); rare two-seat trainer conversions carried 2",
+    "capacity": "N/A - single-seat fighter, no cargo or passenger capacity",
+    "firstFlight": {
+      "date": "1936-03-05",
+      "year": 1936
+    },
+    "serviceEntryDate": "1938-08-04",
+    "retiredDate": "1954-04-01",
+    "numberBuilt": 20351,
+    "unitCost": {
+      "usd": 12000,
+      "text": "~$12,000 wartime unit cost (roughly £9,500 at contemporary exchange rates) - roughly $287,000 in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$287,000 in 2026 dollars"
+    },
+    "combatLosses": "In the Battle of Britain (Jul-Oct 1940) alone, Spitfires claimed 529 enemy aircraft destroyed for 230 combat losses, plus a further 42 lost to flying accidents; comprehensive total losses across the type's entire wartime service on every front are not centrally tabulated."
+  },
+  "variants": [
+    {
+      "code": "Mk I",
+      "desc": "Original 1938 production version with the Merlin II/III engine and eight .303 in machine guns; the mark that fought the early Battle of Britain."
+    },
+    {
+      "code": "Mk V",
+      "desc": "Most numerous early mark (over 6,000 built), often fitted with the 'C' wing able to carry two 20 mm cannon plus machine guns."
+    },
+    {
+      "code": "Mk IX",
+      "desc": "Rushed 1942 upgrade mating the Mk V airframe to the two-stage supercharged Merlin 61, restoring performance parity with the Fw 190; the most numerous high-performance mark."
+    },
+    {
+      "code": "Mk XIV",
+      "desc": "Griffon-engined mark with a five-blade propeller and cut-down rear fuselage with bubble canopy, among the fastest and highest-climbing wartime Spitfires."
+    },
+    {
+      "code": "Seafire",
+      "desc": "Carrier-capable naval variant with folding wings, an arrester hook and strengthened undercarriage for Royal Navy Fleet Air Arm service."
+    },
+    {
+      "code": "PR variants",
+      "desc": "Unarmed, camera-equipped photo-reconnaissance versions stripped of guns and armour for extra fuel and altitude."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1938",
+      "fleetSize": "The overwhelming majority of the 20,351 Spitfires built; last operational sortie flown in 1954",
+      "homeBase": "Stations across the UK and overseas theatres",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Royal Navy (Fleet Air Arm)",
+      "role": "Carrier Operator (Seafire)",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "2,556 Seafires - the navalised Spitfire, with folding wings and an arrestor hook",
+      "homeBase": "Aircraft carriers and shore stations"
+    },
+    {
+      "name": "Soviet Air Forces",
+      "role": "Lend-Lease Operator",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "~1,340 - 143 second-hand Mk Vbs followed by around 1,200 Mk IXs; the largest foreign fleet",
+      "homeBase": "Soviet front-line airfields"
+    },
+    {
+      "name": "United States Army Air Forces",
+      "role": "Wartime Operator",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "~600 across US Army Air Force and Navy units, mainly in North Africa and the Mediterranean",
+      "homeBase": "North African and Mediterranean airfields"
+    },
+    {
+      "name": "Free French Air Force",
+      "role": "Allied Operator",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "300+, largely transferred from RAF stocks and flown on into the postwar years",
+      "homeBase": "RAF and French airfields",
+      "logo": "french-air-force.webp"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Commonwealth Operator",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "~250, flown in the defence of Darwin and across the South West Pacific",
+      "homeBase": "Pacific and home-defence stations",
+      "logo": "raaf.webp"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Co-Belligerent & Postwar Operator",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "53 with the Co-Belligerent Air Force from 1943, plus 137 more between 1946 and 1952",
+      "homeBase": "Italian airbases",
+      "logo": "italian-air-force.webp"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Postwar Combat Operator",
+      "status": "Retired",
+      "since": "1948",
+      "fleetSize": "94 - 59 LF IXCs from Czechoslovakia in 1948 and 35 more from Italy in 1952",
+      "homeBase": "Ramat David / Hatzor",
+      "logo": "israeli-air-force.webp"
+    },
+    {
+      "name": "Royal Egyptian Air Force",
+      "role": "Postwar Operator",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "26 Mk Vs from 1943 and 38 Mk IXs between 1946 and 1955",
+      "homeBase": "Egyptian airbases"
+    },
+    {
+      "name": "~25 other air forces worldwide",
+      "role": "Allied & Postwar Export Operators",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "20,351 built in all; postwar fleets in Sweden (50), Czechoslovakia (41), Burma (30), Syria (20) and ~20 more air forces",
+      "homeBase": "Worldwide"
+    },
+    {
+      "name": "RAF Battle of Britain Memorial Flight / civilian warbird operators",
+      "role": "Heritage & airshow operator",
+      "status": "In Service",
+      "since": "1957",
+      "fleetSize": "~50-70 airworthy worldwide",
+      "homeBase": "RAF Coningsby and private warbird collections",
+      "logo": "raf.png"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "SPIT",
+    "howToFind": "As a retired WWII fighter, the only Spitfires flying today are civilian-registered warbirds and the RAF's Battle of Britain Memorial Flight; they show up on Flightradar24 with civil registrations during airshow-season display flights and transits, mostly over the UK and continental Europe in the summer months."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "Spitfire"
+    },
+    {
+      "name": "AeroTime",
+      "url": "https://www.aerotime.aero/feed",
+      "topicTag": "Spitfire warbird"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Spitfire Mk.I P9372 flies again for the first time in 85 years",
+      "source": "Vintage Aviation News",
+      "date": "2025-04-23",
+      "category": "Restoration",
+      "url": "https://vintageaviationnews.com/restorations/spitfire-mk-i-p9372-flies-again-for-the-first-time-in-85-years.html"
+    },
+    {
+      "title": "BBMF's Spitfire AB910 returns to flight after major restoration; Lancaster remains mid-overhaul",
+      "source": "Aerospace Global News",
+      "date": "2026-02-24",
+      "category": "Heritage",
+      "url": "https://aerospaceglobalnews.com/news/bbmf-raf-spitfire-lancaster-restoration/"
+    },
+    {
+      "title": "Spitfire passenger flights to launch from the Isle of Man in June 2026",
+      "source": "Vintage Aviation News",
+      "date": "2025-11-16",
+      "category": "Feature",
+      "url": "https://vintageaviationnews.com/warbirds-news/spitfire-passenger-flights-to-take-off-from-isle-of-man-in-june-2026.html"
+    }
+  ],
+  "tags": [
+    "spitfire",
+    "supermarine",
+    "wwii",
+    "world war 2",
+    "battle of britain",
+    "raf",
+    "warbird",
+    "piston fighter",
+    "merlin engine",
+    "griffon engine",
+    "elliptical wing",
+    "seafire"
+  ],
+  "quickFacts": [
+    "The Spitfire's whole shape exists because of a single design compromise: the wing had to be thin for speed but thick enough for guns, retractable gear and ammunition - the elliptical planform solved both at once.",
+    "The public paid for thousands of Spitfires directly: Lord Beaverbrook's 1940 'Spitfire Fund' let towns, factories and schoolchildren sponsor a fighter for a notional £5,000, eventually raising over £13 million.",
+    "R.J. Mitchell never saw a production Spitfire fly - he died of cancer in June 1937, a year after the prototype's maiden flight, and his chief draughtsman Joe Smith carried the design through the rest of the war.",
+    "The prototype, K5054, didn't survive to be preserved - it crashed fatally at Farnborough on 4 September 1939, the day after Britain declared war on Germany.",
+    "In 1948, ex-Czechoslovak Spitfires flying for the new Israeli Air Force fought former-RAF Spitfires flown by Egypt - the only time in history the type fought against itself.",
+    "One IWM-owned Spitfire, N3200, was shot down over a Dunkirk beach in 1940, buried in sand for 46 years, then dug up, rebuilt, and is flying again today.",
+    "More Spitfires were built (20,351) than any other British combat aircraft in history, in continuous production for a decade across dozens of variants."
+  ],
+  "article": {
+    "overview": [
+      "The Supermarine Spitfire is a British single-engine fighter designed by R.J. Mitchell, built around a thin, distinctively elliptical wing. It combined speed, agility and heavy armament beyond any other RAF fighter of 1940, though the Hawker Hurricane shot down more enemy aircraft during the Battle of Britain.{{ref:wiki-spitfire}}",
+      "More than 20,300 were built - partly funded by a public crowdfunding campaign - and the design evolved for eighteen years, through a doubling of engine power, before retiring from front-line service in 1954. About 240 airframes survive today, roughly 60 of them airworthy.{{ref:list-survivors}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Spitfire began as a failure. R.J. Mitchell's Supermarine Type 224, built to a 1931 Air Ministry specification, flew in February 1934 and lost out to the Gloster Gladiator biplane - disappointed, Mitchell and his team started over with a cleaner, retractable-undercarriage design that became the Type 300.{{ref:wiki-spitfire}} On 1 December 1934 the Air Ministry issued a £10,000 contract for a prototype of the refined design, backed by Vickers-Armstrong.{{ref:mitchell-tribute}}",
+          "The wing that gave the aircraft its silhouette was the work of Canadian aerodynamicist Beverley Shenstone, who joined Mitchell's team in 1932. The design needed a wing thin enough to minimise drag but thick enough to house retractable gear, eight machine guns and their ammunition - a semi-elliptical planform, distorted with the tip pushed slightly forward for extra lift, solved both problems simultaneously while also minimising induced drag.{{ref:shenstone-wiki}} Shenstone always denied the shape was copied from the Heinkel He 70, noting the Spitfire's wing was thinner and had an entirely different section.{{ref:shenstone-wiki}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Prototype K5054 first flew from Eastleigh Aerodrome on 5 March 1936, piloted by Supermarine's chief test pilot Joseph \"Mutt\" Summers.{{ref:k5054-wiki}} An order for 310 production aircraft followed on 3 June 1936, but Mitchell did not live to see it fulfilled - he died of cancer on 11 June 1937, aged 42, and his chief draughtsman Joe Smith took over as chief designer, steering the aircraft's development for the rest of its production life.{{ref:nasm-spitfire}}",
+          "The first production Spitfire entered RAF service with No. 19 Squadron on 4 August 1938. Fewer than 400 had reached the RAF by the outbreak of war in September 1939, but the type continued to improve rapidly: metal constant-speed propellers, 100-octane fuel, and armour and bulletproof windscreens were all fitted in the run-up to and during the Battle of Britain.{{ref:rafmuseum-spitfire1}} The prototype K5054 itself never survived to see any of this: it crashed fatally at Farnborough on 4 September 1939, when an awkward landing flipped it onto its back and fatally injured test pilot Flt Lt Gilbert \"Spinner\" White.{{ref:k5054-wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Beyond the wing, the Spitfire was a conventional all-metal, stressed-skin monoplane built around a supercharged Rolls-Royce Merlin V-12 - later marks moved to the larger, more powerful Griffon as the design's performance ceiling rose from around 1,000 hp to over 2,000 hp across its production life.{{ref:wiki-spitfire}} Its handling was famously docile and forgiving for a high-performance fighter: it became airborne quickly and, once in the air, out-manoeuvred almost anything the Luftwaffe could put up against it, with combat often decided more by pilot skill than any technical edge.{{ref:nasm-spitfire}}",
+          "Because it was conceived purely as a short-range home-defence interceptor, early Spitfires had limited range - a shortcoming addressed from 1943 with jettisonable external fuel tanks that finally let the type escort bombers over occupied Europe.{{ref:nasm-spitfire}} As the war progressed the airframe branched into a family of specialists: photo-reconnaissance variants stripped of guns and armour for altitude and fuel, high-altitude interceptors to counter high-flying German raiders, low-altitude 'clipped wing' variants to catch the Focke-Wulf Fw 190, and the carrier-capable, folding-wing Seafire for the Fleet Air Arm.{{ref:wiki-spitfire}}"
+        ]
+      },
+      {
+        "heading": "The Battle of Britain",
+        "paragraphs": [
+          "By July 1940, RAF Fighter Command had nineteen Spitfire squadrons available, and the Air Officer Commanding refused French pleas to send any to France during the 1940 Blitzkrieg - a decision that preserved the force that would fight the Battle of Britain that summer.{{ref:rafmuseum-spitfire1}} Doctrine assigned Spitfires to engage the escorting Messerschmitt Bf 109s while the slower Hurricane took on the bomber formations, and it shows in the numbers: Hurricanes actually claimed the majority of bomber kills, while Spitfires claimed 529 aircraft destroyed against 230 combat losses over the course of the battle.{{ref:aircraftbob-losses}}",
+          "The decisive day came on 15 September 1940, still marked annually as Battle of Britain Day, when RAF Fighter Command decisively repelled the Luftwaffe's largest daylight raids of the campaign - after which Germany abandoned its plans for a daylight invasion of Britain.{{ref:history-bob}} One aircraft from this period, Mk Ia N3200, flew its only wartime sortie on 26 May 1940 over the Dunkirk evacuation, downing a Junkers Ju 87 Stuka before being shot down itself and crash-landing on a beach near Calais - buried in sand for 46 years until its rediscovery in 1986.{{ref:iwm-n3200}}"
+        ]
+      },
+      {
+        "heading": "Malta, D-Day and the Wider War",
+        "paragraphs": [
+          "The Spitfire's next great test was the defence of Malta. Early Hurricane-equipped defenders struggled against the island's besiegers until Spitfires began arriving by aircraft carrier from March 1942 - sixteen flew in from HMS Eagle under Operation Spotter, with further waves from HMS Eagle and HMS Furious building the island's fighter strength to over 160 aircraft by August 1942.{{ref:malta-siege-wiki}} The August 1942 Operation Pedestal convoy, though badly mauled, proved Axis efforts to starve the island into surrender had failed, and by November 1942 the siege was effectively over.{{ref:malta-siege-wiki}}",
+          "A captured Focke-Wulf Fw 190 in 1942 exposed how far the standard Spitfire V had fallen behind, prompting a rushed marriage of the existing airframe to the two-stage supercharged Merlin 61 - the resulting Mk IX restored performance parity within months and went on to become the most numerous high-performance wartime mark.{{ref:aviationgeek-mkix}} On 6 June 1944, Spitfires flew top-cover and ground-attack sorties over the Normandy beaches, freshly painted with black-and-white invasion stripes so Allied gunners could tell friend from foe amid the huge concentration of aircraft overhead.{{ref:keyaero-dday}}",
+          "The type's strangest chapter came in 1948, when ex-Czechoslovak Spitfires flying for the newly formed Israeli Air Force fought former-RAF Spitfires flown by Egypt during the Arab-Israeli War - the only recorded instance of the Spitfire fighting itself.{{ref:historynet-israel}} The RAF's own last operational Spitfire sortie, a photo-reconnaissance flight over Malaya, came on 1 April 1954 - almost sixteen years after the type entered service.{{ref:vintageaviation-lastsortie}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The RAF stood up the Battle of Britain Memorial Flight in 1957 specifically to keep Spitfires and Hurricanes airworthy for ceremonial duties, and it has flown continuously ever since - nearly seventy years on.{{ref:bbmf-raf}} Alongside it, a wider community of private warbird owners keeps roughly 50-70 original Spitfires flying today, including the 'Silver Spitfire', a bare-polished-metal Mk IX that completed the type's first-ever circumnavigation of the globe in 2019, an unpressurised four-month, 30,000-mile journey across more than 20 countries.{{ref:silver-spitfire}}",
+          "That legacy has not been without cost even in peacetime. On 25 May 2024, a Memorial Flight Spitfire Mk IX crashed near RAF Coningsby, killing pilot Squadron Leader Mark Long and prompting the RAF to ground its entire Spitfire and Hurricane fleet pending investigation; the aircraft were cleared to resume display flying for the 2025 season.{{ref:wapo-2024crash}} Nearly a century after Mitchell's first sketches, the Spitfire remains one of the most recognisable aircraft shapes in British aviation history, and a small number of original examples continue to fly on the display circuit."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-spitfire",
+      "name": "Supermarine Spitfire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Supermarine_Spitfire"
+    },
+    {
+      "id": "mitchell-tribute",
+      "name": "The Mitchell & Royce Tribute Spitfire",
+      "publisher": "Spitfire Club",
+      "url": "https://www.spitfireclub.co.uk/mitchell---royce"
+    },
+    {
+      "id": "shenstone-wiki",
+      "name": "Beverley Shenstone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beverley_Shenstone"
+    },
+    {
+      "id": "k5054-wiki",
+      "name": "Supermarine Spitfire prototype K5054",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Supermarine_Spitfire_prototype_K5054"
+    },
+    {
+      "id": "nasm-spitfire",
+      "name": "Supermarine Spitfire HF. Mk. VIIc",
+      "publisher": "National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/supermarine-spitfire-hf-mk-viic/nasm_A19600331000"
+    },
+    {
+      "id": "rafmuseum-spitfire1",
+      "name": "Supermarine Spitfire I",
+      "publisher": "RAF Museum",
+      "url": "https://www.rafmuseum.org.uk/research/collections/supermarine-spitfire-i/"
+    },
+    {
+      "id": "aircraftbob-losses",
+      "name": "Aircraft of the Battle of Britain",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aircraft_of_the_Battle_of_Britain"
+    },
+    {
+      "id": "history-bob",
+      "name": "Tide Turns in the Battle of Britain",
+      "publisher": "History.com",
+      "url": "https://www.history.com/this-day-in-history/september-15/tide-turns-in-the-battle-of-britain"
+    },
+    {
+      "id": "iwm-n3200",
+      "name": "The Spitfire Lost For Almost 50 Years",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/history/second-world-war/dunkirk/the-spitfire-lost-for-almost-50-years"
+    },
+    {
+      "id": "malta-siege-wiki",
+      "name": "Siege of Malta (World War II)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Malta_(World_War_II)"
+    },
+    {
+      "id": "aviationgeek-mkix",
+      "name": "How a Captured Focke-Wulf Fw 190A Led to the Development of the Spitfire Mk IX",
+      "publisher": "The Aviation Geek Club",
+      "url": "https://theaviationgeekclub.com/how-a-captured-focke-wulf-fw-190a-led-to-the-development-of-the-spitfire-mk-ix-the-best-close-in-fighter-of-wwii/"
+    },
+    {
+      "id": "keyaero-dday",
+      "name": "D-Day Spitfire Operations",
+      "publisher": "Key.Aero",
+      "url": "https://www.key.aero/article/d-day-spitfire-operations"
+    },
+    {
+      "id": "historynet-israel",
+      "name": "Spitfire vs. Spitfire: Aerial Combat in Israel's War of Independence",
+      "publisher": "HistoryNet",
+      "url": "https://www.historynet.com/spitfire-vs-spitfire-aerial-combat-israels-war-independence.htm"
+    },
+    {
+      "id": "vintageaviation-lastsortie",
+      "name": "Today in Aviation History: Last Operational Flight by an RAF Supermarine Spitfire",
+      "publisher": "Vintage Aviation News",
+      "url": "https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-last-operational-flight-by-an-raf-supermarine-spitfire.html"
+    },
+    {
+      "id": "bbmf-raf",
+      "name": "Battle of Britain Memorial Flight",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/"
+    },
+    {
+      "id": "silver-spitfire",
+      "name": "Silver Spitfire - The Longest Flight",
+      "publisher": "Silver Spitfire",
+      "url": "https://www.silverspitfire.com/"
+    },
+    {
+      "id": "wapo-2024crash",
+      "name": "British Air Force Grounds Spitfires After RAF Pilot Dies in Crash",
+      "publisher": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2024/05/28/spitfire-crash-raf-pilot-dies/"
+    },
+    {
+      "id": "list-survivors",
+      "name": "List of surviving Supermarine Spitfires",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Supermarine_Spitfires"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Supermarine Spitfire",
+      "url": "https://en.wikipedia.org/wiki/Supermarine_Spitfire"
+    },
+    {
+      "name": "Royal Air Force - Spitfire aircraft page",
+      "url": "https://www.raf.mod.uk/aircraft/spitfire/"
+    },
+    {
+      "name": "Imperial War Museums - The Evolution of the Supermarine Spitfire",
+      "url": "https://www.iwm.org.uk/history/the-evolution-of-the-supermarine-spitfire"
+    },
+    {
+      "name": "flugzeuginfo.net - Supermarine Spitfire specifications",
+      "url": "https://www.flugzeuginfo.net/acdata_php/acdata_spitfire_en.php"
+    }
+  ],
+  "survivors": {
+    "intro": "Around 240 original Spitfires are known to survive worldwide, roughly 60 of them airworthy - far more than any other WWII fighter. These are a representative few with well-documented histories, from museum static displays to a genuine combat veteran flying again today.",
+    "airframes": [
+      {
+        "serial": "X4590",
+        "name": null,
+        "location": "RAF Museum London",
+        "place": "Hendon, London, UK",
+        "url": "https://www.rafmuseum.org.uk/research/collections/supermarine-spitfire-i/",
+        "note": "An original Mk I on static display, from the mark that fought the early Battle of Britain.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "N3200",
+        "name": null,
+        "location": "Imperial War Museum Duxford",
+        "place": "Cambridgeshire, UK",
+        "url": "https://www.iwm.org.uk/history/second-world-war/dunkirk/the-spitfire-lost-for-almost-50-years",
+        "note": "Shot down a Ju 87 Stuka over Dunkirk on 26 May 1940 before crash-landing on a French beach, where it lay buried in sand until 1986; restored to flying condition in 2014 and donated to IWM in 2015 - the museum's only airworthy aircraft.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "EN474",
+        "name": null,
+        "location": "National Air and Space Museum (collection)",
+        "place": "Washington, D.C., United States",
+        "url": "https://airandspace.si.edu/collection-objects/supermarine-spitfire-hf-mk-viic/nasm_A19600331000",
+        "note": "A high-altitude HF Mk VIIc, one of only 140 built; shipped to the US for evaluation in 1943 and transferred to the Smithsonian in 1949. Currently held in the museum's collection rather than on physical display.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster from the full operators list - added the Soviet, USAAF, Free French, Italian and Egyptian fleets with real delivered figures, corrected the RAF and Israeli rows, and folded the remaining ~25 air forces into a combined row.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1941-08-03",
+      "title": "Ace Eric Lock lost on a low-level sortie",
+      "summary": "One of the highest-scoring Battle of Britain aces went missing while strafing German troops near Calais in his Spitfire on a low-level mission. He is believed to have been killed by ground fire; neither he nor the wreckage was ever found.",
+      "fatalities": 1,
+      "tag": "Ace loss / missing in action",
+      "source": "https://en.wikipedia.org/wiki/Eric_Lock"
+    },
+    {
+      "date": "2017-06-11",
+      "title": "Flips on takeoff at a French airshow",
+      "summary": "A Spitfire caught a wheel in the turf during takeoff at the La Ferté-Alais airshow near Paris and flipped inverted. The pilot survived after being freed by spectators and officials.",
+      "fatalities": 0,
+      "tag": "Airshow / runway excursion",
+      "source": "https://theaviationist.com/2017/06/12/video-shows-spitfire-crashing-while-taking-off-during-airshow-in-northwestern-france/"
+    },
+    {
+      "date": "2024-05-25",
+      "title": "Battle of Britain Memorial Flight crash at Coningsby",
+      "summary": "A Battle of Britain Memorial Flight Spitfire crashed near RAF Coningsby, killing the display pilot and prompting the RAF to temporarily ground its entire historic Merlin-engined fleet pending investigation.",
+      "fatalities": 1,
+      "tag": "Heritage flight crash",
+      "source": "https://www.airforcetimes.com/news/your-air-force/2024/05/28/pilot-dies-in-world-war-ii-era-spitfire-fighter-crash-in-england/"
+    }
+  ]
+}

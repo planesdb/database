@@ -1,0 +1,33 @@
+{
+  "_comment": "Template for an operator entry under data/operators/. One file per operator, filename = slug + '.json'. Copy this file, fill it in, and delete this comment field along with the guidance notes below.",
+
+  "id": "example-air-force",
+  "slug": "example-air-force",
+  "name": "Example Air Force",
+  "shortName": "EAF",
+  "type": "military",
+  "_type_note": "\"military\" for air forces / navies / armies / government agencies, \"commercial\" for airlines and other private/civil operators. Drives which half of the /operators/ index this appears under.",
+
+  "country": { "name": "Example Country", "code": "xx" },
+  "_country_note": "code must be a key that exists in src/svg-icons.js's `flags` object (falls back to a dashed placeholder flag otherwise).",
+
+  "founded": "1950-01-01",
+  "foundedDisplay": "1 January 1950",
+  "headquarters": "Example City, Example Country",
+
+  "logo": null,
+  "_logo_note": "Filename in src/assets/img/operators/ (see OPERATOR-LOGOS.md), or null to fall back to a monogram badge.",
+
+  "website": null,
+  "_website_note": "Optional - the operator's official homepage. Only fill in a URL you've actually verified; leave null rather than guess.",
+
+  "tagline": "One sentence capturing what makes this operator distinctive.",
+
+  "bio": [
+    "First bio paragraph - founding, mission, place in aviation history.",
+    "Second bio paragraph (optional) - what's special about them today."
+  ],
+
+  "matchPattern": "example air force|\\beaf\\b",
+  "_matchPattern_note": "A case-insensitive regex (as a plain string, no slashes) tested against every aircraft's operators[].name field across data/aircraft/*.json. Any aircraft whose operator name matches gets pulled onto this operator's page, using that SPECIFIC operator entry's own status/since/fleetSize/homeBase for the In Service/Retired split - so write it broad enough to catch real variant phrasings (\"Royal Air Force (as Dakota)\", \"RAF Bomber Command\") but not so broad it accidentally matches an unrelated operator. Word-boundary (\\b) short codes like RAF/USAF avoid matching inside longer unrelated words."
+}

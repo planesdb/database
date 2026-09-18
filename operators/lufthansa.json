@@ -1,0 +1,19 @@
+{
+  "id": "lufthansa",
+  "slug": "lufthansa",
+  "name": "Lufthansa",
+  "shortName": "LH",
+  "type": "commercial",
+  "country": { "name": "Germany", "code": "de" },
+  "founded": "1953-01-06",
+  "foundedDisplay": "6 January 1953",
+  "headquarters": "Cologne, Germany",
+  "logo": "lufthansa.png",
+  "website": "https://www.lufthansa.com",
+  "tagline": "Germany's flag carrier and one of the largest airlines in Europe, refounded in the 1950s after the original Deutsche Luft Hansa was dissolved following WWII.",
+  "bio": [
+    "The modern Lufthansa traces its founding to 6 January 1953, when Aktiengesellschaft für Luftverkehrsbedarf (Luftag) was formed to revive German civil aviation - the original Deutsche Luft Hansa, founded in 1926, had been dissolved by the Allies after WWII. The new carrier took back the Lufthansa name and its crane logo in 1954 and resumed scheduled flights in 1955, rebuilding a commercial airline from essentially nothing within a decade of the war's end.",
+    "Lufthansa now operates from twin hubs at Frankfurt and Munich as the largest carrier within the Lufthansa Group, which also owns Swiss, Austrian Airlines, Brussels Airlines and Eurowings, and is a founding member of the Star Alliance. Its widebody fleet still includes the Boeing 747-8, making it one of the last major airlines still flying the 747 in scheduled passenger service alongside newer Airbus A350s and A340s."
+  ],
+  "matchPattern": "lufthansa"
+}

@@ -1,0 +1,401 @@
+{
+  "name": "B-2 Spirit",
+  "fullName": "Northrop Grumman B-2 Spirit",
+  "manufacturer": "Northrop Grumman",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Stealth Strategic Bomber",
+  "tagline": "The flying wing that made the bomber invisible. Only 21 were completed, making it the most expensive aircraft ever built at roughly $2.1 billion each, and the type has opened or headlined nearly every major US air campaign since 1999.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "The B-2 grew out of the Advanced Technology Bomber (ATB) program of the late 1970s, which sought a successor to the B-52 that could penetrate the densest air defences on the planet. Northrop's flying-wing proposal - the spiritual heir to Jack Northrop's YB-49 of the 1940s - beat a Lockheed/Rockwell team in 1981, and the aircraft was developed as one of the largest 'black' programs in history, consuming over $20 billion before the public saw so much as a photograph.\n\nUnveiled at Palmdale in November 1988 and flown for the first time in July 1989, the B-2 arrived just as the Cold War ended, and the planned fleet of 132 was slashed to 21. It entered service in 1997, went to war over Kosovo in 1999, and has since flown some of the longest combat missions in history - including 44-hour round trips from Missouri to Afghanistan in 2001 and the 37-hour Operation Midnight Hammer strike on Iran's Fordow enrichment site in June 2025, the first operational use of the 30,000 lb GBU-57 Massive Ordnance Penetrator.\n\nOne aircraft was lost in a spectacular (but non-fatal) takeoff accident on Guam in 2008 and a second was retired in 2024 after a landing fire proved uneconomical to repair, leaving 19. The fleet is now planned to serve into the 2030s alongside - and eventually give way to - the B-21 Raider, which will inherit both the flying-wing formula and the B-2's home at Whiteman AFB.",
+  "quickFacts": [
+    "At roughly $2.1 billion per aircraft including development, the B-2 is the most expensive aircraft ever built - literally worth more than its weight in gold when it entered service.",
+    "Every operational B-2 is named 'Spirit of' a U.S. state - the first, AV-1, is 'Spirit of America'.",
+    "Its radar cross-section is reportedly comparable to a small bird, despite a wingspan of 172 feet - wider than the Wright brothers' entire first flight.",
+    "B-2 crews flew 44-hour round-trip combat missions from Missouri to Afghanistan in 2001 - among the longest combat sorties in history. The jet has a toilet, a microwave and room for a folding cot behind the seats.",
+    "It has no vertical tail at all: yaw is controlled by split 'drag rudder' surfaces near the wingtips that crack open into the airflow.",
+    "The 2008 crash of 'Spirit of Kansas' on Guam - caused by moisture in three air-data sensors - was the most expensive aviation accident in history (~$1.4B). Both pilots ejected safely.",
+    "In June 2025, seven B-2s flew a 37-hour round trip from Missouri to drop fourteen 30,000 lb GBU-57 bunker-busters on Iran's Fordow and Natanz nuclear sites - the weapon's first ever operational use.",
+    "The whole fleet lives in climate-controlled hangars at one base (Whiteman AFB, Missouri) - the radar-absorbing skin is so maintenance-sensitive that the B-2 long deployed with portable shelters."
+  ],
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 630,
+      "text": "~547 kn (~630 mph / 1,010 km/h)"
+    },
+    "cruiseSpeed": "~560 mph (900 km/h) at high altitude",
+    "range": {
+      "miles": 6900,
+      "text": "~6,900 mi (11,100 km) unrefuelled - intercontinental with a single aerial refuelling"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft (15,200 m)"
+    },
+    "wingspan": {
+      "ft": 172,
+      "text": "172 ft 0 in (52.4 m)"
+    },
+    "length": {
+      "ft": 69,
+      "text": "69 ft 0 in (21.0 m) - the wing is two and a half times wider than the aircraft is long"
+    },
+    "height": {
+      "ft": 17,
+      "text": "17 ft 0 in (5.18 m)"
+    },
+    "weight": "empty: ~158,000 lb (71,700 kg); MTOW: 336,500 lb (152,600 kg)",
+    "engines": "4 x General Electric F118-GE-100 non-afterburning turbofans, 17,300 lbf thrust each, buried in the wing with S-duct inlets to hide the fan faces from radar",
+    "armament": "Internal only (external stores would wreck the stealth): JDAM series, JASSM/JASSM-ER cruise missiles, GBU-28 and GBU-57 penetrators, B61-7/-11/-12 and B83 nuclear bombs",
+    "crew": "2 (pilot and mission commander), with provision for a third seat",
+    "capacity": "40,000+ lb (18,000+ kg) of ordnance in two internal bays - up to 80 x 500 lb JDAMs, or two 30,000 lb GBU-57 Massive Ordnance Penetrators, plus B61/B83 nuclear weapons",
+    "firstFlight": {
+      "date": "1989-07-17",
+      "year": 1989
+    },
+    "serviceEntryDate": "1997-01-01",
+    "retiredDate": null,
+    "numberBuilt": 21,
+    "unitCost": {
+      "usd": 2130000000,
+      "text": "$737M flyaway (1997 dollars); ≈$2.13B program unit cost including R&D spread across just 21 aircraft - about $4.2B in 2026 dollars, the most expensive aircraft ever built",
+      "inflationText": "≈$4.2B in 2026 dollars (program unit cost)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Block 10 / 20 / 30",
+      "desc": "Successive delivery standards; the whole fleet was brought up to full Block 30 stealth and weapons capability by 2000."
+    },
+    {
+      "code": "Spirit modernisation (2000s-2020s)",
+      "desc": "Rolling upgrades: radar AESA conversion, EHF satcom, Defensive Management System modernisation and the Massive Ordnance Penetrator integration."
+    }
+  ],
+  "operators": [
+    {
+      "name": "US Air Force",
+      "role": "Sole Operator",
+      "status": "Active",
+      "since": "1993",
+      "fleetSize": "19 aircraft",
+      "homeBase": "Whiteman AFB, Missouri (509th Bomb Wing, with the Missouri ANG's 131st Bomb Wing as associate; test aircraft at Edwards AFB)",
+      "logo": "usaf.svg"
+    }
+  ],
+  "flightradar24": {
+    "trackable": false,
+    "icaoTypeCode": "B2",
+    "howToFind": "Operational B-2 missions fly dark - no ADS-B position for consumer trackers. Very occasionally a training sortie around Whiteman AFB shows up on Mode-S with a MYTEE or DEATH callsign, but it's rare enough to be an event in the tracking community when it happens."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/",
+      "topicTag": "B-2"
+    },
+    {
+      "name": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/",
+      "topicTag": "B-2"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Air Force Plans to Keep B-1s Through 2037, Fly B-2s Longer",
+      "source": "Air & Space Forces Magazine",
+      "date": "2026-04-24",
+      "category": "Fleet Update",
+      "url": "https://www.airandspaceforces.com/air-force-plans-to-fly-b-1s-b-2s-through-2037/"
+    },
+    {
+      "title": "Whiteman B-2 bombers strike Iran as B-21 funding grows",
+      "source": "Axios Kansas City",
+      "date": "2026-03-05",
+      "category": "Operations",
+      "url": "https://www.axios.com/local/kansas-city/2026/03/05/whiteman-b2-bombers-iran-strikes-b21-funding"
+    },
+    {
+      "title": "Whiteman Picked over Dyess as Second Operational Base for B-21",
+      "source": "Air & Space Forces Magazine",
+      "date": "2026-06-05",
+      "category": "Policy",
+      "url": "https://www.airandspaceforces.com/whiteman-second-operational-base-b-21/"
+    },
+    {
+      "title": "From 19 B-2 Spirits To 145 B-21 Raiders: How Much Bigger America's Stealth Bomber Fleet Is About To Get",
+      "source": "Simple Flying",
+      "date": "2026-05-18",
+      "category": "Analysis",
+      "url": "https://simpleflying.com/19-b-2-spirits-145-b-21-raiders-bigger-americas-stealth-bomber-fleet-get/"
+    },
+    {
+      "title": "B-2 Used As Decoy For Iran Strike Mission Is Stuck In Hawaii",
+      "source": "TWZ (The War Zone)",
+      "date": "2025-06-27",
+      "category": "Operations",
+      "url": "https://www.twz.com/air/b-2-used-as-decoy-for-iran-strike-mission-is-stuck-in-hawaii"
+    }
+  ],
+  "tags": [
+    "b-2",
+    "b2",
+    "spirit",
+    "stealth bomber",
+    "flying wing",
+    "northrop",
+    "whiteman",
+    "509th bomb wing",
+    "gbu-57",
+    "midnight hammer",
+    "nuclear triad",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The Northrop Grumman B-2 Spirit is a long-range, flying-wing stealth bomber built for the US Air Force. It first flew in 1989 and entered service in 1997; only 21 were built, making it, with development costs included, the most expensive aircraft ever produced at roughly $2.1 billion per airframe.{{ref:wiki-b2}}",
+      "Developed from Jack Northrop's flying-wing designs of the 1940s, the B-2 uses continuously curved surfaces to scatter radar returns and can carry up to 40,000 lb of conventional or nuclear weapons internally. It flew its combat debut over Kosovo in 1999 and, in June 2025, delivered GBU-57 bunker-buster bombs against Iran's Fordow and Natanz nuclear sites - the largest B-2 strike ever flown.{{ref:wiki-b2}}{{ref:twz-hammer}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The B-2's story begins with failure. Jack Northrop spent the 1940s convinced that the pure flying wing - no fuselage, no tail, nothing that didn't produce lift - was the future of aviation. His piston-engined XB-35 and jet-powered YB-49 proved the aerodynamics were tantalisingly efficient and infuriatingly unstable; the program died in 1949, the prototypes were scrapped, and Northrop the man never got over it.{{ref:wiki-yb49}}",
+          "Three decades later, the wing came back for a reason its inventor never imagined. By the late 1970s the Pentagon understood that radar cross-section, not speed or altitude, would decide whether bombers survived Soviet air defences - and a flying wing, with no vertical surfaces and no fuselage corners to bounce radar energy back, was close to the ideal stealth shape. The Advanced Technology Bomber competition of 1979-81 pitted Northrop's smooth, curved wing against a faceted Lockheed design; Northrop won in October 1981.{{ref:wiki-b2}}",
+          "In April 1980, Northrop's engineers brought their dying founder - by then unable to speak - into a secure facility and showed him a model of the ATB. Jack Northrop studied the shape he'd fought for all his life, took a pen, and wrote his reply.{{ref:wiki-jacknorthrop}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Where the F-117's first-generation stealth used flat facets - a concession to the computing power of the 1970s - the B-2 belongs to the second generation: continuously curved surfaces shaped by vastly more capable computers, scattering radar energy smoothly away in every direction. The result is an aircraft the size of an airliner with a reported radar signature closer to that of a bird.{{ref:afsf-b2}}",
+          "Everything about the design serves the signature. The four F118 turbofans are buried deep in the wing, breathing through S-shaped ducts that hide their radar-bright fan faces; the exhausts exit above the wing through flattened slots that screen the heat from below. The leading edges hide antennas; the skin is gap-free to tolerances that made every panel a custom job; and the whole aircraft is coated in radar-absorbent material so sensitive that the fleet lives in climate-controlled hangars.{{ref:wiki-b2}}",
+          "A tailless wing should be unflyable, and left alone, it would be. The B-2's quadruple-redundant fly-by-wire system makes hundreds of corrections a second, while yaw - the job of the missing rudder - is handled by split 'drag rudder' surfaces at the wingtips that crack open into the airstream. From the cockpit, crews report, it flies like a fighter with very long wings.{{ref:afsf-b2}}",
+          "The payoff for all of it is carried in two internal weapons bays: over 40,000 lb of ordnance, from eighty independently-targeted 500 lb JDAMs to a pair of 30,000 lb GBU-57 Massive Ordnance Penetrators - or the B61 and B83 nuclear weapons that are the reason the aircraft exists at all.{{ref:af-factsheet}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The B-2 was designed for a production run of 132 and a world that ended two years after its first flight. Developed as one of the largest black programs in history - more than $20 billion spent before the public saw a photograph - it was unveiled at Palmdale in November 1988 and flew on 17 July 1989.{{ref:wiki-b2}} Then the Berlin Wall came down, and Congress cut the program to 21 aircraft, driving the per-unit cost, with development included, to roughly $2.1 billion: the most expensive aircraft ever built.{{ref:wiki-b2}}",
+          "Each airframe is individually named 'Spirit of' a state, and the tiny fleet has been based at a single home since the first delivery in December 1993: Whiteman AFB, Missouri, with the 509th Bomb Wing - the direct descendant of the unit that flew the atomic missions of August 1945.{{ref:af-factsheet}}",
+          "The fleet's size makes every airframe precious, and its history shows it. The 2008 loss of 'Spirit of Kansas' on Guam - moisture in three sensors, a violent uncommanded pitch-up, both pilots out safely - erased almost five percent of the force in a moment.{{ref:wiki-guam}} When 'Spirit of Washington' burned on the ground in 2010, the Air Force spent four years rebuilding it rather than lose another. Only in 2024, with the B-21 in flight test, did the calculus change: the 'Spirit of Hawaii', damaged in a 2022 landing fire, was quietly divested rather than repaired, and the fleet settled at 19.{{ref:twz-divest}}"
+        ]
+      },
+      {
+        "heading": "Blocks & Modernisation",
+        "paragraphs": [
+          "The fleet was delivered to three standards while testing continued. Early aircraft arrived as interim Block 10 machines with limited weapons and a training focus, followed by nuclear-capable Block 20s carrying the GATS/GAM precision system. Block 30, reached across the fleet by mid-2000, was the definitive configuration: radar-absorbent material applied edge to edge, terrain-following modes for the AN/APQ-181 radar, and JDAM integration. Every earlier airframe was cycled back through Palmdale for conversion, work that in some cases amounted to partially rebuilding the aircraft's skin.{{ref:wiki-b2}}",
+          "With only 21 built, the B-2 has been modernised in place rather than replaced by new-build variants. The AN/APQ-181 was converted to an active electronically scanned array in the late 2000s, communications moved to survivable EHF satcom, and the Defensive Management System that locates threat radars was overhauled against modern integrated air defences. The most consequential change was structural: reinforcing the weapons bays for the 30,000 lb GBU-57 Massive Ordnance Penetrator took fifteen years of work before its operational debut over Fordow.{{ref:afsf-b2}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The B-2 went to war over Kosovo in March 1999 and immediately established the pattern it has followed ever since: take off from Missouri, fly a day and a half, arrive unannounced over the most defended airspace of the conflict, and open the war. In 78 days of Operation Allied Force, B-2s flew under one percent of the sorties and destroyed a third of the targets, delivering the brand-new JDAM through weather that blinded everything else.{{ref:wiki-b2}}",
+          "Afghanistan in 2001 brought the longest combat missions in aviation history - over 44 hours from Whiteman to the target and on to Diego Garcia, crews rotating naps on a cot behind the seats. Iraq in 2003, Libya in 2011 and 2017, and Yemen in October 2024 all followed the same script: hardened targets, first night, no warning.{{ref:afsf-b2}}",
+          "The script reached its logical conclusion on 21 June 2025. Seven B-2s launched from Missouri into a 37-hour round trip while others tracked west toward Guam as a visible decoy. Over Iran, they delivered fourteen GBU-57 Massive Ordnance Penetrators{{ref:csis-hammer}} - 30,000 lb weapons developed over fifteen years specifically for this aircraft and, in effect, for this target - into the ventilation shafts of the Fordow underground enrichment complex and into Natanz. It was the largest B-2 strike ever flown and the MOP's combat debut; not a single aircraft was detected en route.{{ref:twz-hammer}}{{ref:axios-hammer}}",
+          "Eight months later the Spirits were back, striking Iran's hardened ballistic-missile infrastructure in the opening nights of Operation Epic Fury alongside B-1s and B-52s.{{ref:wiki-epicfury}} Twenty-seven years after Kosovo, there is still exactly one aircraft that gets these missions.",
+          "It is a strange kind of fame. The B-2's combat record contains one grim asterisk: on 7 May 1999, a B-2 delivered the JDAMs that struck the Chinese embassy in Belgrade - the weapons hit precisely where they were aimed, but faulty target intelligence had aimed them at the wrong building. Three people died, and the incident remains a case study in the difference between a perfect weapon and a perfect targeting process.{{ref:wiki-belgrade}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The B-2's successor is, fittingly, itself - refined. The Northrop Grumman B-21 Raider is a smaller, cheaper, more producible flying wing that inherits the B-2's formula and, eventually, its mission. The first operational Raiders arrive at Ellsworth AFB in 2027, and in 2026 the Air Force confirmed that Whiteman - the B-2's only home - will be the second B-21 base, keeping stealth bombers on the same Missouri flightline through the transition.{{ref:afsf-whiteman}}",
+          "The 19 remaining Spirits are not going quietly - the Air Force confirmed in 2023 that the aircraft damaged by fire at Whiteman in 2022 would never be repaired, permanently reducing the fleet from 20.{{ref:defone-divest}} Recent budgets fund the B-2 into the 2030s, with communications and defensive-system upgrades to keep it viable; 2026 planning keeps the type flying alongside the B-1 toward 2037 if needed.{{ref:afsf-2037}} As Fordow demonstrated, there are still targets in the world that only a B-2 can reach - and will be until the B-21 force matures.",
+          "When the last Spirit does retire, it will end one of the strangest production runs in aviation: an aircraft so capable it reshaped war planning, so expensive it nearly ended with the Cold War that created it, and so far ahead of its time that its replacement is, essentially, the same shape."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-b2",
+      "name": "Northrop B-2 Spirit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_B-2_Spirit"
+    },
+    {
+      "id": "af-factsheet",
+      "name": "B-2 Spirit Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104482/b-2-spirit/"
+    },
+    {
+      "id": "afsf-b2",
+      "name": "B-2 Spirit",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/weapons/b-2/"
+    },
+    {
+      "id": "wiki-yb49",
+      "name": "Northrop YB-49",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YB-49"
+    },
+    {
+      "id": "wiki-jacknorthrop",
+      "name": "Jack Northrop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_Northrop"
+    },
+    {
+      "id": "wiki-guam",
+      "name": "2008 Andersen Air Force Base B-2 accident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2008_Andersen_Air_Force_Base_B-2_accident"
+    },
+    {
+      "id": "twz-divest",
+      "name": "Damaged B-2 Won't Be Repaired, Fleet To Shrink To 19 Jets",
+      "publisher": "TWZ (The War Zone)",
+      "url": "https://www.twz.com/air/damaged-b-2-wont-be-repaired-fleet-to-shrink-to-19-jets"
+    },
+    {
+      "id": "twz-hammer",
+      "name": "B-2 Strikes On Iran: What We Know About Operation Midnight Hammer",
+      "publisher": "TWZ (The War Zone)",
+      "url": "https://www.twz.com/air/b-2-strikes-on-iran-what-we-know-about-operation-midnight-hammer"
+    },
+    {
+      "id": "axios-hammer",
+      "name": "U.S. used 14 bunker-busters, 7 B-2 bombers in 'Midnight Hammer' strikes on Iran",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2025/06/22/iran-nuclear-midnight-hammer-bunker-buster"
+    },
+    {
+      "id": "wiki-epicfury",
+      "name": "2026 Iran war",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war"
+    },
+    {
+      "id": "wiki-belgrade",
+      "name": "United States bombing of the Chinese embassy in Belgrade",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_States_bombing_of_the_Chinese_embassy_in_Belgrade"
+    },
+    {
+      "id": "afsf-whiteman",
+      "name": "Whiteman Picked over Dyess as Second Operational Base for B-21",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/whiteman-second-operational-base-b-21/"
+    },
+    {
+      "id": "afsf-2037",
+      "name": "Air Force Plans to Keep B-1s Through 2037, Fly B-2s Longer",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/air-force-plans-to-fly-b-1s-b-2s-through-2037/"
+    },
+    {
+      "id": "defone-divest",
+      "name": "B-2 that caught fire in 2022 won't be fixed, Air Force confirms",
+      "publisher": "Defense One",
+      "url": "https://www.defenseone.com/technology/2024/05/b-2-crashed-2022-wont-be-fixed-air-force-confirms/396519/"
+    },
+    {
+      "id": "csis-hammer",
+      "name": "What Operation Midnight Hammer Means for the Future of Iran's Nuclear Ambitions",
+      "publisher": "CSIS",
+      "url": "https://www.csis.org/analysis/what-operation-midnight-hammer-means-future-irans-nuclear-ambitions"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Northrop B-2 Spirit - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_B-2_Spirit"
+    },
+    {
+      "name": "B-2 Spirit - USAF Fact Sheet",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104482/b-2-spirit/"
+    },
+    {
+      "name": "B-2 Spirit - Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/weapons/b-2/"
+    },
+    {
+      "name": "B-2 Strikes On Iran: Operation Midnight Hammer - TWZ",
+      "url": "https://www.twz.com/air/b-2-strikes-on-iran-what-we-know-about-operation-midnight-hammer"
+    },
+    {
+      "name": "Damaged B-2 Won't Be Repaired, Fleet To Shrink To 19 Jets - TWZ",
+      "url": "https://www.twz.com/air/damaged-b-2-wont-be-repaired-fleet-to-shrink-to-19-jets"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry created at gold standard: full specifications, deep-dive article with references, timeline, incidents, variants and current fleet status (19 aircraft, post-Epic Fury).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed status field from a non-standard free-text string (\"Active service (19 aircraft)\") to the standard \"In Service\" value - the previous string broke the status badge's exact-match color logic, causing it to render as a red \"retired\"-style badge despite the aircraft being active. The fleet-size detail was already covered in the description text, so nothing was lost.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Reformatted maxSpeedDisplay to the house style (knots-first, no Mach number, no editorializing) - was previously mph-first with an editorial aside baked into the spec field, unlike every other entry in the database.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Recorded the permanent loss of the fire-damaged airframe that reduced the fleet to 19, and attached the two previously uncited references.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2008-02-23",
+      "title": "First-ever B-2 crash, Guam",
+      "summary": "The B-2 'Spirit of Kansas' crashed on the runway moments after takeoff from Andersen AFB, Guam, after moisture in its air-data sensors caused erroneous airspeed readings and an uncommanded pitch-up that led to an unrecoverable stall. Both crew ejected safely; the aircraft was a total loss.",
+      "fatalities": 0,
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/2008_Andersen_Air_Force_Base_B-2_crash"
+    },
+    {
+      "date": "2010-02-26",
+      "title": "'Spirit of Washington' engine fire at Guam",
+      "tag": "Ground fire",
+      "summary": "An engine fire on the ground at Andersen AFB badly damaged AV-11. Rather than write off five per cent of the fleet, the Air Force and Northrop Grumman spent nearly four years rebuilding the aircraft on Guam and at Palmdale before it flew home - a project nicknamed 'Spirit in the Sky'.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Northrop_B-2_Spirit"
+    },
+    {
+      "date": "2021-09-14",
+      "title": "Crash-landing at Whiteman AFB",
+      "summary": "A B-2 suffered an in-flight malfunction during a training flight and crash-landed at Whiteman Air Force Base, Missouri, with its landing gear collapsing. There were no injuries.",
+      "fatalities": 0,
+      "tag": "Mechanical failure",
+      "source": "https://www.airforcetimes.com/news/your-air-force/2021/09/17/b-2-bomber-crashes-in-missouri-after-in-flight-malfunction-none-injured/"
+    },
+    {
+      "date": "2022-12-10",
+      "title": "Emergency landing and fire at Whiteman AFB",
+      "summary": "A B-2 suffered an in-flight malfunction and made an emergency landing at Whiteman Air Force Base, catching fire on the runway before firefighters extinguished it. The damage, later traced to faulty landing-gear springs, led the Air Force to retire the aircraft rather than repair it.",
+      "fatalities": 0,
+      "tag": "Mechanical failure",
+      "source": "https://www.airandspaceforces.com/b-2-damaged-following-emergency-landing-and-fire-at-whiteman/"
+    }
+  ]
+}

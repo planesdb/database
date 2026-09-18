@@ -1,0 +1,440 @@
+{
+  "name": "SR-71 Blackbird",
+  "fullName": "Lockheed SR-71 Blackbird",
+  "manufacturer": "Lockheed (Skunk Works)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes"
+  ],
+  "role": "Strategic Reconnaissance Aircraft",
+  "tagline": "Never shot down, never outrun - still the fastest jet ever flown. More than sixty years after its first flight, it still holds the official world records for both speed (2,193.167 mph) and sustained altitude (85,069 ft) by an air-breathing crewed aircraft.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "The Blackbird story begins with the vulnerability of the U-2. After Francis Gary Powers was shot down over the Soviet Union in May 1960, it was clear that flying high was no longer enough - a reconnaissance aircraft would need to fly high AND fast. The CIA's answer was the single-seat Lockheed A-12 Oxcart (first flight 1962), developed at Area 51; the SR-71 was the US Air Force's longer, two-seat, longer-range derivative. It first flew on 22 December 1964 at Palmdale, California, and entered service with the 4200th (later 9th) Strategic Reconnaissance Wing at Beale AFB in January 1966.\n\nOperationally, Blackbirds flew from Beale, from Kadena Air Base on Okinawa (where crews nicknamed it 'Habu' after a local pit viper), and from RAF Mildenhall in England, photographing and listening to North Vietnam, North Korea, the Middle East, Libya and the Soviet periphery. During the 1973 Yom Kippur War, SR-71s flew round-trip missions from the US east coast to Egypt and back because no ally would grant basing rights - single sorties lasting over ten hours with multiple aerial refuellings. In 1986, Blackbirds photographed Libyan targets hours after the US strikes of Operation El Dorado Canyon, outrunning the missiles fired at them.\n\nThe aircraft's operating costs were enormous - it needed a dedicated fleet of KC-135Q tankers carrying its special JP-7 fuel, and by some estimates cost $200,000+ per hour to fly. The USAF retired the fleet in 1990, and after Congress forced a brief three-aircraft reactivation in 1995-98, the type's military career ended for good in 1998. NASA's Dryden (now Armstrong) Flight Research Center flew the last two Blackbirds for high-speed research until the final flight of any SR-71 on 9 October 1999. Of 32 built, 12 were lost in accidents - and none, ever, to enemy action.\n\nIts farewell was pure Blackbird. On 6 March 1990, on the delivery flight of airframe 61-7972 to the Smithsonian, pilot Lt. Col. Ed Yeilding and RSO Lt. Col. Joseph 'J.T.' Vida flew Los Angeles to Washington D.C. in 64 minutes 20 seconds, averaging 2,124 mph across the continent and setting four city-pair records that still stand. That aircraft now hangs in the Udvar-Hazy Center; its sisters rest in museums from Duxford to Seattle.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 2193,
+      "text": "1,906 kn (2,193 mph / 3,530 km/h)"
+    },
+    "cruiseSpeed": "~2,000 mph (3,220 km/h, Mach 3.0-3.2) sustained cruise",
+    "range": {
+      "miles": 3200,
+      "text": "3,200 mi (5,150 km) without aerial refuelling"
+    },
+    "serviceCeiling": {
+      "ft": 85000,
+      "text": "85,000+ ft (25,900+ m)"
+    },
+    "wingspan": {
+      "ft": 55.58,
+      "text": "55 ft 7 in (16.94 m)"
+    },
+    "length": {
+      "ft": 107.42,
+      "text": "107 ft 5 in (32.74 m)"
+    },
+    "height": {
+      "ft": 18.5,
+      "text": "18 ft 6 in (5.64 m)"
+    },
+    "weight": "empty: 67,500 lb (30,617 kg); loaded (max): 172,000 lb (78,020 kg)",
+    "engines": "2 x Pratt & Whitney J58 continuous-bleed afterburning turbojets, 32,500 lbf thrust each",
+    "crew": "2 (pilot and reconnaissance systems officer)",
+    "capacity": "N/A - carried no weapons; sensor payload of high-resolution cameras, side-looking radar and signals-intelligence equipment",
+    "firstFlight": {
+      "date": "1964-12-22",
+      "year": 1964
+    },
+    "serviceEntryDate": "1966-01-01",
+    "retiredDate": "1998 (USAF); final NASA flight 9 October 1999",
+    "numberBuilt": 32,
+    "unitCost": {
+      "usd": 34000000,
+      "text": "~$34M (1960s program dollars; roughly $352M in 2026 dollars, adjusted for CPI inflation)",
+      "inflationText": "≈$352M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "A-12 Oxcart",
+      "desc": "Earlier, single-seat CIA reconnaissance predecessor that led directly to the SR-71's development."
+    },
+    {
+      "code": "SR-71A",
+      "desc": "Standard two-seat operational reconnaissance version, the type built and flown in numbers."
+    },
+    {
+      "code": "SR-71B/C",
+      "desc": "Twin-cockpit training variants used to qualify new Blackbird pilots."
+    },
+    {
+      "code": "YF-12",
+      "desc": "Interceptor derivative armed with air-to-air missiles, tested but never put into production service."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force (9th Strategic Reconnaissance Wing)",
+      "role": "Sole Operational Operator",
+      "status": "Retired",
+      "since": "1966",
+      "fleetSize": "32 built total; ~50 in service at any time including trainers",
+      "homeBase": "Beale AFB, California; forward-deployed to Kadena AB, Okinawa and RAF Mildenhall, UK",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "NASA",
+      "role": "Research Operator",
+      "status": "Retired",
+      "since": "1990",
+      "fleetSize": "2",
+      "homeBase": "Dryden (Armstrong) Flight Research Center, California",
+      "logo": "nasa.png"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "All SR-71s are retired and permanently grounded, displayed in museums including the Smithsonian's Udvar-Hazy Center, the California Science Center and the Imperial War Museum Duxford; none remain flyable or trackable."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "AeroTime",
+      "url": "https://www.aerotime.aero/feed",
+      "topicTag": "SR-71 Blackbird"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Today in Aviation History: The Final Flight of the SR-71 Blackbird",
+      "source": "Vintage Aviation News",
+      "date": "2025-03-06",
+      "category": "Anniversary",
+      "url": "https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-final-flight-of-the-sr-71-blackbird.html"
+    },
+    {
+      "title": "US firm teases potential successor to SR-71 Blackbird in new video",
+      "source": "Interesting Engineering",
+      "date": "2025-06-10",
+      "category": "Successor",
+      "url": "https://interestingengineering.com/military/ge-aerospace-hypersonic-blackbird-successor-aircraft"
+    },
+    {
+      "title": "Lockheed Martin's SR-72: hypersonic successor to the SR-71 still progresses",
+      "source": "Army Recognition",
+      "date": "2024-08-15",
+      "category": "Successor",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2024/lockheed-martins-sr-72-the-hypersonic-successor-to-the-sr-71-blackbird-still-progresses"
+    },
+    {
+      "title": "Why the SR-71 Blackbird Never Gets Old",
+      "source": "Smithsonian Magazine",
+      "date": "2024-05-28",
+      "category": "Feature",
+      "url": "https://www.smithsonianmag.com/blogs/air-space-museum/2024/05/28/why-the-sr-71-blackbird-never-gets-old/"
+    },
+    {
+      "title": "Coming in Hot: the SR-71's arrival at the Smithsonian",
+      "source": "Air & Space Quarterly (NASM)",
+      "date": "2024-03-01",
+      "category": "Feature",
+      "url": "https://airandspace.si.edu/air-and-space-quarterly/issue-10/sr71-blackbird"
+    },
+    {
+      "title": "'The Sled Driver Has Flown West': SR-71 pilot Brian Shul remembered",
+      "source": "The Aviationist",
+      "date": "2023-05-24",
+      "category": "People",
+      "url": "https://theaviationist.com/2023/05/24/the-sled-driver-has-flown-west/"
+    },
+    {
+      "title": "Renowned aviator Brian Shul dead at 75",
+      "source": "FLYING Magazine",
+      "date": "2023-05-22",
+      "category": "People",
+      "url": "https://www.flyingmag.com/renowned-aviator-brian-shul-dead-at-75/"
+    }
+  ],
+  "tags": [
+    "sr-71 blackbird",
+    "skunk works",
+    "kelly johnson",
+    "mach 3",
+    "strategic reconnaissance",
+    "spy plane",
+    "cold war",
+    "titanium aircraft",
+    "world speed record",
+    "u-2 successor"
+  ],
+  "quickFacts": [
+    "The SR-71 leaked fuel on the ground by design - its panels only sealed once the airframe heated up and expanded at Mach 3, growing several inches longer in flight.",
+    "Much of its titanium was covertly purchased from the Soviet Union - the very country it was built to spy on - through CIA front companies.",
+    "It was never shot down: an estimated 4,000+ missiles were fired at Blackbird-family aircraft over 3,551 sorties without a single hit. Standard evasive action was simply to speed up.",
+    "Its 1976 records - 2,193.167 mph and 85,069 ft in level flight - still stand today as the fastest and highest any air-breathing crewed aircraft has ever officially flown.",
+    "On its 1990 retirement flight to the Smithsonian it crossed the USA, Los Angeles to Washington D.C., in 64 minutes 20 seconds.",
+    "Pilot Brian Shul's 'LA Speed Check' story - an SR-71 crew asking air traffic control for a ground-speed readout to silence boastful fighter pilots - became the most famous anecdote in aviation.",
+    "Crews wore $120,000 astronaut-style full pressure suits and ate high-protein pre-flight meals of steak and eggs; at cruise, the cockpit windscreen was hot enough to warm food against."
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed SR-71 Blackbird is a long-range, Mach 3 strategic reconnaissance aircraft built by Lockheed's Skunk Works for the US Air Force. It first flew in December 1964 and remains the fastest air-breathing crewed aircraft ever built, cruising at Mach 3.2 and 85,000 feet.{{ref:wiki-sr71}}",
+      "Developed from the CIA's single-seat A-12, the SR-71 flew reconnaissance missions over hostile airspace for 25 years; of roughly 4,000 missiles fired at Blackbirds, none ever hit one. The US Air Force retired the fleet in 1990 for cost reasons rather than obsolescence, and its speed and altitude records still stand today.{{ref:wiki-sr71}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "On 1 May 1960, a Soviet SA-2 missile brought down Francis Gary Powers' U-2 over Sverdlovsk, and with it the assumption that altitude alone could keep a reconnaissance aircraft safe. The CIA had already reached that conclusion: since 1958 it had been quietly funding studies for a U-2 successor that would add blistering speed and a radically reduced radar signature to extreme altitude.{{ref:wiki-a12}}",
+          "The result was Project OXCART and the Lockheed A-12 - the Blackbird's leaner, single-seat CIA ancestor, designed by Clarence 'Kelly' Johnson's Skunk Works and flown in total secrecy from Groom Lake (Area 51) in April 1962. The A-12 established everything that made the family legendary: the titanium structure, the chined fuselage that blended lift and stealth, and the extraordinary J58 engines.{{ref:wiki-a12}}",
+          "The U.S. Air Force wanted its own version - slightly longer, two seats, more fuel and sensors - and the SR-71 flew on 22 December 1964. In one of aviation's great ironies, the titanium that made it possible was bought through shell companies from the world's leading supplier: the Soviet Union, which never realised it was selling the raw material for the aircraft built to spy on it.{{ref:wiki-sr71}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Almost nothing on the Blackbird could be bought, borrowed or adapted. Titanium tore up conventional tooling, so the Skunk Works invented new tools{{ref:lm-sr71}}; ordinary fuel would have boiled in tanks that soaked to over 300°C, so a new fuel (JP-7) was formulated with a flashpoint so high a lit match dropped into it goes out; conventional hydraulic fluid, wiring and even paint failed at cruise temperatures and had to be developed from scratch.{{ref:sr71-online}}",
+          "The J58 engines were the deepest magic. At Mach 3.2 each functioned less like a turbojet and more like a ramjet: six huge bypass tubes fed intake air around the core straight to the afterburner, and the computer-scheduled movable inlet spikes generated most of the engine's net thrust. The engines actually became more efficient the faster the aircraft flew.{{ref:wiki-sr71}}",
+          "Because titanium expands dramatically with heat, the airframe was built loose-fitting at rest - the famous consequence being that Blackbirds dripped fuel on the ramp through panel gaps designed to close up only when the airframe heated and stretched several inches at cruise. Standard procedure was to take off light, tank immediately from a dedicated KC-135Q, then climb and accelerate.{{ref:sr71-online}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Blackbird's shape was decades ahead of the word 'stealth'. The fuselage chines and inward-canted twin fins weren't styling - they scattered radar returns, and combined with radar-absorbing materials worked into the structure, gave the SR-71 a radar cross-section a fraction of its physical size. It wasn't invisible; the design philosophy was that by the time a radar operator sorted out what he was seeing, the aircraft would be gone.{{ref:wiki-sr71}}",
+          "The deep black paint that named the aircraft was itself functional: loaded with iron ferrites to absorb radar energy, and better at radiating away the 300°C+ skin heat than bare titanium. Crews wore full pressure suits - essentially spacesuits - because at 85,000 feet a cabin failure would boil an unprotected pilot's blood.{{ref:nasa-sr71}}",
+          "Flying it was a two-person job: pilot forward, Reconnaissance Systems Officer behind, managing cameras, side-looking radar and electronic-intelligence receivers that could survey 100,000 square miles of the Earth's surface per hour from altitude.{{ref:nasa-sr71}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "From March 1968, Blackbirds flew operationally out of Kadena AB on Okinawa (missions over Vietnam and North Korea) and later RAF Mildenhall in England (the Baltic, the Barents Sea, the Middle East). The routine was anything but: crews overflew or skirted the most heavily defended airspace on the planet, tracked by radars and fired on by missiles that simply could not reach a target doing a mile every 1.7 seconds, 16 miles up.{{ref:wiki-sr71}}",
+          "The numbers from 25 years of operations are unmatched: around 4,000 missiles fired at the type, zero aircraft lost to enemy action. Twelve of the 32 built were lost - every one to accidents, the brutal price of operating at the edge of the possible - and one crew member, RSO Jim Zwayer, died in a 1966 Mach 3.18 breakup his pilot somehow survived.{{ref:wiki-sr71}}",
+          "When the records needed setting, the Blackbird set them casually. New York to London in 1 hour 54 minutes in 1974; the absolute speed record of 2,193.2 mph and sustained altitude record of 85,069 feet, both set on the same July day in 1976 - and both still standing today, half a century later.{{ref:wiki-sr71}}"
+        ]
+      },
+      {
+        "heading": "Retirement",
+        "paragraphs": [
+          "The Blackbird was killed by accounting, not adversaries. Each squadron-hour of SR-71 time consumed dedicated tankers with special fuel, bespoke logistics and money the post-Cold-War Air Force preferred to spend elsewhere, while satellites promised (not always accurately) to cover the same targets. The fleet stood down in 1990.{{ref:wiki-sr71}}",
+          "Congress forced a brief, awkward reactivation of two aircraft in 1995 - the capability gap was real - but the Air Force never wanted them back, and funding was cut again in 1998. NASA's Dryden centre flew the last Blackbirds for high-speed research until the type's true final flight on 9 October 1999.{{ref:nasa-sr71}}",
+          "Every surviving airframe went straight to a museum; nothing so expensive to run had any other retirement available. The Smithsonian's Udvar-Hazy Center{{ref:nasm-sr71}}, the Imperial War Museum Duxford and a dozen American museums hold them today, still the fastest aircraft most visitors will ever stand beside.{{ref:wiki-sr71}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "Fifty years on, the SR-71's speed and altitude records stand untouched, and nothing in open service has replaced the combination of speed, altitude, survivability and sensor reach the Blackbird carried in 1966.{{ref:wiki-sr71}}",
+          "Its rumoured successor has become an aviation legend of its own. Lockheed Martin floated the hypersonic, uncrewed 'SR-72' concept in 2013, targeting Mach 6 with a turbine-based combined-cycle engine, and a prototype was once suggested for 2025 - but as of 2026 no aircraft has been confirmed to exist, with only classified-budget tea leaves and persistent speculation to go on. The Blackbird's crown, for now, stays where Kelly Johnson left it.{{ref:wiki-sr72}}{{ref:ff-sr72}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-sr71",
+      "name": "Lockheed SR-71 Blackbird",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird"
+    },
+    {
+      "id": "wiki-a12",
+      "name": "Lockheed A-12",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_A-12"
+    },
+    {
+      "id": "nasa-sr71",
+      "name": "SR-71 Blackbird fact sheet",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-fact-sheet-sr-71-blackbird/"
+    },
+    {
+      "id": "sr71-online",
+      "name": "SR-71 Online - Blackbird technical reference",
+      "publisher": "sr-71.org",
+      "url": "https://www.sr-71.org/"
+    },
+    {
+      "id": "lm-sr71",
+      "name": "SR-71 Blackbird",
+      "publisher": "Lockheed Martin",
+      "url": "https://www.lockheedmartin.com/en-us/news/features/history/blackbird.html"
+    },
+    {
+      "id": "wiki-sr72",
+      "name": "Lockheed Martin SR-72",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_SR-72"
+    },
+    {
+      "id": "ff-sr72",
+      "name": "Hypersonic SR-72 Son of Blackbird Can Be Summed Up in 1 Word",
+      "publisher": "19FortyFive",
+      "url": "https://www.19fortyfive.com/2026/03/hypersonic-sr-72-son-of-blackbird-can-be-summed-up-in-1-word/"
+    },
+    {
+      "id": "nasm-sr71",
+      "name": "Lockheed SR-71 Blackbird",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/lockheed-sr-71-blackbird/nasm_A19920072000"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Lockheed SR-71 Blackbird",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird"
+    },
+    {
+      "name": "NASA Armstrong - SR-71 Blackbird fact sheet (PDF)",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/09/495839main_fs-030_sr-71.pdf"
+    },
+    {
+      "name": "Smithsonian National Air and Space Museum - 'Coming in Hot' (SR-71 feature)",
+      "url": "https://airandspace.si.edu/air-and-space-quarterly/issue-10/sr71-blackbird"
+    },
+    {
+      "name": "Smithsonian NASM - SR-71 collection object",
+      "url": "https://airandspace.si.edu/collection-objects/lockheed-sr-71-blackbird/nasm_A19920008000"
+    },
+    {
+      "name": "National Museum of the US Air Force - SR-71A fact sheet",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196252/lockheed-sr-71a-blackbird/"
+    },
+    {
+      "name": "The Aviationist - Bill Weaver's SR-71 disintegration story",
+      "url": "https://theaviationist.com/2015/03/17/sr-71-mid-air-disintegration/"
+    },
+    {
+      "name": "Roadrunners Internationale - Blackbird crew accounts",
+      "url": "https://www.roadrunnersinternationale.com/weaver_sr71_bailout.html"
+    },
+    {
+      "name": "SR-71.us - 6 March 1990 record flight documentation",
+      "url": "http://www.sr71.us/972record1.htm"
+    },
+    {
+      "name": "NASA Significant Incidents - loss of M-21/D-21, 30 July 1966 (PDF)",
+      "url": "https://sma.nasa.gov/SignificantIncidents/assets/loss-of-m-21-and-d-21-on-30-july-1966-photo-archive-and-data.htm.pdf"
+    },
+    {
+      "name": "FLYING Magazine - Brian Shul obituary",
+      "url": "https://www.flyingmag.com/renowned-aviator-brian-shul-dead-at-75/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and current SR-72 successor status.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Added a survivors section - this type has well-documented preserved/airworthy examples but the field was previously missing, an inconsistency versus similar WWII/Cold War-era entries elsewhere in the database.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "survivors": {
+    "intro": "Around two-thirds of the 32 SR-71s built survive, all now museum static displays following the type's 1998 final retirement. These three include the aircraft that flew the program's very last operational sortie and its only overseas example.",
+    "airframes": [
+      {
+        "serial": "61-7972",
+        "name": null,
+        "location": "Steven F. Udvar-Hazy Center (Smithsonian NASM)",
+        "place": "Chantilly, Virginia, United States",
+        "url": "https://airandspace.si.edu/collection-objects/lockheed-sr-71-blackbird/nasm_A19920072000",
+        "note": "Flew the SR-71 program's final flight on 6 March 1990, setting a Los Angeles-to-Washington D.C. speed record of 1 hour 4 minutes 20 seconds before landing at Dulles and being handed straight to the Smithsonian.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "61-7962",
+        "name": null,
+        "location": "Imperial War Museum Duxford",
+        "place": "Cambridgeshire, United Kingdom",
+        "url": "https://www.iwm.org.uk/history/cold-war/technology/sr-71-blackbird",
+        "note": "The only SR-71 on public display outside the United States.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "61-7951",
+        "name": null,
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "url": "https://www.pimaair.org/",
+        "note": "On static display alongside other Cold War reconnaissance types at one of the largest non-government-funded aviation museums in the US.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "accidentsAndIncidents": [
+    {
+      "date": "1966-01-25",
+      "title": "Fatal inlet-unstart breakup over New Mexico",
+      "summary": "An SR-71 suffered a right-engine inlet malfunction causing an unstart and structural breakup during a test flight over New Mexico. Reconnaissance systems officer Jim Zwayer was killed; the pilot ejected and survived.",
+      "fatalities": 1,
+      "tag": "Mechanical failure",
+      "source": "https://theaviationist.com/2025/06/09/sr-71-blackbird-losses/"
+    },
+    {
+      "date": "1966-07-30",
+      "title": "M-21/D-21 drone collision kills Ray Torick",
+      "tag": "Test accident",
+      "summary": "An M-21 mothership launching a D-21 reconnaissance drone at Mach 3.25 was struck by its own drone seconds after release. Both crew ejected into the Pacific; pilot Bill Park was rescued, but launch control officer Ray Torick drowned when his pressure suit filled with water. Kelly Johnson cancelled the M-21 launch programme on the spot.",
+      "fatalities": 1,
+      "source": "https://sma.nasa.gov/SignificantIncidents/assets/loss-of-m-21-and-d-21-on-30-july-1966-photo-archive-and-data.htm.pdf"
+    },
+    {
+      "date": "1968-10-10",
+      "title": "Takeoff fire at Beale AFB",
+      "summary": "An SR-71 suffered a tire failure during takeoff at Beale Air Force Base that ignited fuel and destroyed the aircraft. The crew escaped.",
+      "fatalities": 0,
+      "tag": "Mechanical failure",
+      "source": "https://theaviationist.com/2025/06/09/sr-71-blackbird-losses/"
+    },
+    {
+      "date": "1970-06-17",
+      "title": "Mid-air collision with a tanker near El Paso",
+      "summary": "An SR-71 collided with its KC-135Q tanker during in-flight refuelling near El Paso, Texas. Both crew ejected safely.",
+      "fatalities": 0,
+      "tag": "Mid-air collision",
+      "source": "https://theaviationist.com/2025/06/09/sr-71-blackbird-losses/"
+    },
+    {
+      "date": "1972-07-20",
+      "title": "Crosswind landing accident at Kadena",
+      "summary": "An SR-71 was destroyed when its landing gear struck the runway during an excessive-crosswind landing at Kadena Air Base, Okinawa.",
+      "fatalities": 0,
+      "tag": "Landing accident",
+      "source": "https://theaviationist.com/2025/06/09/sr-71-blackbird-losses/"
+    },
+    {
+      "date": "1989-04-21",
+      "title": "The last Blackbird lost",
+      "tag": "Engine explosion",
+      "summary": "SR-71A 61-7974 suffered a catastrophic engine explosion shortly after leaving Kadena and came down in the South China Sea near Luzon; both crew ejected and were picked up by Philippine fishermen. It was the twelfth and final Blackbird written off - and, like every other loss, mechanical rather than to enemy fire.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird"
+    }
+  ]
+}

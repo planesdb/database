@@ -1,0 +1,240 @@
+{
+  "name": "KC-46 Pegasus",
+  "fullName": "Boeing KC-46A Pegasus",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Multi-Role Tanker Transport",
+  "tagline": "The KC-46A Pegasus is a twin-engine aerial refuelling tanker and transport built by Boeing on the 767 airframe for the United States Air Force, first flown on 25 September 2015 and delivered from January 2019. It is the first tanker whose boom operator works from a screen in the forward cabin rather than lying in the tail, and the camera system that makes that possible has been the programme's defining problem.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The boom operator sits in the forward cabin and flies the boom by camera - no other tanker has replaced the tail-mounted window with screens",
+    "Boeing bid a fixed-price development contract and had absorbed around $5 billion in losses on the programme by January 2021",
+    "It could not refuel the A-10 at delivery: the boom is built to an international standard needing 1,400 lb of thrust to telescope it, and the A-10 can only generate about 650 lb",
+    "In June 2024 a KC-46 flew a 45-hour non-stop circumnavigation of the globe under Project Magellan, refuelling other aircraft while being refuelled itself",
+    "One airframe carries 207,672 lb of transferable fuel, 65,000 lb of cargo on 18 pallets, up to 114 passengers in a contingency, or 54 aeromedical patients",
+    "The Remote Vision System's depth compression and image distortion has been an open Category 1 deficiency since the first aircraft arrived, and the RVS 2.0 replacement is still being fitted"
+  ],
+  "specifications": {
+    "maxSpeed": {
+      "mph": 570,
+      "text": "495 kn (570 mph / 917 km/h)"
+    },
+    "cruiseSpeed": "530 mph (851 km/h)",
+    "range": {
+      "miles": 7350,
+      "text": "7,350 mi (11,829 km, 6,387 nmi) with in-flight refuelling"
+    },
+    "serviceCeiling": {
+      "ft": 40100,
+      "text": "40,100 ft (12,222 m)"
+    },
+    "wingspan": {
+      "ft": 158,
+      "text": "157 ft 8 in (48.06 m)"
+    },
+    "length": {
+      "ft": 166,
+      "text": "165 ft 6 in (50.44 m)"
+    },
+    "height": {
+      "ft": 52,
+      "text": "52 ft 1 in (15.88 m)"
+    },
+    "weight": "empty: 181,610 lb (82,377 kg); MTOW: 415,000 lb (188,240 kg)",
+    "engines": "Two Pratt & Whitney PW4062 turbofans, 62,000 lbf each",
+    "crew": "3 (two pilots and a boom operator), with permanent accommodation for 15",
+    "capacity": "207,672 lb (94,199 kg) of transferable fuel out of a 212,299 lb total; 65,000 lb (29,484 kg) of cargo on 18 pallets; up to 58 passengers in standard seating or 114 in a contingency; or 54 aeromedical patients - 24 litter and 34 ambulatory - with a five-person medical crew",
+    "firstFlight": {
+      "date": "2015-09-25",
+      "year": 2015
+    },
+    "serviceEntryDate": "2019-01-01",
+    "retiredDate": null,
+    "numberBuilt": 113,
+    "unitCost": {
+      "usd": 287000000,
+      "text": "$287M per-aircraft acquisition cost across the programme, against a March 2015 projection of $43.16B for 179 tankers",
+      "inflationText": null
+    },
+    "combatLosses": "No KC-46 has been lost. Reports that one was damaged or destroyed in the Iranian missile attack on Prince Sultan Air Base in March 2026 were not confirmed - the aircraft US officials named and satellite imagery identified were KC-135s and an E-3G Sentry, and KC-46 presence at the base at the time remains unverified."
+  },
+  "variants": [
+    {
+      "code": "KC-46A",
+      "desc": "The only version in service, and the only one currently planned. It is built on the Boeing 767-2C, a commercial airframe certified separately before military systems are fitted, which is why the aircraft goes through two distinct certification processes. All 113 aircraft built to date are to this standard, with deliveries running to the US Air Force, Japan and Israel."
+    },
+    {
+      "code": "Boeing 767-2C",
+      "desc": "The provisioned commercial airframe underneath the tanker, certified by the FAA in its own right before the refuelling systems, boom, defensive equipment and military avionics are installed. Its first flight slipped from June to November 2014 when wiring separation problems were found - the fault that cost Boeing a $272 million charge - and it preceded the first KC-46A flight by roughly ten months."
+    },
+    {
+      "code": "RVS 2.0",
+      "desc": "Not an airframe variant but the modification that defines the fleet's future. It replaces the original Remote Vision System's cameras and displays with higher-resolution full-colour units intended to fix the depth compression and curvature distortion that have made boom operations harder than they should be. Every delivered aircraft is expected to be retrofitted, and new-build aircraft to receive it on the line."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "107 delivered as of July 2026, 169 under contract and 263 planned",
+      "homeBase": "McConnell AFB, Kansas; Altus AFB for training; Seymour Johnson AFB, North Carolina, plus Reserve and Air National Guard units"
+    },
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "Tanker Operator",
+      "status": "In Service",
+      "since": "2021",
+      "fleetSize": "6 delivered, with 9 more authorised for purchase in September 2024",
+      "homeBase": "Japan Air Self-Defense Force tanker unit - crew training began in June 2021 and the first aircraft arrived in November 2021"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Tanker Operator",
+      "status": "In Service",
+      "since": "2026",
+      "fleetSize": "2 delivered as of August 2026; Israel approved up to 8 under a $2.4B Foreign Military Sale agreed in March 2020, though current planning points to six",
+      "homeBase": "Nevatim Air Base - Squadron 46. The first aircraft, named Gideon, arrived on 27 May 2026"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "K46",
+    "howToFind": "KC-46s transmit reasonably consistently and are among the easier US military aircraft to catch. Filter for type K46 and watch McConnell AFB in Kansas, which holds the largest concentration, and Altus AFB in Oklahoma where the training unit flies circuits most weekdays. On the map it is easy to tell from a KC-135 without looking at the label, because it has two engines rather than four."
+  },
+  "lastUpdated": "2026-09-10",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, Military Times and The Aviationist.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Pegasus",
+    "KC46",
+    "KC-46A",
+    "767-2C",
+    "Tanker"
+  ],
+  "article": {
+    "overview": [
+      "The KC-46A Pegasus is a twin-engine aerial refuelling tanker and transport built by Boeing for the United States Air Force on the 767 airframe. It first flew on 25 September 2015, was delivered from January 2019, and 113 have been built as of August 2026 against a US Air Force programme of record of 263 aircraft. {{ref:wiki-kc46}}",
+      "It is the first tanker to move the boom operator from a prone position in the tail to a console in the forward cabin, flying the boom by camera. That single design decision has driven most of the programme's difficulty: the Remote Vision System behind it has been an open Category 1 deficiency since the first aircraft was handed over, and Boeing has absorbed around $5 billion in losses on a contract it bid at a fixed price. {{ref:wiki-kc46}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the KC-X Competition",
+        "paragraphs": [
+          "The US Air Force opened the KC-X competition in January 2007 for 179 tankers worth roughly $40 billion, with Boeing offering a 767-based aircraft against an Airbus A330 MRTT fielded by Northrop Grumman as the KC-30. The Air Force chose the KC-30 in February 2008. Boeing protested to the Government Accountability Office, and in June 2008 the GAO upheld the protest after the service admitted flaws in its own evaluation. Defense Secretary Robert Gates reopened bidding in July, and by September the Department of Defense had cancelled the solicitation entirely. {{ref:wiki-kc46}}",
+          "The competition restarted in September 2009 with the requirement cut from 800 criteria to 373. Boeing submitted a 767 derivative it branded the NewGen Tanker in July 2010, with an improved boom and 787-derived cockpit displays, revised the bid in February 2011, and won that month. The development contract called for 18 operational tankers by 2017 - a date the programme missed by two years for the first delivery alone. {{ref:wiki-kc46}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Underneath the tanker is the Boeing 767-2C, a commercial airframe certified by the FAA in its own right before military equipment goes on, which is why the aircraft passes through two separate certification processes. Two PW4062 turbofans of 62,000 lbf each replace the KC-135's four engines. The aircraft carries 207,672 lb of transferable fuel out of a 212,299 lb total, refuels receivers by boom or by drogue, and can itself take on fuel in flight - something the KC-135 cannot do. {{ref:wiki-kc46}}",
+          "It is a genuine multi-role aircraft rather than a tanker with a cargo door. The same airframe takes 65,000 lb of cargo on 18 pallets, up to 58 passengers or 114 in a contingency, or 54 aeromedical patients across 24 litters and 34 ambulatory seats with a five-person medical crew. Basic flight crew is three, with permanent accommodation for fifteen. {{ref:wiki-kc46}}"
+        ]
+      },
+      {
+        "heading": "The Remote Vision System",
+        "paragraphs": [
+          "On every previous American boom tanker the operator lay prone in the tail and watched the receiving aircraft through a window. The KC-46 replaces that with the Remote Vision System: multispectral cameras feeding three screens plus a rear-facing central display that can present a 2D or 3D image, with the operator sitting upright in the forward cabin. The reasoning is sound - better crew comfort, no pressurised tail compartment, and a system that can in principle see in conditions the human eye cannot. {{ref:wiki-kc46}}",
+          "In practice the imagery has suffered depth compression and curvature distortion that make judging the closing rate and position of a receiver harder than it is through a window, and glare under certain sun angles has produced further distortion. Both were Category 1 deficiencies - the most serious classification - at the January 2019 delivery, and they have driven the aircraft's whole operational clearance timetable. The fix, RVS 2.0, replaces the cameras and displays with higher-resolution full-colour units to restore depth perception, and is still being worked through the fleet. {{ref:wiki-kc46}}"
+        ]
+      },
+      {
+        "heading": "Deficiencies, Delays & Boeing's Losses",
+        "paragraphs": [
+          "The RVS is the best known problem but not the only one. In July 2014 Boeing took a $272 million charge after finding that 5 to 10 percent of wiring bundles lacked the separation or shielding the Air Force required for redundant mission systems, delaying the 767-2C's first flight by five months. A faulty integrated fuel system cost a further $835 million in July 2015. In September 2019 the fleet was barred from carrying cargo or passengers after floor cargo locks were found unlocking in flight, a deficiency closed on retrofitted aircraft by that December. In March 2020 chronic fuel leaks between the primary and secondary protection barriers were raised to Category 1 with no root cause identified. {{ref:wiki-kc46}}",
+          "A separate problem was mechanical rather than electronic. The boom is built to an international standard requiring about 1,400 lb of axial force to telescope it, which prevents inadvertent disconnects with fast jets - but the A-10 Thunderbolt II, being slow, can only generate around 650 lb, so it physically could not push the boom into position. Boeing addressed it with a pressure-flow valve. Cumulatively, Boeing's losses on the fixed-price contract reached about $5 billion by January 2021. {{ref:wiki-kc46}}"
+        ]
+      },
+      {
+        "heading": "Into Service",
+        "paragraphs": [
+          "The first aircraft was delivered in January 2019 with two outstanding technical issues and money withheld. Clearance came in stages rather than at once: limited operational use within the United States in early 2021, initially for the B-52, F-15, F-16 and F/A-18, then general operational use in September 2022 after a 15-month evaluation. Full combat readiness, originally expected in 2023, moved with the deficiency work. {{ref:wiki-kc46}}",
+          "The aircraft has since done the things the programme promised. In June 2024 a KC-46 completed a 45-hour non-stop circumnavigation under Project Magellan, refuelling other aircraft while being refuelled itself - a demonstration only possible because the type can take fuel as well as give it. In February 2026 KC-46s deployed to Israel and flew refuelling support during Operation Epic Fury. {{ref:wiki-kc46}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "As of July 2026 the US Air Force had 107 aircraft with 169 under contract against a planned 263, flying from McConnell, Altus and Seymour Johnson plus Reserve and Air National Guard units. Japan has six with nine more authorised in September 2024. Israel's first aircraft, named Gideon, reached Nevatim on 27 May 2026 and entered service with Squadron 46. Qatar received State Department approval in August 2026 for a possible four-aircraft sale worth $4.5 billion. {{ref:wiki-kc46}} {{ref:armyrec-gideon}}",
+          "The export picture is not uniformly positive. Italy cancelled a planned six-aircraft purchase in July 2024 in favour of A330 MRTTs, the same aircraft that beat the Boeing bid in 2008 before the decision was overturned, and which France and Singapore chose to replace their KC-135s. The KC-46 was always intended to replace only part of the American tanker fleet - with 396 KC-135s still flying, the two types will be working alongside each other for a long time. {{ref:wiki-kc46}} {{ref:militarytimes-2026}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-kc46",
+      "name": "Boeing KC-46 Pegasus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus"
+    },
+    {
+      "id": "militarytimes-2026",
+      "name": "Iran missile strike damages five KC-135 tankers in Saudi Arabia, officials say",
+      "publisher": "Military Times",
+      "url": "https://www.militarytimes.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
+    },
+    {
+      "id": "armyrec-gideon",
+      "name": "Israel takes delivery of first Boeing KC-46 tanker",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/israel-boeing-kc46-gideon-tanker-delivery-nevatim"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing KC-46 Pegasus",
+      "url": "https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus"
+    },
+    {
+      "name": "Iranian Attack on Prince Sultan Air Base Reportedly Struck U.S. KC-135s, E-3 Sentry",
+      "url": "https://theaviationist.com/2026/03/27/iranian-attack-on-prince-sultan-air-base/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2019-09-01",
+      "title": "Cargo and passenger flights suspended over floor lock failures",
+      "tag": "Operational restriction",
+      "summary": "The US Air Force barred the KC-46 from carrying cargo or passengers after floor cargo locks were found unlocking in flight, allowing pallets to shift. A fix was approved in November 2019 and the Category 1 deficiency was closed on retrofitted aircraft by 20 December.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus"
+    },
+    {
+      "date": "2020-03-01",
+      "title": "Fuel leaks raised to a Category 1 deficiency",
+      "tag": "Category 1 deficiency",
+      "summary": "Chronic fuel leaks were upgraded to Category 1 status after crews found fuel between the primary and secondary protection barriers. No root cause had been identified at the time of the announcement.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus"
+    },
+    {
+      "date": "2024-06-01",
+      "title": "Project Magellan round-the-world flight",
+      "tag": "Record flight",
+      "summary": "A KC-46 completed a 45-hour non-stop circumnavigation of the globe, refuelling other aircraft during the flight while being refuelled itself - a demonstration of the aircraft's ability to both give and receive fuel.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "First combat deployment, Operation Epic Fury",
+      "tag": "Operational deployment",
+      "summary": "KC-46 tankers deployed to Israel and provided aerial refuelling during Operation Epic Fury. Reports that a KC-46 was damaged or destroyed in the subsequent Iranian missile attacks on Prince Sultan Air Base have not been confirmed - the tankers identified by US officials and in satellite imagery were KC-135s.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus"
+    }
+  ]
+}

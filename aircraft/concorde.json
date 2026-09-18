@@ -1,0 +1,330 @@
+{
+  "name": "Concorde",
+  "fullName": "Aérospatiale/BAC Concorde",
+  "manufacturer": "Aérospatiale / British Aircraft Corporation",
+  "originCountry": {
+    "name": "Multinational (Europe)",
+    "code": "eu"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Supersonic Airliner",
+  "tagline": "The Anglo-French airliner that flew fare-paying passengers across the Atlantic at twice the speed of sound. Cruising at Mach 2.04 at up to 60,000 ft, it cut the London/Paris-to-New York flight time to well under 3.5 hours and remains, more than two decades after retirement, the only supersonic airliner to have achieved sustained commercial success.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Born from a 1962 Anglo-French treaty deliberately structured with no exit clause to prevent either government from abandoning the enormously expensive program, Concorde first flew on 2 March 1969 and entered scheduled commercial service simultaneously with British Airways and Air France on 21 January 1976, flying London-Bahrain and Paris-Rio routes before US regulatory approval opened transatlantic services to New York and Washington in 1977. Only 20 aircraft were ever built (14 of which entered commercial airline service), as the anticipated global market for supersonic travel never materialised - sonic booms restricted the type to purely overwater or limited overland routes, and its punishing fuel consumption made tickets extraordinarily expensive, positioning it as an exclusive premium product for wealthy business travellers and celebrities rather than the mass-market future once envisioned. Concorde operated a safe and reliable service for 24 years until 25 July 2000, when Air France Flight 4590 crashed on takeoff from Paris after a piece of metal debris on the runway (dropped by a preceding Continental Airlines DC-10) burst a tyre, sending rubber fragments into a fuel tank and triggering a fire; all 109 people on board and 4 on the ground were killed, the type's only fatal accident. Concorde returned to service in November 2001 after safety modifications, but a combination of the post-9/11 downturn in premium air travel, rising maintenance costs on an ageing fleet, and Airbus (successor to Aérospatiale) declining to continue supporting the aircraft led British Airways and Air France to jointly retire the fleet in October 2003, ending the era of commercial supersonic passenger flight.\n\nConcorde's daily reality was as remarkable as its statistics: crossing the Atlantic in under three and a half hours at 60,000 ft, passengers could see the curvature of the Earth while drinking champagne, and westbound flights landed at a local time earlier than they had departed - 'arrive before you leave' was a British Airways advertising line, not a joke. The airframe stretched by up to ten inches in flight from skin heating, and a gap that opened beside the flight engineer's panel at Mach 2 famously has a BA engineer's cap wedged in it to this day, placed there on the type's final flight.\n\nThe dream ended in stages: the Paris crash of July 2000 shattered its perfect safety record, the post-9/11 travel slump gutted its premium clientele, and Airbus withdrew maintenance support. On 24 October 2003 the last commercial flights landed, and on 26 November 2003 Concorde flew for the final time, into Filton where the story had begun. No supersonic passenger aircraft has flown commercially since - though a new generation of startups keeps promising a successor.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1354,
+      "text": "1,177 kn (1,354 mph / 2,179 km/h)"
+    },
+    "cruiseSpeed": "1,354 mph (2,179 km/h, Mach 2.04) - Concorde cruised at essentially its maximum speed throughout the supersonic phase of flight",
+    "range": {
+      "miles": 4488,
+      "text": "4,488 mi (7,223 km)"
+    },
+    "serviceCeiling": {
+      "ft": 60000,
+      "text": "60,000 ft (18,300 m)"
+    },
+    "wingspan": {
+      "ft": 84,
+      "text": "84 ft 0 in (25.6 m)"
+    },
+    "length": {
+      "ft": 202.33,
+      "text": "202 ft 4 in (61.66 m)"
+    },
+    "height": {
+      "ft": 40.25,
+      "text": "40 ft 3 in (12.2 m)"
+    },
+    "weight": "empty: 173,500 lb (78,700 kg); MTOW: 408,000 lb (185,065 kg)",
+    "engines": "4 x Rolls-Royce/Snecma Olympus 593 afterburning turbojets, 32,000 lbf thrust each with reheat",
+    "crew": "3 (2 pilots, 1 flight engineer) plus 6 cabin crew",
+    "capacity": "100 passengers in a single premium class configuration",
+    "firstFlight": {
+      "date": "1969-03-02",
+      "year": 1969
+    },
+    "serviceEntryDate": "1976-01-21",
+    "retiredDate": "2003-10-24",
+    "numberBuilt": 20,
+    "unitCost": {
+      "usd": 350000000,
+      "text": "~$350M (2026 dollars; roughly £23M at 1977 delivery) - development costs, split between the UK and French governments, ran to roughly £1.3 billion (1970s prices)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Concorde 001/002 (prototypes)",
+      "desc": "French- and British-assembled flight-test prototypes that never entered airline service."
+    },
+    {
+      "code": "Concorde 100 series",
+      "desc": "Standard production version delivered to British Airways and Air France for commercial service."
+    },
+    {
+      "code": "Concorde 102 series",
+      "desc": "Final production standard with minor aerodynamic and range refinements."
+    }
+  ],
+  "operators": [
+    {
+      "name": "British Airways",
+      "role": "Primary Commercial Operator",
+      "status": "Retired",
+      "since": "1976",
+      "fleetSize": "7",
+      "homeBase": "London Heathrow Airport",
+      "logo": "british-airways.png"
+    },
+    {
+      "name": "Air France",
+      "role": "Primary Commercial Operator",
+      "status": "Retired",
+      "since": "1976",
+      "fleetSize": "7",
+      "homeBase": "Paris Charles de Gaulle Airport",
+      "logo": "air-france.jpeg"
+    },
+    {
+      "name": "Aérospatiale/BAC (manufacturer test fleet)",
+      "role": "Flight Test & Development Operator",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "6 (prototypes and pre-production aircraft)",
+      "homeBase": "Toulouse, France and Filton, UK"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "CONC",
+    "howToFind": "All Concordes are permanently grounded and displayed in museums including the Smithsonian's Udvar-Hazy Center, Intrepid Museum (New York), Museum of Flight (Seattle), Aerospace Bristol (UK) and the Musée de l'Air (France); none remain flyable or trackable."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "AeroTime",
+      "url": "https://www.aerotime.aero/feed",
+      "topicTag": "Concorde"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "America's Concorde successor is now two years from production",
+      "source": "Luxurylaunches",
+      "date": "2026-04-21",
+      "category": "Successor",
+      "url": "https://luxurylaunches.com/travel/boom-supersonic-to-begin-production-in-two-years-04212026.php"
+    }
+  ],
+  "tags": [
+    "concorde",
+    "supersonic airliner",
+    "british airways",
+    "air france",
+    "mach 2",
+    "sonic boom",
+    "anglo-french",
+    "sst",
+    "olympus engine"
+  ],
+  "quickFacts": [
+    "Concorde cruised at Mach 2.04 - faster than a rifle bullet - at 60,000 ft, where passengers could see the Earth's curvature.",
+    "Flying west, it outran the sun: passengers left London at 10:30am and landed in New York at 9:25am the 'same' morning.",
+    "The fuselage stretched up to 10 inches in flight from heat - on the last flight, engineers wedged a cap into the gap that opens by the flight engineer's station, and it's still there.",
+    "Its fastest Atlantic crossing was 2 hours 52 minutes 59 seconds (New York to London, February 1996).",
+    "Only 14 ever entered service, and every one that did is preserved today - none was scrapped.",
+    "It needed reheat (afterburner) just to get through Mach 1 - the only airliner ever to use one.",
+    "Concorde's delta wing generated so much lift at high angles that it had no flaps, no slats and no spoilers at all."
+  ],
+  "article": {
+    "overview": [
+      "Concorde is a supersonic passenger airliner developed jointly by Britain and France under a 1962 treaty, and the only supersonic airliner to enter sustained commercial service. It first flew in 1969, entered service in 1976, and cruised at Mach 2.04 - twice the speed of sound.{{ref:wiki-concorde}}",
+      "Only twenty were built, fourteen of them for airline service split evenly between British Airways and Air France; all fourteen survive today in museums. Concorde was retired in 2003 after the only fatal accident in its history, the July 2000 crash of Air France Flight 4590, and rising costs following the September 2001 attacks.{{ref:wiki-concorde}}{{ref:wiki-af4590}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "In the late 1950s, Britain and France each concluded that the future of long-haul aviation was supersonic - and each discovered the development bill was beyond one country. The solution was unprecedented: the Anglo-French treaty of 29 November 1962, an international agreement (not a mere contract) binding both governments to build a supersonic transport together, with no exit clause. That clause would later keep the project alive through every attempt to kill it.{{ref:wiki-concorde}}",
+          "Even the name was diplomacy. 'Concorde' - harmony, in French spelling with the final 'e' - caused a minor British political row until minister Tony Benn declared the 'e' stood for excellence, England, Europe and the entente. The name fit an aircraft that was genuinely half-British, half-French: airframes assembled in both Toulouse and Filton, engines by Rolls-Royce and Snecma together.{{ref:wiki-concorde}}",
+          "The competition folded early. America's Boeing 2707 SST was cancelled in 1971 before a prototype flew; the Soviet Tu-144 beat Concorde into the air by two months but crashed at the 1973 Paris Air Show and never sustained passenger service{{ref:wiki-tu144}}. Concorde would carry the supersonic age alone.{{ref:wiki-concorde}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Prototype 001 flew from Toulouse on 2 March 1969 in the hands of André Turcat; the British 002 followed from Filton five weeks later. Mach 1 fell that October, Mach 2 in November 1970, and the flight-test program grew into one of the most exhaustive ever mounted - some 5,000 hours, more than any airliner before it, much of it supersonic.{{ref:wiki-concorde}}",
+          "Then the orders evaporated. At its peak the order book held options from Pan Am, TWA, United and a dozen others - over 70 aircraft. The 1973 oil crisis quadrupled fuel prices for an aircraft that burned a ton of fuel per seat crossing the Atlantic, and sonic-boom bans closed almost every overland route. One by one the options lapsed, until only the two state airlines that couldn't refuse - British Airways and Air France - remained.{{ref:wiki-concorde}}",
+          "Twenty airframes were built: six prototypes and development aircraft, and fourteen production machines that entered service, seven per airline. The production lines closed in 1979, and every government involved wrote off the development cost as the price of the attempt.{{ref:wiki-concorde}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Concorde cruised at Mach 2.04 - not in a dash, but for hours at a stretch, which no combat aircraft of its day could match. The slender ogival delta wing generated the vortex lift that made low-speed flight possible without flaps or slats; the price was a nose-high landing attitude so extreme the entire nose section drooped hydraulically so the pilots could see the runway.{{ref:wiki-concorde}}",
+          "Four Rolls-Royce/Snecma Olympus 593 turbojets - descendants of the Vulcan bomber's engines - gave it the extraordinary ability to supercruise, though reheat was needed to punch through the transonic drag rise. The intakes were the secret masterpiece: computer-controlled ramps slowed intake air from Mach 2 to subsonic in the space of a few metres, and contributed most of the thrust at cruise.{{ref:wiki-concorde}}",
+          "Sustained Mach 2 heated the skin past 100°C, stretching the airframe by up to ten inches in flight; fuel was pumped between trim tanks to track the shifting centre of pressure. The cabin, for all the glamour, was narrow and loud - and nobody who flew in it much cared.{{ref:heritage-concorde}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Commercial service began with choreographed simultaneity on 21 January 1976: British Airways to Bahrain and Air France to Rio de Janeiro{{ref:ba-concorde}}, departing at the same moment. The transatlantic routes that defined the aircraft followed once a bruising U.S. legal fight over noise ended - Washington in 1976, New York in late 1977.{{ref:wiki-concorde}}",
+          "For a generation, Concorde was less an airliner than a private club at Mach 2: bankers making day-trips to Wall Street, celebrities, royalty, and - after BA repriced the product in the 1980s - a genuinely profitable niche flagship. Each airframe spent more time supersonic than every other aircraft in history combined, crossing the Atlantic in around three and a half hours, with the 1996 record standing at 2 hours 52 minutes 59 seconds.{{ref:wiki-concorde}}",
+          "It was also, for 24 years, statistically the safest airliner flying: no fatal accidents from 1976 until the summer of 2000.{{ref:wiki-af4590}}"
+        ]
+      },
+      {
+        "heading": "Retirement",
+        "paragraphs": [
+          "On 25 July 2000, Air France flight 4590 ran over a titanium strip shed by another aircraft on the Gonesse runway; the burst tyre hurled debris into a fuel tank, and the burning Concorde crashed into a hotel, killing all 109 aboard and four on the ground. The type's only fatal accident grounded the fleet for over a year while tanks were armoured with Kevlar and tyres redesigned.{{ref:wiki-af4590}}",
+          "Service resumed on 7 November 2001 - into the aviation depression that followed 9/11. Premium traffic collapsed, maintenance costs climbed on a 1960s airframe, and when Airbus (successor to the original builders) withdrew type support, the end was set. Air France stopped flying in May 2003; British Airways' final scheduled service landed at Heathrow on 24 October 2003, three Concordes arriving in sequence as crowds lined every fence.{{ref:wiki-concorde}}",
+          "The very last flight of any Concorde, on 26 November 2003, was a short ferry home: G-BOAF to Filton, the field where the British aircraft had been built - and where it remains, the centrepiece of a museum named Aerospace Bristol.{{ref:heritage-concorde}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "No paying passenger has flown supersonic since. Every production Concorde that entered service survives in a museum on either side of the Atlantic - Heathrow, Manchester, Edinburgh, Filton, Toulouse, Paris, New York, Seattle, Barbados among them - which is a retirement without parallel in commercial aviation.{{ref:heritage-concorde}}",
+          "The successor race has finally, cautiously restarted. Boom Supersonic's XB-1 demonstrator became the first independently developed civil jet to break the sound barrier in January 2025, and the U.S. moved in late 2025 to end its half-century ban on overland supersonic flight for boomless designs. Boom's 64-80 seat, Mach 1.7 Overture airliner is targeted at service around the end of the decade, with around 130 orders and pre-orders from United, American and Japan Airlines.{{ref:boom-supersonic}}{{ref:sf-supersonic}}",
+          "Whether Overture flies or slips like every paper SST before it, the benchmark hasn't moved since 2003: a delta-winged machine, drawn in the 1960s, that crossed the Atlantic faster than anything a ticket has bought since.{{ref:wiki-concorde}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-concorde",
+      "name": "Concorde",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Concorde"
+    },
+    {
+      "id": "wiki-af4590",
+      "name": "Air France Flight 4590",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_France_Flight_4590"
+    },
+    {
+      "id": "heritage-concorde",
+      "name": "Heritage Concorde - technical and preservation reference",
+      "publisher": "heritageconcorde.com",
+      "url": "https://www.heritageconcorde.com/"
+    },
+    {
+      "id": "ba-concorde",
+      "name": "Celebrating Concorde",
+      "publisher": "British Airways",
+      "url": "https://www.britishairways.com/en-gb/information/about-ba/history-and-heritage/celebrating-concorde"
+    },
+    {
+      "id": "boom-supersonic",
+      "name": "Boom Achieves Supersonic Flight",
+      "publisher": "Boom Supersonic",
+      "url": "https://boomsupersonic.com/flyby/boom-achieves-supersonic-flight"
+    },
+    {
+      "id": "sf-supersonic",
+      "name": "Why Supersonic Aircraft Are Going Back Into Production",
+      "publisher": "Simple Flying",
+      "url": "https://simpleflying.com/supersonic-aircraft-back-production/"
+    },
+    {
+      "id": "wiki-tu144",
+      "name": "Tupolev Tu-144",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Concorde",
+      "url": "https://en.wikipedia.org/wiki/Concorde"
+    },
+    {
+      "name": "British Airways - Concorde heritage page",
+      "url": "https://www.britishairways.com/en-gb/information/about-ba/history-and-heritage/concorde"
+    },
+    {
+      "name": "Smithsonian National Air and Space Museum - Concorde",
+      "url": "https://airandspace.si.edu/collection-objects/aerospatiale-bac-concorde-102/nasm_A20030421000"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and the current state of the supersonic revival (Boom XB-1/Overture).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Reformatted maxSpeedDisplay to the house style (knots-first, no Mach number, no altitude/flight-regime clause) - was previously mph-first with Mach and altitude commentary baked in, unlike every other entry in the database.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed hero photo credit mismatch - heroCredit was crediting a different, no-longer-displayed photo's photographer. Verified the correct credit (Mike Freer - Touchdown-aviation) from this entry's own gallery caption data and updated the media record to match.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1979-06-14",
+      "title": "Tyre burst damages fuel tanks at Washington Dulles",
+      "tag": "Tyre failure",
+      "summary": "Air France Concorde F-BVFC blew two tyres on the takeoff roll at Washington Dulles; the debris punctured fuel tanks and severed hydraulic lines, and the aircraft returned leaking fuel at around 4 kg a second. Together with a second Dulles tyre failure a month later it prompted an NTSB warning that went unheeded until 2000.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Concorde"
+    },
+    {
+      "date": "1979-07-14",
+      "title": "Tyre failure destroys an engine out of Washington Dulles",
+      "tag": "Tyre failure",
+      "summary": "Another Air France Concorde, F-BVFD, suffered a tyre failure on takeoff from Dulles; fragments were ingested by number two engine, which failed completely as the aircraft climbed through 29,000 ft. It diverted to New York with no injuries.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Concorde"
+    },
+    {
+      "date": "1989-04-12",
+      "title": "In-flight rudder separation en route to Sydney",
+      "summary": "A British Airways Concorde lost the upper portion of its rudder while cruising at Mach 1.7, caused by moisture ingress through improperly sealed rivets from prior maintenance. The crew felt no handling abnormality and completed a normal landing in Sydney; the damage was discovered only afterward.",
+      "fatalities": 0,
+      "tag": "Structural failure (non-fatal)",
+      "source": "https://simpleflying.com/concorde-lost-rudder/"
+    },
+    {
+      "date": "1992-03-21",
+      "title": "Second in-flight rudder separation, London to New York",
+      "tag": "Structural failure (non-fatal)",
+      "summary": "British Airways Flight 001, G-BOAB, lost most of its upper rudder while cruising at Mach 2. Repair materials that had seeped into the rudder structure had weakened the bonded joints. The aircraft landed normally in New York; further partial rudder and elevon separations followed through 2003.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Concorde"
+    },
+    {
+      "date": "2000-07-25",
+      "title": "Air France Flight 4590 crash near Gonesse",
+      "summary": "A Concorde struck titanium debris on the takeoff runway at Paris-Charles de Gaulle, bursting a tire whose fragments ruptured a fuel tank and ignited a fire that disabled the engines; the aircraft crashed into a hotel in Gonesse shortly after takeoff, killing all 109 aboard and 4 on the ground. The crash led directly to the type's grounding and retirement in 2003.",
+      "fatalities": 113,
+      "tag": "Fatal crash / fuel tank fire",
+      "source": "https://en.wikipedia.org/wiki/Air_France_Flight_4590"
+    }
+  ]
+}

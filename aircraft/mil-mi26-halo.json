@@ -1,0 +1,420 @@
+{
+  "name": "Mi-26 Halo",
+  "fullName": "Mil Mi-26 (NATO: Halo)",
+  "manufacturer": "Rostvertol (Mil Moscow Helicopter Plant)",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters",
+    "cargo"
+  ],
+  "role": "Heavy-Lift Transport Helicopter",
+  "tagline": "The largest helicopter ever to reach serial production, designed by the Mil bureau to move 20 tonnes of armoured vehicles and missile equipment into places fixed-wing transports cannot reach. It has been in production since 1980, serves with around a dozen air arms and civil operators, and still holds the world record for the greatest mass lifted by a helicopter.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "It was the first production helicopter in the world with a single eight-blade main rotor",
+    "Its tail rotor alone has roughly the same diameter and thrust as the entire main rotor of an MD Helicopters MD 500",
+    "It still holds the FAI record for the greatest mass lifted by a helicopter to 2,000 m - 56,768.8 kg, set on 3 February 1982 and unbeaten since",
+    "Thirty were used at Chernobyl in 1986 to take radiation measurements and drop insulating material onto the ruined No. 4 reactor",
+    "After lifting a 23-tonne block of frozen soil containing a preserved woolly mammoth out of the Siberian tundra in 1999, the aircraft had to go back to the factory to be checked for airframe and rotor warping",
+    "The deadliest helicopter accident in history involved an Mi-26: 127 of 147 people aboard died at Khankala in 2002 after it was hit by a missile while carrying almost twice its design troop load"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the baseline Mi-26 / Mi-26T as published by Jane's and Russian Helicopters. The Mi-26T2 and T2V differ mainly in avionics and crew size rather than in performance.",
+    "maxSpeed": {
+      "mph": 183,
+      "text": "159 kn (183 mph / 295 km/h)"
+    },
+    "cruiseSpeed": "158 mph (255 km/h)",
+    "range": {
+      "miles": 310,
+      "text": "310 mi (500 km, 270 nmi) carrying 17,000 lb (7,700 kg) of cargo; 1,193 mi (1,920 km) ferry range with auxiliary tanks"
+    },
+    "serviceCeiling": {
+      "ft": 15100,
+      "text": "15,100 ft (4,600 m)"
+    },
+    "hoverCeiling": "OGE: 5,000 ft (1,524 m) at maximum gross weight",
+    "mainRotorDiameter": {
+      "ft": 105,
+      "text": "105 ft 0 in (32.0 m)"
+    },
+    "tailRotorDiameter": {
+      "ft": 24.9,
+      "text": "24 ft 11 in (7.6 m)"
+    },
+    "length": {
+      "ft": 109.9,
+      "text": "109 ft 11 in (33.5 m) fuselage; 131 ft 4 in (40.0 m) rotors turning"
+    },
+    "height": {
+      "ft": 26.75,
+      "text": "26 ft 9 in (8.15 m)"
+    },
+    "weight": "empty: 62,170 lb (28,200 kg); MTOW: 123,459 lb (56,000 kg)",
+    "rotorBlades": "8 main, 5 tail",
+    "engines": "2 x ZMKB Progress (Lotarev) D-136 turboshafts, 11,400 shp (8,500 kW) each, with a load-sharing system that allows flight on one engine depending on mission weight",
+    "crew": "5 (2 pilots, navigator, flight engineer, flight technician)",
+    "capacity": "90 troops, or 60 stretcher cases, or 44,000 lb (20,000 kg) of cargo in a hold 39 ft 4 in (12 m) long, 10 ft 10 in (3.3 m) wide and up to 10 ft 6 in (3.2 m) high",
+    "externalLoad": "44,000 lb (20,000 kg) external sling load - the same figure as its internal payload",
+    "firstFlight": {
+      "date": "1977-12-14",
+      "year": 1977
+    },
+    "serviceEntryDate": "1983",
+    "retiredDate": null,
+    "numberBuilt": 300,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Rostvertol has never published a list price, and Mi-26 export deals are bundled with other helicopter types, spares and overhaul work rather than broken out per aircraft",
+      "inflationText": null
+    },
+    "combatLosses": "Two documented shoot-downs. A Russian Air Force Mi-26 was brought down by a 9K38 Igla missile at Khankala, Chechnya on 19 August 2002, killing 127 of the 147 people aboard. A Moldovan-registered civil Mi-26 flying a NATO-contracted humanitarian mission was shot down in Helmand province, Afghanistan in July 2009, killing its six Ukrainian crew."
+  },
+  "variants": [
+    {
+      "code": "Mi-26 / Mi-26T",
+      "desc": "The two baseline versions. The Mi-26 is the military cargo and troop transport that entered service in 1983, NATO reporting name Halo-A. The Mi-26T, in production from 1985, is the civil freight version and became the most widely exported model, forming the basis of the flying-crane, firefighting and medical conversions below. Between them they account for the great majority of the 300-plus airframes built."
+    },
+    {
+      "code": "Mi-26S",
+      "desc": "A disaster-response conversion developed at speed during the Chernobyl containment effort in 1986. It carried a tank of decontaminating liquid and an underbelly spraying rig, and was fitted with a cabin filter system and protective screens so crews could work in close proximity to the ruined reactor while delivering construction materials into the most heavily contaminated areas."
+    },
+    {
+      "code": "Mi-26TS / TM / TP / MS / P",
+      "desc": "The civil mission conversions of the Mi-26T. The TS (marketed as TC) is a cargo transport; the TM is a flying crane with an under-nose gondola for a dedicated crane operator; the TP is a firefighter with a 15,000-litre internal retardant tank; the MS is a medical version taking up to 60 stretcher cases or fitted out as an intensive-care unit or field hospital; and the P is a 63-seat passenger version, with the PK a flying-crane derivative of it."
+    },
+    {
+      "code": "Mi-26T2",
+      "desc": "An improved civil Mi-26T fitted with the BREO-26 airborne electronics suite, which allows day, night and poor-weather operation and cuts the flight crew requirement. Serial production began on 22 May 2015 with Algeria as launch export customer, and Jordan took delivery of its first aircraft in January 2018."
+    },
+    {
+      "code": "Mi-26T2V",
+      "desc": "The current military modernisation for the Russian armed forces, first flown in August 2018 and in delivery since at least 2023. It adds the NPK90-2V avionics suite, which can fly a route automatically, the Vitebsk airborne defence complex against infrared-guided missiles, anti-blast crew seats, new navigation and satellite communications, and multifunction cockpit displays compatible with night-vision goggles."
+    },
+    {
+      "code": "Mi-26A / Mi-26M",
+      "desc": "Two upgrade attempts that never reached production. The Mi-26A of 1985 introduced a new flight and navigation system and flew, but was not ordered. The Mi-26M proposed re-engining the aircraft with ZMKB Progress D-127 turboshafts for better hot-and-high performance and payload, and likewise went no further than proposal stage."
+    },
+    {
+      "code": "Mi-27",
+      "desc": "A proposed airborne command post version, of which two prototypes were built in 1988. It carried foldable antennas for use both in flight and on the ground. The programme did not proceed, and the designation was later reused for an unrelated Mil attack helicopter proposal."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Russian Aerospace Forces",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1992",
+      "fleetSize": "~30-45 (estimates differ)",
+      "homeBase": "Army aviation regiments across all four military districts"
+    },
+    {
+      "name": "Russian Ministry of Emergency Situations",
+      "role": "Disaster Response Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "Small Mi-26T fleet; figure not published",
+      "homeBase": "Zhukovsky, Russia"
+    },
+    {
+      "name": "Border Service of Russia",
+      "role": "Government Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "Figure not published",
+      "homeBase": "Russia"
+    },
+    {
+      "name": "UTair Aviation",
+      "role": "Civil Heavy-Lift Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "Largest Russian civil fleet; figure not published",
+      "homeBase": "Surgut, Russia"
+    },
+    {
+      "name": "Algerian Air Force",
+      "role": "Largest Export Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "14",
+      "homeBase": "Algeria"
+    },
+    {
+      "name": "Royal Jordanian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "~4 Mi-26T2",
+      "homeBase": "Jordan"
+    },
+    {
+      "name": "People's Liberation Army Ground Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "Figure not published",
+      "homeBase": "China"
+    },
+    {
+      "name": "China Flying Dragon Aviation",
+      "role": "Civil Operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "Figure not published",
+      "homeBase": "Harbin, China"
+    },
+    {
+      "name": "Royal Cambodian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "Small number, shared with the Army",
+      "homeBase": "Cambodia"
+    },
+    {
+      "name": "Venezuelan Army",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "3 reported",
+      "homeBase": "Venezuela"
+    },
+    {
+      "name": "Other air arms worldwide",
+      "role": "Small-Fleet Operators",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "~12 across Kazakhstan, Mexico, North Korea, Belarus, DR Congo and Equatorial Guinea",
+      "homeBase": "Various"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1986",
+      "fleetSize": "4 delivered (1986 and 1989); 2 more cancelled",
+      "homeBase": "Chandigarh, India"
+    },
+    {
+      "name": "Soviet Air Force",
+      "role": "Launch Military Operator",
+      "status": "Retired",
+      "since": "1983",
+      "fleetSize": "Most of early production; passed to successor states in 1991",
+      "homeBase": "Soviet Union"
+    },
+    {
+      "name": "Aeroflot",
+      "role": "Launch Civil Operator",
+      "status": "Retired",
+      "since": "1985",
+      "fleetSize": "Soviet civil heavy-lift fleet; figure not published",
+      "homeBase": "Soviet Union"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1992",
+      "fleetSize": "Inherited from the Soviet fleet in 1991",
+      "homeBase": "Ukraine"
+    },
+    {
+      "name": "Peruvian Army",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1990s",
+      "fleetSize": "Small number; figure not published",
+      "homeBase": "Peru"
+    },
+    {
+      "name": "Skytech",
+      "role": "Former Civil Operator",
+      "status": "Retired",
+      "since": "2000s",
+      "fleetSize": "Belgian-registered charter fleet; figure not published",
+      "homeBase": "Belgium"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "MI26",
+    "howToFind": "Search Flightradar24 for type code MI26. The reliable sightings are civil aircraft: UTair Mi-26Ts working oilfield and construction contracts across western Siberia, and China Flying Dragon aircraft on firefighting and heavy-lift work in northern China. Military Mi-26s in Russia, Algeria and Jordan rarely transmit a position that the site resolves."
+  },
+  "lastUpdated": "2026-09-16",
+  "changelog": [
+    {
+      "date": "2026-09-16",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Jane's and Russian Helicopters specification data, FAI record listings, NATO and NASA technical papers and contemporary news reporting.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Halo",
+    "Mi26",
+    "Izdeliye 90",
+    "Rostvertol",
+    "Mil",
+    "heavy lift",
+    "Halo-A"
+  ],
+  "article": {
+    "overview": [
+      "The Mil Mi-26, NATO reporting name Halo, is a Soviet and Russian heavy transport helicopter built by Rostvertol and designed by the Mil Moscow Helicopter Plant under the product code Izdeliye 90. It first flew on 14 December 1977, entered service in 1983, and is the largest helicopter ever to reach serial production - only the twin-rotor Mil V-12, of which two prototypes were built, was bigger. {{ref:wiki}}",
+      "It carries 20 tonnes internally or on the sling, or 90 troops, on the power of two 11,400 shp turboshafts driving a single eight-blade rotor 105 ft across. Over 300 have been built since 1980, and the type remains in production and in service with around a dozen air arms and civil operators. {{ref:wiki}} {{ref:fas}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Work on the Izdeliye 90 began in the early 1970s after the heavier Mil V-12 - a twin-rotor design that remains the largest helicopter ever flown - failed to reach production. The new aircraft was to replace both the V-12 and the Mi-6, then the world's largest and fastest production helicopter, and the specification set one requirement that shaped everything else: empty weight had to come in under half of maximum takeoff weight. Marat Tishchenko, who had been Mikhail Mil's protege at OKB-329, led the design. {{ref:wiki}}",
+          "The mission was specific rather than general-purpose. The Soviet Army needed to move equipment such as 13-tonne amphibious armoured personnel carriers and mobile ballistic missile systems onward to remote locations after an An-22 or Il-76 had flown them to a usable airfield. The first aircraft flew on 14 December 1977, the first production machine rolled out on 4 October 1980, development was completed in 1983, and by 1985 the type was in both military and commercial Soviet service. Its payload of up to 20 tonnes is double the Mi-6's, for only a slightly higher empty weight. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Mi-26 was the first factory-built helicopter with a single eight-blade main lift rotor, a solution to putting 22,800 shp through one rotor disc without making the blades impractically large. The tail rotor is on a scale of its own: five blades of roughly the same diameter and thrust as the complete four-blade main rotor of an MD Helicopters MD 500. Two ZMKB Progress D-136 turboshafts drive the system through a load-sharing arrangement that allows continued flight after the loss of one engine, depending on mission weight. {{ref:wiki}} {{ref:fas}}",
+          "The gearbox is the aircraft's real engineering achievement, and it exists because nobody else could build it. Mil's usual gearbox supplier could not meet the requirement, so the design bureau developed the VR-26 transmission in-house using a non-planetary split-torque layout with quill shafts for torque equalisation. The result absorbs 14,700 kW for a weight of 3,639 kg in a stamped aluminium housing - a power-to-weight figure that the American CH-53K's later split-torque gearbox, handling a third of the power, is measured against. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Records & Heavy-Lift Work",
+        "paragraphs": [
+          "On 3 February 1982 an Mi-26 lifted 56,768.8 kg to an altitude of 2,000 m, taking the Federation Aeronautique Internationale record for the greatest mass carried by a helicopter to that height. More than four decades later the record still stands. {{ref:wiki}}",
+          "The commercial record is a catalogue of loads nothing else could take. In October 1999 an Mi-26 lifted a 23-tonne block of frozen soil containing the 23,000-year-old Jarkov mammoth out of the Siberian tundra to a laboratory at Khatanga, and the aircraft had to be returned to the factory afterwards to be checked for airframe and rotor warping. In early 2002 a civil Mi-26 was leased for $300,000 to recover a damaged U.S. Army MH-47E Chinook from a mountain in Afghanistan: stripped of fuel, rotors and non-essential equipment the Chinook still weighed about 12 tonnes, well beyond the 9.1-tonne payload a CH-53E could manage at that 2,600 m altitude. A second Chinook was recovered the same way six months later. In December 2012 a Russian Mi-26 lifted a Royal Norwegian Air Force Sea King off Mount Divgagaisa after it broke its landing gear in a forced landing, and in May 2008 at least one Chinese civil Mi-26 carried earth-moving tractors into the Tangjiashan quake lakes after the Sichuan earthquake, ground only reachable on foot or by air. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Chernobyl & Disaster Response",
+        "paragraphs": [
+          "Thirty Mi-26s were committed to the Chernobyl containment effort in 1986, flying radiation measurement sorties and making precision drops of insulating material onto the ruined No. 4 reactor. The work drove a purpose-built variant, the Mi-26S, developed at speed during the operation. {{ref:wiki}}",
+          "The Mi-26S added a tank of decontaminating liquid with an underbelly spraying rig, and - because the aircraft had to work in immediate proximity to the reactor - a cabin filter system and protective screens to shield the crew while construction materials were delivered into the most heavily contaminated areas. Disaster response has remained a core role: Russia's Ministry of Emergency Situations is one of the type's primary users, and the firefighting Mi-26TP carries a 15,000-litre internal retardant tank. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Military Service & Losses",
+        "paragraphs": [
+          "On 19 August 2002 a Russian Air Force Mi-26 of the 487th Separate Helicopter Regiment was hit by a 9K38 Igla missile fired by Chechen separatists as it approached Khankala airbase near Grozny. It crash-landed in a minefield and 127 of the 147 people on board were killed, some of them by anti-personnel mines as they tried to evacuate the wreck. The aircraft was carrying 142 passengers against a design figure of 80 troops, and reporting at the time indicated that flights into Khankala routinely ran at 100 to 110 people plus cargo. Putin declared a national day of mourning, the head of army aviation was suspended and later resigned, and a lieutenant-colonel was charged with negligence and breach of flight regulations. It remains the deadliest accident in the history of helicopter aviation. {{ref:khankala}} {{ref:bbc}}",
+          "In July 2009 a Moldovan-registered Mi-26 operated by Pecotox Air on a NATO-contracted humanitarian flight was shot down in Helmand province, Afghanistan, killing its six Ukrainian crew. On 14 December 2010 an Indian Air Force Mi-26 fell from about 15 m seconds after taking off from Jammu Airport, injuring all nine passengers; the investigation found that a truck had been improperly secured inside and unbalanced the aircraft. India later retired its remaining three Mi-26s - two needed very expensive overhauls, which the type requires often because it operates close to the strength limits of its materials - and bought CH-47F Chinooks instead. Russian Mi-26s were used during the 2022 Kharkiv counteroffensive to move reinforcements and armoured vehicles to the front near Izium and Kupiansk. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Production continues at Rostvertol. A 2010 contract covered refurbishment of the roughly 20 Russian Air Force aircraft to something close to Mi-26T standard plus 22 new-build machines; 17 new helicopters had been delivered by 2014, with further deliveries to the Russian Aerospace Forces in 2016, 2017 and 2019. The current military standard is the Mi-26T2V, first flown in August 2018 and in delivery since at least 2023, which adds automatic route flying, the Vitebsk defensive aids suite, anti-blast seats and night-vision-compatible displays. {{ref:wiki}}",
+          "Replacing the aircraft has proved harder than improving it. A joint Russian-Chinese 33-tonne heavy-lift helicopter was announced in 2010, Rostec signed an agreement on a 40-tonne next-generation design in early 2019, and development of a PD-12V turboshaft - derived from the PD-14 turbofan - began in 2016. That engine work is not optional: the D-136 was built by ZMKB Progress and Motor Sich in Zaporizhzhia, so the type's powerplant has been on the wrong side of a closed border since 2014 and a domestic Russian replacement is the condition of continued production. Reporting in 2021 put total production above 360 airframes with the line expected to run into the late 2020s, and recent export customers have been Venezuela, Algeria and Jordan. None of the replacement projects has produced an aircraft, so the Mi-26 remains what it has been since 1983: the only helicopter in production anywhere that can lift 20 tonnes. Iran's Red Crescent Society announced in September 2024 an understanding to evaluate two aircraft with a possible follow-on order of twenty. {{ref:wiki}} {{ref:keyaero}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Mil Mi-26",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-26"
+    },
+    {
+      "id": "fas",
+      "name": "Mi-26 HALO (MIL)",
+      "publisher": "Federation of American Scientists",
+      "url": "https://man.fas.org/dod-101/sys/ac/row/mi-26.htm"
+    },
+    {
+      "id": "khankala",
+      "name": "2002 Khankala Mi-26 crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2002_Khankala_Mi-26_crash"
+    },
+    {
+      "id": "bbc",
+      "name": "Chechen gets life for air attack",
+      "publisher": "BBC News",
+      "url": "http://news.bbc.co.uk/2/hi/europe/3670749.stm"
+    },
+    {
+      "id": "keyaero",
+      "name": "Mi-26: still alive and kicking",
+      "publisher": "Key.Aero",
+      "url": "https://www.key.aero/article/mi-26still-alive-and-kicking"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Mi-26 Halo heavy lift helicopter project profile",
+      "url": "https://www.airforce-technology.com/projects/milmi-26heavylifthel/"
+    },
+    {
+      "name": "History of the largest serial cargo helicopter Mi-26",
+      "url": "https://aeronaut.media/articles-en/en-mi-26-helicopter-history/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1982-02-03",
+      "title": "World record: 56,768.8 kg lifted to 2,000 metres",
+      "tag": "Record flight",
+      "summary": "An Mi-26 lifted 56,768.8 kg (125,000 lb) to an altitude of 2,000 m, setting the FAI record for the greatest mass carried by a helicopter to that height. The record was still standing more than forty years later.",
+      "source": "https://www.fai.org/records"
+    },
+    {
+      "date": "1986-04-27",
+      "title": "Chernobyl containment operations",
+      "tag": "Disaster response",
+      "summary": "Beginning the day after the reactor explosion, thirty Mi-26s were used for radiation measurement and precision drops of insulating material onto the ruined No. 4 reactor. The work produced the purpose-built Mi-26S, with a decontamination spray rig and cabin filters and screens to shield the crew.",
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-26"
+    },
+    {
+      "date": "1999-10-18",
+      "title": "Airlift of the Jarkov mammoth",
+      "tag": "Notable lift",
+      "summary": "An Mi-26 carried a 23-tonne block of frozen soil containing a preserved woolly mammoth from the Siberian tundra to an ice cave at Khatanga. The load was heavy enough that the helicopter was returned to the factory afterwards to be checked for airframe and rotor warping.",
+      "source": "https://en.wikipedia.org/wiki/Jarkov_Mammoth"
+    },
+    {
+      "date": "2002-08-19",
+      "title": "Khankala shoot-down - the deadliest helicopter accident in history",
+      "tag": "Shot down",
+      "summary": "A Russian Air Force Mi-26 carrying 142 passengers and five crew, against a design figure of 80 troops, was hit by a 9K38 Igla missile on approach to Khankala airbase near Grozny and crash-landed in a minefield. 127 of the 147 people aboard were killed, some by anti-personnel mines while evacuating the wreck.",
+      "fatalities": 127,
+      "source": "https://en.wikipedia.org/wiki/2002_Khankala_Mi-26_crash"
+    },
+    {
+      "date": "2008-05-24",
+      "title": "Sichuan quake lake relief",
+      "tag": "Disaster response",
+      "summary": "After the magnitude 8.0 Sichuan earthquake, at least one Chinese civil Mi-26 carried heavy earth-moving tractors into the Tangjiashan quake lakes, terrain that could otherwise only be reached on foot, to relieve landslide dams before they failed.",
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-26"
+    },
+    {
+      "date": "2009-07-14",
+      "title": "Moldovan Mi-26 shot down in Helmand",
+      "tag": "Shot down",
+      "summary": "An Mi-26 belonging to Pecotox Air, flying a humanitarian mission under NATO contract, was shot down in Helmand province, Afghanistan. All six Ukrainian crew members were killed.",
+      "fatalities": 6,
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-26"
+    },
+    {
+      "date": "2010-12-14",
+      "title": "Indian Air Force crash at Jammu",
+      "tag": "Load shift",
+      "summary": "An Indian Air Force Mi-26 fell from about 15 m seconds after taking off from Jammu Airport while carrying railway construction machinery. All nine passengers were injured. The investigation found a truck inside had been improperly fastened, unbalancing the helicopter.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-26"
+    },
+    {
+      "date": "2012-12-23",
+      "title": "Recovery of a Norwegian Sea King from Mount Divgagaisa",
+      "tag": "Notable lift",
+      "summary": "A Royal Norwegian Air Force Westland Sea King made an emergency landing on Mount Divgagaisa on 11 December 2012 and broke its landing gear. After its rotor blades and fuel were removed, a Russian Mi-26 airlifted it to Banak Air Station.",
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-26"
+    }
+  ]
+}

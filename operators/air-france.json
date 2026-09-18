@@ -1,0 +1,19 @@
+{
+  "id": "air-france",
+  "slug": "air-france",
+  "name": "Air France",
+  "shortName": "AF",
+  "type": "commercial",
+  "country": { "name": "France", "code": "fr" },
+  "founded": "1933-10-07",
+  "foundedDisplay": "7 October 1933",
+  "headquarters": "Roissypôle, Tremblay-en-France (Paris-CDG), France",
+  "logo": "air-france.jpeg",
+  "website": "https://www.airfrance.com",
+  "tagline": "France's flag carrier for nine decades - and, with British Airways, one of only two airlines ever to fly Concorde in commercial service.",
+  "bio": [
+    "Air France was created on 7 October 1933 by merging five pioneering French airlines, inheriting routes that stretched from Europe across Africa, South America and the Far East. Nationalised after the Second World War, it became the standard-bearer of French aviation - an early operator of the elegant Caravelle jet and a launch airline for many Airbus types, flying from its great hub at Paris-Charles de Gaulle.",
+    "Its most glamorous chapter began on 21 January 1976, when Air France and British Airways simultaneously launched the world's first scheduled supersonic passenger services. Air France's seven Concordes crossed the Atlantic at Mach 2 for 27 years until the type's retirement in 2003. In 2004 the airline merged with KLM to form Air France-KLM, one of Europe's largest airline groups and a founding member of the SkyTeam alliance."
+  ],
+  "matchPattern": "air france"
+}

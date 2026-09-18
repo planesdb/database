@@ -1,0 +1,219 @@
+{
+  "_INSTRUCTIONS": "DELETE THIS LINE AND EVERY OTHER LINE STARTING WITH AN UNDERSCORE BEFORE SAVING. This is the HELICOPTER starting point for a new aircraft entry - copy it into the data/aircraft/ folder, rename it, and fill in every field below with real information. Use this template for ANY rotorcraft (helicopter, tiltrotor in helicopter mode, etc.) regardless of whether it's military, civilian, or both - helicopters cross that line constantly (e.g. the H145 flies as both a civil air-ambulance and the armed military H145M), so unlike fixed-wing aircraft there is deliberately only ONE helicopter template rather than a military/civilian split. It replaces 'wingspan' with rotor-specific spec fields (see the 'specs' block below) so nobody has to fake a wingspan out of a rotor diameter again. The two fields that are military-only on the fixed-wing side - survivors, specifications.combatLosses - are INCLUDED here but OPTIONAL: fill them in for military/combat helicopters, omit them entirely for purely civilian ones (see each field's _instructions line for guidance). If this aircraft is fixed-wing, use data/AIRCRAFT-TEMPLATE-MILITARY.json or data/AIRCRAFT-TEMPLATE-CIVILIAN.json instead. See HOW-TO-GUIDE.md section 'Adding a new aircraft' for the full step-by-step walkthrough.",
+  "_filename": "There is no 'id' or 'slug' field. An entry's identity comes from its FILENAME: save this file as data/aircraft/<manufacturer-model-name>.json - lowercase, words separated by hyphens, no spaces or punctuation - and the site derives everything from that. Page URL, image folder and photo/media lookups all key off the filename, so renaming the file is all it takes to rename an entry. Don't add an 'id' or 'slug' field back: they used to be two hand-typed copies of the filename and were the only fields where a typo failed the whole build.",
+  "name": "Short Name",
+  "_name": "The short name shown on cards and titles, e.g. 'CH-47 Chinook'",
+  "fullName": "Full Official Name",
+  "_fullName": "The full name including manufacturer, e.g. 'Boeing CH-47 Chinook'",
+  "manufacturer": "Manufacturer Name",
+  "originCountry": {
+    "name": "Country Name",
+    "code": "xx"
+  },
+  "_originCountry": "The 'code' is the country's standard two-letter code (ISO 3166-1 alpha-2), lowercase - e.g. 'us' for United States, 'fr' for France, 'jp' for Japan, 'de' for Germany. Flags are already drawn for every major aircraft-producing country, so a real code will almost always show the correct flag automatically. If you use a code with no matching flag yet, a placeholder icon shows instead - just flag it in your PR and we'll add the flag.",
+  "category": "military",
+  "_category": "READ THIS ONE - unlike the civilian/military templates, this is a REAL CHOICE. It is set to 'military' only because most helicopters in the database so far are; change it to 'civilian' for an air ambulance, police, offshore, news or private type. The build accepts ONLY 'military' or 'civilian' here: this field is the DOMAIN, and 'helicopters' is a TYPE, which is why it is already set for you in 'categories' below instead - the two are separate axes, so every helicopter is one of military/civilian AND a helicopter. A dual-role type like the H145 picks whichever it is primarily known for here and uncomments the other one in 'categories' below.",
+  "categories": [
+    "helicopters",
+    "//civilian",
+    "//fighter-jets",
+    "//cargo",
+    "//bombers",
+    "//spy-planes",
+    "//drones"
+  ],
+  "_categories": "OPTIONAL. Every category the site offers is listed above with a \"//\" in front of it, which switches it OFF. To ALSO file this aircraft under one, delete just the two slashes inside the quotes - \"//bombers\" becomes \"bombers\". Delete the lines you don't want, or leave them; anything still starting with // is ignored. JSON has no real comment syntax, so the slashes have to live INSIDE the quotes - putting them outside (//\"bombers\") breaks the file and the build will refuse to run. You do NOT need to list this entry's own primary 'category' from above - that is added automatically, which is why it isn't in the list. Spelling and plurals matter ('helicopters' and 'bombers', not 'helicopter'/'bomber'), but you don't have to remember them: the list above is the complete set, and a slug that isn't one of them now fails the build with a clear message instead of silently vanishing. Example: a civilian air ambulance helicopter would uncomment just \"helicopters\".",
+  "role": "Short Role Description",
+  "_role": "Shows as a small badge on the card, e.g. 'Heavy-Lift Transport Helicopter' or 'Twin-Engine Utility/Medevac Helicopter'",
+  "tagline": "At least two sentences summarising the aircraft.",
+  "_tagline": "MANDATORY: at least 2 full sentences (this database entry will not correctly populate on the site otherwise). Shown on Aircraft of the Week, under the name on the detail page, and in page meta/share text - give it a punchy hook sentence PLUS one real fact (a number, a first/only claim, a notable capability) so it is not just a one-line slogan. Example: \"The backbone of global military transport and rapid strategic airlift. It bridges the gap between large strategic airlifters like the C-5 Galaxy and smaller tactical transports like the C-130 Hercules, carrying large payloads directly into small, austere airfields other jets could never reach.\"",
+  "status": "In Service",
+  "_status": "Usually 'In Service' or 'Retired'. Must agree with 'retiredDate' below - if status is 'Retired', retiredDate cannot be null, and if status is 'In Service', retiredDate should be null. Reflect the aircraft TYPE's mainstream/frontline status here, noting any small heritage-flight or residual-operator exceptions in 'operators' instead. If these two disagree, this database entry will not correctly populate on the site.",
+  "inProduction": true,
+  "_inProduction": "true or false only (no quote marks, lowercase) - is this aircraft type still being newly manufactured today? Use true if yes, false if production has ended.",
+  "quickFacts": [
+    "A short, memorable 'did you know' style fact about this aircraft.",
+    "Another interesting fact - records held, famous moments, quirks, nicknames.",
+    "Aim for 4-6 facts. Each should be one punchy sentence.",
+    "Keep them specific and verifiable - real numbers and real events beat vague claims."
+  ],
+  "_quickFacts": "REQUIRED. 4-6 trivia-style facts shown in the 'Quick Facts' card at the top of the Overview tab. These are DIFFERENT from the spec numbers (which already have their own grid and sidebar): think records held, famous missions/rescues, quirks, nicknames, production oddities. One sentence each.",
+  "specifications": {
+    "_specificationsNote": "OPTIONAL - only needed if this type had a long or varied production run and the stats below describe one specific variant rather than the type as a whole. To use it: remove the underscore from this field's name so it reads 'specificationsNote' instead of '_specificationsNote', then replace this text with a short note giving context, e.g. 'Specifications based on the most recent XYZ variant.' It shows as a small note banner above the Full Specifications table. If you don't need it, just delete this whole line.",
+    "maxSpeed": {
+      "mph": 0,
+      "text": "0 kn (0 mph / 0 km/h)"
+    },
+    "_maxSpeed": "STATS STYLE GUIDE (exception to the imperial-first rule) - knots lead, then mph, then km/h, all in ONE set of brackets: '<kn> kn (<mph> mph / <km/h> km/h)'. Compute kn from mph as kn = mph x 0.868976, rounded to the nearest whole number. For most helicopters this published figure is really VNE (never-exceed speed) rather than a sustained max level speed - that's fine, just don't relabel the field, the site expects 'specifications.maxSpeed.text' regardless. If the figure is an estimate, prefix all three numbers with a single '~'. specifications.maxSpeed.mph (the plain number field above) must match the mph figure used here so sorting stays accurate.",
+    "cruiseSpeed": "0 mph (0 km/h)",
+    "range": {
+      "miles": 0,
+      "text": "0 mi (0 km)"
+    },
+    "_range": "STATS STYLE GUIDE - lead with statute miles, then km in parentheses: '<mi> mi (<km> km)'. Fold nautical miles into the same parentheses as a third value if that's the more natural published figure: '<mi> mi (<km> km, <nmi> nmi)' - never lead with nmi or km. If internal-fuel and ferry/auxiliary-tank ranges differ significantly (common for military helicopters), state both, e.g. '460 mi (740 km) internal fuel; 1,399 mi (2,252 km) ferry range'.",
+    "serviceCeiling": {
+      "ft": 0,
+      "text": "0 ft (0 m)"
+    },
+    "_serviceCeiling": "This is the forward-flight service ceiling, same convention as fixed-wing aircraft - imperial first, metric in parentheses. See 'specifications.hoverCeiling' below for the helicopter-specific hover figures, which are a DIFFERENT number and shouldn't be conflated with this one.",
+    "hoverCeiling": "IGE: 0 ft (0 m); OGE: 0 ft (0 m)",
+    "_hoverCeiling": "HELICOPTER-SPECIFIC field with no fixed-wing equivalent - the maximum altitude the aircraft can hold a stationary hover at, which is meaningfully lower than the forward-flight service ceiling above and is a genuinely distinguishing performance figure for helicopters. IGE = in ground effect (hovering within about one rotor diameter of the ground, which needs less power); OGE = out of ground effect (hovering higher up, e.g. over a ridgeline or a ship, which needs more power and is the harder number to hit). Give both if published; if only one is documented, state which one it is rather than a bare number. OPTIONAL - omit the field entirely if no real hover-ceiling figures are publicly documented for this type, rather than guessing.",
+    "rateOfClimb": "0 ft/min (0 m/s)",
+    "_rateOfClimb": "OPTIONAL HELICOPTER-SPECIFIC field - initial/max rate of climb, feet per minute first with metres per second in parentheses. Worth including when a real figure exists since it's a commonly-cited helicopter performance stat; omit if not documented rather than estimating.",
+    "wingspan": {
+      "ft": null,
+      "text": null
+    },
+    "_wingspanFields": "Deliberately left null on this template as a reminder: DELETE the 'specifications.wingspan.ft' and 'specifications.wingspan.text' keys entirely before saving (don't just leave them null) - this is a helicopter, use 'specifications.mainRotorDiameter.ft'/'specifications.mainRotorDiameter.text' above instead.",
+    "mainRotorDiameter": {
+      "ft": 0,
+      "text": "0 ft (0 m)"
+    },
+    "_mainRotorDiameter": "REPLACES 'specifications.wingspan.ft'/'specifications.wingspan.text' from the fixed-wing templates - do not add a wingspan field to a helicopter entry. Same imperial-first convention: 'X ft (Y m)'. For a tandem-rotor type (e.g. Chinook) with two identical rotors, state the single rotor's diameter and note there are two, e.g. '60 ft (18.3 m) each (x2, tandem)'. For a coaxial or NOTAR design, add a short parenthetical noting the configuration, e.g. '(coaxial, no tail rotor)'.",
+    "tailRotorDiameter": {
+      "ft": 0,
+      "text": "0 ft (0 m)"
+    },
+    "_tailRotorDiameter": "OPTIONAL - omit entirely (both the Ft and Display fields) for tandem-rotor, coaxial, or NOTAR designs that don't have a conventional tail rotor. Same imperial-first convention as main rotor diameter.",
+    "length": {
+      "ft": 0,
+      "text": "0 ft (0 m) fuselage; 0 ft (0 m) rotors turning"
+    },
+    "height": {
+      "ft": 0,
+      "text": "0 ft (0 m)"
+    },
+    "weight": "empty: 0 lb (0 kg); MTOW: 0 lb (0 kg)",
+    "_weight": "Same rule as above - pounds first, kilograms in brackets: 'empty: X lb (Y kg); MTOW: X lb (Y kg)'. MTOW means Maximum Takeoff Weight - the heaviest the aircraft is allowed to be at takeoff, including fuel, passengers/cargo and everything else on board. Never lead with kg.",
+    "rotorBlades": "0 main, 0 tail",
+    "_rotorBlades": "OPTIONAL but easy to source and a nice trivia-style stat - number of main rotor blades and tail rotor blades, e.g. '4 main, 4 tail' or '5 main' for a design with no tail rotor. Omit if genuinely undocumented.",
+    "discLoading": "0 lb/ft² (0 kg/m²)",
+    "_discLoading": "OPTIONAL - gross weight divided by main rotor disc area, pounds per square foot first with kilograms per square metre in parentheses. A real but not always-published figure; include it when a source states it directly rather than calculating it yourself from other specs, since small errors compound easily. Omit if not documented.",
+    "engines": "describe engine(s) - helicopters are almost always turboshaft, described by shp/kW rating rather than thrust",
+    "armament": "describe weapons - DELETE this whole line for unarmed helicopters (medevac, civil utility, most transports)",
+    "crew": "0",
+    "capacity": "describe passenger/troop/payload capacity",
+    "externalLoad": "0 lb (0 kg) external sling load",
+    "_externalLoad": "OPTIONAL but common and worth including when documented - maximum external/sling-load capacity, pounds first with kilograms in parentheses. Don't fold this into 'specifications.capacity' as a run-on clause; keep it in its own field so it's easy to compare across helicopter entries. Omit if the type has no meaningful external-lift role (e.g. a light utility or medevac-only aircraft).",
+    "firstFlight": {
+      "date": "YYYY-MM-DD",
+      "year": 2000
+    },
+    "serviceEntryDate": "YYYY-MM-DD",
+    "retiredDate": null,
+    "_retiredDate": "Leave as null (no quotes) if still in service. If retired, put the date as a plain readable string instead, e.g. \"1998-03-15\" or just \"1998\". Must agree with 'status' above.",
+    "numberBuilt": 0,
+    "unitCost": {
+      "usd": 0,
+      "text": "$0M (year, basis)",
+      "inflationText": null
+    },
+    "_unitCost": "IMPORTANT: 'usd' must be the FULL number with every zero written out - it has no 'M'/'B' unit attached, the site does that formatting automatically from this raw number (for sorting and the cost badge). For $103 million write 103000000, NOT 103 (that would read as $103) - count the zeros carefully, it's an easy mistake to make. STATS STYLE GUIDE (read data/STATS-STYLE-GUIDE.md for the full reference with examples) - always lead with the $ USD figure, never a foreign currency: under $1,000,000 write '$X,XXX' (e.g. '$51,000'); at $1,000,000+ write '$X.XM' or '$XM' (e.g. '$8.5M', '$79M') - never spell out 'million' and never append a redundant 'USD' suffix. Historical/foreign-currency figures and date/basis context go in a trailing parenthetical AFTER the $ figure. If a cost was never publicly disclosed, start the string with 'Not publicly disclosed - <reason>' rather than 'Unknown' or a bare sentence. If the figure is from a past year, say so explicitly and add the CPI-inflation-adjusted modern equivalent - pair this with the optional 'specifications.unitCost.inflationText' field below. Skip this field entirely (omit it, don't set it null) if the current specifications.unitCost.text figure is already expressed in today's dollars with no separate historical figure to reconcile.",
+    "_unitCostInflation": "OPTIONAL - only add this for aircraft whose specifications.unitCost.text names a historical year that hasn't already been converted. A short form of the inflation-adjusted figure, e.g. '≈$103M in 2026 dollars', shown as a small note under the Cost tile in the quick-glance spec strip. Use real BLS CPI data, not a guessed multiplier. Leave as null/omit entirely for aircraft priced in already-current dollars.",
+    "combatLosses": "describe factual combat/attrition losses, or state that none are documented",
+    "_combatLosses": "OPTIONAL, MILITARY-CONTEXT field - only fill in for a military/combat helicopter (e.g. an attack or combat-assault type). Delete this field entirely for a purely civilian helicopter (medevac, offshore transport, VIP, agricultural, etc.). It is a factual, sourced combat/attrition record - if the type has real combat history but no documented losses, say so explicitly ('No documented combat losses') rather than omitting the field silently."
+  },
+  "variants": [
+    {
+      "code": "Variant Code",
+      "desc": "What makes this variant different."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Operator Name",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "YYYY",
+      "fleetSize": "0",
+      "homeBase": "Base Name"
+    }
+  ],
+  "_operators": "OPTIONAL but encouraged. Before typing an operator's name here, check the site's own Operators page to see if that operator already has a profile there - if it does, copy the name EXACTLY as it appears on that page (same spelling, same capitalisation, no extra words). That match is what makes this aircraft actually show up on the operator's own page and count towards their aircraft-type total; a name that's even slightly different (an abbreviation, a missing word) won't be picked up and this aircraft simply won't appear there. If the operator doesn't have a profile on the site yet, that's fine - just use their real, commonly recognised name as normal. 'status' is 'In Service' or 'Retired'. 'fleetSize' is a plain string for how many of THIS aircraft type that operator has (e.g. '12' or '~30-40' if you're not certain of an exact number) - it's shown next to this aircraft on the operator's page, it isn't totalled up anywhere. You never need to add a \"logo\" filename here: the build works out each operator's badge image from its NAME (see data/operator-logos.json and OPERATOR-LOGOS.md), and copes with abbreviations like 'USAF' or 'US Air Force', bracketed asides like '(KC-130)', and small typos. If the badge comes out as plain text initials instead of a logo, it just means the project has no artwork for that operator yet - run 'node scripts/check-operator-logos.js' to see the full list. Do write one operator per entry: a single row naming several ('X Air Force / Y Air Force') is deliberately left without a badge, since one flag would misrepresent the others.",
+  "flightradar24": {
+    "icaoTypeCode": "TYPE",
+    "howToFind": "Tips on how/where to spot this aircraft on Flightradar24."
+  },
+  "lastUpdated": "2026-07-02",
+  "changelog": [
+    {
+      "date": "YYYY-MM-DD",
+      "change": "One sentence describing what changed in this entry.",
+      "author": "github-username"
+    }
+  ],
+  "_changelog": "OPTIONAL but encouraged: a dated log of how this ENTRY (not the aircraft) has evolved - created, article added, photos added, validation passes. Rendered in its own 'Changelog' tab (newest first, full history). 'author' should be the contributor's GitHub username - it's credited and linked to their profile. Add a line whenever you make a meaningful edit; when a pull request merges, a bot automatically appends a changelog entry with your GitHub username and the PR title, so you don't need to add this by hand unless you want a more specific note than the PR title provides.",
+  "_news": "News is fully automatic - do NOT add a news field to an entry. An hourly RSS scan of the trusted sources in data/news-sources.json matches stories to this aircraft by its display name and designator, and build.js attaches them to the News tab on every build. Until the first story is published the tab says so plainly. Nothing to fill in, and nothing to keep up to date.",
+  "tags": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "_tags": "A list of extra search keywords - nicknames, abbreviations, alternate spellings - so search finds this aircraft even when people don't type the exact name.",
+  "article": {
+    "overview": [
+      "1-2 introductory paragraphs setting up why this aircraft matters. Cite sources inline with {{ref:some-id}} markers matching the 'references' list below."
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Paragraph text with {{ref:some-id}} citations."
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Paragraph text."
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Paragraph text."
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Paragraph text."
+        ]
+      }
+    ]
+  },
+  "_article": "REQUIRED for every entry - the long-form narrative shown in the Overview tab's deep-dive section. 'overview' is 1-2 intro paragraphs (the JSON field is called 'overview', not 'lede' - 'lede' is just the journalism term for the kind of opening paragraph it should hold); 'sections' is a list of {heading, paragraphs} blocks - adjust headings to fit the aircraft rather than reusing the same words on every entry. Use 'Combat History' instead of 'Service History' only if this specific helicopter has actually seen combat (an attack helicopter or a combat-assault transport with real engagements) - a medevac or civil utility helicopter should keep 'Service History'. Don't default the closing section to 'Legacy' if 'status' above is 'In Service' - use a forward-looking heading like 'Current Status & Outlook' instead, reserving a plain 'Legacy' heading for aircraft that are actually Retired. Every {{ref:id}} used in the paragraphs must have a matching entry in 'references' below.",
+  "references": [
+    {
+      "id": "some-id",
+      "name": "Real Source Name",
+      "publisher": "Publisher Name",
+      "url": "https://real-working-url.example.com"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Real Source Name",
+      "url": "https://real-working-url.example.com"
+    }
+  ],
+  "_references": "REQUIRED - the numbered library that the article's {{ref:id}} markers point to. Every id used in the article needs an entry here, and every reference added here should actually be cited at least once. Only include real, working URLs you've personally verified.",
+  "accidentsAndIncidents": [
+    {
+      "date": "YYYY-MM-DD",
+      "title": "Short name for the incident",
+      "tag": "One short category label, e.g. 'Hard landing' or 'Tail rotor failure'",
+      "summary": "One or two sentences on what happened.",
+      "fatalities": 0,
+      "source": "https://real-working-url.example.com"
+    }
+  ],
+  "_accidentsAndIncidents": "REQUIRED - this is what actually powers the permanent 'Accidents & Incidents' TAB shown on every aircraft page (there used to be a separate 'timeline' field driving an older 'Timeline' tab - the site no longer uses that at all, every real entry now uses this instead). Leave 'accidentsAndIncidents' as an empty list [] if this aircraft has no notable accidents or incidents - the tab still appears and says so plainly, which is correct and expected, not a gap to fill with placeholder content. Each entry needs 'date', 'title', 'tag' (a short category label) and 'summary'. FATALITIES AND COLOUR - this is fully automatic, you never pick a colour yourself, you just get the 'fatalities' number right: write the real death toll as a plain number, e.g. \"fatalities\": 5, and the page shows '5 killed' with a RED line; write \"fatalities\": 0 ONLY once you've verified nobody died, and the page shows 'No fatalities' with a GREEN line; if you don't have a confirmed figure either way, delete the whole 'fatalities' line rather than guessing - the page then shows no death toll and a neutral grey dashed line instead, which is the correct, honest way to show 'unconfirmed'. 'source' is a single URL string - only include one you have personally checked is real and working.",
+  "survivors": [
+    {
+      "serial": "Serial/registration",
+      "location": "Museum or collection name, City, Country",
+      "note": "Any notable detail about this specific airframe."
+    }
+  ],
+  "_survivors": "OPTIONAL, MILITARY-CONTEXT field - real, individually-verified preserved/displayed airframes. Fill in for a retired or long-serving military helicopter with real museum survivors; delete entirely for a purely civilian helicopter or a type too recent/obscure to have any preserved examples yet. Only include a serial number you've actually confirmed from a source - never guess or pattern-match one."
+}

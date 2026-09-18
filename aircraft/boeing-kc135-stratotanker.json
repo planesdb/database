@@ -1,0 +1,329 @@
+{
+  "name": "KC-135 Stratotanker",
+  "fullName": "Boeing KC-135 Stratotanker",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Strategic Aerial Refuelling Tanker",
+  "tagline": "The KC-135 Stratotanker is a four-engine aerial refuelling tanker and transport built by Boeing for the United States Air Force, first flown on 31 August 1956 and still the backbone of American tanker aviation seventy years later. It shares an ancestor with the Boeing 707 in the Dash 80 demonstrator but is a structurally different aircraft, and 803 were built between 1955 and 1965.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "It and the Boeing 707 both descend from the Model 367-80 'Dash 80' demonstrator, but the KC-135 has a narrower, shorter fuselage and is structurally quite different from the airliner",
+    "Boeing's internal model number for it was 717 - a designation the company later reused for an entirely unrelated airliner",
+    "Re-engining with CFM56 turbofans nearly doubled thrust and cut takeoff noise from 126 decibels to 99",
+    "Fifty-six KC-135Qs were modified to carry JP-7 in segregated tanks purely to refuel the SR-71 Blackbird",
+    "It is one of only nine military fixed-wing types worldwide with more than 60 years of continuous service with its original operator",
+    "Ageing is the real story: between 1993 and 2003 depot maintenance work on the fleet doubled while the overhaul cost per aircraft tripled, and cost per flight hour rose from about $8,400 in 1996 to $11,000 by 2002"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the CFM56-powered KC-135R, which is what almost the entire surviving fleet now is. The original J57-powered KC-135A was significantly less capable, and the TF33-powered KC-135E sat between the two.",
+    "maxSpeed": {
+      "mph": 580,
+      "text": "504 kn (580 mph / 933 km/h)"
+    },
+    "cruiseSpeed": "530 mph (853 km/h) at 30,000 ft",
+    "range": {
+      "miles": 1500,
+      "text": "1,500 mi (2,414 km) with 150,000 lb of transfer fuel; 11,015 mi (17,727 km) ferry"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft (15,240 m)"
+    },
+    "wingspan": {
+      "ft": 131,
+      "text": "130 ft 10 in (39.88 m)"
+    },
+    "length": {
+      "ft": 136,
+      "text": "136 ft 3 in (41.53 m)"
+    },
+    "height": {
+      "ft": 42,
+      "text": "41 ft 8 in (12.70 m)"
+    },
+    "weight": "empty: 98,392 lb (44,630 kg); MTOW: 322,500 lb (146,284 kg)",
+    "engines": "Four CFM International F108-CF-100 (CFM56) turbofans, 21,634 lbf each",
+    "crew": "3 (pilot, co-pilot and boom operator); aeromedical missions add a five-person medical crew of two flight nurses and three technicians",
+    "capacity": "200,000 lb (90,718 kg) of transferable fuel; up to 83,000 lb (37,648 kg) of cargo, or 37 passengers",
+    "firstFlight": {
+      "date": "1956-08-31",
+      "year": 1956
+    },
+    "serviceEntryDate": "1957-06-01",
+    "retiredDate": null,
+    "numberBuilt": 803,
+    "unitCost": {
+      "usd": 39600000,
+      "text": "$39.6M (fiscal 1998 dollars) - roughly $81.1M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$81.1M in 2026 dollars"
+    },
+    "combatLosses": "No KC-135 has been shot down. Five were damaged on the ground at Prince Sultan Air Base in Saudi Arabia by an Iranian missile strike in March 2026; US officials said all five were repairable and expected back in service. Fleet-wide, 52 aircraft have been lost to accidents since 1958, with 385 deaths."
+  },
+  "variants": [
+    {
+      "code": "KC-135A",
+      "desc": "The original production standard, 732 of which were built with four Pratt & Whitney J57 turbojets. It was loud, thirsty and short on thrust on a hot day, and its water-injection takeoffs left the trailing smoke plume the type was known for. Every surviving airframe has since been re-engined, so no KC-135A remains in tanker service."
+    },
+    {
+      "code": "KC-135E",
+      "desc": "An interim re-engining of 157 Air Force Reserve and Air National Guard tankers during the 1980s, using Pratt & Whitney TF33-PW-102 turbofans and their nacelles salvaged from retired 707 airliners. The result was about 14 percent more fuel-efficient than the KC-135A and could offload roughly 20 percent more fuel on a long sortie. All have since been retired or passed to export customers."
+    },
+    {
+      "code": "KC-135R / KC-135T",
+      "desc": "The definitive standard, and what over 500 aircraft were converted to from the 1980s onward using CFM56 turbofans of nearly double the J57's thrust. The gains were substantial: 50 percent greater fuel offload, 25 percent better fuel efficiency, 25 percent lower operating cost and 60 percent more range than a KC-135E. The KC-135T is the same conversion applied to the 54 surviving JP-7-capable KC-135Qs."
+    },
+    {
+      "code": "KC-135Q",
+      "desc": "Fifty-six KC-135As modified to support the SR-71 Blackbird, which burned JP-7 rather than standard JP-4. The conversion added segregated tankage and plumbing so the aircraft could carry JP-7 for the receiver and its own fuel separately, without cross-contamination. When the Blackbird retired the survivors were re-engined as KC-135Ts and returned to the general tanker fleet."
+    },
+    {
+      "code": "RC-135 / EC-135 / OC-135",
+      "desc": "The special-mission branches of the family, built on the same airframe but doing entirely different jobs. The RC-135 covers the Rivet Joint signals intelligence fleet and its relatives; the EC-135 provided airborne command posts including the Looking Glass alert aircraft; and the OC-135 flew Open Skies treaty observation missions. Several of these outlived the tanker variants they were converted from."
+    },
+    {
+      "code": "C-135F / C-135FR",
+      "desc": "Twelve aircraft built new for France from 1964, the only KC-135s manufactured for an export customer rather than transferred second-hand. They were fitted with drogue adapters so they could refuel French probe-equipped aircraft, and were later re-engined with CFM56s as C-135FRs. France retired them between October 2020 and December 2023 in favour of the Airbus A330 MRTT."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1957",
+      "fleetSize": "396 - 153 active duty, 171 Air National Guard and 72 Air Force Reserve",
+      "homeBase": "McConnell AFB, Fairchild AFB and Scott AFB, with overseas basing at Kadena AB, Japan and RAF Mildenhall, England"
+    },
+    {
+      "name": "Turkish Air Force",
+      "role": "Tanker Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "7 KC-135R",
+      "homeBase": "Incirlik Air Base"
+    },
+    {
+      "name": "Chilean Air Force",
+      "role": "Tanker Operator",
+      "status": "In Service",
+      "since": "2010",
+      "fleetSize": "3 KC-135E, the first delivered in February 2010",
+      "homeBase": "Chilean Air Force transport bases"
+    },
+    {
+      "name": "Metrea",
+      "role": "Private Contract Tanker Operator",
+      "status": "In Service",
+      "since": "2020s",
+      "fleetSize": "15 KC-135R acquired from the French and Singaporean fleets, flown as contracted air refuelling",
+      "homeBase": "Commercial operating bases supporting US and allied training"
+    },
+    {
+      "name": "French Air and Space Force",
+      "role": "Tanker Operator (historical)",
+      "status": "Retired",
+      "since": "1964",
+      "fleetSize": "12 C-135F, later re-engined as C-135FR, retired between October 2020 and December 2023",
+      "homeBase": "Base aerienne 125 Istres-Le Tube"
+    },
+    {
+      "name": "Republic of Singapore Air Force",
+      "role": "Tanker Operator (historical)",
+      "status": "Retired",
+      "since": "1999",
+      "fleetSize": "4 KC-135R, delivered September 1999 and retired in June 2019",
+      "homeBase": "Changi Air Base"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "K35R",
+    "howToFind": "Easily the most trackable military aircraft in this database. KC-135s transmit routinely and appear on Flightradar24 in numbers, usually orbiting a refuelling track under a callsign like ESSO, SHELL, TEXACO or GOLD. RAF Mildenhall in Suffolk and Kadena in Japan are reliable places to watch, and the racetrack pattern over the North Sea or the Gulf is unmistakable once you have seen it once."
+  },
+  "lastUpdated": "2026-09-10",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from the USAF fact sheet, Wikipedia, Military Times and The War Zone.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Stratotanker",
+    "KC135",
+    "KC-135R",
+    "Boom",
+    "Air Refuelling"
+  ],
+  "article": {
+    "overview": [
+      "The KC-135 Stratotanker is a four-engine aerial refuelling tanker and transport designed by Boeing for the United States Air Force. It first flew on 31 August 1956, entered service in June 1957, and 803 were built between 1955 and 1965. {{ref:wiki-kc135}}",
+      "Seventy years on it still does the job it was bought for. The US Air Force operates 396 of them across the active force, Air National Guard and Air Force Reserve, and the aircraft remains the backbone of American aerial refuelling while the KC-46 Pegasus arrives slowly to replace part of the fleet. {{ref:usaf-kc135}} {{ref:wiki-kc135}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the Dash 80",
+        "paragraphs": [
+          "Both the KC-135 and the Boeing 707 descend from the Model 367-80, the private-venture jet transport demonstrator universally known as the Dash 80. That shared ancestry is why the two aircraft look alike, and why they are constantly confused, but the tanker is not a converted airliner: it has a narrower and shorter fuselage than the 707 and is structurally quite different. It also came first. {{ref:wiki-kc135}}",
+          "Boeing gave the tanker the internal model number 717, a designation the company later attached to an entirely unrelated airliner. The first aircraft was delivered to Castle Air Force Base in California in June 1957, into a Strategic Air Command that had been refuelling its bombers from piston-engined KB-29s and KC-97s at speeds and altitudes that suited neither tanker nor receiver. A jet tanker fixed that mismatch. {{ref:wiki-kc135}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The aircraft is built around the Boeing flying boom, a telescoping tube with control surfaces flown by an operator lying prone in the tail, watching the receiver through a window directly. It is a rigid connection controlled by the tanker rather than the receiver, and it transfers fuel far faster than a hose and drogue - which is why it became the US Air Force standard and why refuelling navy and allied probe-equipped aircraft needs a drogue adapter fitted to the boom. {{ref:wiki-kc135}}",
+          "The KC-135R carries 200,000 lb of transferable fuel and can also take 83,000 lb of cargo or 37 passengers, which is what makes it a tanker-transport rather than a pure tanker. Crew is three: two pilots and the boom operator. An aeromedical evacuation mission adds a five-person medical crew of two flight nurses and three technicians. {{ref:usaf-kc135}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Vietnam is where the type proved what a jet tanker changes. Refuelling F-105s and F-4s on the way to and from targets, and B-52s on the long transits, put distant targets within reach and let fighters spend hours over the battlefield instead of minutes. The same pattern has repeated in every American air campaign since: Desert Storm, the Balkans, Afghanistan, Iraq and Syria all ran on tanker tracks. {{ref:wiki-kc135}}",
+          "The KC-135 served Strategic Air Command from 1957 until the command was inactivated in 1992, after which most aircraft went to Air Mobility Command. Fifty-six KC-135Qs spent much of the Cold War doing one specialised job - carrying JP-7 in segregated tanks for the SR-71 Blackbird, which could not use standard jet fuel. Recent operations have been costly: two tankers collided over western Iraq in March 2026 during Operation Epic Fury, killing all six crew on one aircraft, and an Iranian missile strike on Prince Sultan Air Base days later damaged five more on the ground. {{ref:twz-2026}} {{ref:militarytimes-2026}}"
+        ]
+      },
+      {
+        "heading": "Re-engining & the Second Life",
+        "paragraphs": [
+          "The original J57 turbojets were the aircraft's limiting factor, and replacing them is what kept the fleet viable. A first programme in the 1980s re-engined 157 Reserve and Air National Guard aircraft with TF33 turbofans and nacelles taken from retired 707 airliners, producing the KC-135E - about 14 percent more efficient and good for roughly 20 percent more offload on a long flight. {{ref:wiki-kc135}}",
+          "The real transformation was the CFM56. Over 500 aircraft were converted to KC-135R or KC-135T standard with engines of nearly double the J57's thrust, and the improvements compound: 50 percent greater fuel offload, 25 percent better fuel efficiency, 25 percent lower operating costs, 60 percent more range than a KC-135E, and takeoff noise down from 126 decibels to 99. An aircraft designed in the early 1950s became, in engine terms, a modern one. {{ref:wiki-kc135}}"
+        ]
+      },
+      {
+        "heading": "The Cost of an Old Fleet",
+        "paragraphs": [
+          "New engines do not make an airframe young. Between 1993 and 2003 the amount of depot maintenance work the fleet required doubled, and the overhaul cost per aircraft tripled. Operating cost went from around $8,400 per flight hour in 1996 to about $11,000 by 2002, and by fiscal 2001 the fleet's total operation and support bill was around $2.2 billion a year. {{ref:wiki-kc135}}",
+          "The safety record reflects a long life rather than a bad aircraft, but it is a real number: 52 Stratotankers have been lost to accidents since 1958, with 385 deaths. Several of those trace to specific systemic faults rather than crew error - a rudder control malfunction near Wichita in 1965 that killed 30 people including 23 on the ground, a run of overheated fuel-pump explosions in 1989, and a Dutch roll departure caused by a rudder power control unit failure that destroyed a tanker over Kyrgyzstan in 2013. {{ref:wiki-kc135}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The KC-46 Pegasus was selected in February 2011 to replace part of the fleet, and the first was delivered in January 2019, but it partially replaces the KC-135 rather than supplanting it. With 396 Stratotankers still on strength against a KC-46 programme of record of 263 aircraft, the older type will be flying for a long time yet - studies have concluded many airframes could remain viable until 2030, and some projections have individual aircraft reaching 80 years old by 2040. {{ref:usaf-kc135}} {{ref:wiki-kc135}}",
+          "The export fleet has moved faster. France retired its C-135FRs between October 2020 and December 2023 and Singapore retired its KC-135Rs in June 2019, both replacing them with Airbus A330 MRTTs; fifteen of those released airframes were bought by the private operator Metrea and now fly contracted refuelling. Turkey and Chile still operate small fleets. The oldest active American example, 57-1419, was built in 1957 and has passed 22,300 flight hours. {{ref:wiki-kc135}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-kc135",
+      "name": "Boeing KC-135 Stratotanker",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker"
+    },
+    {
+      "id": "usaf-kc135",
+      "name": "KC-135 Stratotanker Fact Sheet",
+      "publisher": "U.S. Air Force (MacDill AFB)",
+      "url": "https://www.macdill.af.mil/About-Us/Fact-Sheets/Article/4150730/kc-135-stratotanker/"
+    },
+    {
+      "id": "twz-2026",
+      "name": "KC-135 Tanker Crashes In Iraq During Operation Epic Fury Sortie",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/kc-135-tanker-crashes-in-iraq-during-operation-epic-fury-sortie"
+    },
+    {
+      "id": "militarytimes-2026",
+      "name": "Iran missile strike damages five KC-135 tankers in Saudi Arabia, officials say",
+      "publisher": "Military Times",
+      "url": "https://www.militarytimes.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing KC-135 Stratotanker",
+      "url": "https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker"
+    },
+    {
+      "name": "KC-135 Goes Down in Western Iraq After Mid-Air Incident During Operation Epic Fury",
+      "url": "https://theaviationist.com/2026/03/12/kc-135-goes-down-in-western-iraq-after-mid-air-incident-during-operation-epic-fury/"
+    },
+    {
+      "name": "Five U.S. Air Force Tankers Damaged in Iranian Attack on Saudi Air Base",
+      "url": "https://theaviationist.com/2026/03/14/five-tankers-damaged-at-psab/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1958-06-27",
+      "title": "Record attempt ends in a stall at Westover",
+      "tag": "Loss of control",
+      "summary": "KC-135A 56-3599 stalled and crashed at Westover Air Force Base in Massachusetts during an attempt on a world speed record. All 15 people on board were killed.",
+      "fatalities": 15,
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker"
+    },
+    {
+      "date": "1959-10-15",
+      "title": "Mid-air collision with a B-52 over Kentucky",
+      "tag": "Mid-air collision",
+      "summary": "KC-135A 57-1513 collided with B-52F 57-0036 at 32,000 ft near Leitchfield, Kentucky, killing 12 people across the two aircraft.",
+      "fatalities": 12,
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker"
+    },
+    {
+      "date": "1962-09-10",
+      "title": "Crash into high ground near Spokane",
+      "tag": "Controlled flight into terrain",
+      "summary": "KC-135A 60-0352 struck a mountain about 20 miles north-east of Spokane, Washington. Forty-four people were killed, making it one of the deadliest single losses in the type's history.",
+      "fatalities": 44,
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker"
+    },
+    {
+      "date": "1965-01-16",
+      "title": "Rudder failure over Wichita",
+      "tag": "Flight control failure",
+      "summary": "KC-135A 57-1442 crashed near Wichita, Kansas after a rudder control system malfunction. Thirty people died - seven crew and 23 civilians on the ground.",
+      "fatalities": 30,
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker"
+    },
+    {
+      "date": "1966-01-17",
+      "title": "Palomares collision and Broken Arrow",
+      "tag": "Mid-air collision",
+      "summary": "KC-135A 61-0273 collided with B-52G 58-0256 during refuelling over Palomares, Spain. All four crew on the tanker and three of the seven on the bomber were killed, and the B-52's nuclear weapons caused radiological contamination that required a long recovery and clean-up operation.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker"
+    },
+    {
+      "date": "1989-09-20",
+      "title": "Fuel pump explosion at Eielson",
+      "tag": "Fuel system explosion",
+      "summary": "KC-135E 57-1481 exploded on the ground at Eielson Air Force Base in Alaska. Two of the seven people on board were killed. It was one of a run of accidents in 1989 traced to overheating fuel pumps.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker"
+    },
+    {
+      "date": "2013-05-03",
+      "title": "In-flight break-up over Kyrgyzstan",
+      "tag": "Flight control failure",
+      "summary": "KC-135R 63-8877 broke up about eight minutes after taking off from Manas Air Base in Kyrgyzstan, killing all three crew. Investigators found that a rudder power control unit malfunction had produced an uncontrolled Dutch roll oscillation.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Mid-air collision over western Iraq",
+      "tag": "Mid-air collision",
+      "summary": "Two KC-135Rs collided in friendly airspace over western Iraq during an Operation Epic Fury sortie. One crashed, killing all six crew; the other, 63-8017 of the 314th Air Refueling Squadron, made an emergency landing at Ben Gurion Airport in Israel having lost a large section of the top of its vertical stabiliser. CENTCOM confirmed the cause was neither hostile nor friendly fire.",
+      "fatalities": 6,
+      "source": "https://www.twz.com/air/kc-135-tanker-crashes-in-iraq-during-operation-epic-fury-sortie"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Five tankers damaged at Prince Sultan Air Base",
+      "tag": "Damaged on the ground",
+      "summary": "An Iranian missile strike on Prince Sultan Air Base in Saudi Arabia damaged five KC-135s on the flight line. US officials said the aircraft sustained damage but were not destroyed and were expected to return to service. No US personnel were killed in the strike.",
+      "fatalities": 0,
+      "source": "https://www.militarytimes.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/"
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "name": "F-16 Fighting Falcon",
+  "fullName": "General Dynamics F-16 Fighting Falcon",
+  "manufacturer": "General Dynamics / Lockheed Martin",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Multirole Fighter",
+  "tagline": "The most-produced Western jet fighter of the modern era. It pioneered fly-by-wire flight controls in a production fighter and a deliberately unstable airframe for extreme agility, and with over 4,600 built, new-build Block 70/72 aircraft are still rolling off the line today.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "The F-16 was born from the Lightweight Fighter (LWF) competition, where General Dynamics' YF-16 beat the Northrop YF-17 in 1975 - its first 'flight' was actually an unplanned hop during a high-speed taxi test on 20 January 1974. The type entered USAF service in 1979 and quickly evolved from a day dogfighter into a true multirole workhorse, flying strike, SEAD ('Wild Weasel'), and air-defence missions in every major US operation since Desert Storm. Israel used F-16s to destroy Iraq's Osirak reactor in 1981, and Pakistani, Turkish, Greek and Dutch jets have all seen combat with the type. Production transferred to Lockheed Martin in 1993, and the latest Block 70/72 variants - with AESA radar and conformal fuel tanks - have kept the order book open into the 2030s, with Ukraine among the newest operators of second-hand European jets.",
+  "quickFacts": [
+    "The F-16's first flight was an accident: during a high-speed taxi test on 20 January 1974, oscillations forced test pilot Phil Oestricher to lift off to avoid crashing.",
+    "It was the first production fighter deliberately built to be aerodynamically unstable, relying entirely on its fly-by-wire computer to stay controllable.",
+    "Pilots nicknamed it the 'Viper' after the fighters in Battlestar Galactica - the official name 'Fighting Falcon' never really caught on in squadrons.",
+    "The seat is reclined 30 degrees and the side-stick controller barely moves - early versions didn't move at all, sensing only pressure from the pilot's hand.",
+    "With more than 4,600 built for 25+ countries, it is the most numerous fixed-wing military aircraft in service anywhere in the world.",
+    "Israeli F-16 number 78-0322, nicknamed 'Netz 107', is credited with 6.5 air-to-air kills plus the 1981 Osirak reactor strike - the highest-scoring F-16 airframe ever."
+  ],
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1345,
+      "text": "1,169 kn (1,345 mph / 2,165 km/h)"
+    },
+    "cruiseSpeed": "577 mph (929 km/h) typical cruise",
+    "range": {
+      "miles": 2620,
+      "text": "2,620 mi (4,215 km) ferry with drop tanks; combat radius ~340 mi (550 km)"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000+ ft (15,240+ m)"
+    },
+    "wingspan": {
+      "ft": 32.7,
+      "text": "32 ft 8 in (9.96 m)"
+    },
+    "length": {
+      "ft": 49.4,
+      "text": "49 ft 5 in (15.06 m)"
+    },
+    "height": {
+      "ft": 16.7,
+      "text": "16 ft 8 in (5.09 m)"
+    },
+    "weight": "empty: 18,900 lb (8,570 kg); MTOW: 42,300 lb (19,190 kg)",
+    "engines": "1 × Pratt & Whitney F100-PW-229 or GE F110-GE-129 afterburning turbofan (~29,000 lbf with afterburner)",
+    "armament": "1 × 20 mm M61A1 Vulcan cannon; AIM-9/AIM-120 AAMs; JDAM, Paveway, HARM, Maverick and most NATO air-to-ground weapons",
+    "crew": "1 (2 in B/D/F trainer variants)",
+    "capacity": "Up to 17,000 lb (7,700 kg) of stores on 11 hardpoints",
+    "firstFlight": {
+      "date": "1974-01-20",
+      "year": 1974
+    },
+    "serviceEntryDate": "1979-01-06",
+    "retiredDate": null,
+    "numberBuilt": 4600,
+    "unitCost": {
+      "usd": 63000000,
+      "text": "$63M (Block 70, 2020s contracts); early F-16A around $15M (1998 dollars)"
+    }
+  },
+  "variants": [
+    {
+      "code": "F-16A/B",
+      "desc": "Original single-seat (A) and two-seat (B) production versions with the APG-66 radar."
+    },
+    {
+      "code": "F-16C/D",
+      "desc": "Improved versions from 1984 with APG-68 radar, night/precision strike capability and successive Block upgrades."
+    },
+    {
+      "code": "F-16CJ (Block 50/52)",
+      "desc": "SEAD-optimised 'Wild Weasel' jets carrying the AGM-88 HARM and HTS targeting pod."
+    },
+    {
+      "code": "F-16E/F (Block 60)",
+      "desc": "'Desert Falcon' for the UAE with AESA radar and conformal fuel tanks."
+    },
+    {
+      "code": "F-16V / Block 70/72",
+      "desc": "Current standard: APG-83 AESA radar, new mission computer and Auto-GCAS ground collision avoidance."
+    },
+    {
+      "code": "QF-16",
+      "desc": "Retired airframes converted into full-scale unmanned aerial targets."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1979",
+      "fleetSize": "841 across active duty, Air Force Reserve and Air National Guard (2023)",
+      "homeBase": "Multiple (Shaw, Aviano, Misawa, ANG units)",
+      "logo": "usaf.svg"
+    },
+    {
+      "name": "Turkish Air Force",
+      "role": "Largest Export Operator",
+      "status": "In Service",
+      "since": "1987",
+      "fleetSize": "240 delivered, plus 30 Block 50+ ordered in 2007; largely licence-assembled by TAI",
+      "homeBase": "Turkish airbases"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Major Export Operator",
+      "status": "In Service",
+      "since": "1980",
+      "fleetSize": "300+ delivered across all blocks",
+      "homeBase": "Multiple",
+      "logo": "israeli-air-force.webp"
+    },
+    {
+      "name": "Egyptian Air Force",
+      "role": "Major Export Operator",
+      "status": "In Service",
+      "since": "1982",
+      "fleetSize": "220 - the fourth-largest F-16 fleet in the world",
+      "homeBase": "Egyptian airbases"
+    },
+    {
+      "name": "European Participating Air Forces (Belgium, Denmark, Netherlands, Norway)",
+      "role": "Launch Export Partners",
+      "status": "In Service",
+      "since": "1979",
+      "fleetSize": "Netherlands 213, Belgium 160, Denmark 78, Norway 74 (retired 2022) - the 1975 deal that built Europe's assembly lines",
+      "homeBase": "Airbases across Belgium, Denmark and the Netherlands"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Licence Operator",
+      "status": "In Service",
+      "since": "1986",
+      "fleetSize": "~135 KF-16s assembled in South Korea, plus earlier direct deliveries",
+      "homeBase": "South Korean airbases"
+    },
+    {
+      "name": "Republic of China (Taiwan) Air Force",
+      "role": "Major Export Operator",
+      "status": "In Service",
+      "since": "1997",
+      "fleetSize": "150 F-16A/B Block 20 delivered by 2001, being upgraded to F-16V standard, plus 66 Block 70 on order",
+      "homeBase": "Hualien and other Taiwanese airbases"
+    },
+    {
+      "name": "Hellenic Air Force",
+      "role": "Major Export Operator",
+      "status": "In Service",
+      "since": "1989",
+      "fleetSize": "170 acquired across four Peace Xenia programmes to 2010",
+      "homeBase": "Greek airbases"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Combat Operator",
+      "status": "In Service",
+      "since": "2024",
+      "fleetSize": "First aircraft delivered 1 August 2024; roughly 85 pledged from European stocks",
+      "homeBase": "Ukrainian airbases"
+    },
+    {
+      "name": "~20 other air forces worldwide",
+      "role": "Export Operators",
+      "status": "In Service",
+      "since": "1980",
+      "fleetSize": "2,102 operational worldwide in 2026 - about 15 percent of all active combat aircraft, across 25 operator nations",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F16",
+    "howToFind": "Search type 'F16'. Training sorties from ANG bases and European operators (Belgium, Netherlands, Poland, Greece) appear regularly when jets fly with transponders on."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/",
+      "topicTag": "F-16"
+    },
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/",
+      "topicTag": "F-16"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "F-16 fitted with AI autonomy kit completes 'pathbreaking' sortie",
+      "source": "Stars and Stripes",
+      "date": "2026-07-20",
+      "category": "Modernization",
+      "url": "https://www.stripes.com/branches/air_force/2026-07-20/first-venom-autonomous-jet-flight-22317435.html"
+    },
+    {
+      "title": "USAF explores next-generation mission computer upgrade for legacy F-16s",
+      "source": "Zona Militar",
+      "date": "2026-06-01",
+      "category": "Modernization",
+      "url": "https://www.zona-militar.com/en/2026/06/01/usaf-explores-next-generation-mission-computer-upgrade-for-legacy-f-16-fighting-falcons/"
+    }
+  ],
+  "tags": [
+    "f-16",
+    "viper",
+    "fighting falcon",
+    "general dynamics",
+    "lockheed martin",
+    "usaf",
+    "multirole",
+    "fighter",
+    "block 70",
+    "wild weasel"
+  ],
+  "article": {
+    "overview": [
+      "The General Dynamics F-16 Fighting Falcon is a single-engine, single-seat multirole fighter developed by General Dynamics, now built by Lockheed Martin. More than 4,600 have been built for over two dozen air forces, making it the most numerous fixed-wing combat aircraft in service today.{{ref:wiki-f16}}{{ref:lm-fastfacts}}",
+      "It has fought over Lebanon's Bekaa Valley and over Baghdad, destroyed Iraq's Osirak nuclear reactor in a 1981 raid, and entered Ukrainian service in 2024. Pilots have called it the 'Viper' since its first operational squadron stood up.{{ref:wiki-f16}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The F-16 exists because a small group of Pentagon insurgents - the self-styled 'Fighter Mafia' around Colonel John Boyd, mathematician Thomas Christie and designer Harry Hillaker - believed 1960s fighters had lost the plot. Boyd's energy-manoeuvrability theory reduced dogfighting to mathematics, and the mathematics said the winning fighter was small, light, simple and agile, with more thrust than weight and a pilot who could see out.{{ref:wiki-f16}}",
+          "Their heresy became the Lightweight Fighter (LWF) program of 1972, a fly-before-buy competition the establishment expected to remain a technology demo. General Dynamics' YF-16 flew against Northrop's twin-engined YF-17 through 1974; the YF-16 won in January 1975 on agility, range and the economics of sharing the F-15's engine.{{ref:wiki-f16}}",
+          "What guaranteed the type's future came five months later: Belgium, Denmark, the Netherlands and Norway jointly picked the F-16 over the Mirage F1 and a Swedish Viggen derivative to replace their F-104s - the 'Deal of the Century', which planted F-16 production lines and four decades of operators across Europe from the start.{{ref:wiki-f16}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Turning the YF-16 into the production F-16A stretched the fuselage, grew the radar nose and added hardpoints - the start of a weight-and-capability spiral the Fighter Mafia grumbled about forever after. Deliveries to Hill AFB began in January 1979, with the European partner air forces following within months from their own assembly lines in Belgium and the Netherlands.{{ref:wiki-f16}}",
+          "The design then did something few fighters manage: it kept absorbing new roles without losing its edge. The C/D models added beyond-visual-range missiles and precision strike; successive Block numbers brought new radars, engines and electronic warfare fits; and by the 2000s the F-16 was less a single aircraft than a family tree spanning forty years of avionics.{{ref:key-block70}}",
+          "It refuses to end. The current Block 70/72 - AESA radar, new cockpit, conformal tanks, automatic ground-collision avoidance - is built at a dedicated Greenville, South Carolina line with 122 delivered and a backlog of roughly 530 aircraft as of mid-2026, keeping production alive into the 2030s.{{ref:lm-fastfacts}}{{ref:shephard-f16}}{{ref:sf-ordering}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The F-16 was the first production aircraft designed to be aerodynamically unstable on purpose. Relaxed static stability meant the airframe wanted to depart controlled flight every instant - and the analogue (later digital) fly-by-wire system, another production first, caught it every instant, converting instability into extraordinary agility. Pilots don't so much deflect the F-16's controls as request manoeuvres from the computer.{{ref:wiki-f16}}",
+          "The cockpit departed sharply from earlier fighters too: a frameless bubble canopy for improved all-round visibility, a seat reclined 30 degrees to raise g-tolerance, and a force-sensing sidestick on the right console in place of the centre stick fighters had used since 1914. The airframe was designed to a 9g structural limit.{{ref:wiki-f16}}",
+          "Underneath it all: one F100 engine shared with the F-15, a blended wing-body that carries lift into the fuselage, and the strake vortices that keep the nose flying at angles of attack that would stall the aircraft it replaced.{{ref:wiki-f16}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "Israel wrote the type's first legends. On 7 June 1981, eight Israeli F-16As flew low across Jordan and Saudi Arabia to destroy Iraq's Osirak nuclear reactor - a mission at the ragged edge of their unrefuelled range and the defining precision strike of its era. A year later over Lebanon's Bekaa Valley, Israeli F-16s tore through the Syrian air force in history's largest jet-versus-jet battle, establishing an air-to-air record the type never surrendered.{{ref:wiki-osirak}}",
+          "For the U.S. and NATO, the F-16 became the everywhere-fighter: 13,340 sorties in Desert Storm (more than any other coalition type), no-fly zones over Iraq and the Balkans, strikes in Kosovo, Afghanistan and against ISIS, and the backbone of a dozen allied air arms doing the same jobs on the same jets.{{ref:wiki-f16}}",
+          "Its newest war began in August 2024, when the first European-donated F-16s reached Ukraine. Flying air defence against cruise missiles and Shahed drones - and losing airframes and pilots doing it - Ukrainian Vipers turned a Cold War icon into the most-watched fighter of the 2020s, sustained by a NATO pipeline of Danish and Dutch donations and even boneyard airframes shipped for spares.{{ref:twz-boneyard}}{{ref:lm-fastfacts}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "By the numbers alone the F-16 is the most successful Western fighter of the jet age: over 4,600 built, more than two dozen operator nations, an air-to-air record measured in dozens of kills against a single loss, and - uniquely for a 1970s design - a production backlog that grew in the 2020s.{{ref:lm-fastfacts}}{{ref:af-f16}}",
+          "Fly-by-wire instability, the sidestick, the reclined seat, the bubble canopy and thrust-to-weight over unity all became standard features on fighters designed after the F-16. Many air forces that buy the F-35 as an F-16 successor continue operating F-16s alongside it rather than retiring the type.{{ref:shephard-f16}}",
+          "Fifty years after Phil Oestricher's unplanned first flight, air forces from Bratislava to Kyiv to Taipei are still taking delivery of new F-16s.{{ref:key-block70}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f16",
+      "name": "General Dynamics F-16 Fighting Falcon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"
+    },
+    {
+      "id": "lm-fastfacts",
+      "name": "F-16 Fast Facts (June 2026)",
+      "publisher": "Lockheed Martin",
+      "url": "https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/documents/F-16/26-01416_001_F-16FastFacts_06_2026.pdf"
+    },
+    {
+      "id": "af-f16",
+      "name": "F-16 Fighting Falcon Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104505/f-16-fighting-falcon/"
+    },
+    {
+      "id": "wiki-osirak",
+      "name": "Operation Opera",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Opera"
+    },
+    {
+      "id": "twz-boneyard",
+      "name": "F-16s Pulled From U.S. Boneyard Are Being Delivered To Ukraine For Spare Parts",
+      "publisher": "TWZ (The War Zone)",
+      "url": "https://www.twz.com/air/f-16s-pulled-from-u-s-boneyard-are-being-delivered-to-ukraine-for-spare-parts"
+    },
+    {
+      "id": "key-block70",
+      "name": "F-16 Block 70/72: the most advanced Viper to date",
+      "publisher": "Key.Aero",
+      "url": "https://www.key.aero/article/f-16-block-7072-all-you-need-know-about-most-advanced-viper-date"
+    },
+    {
+      "id": "shephard-f16",
+      "name": "Lockheed Martin 'bullish' on future of its F-16 programme",
+      "publisher": "Shephard Media",
+      "url": "https://www.shephardmedia.com/news/air-warfare/lockheed-martin-bullish-on-future-of-its-f-16-programme/"
+    },
+    {
+      "id": "sf-ordering",
+      "name": "5 Countries Still Ordering The F-16 Fighting Falcon",
+      "publisher": "Simple Flying",
+      "url": "https://simpleflying.com/5-countries-still-ordering-f-16-fighting-falcon/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "General Dynamics F-16 Fighting Falcon - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"
+    },
+    {
+      "name": "Lockheed Martin - F-16",
+      "url": "https://www.lockheedmartin.com/en-us/products/f-16.html"
+    },
+    {
+      "name": "General Dynamics F-16 operational history - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and current production/Ukraine status from Lockheed Martin's June 2026 figures.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster from the full operators list - broke the single \"25+ allied air forces\" row into the nine largest operators with real delivered and in-service figures, corrected the USAF fleet to the 2023 figure of 841, and named the remaining export customers. Attached two previously uncited references.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1994-03-23",
+      "title": "Green Ramp disaster at Pope Air Force Base",
+      "tag": "Mid-air collision / ground disaster",
+      "summary": "An F-16D collided with a C-130 on approach and, after the crew ejected, ploughed into a parked C-141 on the ramp at Pope AFB. The fireball swept through paratroopers of the 82nd Airborne staging for a jump, killing 24 of them and injuring more than eighty - the worst peacetime loss in the division's history.",
+      "fatalities": 24,
+      "source": "https://en.wikipedia.org/wiki/Green_Ramp_disaster"
+    },
+    {
+      "date": "1995-06-02",
+      "title": "Shootdown over Bosnia (Capt. Scott O'Grady)",
+      "summary": "A USAF F-16C was shot down over Bosnia by a Bosnian-Serb surface-to-air missile while enforcing the NATO no-fly zone. The pilot ejected, evaded capture for six days and was rescued by U.S. Marines.",
+      "fatalities": 0,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    },
+    {
+      "date": "1996-10-08",
+      "title": "Turkish F-16 shot down over the Aegean",
+      "tag": "Shot down",
+      "summary": "A Greek Mirage 2000 shot down a Turkish F-16D during a confrontation over the Aegean; the pilot was killed and the back-seater ejected. Greece denied the shootdown for sixteen years before acknowledging it in 2012.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    },
+    {
+      "date": "1999-05-02",
+      "title": "Shootdown over Serbia during Operation Allied Force",
+      "summary": "A USAF F-16CG was shot down over Yugoslavia by a surface-to-air missile during NATO's Operation Allied Force. The pilot ejected and was recovered by combat search-and-rescue forces.",
+      "fatalities": 0,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    },
+    {
+      "date": "2002-04-17",
+      "title": "Tarnak Farm friendly-fire incident",
+      "summary": "A U.S. Air National Guard F-16 pilot dropped a laser-guided bomb on Canadian soldiers conducting a night live-fire exercise near Kandahar, Afghanistan, after mistaking their fire for a hostile attack.",
+      "fatalities": 4,
+      "tag": "Friendly fire",
+      "source": "https://en.wikipedia.org/wiki/Tarnak_Farm_incident"
+    },
+    {
+      "date": "2006-05-23",
+      "title": "Turkish-Greek F-16 collision over the Aegean",
+      "summary": "A Turkish F-16 and a Greek F-16 collided during an interception encounter over the Aegean Sea, part of long-running airspace disputes between the two countries. The Greek pilot was killed.",
+      "fatalities": 1,
+      "tag": "Mid-air collision",
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    },
+    {
+      "date": "2014-12-24",
+      "title": "Jordanian pilot captured after crash near Raqqa",
+      "summary": "A Royal Jordanian Air Force F-16 crashed near Raqqa, Syria during an anti-ISIS coalition strike mission. The pilot survived the crash but was captured by ISIS and later killed in captivity.",
+      "fatalities": 0,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    },
+    {
+      "date": "2015-01-26",
+      "title": "Los Llanos Air Base crash during NATO training",
+      "tag": "Takeoff loss of control",
+      "summary": "A loose checklist jammed the yaw trim of a Hellenic Air Force F-16D at full deflection seconds after takeoff in Spain; the jet rolled over and hit the flight line, destroying French Mirage 2000Ds and Alpha Jets and an Italian AMX. Both Greek pilots and nine ground personnel were killed and more than thirty injured.",
+      "fatalities": 11,
+      "source": "https://en.wikipedia.org/wiki/2015_Los_Llanos_Air_Base_crash"
+    },
+    {
+      "date": "2015-07-07",
+      "title": "Moncks Corner mid-air collision",
+      "tag": "Mid-air collision",
+      "summary": "An F-16C on an instrument training flight struck a Cessna 150 broadside over South Carolina after air traffic control failed to keep the two apart. The fighter pilot ejected; both people in the Cessna were killed.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/2015_Moncks_Corner_mid-air_collision"
+    },
+    {
+      "date": "2016-06-02",
+      "title": "Thunderbirds crash after the Air Force Academy flypast",
+      "tag": "Display accident",
+      "summary": "Thunderbird 6 came down near Colorado Springs immediately after the US Air Force Academy graduation flyover attended by President Obama. The pilot ejected safely and the mishap was traced to a throttle trigger error.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/United_States_Air_Force_Thunderbirds"
+    },
+    {
+      "date": "2018-02-10",
+      "title": "Israeli F-16I shot down by Syrian air defences",
+      "tag": "Shot down",
+      "summary": "A Syrian S-200 missile brought down an Israeli F-16I returning from a strike on Iranian assets in Syria - the first Israeli combat aircraft lost to enemy fire in decades. Both crew ejected over Israeli territory and survived.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    },
+    {
+      "date": "2024-08-29",
+      "title": "First Ukrainian F-16 lost",
+      "tag": "Combat loss",
+      "summary": "Ukraine lost one of the F-16s delivered only weeks earlier while repelling a mass Russian missile and drone attack, killing the pilot. It was the type's first loss in Ukrainian service.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    },
+    {
+      "date": "2025-04-12",
+      "title": "Ukrainian F-16 shot down by an S-400",
+      "tag": "Shot down",
+      "summary": "A Russian S-400 surface-to-air missile brought down a Ukrainian F-16, killing 26-year-old pilot Pavlo Ivanov.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    },
+    {
+      "date": "2025-06-29",
+      "title": "Ukrainian F-16 lost intercepting drones",
+      "tag": "Combat loss",
+      "summary": "Pilot Maksym Ustymenko was killed when his F-16 was struck by debris from a drone he had just destroyed during a large-scale Russian attack; he stayed with the aircraft to steer it away from a populated area.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    }
+  ]
+}

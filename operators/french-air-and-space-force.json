@@ -1,0 +1,22 @@
+{
+  "id": "french-air-and-space-force",
+  "slug": "french-air-and-space-force",
+  "name": "French Air and Space Force",
+  "shortName": "AAE",
+  "type": "military",
+  "country": {
+    "name": "France",
+    "code": "fr"
+  },
+  "founded": "1934-07-02",
+  "foundedDisplay": "2 July 1934",
+  "headquarters": "Balard, Paris, France",
+  "logo": "french-air-force.webp",
+  "website": null,
+  "tagline": "Keeper of the airborne half of France's independent nuclear deterrent, and gained a space command and a new name in 2020.",
+  "bio": [
+    "The Armee de l'Air became a service in its own right on 2 July 1934, separating from the army after two decades as its aviation branch. Its defining feature since the 1960s has been independence: France left NATO's integrated command in 1966 and built a national deterrent around the Forces Aeriennes Strategiques, which have stood continuous alert since 1964 and today fly Rafale Bs armed with the ASMP-A stand-off missile. That insistence on sovereign capability is also why French squadrons flew French aircraft when most of Europe flew American ones - the Mirage III made France the second country in the world to field a Mach 2 fighter.",
+    "In September 2020 the service was renamed the Armee de l'Air et de l'Espace when the Space Command established at Toulouse the previous year was folded in, making it one of the first European air forces to formally take on the domain. Its transport fleet re-equipped with the A400M from 2013, the first of the type delivered to any air force, based at Orleans-Bricy. The Patrouille de France has displayed since 1953."
+  ],
+  "matchPattern": "french air and space force|french air force|arm[eé]e de l'air"
+}

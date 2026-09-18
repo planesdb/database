@@ -1,0 +1,245 @@
+{
+  "name": "BelugaXL",
+  "fullName": "Airbus A330-743L BelugaXL",
+  "manufacturer": "Airbus",
+  "originCountry": {
+    "name": "Multinational (Europe)",
+    "code": "eu"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Outsize Cargo Transport",
+  "tagline": "The Airbus A330-743L BelugaXL is a twin-engine outsize freighter that carries wings and fuselage sections between the eleven European sites where Airbus builds its aircraft. Six were built to replace the older A300-600ST Beluga, each one 6.9 m longer and 1.7 m wider in the fuselage, and able to carry both wings of an A350 in a single load instead of one.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "The whale face painted on every BelugaXL was chosen by Airbus employees, who picked it from six candidate designs with more than 40 percent of the vote in 2017.",
+    "It can carry a pair of A350 wings in one load; the older Beluga could only manage one, which is the single change that justified the programme.",
+    "The aircraft that entered service first was the second one built - the prototype spent 18 months on flight test and had to be retrofitted afterwards.",
+    "Its cargo door is 10 m by 8 m, weighs 3.1 tonnes and is held shut by 24 latches.",
+    "Payload is 50.5 tonnes, only about 3.5 tonnes more than the aircraft it replaced - the 30 percent gain is in volume, not weight.",
+    "The fleet averages a 70-minute turnaround between landing and departing again, and Airbus expects it to fly 9,500 hours a year by 2027."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the production A330-743L as operated by Airbus Transport International.",
+    "maxSpeed": {
+      "mph": 458,
+      "text": "398 kn (458 mph / 737 km/h)"
+    },
+    "cruiseSpeed": "458 mph (737 km/h, Mach 0.69 up to 35,000 ft)",
+    "range": {
+      "miles": 2650,
+      "text": "2,650 mi (4,260 km, 2,300 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 35000,
+      "text": "35,000 ft (10,700 m)"
+    },
+    "wingspan": {
+      "ft": 197.8,
+      "text": "197 ft 10 in (60.30 m)"
+    },
+    "length": {
+      "ft": 207,
+      "text": "207 ft 0 in (63.10 m)"
+    },
+    "height": {
+      "ft": 62,
+      "text": "62 ft 0 in (18.90 m)"
+    },
+    "weight": "empty: 281,089 lb (127,500 kg); MTOW: 500,449 lb (227,000 kg)",
+    "engines": "2 x Rolls-Royce Trent 700 turbofans, 71,000 lbf (316 kN) each",
+    "crew": "2 flight crew, plus a four-seat courier cabin",
+    "capacity": "50,500 kg (111,333 lb) maximum payload in a 2,209 cubic metre (78,000 cu ft) hold 8.8 m in diameter - enough for two complete A350 wings",
+    "firstFlight": {
+      "date": "2018-07-19",
+      "year": 2018
+    },
+    "serviceEntryDate": "2020-01-09",
+    "retiredDate": null,
+    "numberBuilt": 6,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the six aircraft were built for Airbus's own logistics fleet and never offered for sale, against a reported programme development cost of around 1 billion euros"
+    }
+  },
+  "variants": [
+    {
+      "code": "A330-743L",
+      "desc": "The only version built, and the type's formal Airbus designation. Six were completed between 2016 and 2023 on A330-200F-derived airframes: the forward fuselage comes from the A330-200 for centre-of-gravity reasons, the aft section from the longer A330-300, and the reinforced floor and structure from the A330-200F freighter. Airbus originally planned five and added a sixth in June 2019."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Airbus Transport International",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "6",
+      "homeBase": "Toulouse-Blagnac Airport - France"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A337",
+    "howToFind": "Filter by type code A337 - it returns nothing but BelugaXLs, since Airbus Transport International (4Y / BGA, callsign 'Belouga') is the only operator and there are only six aircraft. Registrations run in the F-GXL- series, including F-GXLG, F-GXLH, F-GXLI, F-GXLJ and F-GXLO. Sectors are short European hops between Toulouse, Hamburg, Bremen, Saint-Nazaire, Broughton and Getafe, mostly on weekdays, so a mid-morning look at the map over the Bay of Biscay or the English Channel usually finds one airborne."
+  },
+  "lastUpdated": "2026-09-08",
+  "changelog": [
+    {
+      "date": "2026-09-08",
+      "change": "Entry created - full article, specifications, variants and incident log written from Airbus, Wikipedia, FlightGlobal, AeroTime and named aviation-press sources.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "belugaxl",
+    "beluga xl",
+    "airbus belugaxl",
+    "a330-743l",
+    "a330-700l",
+    "outsize cargo",
+    "freighter",
+    "whale plane",
+    "airbus transport international",
+    "civilian"
+  ],
+  "article": {
+    "overview": [
+      "The Airbus A330-743L BelugaXL is a twin-engine outsize freighter built to move wings, fuselage sections and tailplanes between the eleven European sites where Airbus manufactures and assembles its aircraft. It first flew on 19 July 2018, was certified by EASA on 13 November 2019 and entered service on 9 January 2020. {{ref:wiki-belugaxl}} {{ref:airbus-beluga}}",
+      "Six were built on airframes derived from the A330-200F, each carrying 50.5 tonnes in a hold of 2,209 cubic metres - about 30 percent more volume than the A300-600ST Beluga it replaced, and enough for both wings of an A350 in one load rather than one wing at a time. {{ref:wiki-belugaxl}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Airbus launched the BelugaXL in November 2014 because its five A300-600STs could no longer keep pace with production. The constraint was specific rather than general: an A350 wing fitted the older aircraft, but only one at a time, so every A350 shipset needed two flights out of Broughton. With A350 output rising and the A320neo line heading for 63 aircraft a month by 2021, the logistics fleet had become the bottleneck. {{ref:wiki-belugaxl}}",
+          "The design was frozen on 16 September 2015 and development cost roughly 1 billion euros. {{ref:wiki-belugaxl}} Rather than start from scratch, Airbus built the aircraft on the A330-200F: the forward fuselage comes from the A330-200 for centre-of-gravity reasons, the aft section from the longer A330-300, and the reinforced cargo floor and supporting structure from the freighter. Five aircraft were ordered initially and a sixth added in June 2019. {{ref:wiki-belugaxl}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The BelugaXL uses the same basic architecture as its predecessor - a standard airliner below the cabin floor, an enlarged cargo shell above it, and a cockpit dropped beneath the hold so the nose can hinge upwards. The main cargo door measures 10 m by 8 m, weighs 3.1 tonnes and is secured by 24 latches. {{ref:wiki-belugaxl}} The enlarged fuselage costs the aircraft a great deal of directional stability, and the fix is visible from a distance: the vertical stabiliser is 50 percent larger than the original Beluga's, the horizontal stabiliser carries auxiliary fins, and two ventral fins sit beneath the tail. {{ref:wiki-belugaxl}}",
+          "The fuselage is 6.9 m longer and 1.7 m wider than the A300-600ST's, giving a hold of 2,209 cubic metres against 1,400. {{ref:wiki-belugaxl}} Payload, though, rises only to 50.5 tonnes from 47 - about 3.5 tonnes - which is the clearest statement of what the aircraft is for. Airbus is not short of lifting capacity; it is short of internal volume, because aircraft structures are large and light. Power comes from two Rolls-Royce Trent 700s of 71,000 lbf each, and cruise is Mach 0.69 up to 35,000 ft, with a range of 2,300 nmi against roughly 900 nmi for the older aircraft on comparable loads. {{ref:wiki-belugaxl}} {{ref:aerocorner-xl}}"
+        ]
+      },
+      {
+        "heading": "Testing & Fleet Introduction",
+        "paragraphs": [
+          "The first aircraft, MSN1824, flew from Toulouse-Blagnac on 19 July 2018 and went into a campaign of more than 200 test flights totalling over 700 hours, against a plan of fewer than 1,000. EASA granted type certification on 13 November 2019. {{ref:wiki-belugaxl}} Because the prototype was tied up in flight test and then needed retrofitting to production standard, it was the second airframe, MSN1853, that entered service first, on 9 January 2020. {{ref:wiki-belugaxl}}",
+          "The whale livery, with eyes and a curved mouth painted onto the nose, was not a marketing department decision: Airbus put six candidate designs to a staff vote in 2017 and the smiling whale won with more than 40 percent. {{ref:airbus-livery}} The remaining aircraft were delivered through the early 2020s while the A300-600ST fleet was progressively withdrawn, and the sixth and final BelugaXL joined the fleet in June 2024. {{ref:airbus-final-xl}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The fleet is operated by Airbus Transport International under the callsign 'Belouga', serving 11 European destinations that include Toulouse, Hamburg, Bremen, Saint-Nazaire and Broughton, and supporting final assembly in France, Germany, Spain and the United Kingdom. {{ref:airbus-beluga}} {{ref:airbus-final-xl}} Sectors are short and turnarounds are quick - Airbus quotes an average of 70 minutes between arrival and departure - and each aircraft is planned to fly around 1,000 flights and 1,700 hours a year. {{ref:airbus-final-xl}} {{ref:fg-etops}} On the routes it replaced, the BelugaXL cut the time to move A320 parts by two-thirds and A350 parts to roughly a ninth of what the older aircraft needed. {{ref:wiki-belugaxl}}",
+          "Reliability has been good and the type has had no accidents. Its most publicised disruption came on 10 September 2024, when F-GXLI declared an emergency between Saint-Nazaire and Hamburg-Finkenwerder, descended to 10,000 ft and diverted to Amsterdam Schiphol, landing safely on runway 18C. {{ref:aerotime-ams}} An unfamiliar aircraft squawking 7700 into a major passenger hub drew far more attention than the technical issue behind it warranted."
+        ]
+      },
+      {
+        "heading": "Compared with the Dreamlifter",
+        "paragraphs": [
+          "Boeing solved the same problem for the 787 with the 747-400 Large Cargo Freighter, and the two answers differ in almost every respect. Boeing converted four second-hand 747-400s rather than building new airframes, and loads them through a swing tail hinged at the rear of the fuselage instead of a nose door. The Dreamlifter first flew on 9 September 2006 and entered service in 2007; it holds 1,840 cubic metres and lifts 113,400 kg, more than twice the BelugaXL's payload, and it is flown under contract by Atlas Air rather than by Boeing itself. {{ref:wiki-dreamlifter}}",
+          "The difference reflects the shape of each production system. Boeing's 787 partners are in Japan, Italy and the United States, so four aircraft fly long intercontinental legs; Airbus's plants are all in western Europe, so six aircraft fly short sectors many times a day, and turnaround time matters more than payload. Airbus has been explicit that sea freight remains the baseline for oversize shipments to the United States and China, and that the ETOPS approval sought for the last two BelugaXLs is about flexibility rather than a change of strategy. {{ref:fg-etops}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "All six aircraft are in service, and Airbus expects the fleet to be flying 9,500 hours a year by 2027 as it takes over the last of the work still being done by the older type - a figure set against 6,500 planned for 2024. {{ref:airbus-final-xl}} The A300-600ST fleet made its final flight on 29 January 2026, leaving the BelugaXL as the only outsize transport Airbus operates. {{ref:airways-final}}",
+          "The main capability still outstanding is range. The last two aircraft were specified for 180-minute ETOPS approval, which would allow transatlantic sectors, primarily to carry satellites to launch sites in North America; Airbus has been clear that sea freight remains the baseline for oversize shipments to the United States and China, and that ETOPS is about flexibility rather than a change of strategy. {{ref:fg-etops}} With production of the six aircraft complete and no successor announced, the fleet is expected to carry Airbus's internal logistics for the foreseeable future. {{ref:airbus-beluga}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-belugaxl",
+      "name": "Airbus BelugaXL",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_BelugaXL"
+    },
+    {
+      "id": "airbus-beluga",
+      "name": "The iconic Airbus Beluga Super Transporter",
+      "publisher": "Airbus",
+      "url": "https://www.airbus.com/en/products-services/commercial-aircraft/freighter/beluga"
+    },
+    {
+      "id": "airbus-livery",
+      "name": "Design decision: Airbus employees put a smile on the BelugaXL's face",
+      "publisher": "Airbus",
+      "url": "https://www.airbus.com/en/newsroom/news/2017-04-design-decision-airbus-employees-put-a-smile-on-the-belugaxls-face"
+    },
+    {
+      "id": "airbus-final-xl",
+      "name": "Wheels-up for the final BelugaXL!",
+      "publisher": "Airbus",
+      "url": "https://www.airbus.com/en/newsroom/stories/2024-06-wheels-up-for-the-final-belugaxl"
+    },
+    {
+      "id": "fg-etops",
+      "name": "Airbus intends ETOPS for BelugaXL to support transatlantic operations",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/air-transport/airbus-intends-etops-for-belugaxl-to-support-transatlantic-operations/142308.article"
+    },
+    {
+      "id": "aerotime-ams",
+      "name": "Airbus BelugaXL forced to make emergency landing in Amsterdam",
+      "publisher": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/airbus-belugaxl-emergency-landing-amsterdam"
+    },
+    {
+      "id": "airways-final",
+      "name": "Last Active Airbus BelugaST Makes Final Flight",
+      "publisher": "Airways",
+      "url": "https://www.airwaysmag.com/new-post/last-active-belugast-final-flight"
+    },
+    {
+      "id": "aerocorner-xl",
+      "name": "Airbus Beluga XL - History, Technical Data & Photos",
+      "publisher": "AeroCorner",
+      "url": "https://aerocorner.com/aircraft/airbus-beluga-xl/"
+    },
+    {
+      "id": "wiki-dreamlifter",
+      "name": "Boeing Dreamlifter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_Dreamlifter"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Airbus - The iconic Airbus Beluga Super Transporter",
+      "url": "https://www.airbus.com/en/products-services/commercial-aircraft/freighter/beluga"
+    },
+    {
+      "name": "Airbus - Wheels-up for the final BelugaXL!",
+      "url": "https://www.airbus.com/en/newsroom/stories/2024-06-wheels-up-for-the-final-belugaxl"
+    },
+    {
+      "name": "FlightGlobal - Airbus intends ETOPS for BelugaXL to support transatlantic operations",
+      "url": "https://www.flightglobal.com/air-transport/airbus-intends-etops-for-belugaxl-to-support-transatlantic-operations/142308.article"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2020-01-09",
+      "title": "Type enters service",
+      "tag": "Milestone",
+      "summary": "MSN1853, the second BelugaXL built, flew the type's first operational sector for Airbus Transport International. The prototype had been retained for flight testing and needed retrofitting to production standard before it could join the fleet.",
+      "source": "https://en.wikipedia.org/wiki/Airbus_BelugaXL"
+    },
+    {
+      "date": "2024-09-10",
+      "title": "F-GXLI emergency diversion to Amsterdam",
+      "tag": "Technical diversion",
+      "summary": "En route from Saint-Nazaire to Hamburg-Finkenwerder, the crew squawked 7700, descended to 10,000 ft and diverted to Amsterdam Schiphol, landing on runway 18C at 15:14 local time. The descent profile pointed to a pressurisation problem; nobody was hurt and the aircraft returned to service two days later.",
+      "fatalities": 0,
+      "source": "https://www.aerotime.aero/articles/airbus-belugaxl-emergency-landing-amsterdam"
+    }
+  ]
+}

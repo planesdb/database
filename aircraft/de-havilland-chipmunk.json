@@ -1,0 +1,296 @@
+{
+  "name": "DHC-1 Chipmunk",
+  "fullName": "de Havilland Canada DHC-1 Chipmunk",
+  "manufacturer": "de Havilland Canada / de Havilland (UK licence)",
+  "originCountry": {
+    "name": "Canada",
+    "code": "ca"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Primary Trainer",
+  "tagline": "The 'poor man's Spitfire' that taught three generations of RAF pilots - and spied on the Soviets over Berlin. Two Chipmunks still fly with the RAF's Battle of Britain Memorial Flight today, and every BBMF fighter pilot must first master tailwheel flying in one before being let loose on a Spitfire or Hurricane.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "The Chipmunk was de Havilland Canada's first original design, drawn up by Polish émigré engineer Wsiewołod Jakimiuk, and first flew at Downsview, Toronto on 22 May 1946. Britain adopted it enthusiastically: over 700 of the 1,283 built came from de Havilland's UK factories at Hatfield and Chester as the Chipmunk T.10, entering RAF service from 1950 with University Air Squadrons, flying training schools and the RAFVR. In 1952 a Chipmunk of the Home Command Examining Unit gave the Duke of Edinburgh his first flying lessons; Prince Charles soloed in one at RAF Cranwell decades later, and the aircraft he trained in - WP903 - still flies in civilian hands.\n\nFrom 1956 until reunification in 1990, two Gatow-based Chipmunks flew the Berlin Control Zone reconnaissance missions known as Operations Schooner and Nylon - nominally continuation training, actually some of the lowest-tech and most audacious intelligence flights of the Cold War, photographing Soviet barracks, armour and airfields from a wood-and-fabric trainer with a hand-held camera. WG486, one of today's two BBMF Chipmunks, flew these missions in the 1980s.\n\nThe RAF retired the Chipmunk from pilot grading and Air Experience Flights in 1996 after 46 years, but WG486 and WK518 flew on with the Battle of Britain Memorial Flight, where they remain the Flight's quiet workhorses: tailwheel conversion, display-pilot currency and photographic sorties. Portugal's air force flew the type even longer, and today several hundred Chipmunks survive worldwide in civilian hands, cherished by aerobatic pilots - the great American airshow performer Art Scholl flew a heavily modified 'Super Chipmunk' - and by anyone who has ever wanted a Spitfire's manners on a trainer's budget.",
+  "quickFacts": [
+    "Both Prince Philip and King Charles III learned to fly in Chipmunks - the aircraft King Charles soloed in still flies today.",
+    "Cold War Chipmunks flew covert photo-reconnaissance missions over Soviet forces from RAF Gatow in Berlin (Operations Schooner and Nylon) - a spyplane disguised as a wood-and-fabric trainer.",
+    "Pilots call it the 'poor man's Spitfire' for control harmony that fighter pilots still rave about.",
+    "The RAF's two survivors, WG486 and WK518, train every BBMF pilot in tailwheel flying before they may touch a Spitfire or Hurricane.",
+    "WG486 has served the RAF continuously since 1951 - over 70 years - including Berlin spy flights in the 1980s; WK518 spent 30 years with University Air Squadrons before joining the BBMF in 1983.",
+    "It was de Havilland Canada's first in-house design, created by Polish engineer Wsiewołod Jakimiuk as the Tiger Moth's successor.",
+    "US airshow legend Art Scholl performed with a single-seat 'Super Chipmunk' with retractable gear, a 260 hp engine - and his dog Aileron riding along."
+  ],
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 138,
+      "text": "120 kn (138 mph / 222 km/h)"
+    },
+    "cruiseSpeed": "103 mph (166 km/h) typical cruise",
+    "range": {
+      "miles": 280,
+      "text": "280 mi (450 km)"
+    },
+    "serviceCeiling": {
+      "ft": 15800,
+      "text": "15,800 ft (4,800 m)"
+    },
+    "wingspan": {
+      "ft": 34.3,
+      "text": "34 ft 4 in (10.47 m)"
+    },
+    "length": {
+      "ft": 25.4,
+      "text": "25 ft 5 in (7.75 m)"
+    },
+    "height": {
+      "ft": 7.1,
+      "text": "7 ft 1 in (2.16 m)"
+    },
+    "weight": "empty: 1,517 lb (688 kg); MTOW: 2,014 lb (914 kg)",
+    "engines": "1 × de Havilland Gipsy Major 8 inverted four-cylinder piston engine (145 hp)",
+    "crew": "2 (instructor and student, tandem)",
+    "capacity": "N/A - two-seat primary trainer",
+    "firstFlight": {
+      "date": "1946-05-22",
+      "year": 1946
+    },
+    "serviceEntryDate": "1950-02-01",
+    "retiredDate": "1996 (RAF training fleet); WG486 & WK518 still flying with the BBMF",
+    "numberBuilt": 1283,
+    "unitCost": {
+      "usd": 20000,
+      "text": "$20,000 (approximate 1950s unit cost, roughly £7,000 at contemporary exchange rates) - roughly $250,000 in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$250,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "DHC-1B / T.30",
+      "desc": "Original Canadian-built versions for the RCAF and export."
+    },
+    {
+      "code": "Chipmunk T.10",
+      "desc": "UK licence-built RAF version - 735 built at Hatfield and Chester; the definitive British trainer."
+    },
+    {
+      "code": "Mk 20/21/22/23",
+      "desc": "Export military and civilianised versions, including Portuguese licence production by OGMA."
+    },
+    {
+      "code": "Super Chipmunk",
+      "desc": "Heavily modified US airshow conversions with big engines, clipped wings and retractable gear, made famous by Art Scholl."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Primary Trainer (historic); BBMF (current)",
+      "status": "2 in service with BBMF",
+      "since": "1950",
+      "fleetSize": "2 (WG486 & WK518; ~740 at peak)",
+      "homeBase": "RAF Coningsby",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Primary Trainer (historic)",
+      "status": "Retired 1972",
+      "since": "1948",
+      "fleetSize": "113 in service (of 217 built in Canada); 79 as ab initio trainers, 34 with flying clubs",
+      "homeBase": "Multiple",
+      "logo": "rcaf.webp"
+    },
+    {
+      "name": "Portuguese Air Force",
+      "role": "Trainer (historic; licence-built by OGMA)",
+      "status": "Retired (ceremonial flight retained into 2000s)",
+      "since": "1951",
+      "fleetSize": "76 delivered (10 from the UK, 66 licence-built by OGMA 1955-1961)",
+      "homeBase": "Sintra",
+      "logo": "portuguese-air-force.svg"
+    },
+    {
+      "name": "Civilian owners worldwide",
+      "role": "Private / aerobatic / heritage",
+      "status": "In Service",
+      "since": "1956",
+      "fleetSize": "Several hundred airworthy",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "DHC1",
+    "howToFind": "Search type 'DHC1'. The BBMF pair fly regularly around RAF Coningsby on training and photo sorties, and hundreds of civilian Chipmunks appear across the UK, Canada and Australia in fair weather."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "RAF BBMF News",
+      "url": "https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/",
+      "topicTag": "BBMF"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "BBMF prepares for 2026 season with Spitfire return and Lancaster overhaul",
+      "source": "Aerospace Global News",
+      "date": "2026-02-20",
+      "category": "Heritage",
+      "url": "https://aerospaceglobalnews.com/news/bbmf-raf-spitfire-lancaster-restoration/"
+    },
+    {
+      "title": "Memorial flight aircraft return to the skies after precautionary grounding",
+      "source": "Forces News",
+      "date": "2025-04-10",
+      "category": "Heritage",
+      "url": "https://www.forcesnews.com/news/ww2-fighters-return-flight-after-precautionary-grounding-following-raf-pilots-death"
+    }
+  ],
+  "tags": [
+    "chipmunk",
+    "dhc-1",
+    "dhc1",
+    "chippie",
+    "wg486",
+    "wk518",
+    "trainer",
+    "bbmf",
+    "de havilland",
+    "tailwheel",
+    "gatow",
+    "berlin"
+  ],
+  "article": {
+    "overview": [
+      "The de Havilland Canada DHC-1 Chipmunk is a two-seat, single-engine trainer aircraft designed by de Havilland Canada to replace the Tiger Moth. It first flew in 1946 and became the standard basic trainer of the Royal Air Force and Commonwealth air forces for a quarter-century.{{ref:wiki-chipmunk}}",
+      "It was the first aircraft designed entirely by de Havilland Canada, rather than assembled for its British parent company. Around 1,280 were built in Canada, Britain and Portugal, and the type trained generations of RAF pilots, including Prince Philip and the future King Charles III.{{ref:wiki-chipmunk}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The brief, in 1945, was to retire the biplane: replace the Tiger Moth with a modern monoplane trainer - enclosed tandem cockpits, flaps, brakes, a proper canopy - that still taught the stick-and-rudder fundamentals air forces trusted. DHC's Wsiewołod Jakimiuk, a Polish émigré engineer formerly of PZL, drew a small all-metal low-wing machine around the faithful Gipsy Major engine.{{ref:wiki-chipmunk}}",
+          "It flew at Downsview on 22 May 1946 and named a dynasty: the Chipmunk began DHC's run of animal-named classics - Beaver, Otter, Caribou - and its success carried the type back across the Atlantic, where de Havilland's UK factories built the RAF's fleet under licence.{{ref:baemuseum-chipmunk}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Chipmunk's genius is proportion: 145 hp, aerobatic stress limits, controls light and perfectly harmonised, and stall behaviour gentle enough for a first solo yet honest enough to teach real footwork - instructors call it an aeroplane that makes average pilots feel good and good pilots look brilliant. It spins properly, recovers predictably, and rewards precision like a fighter in miniature.{{ref:baemuseum-chipmunk}}",
+          "Construction was thoroughly modern for 1946 - stressed-skin metal fuselage and wings with fabric-covered control surfaces - which is precisely why so many survive: no wooden structure to rot, and a Gipsy Major that village engineering can keep healthy for decades.{{ref:wiki-chipmunk}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The RAF took nearly 740 UK-built Chipmunks from 1950 and put virtually everyone through them: University Air Squadrons, basic flying training, and the Air Experience Flights that gave hundreds of thousands of air cadets their first-ever flight. Prince Philip soloed in one in 1953; the future King Charles began his flying in one in 1968 - the trainer of the establishment, literally.{{ref:raf-chipmunk}}",
+          "Its one whiff of operations was suitably discreet: Chipmunks flew clandestine training sorties from RAF Gatow to keep Berlin-based pilots current inside the divided city's airspace - Cold War flying at its most genteel. Portugal's licence-built fleet, meanwhile, served into counter-insurgency-era liaison roles, and armies and air forces from Denmark to Thailand trained on the type.{{ref:wiki-chipmunk}}",
+          "The RAF's last military Chipmunks - the Battle of Britain Memorial Flight's pair, kept for tailwheel training - flew on decades after 'retirement' in 1996, and hundreds of civilian examples still teach aerobatics and delight owners across the world.{{ref:raf-chipmunk}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Canada built 218, Britain around 1,000, Portugal 66 under licence - some 1,280 in all, in trainer, civilian and even crop-spraying variants. The airframe's aerobatic bones invited hot-rodding: 'Super Chipmunks' with big engines and clipped wings became airshow legends in the hands of Art Scholl and Harold Krier.{{ref:wiki-chipmunk}}",
+          "Nothing ever quite replaced it in spirit: successor trainers taught faster and cheaper, but pilot after pilot - test pilots and airline captains among them - name the Chipmunk the aircraft that taught them what flying feels like. Type clubs on three continents keep parts, knowledge and standards alive.{{ref:baemuseum-chipmunk}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Chipmunk is the rare trainer remembered with affection rather than mere gratitude: the 'poor man's Spitfire', flown by monarchs and cadets alike, its handling still the benchmark instructors reach for when explaining what 'harmonised controls' means. Few aircraft have introduced more people to the sky, and none more charmingly.{{ref:raf-chipmunk}}",
+          "As DHC's first aircraft it also opened one of the company's great lineages - the company that learned its craft on a 145 hp trainer went on to define bush and STOL flying with the Beaver, Otter and Twin Otter.{{ref:wiki-chipmunk}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-chipmunk",
+      "name": "de Havilland Canada DHC-1 Chipmunk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-1_Chipmunk"
+    },
+    {
+      "id": "raf-chipmunk",
+      "name": "Chipmunk T10",
+      "publisher": "RAF Museum",
+      "url": "https://www.rafmuseum.org.uk/research/collections/de-havilland-canada-chipmunk-t10/"
+    },
+    {
+      "id": "baemuseum-chipmunk",
+      "name": "de Havilland Canada DHC-1 Chipmunk",
+      "publisher": "BAE Systems Heritage",
+      "url": "https://www.baesystems.com/en/heritage/de-havilland-canada-dhc-1-chipmunk"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "de Havilland Canada DHC-1 Chipmunk - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-1_Chipmunk"
+    },
+    {
+      "name": "RAF Battle of Britain Memorial Flight - official page",
+      "url": "https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/"
+    },
+    {
+      "name": "RAF Gatow - Wikipedia (Berlin Chipmunk reconnaissance)",
+      "url": "https://en.wikipedia.org/wiki/RAF_Gatow"
+    },
+    {
+      "name": "BAE Systems heritage - Chipmunk",
+      "url": "https://www.baesystems.com/en/heritage/de-havilland-canada-dhc-1-chipmunk"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed status field to the standard \"Retired\" value (was a long free-text string causing an oversized status badge). The two BBMF survivors detail is already covered by retiredDate and quickFacts.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Replaced placeholder fleetSize values of \"0\" on the retired RCAF and Portuguese Air Force rows with real delivered/in-service figures.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1953-06-27",
+      "title": "Crash during unauthorised low-level aerobatics",
+      "summary": "A Chipmunk crashed and burst into flames after its instructor performed unauthorised low-level rolls over ecology students at Malham Tarn, Yorkshire, well outside his cleared training area, killing both crew.",
+      "fatalities": 2,
+      "tag": "Training accident",
+      "source": "https://aviation-safety.net/wikibase/20456"
+    },
+    {
+      "date": "1956-04-15",
+      "title": "Fatal spin during tail-chase training",
+      "summary": "A Chipmunk entered an unrecoverable steep dive after a maximum-rate turn during a training exercise near Lydiate, Lancashire, killing the instructor while the student survived with severe injuries.",
+      "fatalities": 1,
+      "tag": "Training accident",
+      "source": "https://aviation-safety.net/wikibase/20458"
+    },
+    {
+      "date": "1993-08-26",
+      "title": "Crash during a simulated engine-failure manoeuvre",
+      "summary": "During an air-experience flight at RAF St Athan, the pilot simulated an engine failure after takeoff and mishandled the recovery, causing the Chipmunk to strike the ground near hangars. The pilot was killed and the passenger seriously injured.",
+      "fatalities": 1,
+      "tag": "Training accident",
+      "source": "https://aviation-safety.net/wikibase/69417"
+    }
+  ]
+}

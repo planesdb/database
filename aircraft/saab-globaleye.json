@@ -1,0 +1,402 @@
+{
+  "name": "GlobalEye",
+  "fullName": "Saab GlobalEye",
+  "manufacturer": "Saab",
+  "originCountry": {
+    "name": "Sweden",
+    "code": "se"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes"
+  ],
+  "role": "Airborne Early Warning & Control Aircraft",
+  "tagline": "The Saab GlobalEye is a multi-domain airborne early warning and control aircraft, built around the Erieye Extended Range radar and a Bombardier Global 6000 or 6500 business jet airframe. It entered service with the United Arab Emirates in April 2020, and in July 2026 NATO selected it to replace its ageing Boeing E-3A Sentry fleet.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "Saab sold the aircraft to its launch customer as the Swing Role Surveillance System - the \"swing role\" being the ability to switch between air, maritime and ground surveillance within a single sortie rather than flying a separate mission for each.",
+    "The Erieye Extended Range antenna is about 10 metres long and sits in a fixed dorsal fairing rather than a rotating rotodome, so the radar has no moving parts - but its coverage is two 150-degree side sectors, leaving reduced capability directly ahead of and behind the aircraft.",
+    "Swapping the radar's gallium arsenide transmit/receive modules for gallium nitride raised detection range by around 70 per cent, to a horizon-limited 216 nautical miles (400 km).",
+    "Sweden agreed to take its first two aircraft in an interim configuration, to be brought up to full standard only after the third arrives - a compromise accepted to cover the gap left by donating its ASC 890 early-warning aircraft to Ukraine.",
+    "Saab quotes a 6,500 ft field length requirement, short enough for the aircraft to operate from airfields that a converted airliner AWACS could not use.",
+    "NATO had already picked a winner for this requirement once: it chose the Boeing E-7 Wedgetail in 2023, then abandoned that plan in November 2025 for loss of strategic and financial basis, and selected GlobalEye eight months later."
+  ],
+  "specifications": {
+    "specificationsNote": "Saab publishes no flight-performance figures for GlobalEye, so the speeds, altitude, range, dimensions and engines below are those of the Bombardier Global 6000/6500 airframe it is built on; the dorsal radar fairing costs performance that has never been quantified publicly. Endurance, radar range and airfield performance are Saab's own GlobalEye figures. Aircraft delivered to the UAE and ordered by Sweden are based on the Global 6000, while the configuration offered to NATO uses the Global 6500.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "Not published for GlobalEye - the Global 6500 airframe is certified to Mach 0.90"
+    },
+    "cruiseSpeed": "560 mph (902 km/h, Mach 0.85) - Global 6000/6500 airframe figure",
+    "range": {
+      "miles": 7595,
+      "text": "7,595 mi (12,223 km, 6,600 nmi) - Global 6500 airframe range; Saab quotes 11 to 12 hours of endurance on station"
+    },
+    "serviceCeiling": {
+      "ft": 51000,
+      "text": "51,000 ft (15,545 m) - Global 6000/6500 airframe; Saab quotes surveillance performance at 35,000 ft"
+    },
+    "wingspan": {
+      "ft": 94,
+      "text": "94 ft (28.65 m)"
+    },
+    "length": {
+      "ft": 99,
+      "text": "99 ft 5 in (30.30 m)"
+    },
+    "height": {
+      "ft": 26,
+      "text": "25 ft 6 in (7.77 m)"
+    },
+    "weight": "MTOW: 99,500 lb (45,100 kg) - Global 6000/6500 airframe",
+    "engines": "Two Rolls-Royce BR700-710A2-20 turbofans, 14,750 lbf each, on Global 6000-based aircraft; Global 6500-based aircraft use two Rolls-Royce Pearl 15 (BR700-710D5-21) turbofans, 15,125 lbf each",
+    "crew": "Two pilots plus a mission crew of up to nine, working at five operator stations in the main cabin, with a four-seat rest area",
+    "capacity": "Erieye Extended Range gallium nitride AESA radar in a dorsal fairing, Leonardo Seaspray 7500E maritime surveillance radar, electro-optical/infrared sensor, ISAR and ground moving target indication modes, AIS receiver, satellite communications and datalinks, and a self-protection suite of laser and radar warning receivers with countermeasures dispensers",
+    "firstFlight": {
+      "date": "2018-03-14",
+      "year": 2018
+    },
+    "serviceEntryDate": "2020-04-29",
+    "retiredDate": null,
+    "numberBuilt": "5 delivered by 2024, with more in production",
+    "unitCost": {
+      "usd": null,
+      "text": "Not published as a flyaway figure - France's December 2025 contract for two aircraft plus ground equipment, training and support was worth about SEK 12.3 billion (around $1.3 billion), and an undisclosed Middle East customer ordered two in July 2026 for SEK 10.1 billion",
+      "inflationText": null
+    },
+    "combatLosses": "No GlobalEye loss has been confirmed. Satellite imagery published on 12 March 2026 showed hangars at Al Dhafra Air Base in the UAE burning after an Iranian strike, and several outlets reported that a GlobalEye had been destroyed there, but neither the UAE nor Saab has confirmed any loss, and imagery of a damaged building cannot establish what was inside it."
+  },
+  "flightradar24": {
+    "icaoTypeCode": "GLEX",
+    "howToFind": "GlobalEye is a converted Bombardier BD-700, so it shares the GLEX type designator with the civil Global Express family - the overwhelming majority of GLEX hits on any tracking map are ordinary corporate business jets, not this aircraft. Saab's development and production work is centred on Linkoping in Sweden, where the first aircraft flew, and Gothenburg, where the radar is built; operational AEW&C aircraft are not a realistic target for public tracking."
+  },
+  "variants": [
+    {
+      "code": "GlobalEye (Global 6000)",
+      "desc": "The original configuration, built on the Bombardier Global 6000. All five United Arab Emirates aircraft and the three ordered by Sweden are of this standard. Modifications to the donor airframe include a strengthened structure and wing to carry the dorsal radar fairing, an extended tailfin and ventral strakes to restore directional stability, and the addition of a military self-protection suite."
+    },
+    {
+      "code": "GlobalEye (Global 6500)",
+      "desc": "The current production standard, moving the same mission system onto Bombardier's Global 6500. The airframe is externally identical to the 6000 but is powered by Rolls-Royce Pearl 15 engines of 15,125 lbf rather than BR710s of 14,750 lbf, and carries 600 nautical miles more range. This is the configuration Saab offered to NATO for the E-3A replacement."
+    },
+    {
+      "code": "Swing Role Surveillance System (SRSS)",
+      "desc": "The United Arab Emirates' name for the system, and the designation used in Saab's original November 2015 contract announcement, before the GlobalEye name was adopted in 2016. It describes the operating concept rather than a separate build standard: one aircraft covering the air, maritime and ground pictures at once, and able to shift emphasis between them during a sortie."
+    },
+    {
+      "code": "S 106",
+      "desc": "The Swedish Air Force designation, following the S 100D Argus (ASC 890) it replaces. Sweden ordered two in June 2022 and a third in June 2024. The first two are to be delivered in an interim configuration to bring the capability into service sooner, then retrofitted to the full specification once the third aircraft is operational."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United Arab Emirates Air Force",
+      "role": "Launch Operator",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "5 delivered between April 2020 and September 2024",
+      "homeBase": "Reported to operate from Al Dhafra Air Base, Abu Dhabi"
+    },
+    {
+      "name": "Swedish Air Force",
+      "role": "Future Operator",
+      "status": "On Order",
+      "since": "2022",
+      "fleetSize": "3 on order as the S 106, with an option for a fourth; deliveries planned from 2027, replacing the S 100D Argus (ASC 890)",
+      "homeBase": "Not announced"
+    },
+    {
+      "name": "French Air and Space Force",
+      "role": "Future Operator",
+      "status": "On Order",
+      "since": "2025",
+      "fleetSize": "2 ordered in December 2025 with options for 2 more; deliveries planned for 2029-2032",
+      "homeBase": "Not announced"
+    },
+    {
+      "name": "NATO Airborne Early Warning & Control Force",
+      "role": "Future Operator",
+      "status": "Selected",
+      "since": "2026",
+      "fleetSize": "Up to 10 selected in July 2026 to replace 14 Boeing E-3A Sentries; Saab is in negotiations with the NATO Support and Procurement Agency and no contract has been signed",
+      "homeBase": "The E-3A fleet it replaces is home-based at Geilenkirchen, Germany"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Future Operator",
+      "status": "Selected",
+      "since": "2026",
+      "fleetSize": "6 aircraft intended; named Canada's preferred solution in May 2026, ahead of the Boeing E-7 Wedgetail and L3Harris AERIS X",
+      "homeBase": "Not announced"
+    },
+    {
+      "name": "Royal Netherlands Air Force",
+      "role": "Future Operator",
+      "status": "Letter of Intent",
+      "since": "2026",
+      "fleetSize": "1 aircraft planned for 2031, to be pooled with Sweden's three; Dutch crews are to gain access to the Swedish fleet from 2028",
+      "homeBase": "Not announced"
+    },
+    {
+      "name": "Undisclosed Middle East customer",
+      "role": "Future Operator",
+      "status": "On Order",
+      "since": "2026",
+      "fleetSize": "2 ordered in July 2026 for SEK 10.1 billion, for delivery in 2030; Saab has said it will release no further detail about the customer",
+      "homeBase": "Not disclosed"
+    }
+  ],
+  "lastUpdated": "2026-09-10",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants and operator roster written from Saab product and press-release material, NATO's own announcement, Bombardier airframe data and named defence-aviation reporting.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "GlobalEye",
+    "Erieye",
+    "AEW&C",
+    "SRSS",
+    "S 106",
+    "Global 6000",
+    "Global 6500"
+  ],
+  "article": {
+    "overview": [
+      "The Saab GlobalEye is a multi-domain airborne early warning and control (AEW&C) aircraft, built by Saab of Sweden around the Erieye Extended Range radar and a Bombardier Global 6000 or 6500 business jet airframe {{ref:saab-globaleye}}. It watches the air, sea and ground pictures at the same time from a single platform, which is where its launch customer's name for it - the Swing Role Surveillance System - came from {{ref:saab-uae-2015}}. The first aircraft flew from Linkoping on 14 March 2018, and the type entered service with the United Arab Emirates Air Force on 29 April 2020 {{ref:saab-first-flight}} {{ref:saab-first-delivery}}.",
+      "The United Arab Emirates is still the only air force flying the type, but the order book changed sharply in the space of nine months. France ordered two in December 2025, Canada named GlobalEye its preferred solution for a first national airborne early warning fleet in May 2026, and on 7 July 2026 NATO selected it - up to ten aircraft - to replace the Boeing E-3A Sentry force at Geilenkirchen, displacing the E-7 Wedgetail that the alliance had chosen for the same requirement in 2023 and abandoned in November 2025 {{ref:saab-france}} {{ref:aviationist-canada}} {{ref:nato-announcement}} {{ref:twz-nato}}. Sweden's own three aircraft, designated S 106, are due from 2027 {{ref:saab-sweden-third}}."
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the Erieye Line",
+        "paragraphs": [
+          "Saab has been building airborne early warning radars since the Erieye entered service in the 1990s, flying on the Saab 340 and Saab 2000 and on Embraer's ERJ-145 as the E-99 {{ref:wiki-erieye}}. The Swedish Air Force's own version, the S 100D Argus - service designation ASC 890 - was a Saab 340 with the same dorsal antenna, and it is the aircraft the GlobalEye now replaces {{ref:wiki-swedish-af}}. The step to a business jet came from an export customer: on 10 November 2015 Saab announced a contract worth about USD 1.27 billion to supply the United Arab Emirates with a Swing Role Surveillance System, pairing an updated Erieye with the Bombardier Global 6000 {{ref:saab-uae-2015}}.",
+          "Saab gave the programme the GlobalEye name in 2016 and unveiled the first aircraft in February 2018 {{ref:wiki-globaleye}}. Its maiden flight followed on 14 March 2018, a 1 hour 46 minute sortie from Saab's airfield at Linkoping flown by experimental test pilot Magnus Fredriksson {{ref:saab-first-flight}}. A second aircraft joined the flight test programme in January 2019 {{ref:wiki-globaleye}}. The UAE announced in November 2019 that it intended to buy two more, and the follow-on contract - USD 1.018 billion for a fourth and fifth aircraft - was signed on 4 January 2021, taking the order to five {{ref:saab-first-delivery}} {{ref:saab-followon-2021}}."
+        ]
+      },
+      {
+        "heading": "The Erieye ER Radar",
+        "paragraphs": [
+          "The defining feature is a roughly 10 metre antenna carried in a fixed dorsal fairing, sometimes called the ski box, rather than in the rotating rotodome used by the E-3 Sentry and E-2 Hawkeye {{ref:saab-globaleye}}. Erieye is an active electronically scanned array pulse-Doppler radar, so the beam is steered electronically and nothing on the aircraft turns {{ref:wiki-erieye}}. That buys reliability and revisit rate, and it costs coverage: the array looks out through two 150-degree sectors, one either side, giving about 300 degrees in total, and in the roughly 30-degree sectors directly ahead of and behind the aircraft it is understood to retain some detection capability but no tracking {{ref:wiki-erieye}}. An orbiting AEW&C aircraft turns constantly, which mitigates the gap rather than removing it.",
+          "The Extended Range version replaced the original array's gallium arsenide transmit/receive modules with gallium nitride, which Saab says lifted detection range by around 70 per cent to a horizon-limited 216 nautical miles (400 km) {{ref:keyaero-globaleye}} {{ref:wiki-erieye}}. Saab quotes an instrumented range of 350 nautical miles (650 km) and states that from 35,000 ft the aircraft detects low-flying targets beyond 400 km {{ref:saab-globaleye}}. The Erieye is only part of the fit: a Leonardo Seaspray 7500E maritime surveillance radar, an electro-optical/infrared sensor, inverse synthetic aperture and ground moving target indication modes, and an AIS receiver for reading shipping transponders all feed the same command and control system {{ref:saab-globaleye}} {{ref:wiki-globaleye}}."
+        ]
+      },
+      {
+        "heading": "Airframe & Cabin",
+        "paragraphs": [
+          "Turning a corporate jet into a radar platform meant real structural work. The Global airframe and wing were strengthened to carry the fairing, the tailfin was extended and ventral strakes added to restore directional stability against the drag of a large object on the spine, and a military self-protection suite of laser and radar warning receivers with countermeasures dispensers was installed {{ref:wiki-globaleye}}. The donor aircraft is a long-range business jet with a 94 ft span and a 99,500 lb maximum take-off weight, powered by two Rolls-Royce BR710s on the Global 6000 and by 15,125 lbf Pearl 15s on the Global 6500 {{ref:wiki-globalexpress}} {{ref:rr-pearl15}}. Saab quotes a 6,500 ft field length requirement, which lets the aircraft work from airfields that a converted airliner could not use {{ref:saab-globaleye}}.",
+          "Inside, the cabin carries five operator workstations, and the aircraft flies with two pilots and a mission crew of up to nine, with a four-seat rest area for a long sortie {{ref:keyaero-globaleye}}. Saab quotes endurance of 11 to 12 hours {{ref:saab-globaleye}} {{ref:keyaero-globaleye}}. What Saab does not publish is any flight-performance figure for the aircraft as configured - no maximum speed, no service ceiling, no range with the fairing fitted - so the numbers quoted for GlobalEye in most places, including the specifications on this page, are the clean business jet's and overstate what the finished aircraft can do by an unknown margin."
+        ]
+      },
+      {
+        "heading": "Service with the United Arab Emirates",
+        "paragraphs": [
+          "Saab delivered the first GlobalEye to the UAE on 29 April 2020, the second on 30 September 2020 and the third on 20 February 2021 {{ref:saab-first-delivery}} {{ref:saab-second-delivery}} {{ref:saab-third-delivery}}. The two aircraft from the 2021 follow-on contract took longer: the fourth was handed over on 18 April 2024 and the fifth on 17 September 2024, completing the fleet of five within a decade of the original order {{ref:saab-fourth-delivery}} {{ref:saab-fifth-delivery}}. For most of that period the UAE was the only operator flying the type, and the Emirati fleet is where essentially all of the GlobalEye's real operational experience has been accumulated.",
+          "That fleet may since have taken a loss, though nobody has confirmed it. Satellite imagery published on 12 March 2026 showed hangars at Al Dhafra Air Base burning from the inside after an Iranian strike, and a number of outlets reported that a GlobalEye had been destroyed there {{ref:agn-aldhafra}} {{ref:theweek-aldhafra}}. Neither the UAE government nor Saab has confirmed any damage, and imagery of a burnt-out building cannot establish what was parked inside it or whether the aircraft were airborne or dispersed at the time {{ref:agn-aldhafra}}. In July 2026 Saab announced an order for two GlobalEye from an unnamed Middle East customer, worth SEK 10.1 billion for delivery in 2030, and said it would release nothing further about who had placed it {{ref:saab-middleeast-2026}}."
+        ]
+      },
+      {
+        "heading": "Sweden and the S 106",
+        "paragraphs": [
+          "Sweden ordered two GlobalEye on 30 June 2022 for about SEK 7.3 billion, with options for two more, and exercised one of those options on 27 June 2024 for a third aircraft at about SEK 2.6 billion {{ref:saab-sweden-2022}} {{ref:saab-sweden-third}}. The aircraft carry the Swedish designation S 106 and replace the S 100D Argus fleet, of which only a handful were ever operated - six Saab 340s were bought, two were modernised to S 100D standard and four were sold on to Thailand and the UAE {{ref:saab-sweden-third}} {{ref:wiki-swedish-af}}.",
+          "Sweden then committed its two remaining Argus aircraft to Ukraine, which left a hole in its own air picture before the replacements had arrived. The response was a contract signed on 21 October 2024 to accelerate the programme, and the compromise it required is unusually frank: the first two GlobalEye will be delivered in a configuration different from the one originally specified, and will be upgraded to the full requirement only once the third aircraft is fully operational {{ref:di-eu-sweden-accel}}. Deliveries are planned from 2027 {{ref:saab-sweden-2022}} {{ref:wiki-swedish-af}}."
+        ]
+      },
+      {
+        "heading": "NATO, France and the Export Surge",
+        "paragraphs": [
+          "France signed first. The Direction generale de l'armement placed a firm order on 30 December 2025 for two aircraft with options for two more, worth about SEK 12.3 billion including ground equipment, training and support, for delivery between 2029 and 2032 {{ref:saab-france}}. Canada followed on 27 May 2026, naming GlobalEye its preferred solution for a first national AEW&C capability of six aircraft, over Boeing's E-7 Wedgetail and L3Harris's AERIS X, with a stated intention that at least 40 aircraft be built in Canada over the following 15 years for Canada and its allies {{ref:aviationist-canada}}.",
+          "The decision that changed the programme's standing came on 7 July 2026, when NATO announced at its Ankara summit that GlobalEye would provide its next airborne warning and control capability, with eleven allies participating {{ref:nato-announcement}}. Up to ten aircraft are envisaged, based on the Global 6500, to replace the fourteen E-3A Sentries at Geilenkirchen that reach the end of their service life in 2035; Saab has suggested a NATO capability could be operational by 2031, and has begun negotiations with the NATO Support and Procurement Agency, with no contract yet signed {{ref:twz-nato}} {{ref:saab-nato}}. The Netherlands signed a letter of intent with Sweden on 10 September 2026 for a single aircraft, to be pooled with Sweden's three so that Dutch and Swedish crews draw on whichever airframes are available - Dutch access to the Swedish fleet from 2028, and their own aircraft expected in 2031 {{ref:saab-netherlands}} {{ref:aerotime-netherlands}}."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "saab-globaleye",
+      "name": "GlobalEye AEW&C",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/products/globaleye"
+    },
+    {
+      "id": "saab-uae-2015",
+      "name": "Saab Receives Order For New Advanced Airborne Surveillance Systems From UAE",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2015/saab-receives-order-for-new-advanced-airborne-surveillance-systems-from-uae"
+    },
+    {
+      "id": "saab-first-flight",
+      "name": "Successful First Flight for GlobalEye",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2018/successful-first-flight-for-globaleye"
+    },
+    {
+      "id": "saab-first-delivery",
+      "name": "Saab Delivers the First GlobalEye",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2020/saab-delivers-the-first-globaleye"
+    },
+    {
+      "id": "saab-second-delivery",
+      "name": "Saab Delivers Second GlobalEye",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2020/saab-delivers-second-globaleye"
+    },
+    {
+      "id": "saab-third-delivery",
+      "name": "Saab Delivers Third GlobalEye",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2021/saab-delivers-third-globaleye"
+    },
+    {
+      "id": "saab-followon-2021",
+      "name": "Saab receives follow-on contract for GlobalEye",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2021/saab-receives-follow-on-contract-for-globaleye"
+    },
+    {
+      "id": "saab-fourth-delivery",
+      "name": "Saab delivers fourth GlobalEye to the UAE",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2024/saab-delivers-fourth-globaleye-to-the-uae"
+    },
+    {
+      "id": "saab-fifth-delivery",
+      "name": "Saab delivers fifth GlobalEye to the United Arab Emirates",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2024/saab-delivers-fifth-globaleye-to-the-united-arab-emirates"
+    },
+    {
+      "id": "saab-sweden-2022",
+      "name": "Saab Receives Order for Two GlobalEye for Sweden",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2022/saab-receives-order-for-two-globaleye-for-sweden"
+    },
+    {
+      "id": "saab-sweden-third",
+      "name": "Saab signs contract with Swedish FMV for a third GlobalEye",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2024/saab-signs-contract-with-swedish-fmv-for-a-third-globaleye"
+    },
+    {
+      "id": "saab-france",
+      "name": "Saab receives order for GlobalEye from France",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2025/saab-receives-order-for-globaleye-from-france"
+    },
+    {
+      "id": "saab-nato",
+      "name": "NATO selects Saab's GlobalEye",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2026/nato-selects-saabs-globaleye"
+    },
+    {
+      "id": "saab-netherlands",
+      "name": "The Netherlands announces intention to procure GlobalEye",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2026/the-netherlands-announces-intention-to-procure-globaleye"
+    },
+    {
+      "id": "saab-middleeast-2026",
+      "name": "Saab receives order for GlobalEye",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/newsroom/press-releases/2026/saab-receives-order-for-globaleye"
+    },
+    {
+      "id": "nato-announcement",
+      "name": "NATO's new Airborne Warning and Control System is announced",
+      "publisher": "NATO",
+      "url": "https://www.nato.int/en/news-and-events/articles/news/2026/07/07/natos-new-airborne-warning-and-control-system-is-announced"
+    },
+    {
+      "id": "twz-nato",
+      "name": "NATO Picks Saab GlobalEye To Replace Aging E-3 AWACS Fleet",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/nato-picks-saab-globaleye-to-replace-aging-e-3-awacs-fleet"
+    },
+    {
+      "id": "aviationist-canada",
+      "name": "Canada Begins Talks With Saab For GlobalEye AEW&C Purchase",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/05/28/canada-begins-talks-with-saab-for-globaleye/"
+    },
+    {
+      "id": "aerotime-netherlands",
+      "name": "Netherlands picks Saab GlobalEye, to share fleet with Sweden",
+      "publisher": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/netherlands-saab-globaleye-letter-of-intent-sweden"
+    },
+    {
+      "id": "di-eu-sweden-accel",
+      "name": "Sweden accelerates delivery of GlobalEye early warning aircraft in new contract with Saab",
+      "publisher": "Defence Industry Europe",
+      "url": "https://defence-industry.eu/sweden-accelerates-delivery-of-globaleye-early-warning-aircraft-in-new-contract-with-saab/"
+    },
+    {
+      "id": "keyaero-globaleye",
+      "name": "GlobalEye: Saab's third-generation surveillance ship",
+      "publisher": "Key.Aero",
+      "url": "https://www.key.aero/article/globaleye-saabs-third-generation-surveillance-ship"
+    },
+    {
+      "id": "agn-aldhafra",
+      "name": "Saab GlobalEye feared destroyed in Iran drone strike on UAE base",
+      "publisher": "Aerospace Global News",
+      "url": "https://aerospaceglobalnews.com/news/saab-globaleye-destroyed-iran-drone-strike-uae/"
+    },
+    {
+      "id": "theweek-aldhafra",
+      "name": "Did Iran destroy UAE's GlobalEye early warning aircraft?",
+      "publisher": "The Week",
+      "url": "https://www.theweek.in/news/middle-east/2026/03/17/did-iran-destroy-uaes-globaleye-early-warning-aircraft-satellite-evidence-shows-major-damage-at-al-dhafra-air-base.html"
+    },
+    {
+      "id": "rr-pearl15",
+      "name": "Pearl 15",
+      "publisher": "Rolls-Royce",
+      "url": "https://www.rolls-royce.com/products-and-services/civil-aerospace/business-aviation/pearl-15.aspx"
+    },
+    {
+      "id": "wiki-globaleye",
+      "name": "GlobalEye",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GlobalEye"
+    },
+    {
+      "id": "wiki-erieye",
+      "name": "Erieye",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erieye"
+    },
+    {
+      "id": "wiki-globalexpress",
+      "name": "Bombardier Global Express",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bombardier_Global_Express"
+    },
+    {
+      "id": "wiki-swedish-af",
+      "name": "List of equipment of the Swedish Air Force",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_equipment_of_the_Swedish_Air_Force"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "GlobalEye AEW&C product page",
+      "url": "https://www.saab.com/products/globaleye"
+    },
+    {
+      "name": "GlobalEye",
+      "url": "https://en.wikipedia.org/wiki/GlobalEye"
+    },
+    {
+      "name": "NATO Picks Saab GlobalEye To Replace Aging E-3 AWACS Fleet",
+      "url": "https://www.twz.com/air/nato-picks-saab-globaleye-to-replace-aging-e-3-awacs-fleet"
+    }
+  ],
+  "accidentsAndIncidents": []
+}

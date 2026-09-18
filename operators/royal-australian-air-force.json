@@ -1,0 +1,19 @@
+{
+  "id": "royal-australian-air-force",
+  "slug": "royal-australian-air-force",
+  "name": "Royal Australian Air Force",
+  "shortName": "RAAF",
+  "type": "military",
+  "country": { "name": "Australia", "code": "au" },
+  "founded": "1921-03-31",
+  "foundedDisplay": "31 March 1921",
+  "headquarters": "Russell Offices, Canberra, Australia",
+  "logo": "raaf.webp",
+  "website": null,
+  "tagline": "The world's second-oldest independent air force, guarding a continent-sized country and its vast ocean approaches since 1921.",
+  "bio": [
+    "Formed on 31 March 1921, the Royal Australian Air Force followed only Britain's RAF in becoming an independent air service. It expanded enormously in the Second World War, when Australia trained tens of thousands of aircrew under the Empire Air Training Scheme and RAAF squadrons flew Spitfires in the defence of Darwin and Lancasters with Bomber Command over Europe - service commemorated today by the distinctive red kangaroo in the force's roundel.",
+    "Modern RAAF air power is built around a compact but high-end fleet: F-35A Lightning IIs and F/A-18F Super Hornets for air combat, E-7A Wedgetail early-warning aircraft the RAAF pioneered into service, and C-17 Globemasters, C-130J Hercules and KC-30A tankers to cover the enormous distances of the Indo-Pacific. It is also a development partner on uncrewed programmes like the locally designed MQ-28 Ghost Bat."
+  ],
+  "matchPattern": "royal australian air force|\\braaf\\b"
+}

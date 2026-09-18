@@ -1,0 +1,392 @@
+{
+  "name": "CH-47 Chinook",
+  "fullName": "Boeing CH-47 Chinook",
+  "manufacturer": "Boeing (originally Vertol)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters",
+    "cargo"
+  ],
+  "role": "Tandem-Rotor Heavy-Lift Transport Helicopter",
+  "tagline": "The tandem-rotor workhorse of modern battlefields. Its twin-rotor layout eliminates the need for a tail rotor, giving it exceptional lift capacity, and more than six decades after its first flight it remains in full production for the US Army and dozens of allied air forces.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "Developed by Vertol (acquired by Boeing in 1960), the CH-47 first flew on 21 September 1961 and entered US Army service in 1962. It quickly proved itself in Vietnam, where its heavy-lift capability made it indispensable for troop movement, artillery repositioning and downed-aircraft recovery. Successive upgrades - the A, B, C, D and current F models - have progressively increased engine power, lift capacity and avionics sophistication while retaining the same recognisable tandem-rotor airframe. Chinooks have deployed to virtually every major conflict and disaster-response operation since Vietnam, including the Falklands War, Operation Desert Storm, the wars in Afghanistan and Iraq, and civil relief efforts such as the 2011 Fukushima crisis and Hurricane Andrew. With over 1,200 built and new-production airframes still rolling off Boeing's Philadelphia line, the Chinook is one of the longest continuously produced military aircraft in history.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 196,
+      "text": "170 kn (196 mph / 315 km/h)"
+    },
+    "cruiseSpeed": "184 mph (296 km/h)",
+    "range": {
+      "miles": 460,
+      "text": "460 mi (740 km, 400 nmi) internal fuel; 1,399 mi (2,252 km, 1,216 nmi) ferry range"
+    },
+    "serviceCeiling": {
+      "ft": 20000,
+      "text": "20,000 ft (6,096 m)"
+    },
+    "rateOfClimb": "1,522 ft/min (7.73 m/s)",
+    "mainRotorDiameter": {
+      "ft": 60,
+      "text": "60 ft (18.3 m) each (x2, tandem, counter-rotating, no tail rotor)"
+    },
+    "length": {
+      "ft": 51.17,
+      "text": "51 ft 2 in (15.6 m) fuselage; 98 ft 11 in (30.1 m) overall, rotors turning"
+    },
+    "height": {
+      "ft": 18.7,
+      "text": "18 ft 8 in (5.68 m)"
+    },
+    "weight": "empty: 24,578 lb (11,148 kg); max gross weight: 50,000 lb (22,680 kg) standard, 54,000 lb (24,494 kg) alternate/structural",
+    "discLoading": "9.5 lb/ft² (46 kg/m²)",
+    "engines": "2 x Honeywell/Lycoming T55-GA-714A turboshafts, 4,733 shp (3,529 kW) each",
+    "armament": "Optional door-mounted M240 / M134 machine guns; primarily unarmed transport",
+    "crew": "3 (2 pilots + flight engineer/crew chief)",
+    "capacity": "Up to 55 troops, or 24 litters and 3 medical attendants, or up to 24,000 lb (10,886 kg) internal cargo payload",
+    "externalLoad": "26,000 lb (11,800 kg) maximum external load via the triple-hook cargo system (e.g. a 40 ft/12 m container slung beneath the fuselage)",
+    "firstFlight": {
+      "date": "1961-09-21",
+      "year": 1961
+    },
+    "serviceEntryDate": "1962-08-16",
+    "retiredDate": null,
+    "numberBuilt": 1279,
+    "unitCost": {
+      "usd": 38550000,
+      "text": "~$38.55M (CH-47F, flyaway)"
+    }
+  },
+  "variants": [
+    {
+      "code": "CH-47A/B/C",
+      "desc": "Early production models used extensively through the Vietnam War."
+    },
+    {
+      "code": "CH-47D",
+      "desc": "Major 1980s rebuild with uprated engines, composite rotor blades, and modern avionics."
+    },
+    {
+      "code": "CH-47F",
+      "desc": "Current-production US Army standard with digital cockpit and airframe improvements to reduce vibration."
+    },
+    {
+      "code": "MH-47G",
+      "desc": "Special-operations variant flown by the 160th SOAR with aerial refuelling and terrain-following radar."
+    },
+    {
+      "code": "CH-47J / Model 234",
+      "desc": "Japan Ground Self-Defense Force military variant and Boeing's commercial heavy-lift version, respectively."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1962",
+      "fleetSize": "465 CH-47F in the active Army (January 2025), plus 37 in the Army National Guard",
+      "homeBase": "Fort Campbell and multiple Combat Aviation Brigades",
+      "logo": "us-army.webp"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Largest Export Operator",
+      "status": "In Service",
+      "since": "1980",
+      "fleetSize": "60 across the HC.4/5/6 fleet with 14 H-47(ER) on order - the largest Chinook force outside the US",
+      "homeBase": "RAF Odiham",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Japan Ground Self-Defense Force",
+      "role": "Licence Operator",
+      "status": "In Service",
+      "since": "1986",
+      "fleetSize": "47 CH-47J/JA (March 2022), licence-built by Kawasaki",
+      "homeBase": "JGSDF bases across Japan"
+    },
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "Licence Operator",
+      "status": "In Service",
+      "since": "1986",
+      "fleetSize": "15 CH-47J (March 2022)",
+      "homeBase": "JASDF bases across Japan"
+    },
+    {
+      "name": "German Air Force",
+      "role": "Export Operator",
+      "status": "On Order",
+      "since": "2023 (order)",
+      "fleetSize": "60 CH-47F ordered in 2023 to replace the CH-53G; first deliveries due from 2027",
+      "homeBase": "Schoenewalde/Holzdorf, Germany"
+    },
+    {
+      "name": "Royal Netherlands Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "20, now standardised on the CH-47F",
+      "homeBase": "Gilze-Rijen AB",
+      "logo": "royal-netherlands-af.webp"
+    },
+    {
+      "name": "Royal Australian Air Force / Australian Army",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "14 CH-47F",
+      "homeBase": "RAAF Base Townsville"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2013",
+      "fleetSize": "14 CH-147F as of January 2025",
+      "homeBase": "CFB Petawawa, Ontario"
+    },
+    {
+      "name": "~15 other operators worldwide",
+      "role": "Export Operators",
+      "status": "In Service",
+      "since": "1960s",
+      "fleetSize": "Over 1,200 built since 1962; Saudi Arabia, Spain, Italy, Greece, Singapore, South Korea, India, Egypt, the UAE and Taiwan among them",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "CH47",
+    "howToFind": "Chinooks fly low and are often outside reliable ADS-B ground-station coverage, so they can be intermittent on Flightradar24. Look for the type filter \"CH47\" and watch near major Army aviation hubs (e.g. Fort Campbell, KY) or during announced training corridors."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Army Recognition",
+      "url": "https://www.armyrecognition.com/rss",
+      "topicTag": "CH-47"
+    },
+    {
+      "name": "Defense News",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+      "topicTag": "Chinook"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "First RAF H-47ER Chinooks in production",
+      "source": "The Aviationist",
+      "date": "2025-05-15",
+      "category": "Production",
+      "url": "https://theaviationist.com/2025/05/15/first-raf-h-47er-chinooks-in-production/"
+    },
+    {
+      "title": "Britain finalizes deal to buy 14 Chinook helicopters",
+      "source": "Defense News",
+      "date": "2024-03-14",
+      "category": "Orders",
+      "url": "https://www.defensenews.com/global/europe/2024/03/14/britain-finalizes-deal-to-buy-14-chinook-helicopters/"
+    },
+    {
+      "title": "£1.4 billion modernised Chinook fleet",
+      "source": "Royal Air Force",
+      "date": "2024-03-14",
+      "category": "Fleet Update",
+      "url": "https://www.raf.mod.uk/news/articles/1-4-billion-modernised-chinook-fleet/"
+    },
+    {
+      "title": "The RAF just can't get enough of the Chinook",
+      "source": "The War Zone",
+      "date": "2021-05-14",
+      "category": "Analysis",
+      "url": "https://www.twz.com/40264/the-royal-air-force-just-cant-get-enough-of-the-chinook-with-14-new-orders"
+    }
+  ],
+  "tags": [
+    "ch-47",
+    "ch47",
+    "chinook",
+    "boeing helicopter",
+    "tandem rotor",
+    "heavy lift helicopter",
+    "us army",
+    "military transport",
+    "helicopter",
+    "cargo"
+  ],
+  "quickFacts": [
+    "The RAF's most famous Chinook, 'Bravo November', survived the sinking of its supply ship in the Falklands and flew on for 40 years - four of its pilots won the Distinguished Flying Cross in it before it retired to the RAF Museum in 2022.",
+    "A Chinook's two rotors turn in opposite directions, cancelling each other's torque - so all the engine power goes into lift and none is wasted on a tail rotor.",
+    "It's faster than most attack helicopters: a loaded Chinook can outrun an Apache.",
+    "RAF Chinooks have been in continuous service since 1980 - the fleet is being renewed with 14 extended-range H-47ERs rather than replaced by anything newer.",
+    "In Afghanistan, Chinook crews routinely landed on ridgelines with only the rear wheels touching - loading troops off a cliff edge with the cockpit hanging in mid-air.",
+    "The 1994 Mull of Kintyre crash that killed 29 people led to one of the longest campaigns against a military verdict in British history - the pilots were exonerated 17 years later."
+  ],
+  "article": {
+    "overview": [
+      "The Boeing CH-47 Chinook is a twin-engine, tandem-rotor heavy-lift helicopter built for the US Army and allied forces. It first flew in 1961 and remains in production at Boeing's Philadelphia plant more than sixty years later, one of the longest continuous helicopter production runs in history.{{ref:wiki-ch47}}",
+      "Its counter-rotating rotors need no tail rotor, so nearly all engine power goes to lift, letting the Chinook carry troops, artillery and vehicles to mountain landing zones other helicopters cannot reach. Around 20 nations fly it, and the current CH-47F Block II keeps it in production toward its own centenary.{{ref:boeing-ch47}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Chinook descends from one engineer's obsession: Frank Piasecki, who championed tandem-rotor helicopters in the 1940s when almost everyone else followed Sikorsky's single-rotor path. His 'flying banana' transports proved the layout; his company - renamed Vertol, then bought by Boeing in 1960 - refined it into the turbine-powered machine the Army needed.{{ref:wiki-ch47}}",
+          "That need was specific: the new doctrine of air assault demanded a helicopter that could move a whole infantry platoon or sling a howitzer, at speed, in mountain heat. The YCH-1B first flew on 21 September 1961, and as the CH-47A it reached Vietnam within four years of that first flight.{{ref:wiki-ch47}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Counter-rotating tandem rotors cancel each other's torque, so the Chinook wastes no power on a tail rotor - every horsepower lifts. The layout also shrugs at centre-of-gravity shifts that would upset a conventional helicopter, which is precisely what you want when Humvees drive up the ramp or loads swing from three external hooks.{{ref:boeing-ch47}}",
+          "Two Honeywell T55 engines drive both rotors through a combining transmission - lose one engine and both rotors keep turning. With around 100 mph-plus cruise the Chinook has always been faster than the sleek attack helicopters it works with, and the triple-hook system lets crews carry awkward loads stably at speed.{{ref:boeing-ch47}}",
+          "The rear ramp works in flight, on water (the airframe can sit afloat while boats drive aboard) and against cliffsides: the 'pinnacle landing' - rear wheels on a ridge, nose in the hover, troops running off the ramp - is the type's signature party trick in the mountains.{{ref:wiki-ch47}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Vietnam made the case emphatically: Chinooks placed artillery on mountaintop firebases, kept them fed with ammunition, and recovered over 12,000 downed aircraft worth more than the entire Chinook fleet cost - the aircraft literally paid for itself in salvage.{{ref:wiki-ch47}}",
+          "Everywhere after followed the same pattern. The Falklands' sole surviving RAF Chinook, 'Bravo November', flew impossible loads for weeks after its sisters went down with the Atlantic Conveyor - and served four more decades. In Afghanistan the Chinook was king: at altitudes where Black Hawks wheezed, only the CH-47 could carry a full squad to 10,000-foot landing zones, making it the workhorse - and, at Roberts Ridge and in the 2011 Extortion 17 shootdown, the martyr - of the mountain war.{{ref:raf-bn}}",
+          "Some 20 nations fly it, from Japan and South Korea to Britain, the Netherlands and Egypt, on every mission from special operations (the stealthy-modified MH-47s of the 160th SOAR) to firefighting with 3,000-gallon buckets and Himalayan rescue above 15,000 feet.{{ref:boeing-ch47}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The Chinook has been rebuilt twice without changing its soul. The 1980s CH-47D remanufactured worn A/B/C airframes with new engines, transmissions and systems; the 2000s CH-47F did it again with a machined airframe, glass cockpit and digital flight controls that transformed brownout and shipboard handling.{{ref:wiki-ch47}}",
+          "The current Block II adds strengthened rotors, a redesigned fuel system and drivetrain headroom, raising gross weight to 54,000 lb. Its path has been bumpy - the Army wavered on full procurement before continuing orders (24 Block IIs under contract by April 2026, with the last Block I delivered that same month) - but with special-operations MH-47Gs leading and allies queueing, Philadelphia's line looks set to carry the Chinook past its own centenary in 2061.{{ref:army-block2}}{{ref:tdp-block2}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Sixty-five years after first flight, no successor is even proposed: the U.S. Army's future-vertical-lift efforts replaced its scouts and assault helicopters on paper, but the heavy-lift answer remains a newer Chinook. Like the B-52 and C-130, the CH-47 has entered the small club of aircraft whose replacement is themselves.{{ref:wiki-ch47}}",
+          "Its record includes fire camps in Australia, flood relief in Pakistan and earthquake response in Nepal - the twin-rotor thump has meant 'help is here' on every continent.{{ref:boeing-ch47}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-ch47",
+      "name": "Boeing CH-47 Chinook",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook"
+    },
+    {
+      "id": "boeing-ch47",
+      "name": "CH-47 Chinook",
+      "publisher": "Boeing",
+      "url": "https://www.boeing.com/defense/ch-47-chinook"
+    },
+    {
+      "id": "raf-bn",
+      "name": "Bravo November",
+      "publisher": "RAF Museum",
+      "url": "https://www.rafmuseum.org.uk/research/collections/boeing-chinook-hc1-bravo-november/"
+    },
+    {
+      "id": "army-block2",
+      "name": "PM Cargo Delivers Final CH-47F Block I, Shifts Focus to Block II Production",
+      "publisher": "U.S. Army",
+      "url": "https://www.army.mil/article/293169/transition_to_the_future_pm_cargo_delivers_final_ch_47f_block_i_shifts_focus_to_block_ii_production"
+    },
+    {
+      "id": "tdp-block2",
+      "name": "Boeing Lands $324M US Army Deal for Six More CH-47F Block II Chinooks",
+      "publisher": "The Defense Post",
+      "url": "https://thedefensepost.com/2026/04/16/boeing-chinook-block-2-order/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing - H-47 Chinook (official product page)",
+      "url": "https://www.boeing.com/defense/military-rotorcraft/h-47-chinook"
+    },
+    {
+      "name": "127th Wing (US Air National Guard) - Army CH-47 Chinook Helicopter Fact Sheet",
+      "url": "https://www.127wg.ang.af.mil/About-127th-Wing/Fact-Sheets/Article/3694458/army-ch-47-chinook-helicopter/"
+    },
+    {
+      "name": "Army Technology - CH-47D/F / MH-47E Chinook Helicopter",
+      "url": "https://www.army-technology.com/projects/chinook/"
+    },
+    {
+      "name": "GlobalSecurity.org - CH-47 Chinook",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/h-47.htm"
+    },
+    {
+      "name": "Wikipedia - Boeing CH-47 Chinook (specifications table: fuselage length, rate of climb, disc loading, external load)",
+      "url": "https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and Block II status through April 2026.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Migrated specs to the new helicopter template schema: replaced 'wingspanFt/wingspanDisplay' (which was holding rotor diameter) with 'mainRotorDiameterFt/mainRotorDiameterDisplay', split the fuselage-only length out from the rotors-turning length, split the external triple-hook sling-load figure out of 'capacityDisplay' into its own 'externalLoadDisplay' field (was previously conflated with internal cargo payload), and added 'rateOfClimbDisplay' and 'discLoadingDisplay', all sourced from Wikipedia's CH-47 specifications table.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster from the full operators list - split the Japanese fleets, added the German, Australian and Canadian orders, corrected the US Army figure to the January 2025 count, and folded the remaining ~15 customers into a combined row.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1986-11-06",
+      "title": "Sumburgh disaster - Britain's worst helicopter crash",
+      "tag": "Transmission failure",
+      "summary": "A civil Boeing Vertol 234LR returning oil workers from the Brent field suffered a forward transmission failure on approach to Sumburgh; the tandem rotors collided and the aircraft fell into the sea. 45 of the 47 people aboard died, and the oil industry withdrew Chinooks from North Sea passenger work for good.",
+      "fatalities": 45,
+      "source": "https://en.wikipedia.org/wiki/1986_British_International_Helicopters_Chinook_crash"
+    },
+    {
+      "date": "1994-06-02",
+      "title": "Mull of Kintyre crash",
+      "summary": "An RAF Chinook carrying senior UK intelligence and security personnel crashed into the Mull of Kintyre headland in Scotland in poor weather, killing all 29 aboard. The cause remains disputed, with a 2011 independent review overturning earlier findings of pilot negligence and citing unreliable navigation software.",
+      "fatalities": 29,
+      "tag": "Fatal crash / disputed cause",
+      "source": "https://en.wikipedia.org/wiki/1994_Mull_of_Kintyre_Chinook_crash"
+    },
+    {
+      "date": "2005-06-28",
+      "title": "Shot down during Operation Red Wings",
+      "summary": "A CH-47 carrying a quick-reaction force of special operations aviators and Navy SEALs was hit by an RPG in Kunar province, Afghanistan while attempting to reinforce an ambushed reconnaissance team, killing all 16 aboard.",
+      "fatalities": 16,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/Operation_Red_Wings"
+    },
+    {
+      "date": "2011-08-06",
+      "title": "\"Extortion 17\" shootdown",
+      "summary": "A CH-47D was shot down by Taliban RPG fire in Wardak province, Afghanistan, killing all 38 aboard, including members of Naval Special Warfare — the single deadliest incident for US special operations forces in the Afghanistan war.",
+      "fatalities": 38,
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/2011_Afghanistan_Boeing_Chinook_shootdown"
+    }
+  ]
+}

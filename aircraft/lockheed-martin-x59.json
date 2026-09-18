@@ -1,0 +1,268 @@
+{
+  "name": "X-59",
+  "fullName": "Lockheed Martin X-59 Quesst",
+  "manufacturer": "Lockheed Martin",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Quiet Supersonic Research Aircraft",
+  "tagline": "A single-seat experimental aircraft built by Lockheed Martin's Skunk Works for NASA to find out whether supersonic flight can be made quiet enough to allow over land. It is designed to cruise at Mach 1.4 and 55,000 ft while putting a sonic thump of under 75 PLdB on the ground instead of a conventional boom.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "The nose is so long that the pilot has no forward window - an eXternal Vision System feeds a 4K camera image to a cockpit display instead",
+    "Its cockpit, canopy and ejection seat were taken from a Northrop T-38 Talon, and its landing gear from an F-16 Fighting Falcon",
+    "Lockheed Martin's design target is a ground loudness below 75 PLdB, against the 105-110 EPNdB boom Concorde put down",
+    "It stayed subsonic for more than seven months after its first flight, only exceeding Mach 1 on 5 June 2026",
+    "Exactly one week after going supersonic it hit its full mission condition of Mach 1.4 at 55,000 ft, the speed and altitude its community survey flights will use",
+    "It will never carry a passenger - NASA states plainly that the X-59 is a research aircraft, not a prototype airliner, and only one was built"
+  ],
+  "specifications": {
+    "maxSpeed": {
+      "mph": 990,
+      "text": "860 kn (990 mph / 1,590 km/h)"
+    },
+    "cruiseSpeed": "940 mph (1,510 km/h), Mach 1.42 at 55,000 ft",
+    "range": {
+      "miles": null,
+      "text": "Not published - NASA has not released a range figure"
+    },
+    "serviceCeiling": {
+      "ft": 55000,
+      "text": "55,000 ft (16,764 m) design cruise altitude"
+    },
+    "wingspan": {
+      "ft": 29.5,
+      "text": "29 ft 6 in (9.0 m)"
+    },
+    "length": {
+      "ft": 99.7,
+      "text": "99 ft 8 in (30.4 m)"
+    },
+    "weight": "empty: not published; MTOW: 32,300 lb (14,700 kg)",
+    "engines": "1 x General Electric F414-GE-100 afterburning turbofan, 22,000 lbf (98 kN) with afterburner, mounted above the fuselage",
+    "crew": "1 pilot",
+    "capacity": "None - a single-seat research aircraft with no passenger or cargo provision; Lockheed Martin's product card lists a 600 lb (272 kg) instrumentation payload",
+    "firstFlight": {
+      "date": "2025-10-28",
+      "year": 2025
+    },
+    "serviceEntryDate": "2025-10-28",
+    "retiredDate": null,
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - a one-off research aircraft that was never priced for sale; NASA's April 2018 design-and-build contract with Lockheed Martin was valued at $247.5M",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "QueSST (preliminary design)",
+      "desc": "The preliminary design phase, contracted to Lockheed Martin in February 2016 under the name Quiet Supersonic Technology. It settled the low-boom shaping approach - a very long, slender forebody with canards - and the decision to build a piloted demonstrator rather than fly the concept in a wind tunnel alone. No aircraft was built under this contract; it produced the design that the 2018 build contract then turned into hardware."
+    },
+    {
+      "code": "X-59",
+      "desc": "The sole flying airframe, built at Lockheed Martin's Skunk Works in Palmdale, California under a $247.5M NASA contract awarded on 2 April 2018 and given the X-59 designation by the U.S. Air Force that June. The engine was installed in November 2022, the aircraft rolled out in August 2023 and was formally unveiled in January 2024, and it first flew on 28 October 2025. NASA has not announced any plan for a second aircraft."
+    }
+  ],
+  "operators": [
+    {
+      "name": "NASA",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "2025",
+      "fleetSize": "1",
+      "homeBase": "NASA Armstrong Flight Research Center, Edwards, California"
+    },
+    {
+      "name": "Lockheed Martin",
+      "role": "Manufacturer and Ground-Test Operator",
+      "status": "Retired",
+      "since": "2023",
+      "fleetSize": "1 (the same airframe, 2023-2025)",
+      "homeBase": "Skunk Works, Palmdale, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The X-59 has no ICAO type designator and flies test sorties out of Edwards Air Force Base without a civil transponder code that Flightradar24 resolves, so it does not appear on the site. NASA publishes flight-by-flight updates on its Quesst blog instead, and the aircraft is visible from public roads around Edwards and Palmdale on test days."
+  },
+  "lastUpdated": "2026-09-16",
+  "changelog": [
+    {
+      "date": "2026-09-16",
+      "change": "Entry created - full article, specifications, variants, operators and flight-test log written from NASA Quesst mission material, Lockheed Martin product documentation and the FAA's July 2026 supersonic overland rulemaking notice.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Quesst",
+    "QueSST",
+    "X59",
+    "low boom",
+    "sonic thump",
+    "Skunk Works",
+    "X-plane"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed Martin X-59 Quesst is a single-seat experimental aircraft built by Lockheed Martin's Skunk Works for NASA to test whether a supersonic aircraft can be made quiet enough to fly over populated land. It is 99.7 ft long with a wingspan of 29.5 ft, is powered by a single General Electric F414 turbofan mounted above the fuselage, and is designed to cruise at Mach 1.4 at 55,000 ft. {{ref:nasa-aircraft}} {{ref:lm-product-card}}",
+      "One aircraft was built, under a $247.5M NASA contract awarded in April 2018. It first flew on 28 October 2025 and exceeded Mach 1 for the first time on 5 June 2026. The noise data it gathers, and the public reaction to it, are intended to give regulators the evidence for a noise standard that would replace the blanket ban on civil supersonic flight over the United States. {{ref:wiki}} {{ref:nasa-first-supersonic}} {{ref:faa-nprm}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the Overland Ban",
+        "paragraphs": [
+          "Civil supersonic flight over the United States has been prohibited since 1973 under 14 CFR 91.817, which bars civil aircraft from exceeding Mach 1 over land except under special authorisation. The rule is written against speed rather than noise, so an aircraft that produced no disturbance at all on the ground would still break it. That is the regulatory problem the X-59 was built to attack: NASA's Quesst mission aims to show that shaping an airframe can turn a sonic boom into a thump quiet enough to be acceptable, and then to measure what the public actually thinks of that thump. {{ref:faa-nprm}} {{ref:nasa-quesst}}",
+          "NASA awarded Lockheed Martin a preliminary design contract in February 2016, then a $247.5M contract to design, build and deliver the aircraft on 2 April 2018, and the U.S. Air Force assigned the X-59 designation on 26 June 2018. Delivery was originally scheduled for late 2021. It slipped by four years. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The X-59's shape exists to stop shock waves merging. A conventional supersonic aircraft generates shocks at the nose, canopy, wing and tail that coalesce during their descent to the ground into the two-shock N-wave heard as a double boom. The X-59 is long, extremely slender and fitted with canards so that its individual shocks stay separated all the way to the surface, arriving as a series of weak pressure rises rather than one sharp jump. Lockheed Martin's design target is a ground loudness below 75 PLdB. {{ref:lm-product-card}} {{ref:wiki}}",
+          "That shaping drives the rest of the aircraft. The forward fuselage is so long and so fine that a forward windscreen is impossible, so the pilot flies on the eXternal Vision System - a forward-facing 4K camera with a 33 by 19 degree field of view, combined with a Collins Aerospace EVS-3600 multispectral imaging system beneath the nose, displayed on a cockpit monitor. The engine sits on top of the fuselage so its inlet shock is kept above the airframe rather than below it. To save time and money, established parts were reused rather than designed afresh: the cockpit, canopy and ejection seat come from a Northrop T-38, and the landing gear from an F-16. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Build & Ground Testing",
+        "paragraphs": [
+          "The aircraft was built at Lockheed Martin's Skunk Works facility at Air Force Plant 42 in Palmdale, California. Its General Electric F414 was installed there in November 2022, it was rolled out of the assembly hangar on 4 August 2023, and NASA and Lockheed Martin formally debuted it at a ceremony on 12 January 2024. Because so much of the airframe is bespoke - there is no existing aircraft with a 99 ft fuselage of this fineness - the reused T-38 and F-16 components were as much about certification effort as parts cost: an already-qualified ejection seat and landing gear are two things a one-off X-plane does not have to prove from scratch. {{ref:wiki}} {{ref:nasa-first-flight-media}}",
+          "Nearly two more years of ground work followed the unveiling, covering structural loads calibration, electromagnetic interference testing and engine runs, before the aircraft moved under its own power for the first time in a low-speed taxi test on 17 July 2025. That sequence is the reason the eXternal Vision System mattered so early: with no forward window, every taxi test is also a test of whether a pilot can judge a runway centreline from a camera feed. The first flight came three months after the first taxi run, from Plant 42 with an F-15 flying chase, and the gear stayed down throughout. {{ref:wiki}} {{ref:nasa-first-flight-media}}"
+        ]
+      },
+      {
+        "heading": "Flight Testing",
+        "paragraphs": [
+          "The first flight took place on 28 October 2025, when NASA test pilot Nils Larson flew the aircraft from Lockheed Martin's Palmdale plant to NASA Armstrong Flight Research Center at Edwards in 67 minutes, reaching about 230 mph at 12,000 ft with the landing gear left down throughout. Envelope expansion followed slowly: the eighth and ninth flights, on 10 and 14 April 2026, took the aircraft to 43,000 ft and 528-627 mph, still subsonic. {{ref:nasa-first-flight}} {{ref:nasa-april-update}}",
+          "Pilot Jim Less flew the X-59 past Mach 1 for the first time on 5 June 2026, reaching roughly Mach 1.1 at 43,400 ft on an 81-minute sortie. One week later, on 12 June, the aircraft reached Mach 1.4 at 55,000 ft - the exact speed and altitude its community survey flights are to use - and NASA reported it handled as predicted across the envelope. By its 25th flight, on 21 August 2026, it had flown 72 minutes at Mach 1.2 and about 49,000 ft, and a third test pilot, Mike Lippert, had run the engines in a ground test on 27 August as the programme built up its pilot cadre. {{ref:nasa-first-supersonic}} {{ref:nasa-mission-conditions}} {{ref:nasa-25th-flight}} {{ref:nasa-third-pilot}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "As of September 2026 the aircraft is finishing envelope expansion and moving into acoustic validation, the phase the whole programme exists for. NASA will use ground-based and airborne instrumentation to measure and characterise the thumps the aircraft actually produces, which is a separate question from whether it can reach the design condition - the June flights proved the second, not the first. Only after that will the X-59 fly over selected U.S. communities at Mach 1.4 and 55,000 ft so residents can be surveyed on what they heard. {{ref:nasa-25th-flight}} {{ref:nasa-mission-conditions}}",
+          "The regulatory picture moved faster than the aircraft. On 2 July 2026 the FAA published a proposed rule that would repeal 14 CFR 91.817 outright and replace it with a performance standard limiting sonic boom overpressure at the surface to 0.11 pounds per square foot, with comments due by 17 August 2026. The notice cites the Quesst mission but also states that more research is needed before low-boom shaping can be applied to commercial aircraft - a reminder of the X-59's limits. It is a single aircraft, it will never carry a passenger, and its contribution is a dataset rather than a design an airliner can be built from. {{ref:faa-nprm}} {{ref:nasa-aircraft}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nasa-aircraft",
+      "name": "Specifications on the X-59 Research Aircraft",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/quesst-the-aircraft/"
+    },
+    {
+      "id": "nasa-quesst",
+      "name": "Quesst Mission",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/mission/quesst/"
+    },
+    {
+      "id": "lm-product-card",
+      "name": "Silencing the Sonic Boom: X-59 Quiet Supersonic Technology X-Plane product card",
+      "publisher": "Lockheed Martin",
+      "url": "https://lockheedmartin.com/content/dam/lockheed-martin/aero/documents/quietSuperSonic/FG19-00608_012%20Product%20Card%20X-59%20media.pdf"
+    },
+    {
+      "id": "wiki",
+      "name": "Lockheed Martin X-59 Quesst",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_X-59_Quesst"
+    },
+    {
+      "id": "nasa-first-flight",
+      "name": "NASA's Quesst Mission Marks X-59's Historic First Flight",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-quesst-mission-marks-x-59s-historic-first-flight-2/"
+    },
+    {
+      "id": "nasa-april-update",
+      "name": "Latest NASA X-59 Flights Go Higher and Faster",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/blogs/quesst/2026/04/17/x-59-update-041726/"
+    },
+    {
+      "id": "nasa-first-supersonic",
+      "name": "NASA's X-59 Aircraft Flies Supersonic for First Time",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/"
+    },
+    {
+      "id": "nasa-mission-conditions",
+      "name": "NASA's X-59 Reaches Speed, Altitude for Future Quiet Supersonic Flights",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/blogs/quesst/2026/06/12/x-59-blog-061226/"
+    },
+    {
+      "id": "nasa-25th-flight",
+      "name": "NASA's X-59 Aircraft Builds Momentum Through 25th Flight",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/blogs/quesst/2026/09/04/nasas-x-59-aircraft-builds-momentum-through-25th-flight/"
+    },
+    {
+      "id": "nasa-third-pilot",
+      "name": "NASA's New X-59 Test Pilot Gets Behind Controls for Ground Test",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/blogs/quesst/2026/09/15/nasas-new-x-59-test-pilot-gets-behind-controls-for-ground-test/"
+    },
+    {
+      "id": "faa-nprm",
+      "name": "Enabling Supersonic Overland Flight (Notice of Proposed Rulemaking)",
+      "publisher": "Federal Aviation Administration / Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13440/enabling-supersonic-overland-flight"
+    },
+    {
+      "id": "nasa-first-flight-media",
+      "name": "X-59 First Flight Media Resources",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/missions/quesst/x-59-first-flight-media-resources/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "X-59 product page",
+      "url": "https://www.lockheedmartin.com/en-us/products/x-59-quiet-supersonic.html"
+    },
+    {
+      "name": "NASA Quesst blog - all X-59 flight updates",
+      "url": "https://www.nasa.gov/more-quesst-news"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2025-10-28",
+      "title": "First flight, Palmdale to Edwards",
+      "tag": "First flight",
+      "summary": "NASA test pilot Nils Larson flew the X-59 from Lockheed Martin's Palmdale plant to NASA Armstrong Flight Research Center at Edwards, a 67-minute sortie at about 230 mph and 12,000 ft with the landing gear left extended throughout.",
+      "source": "https://www.nasa.gov/image-article/nasas-quesst-mission-marks-x-59s-historic-first-flight-2/"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "First supersonic flight",
+      "tag": "Milestone",
+      "summary": "Pilot Jim Less took the X-59 through Mach 1 for the first time, reaching about Mach 1.1 at 43,400 ft during an 81-minute flight from Edwards Air Force Base.",
+      "source": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Mission conditions reached at Mach 1.4 and 55,000 ft",
+      "tag": "Milestone",
+      "summary": "The X-59 flew at Mach 1.4 (about 924 mph) at 55,000 ft, the speed and altitude its community overflight surveys are to use, validating the design condition in flight one week after first going supersonic.",
+      "source": "https://www.nasa.gov/blogs/quesst/2026/06/12/x-59-blog-061226/"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "25th flight completed ahead of acoustic validation",
+      "tag": "Milestone",
+      "summary": "The aircraft's 25th flight ran 72 minutes at Mach 1.2 and around 49,000 ft. NASA described the programme as transitioning to the acoustic validation phase, in which ground and airborne instruments measure the sonic thumps the aircraft produces.",
+      "source": "https://www.nasa.gov/blogs/quesst/2026/09/04/nasas-x-59-aircraft-builds-momentum-through-25th-flight/"
+    }
+  ]
+}

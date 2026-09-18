@@ -1,0 +1,305 @@
+{
+  "name": "U-2 Dragon Lady",
+  "fullName": "Lockheed U-2 Dragon Lady",
+  "manufacturer": "Lockheed (Skunk Works)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes"
+  ],
+  "role": "High-Altitude Strategic Reconnaissance Aircraft",
+  "tagline": "A glider with a jet engine bolted on, built to fly higher than any missile of its era could reach. For seven decades the U-2 has photographed and eavesdropped on adversaries from above 70,000 feet, surviving the very Cold War crises - a shootdown over the USSR, the Cuban Missile Crisis - that its own photographs helped trigger.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "The CIA and US Air Force needed a way to see deep inside the Soviet Union without risking a shooting war, and in 1954 Lockheed's Kelly Johnson proposed exactly that: an airframe built almost entirely around altitude, with long, thin glider-like wings and a single powerful engine, flying so high that contemporary Soviet fighters and surface-to-air missiles simply couldn't reach it. The U-2 first flew in August 1955 and immediately began overflying the USSR under CIA control, photographing missile and bomber bases that satellite imagery didn't yet exist to cover. That immunity ended on 1 May 1960, when a Soviet SA-2 missile downed Francis Gary Powers over Sverdlovsk, a Cold War flashpoint that ended manned overflights of Soviet territory and became a global incident. Two years later, U-2 photographs of missile sites under construction in Cuba triggered the Cuban Missile Crisis, and a second U-2 was shot down over Cuba during the standoff, killing its pilot. Lockheed built a substantially larger second-generation airframe, the U-2R, in 1967, and a further-modernized version of that same basic airframe - re-engined, digitized, and fitted with modern sensors - still flies today as the U-2S, over 70 years after the type's first flight.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 410,
+      "text": "356 kn (410 mph / 660 km/h)"
+    },
+    "cruiseSpeed": "391 mph (629 km/h)",
+    "range": {
+      "miles": 7000,
+      "text": "7,000 mi (11,265 km, 6,090 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 70000,
+      "text": "70,000+ ft (21,300+ m)"
+    },
+    "wingspan": {
+      "ft": 105,
+      "text": "105 ft 0 in (32 m)"
+    },
+    "length": {
+      "ft": 63,
+      "text": "63 ft 0 in (19.2 m)"
+    },
+    "height": {
+      "ft": 16,
+      "text": "16 ft 0 in (4.88 m)"
+    },
+    "weight": "empty: 16,000 lb (7,258 kg); MTOW: 40,000 lb (18,144 kg)",
+    "engines": "1 x General Electric F118-GE-101 turbofan, ~17,000 lbf (75.6 kN) thrust",
+    "armament": null,
+    "crew": "1",
+    "capacity": "Modular sensor bays: optical/infrared cameras, synthetic-aperture radar, and signals-intelligence packages, carried in the nose, Q-bay and wing 'superpods'",
+    "firstFlight": {
+      "date": "1955-08-04",
+      "year": 1955
+    },
+    "serviceEntryDate": "1956-06-01",
+    "retiredDate": null,
+    "numberBuilt": 104,
+    "unitCost": {
+      "usd": 39000000,
+      "text": "Not publicly disclosed as a modern flyaway figure - historical U-2R program-era unit costs are commonly cited around $39M (early 1980s) - roughly $128M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$128M in 2026 dollars"
+    },
+    "combatLosses": "At least 23 U-2s have been lost to accidents or hostile action across the program's history, including Francis Gary Powers' aircraft shot down over the USSR (1960) and Maj. Rudolf Anderson's aircraft shot down over Cuba (1962) - the only US combat death of the Cuban Missile Crisis."
+  },
+  "variants": [
+    {
+      "code": "U-2A",
+      "desc": "The original production version powered by the Pratt & Whitney J57 turbojet; flew the earliest Soviet overflight missions."
+    },
+    {
+      "code": "U-2C",
+      "desc": "Re-engined with the more powerful Pratt & Whitney J75 and revised intakes for better high-altitude performance."
+    },
+    {
+      "code": "U-2R",
+      "desc": "A substantially larger, second-generation redesign introduced in 1967 - roughly 40% bigger than the original, with a much larger payload capacity."
+    },
+    {
+      "code": "TR-1A",
+      "desc": "A tactical reconnaissance version of the U-2R airframe introduced in 1981, structurally near-identical, optimized for battlefield surveillance in Europe."
+    },
+    {
+      "code": "U-2S",
+      "desc": "The current, extensively modernized variant - re-engined with the GE F118 turbofan and fitted with a glass cockpit, digital autopilot and modern sensor suites."
+    },
+    {
+      "code": "ER-2",
+      "desc": "A small number of U-2s operated by NASA for high-altitude scientific and Earth-observation research rather than military reconnaissance."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1956",
+      "fleetSize": "~27-31",
+      "homeBase": "Beale AFB, California",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "role": "Original Operator (historical)",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "Transferred to USAF by the mid-1970s",
+      "homeBase": "N/A"
+    },
+    {
+      "name": "NASA",
+      "role": "Scientific Research Operator (ER-2)",
+      "status": "In Service",
+      "since": "1981",
+      "fleetSize": "2",
+      "homeBase": "Armstrong Flight Research Center, California",
+      "logo": "nasa.png"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "U2",
+    "howToFind": "U-2s rarely broadcast civilian ADS-B during operational missions, so they usually don't appear on Flightradar24 - occasional training or ferry flights near Beale AFB (Sacramento area) or RAF Fairford, UK are the best chance of a sighting."
+  },
+  "lastUpdated": "2026-07-31",
+  "changelog": [
+    {
+      "date": "2026-07-17",
+      "change": "New entry added: full gold-standard article, timeline, references and specs for the Lockheed U-2 Dragon Lady.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "US Air Force again plans U-2S retirements, targeting 2027 sundown",
+      "source": "FlightGlobal",
+      "date": "2026-05-15",
+      "category": "Retirement",
+      "url": "https://www.flightglobal.com/archive/2026/05/us-air-force-again-plans-u-2s-retirements-targeting-2027-sundown/"
+    }
+  ],
+  "tags": [
+    "u-2",
+    "u2",
+    "dragon lady",
+    "spy plane",
+    "reconnaissance",
+    "skunk works",
+    "francis gary powers",
+    "cuban missile crisis",
+    "high altitude",
+    "cold war",
+    "military"
+  ],
+  "quickFacts": [
+    "The U-2 cruises above 70,000 feet - so high that pilots wear a full pressure suit almost identical to an astronaut's.",
+    "It flies more like a glider than a jet: its huge, thin wings mean it must be 'stalled' onto the runway to land, and a chase car races alongside radioing height calls to the pilot.",
+    "A U-2 shot down Francis Gary Powers over the USSR in 1960, and another U-2's photographs triggered the Cuban Missile Crisis just two years later.",
+    "Landing gear is 'bicycle' style - two wheels in a line under the fuselage plus small outrigger 'pogo' wheels under the wings that simply fall away on takeoff.",
+    "Despite entering service in 1956, the type is still flying operational missions in 2026, having been continuously modernized rather than replaced.",
+    "NASA still operates two U-2 airframes, designated ER-2, for high-altitude atmospheric and Earth-science research."
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed U-2 Dragon Lady is a single-engine, high-altitude reconnaissance aircraft built for the US Air Force and CIA. Designed by Lockheed's Kelly Johnson and first flown in 1955, it was built to photograph the Soviet Union from an altitude no contemporary fighter or missile could reach.{{ref:wiki-u2}}",
+      "A Soviet SA-2 missile shot down pilot Francis Gary Powers over the USSR in 1960, and U-2 photography over Cuba in 1962 discovered the missile sites that triggered the Cuban Missile Crisis. More than seventy years after its first flight, the continuously upgraded U-2S still flies for the US Air Force, though the service plans to retire it around fiscal year 2026-2027.{{ref:u2incident}}{{ref:asfm-retire}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "By the early 1950s, the United States had almost no reliable way to see what was happening deep inside the Soviet Union - and satellites capable of doing the job were still years away. The CIA wanted an aircraft that could fly reconnaissance missions over Soviet territory without being shot down, and Lockheed's Kelly Johnson, fresh off the P-80 and F-104 programs, proposed a radical answer: strip an aircraft down to almost nothing but wing and fuel tank, hang a single powerful engine underneath, and fly so high that no contemporary fighter or missile could reach it.{{ref:wiki-u2}}",
+          "The result looked almost nothing like a fighter and flew almost nothing like one either - closer to a jet-powered sailplane, built entirely around altitude performance at the expense of everything else, including basic handling qualities."
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The U-2's extreme aspect-ratio wings generate enough lift at altitude to keep the aircraft flying on a whisper of thin air, but that same design makes it notoriously difficult to land - pilots fly it right to the edge of an aerodynamic stall to touch down, and a chase car driven by another U-2 pilot races down the runway alongside, radioing precise height-above-ground calls because the pilot's pressure suit and the aircraft's long nose make judging the flare almost impossible unassisted.{{ref:wiki-u2}}",
+          "Its 'bicycle' landing gear - two wheels in a line under the fuselage, with small outrigger 'pogo' wheels under each wing that simply drop away after takeoff and are refitted by ground crew before landing - is another direct consequence of prioritizing wing efficiency over conventional gear. Pilots fly missions in a full pressure suit, sealed inside a cockpit at the edge of space for up to twelve hours at a time.{{ref:wiki-u2}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "For its first years in service, the U-2 flew genuinely secret, high-stakes missions over denied territory: CIA-operated overflights of the Soviet Union began almost immediately after the type's 1956 entry into service, photographing military installations Western intelligence had no other way to see.{{ref:wiki-u2}}",
+          "That advantage ended abruptly on 1 May 1960, when a Soviet SA-2 surface-to-air missile shot down Francis Gary Powers deep inside Soviet territory - a shootdown that became a major Cold War incident and ended manned overflights of the USSR.{{ref:u2incident}} Two years later, U-2 photography over Cuba discovered Soviet medium-range ballistic missiles under construction, triggering the Cuban Missile Crisis; during the standoff, a second U-2 was shot down over Cuba, killing Maj. Rudolf Anderson - the crisis's only American combat fatality.{{ref:anderson}}",
+          "A substantially redesigned, larger U-2R entered service in 1967, and later variants - the TR-1A and ultimately the modernized U-2S - kept the same basic airframe flying tactical and strategic reconnaissance missions through the Gulf War, the War on Terror, and present-day great-power competition."
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The Air Force has moved to retire the U-2 in stages, citing its lack of stealth against modern integrated air defenses and the fleet's advancing age, with divestment actions already underway since early 2024 and full retirement targeted around fiscal year 2026-2027 as satellites and unmanned platforms take over more of its mission.{{ref:asfm-retire}}",
+          "Until that retirement completes, the U-2 continues flying, including as a testbed for fifth- and sixth-generation sensor and networking technology that will eventually replace it - a fitting final chapter for an aircraft that has spent seven decades being rebuilt rather than retired.{{ref:asfm-retire}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-u2",
+      "name": "Lockheed U-2",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_U-2"
+    },
+    {
+      "id": "u2incident",
+      "name": "1960 U-2 incident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1960_U-2_incident"
+    },
+    {
+      "id": "anderson",
+      "name": "Rudolf Anderson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rudolf_Anderson"
+    },
+    {
+      "id": "asfm-retire",
+      "name": "USAF Will Retire the U-2 in 2026. Until Then, Expect 'Unique, Innovative' Uses",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/usaf-retire-u-2-2026/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Lockheed Martin - U-2 Dragon Lady",
+      "url": "https://www.lockheedmartin.com/en-us/products/u2-dragon-lady.html"
+    },
+    {
+      "name": "Wikipedia - Lockheed U-2",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_U-2"
+    },
+    {
+      "name": "Air & Space Forces Magazine - U-2 Dragon Lady",
+      "url": "https://www.airandspaceforces.com/weapons/u-2/"
+    },
+    {
+      "name": "National Museum of the United States Air Force - The Powers Incident",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197572/the-powers-incident/"
+    },
+    {
+      "name": "Air & Space Forces Magazine - USAF to Retire the U-2 in 2026",
+      "url": "https://www.airandspaceforces.com/usaf-retire-u-2-2026/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1956-05-15",
+      "title": "First fatal U-2 accident",
+      "tag": "Stall after takeoff",
+      "summary": "A pilot was killed when his U-2 stalled shortly after takeoff during the programme's earliest operational testing - the first of three fatal accidents in the type's first six months.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_U-2"
+    },
+    {
+      "date": "1956-08-31",
+      "title": "Second fatal stall accident",
+      "tag": "Stall after takeoff",
+      "summary": "Another U-2 stalled immediately after takeoff, killing the pilot. The aircraft's narrow margin between stall and never-exceed speed at altitude - the so-called coffin corner - made it unforgiving from the start.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_U-2"
+    },
+    {
+      "date": "1956-09-17",
+      "title": "Fatal in-flight breakup over West Germany",
+      "summary": "An early-production U-2 broke apart during a high-altitude climb over Germany, killing the pilot.",
+      "fatalities": 1,
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_U-2"
+    },
+    {
+      "date": "1960-05-01",
+      "title": "Francis Gary Powers shot down over the USSR",
+      "summary": "CIA pilot Francis Gary Powers's U-2 was hit by a Soviet surface-to-air missile near Sverdlovsk during a reconnaissance mission. Powers ejected, survived and was captured, and was later exchanged for a Soviet spy in 1962.",
+      "fatalities": 0,
+      "tag": "Shot down",
+      "source": "https://en.wikipedia.org/wiki/1960_U-2_incident"
+    },
+    {
+      "date": "1962-10-27",
+      "title": "Rudolf Anderson shot down over Cuba",
+      "summary": "USAF Major Rudolf Anderson's U-2 was shot down by a Soviet missile over Cuba during the Cuban Missile Crisis, killing him — the only combat fatality of the crisis.",
+      "fatalities": 1,
+      "tag": "Shot down",
+      "source": "https://en.wikipedia.org/wiki/Rudolf_Anderson"
+    },
+    {
+      "date": "1966-07-28",
+      "title": "Cabin depressurization crash",
+      "summary": "A U-2 pilot lost consciousness after a cabin depressurization; the unresponsive aircraft drifted across Cuba and crashed near Llanquera, Bolivia, killing him.",
+      "fatalities": 1,
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_U-2"
+    }
+  ]
+}

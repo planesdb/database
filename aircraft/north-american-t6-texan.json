@@ -1,0 +1,272 @@
+{
+  "name": "T-6 Texan",
+  "fullName": "North American T-6 Texan",
+  "manufacturer": "North American Aviation",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Advanced Trainer",
+  "tagline": "The T-6 Texan is a single-engine, two-seat advanced trainer built by North American Aviation and flown under more names than almost any other aircraft - Texan in American service, Harvard across the Commonwealth, SNJ in the US Navy. 15,495 were built, and it taught the Allied air forces of the Second World War to fly fighters.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "15,495 were built, and it trained pilots for the USAAF, US Navy, RAF, RCAF and most Commonwealth air forces",
+    "The same aircraft was the Texan, the Harvard, the SNJ and the AT-6 depending on who was flying it - one of the most designation-heavy types in aviation",
+    "Its Korean War role was not training but forward air control: armed 'Mosquito' T-6s marked targets for fighter-bombers over the front line",
+    "Around 1,200 survive worldwide, making it one of the most numerous flying warbirds anywhere and a fixture of the Reno air races",
+    "It has spent decades on screen doubling for aircraft it looks nothing like, most often as Japanese Zeros in war films",
+    "A known weakness is the fuel tank selector valve, which can wear into an intermediate position that restricts fuel flow - the FAA approved a modification in 1997 and issued fresh guidance after a fatal crash in Finland in October 2024"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the AT-6/T-6 as built for the USAAF. The type ran through a long series of designations and licence-built versions, from the BC-1 of 1937 through the wartime AT-6A to F and the remanufactured postwar T-6G, and Commonwealth Harvards differed in detail from American aircraft.",
+    "maxSpeed": {
+      "mph": 208,
+      "text": "181 kn (208 mph / 335 km/h)"
+    },
+    "cruiseSpeed": "145 mph (233 km/h)",
+    "range": {
+      "miles": 730,
+      "text": "730 mi (1,175 km)"
+    },
+    "serviceCeiling": {
+      "ft": 24200,
+      "text": "24,200 ft (7,376 m)"
+    },
+    "wingspan": {
+      "ft": 42,
+      "text": "42 ft (12.81 m)"
+    },
+    "length": {
+      "ft": 29,
+      "text": "29 ft (8.84 m)"
+    },
+    "height": {
+      "ft": 12,
+      "text": "11 ft 8 in (3.56 m)"
+    },
+    "weight": "empty: 4,158 lb (1,886 kg); MTOW: 5,617 lb (2,548 kg)",
+    "engines": "One Pratt & Whitney R-1340-AN-1 Wasp nine-cylinder radial, 600 hp",
+    "armament": "Provision for up to three .30 in machine guns for gunnery training; counter-insurgency operators added machine-gun pods, light bombs and rockets",
+    "crew": "2 (student and instructor, seated in tandem)",
+    "capacity": "Two-seat trainer with no cargo or passenger capacity",
+    "firstFlight": {
+      "date": "1935-04-01",
+      "year": 1935
+    },
+    "serviceEntryDate": "1937-06-09",
+    "retiredDate": "1995",
+    "numberBuilt": 15495,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed as a single figure - the type was built across two decades in American, Canadian and Australian production under wartime contracts, and no consistent per-aircraft price covers the run",
+      "inflationText": null
+    },
+    "combatLosses": "The Texan was never intended as a combat aircraft but ended up in a dozen wars. Armed LT-6G 'Mosquito' forward air controllers took losses over Korea; French, Portuguese, Spanish, South African and Pakistani aircraft flew counter-insurgency and ground attack in Algeria, Angola, Mozambique, Guinea, Ifni, the Border War and the 1971 India-Pakistan war. No consolidated loss figure exists across those operators."
+  },
+  "variants": [
+    {
+      "code": "BC-1 / BC-1A",
+      "desc": "The first production versions, derived from the NA-16 line after the NA-26 won the USAAC Basic Combat Trainer competition in March 1937 with retractable undercarriage and a more powerful engine than earlier trainers. 177 unarmed BC-1s were ordered from 9 June 1937, followed by 83 armed BC-1As. The 'Basic Combat' category disappeared soon afterwards, taking the designation with it."
+    },
+    {
+      "code": "AT-6A to AT-6F",
+      "desc": "The wartime USAAF advanced trainers and the bulk of production. The AT-6A ran to 1,847 aircraft, the AT-6B added armament training across 400, and the AT-6C and AT-6D reached 2,970 and 2,604 respectively - the AT-6C using bonded plywood and steel in places to conserve aluminium. The AT-6F closed the wartime run at 956."
+    },
+    {
+      "code": "SNJ series",
+      "desc": "The US Navy and Marine Corps versions, from the SNJ-1 through to the SNJ-6, differing mainly in equipment and, on carrier-qualification aircraft, in the fitting of an arrester hook. They did the same job as the Army's AT-6s but produced a separate designation series that still confuses buyers of surviving airframes today."
+    },
+    {
+      "code": "Harvard Mk I to Mk IV",
+      "desc": "The Commonwealth versions, flown by the RAF, RCAF, RAAF, SAAF and others, with 2,557 Harvard IIs alone built in Canada by Noorduyn. Commonwealth pilots trained on Harvards throughout the war, including in North Africa where the RAF used them to prepare crews moving onto American types. The name stuck so firmly that many operators never called the aircraft a Texan at all."
+    },
+    {
+      "code": "T-6G",
+      "desc": "The postwar remanufacturing standard, produced by rebuilding wartime airframes rather than building new ones. It kept the type in first-line training service into the 1950s and beyond, and the surviving fleet that later reached the warbird market is largely made up of T-6Gs and their equivalents."
+    },
+    {
+      "code": "LT-6G Mosquito",
+      "desc": "The Korean War forward air control conversion, and the only version designed for combat. Fitted with machine-gun pods, light bombs and marker rockets, Mosquito crews flew low over the front line to find targets and mark them with smoke for fighter-bombers. It was slow, unarmoured work in an aircraft designed to teach students, and it gave the type its only sustained combat role."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces",
+      "role": "Primary Training Operator (historical)",
+      "status": "Retired (became the USAF, 1947)",
+      "since": "1937",
+      "fleetSize": "Thousands across the AT-6A to AT-6F series - the standard American advanced trainer of the war",
+      "homeBase": "USAAF advanced flying training fields across the United States"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Training and Forward Air Control Operator (historical)",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "Remanufactured T-6Gs for training, plus armed LT-6G Mosquito forward air control aircraft in Korea",
+      "homeBase": "USAF training bases; Korean airfields for the Mosquito squadrons"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Training Operator (historical)",
+      "status": "Retired",
+      "since": "1930s",
+      "fleetSize": "The SNJ-1 to SNJ-6 series, flown alongside the Marine Corps and Coast Guard",
+      "homeBase": "US Navy flight training establishments"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Training Operator (historical)",
+      "status": "Retired",
+      "since": "1930s",
+      "fleetSize": "Harvard Mk I to Mk IV in large numbers, including North African training units and, in the 1950s, armed aircraft flying against Mau Mau insurgents in Kenya with 20 lb bombs and machine guns",
+      "homeBase": "RAF flying training schools in the UK, Southern Rhodesia and Canada"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Training Operator (historical)",
+      "status": "Retired",
+      "since": "1939",
+      "fleetSize": "Large Harvard fleets, with 2,557 Harvard IIs built in Canada by Noorduyn; the National Research Council still flies one",
+      "homeBase": "British Commonwealth Air Training Plan stations across Canada"
+    },
+    {
+      "name": "South African Air Force",
+      "role": "Training Operator (historical)",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "Harvards flown until 1995, making South Africa the last military operator of the type anywhere; ex-SAAF aircraft now fly with the Flying Lions aerobatic team",
+      "homeBase": "South African Air Force training bases"
+    },
+    {
+      "name": "Portuguese Air Force",
+      "role": "Counter-Insurgency Operator (historical)",
+      "status": "Retired",
+      "since": "1961",
+      "fleetSize": "Over 100 aircraft flown in Angola, Mozambique and Guinea between 1961 and 1975",
+      "homeBase": "Portuguese overseas bases in Africa"
+    },
+    {
+      "name": "30+ other air forces worldwide",
+      "role": "Training and Light Attack Operators (historical)",
+      "status": "Retired",
+      "since": "1930s",
+      "fleetSize": "Argentina, Australia, Brazil, Cambodia, Ecuador, France, Germany, Greece, India, Indonesia, Iraq, Israel, Italy, Japan, Mexico, the Netherlands, New Zealand, Nicaragua, Norway, Pakistan, Paraguay, Peru, Spain, Sweden, Syria and Turkey among others - France alone fielded up to 38 armed squadrons in Algeria",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "T6",
+    "howToFind": "One of the easiest warbirds to find on a tracker, because so many are civil-registered and flying. Filter for type T6 and look at general aviation fields across North America, southern England and South Africa through the display season. Formation flights are the giveaway - the New Zealand Warbirds' Roaring 40s and South Africa's Flying Lions both fly Harvards, and Reno's dedicated T-6 racing class brings a concentration of them to Nevada each year."
+  },
+  "lastUpdated": "2026-09-10",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia and the WW2DB specification file.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Texan",
+    "Harvard",
+    "SNJ",
+    "AT-6",
+    "T6",
+    "Mosquito",
+    "Pilot Maker"
+  ],
+  "article": {
+    "overview": [
+      "The T-6 Texan is a single-engine, two-seat advanced trainer built by North American Aviation, developed from the NA-16 prototype that first flew on 1 April 1935. It entered production as the BC-1 in June 1937 and 15,495 were built, making it the standard advanced trainer of the United States and most of the Commonwealth through the Second World War. {{ref:wiki-t6}}",
+      "It carries an unusual number of names for one aircraft: Texan to the USAAF and USAF, Harvard across the Commonwealth, SNJ to the US Navy, and AT-6 for most of its wartime career. Around 1,200 survive worldwide, and the South African Air Force flew the last military examples until 1995 - fifty-eight years after the first production aircraft. {{ref:wiki-t6}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Texan descends from North American's NA-16, first flown on 1 April 1935 as a fixed-gear basic trainer. The company developed it into the NA-26 for the US Army Air Corps' Basic Combat Trainer competition in March 1937, adding retractable undercarriage and a more powerful engine - the two changes that made it a credible step between a primary trainer and a fighter. It won, and 177 unarmed BC-1s were ordered from 9 June 1937. {{ref:wiki-t6}}",
+          "The 'Basic Combat' designation disappeared within a few years and the aircraft became the AT-6 advanced trainer, but the concept behind it did not change: a single-engine tandem two-seater with a 600 hp Pratt & Whitney R-1340 Wasp, retractable gear, flaps and enough weight and inertia to behave something like the fighters a student was heading for. {{ref:ww2db-at6}} {{ref:wiki-t6}}"
+        ]
+      },
+      {
+        "heading": "Design & Handling",
+        "paragraphs": [
+          "The R-1340 Wasp gives 600 hp for 4,158 lb empty, which is modest performance - 208 mph flat out and 145 mph in the cruise, with a 24,200 ft ceiling and 730 miles of range. That was the point. The aircraft sat between the primary trainers students arrived from and the fighters they were heading for, adding retractable undercarriage, flaps and enough power that the step up to a Mustang or a Spitfire was a step rather than a leap. {{ref:wiki-t6}} {{ref:ww2db-at6}}",
+          "Provision for up to three .30 in machine guns let gunnery be taught on the same airframe, and the AT-6B was ordered specifically for armament training. Production adapted to wartime shortages: the AT-6C substituted bonded plywood and steel for aluminium in places, and Canadian Harvard IIs were built in quantity by Noorduyn - 2,557 of that mark alone - to feed the British Commonwealth Air Training Plan. {{ref:wiki-t6}}"
+        ]
+      },
+      {
+        "heading": "Training the Allied Air Forces",
+        "paragraphs": [
+          "The Texan's real achievement is a number that is hard to state precisely and easy to underestimate: it trained the pilots of the USAAF, USAF, US Navy, RAF, RCAF and the other Commonwealth air forces, in numbers running into the tens of thousands, across the entire war. Where a student went next - fighters, bombers, ground attack - the T-6 was the last aircraft they flew before they got there. {{ref:wiki-t6}}",
+          "The designation sprawl reflects how widely it spread. The same basic aircraft was the AT-6A through AT-6F to the Army, the SNJ-1 through SNJ-6 to the Navy and Marines, and the Harvard Mk I through Mk IV to the Commonwealth, with carrier-qualification SNJs carrying an arrester hook and British aircraft differing in equipment. Postwar, wartime airframes were remanufactured as T-6Gs and kept training pilots into the 1950s. {{ref:wiki-t6}}"
+        ]
+      },
+      {
+        "heading": "The Mosquito Mission in Korea",
+        "paragraphs": [
+          "Korea gave the Texan the one combat role it was genuinely designed around - not fighting, but finding. Armed LT-6G aircraft, known as Mosquitos, flew low and slow over the front line looking for targets, marking them with smoke rockets for the fighter-bombers stacked above, and carrying machine-gun pods and light bombs of their own. {{ref:wiki-t6}}",
+          "It was dangerous work in an unarmoured trainer, and it established the airborne forward air control mission that later went to the T-28, the O-1 Bird Dog and the OV-10 Bronco. The type went on to fly counter-insurgency and ground attack for a long list of operators: the RAF against Mau Mau insurgents in Kenya with 20 lb bombs, the French in Algeria across as many as 38 squadrons, the Portuguese over Angola, Mozambique and Guinea from 1961 to 1975, the Spanish in the Ifni War, and the Pakistan Air Force on night ground-support missions in the 1971 war with India. {{ref:wiki-t6}}"
+        ]
+      },
+      {
+        "heading": "Warbirds, Racing & Screen Work",
+        "paragraphs": [
+          "Around 1,200 Texans and Harvards survive worldwide, which makes it one of the most numerous flying warbird types anywhere - a consequence of how many were built, how simple they are to maintain and how long air forces kept selling them off. The New Zealand Warbirds' Roaring 40s and South Africa's Flying Lions, flying ex-SAAF aircraft, both perform formation aerobatics on the type, and Reno's National Air Races have run a dedicated T-6 class for decades. {{ref:wiki-t6}}",
+          "It also has an unlikely second career on screen, standing in for aircraft it resembles only loosely - most often Japanese A6M Zeros in war films, but also P-47 Thunderbolts and Fokker D.XXIs. The National Research Council of Canada still flies a Harvard 4 for research, having used it to test cockpit attitude displays and instrument systems. {{ref:wiki-t6}}"
+        ]
+      },
+      {
+        "heading": "A Known Weakness & Legacy",
+        "paragraphs": [
+          "The type's best-documented design vulnerability is the fuel tank selector valve, which can wear to the point where an intermediate position restricts fuel flow without the pilot realising. The FAA approved Supplemental Type Certificate SA00636CH in 1997 to modify the system to simple On and Off positions, but unmodified aircraft remain in service - and a fatal crash of an SNJ-3 in Finland on 16 October 2024 was attributed to exactly this failure, prompting fresh FAA safety guidance to operators. {{ref:wiki-t6}}",
+          "The South African Air Force retired the last military Harvards in 1995, closing a fifty-eight year run in uniform. What the type left behind is a training doctrine as much as an aircraft: the idea that the step before a frontline fighter should be a demanding single-engine tandem trainer with retractable gear and real power ran through the T-28, the Harvard's successors in Commonwealth service, and arguably as far as the turboprop trainers flying today. {{ref:wiki-t6}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-t6",
+      "name": "North American T-6 Texan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_American_T-6_Texan"
+    },
+    {
+      "id": "ww2db-at6",
+      "name": "AT-6 Texan specification file",
+      "publisher": "World War II Database",
+      "url": "https://ww2db.com/aircraft_spec.php?aircraft_model_id=144"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "North American T-6 Texan",
+      "url": "https://en.wikipedia.org/wiki/North_American_T-6_Texan"
+    },
+    {
+      "name": "AT-6 Texan - World War II Database",
+      "url": "https://ww2db.com/aircraft_spec.php?aircraft_model_id=144"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1955-06-16",
+      "title": "Argentine Navy SNJ-4s bomb the Plaza de Mayo",
+      "tag": "Combat operation",
+      "summary": "Argentine Navy SNJ-4s took part in the bombing of the Plaza de Mayo in Buenos Aires during the attempted coup against President Peron. Navy Texans were used again during the Navy revolt of 1963.",
+      "source": "https://en.wikipedia.org/wiki/North_American_T-6_Texan"
+    },
+    {
+      "date": "2024-10-16",
+      "title": "Fatal SNJ-3 crash in Finland traced to the fuel selector",
+      "tag": "Fuel system failure",
+      "summary": "An SNJ-3 crashed in Finland after a fuel tank selector valve failure of the type the 1997 modification was designed to prevent. The accident prompted the FAA to issue fresh safety guidance to T-6 operators.",
+      "source": "https://en.wikipedia.org/wiki/North_American_T-6_Texan"
+    }
+  ]
+}

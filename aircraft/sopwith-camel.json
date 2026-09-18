@@ -1,0 +1,291 @@
+{
+  "name": "Sopwith Camel",
+  "fullName": "Sopwith F.1 Camel",
+  "manufacturer": "Sopwith Aviation Company",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "WWI Fighter Scout",
+  "tagline": "The twitchy, deadly British fighter credited with more aerial victories than any other Allied type of WWI. Concentrating the engine, guns, pilot and fuel tank all within the first seven feet of the fuselage gave it a ferocious rate of roll - and made it a genuine hazard to novice pilots thanks to vicious torque effects from its rotary engine.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Designed by Herbert Smith at Sopwith as a successor to the earlier Pup and Triplane, the Camel first flew in December 1916 and entered squadron service with the Royal Flying Corps and Royal Naval Air Service in mid-1917. Its rotary engine - in which the entire cylinder block spun with the propeller - produced a huge gyroscopic effect that made the Camel turn far more sharply to the right than to the left, a quirk that experienced pilots learned to exploit in a dogfight but which killed a significant number of trainees. Despite this reputation, the Camel proved devastatingly effective: official credits put its aerial victory total at 1,294 enemy aircraft destroyed, more than any other Allied fighter of the war, flown by aces including Canadian Roy Brown, who was credited (controversially, alongside ground fire) with the fight in which the Red Baron, Manfred von Richthofen, was killed on 21 April 1918. Beyond its fighter role the Camel was adapted as a night fighter, a shipboard fighter flown from platforms on Royal Navy warships, and a ground-attack aircraft carrying small bombs against trench lines. Roughly 5,490 were built before production wound down after the Armistice, and the type was withdrawn from RAF service by the early 1920s in favour of newer designs.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 115,
+      "text": "100 kn (115 mph / 185 km/h)"
+    },
+    "cruiseSpeed": "~100 mph (161 km/h)",
+    "range": {
+      "miles": 300,
+      "text": "300 mi (485 km) / roughly 2.5 hours endurance"
+    },
+    "serviceCeiling": {
+      "ft": 19000,
+      "text": "19,000 ft (5,791 m)"
+    },
+    "wingspan": {
+      "ft": 28,
+      "text": "28 ft 0 in (8.53 m)"
+    },
+    "length": {
+      "ft": 18.75,
+      "text": "18 ft 9 in (5.72 m)"
+    },
+    "height": {
+      "ft": 8.75,
+      "text": "8 ft 9 in (2.66 m)"
+    },
+    "weight": "empty: 930 lb (422 kg); loaded: 1,453 lb (659 kg)",
+    "engines": "1 x Clerget 9B 9-cylinder rotary engine, 130 hp (other production batches used Bentley BR1 or Le Rhône rotaries of similar power)",
+    "armament": "2 x fixed, forward-firing .303 in Vickers machine guns synchronized to fire through the propeller arc; ground-attack variants added up to 4 x 25 lb Cooper bombs",
+    "crew": "1 (pilot)",
+    "capacity": "N/A - single-seat fighter; some variants carried up to 4 x 25 lb bombs for ground attack",
+    "firstFlight": {
+      "date": "1916-12-22",
+      "year": 1916
+    },
+    "serviceEntryDate": "1917-06-01",
+    "retiredDate": "1920",
+    "numberBuilt": 5490,
+    "unitCost": {
+      "usd": 1400,
+      "text": "~$1,400 wartime unit cost (roughly £875 at contemporary exchange rates; about $37,000 in 2026 dollars, adjusted for CPI inflation)",
+      "inflationText": "≈$37,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "F.1",
+      "desc": "Standard land-based single-seat fighter, the definitive and most numerous version."
+    },
+    {
+      "code": "2F.1 Ship's Camel",
+      "desc": "Shortened-fuselage naval variant flown from platforms on Royal Navy cruisers and battleships, and from early aircraft carriers."
+    },
+    {
+      "code": "Comic (Night Fighter)",
+      "desc": "Modified night-fighting variant with the cockpit moved aft and twin Lewis guns mounted above the wing to fire clear of the propeller and away from the pilot's night vision."
+    },
+    {
+      "code": "T.F.1 Trench Fighter",
+      "desc": "Armoured ground-attack variant intended for low-level strafing of enemy trenches."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Flying Corps / Royal Air Force",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1917",
+      "fleetSize": "~2,500 in frontline service at peak",
+      "homeBase": "Western Front airfields, France and Belgium",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Royal Naval Air Service",
+      "role": "Operator (2F.1 shipboard variant)",
+      "status": "Retired",
+      "since": "1917",
+      "fleetSize": "~200",
+      "homeBase": "Royal Navy warships and coastal stations"
+    },
+    {
+      "name": "United States Air Service",
+      "role": "Operator (via Allied loan)",
+      "status": "Retired",
+      "since": "1918",
+      "fleetSize": "~50",
+      "homeBase": "Western Front, France"
+    },
+    {
+      "name": "Belgian Aviation Militaire",
+      "role": "Operator",
+      "status": "Retired",
+      "since": "1918",
+      "fleetSize": "~36",
+      "homeBase": "Belgian front-line airfields",
+      "logo": "belgian-air-force.svg"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "A handful of flying reproductions (original Camels are essentially all lost) appear at WWI heritage airshows in the UK, New Zealand and the US, notably The Vintage Aviator collection; not routinely ADS-B tracked given their rarity and low-altitude display-only flying."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "Sopwith Camel"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "RAF Museum marks the Camel's place in the first 100 years of air power",
+      "source": "RAF Museum",
+      "date": "2024-04-01",
+      "category": "Heritage",
+      "url": "https://www.rafmuseum.org.uk/"
+    }
+  ],
+  "tags": [
+    "sopwith camel",
+    "wwi fighter",
+    "world war 1",
+    "royal flying corps",
+    "royal air force",
+    "rotary engine",
+    "red baron",
+    "biplane fighter",
+    "vickers machine gun"
+  ],
+  "quickFacts": [
+    "The Camel shot down 1,294 enemy aircraft - more than any other Allied fighter of the First World War.",
+    "It killed almost as many of its own pilots in training as combat did: the massive rotary-engine torque that made it lethally agile in a right turn also snapped inexperienced pilots into fatal spins on take-off.",
+    "Pilots joked it offered 'a wooden cross, the Red Cross, or a Victoria Cross'.",
+    "Camels flying from a lighter towed behind a destroyer - and from the carrier HMS Furious - carried out history's first carrier-based air strike, against the Tondern Zeppelin sheds in July 1918.",
+    "A Camel pilot, Canadian Roy Brown, was officially credited with shooting down the Red Baron - though historians now believe Australian machine-gunners on the ground fired the fatal shot.",
+    "It is almost certainly the most famous WWI aircraft in the world today thanks to Snoopy, who 'flew' one against the Red Baron from the roof of his doghouse."
+  ],
+  "article": {
+    "overview": [
+      "The Sopwith Camel is a British single-seat biplane fighter built by the Sopwith Aviation Company during the First World War. It is credited with destroying 1,294 enemy aircraft, more than any other Allied type of the war.{{ref:wiki-camel}}",
+      "Its rotary engine gave it exceptional agility but also violent, difficult handling that killed hundreds of pilots in training accidents.{{ref:raf-camel}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "By late 1916 the Sopwith Pup - sweet-natured, lightly armed - was being outgunned by twin-gun German Albatros fighters. Herbert Smith's answer doubled the armament: two synchronised Vickers guns under a humped fairing (the 'hutch' that named the Camel) and packed every heavy component around the centre of gravity to make the aircraft pivot on its own axis.{{ref:wiki-camel}}",
+          "The prototype flew in December 1916 and reached the Front by mid-1917. It was the first British fighter with twin synchronised guns - and the last great fighter of the rotary-engine era, arriving just as that whole engine philosophy peaked and died.{{ref:wiki-camel}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Camel's soul was its rotary engine: the whole engine spun with the propeller, and its gyroscopic torque warped every manoeuvre - right turns tightened viciously with a nose-drop toward a spin, left turns wallowed, and full-power takeoffs swung hard enough to kill the unwary. Experts weaponised the quirk, turning 270 degrees right faster than any rival could turn 90 left.{{ref:raf-camel}}",
+          "Everything else was concentrated fury: pilot, guns, fuel and engine within the front third, wings rigged for instability, and no forgiveness anywhere. Training losses were fearsome - by some counts comparable to combat losses - and dedicated dual-control trainers arrived only late in its service life.{{ref:wiki-camel}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "From mid-1917 through the Armistice, Camels fought over every Front: the great dogfights of Ypres and Cambrai, night-fighter defence of London against Gotha raids, ground-attack in the 1918 German offensives (where low-flying Camel squadrons suffered the war's grimmest attrition), and shipboard trials that helped invent carrier aviation - Camels flew from platforms on battleship turrets and, in 1918, from the first true carrier HMS Argus's forerunners to destroy Zeppelin L 53.{{ref:wiki-camel}}",
+          "Its 1,294 credited victories made it the war's top-scoring fighter, flown by aces from Canada's Donald MacLaren (54 victories) and William Barker (whose Camel B6313 became history's single most successful fighter airframe, 46 kills){{ref:wiki-barker}} to the men of every Allied nation. A Camel of No. 209 Squadron was firing at Manfred von Richthofen in his final minute - though the fatal bullet likely rose from an Australian machine gun on the ground.{{ref:wiki-richthofen}}",
+          "The Armistice retired the Camel almost overnight, along with the rest of the rotary-engined fighters it had epitomised; the RAF replaced it with the more docile Sopwith Snipe.{{ref:wiki-camel}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Around 5,500 Camels were built by Sopwith and a web of subcontractors - furniture firms and coachbuilders turning out warplanes. Variants included the 2F.1 naval Camel with detachable rear fuselage for shipboard stowage, night fighters with Lewis guns above the wing (firing past, not through, the propeller they could not see at night), and the 'Trench Fighter' TF.1 armour experiment that presaged ground-attack design.{{ref:wiki-camel}}",
+          "Its evolutionary dead-end was honourable: the Camel took the rotary fighter as far as physics allowed, and its successor generation - stationary engines, docile handling, higher speeds - defined fighters thereafter.{{ref:raf-camel}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Camel is the First World War fighter in popular memory - Biggles flew one, Snoopy 'flies' one against the Red Baron from his doghouse, and every WWI dogfight scene owes it a debt. Its record is real: the highest number of credited victories of any WWI fighter, and a reputation as one of the hardest aircraft of the war to fly.{{ref:wiki-camel}}",
+          "Genuine Camels are among the rarest of all preserved aircraft - only a handful of originals survive, none flying - but faithful reproductions with period rotaries keep the type's extraordinary sound and swing alive at WWI airshows, where the smell of castor oil (the rotary's lubricant, ingested liberally by every Camel pilot) still completes the sensory history lesson.{{ref:raf-camel}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-camel",
+      "name": "Sopwith Camel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sopwith_Camel"
+    },
+    {
+      "id": "raf-camel",
+      "name": "Sopwith Camel F.1",
+      "publisher": "RAF Museum",
+      "url": "https://www.rafmuseum.org.uk/research/collections/sopwith-camel-f1/"
+    },
+    {
+      "id": "wiki-richthofen",
+      "name": "Death of Manfred von Richthofen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Manfred_von_Richthofen"
+    },
+    {
+      "id": "wiki-barker",
+      "name": "William George Barker",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_George_Barker"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Sopwith Camel",
+      "url": "https://en.wikipedia.org/wiki/Sopwith_Camel"
+    },
+    {
+      "name": "Royal Air Force Museum - Sopwith Camel",
+      "url": "https://www.rafmuseum.org.uk/research/collections/sopwith-f1-camel/"
+    },
+    {
+      "name": "Imperial War Museums - Sopwith Camel collections",
+      "url": "https://www.iwm.org.uk/collections/item/object/205114129"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1917-07-04",
+      "title": "A fighter that killed its own pilots",
+      "tag": "Handling / training losses",
+      "summary": "The Camel's rotary-engine torque gave it a vicious snap to the right and unforgiving departure behaviour: deadly in expert hands, lethal to novices. Across the type's service at least 385 pilots died in non-combat Camel accidents, against 413 killed in action.",
+      "source": "https://en.wikipedia.org/wiki/Sopwith_Camel"
+    },
+    {
+      "date": "1917-09-15",
+      "title": "Downs German ace Kurt Wolff",
+      "summary": "A Camel pilot of No. 10 Squadron RNAS shot down German ace Kurt Wolff's Fokker triplane near Wervik, Belgium, from close range.",
+      "tag": "Combat loss (victory credit)",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Wolff_(aviator)"
+    },
+    {
+      "date": "1918-04-21",
+      "title": "Credited with downing the Red Baron",
+      "summary": "Canadian pilot Wop May, flying a Camel on his first combat patrol, was pursued at treetop height by Manfred von Richthofen's Fokker Dr.I; fellow Camel pilot Roy Brown dove to defend him and fired on Richthofen, and was credited by the RAF with the kill, though ground fire is now considered the more likely cause of death.",
+      "tag": "Combat engagement",
+      "source": "https://en.wikipedia.org/wiki/Wop_May"
+    }
+  ]
+}

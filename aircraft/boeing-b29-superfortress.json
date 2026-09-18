@@ -1,0 +1,419 @@
+{
+  "name": "B-29 Superfortress",
+  "fullName": "Boeing B-29 Superfortress",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Very Long-Range Strategic Heavy Bomber",
+  "tagline": "The B-29 Superfortress is a four-engine, very long-range heavy bomber built by Boeing for the United States Army Air Forces and first flown on 21 September 1942. It was the first Allied production bomber with a pressurised cabin and remotely controlled gun turrets, and at around $3 billion the programme cost more than the Manhattan Project.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The programme cost roughly $3 billion against the Manhattan Project's $1.9 billion, making it the most expensive American undertaking of the war",
+    "It was the first Allied production bomber with a pressurised cabin - two sealed crew compartments joined by a crawl tunnel running over the unpressurised bomb bays",
+    "Five interconnected General Electric analogue computers let a single gunner control several remote turrets at once, correcting for range, speed, altitude and gravity drop",
+    "Four B-29s that came down in Soviet territory were reverse-engineered into the Tupolev Tu-4, of which 847 were built",
+    "Enola Gay and Bockscar remain the only aircraft ever to have dropped nuclear weapons in war",
+    "The Wright R-3350 was the aircraft's weak point throughout: engine fires destroyed the second prototype in February 1943, and of nearly 100 B-29s delivered by late 1943 only 15 were airworthy"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the standard wartime B-29. The lightened B-29B stripped most of the gun armament for low-level night work, and the postwar B-50 re-engined the airframe with Pratt & Whitney R-4360s.",
+    "maxSpeed": {
+      "mph": 357,
+      "text": "310 kn (357 mph / 575 km/h)"
+    },
+    "cruiseSpeed": "220 mph (350 km/h)",
+    "range": {
+      "miles": 3250,
+      "text": "3,250 mi (5,230 km, 2,820 nmi); 5,600 mi (9,000 km) ferry"
+    },
+    "serviceCeiling": {
+      "ft": 31850,
+      "text": "31,850 ft (9,710 m)"
+    },
+    "wingspan": {
+      "ft": 141,
+      "text": "141 ft 3 in (43.05 m)"
+    },
+    "length": {
+      "ft": 99,
+      "text": "99 ft (30.18 m)"
+    },
+    "height": {
+      "ft": 28,
+      "text": "27 ft 9 in (8.46 m)"
+    },
+    "weight": "empty: 74,500 lb (33,793 kg); MTOW: 133,500 lb (60,555 kg)",
+    "engines": "Four Wright R-3350-23 Duplex-Cyclone turbosupercharged 18-cylinder radials, 2,200 hp each",
+    "armament": "Twelve .50 in M2 Browning machine guns in four remotely controlled turrets and a manned tail position; early aircraft carried a 20 mm cannon in the tail alongside the guns",
+    "crew": "11 (pilot, co-pilot, bombardier, flight engineer, navigator, radio operator, radar observer, fire control officer and three gunners)",
+    "capacity": "Up to 20,000 lb (9,072 kg) of bombs in two bays, falling to around 5,000 lb (2,268 kg) on the longest high-altitude missions",
+    "firstFlight": {
+      "date": "1942-09-21",
+      "year": 1942
+    },
+    "serviceEntryDate": "1944-05-08",
+    "retiredDate": "1960-06-21",
+    "numberBuilt": 3970,
+    "unitCost": {
+      "usd": 639188,
+      "text": "$639,188 (1944 flyaway) - roughly $11.9M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$11.9M in 2026 dollars"
+    },
+    "combatLosses": "In Korea the type flew around 20,000 sorties for 78 aircraft lost, 57 of them to enemy action. Single Pacific raids could be costly on their own: 27 of the 339 B-29s launched for the Tokyo firebombing of 9-10 March 1945 did not come back."
+  },
+  "variants": [
+    {
+      "code": "B-29 / B-29A / B-29B",
+      "desc": "The three wartime production standards. The baseline B-29 came from Wichita, Renton, Bell's Marietta plant and Martin's Omaha plant; the Renton-built B-29A used a slightly different wing centre-section and a marginally greater span. The B-29B, built at Marietta, deleted all the gun turrets except the tail position to save weight for low-level night incendiary work, gaining speed and bomb load in exchange for defensive fire."
+    },
+    {
+      "code": "Silverplate",
+      "desc": "The atomic-capable conversion, and the most heavily modified B-29 of the war. Silverplate aircraft had the gun turrets and armour removed except at the tail, later ones received fuel-injected R-3350-41 engines and Curtiss Electric reversible-pitch propellers, and the four-door bomb bay was rebuilt as a single 33-foot compartment with British Type G single-point releases. Sixty-five were built across a prototype and three batches; the 509th Composite Group flew them."
+    },
+    {
+      "code": "F-13 / RB-29",
+      "desc": "The photographic reconnaissance conversion, carrying cameras in the rear fuselage in place of bomb load. F-13s mapped the Japanese targets that the bombing campaign then worked through, flying unarmed and high. Redesignated RB-29 after 1948, the type went on to fly photographic, weather and electronic reconnaissance well into the 1950s - the aircraft lost on Bleaklow in 1948 was one of them."
+    },
+    {
+      "code": "KB-29M / KB-29P",
+      "desc": "The tanker conversions that gave Strategic Air Command its first practical aerial refuelling capability. The KB-29M used a looped-hose system trailed between tanker and receiver; the KB-29P introduced the Boeing flying boom, operated from a station in the tail, which became the standard method for the US Air Force and remains so today. KB-29s refuelled Lucky Lady II on the first non-stop flight around the world in 1949."
+    },
+    {
+      "code": "Washington B.1",
+      "desc": "The RAF designation for B-29s loaned under the Mutual Defense Assistance Program, filling the gap between the wartime Lincoln and the jet-powered Canberra. Around 87 aircraft (sources vary between 70 and 88) equipped Bomber Command squadrons from March 1950, with the last returned in March 1954. No. 192 Squadron kept a small number for electronic intelligence work until 1958."
+    },
+    {
+      "code": "B-50 Superfortress",
+      "desc": "A postwar revision substantial enough to count as a different aircraft: a reinforced structure, an enlarged tail fin, and four Pratt & Whitney R-4360 Wasp Major radials of 3,500 hp in place of the troublesome R-3350s. Boeing built 370 between 1947 and 1953. It carried Strategic Air Command's nuclear mission until 1955, and tanker and weather versions flew on until 1965."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces",
+      "role": "Original Operator (historical)",
+      "status": "Retired (became the USAF, 1947)",
+      "since": "1944",
+      "fleetSize": "Around 3,000 in service at the 1945 peak, across XX Bomber Command in India and China and XXI Bomber Command in the Marianas",
+      "homeBase": "Tinian, Saipan and Guam, Mariana Islands"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Primary Postwar Operator (historical)",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "The bulk of the surviving fleet, serving with Strategic Air Command until 1955 and in weather, reconnaissance and tanker roles to the final retirement on 21 June 1960",
+      "homeBase": "Strategic Air Command bases across the United States; Kadena and Yokota for Korean War operations"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Loan Operator (historical)",
+      "status": "Retired",
+      "since": "1950",
+      "fleetSize": "Around 87 loaned as the Washington B.1 (sources vary between 70 and 88), equipping Bomber Command squadrons from March 1950 until the last were returned in March 1954",
+      "homeBase": "RAF Bomber Command squadrons; No. 192 Squadron kept a small number on electronic intelligence work until 1958"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Test and Research Operator (historical)",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "4, redesignated P2B and used as testbeds and mother ships - one carried the Douglas D-558-II Skyrocket between 1950 and 1956",
+      "homeBase": "Naval test establishments; one aircraft later passed to NACA"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Trials Operator (historical)",
+      "status": "Retired",
+      "since": "1952",
+      "fleetSize": "2 ex-RAF Washingtons, taken on in late 1952 and used for trials work through 1956",
+      "homeBase": "Australian test and trials units"
+    },
+    {
+      "name": "Soviet Air Forces (interned aircraft)",
+      "role": "Unintended Operator (historical)",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "4 aircraft that made emergency landings in Soviet territory in 1944-45 - Ramp Tramp, Cait Paomat, General H. H. Arnold Special and Ding How - which were kept and copied rather than returned",
+      "homeBase": "Soviet Far East, then the Tupolev design bureau"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B29",
+    "howToFind": "Two B-29s still fly, and both do appear on Flightradar24 when they are on the road. Filter for type B29 and watch the American airshow circuit between roughly May and October - FIFI operates out of Dallas as N529B and Doc out of Wichita as N69972, usually routing in short hops between show sites rather than flying direct. Outside the display season neither moves much."
+  },
+  "lastUpdated": "2026-09-10",
+  "changelog": [
+    {
+      "date": "2026-09-10",
+      "change": "Entry created - full article, specifications, variants, operator roster, survivor list and incident log written from Wikipedia, HistoryNet and the Wikipedia survivor and operator lists.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Superfortress",
+    "B29",
+    "Enola Gay",
+    "Bockscar",
+    "Washington B.1",
+    "Silverplate"
+  ],
+  "article": {
+    "overview": [
+      "The B-29 Superfortress is a four-engine, very long-range heavy bomber designed by Boeing for the United States Army Air Forces. It first flew on 21 September 1942, entered service on 8 May 1944, and was built in four main assembly plants - Boeing's own factories at Renton and Wichita, Bell's plant at Marietta and Martin's at Omaha - to a total of 3,970 aircraft. {{ref:wiki-b29}}",
+      "It was the most technically ambitious aircraft of the war and the most expensive American programme of it, costing around $3 billion against the Manhattan Project's $1.9 billion. Pressurised crew compartments, remotely controlled gun turrets aimed by analogue computers and a 3,250-mile range were all new to a production bomber. Almost all of it worked; the engines did not, and that shaped the type's whole career. {{ref:wiki-b29}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Boeing began studying a pressurised long-range bomber in 1938 as a development of the B-17, before any requirement existed for one. The Air Corps issued a formal specification in December 1939 for a bomber that could carry a useful load far enough to matter in a Pacific war, and Boeing submitted its Model 345 on 11 May 1940. The design was ordered off the drawing board, with production tooling laid down before the prototype had flown. {{ref:wiki-b29}}",
+          "That decision is why the programme cost what it did. Four main assembly plants and thousands of subcontractors were committed to an aircraft whose systems were still being invented, and the bill reached roughly $3 billion - more than the atomic bomb project it would eventually deliver for. Unit cost worked out at $639,188 per aircraft in 1944 money, about $11.9M in today's terms. {{ref:wiki-b29}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The B-29 was the first Allied production bomber with a pressurised cabin, developed with Garrett AiResearch. Two sealed compartments, fore and aft, were joined by a crawl tunnel running over the bomb bays, which stayed unpressurised so they could be opened in flight. The defensive armament was equally novel: four remotely controlled turrets and a tail position, aimed optically by gunners at sighting stations and computed by five interconnected General Electric analogue computers that corrected for range, airspeed, altitude and gravity drop. One gunner could take control of more than one turret at a time. {{ref:wiki-b29}}",
+          "The Wright R-3350 Duplex-Cyclone was the part that did not work. Turbine blades failed at the temperatures the engine ran at in a climb, well above 1,500°F, and fires were frequent enough to be the type's defining hazard rather than an occasional fault - the second prototype was lost to one on 18 February 1943, killing Boeing's chief test pilot Edmund T. Allen, his crew, 20 workers on the ground and a firefighter. Adopting Vitallium, a cobalt-chromium-molybdenum alloy, for the turbine components eventually made high-altitude running reliable, but the engine stayed the aircraft's limiting factor throughout the war. {{ref:wiki-b29}}"
+        ]
+      },
+      {
+        "heading": "Getting It Into Combat",
+        "paragraphs": [
+          "The aircraft reached squadrons long before it was fit to fight. Of nearly 100 B-29s delivered by late 1943, only 15 were airworthy, the rest waiting on modifications the production lines had not caught up with. General Henry Arnold moved factory personnel out to the modification centres in what became known as the Battle of Kansas, and 150 aircraft were made combat-ready between 10 March and 15 April 1944. {{ref:wiki-b29}}",
+          "The first missions were flown from bases in India and China under XX Bomber Command, with 77 aircraft raiding Bangkok on 5 June 1944 and 47 attacking the Imperial Iron and Steel Works at Yawata on 15 June - the first strike on the Japanese home islands since the Doolittle raid. Supplying those Chinese airfields over the Himalayas consumed more fuel than the raids delivered in bombs, and the effort was abandoned after the final China-based mission on 29 January 1945. Capturing Saipan, Guam and Tinian by August 1944 gave the Marianas airfields that made the campaign practical, and the 73rd Bomb Wing sent 111 aircraft against Tokyo from there on 24 November 1944. {{ref:wiki-b29}}"
+        ]
+      },
+      {
+        "heading": "The Firebombing Campaign",
+        "paragraphs": [
+          "High-altitude precision bombing did not work over Japan. Winds at 30,000 ft scattered bomb patterns, cloud hid the targets, and the R-3350 was at its least reliable in a heavy climb. From the Kobe raid of 4 February 1945 the campaign switched to night incendiary attacks flown low, with much of the gun armament and ammunition removed to carry more bombs. {{ref:wiki-b29}}",
+          "The raid of 9-10 March 1945 on Tokyo, Operation Meetinghouse, is the largest single act of destruction by conventional bombing on record. Of 339 B-29s launched, 282 reached the city and dropped 1,665 tons of E-46 cluster and M69 incendiary bomblets from between 2,000 and 2,500 ft. Around 15.8 square miles - a quarter of Tokyo - burned, and estimates of the death toll range from 75,000 to 125,000, most sources settling near 100,000. Twenty-seven aircraft were lost to anti-aircraft fire, mechanical failure and the updrafts thrown up by the fires themselves. From April 1945 the same aircraft also flew Operation Starvation, mining Japanese harbours and shipping lanes. {{ref:wiki-tokyo}} {{ref:wiki-b29}}"
+        ]
+      },
+      {
+        "heading": "Silverplate, Hiroshima & Nagasaki",
+        "paragraphs": [
+          "Delivering an atomic weapon needed a heavily modified aircraft. Silverplate B-29s had their turrets and armour stripped except at the tail, fuel-injected engines and reversible-pitch propellers fitted for performance and landing margin at weight, and the two bomb bays rebuilt into one compartment with British-designed release gear. Sixty-five were completed, flown by the 509th Composite Group from Tinian. {{ref:wiki-b29}}",
+          "Enola Gay, serial 44-86292, flown by Colonel Paul Tibbets, dropped the Little Boy weapon on Hiroshima on 6 August 1945. Bockscar, serial 44-27297, flown by Major Charles Sweeney, dropped Fat Man on Nagasaki on 9 August. They remain the only aircraft to have delivered nuclear weapons in war, and both survive - Enola Gay at the Smithsonian's Udvar-Hazy Center and Bockscar at the National Museum of the United States Air Force. {{ref:wiki-b29}} {{ref:wiki-survivors}}"
+        ]
+      },
+      {
+        "heading": "Korea, Second Careers & Legacy",
+        "paragraphs": [
+          "B-29s flew about 20,000 sorties in Korea and dropped 220,000 short tons of ordnance, initially by day. The MiG-15 ended that. On 23 October 1951 - Black Tuesday - nine bombers of the 307th Bomb Group attacking Namsi airfield with 55 F-84 and 32 F-86 escorts were met by three Soviet MiG regiments of roughly 20 aircraft each; three B-29s were shot down and three more badly damaged in under fifteen minutes, and half the bomber crewmen involved were killed or wounded, the heaviest single-mission casualty toll of the war. The heavy bombers were withdrawn from daylight operations shortly afterwards and flew at night for the rest of the conflict. Korean War losses came to 78 aircraft, 57 of them to enemy action. {{ref:historynet-migalley}} {{ref:wiki-b29}}",
+          "Away from bombing, the airframe had a long second career. F-13 and RB-29 conversions flew photographic, weather and electronic reconnaissance; KB-29 tankers gave Strategic Air Command its first practical aerial refuelling, and the KB-29P introduced the Boeing flying boom that the US Air Force still uses. The re-engined B-50 carried the nuclear mission until the B-47 arrived. The last USAF B-29 was retired on 21 June 1960. Its most unexpected legacy was Soviet: four aircraft that came down in Soviet territory in 1944-45 were kept rather than returned, and copied almost rivet for rivet as the Tupolev Tu-4, of which 847 were built. {{ref:wiki-b29}} {{ref:wiki-operators}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-b29",
+      "name": "Boeing B-29 Superfortress",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress"
+    },
+    {
+      "id": "wiki-tokyo",
+      "name": "Bombing of Tokyo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bombing_of_Tokyo"
+    },
+    {
+      "id": "historynet-migalley",
+      "name": "Showdowns in MiG Alley",
+      "publisher": "HistoryNet",
+      "url": "https://www.historynet.com/showdowns-mig-alley/"
+    },
+    {
+      "id": "wiki-survivors",
+      "name": "List of surviving Boeing B-29 Superfortresses",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Boeing_B-29_Superfortresses"
+    },
+    {
+      "id": "wiki-operators",
+      "name": "List of Boeing B-29 Superfortress operators",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Boeing_B-29_Superfortress_operators"
+    },
+    {
+      "id": "wiki-bleaklow",
+      "name": "Bleaklow Bomber",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bleaklow_Bomber"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing B-29 Superfortress",
+      "url": "https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress"
+    },
+    {
+      "name": "List of surviving Boeing B-29 Superfortresses",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Boeing_B-29_Superfortresses"
+    },
+    {
+      "name": "FIFI (aircraft)",
+      "url": "https://en.wikipedia.org/wiki/FIFI_(aircraft)"
+    },
+    {
+      "name": "Doc (aircraft)",
+      "url": "https://en.wikipedia.org/wiki/Doc_(aircraft)"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1943-02-18",
+      "title": "Second prototype lost to an engine fire at Seattle",
+      "tag": "Engine fire (test flight)",
+      "summary": "The second XB-29 prototype suffered an engine fire and came down in Seattle. Boeing's chief test pilot Edmund T. Allen and his crew were killed, along with 20 workers on the ground and a firefighter - 32 deaths in total, and the clearest early warning of the R-3350's fire risk.",
+      "fatalities": 32,
+      "source": "https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress"
+    },
+    {
+      "date": "1944-06-15",
+      "title": "First raid on the Japanese home islands",
+      "tag": "Combat milestone",
+      "summary": "Forty-seven B-29s flying from bases in China attacked the Imperial Iron and Steel Works at Yawata, the first attack on the Japanese home islands by the type and the start of the strategic campaign against Japan.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress"
+    },
+    {
+      "date": "1945-03-09",
+      "title": "Operation Meetinghouse, the Tokyo firebombing",
+      "tag": "Combat operation",
+      "summary": "Of 339 B-29s launched overnight on 9-10 March, 282 reached Tokyo and dropped 1,665 tons of incendiaries from 2,000-2,500 ft. Around 15.8 square miles of the city burned and estimates of the death toll run from 75,000 to 125,000. Twenty-seven bombers were lost to flak, mechanical failure and the updrafts from the fires.",
+      "source": "https://en.wikipedia.org/wiki/Bombing_of_Tokyo"
+    },
+    {
+      "date": "1945-08-06",
+      "title": "Enola Gay drops the Hiroshima weapon",
+      "tag": "Atomic mission",
+      "summary": "Silverplate B-29 44-86292 Enola Gay, flown by Colonel Paul Tibbets of the 509th Composite Group from Tinian, dropped the Little Boy weapon on Hiroshima.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress"
+    },
+    {
+      "date": "1945-08-09",
+      "title": "Bockscar drops the Nagasaki weapon",
+      "tag": "Atomic mission",
+      "summary": "Silverplate B-29 44-27297 Bockscar, flown by Major Charles Sweeney, dropped the Fat Man weapon on Nagasaki. It was the second and last use of a nuclear weapon in war.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress"
+    },
+    {
+      "date": "1947-02-21",
+      "title": "Kee Bird forced down on the Greenland ice cap",
+      "tag": "Forced landing",
+      "summary": "A B-29 flying a reconnaissance mission to the geographic North Pole and back to Ladd Field, Alaska, became lost and put down on a frozen lake in northern Greenland, about 280 miles north of Thule. All eleven crew survived unhurt and were evacuated. A privately funded team spent 1994-95 repairing the aircraft where it lay, but on 21 May 1995 a leaking auxiliary power unit fuel tank set fire to the rear fuselage during the takeoff attempt and the aircraft was destroyed.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Kee_Bird"
+    },
+    {
+      "date": "1948-11-03",
+      "title": "Over Exposed lost on Bleaklow, Derbyshire",
+      "tag": "Controlled flight into terrain",
+      "summary": "RB-29A 44-61999 'Over Exposed' of the 16th Photographic Reconnaissance Squadron struck Higher Shelf Stones on Bleaklow while flying from RAF Scampton to Burtonwood, after descending too early through low cloud. All 13 on board were killed. Much of the wreckage still lies on the moor and a memorial was placed there in 1988.",
+      "fatalities": 13,
+      "source": "https://en.wikipedia.org/wiki/Bleaklow_Bomber"
+    },
+    {
+      "date": "1950-08-05",
+      "title": "Crash at Fairfield-Suisun with a Mark 4 aboard",
+      "tag": "Crash on takeoff",
+      "summary": "A B-29 carrying a Mark 4 nuclear bomb suffered a propeller failure on takeoff from Fairfield-Suisun Air Force Base in California, traced to an improper adjustment during maintenance two weeks earlier, and crashed when the landing gear would not retract. Nineteen people died - twelve crew and seven on the ground - among them Brigadier General Robert F. Travis. The bomb's high explosives detonated around twenty minutes after the crash, but it carried no fissile pit and there was no nuclear yield. The base was renamed Travis Air Force Base on 20 October 1950.",
+      "fatalities": 19,
+      "source": "https://en.wikipedia.org/wiki/1950_Fairfield-Suisun_Boeing_B-29_crash"
+    },
+    {
+      "date": "1951-10-23",
+      "title": "Black Tuesday over Namsi",
+      "tag": "Shot down",
+      "summary": "Nine B-29s of the 307th Bomb Group attacking Namsi airfield, escorted by 55 F-84s and two 16-ship formations of F-86s, were intercepted by three Soviet MiG-15 regiments of around 20 aircraft each. Three bombers were shot down and three more badly damaged in under fifteen minutes, and half the bomber crewmen involved were killed or wounded - the heaviest single-mission casualty toll of the war. The B-29 was withdrawn from daylight operations shortly afterwards.",
+      "source": "https://www.historynet.com/showdowns-mig-alley/"
+    },
+    {
+      "date": "1960-06-21",
+      "title": "Final US Air Force B-29 retired",
+      "tag": "Retirement",
+      "summary": "The last B-29 in United States Air Force service was retired, sixteen years after the type entered service and five years after the last bomber units gave it up for jets.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress"
+    },
+    {
+      "date": "2016-07-17",
+      "title": "Doc returns to the air after 60 years",
+      "tag": "Return to flight",
+      "summary": "B-29 44-69972 'Doc' flew from Wichita for the first time in 60 years, having been recovered from the Naval Air Weapons Station at China Lake in 1998 and restored at the Boeing plant in the city where it was built. It became the second airworthy B-29 alongside the Commemorative Air Force's FIFI.",
+      "source": "https://en.wikipedia.org/wiki/Doc_(aircraft)"
+    }
+  ],
+  "survivors": {
+    "intro": "Sources differ slightly on the exact count - Wikipedia's dedicated survivors list runs to around 25 complete airframes against the 22 quoted in its main B-29 article - but the important figure is agreed: only two are airworthy, and both fly in the United States. Almost every survivor is American, with one in England and one in South Korea.",
+    "airframes": [
+      {
+        "serial": "44-86292",
+        "name": "Enola Gay",
+        "location": "Smithsonian National Air and Space Museum - Steven F. Udvar-Hazy Center",
+        "place": "Chantilly, Virginia, United States",
+        "note": "The aircraft that dropped the Hiroshima weapon on 6 August 1945. Fully restored and on display since 2003 after a long and contested restoration.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-27297",
+        "name": "Bockscar",
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio, United States",
+        "note": "Dropped the Nagasaki weapon on 9 August 1945. Displayed alongside 44-62139 'Command Decision', a Korean War veteran.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-62070",
+        "name": "FIFI",
+        "location": "Commemorative Air Force",
+        "place": "Dallas, Texas, United States",
+        "note": "Airworthy, registered N529B and based at Dallas Executive Airport. Recovered from China Lake in 1971 after 17 years parked there, and the only flying B-29 in the world until Doc rejoined it. Its original engines were replaced during a $3M overhaul completed in 2010 with a custom combination of R-3350-95W and -26WD units, which is what keeps it viable to operate.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-69972",
+        "name": "Doc",
+        "location": "Doc's Friends",
+        "place": "Wichita, Kansas, United States",
+        "note": "Airworthy, registered N69972. Delivered in March 1945 too late for combat, later a radar calibration aircraft and then a TB-29 target tug, retired in 1956 and recovered from China Lake in 1998. Returned to the air on 17 July 2016 from Wichita, where it was built.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-61748",
+        "name": "It's Hawg Wild",
+        "location": "Imperial War Museum Duxford - American Air Museum",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "note": "The only B-29 preserved in Europe, and a reminder of the RAF's own Washington B.1 loan fleet of the early 1950s.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "45-21739",
+        "name": "Unification",
+        "location": "KAI Aerospace Museum",
+        "place": "Sacheon, South Korea",
+        "note": "The only surviving B-29 in Asia, displayed in the country where the type flew its last bombing campaign.",
+        "countryCode": "kr",
+        "country": "South Korea"
+      }
+    ]
+  }
+}

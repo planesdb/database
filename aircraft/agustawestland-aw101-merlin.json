@@ -1,0 +1,437 @@
+{
+  "name": "AW101 Merlin",
+  "fullName": "AgustaWestland AW101 Merlin",
+  "manufacturer": "Leonardo Helicopters (formerly AgustaWestland / EH Industries)",
+  "originCountry": {
+    "name": "Multinational (Europe)",
+    "code": "eu"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Medium-Lift Multirole Helicopter",
+  "tagline": "A three-engine medium-lift helicopter developed jointly by Westland in England and Agusta in Italy to replace the Sea King in anti-submarine, transport and search-and-rescue work. British, Danish and Portuguese forces call it the Merlin; it is built at Yeovil and Vergiate and serves with around a dozen air arms from Canada to Japan.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The designation is a typo - the Anglo-Italian joint venture called its aircraft the EHI 01, and a transcription error turned it into EH101, which stuck until the 2007 rebrand to AW101",
+    "Canada ordered up to 50 in 1987, then cancelled in 1993 after the type became an election issue, paying a $470M cancellation fee before buying 15 of the same helicopter for search and rescue four years later",
+    "Its active vibration control system cuts airframe vibration by as much as 80 percent",
+    "The shovel-shaped BERP blade tips are descended from the Westland Lynx's record-breaking rotor, and improve efficiency at the tip while cutting the acoustic signature",
+    "It can hold a stable hover in a 40 kn crosswind and is cleared to operate between -45C and +50C",
+    "Two separate procurement scandals have followed it: India cancelled a 12-aircraft VVIP order in 2013 over bribery allegations against Finmeccanica, and Indonesia's air force chief was investigated after buying one of the rejected Indian airframes"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Royal Navy Merlin HM1 as published by Jane's, with current AW101 figures from Leonardo where they differ. Variants differ substantially in weight, mission fit and capacity.",
+    "maxSpeed": {
+      "mph": 192,
+      "text": "167 kn (192 mph / 309 km/h)"
+    },
+    "cruiseSpeed": "173 mph (278 km/h)",
+    "range": {
+      "miles": 863,
+      "text": "863 mi (1,389 km, 750 nmi); 932 mi (1,500 km) on the current AW101"
+    },
+    "serviceCeiling": {
+      "ft": 15010,
+      "text": "15,010 ft (4,575 m)"
+    },
+    "hoverCeiling": "IGE: 10,850 ft (3,307 m)",
+    "rateOfClimb": "1,880 ft/min (9.5 m/s)",
+    "mainRotorDiameter": {
+      "ft": 61,
+      "text": "61 ft 0 in (18.6 m)"
+    },
+    "length": {
+      "ft": 64.1,
+      "text": "64 ft 1 in (19.5 m) fuselage; 74 ft 11 in (22.8 m) overall with rotors turning"
+    },
+    "height": {
+      "ft": 21.75,
+      "text": "21 ft 9 in (6.62 m)"
+    },
+    "weight": "empty: 23,149 lb (10,500 kg); MTOW: 34,392 lb (15,600 kg)",
+    "rotorBlades": "5 main, 4 tail",
+    "engines": "3 x Rolls-Royce Turbomeca RTM322-01 turboshafts, 2,100 shp (1,566 kW) each at take-off; current production aircraft use General Electric CT7-8E turboshafts with FADEC",
+    "armament": "Two underfuselage hardpoints carrying up to 4 Sting Ray homing torpedoes or Mk 11 depth charges on the Merlin HM1 and HM2; some export customers carry the Marte anti-ship missile. Transport variants can mount general purpose machine guns at up to five cabin door and window positions.",
+    "crew": "3-4 (pilot, observer and aircrewman)",
+    "capacity": "26 troops or 38 passengers, or 4 stretchers with the sonar array removed, on the Merlin HM1; 30 seated or 45 standing fully equipped troops, 16 stretchers, or 6,724 lb (3,050 kg) of internal payload on the current AW101. Maritime variants fly a pilot, observer and aircrewman; transports fly two pilots and an aircrewman. The rear ramp takes a 6,720 lb (3,050 kg) load, enough for a Land Rover.",
+    "externalLoad": "12,169 lb (5,520 kg) on the underfuselage cargo hook, released by a semi-automatic cargo release unit",
+    "firstFlight": {
+      "date": "1987-10-09",
+      "year": 1987
+    },
+    "serviceEntryDate": "1999",
+    "retiredDate": null,
+    "numberBuilt": 200,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed as a list price - Portugal's order for 12 aircraft was worth 446 million euros, around 37 million euros each, and Indonesia's 2015 contract for three VVIP aircraft was valued at $165M, or $55M each",
+      "inflationText": null
+    },
+    "combatLosses": "No documented combat losses. British Merlins flew transport and medical evacuation missions around Basra in Iraq from 2004 and in Afghanistan from 2009 to 2013, and Italian aircraft operated in Afghanistan from 2010, without a recorded loss to enemy action."
+  },
+  "variants": [
+    {
+      "code": "PP1-PP9 (pre-production)",
+      "desc": "Nine prototypes built to explore military and civil applications. PP1 flew at Yeovil on 9 October 1987 on General Electric CT7-2A engines; PP2, Agusta-built, was destroyed in a rotor brake accident in January 1993 that suspended flight testing for six months; PP4, the British naval prototype, was lost in April 1995 to a tail rotor pitch control failure. PP3 and PP8 covered the civil Heliliner configuration, and PP7 and PP9 the rear-ramp military utility layout."
+    },
+    {
+      "code": "Merlin HM1 / HM2",
+      "desc": "The Royal Navy anti-submarine and anti-surface variant, Model 111, with RTM322 engines, Blue Kestrel radar, FLASH dipping sonar and Orange Reaper ESM. 44 were built, the first delivered on 17 May 1997 and the type entering service on 2 June 2000. Thirty were rebuilt to Merlin HM2 standard under the 750 million pound Merlin Capability Sustainment Programme, completed on 11 July 2016, with a new mission system, digital cockpit, electro-optical camera and multi-static sonar processing."
+    },
+    {
+      "code": "Merlin HC3 / HC3A / HC4 / HC4A",
+      "desc": "The battlefield transport line. The RAF ordered 22 Merlin HC3s (Model 411), which entered service in January 2001 with extended-range tanks and air-to-air refuelling, and added six ex-Danish aircraft as HC3As in 2007. The whole fleet transferred to the Royal Navy's Commando Helicopter Force between 2012 and 2015, and 25 airframes were rebuilt as HC4/HC4A under the 454 million pound Merlin Life Sustainment Programme with HM2 cockpit electronics, folding tail and rotor head, strengthened landing gear and deck lashing points."
+    },
+    {
+      "code": "Italian Navy (Models 110, 112, 410, 413)",
+      "desc": "Italy ordered 16 in 1997 and eventually took 22: eight anti-submarine and anti-surface aircraft with Eliradar APS-784 radar and HELRAS dipping sonar, four airborne early warning aircraft carrying the HEW-784 radar in a large underfuselage radome, and ten amphibious support and special forces transports with folding rotors and tail boom. The last was accepted on 4 August 2009."
+    },
+    {
+      "code": "HH-101A Caesar (Model 611)",
+      "desc": "The Italian Air Force combat search and rescue variant, selected in June 2011 to replace the Sea King HH-3F and powered by CT7-8E engines. Fifteen were ordered and delivered between 2016 and 2020, fitted for aerial refuelling, cabin machine guns and a full defensive aids suite for personnel recovery in contested airspace."
+    },
+    {
+      "code": "CH-149 Cormorant (Models 511, 615)",
+      "desc": "The Canadian search and rescue variant, which won the 1997 Canadian Search and Rescue Helicopter competition after the earlier 50-aircraft CH-148 Petrel and CH-149 Chimo orders had been cancelled in 1993. Fifteen were delivered. In December 2022 Canada signed a C$1.24 billion contract to buy three more and modernise the existing fleet to Model 615 configuration, taking it to 16 aircraft plus a new simulator."
+    },
+    {
+      "code": "Nordic and Iberian SAR (Models 512, 514-516, 612)",
+      "desc": "Denmark bought eight search and rescue and six tactical transport aircraft as the Merlin Joint Supporter; the six transports went to the UK in 2007 and were replaced by new-build machines. Portugal took 12 in three sub-variants for search and rescue, fisheries protection and combat search and rescue, operated by 751 Squadron on constant alert at Montijo, Lajes and Porto Santo. Norway ordered 16 Model 612s in December 2013, named SAR Queen, which took over the rescue role on 1 September 2020 and fully replaced the Sea King in December 2023."
+    },
+    {
+      "code": "MCH-101 / CH-101 (Model 518)",
+      "desc": "The Japanese variant, assembled by Kawasaki Heavy Industries from 2003 under a 14-aircraft order placed by the Japan Defense Agency. The MCH-101 handles airborne mine countermeasures for the Maritime Self-Defense Force with the AQS-24A mine-hunting system, AN/AES-1 laser mine detection and Mk-104 acoustic sweep gear, replacing the MH-53E; the CH-101 supports Antarctic expeditions. Automated rotor and tail folding is a Japanese-specific feature."
+    },
+    {
+      "code": "VH-71 Kestrel (Model 519)",
+      "desc": "The cancelled United States Marine Corps presidential transport, selected under the VXX programme and heavily customised with self-defence systems. Four test vehicles and five pilot production aircraft were built before cost overruns and political opposition killed the programme in June 2009. The completed airframes were sold to Canada for $164 million as a spares source for the CH-149 Cormorant fleet."
+    },
+    {
+      "code": "VVIP variants (Models 640-643)",
+      "desc": "The head-of-state configuration, which accounted for around 15 percent of all AW101 sales by 2009. Saudi Arabia, Algeria and Turkmenistan each took two, and Nigeria and Azerbaijan received aircraft originally built as Model 641s for India. Poland's Model 614, four convertible anti-submarine and combat search and rescue aircraft for the Polish Navy, and Algeria's six Model 610 naval aircraft round out the export line."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Navy",
+      "role": "Largest Operator",
+      "status": "In Service",
+      "since": "2000",
+      "fleetSize": "54 (30 Merlin HM2, 24 Commando Merlin HC4/HC4A)",
+      "homeBase": "RNAS Culdrose, Cornwall (HM2) and RNAS Yeovilton, Somerset (HC4)"
+    },
+    {
+      "name": "Italian Navy",
+      "role": "Launch Operator",
+      "status": "In Service",
+      "since": "1999",
+      "fleetSize": "22",
+      "homeBase": "Luni-Sarzana, Italy"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Combat Search and Rescue Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "15 HH-101A Caesar",
+      "homeBase": "Cervia Air Base, Italy"
+    },
+    {
+      "name": "Royal Norwegian Air Force",
+      "role": "Search and Rescue Operator",
+      "status": "In Service",
+      "since": "2017",
+      "fleetSize": "16 SAR Queen",
+      "homeBase": "Sola Air Station, Norway"
+    },
+    {
+      "name": "Royal Danish Air Force",
+      "role": "Search and Rescue and Transport Operator",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "14",
+      "homeBase": "Karup Air Base, Denmark"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Search and Rescue Operator",
+      "status": "In Service",
+      "since": "2001",
+      "fleetSize": "13 CH-149 Cormorant, rising to 16",
+      "homeBase": "CFB Comox, Gander, Greenwood and Trenton, Canada"
+    },
+    {
+      "name": "Portuguese Air Force",
+      "role": "Search and Rescue Operator",
+      "status": "In Service",
+      "since": "2004",
+      "fleetSize": "12",
+      "homeBase": "Montijo, Lajes Field and Porto Santo, Portugal"
+    },
+    {
+      "name": "Japan Maritime Self-Defense Force",
+      "role": "Mine Countermeasures Operator",
+      "status": "In Service",
+      "since": "2006",
+      "fleetSize": "10 MCH-101 and CH-101",
+      "homeBase": "Iwakuni, Japan"
+    },
+    {
+      "name": "Algerian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2013",
+      "fleetSize": "6 naval aircraft plus 2 VVIP, shared with the Algerian Navy",
+      "homeBase": "Algeria"
+    },
+    {
+      "name": "Polish Navy",
+      "role": "Anti-Submarine Operator",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "4; a further 22 have been under negotiation since 2023",
+      "homeBase": "Darlowo, Poland"
+    },
+    {
+      "name": "Royal Saudi Air Force",
+      "role": "VVIP Operator",
+      "status": "In Service",
+      "since": "2010s",
+      "fleetSize": "2",
+      "homeBase": "Saudi Arabia"
+    },
+    {
+      "name": "Nigerian Air Force",
+      "role": "VVIP Operator",
+      "status": "In Service",
+      "since": "2010s",
+      "fleetSize": "2, originally built for the cancelled Indian order",
+      "homeBase": "Nigeria"
+    },
+    {
+      "name": "Turkmen Air Force",
+      "role": "VVIP Operator",
+      "status": "In Service",
+      "since": "2010s",
+      "fleetSize": "2",
+      "homeBase": "Turkmenistan"
+    },
+    {
+      "name": "Indonesian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2024",
+      "fleetSize": "1, an ex-Indian VVIP airframe held as court evidence for seven years before entering service",
+      "homeBase": "Indonesia"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Former Transport Operator",
+      "status": "Retired",
+      "since": "2001",
+      "fleetSize": "28 (22 Merlin HC3 and 6 HC3A); all transferred to the Royal Navy between 2012 and 2015",
+      "homeBase": "RAF Benson, Oxfordshire"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "Cancelled Order",
+      "status": "Retired",
+      "since": "2009",
+      "fleetSize": "12 ordered, 3 delivered before the contract was cancelled over the 2013 bribery scandal",
+      "homeBase": "India"
+    },
+    {
+      "name": "Tokyo Metropolitan Police Department",
+      "role": "Former Civil Operator",
+      "status": "Retired",
+      "since": "2000s",
+      "fleetSize": "1 Model 510, one of only two civil utility aircraft built",
+      "homeBase": "Tokyo, Japan"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "EH10",
+    "howToFind": "Search Flightradar24 for type code EH10, which covers every AW101, EH101, MCH-101, HH-101 and CH-149 Cormorant. Civil-registered and rescue aircraft are the reliable sightings: Norwegian SAR Queens out of Sola, Bodo and Banak, Portuguese 751 Squadron aircraft over the Azores, and Canadian Cormorants from Comox, Gander, Greenwood and Trenton. Royal Navy Merlins around Culdrose and Yeovilton transmit only intermittently."
+  },
+  "lastUpdated": "2026-09-16",
+  "changelog": [
+    {
+      "date": "2026-09-16",
+      "change": "Entry created - full article, specifications, variants, operator roster and accident log written from Leonardo published data, Jane's specification figures, Royal Navy and Aviation Safety Network records and contemporary reporting.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Merlin",
+    "EH101",
+    "EHI 01",
+    "AW101",
+    "Commando Merlin",
+    "SAR Queen",
+    "Cormorant",
+    "HH-101A",
+    "MCH-101",
+    "Crowsnest"
+  ],
+  "article": {
+    "overview": [
+      "The AgustaWestland AW101 is a three-engine medium-lift helicopter used for anti-submarine warfare, troop transport, search and rescue and utility work. It was developed jointly by Westland Helicopters in the United Kingdom and Agusta in Italy to meet parallel national requirements to replace the Sea King, first flew on 9 October 1987 and entered service in 1999. {{ref:wiki}} {{ref:leonardo}}",
+      "Britain, Denmark and Portugal call their aircraft Merlin; Canada operates it as the CH-149 Cormorant, Japan as the MCH-101 and Norway as the SAR Queen. It is built at Yeovil in England and Vergiate in Italy, with licensed assembly having taken place in Japan and the United States, and Leonardo put the in-service fleet at close to 200 aircraft across more than ten countries in 2021. {{ref:wiki}} {{ref:vertical-500k}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the Canadian Cancellation",
+        "paragraphs": [
+          "The UK Ministry of Defence issued a requirement in 1977 for an anti-submarine helicopter to replace the Royal Navy's Sea Kings, which were losing ground to Soviet submarine development. Westland proposed the WG.34, a three-engine aircraft of roughly Sea King size with more autonomy and greater range. The Italian Navy was facing the same problem with its own Agusta-built Sea Kings, and the two firms formed EH Industries Limited to develop and market a joint successor. The British government committed in June 1981 with an initial 20 million pounds for nine pre-series aircraft, and a 1984 Anglo-Italian agreement funded most of the development programme. {{ref:wiki}}",
+          "Canada selected the EH101 in 1987 to replace its Sea Kings, valuing the third engine, the range and the de-icing capability for North Atlantic work, with up to 50 aircraft on order. The purchase then became a political target: critics called it excessive once the Cold War ended, and the EH101 was a live issue in the 1993 federal election. The incoming Liberal government cancelled it, at a cost of $470 million in cancellation fees. Canada bought 15 of the same helicopter for search and rescue four years later. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The AW101's layout is conventional; what is unusual is how much of the airframe is built to absorb punishment. The fuselage is modular and made from aluminium-lithium alloy chosen to be light and damage-resistant, the crew seats are armoured and rated to survive an impact above 10 m/s, and the aircraft is cleared to operate between -45C and +50C with a full de-icing system. An active control of structural response system cuts airframe vibration by as much as 80 percent, which matters less for comfort than for fatigue life on an aircraft expected to fly maritime patrols for decades. The control system will hold a stable hover in a 40 kn crosswind. {{ref:wiki}}",
+          "Three engines drive a five-blade main rotor 61 ft across. The blades are carbon and glass over Nomex honeycomb and Rohacell foam with titanium leading edges, and their planform derives from the BERP tips first flown on the Westland Lynx, improving efficiency at the tip and reducing noise. Each engine has its own 1,074-litre tank with dual booster pumps, and optional fourth and fifth tanks top the main tanks up in flight, taking maximum endurance to 7 hours 40 minutes against 5 hours on the Merlin HM1. The Rolls-Royce Turbomeca RTM322 was developed specifically for this aircraft and went on to power the British Apache and the NH90; about 80 percent of AW101s use it, though by 2020 new aircraft were being sold only with the General Electric CT7-8E. {{ref:wiki}} {{ref:leonardo}}"
+        ]
+      },
+      {
+        "heading": "Royal Navy Service",
+        "paragraphs": [
+          "The Royal Navy took 44 Merlin HM1s, the first delivered on 17 May 1997 and the type entering service on 2 June 2000, flying from Culdrose with 814, 820 and 824 Naval Air Squadrons. In March 2004 the fleet was briefly grounded after a tail rotor failed at Culdrose because of a manufacturing defect; the redesigned tail rotor that followed was adopted on most AW101s and cut the associated maintenance burden significantly. Thirty were rebuilt to HM2 standard under the 750 million pound Merlin Capability Sustainment Programme, finished on 11 July 2016, which brought a new mission system, digital cockpit, electro-optical camera and multi-static sonar processing, and a radar able to track forty times as many targets. Eight airframes were left unconverted for cost reasons. {{ref:wiki}}",
+          "The HM2 also carries Crowsnest, the airborne early warning role inherited from the Sea King ASaC7, in a Thales-supplied pod selected in May 2015. It arrived late: the system deployed with the 2021 carrier strike group but only reached initial operating capability in July 2023, and full capability in time for the 2025 Indo-Pacific deployment, on which 820 NAS embarked nine Merlins aboard HMS Prince of Wales - six in the anti-submarine role and three carrying Crowsnest. The arithmetic behind that is tight. With 30 HM2s in service and five in maintenance at any time, the notional fourteen aircraft for a single operational carrier has never been realistic, and the Royal Navy has been examining replacements for the Merlin and Crowsnest combination against a planned 2029 retirement of the radar. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "The RAF Transports and Commando Merlin",
+        "paragraphs": [
+          "The RAF ordered 22 Merlin HC3s for transport, the first entering service in January 2001 with No. 28 Squadron at Benson, fitted with extended-range tanks and an air-to-air refuelling probe. They first deployed to the Balkans in 2003 and to Iraq under Operation Telic from 2004, where they became the main medical evacuation asset in the south and flew around Basra until the British withdrawal in June 2009. Six ex-Danish aircraft were bought in 2007 as HC3As, freeing Merlins for Afghanistan; the Afghan deployment drew criticism because the aircraft initially lacked ballistic armour, which was fitted fleet-wide by July 2010. {{ref:wiki}}",
+          "From 2012 the whole HC3 and HC3A fleet was transferred to the Royal Navy to replace the Commando Helicopter Force's Sea King HC4s. Command passed formally at Benson on 30 September 2014, when the RAF's 78 Squadron disbanded and 846 Naval Air Squadron stood up on the type, followed by 845 NAS in July 2015. Twenty-five airframes were then rebuilt under the 454 million pound Merlin Life Sustainment Programme with HM2 cockpit electronics, folding tail and main rotor head, strengthened landing gear, deck lashing points, fast-roping points and a common emergency egress system. The first Commando Merlin Mk4s were delivered to Yeovilton on 25 May 2018 and the conversion finished by the end of 2022, with an out-of-service date now set at 2040. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Export Operators & Scandals",
+        "paragraphs": [
+          "Italy has been the other core customer, taking 22 Navy aircraft in anti-submarine, airborne early warning and amphibious support configurations and 15 HH-101A Caesar combat search and rescue aircraft for the Air Force between 2016 and 2020. Denmark took 14, Portugal 12 across three sub-variants, Japan 14 assembled by Kawasaki for airborne mine countermeasures and Antarctic support, Norway 16 SAR Queens that replaced the Sea King in the rescue role by December 2023, and Poland four for the Navy with a further 22 under negotiation since 2023. Canada returned as a customer and signed a C$1.24 billion contract in December 2022 for three more Cormorants and a fleet modernisation. {{ref:wiki}} {{ref:flightglobal-poland}}",
+          "The VVIP business has been less happy. The United States Marine Corps selected a customised AW101 as the VH-71 Kestrel presidential helicopter, built nine airframes, then cancelled the programme in June 2009 over cost overruns; the aircraft were sold to Canada for $164 million as Cormorant spares. India ordered 12 VVIP aircraft in April 2009 and cancelled after three deliveries when Finmeccanica was accused of bribery to win the contract. Indonesia's air force then bought one of the rejected Indian airframes in 2017 against a presidential decree cancelling the purchase; three officers were named as corruption suspects, the middleman was jailed for ten years in 2023, and the helicopter sat in a hangar as court evidence until entering service in 2024. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Safety Record & Current Status",
+        "paragraphs": [
+          "The type's record is good for its size and role, but the last two years have been bad ones for British Merlins. On 4 September 2024 a Merlin HC4 of 846 NAS, ZJ135, ditched in the English Channel off Dorset during night flying from HMS Queen Elizabeth, killing Lieutenant Rhodri Leyshon. The inquiry traced it to a split rubber diaphragm in the number two engine's high-pressure fuel pump, weakened by a maintenance procedure Safran introduced in 2020, and found the crew had misread the resulting warning as a double engine failure and shut down two serviceable engines. On 3 June 2026 another 846 NAS Merlin HC4, ZJ131, crashed near Sourton in Devon during a training exercise, killing Lieutenant Commander Chris Gayson, Lieutenant Lily-Mae Fisher and Petty Officer Owen Green. {{ref:navylookout-ditching}} {{ref:rn-sourton}} {{ref:navylookout-sourton}}",
+          "Production continues at Yeovil and Vergiate, with Norway reported in 2025 to be considering an anti-submarine order on top of its rescue fleet and Leonardo having proposed a mixed anti-submarine and coastguard fleet of around 31 aircraft to Turkey in 2023, though no Turkish contract has been signed. The design is nearly forty years old and the newest customers are buying it for the same reasons Canada did in 1987 - three engines, long range and the ability to work in bad North Atlantic weather - which is a reasonable summary of why the aircraft has outlasted most of its contemporaries. {{ref:wiki}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "AgustaWestland AW101",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AgustaWestland_AW101"
+    },
+    {
+      "id": "leonardo",
+      "name": "AW101 product page",
+      "publisher": "Leonardo Helicopters",
+      "url": "https://helicopters.leonardo.com/en/products/aw101"
+    },
+    {
+      "id": "vertical-500k",
+      "name": "Leonardo's AW101 global fleet hits 500,000 flight hour milestone",
+      "publisher": "Vertical Magazine",
+      "url": "https://verticalmag.com/press-releases/leonardos-aw101-global-fleet-hits-500000-flight-hour-milestone/"
+    },
+    {
+      "id": "flightglobal-poland",
+      "name": "Poland moves closer to new order for 22 AW101 helicopters",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/helicopters/poland-moves-closer-to-new-order-for-22-aw101-helicopters/154512.article"
+    },
+    {
+      "id": "navylookout-ditching",
+      "name": "Failed engine component and an ambiguous warning caused fatal Royal Navy Merlin helicopter ditching",
+      "publisher": "Navy Lookout",
+      "url": "https://www.navylookout.com/failed-engine-component-and-an-ambiguous-warning-caused-fatal-royal-navy-merlin-helicopter-ditching/"
+    },
+    {
+      "id": "rn-sourton",
+      "name": "Royal Navy mourns the loss of three service personnel following a training exercise",
+      "publisher": "Royal Navy",
+      "url": "https://www.royalnavy.mod.uk/news/2026/june/04/20260604-royal-navy-mourns-the-loss-of-three-service-personnel-following-a-training-exercise"
+    },
+    {
+      "id": "navylookout-sourton",
+      "name": "Royal Navy Merlin helicopter crashes in Devon",
+      "publisher": "Navy Lookout",
+      "url": "https://www.navylookout.com/royal-navy-merlin-helicopter-crashes-in-devon/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "European Helicopter EH-101 Merlin - development history and technical data",
+      "url": "https://aviastar.org/helicopters_eng/eh_merlin.php"
+    },
+    {
+      "name": "Three killed in Royal Navy helicopter crash in Devon field",
+      "url": "https://www.itv.com/news/westcountry/2026-06-03/crash-involving-helicopter-shuts-key-roads-in-devon"
+    },
+    {
+      "name": "Military Board of Inquiry into the crash of CH-149 Cormorant helicopter 914",
+      "url": "https://www.canada.ca/en/news/archive/2006/08/military-board-inquiry-crash-ch149-cormorant-helicopter-914-13-july-2006.html"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1993-01-21",
+      "title": "PP2 lost near Cameri after a rotor brake failure",
+      "tag": "Rotor brake failure",
+      "summary": "The second pre-production aircraft, MMX600, was on an acoustic measurement flight near Cameri airfield in Italy when residual hydraulic pressure left the rotor brake partly engaged. The friction generated enough heat to damage flight control components and start a fire; the helicopter rolled and crashed on its side. All four on board were killed and flight testing was suspended for six months.",
+      "fatalities": 4,
+      "source": "https://aviation-safety.net/wikibase/32482"
+    },
+    {
+      "date": "1995-04-07",
+      "title": "PP4 abandoned in flight over Devon",
+      "tag": "Tail rotor control failure",
+      "summary": "The British naval prototype ZF644 suffered a sub-standard component failure in the tail rotor pitch control system at around 12,000 ft near Yarcombe. Three of the four crew parachuted at about 10,000 ft; the pilot stayed with the aircraft until 1,200 ft to steer it clear of the ground before jumping. The helicopter was destroyed in a field beside the A303.",
+      "fatalities": 0,
+      "source": "https://aviation-safety.net/wikibase/48767"
+    },
+    {
+      "date": "2006-07-13",
+      "title": "CH-149 Cormorant 914 crashes off Nova Scotia",
+      "tag": "Controlled flight into water",
+      "summary": "A Canadian Forces Cormorant went into Chedabucto Bay off Canso during a night search and rescue exercise after the crew manually overrode the autopilot. Three of the seven on board died, all by drowning rather than impact injuries, with secondary escape exits obstructed by cabin equipment. The board of inquiry cited pilot error, insufficient flying hours and poor cockpit monitoring.",
+      "fatalities": 3,
+      "source": "https://www.cbc.ca/news/canada/nova-scotia/pilot-error-led-to-fatal-cormorant-crash-report-1.709876"
+    },
+    {
+      "date": "2008-01-28",
+      "title": "Danish AW101 drive shaft failure at Billund",
+      "tag": "Drive shaft failure",
+      "summary": "The drive shaft of a Royal Danish Air Force AW101 broke, forcing an emergency landing at Billund Airport. The Danish fleet was grounded as a precaution and the aircraft's future was publicly debated; in the first half of 2008 Danish operational availability ran at around 50 percent against a target of 80.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/AgustaWestland_AW101"
+    },
+    {
+      "date": "2024-09-04",
+      "title": "Merlin HC4 ditches in the English Channel",
+      "tag": "Engine failure",
+      "summary": "ZJ135 of 846 Naval Air Squadron ditched off Dorset during night flying from HMS Queen Elizabeth. A split rubber diaphragm in the number two engine's high-pressure fuel pump, weakened by a maintenance procedure introduced in 2020, sent fuel flow and torque spiking; the crew read the ambiguous warning as a double failure and shut down two serviceable engines. Lieutenant Rhodri Leyshon was killed and two crew survived.",
+      "fatalities": 1,
+      "source": "https://www.navylookout.com/failed-engine-component-and-an-ambiguous-warning-caused-fatal-royal-navy-merlin-helicopter-ditching/"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Merlin HC4 crash near Sourton, Devon",
+      "tag": "Training accident",
+      "summary": "ZJ131 of 846 Naval Air Squadron crashed in a field near Sourton in Devon in the early hours during a training exercise, killing Lieutenant Commander Chris Gayson, Lieutenant Lily-Mae Fisher and Petty Officer Owen Green. Witnesses reported the aircraft was on fire before impact. The investigation was still under way when this entry was written.",
+      "fatalities": 3,
+      "source": "https://www.royalnavy.mod.uk/news/2026/june/04/20260604-royal-navy-mourns-the-loss-of-three-service-personnel-following-a-training-exercise"
+    }
+  ]
+}

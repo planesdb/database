@@ -1,0 +1,268 @@
+{
+  "name": "T-7A Red Hawk",
+  "fullName": "Boeing T-7A Red Hawk",
+  "manufacturer": "Boeing, with Saab",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Advanced Jet Trainer",
+  "tagline": "A single-engine advanced jet trainer built by Boeing with Saab to replace the U.S. Air Force's 1960s Northrop T-38 Talon fleet. It was the first American military aircraft designed entirely with digital engineering tools, going from concept to first flight in 36 months, and then spent seven years working through ejection seat and flight control problems before production was approved in 2026.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The name honours the Tuskegee Airmen, who painted their tails red, and the Curtiss P-40 Warhawk flown by the 99th Fighter Squadron",
+    "One F404 engine produces around three times the total thrust of the two engines in the T-38 it replaces",
+    "It went from clean sheet to first flight in 36 months using digital engineering, and the production line splices the Saab-built aft section to the wings in about 30 minutes",
+    "The first jet was delivered to an operational flying training wing on 5 December 2025, seven years after the contract was signed",
+    "Its escape system was found not to meet minimum safety requirements, with particular risk to lighter pilots in low-speed ejections - the fix took years of sled testing at Holloman",
+    "Boeing wants to sell over 2,700 worldwide and has pitched armed derivatives, including a light fighter conceptually designated F-7"
+  ],
+  "specifications": {
+    "specificationsNote": "Published performance figures disagree. Boeing quotes a maximum of Mach 0.975 and 45,000 ft, marked as the envelope tested to October 2023, and those are the figures used here; Air & Space Forces Magazine cites Mach 1.05 or better and above 50,000 ft. The knots, mph and km/h speeds here are Boeing's Mach number converted at cruise altitude and are approximate. The 20 December 2016 first flight date is the BTX-1 prototype; the first production-configuration T-7A flew on 28 June 2023.",
+    "maxSpeed": {
+      "mph": 643,
+      "text": "~559 kn (~643 mph / ~1,035 km/h)"
+    },
+    "cruiseSpeed": "Not published - Boeing quotes only a maximum of Mach 0.975",
+    "range": {
+      "miles": 1140,
+      "text": "1,140 mi (1,830 km, 990 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 45000,
+      "text": "45,000 ft (13,716 m)"
+    },
+    "wingspan": {
+      "ft": 30.6,
+      "text": "30 ft 7 in (9.32 m)"
+    },
+    "length": {
+      "ft": 46.9,
+      "text": "46 ft 11 in (14.30 m)"
+    },
+    "height": {
+      "ft": 13.5,
+      "text": "13 ft 6 in (4.11 m)"
+    },
+    "weight": "empty: 18,000 lb (8,165 kg); gross: 22,000 lb (9,979 kg)",
+    "engines": "1 x General Electric F404-GE-103 afterburning turbofan, 11,000 lbf (49 kN) dry and 17,200 lbf (77 kN) with afterburner",
+    "armament": "None - the T-7A is an unarmed trainer. Boeing has proposed armed derivatives, including the F/T-7X for the Air Force's Advanced Tactical Trainer requirement and a light combat aircraft conceptually designated F-7, but neither has been ordered.",
+    "crew": "2 (student and instructor in tandem)",
+    "capacity": "4,500 lb (2,041 kg) of internal fuel; cleared to 8 g and 30 degrees angle of attack",
+    "firstFlight": {
+      "date": "2016-12-20",
+      "year": 2016
+    },
+    "serviceEntryDate": "2025-12-05",
+    "retiredDate": null,
+    "numberBuilt": 7,
+    "unitCost": {
+      "usd": 28000000,
+      "text": "$28M (Government Accountability Office programme estimate, 2026). The 2018 contract was worth $9.2B for 351 aircraft plus 46 simulators and support, and the first low-rate production lot of 14 aircraft was contracted in May 2026 for $219M",
+      "inflationText": null
+    },
+    "combatLosses": "None - the T-7A is a trainer and has never flown a combat mission. No airframe has been lost."
+  },
+  "variants": [
+    {
+      "code": "BTX-1",
+      "desc": "The two company-funded prototypes, registered N381TX and N382TX, unveiled on 13 September 2016 and flown from 20 December that year. They established the configuration that won the competition: a single F404, twin tails, tandem seating and retractable tricycle gear. The Air Force selected the design in September 2018 and both aircraft continued in the test programme."
+    },
+    {
+      "code": "T-7A Red Hawk",
+      "desc": "The production aircraft for the U.S. Air Force, named in September 2019 and designated eT-7A before delivery to mark it as digitally engineered. Five engineering and manufacturing development airframes were built for testing, the first rolling out on 28 April 2022 and flying on 28 June 2023. The first low-rate lot of 14 aircraft was placed in May 2026 against a programme of record of 351."
+    },
+    {
+      "code": "T-7A Block 10",
+      "desc": "A proposed upgrade package offered to the Air Force covering avionics and safety improvements. It emerged from the modernisation planning the service began while the baseline aircraft was still in development, and reflects the open-architecture approach that was meant to let the design absorb changes without a redesign."
+    },
+    {
+      "code": "T-7B and T-7 UJTS",
+      "desc": "Two proposed U.S. Navy variants. The T-7B is offered for the Tactical Surrogate Aircraft programme, an adversary-training requirement worth a possible 64 aircraft. The T-7 UJTS is a separate bid to replace the T-45 Goshawk under the Undergraduate Jet Training System competition, worth at least 145 aircraft - and notably it would not be carrier-capable."
+    },
+    {
+      "code": "T-7AJ and T-7 FJT",
+      "desc": "The two live export configurations. The T-7AJ is a proposed licence-built Japanese variant to replace the Kawasaki T-4, a requirement of around 200 aircraft contested with the M-346. The T-7 FJT is offered for the Royal Air Force Fast Jet Trainer competition to replace the Hawk, with BAE Systems expected to join the Boeing and Saab team to provide UK content."
+    },
+    {
+      "code": "F/T-7X and F-7",
+      "desc": "The armed derivatives. The F/T-7X is offered for the Air Force's Advanced Tactical Trainer requirement, potentially 100 to 400 aircraft. The F-7 is a conceptual light combat aircraft the Air Force began examining in November 2023, intended to hold force numbers up as F-16s retire. Boeing also wants to offer an armed T-7 against ageing F-5 and Alpha Jet fleets."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "2023",
+      "fleetSize": "7 test and early production aircraft; 14 on contract, 351 planned",
+      "homeBase": "Edwards AFB, California (416th Flight Test Squadron) and Joint Base San Antonio-Randolph, Texas (12th Flying Training Wing)"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The T-7A has no ICAO type designator of its own - the code T7 belongs to the unrelated Fuji T-7 - so it does not resolve as a type on Flightradar24. Sightings are test sorties around Edwards Air Force Base in California and, since December 2025, training flights out of Joint Base San Antonio-Randolph in Texas. Boeing also flies aircraft from St Louis Lambert International Airport, where the jets are built."
+  },
+  "lastUpdated": "2026-09-16",
+  "changelog": [
+    {
+      "date": "2026-09-16",
+      "change": "Entry created - full article, specifications, variants, operators and programme record written from Boeing published data, Air & Space Forces Magazine and Defense News reporting, GAO programme reviews and Air Force announcements.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Red Hawk",
+    "T-X",
+    "T7A",
+    "eT-7A",
+    "BTX-1",
+    "Tuskegee",
+    "F-7",
+    "Saab"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing T-7A Red Hawk is a transonic advanced jet trainer built by Boeing with Saab for the United States Air Force. It is a single-engine aircraft with tandem seating and twin tails, powered by one General Electric F404, and was selected in September 2018 to replace the service's Northrop T-38 Talon fleet. {{ref:wiki}} {{ref:boeing}}",
+      "The Air Force plans to buy around 351 aircraft against roughly 476 T-38Cs dating from the 1960s, at an estimated $28 million each. The programme was approved for low-rate production in April 2026 after seven years of delays driven by ejection seat, software and supply chain problems, and initial operational capability is targeted for August 2027. {{ref:asf-production}} {{ref:asf-gao}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the T-X Competition",
+        "paragraphs": [
+          "Air Education and Training Command began defining a T-38 replacement as early as 2003, expecting service entry around 2020. A T-38C fatigue failure killed both crew in 2008 and the Air Force pulled the target forward to 2017, but budget pressure pushed it the other way repeatedly: the programme slipped to fiscal 2020, then to fiscal 2023 or 2024, and was left out of the fiscal 2014 budget entirely. {{ref:wiki}}",
+          "Boeing teamed with Saab and unveiled two company-funded prototypes on 13 September 2016, flying the first on 20 December that year - before the Air Force had even opened the competition for bids. In September 2018 the Air Force selected the design under a contract worth up to $9.2 billion for 351 aircraft, 46 simulators, maintenance training and support, with options running to 475 airframes. Boeing took a $691 million pre-tax charge that quarter, partly on the back of the bid. In September 2019 the aircraft was named Red Hawk, honouring the Tuskegee Airmen and their red-tailed aircraft and the Curtiss P-40 Warhawk flown by the 99th Fighter Squadron. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Digital Engineering & Production",
+        "paragraphs": [
+          "The T-7's main claim is how it was designed rather than what it does. It was built entirely with digital engineering tools and went from concept to first flight in 36 months, which is why the Air Force gave production aircraft the eT-7A prefix before delivery to identify them as digitally engineered. The production line is built around the same idea: the Saab-built aft section is spliced to the wings in about 30 minutes, and the digital build process needs minimal tooling and drilling during assembly. {{ref:wiki}}",
+          "The industrial arrangement splits the aircraft across two countries. Saab produces the aft fuselage, delivering the first section to Boeing's St Louis plant in April 2021 and the second that July, with Qarbon Technologies supplying wing sections. Saab announced a U.S. manufacturing facility in West Lafayette, Indiana in May 2019, intended to become the manufacturing hub for the aft section and for hydraulics, fuel systems and secondary power once development finished. In the training environment the aircraft is designed for high-G and high-angle-of-attack work and night operations, with maintainability as an explicit design goal, and its single F404 produces roughly three times the total thrust of the T-38's two engines. {{ref:wiki}} {{ref:boeing}}"
+        ]
+      },
+      {
+        "heading": "The Escape System Problem",
+        "paragraphs": [
+          "The programme's central technical failure was its emergency escape system, which uses Collins Aerospace ACES 5 ejection seats. Pentagon testing officials found it did not meet minimum safety requirements and was operating with high-risk acceptance for airworthiness. Testing exposed serious risks to lighter personnel, particularly female pilots, during low-speed ejections below 250 knots. A June 2024 high-speed sled test found two further problems: a seat hose interfered with the sequencer switch, which could select the wrong ejection mode, and the redesigned canopy fracturing system did not work properly. {{ref:twz-seat}}",
+          "Two changes addressed it. The canopy was redesigned to shatter in a controlled pattern to cut the risk of injury from fragments, and an improved sequencer allows a longer drogue chute deployment so the seat stabilises earlier, reducing neck and spinal injury in high-speed ejections. On 16 April 2025 the 846th Test Squadron at Holloman Air Force Base ran a sled test simulating a 450-knot ejection, which met all its objectives and demonstrated protection across both light and heavy pilot profiles - though programme officials described it as a crucial data point rather than a resolution. Environmental testing at the McKinley Climatic Laboratory in February 2024, running the aircraft from -25F to 110F, had also thrown up problems needing a repeat in spring 2025. {{ref:twz-seat}} {{ref:aviationist-seat}}"
+        ]
+      },
+      {
+        "heading": "Delays, Production & Service Entry",
+        "paragraphs": [
+          "The Government Accountability Office reported in May 2023 that software and safety system problems had pushed the production decision to February 2025, and that Boeing's schedule was optimistic and dependent on favourable assumptions. A major reorganisation in January 2025 expanded the planned test fleet to nine aircraft and put the Air Force and Boeing into an active management arrangement. The first T-7A finally flew from St Louis Lambert on 28 June 2023, flown by Major Bryce Turner of the 416th Flight Test Squadron with Boeing chief T-7 test pilot Steve Schmidt, and the first aircraft shipped to the Air Force that September for testing at Edwards. {{ref:wiki}} {{ref:asf-production}}",
+          "Serial 21-7005 was delivered to the 12th Flying Training Wing at Joint Base San Antonio-Randolph on 5 December 2025, with a formal ceremony on 9 January 2026, and in May 2026 leaders of the 99th Flying Training Squadron became the first Air Education and Training Command pilots qualified on the type. The Air Force cleared Milestone C on 23 April 2026 and announced a $219 million contract for the first 14 aircraft on 4 May, with 23 deliveries planned for fiscal 2027, 36 in 2028 and 42 in 2029, and initial operational capability targeted for August 2027. {{ref:usaf-randolph}} {{ref:asf-production}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Production has started, but the testing behind it has not finished. A GAO report on 7 July 2026 found significant delays in developmental testing and pushed the full-rate production decision from January 2027 to January 2029 - two years - with the key system-level test now due in July 2027, about three years behind the original plan. The causes named were additional engineering analysis, a shortage of maintenance personnel and spare parts holding down aircraft availability, and software taking longer than expected. Most developmental testing will not conclude until April 2028, with lower-priority requirements running to May 2029, and GAO warned explicitly about the concurrency risk of building aircraft while still testing them. {{ref:asf-gao}}",
+          "Boeing's ambition for the design remains much larger than the American order. The company aims to sell over 2,700 worldwide and is chasing the U.S. Navy's Tactical Surrogate Aircraft and Undergraduate Jet Training System requirements, a Japanese T-4 replacement, the Royal Air Force Fast Jet Trainer competition, and armed derivatives up to a light fighter. None of that has produced an order yet, and the Air Force's own programme is being delivered against a fleet of T-38s that has been flying since the 1960s and was meant to be replaced by 2020. {{ref:wiki}} {{ref:asf-gao}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Boeing-Saab T-7 Red Hawk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing%E2%80%93Saab_T-7_Red_Hawk"
+    },
+    {
+      "id": "boeing",
+      "name": "T-7A Red Hawk product page",
+      "publisher": "Boeing",
+      "url": "https://www.boeing.com/defense/t-7a"
+    },
+    {
+      "id": "asf-production",
+      "name": "T-7 Red Hawk Moves into Low-Rate Production",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/t-7-red-hawk-production-boeing-contract/"
+    },
+    {
+      "id": "asf-gao",
+      "name": "GAO: T-7 Delays Push Full-Rate Production Decision Back Two Years",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/gao-t-7-delays-push-full-rate-production-decision-back-two-years/"
+    },
+    {
+      "id": "twz-seat",
+      "name": "New Details About T-7A Red Hawk Jet Trainer Ejection System Woes Emerge",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/new-details-about-t-7a-red-hawk-jet-trainer-ejection-system-woes-emerge"
+    },
+    {
+      "id": "aviationist-seat",
+      "name": "T-7A Red Hawk Ejection System Clears High-Speed Test, Addressing Earlier Safety Deficiencies",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2025/05/05/t-7a-ejection-system-test/"
+    },
+    {
+      "id": "usaf-randolph",
+      "name": "T-7A Red Hawk lands at JBSA-Randolph",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/News/Article-Display/Article/4351250/t-7a-red-hawk-lands-at-jbsa-randolph/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "T-7A Red Hawk reference page",
+      "url": "https://www.airandspaceforces.com/weapons/t-7a/"
+    },
+    {
+      "name": "Escape system problem causes T-7 deliveries to slip to end of 2025",
+      "url": "https://www.defensenews.com/air/2023/04/20/escape-system-problem-causes-t-7-deliveries-to-slip-to-end-of-2025/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2016-12-20",
+      "title": "First flight of the BTX-1 prototype",
+      "tag": "First flight",
+      "summary": "The first of two company-funded Boeing-Saab prototypes flew from St Louis, three months after the design was unveiled and before the Air Force had opened the T-X competition for bids.",
+      "source": "https://en.wikipedia.org/wiki/Boeing%E2%80%93Saab_T-7_Red_Hawk"
+    },
+    {
+      "date": "2023-06-28",
+      "title": "First flight of a production-configuration T-7A",
+      "tag": "Milestone",
+      "summary": "The first T-7A flew from St Louis Lambert International Airport, flown by Major Bryce Turner of the 416th Flight Test Squadron at Edwards Air Force Base and Boeing chief T-7 test pilot Steve Schmidt.",
+      "source": "https://en.wikipedia.org/wiki/Boeing%E2%80%93Saab_T-7_Red_Hawk"
+    },
+    {
+      "date": "2025-04-16",
+      "title": "450-knot escape system test passes at Holloman",
+      "tag": "Milestone",
+      "summary": "The 846th Test Squadron ran a sled test simulating a 450-knot ejection with a redesigned controlled-fracture canopy and an improved sequencer allowing longer drogue deployment. It met all objectives and demonstrated protection for both light and heavy pilot profiles. A high-speed test the previous June had found a seat hose interfering with the sequencer switch and a canopy fracturing system that did not work, on top of a Pentagon finding that the escape system did not meet minimum safety requirements. Officials called the April result a data point rather than a resolution.",
+      "source": "https://theaviationist.com/2025/05/05/t-7a-ejection-system-test/"
+    },
+    {
+      "date": "2025-12-05",
+      "title": "First delivery to an operational training wing",
+      "tag": "Milestone",
+      "summary": "Serial 21-7005 was delivered to the 12th Flying Training Wing at Joint Base San Antonio-Randolph, which also flies the T-38, T-6 and T-1. A formal arrival ceremony followed on 9 January 2026.",
+      "source": "https://www.af.mil/News/Article-Display/Article/4351250/t-7a-red-hawk-lands-at-jbsa-randolph/"
+    },
+    {
+      "date": "2026-05-04",
+      "title": "Low-rate production approved",
+      "tag": "Programme milestone",
+      "summary": "Following a Milestone C decision on 23 April, the Air Force announced a $219 million contract for the first 14 aircraft, with 23 deliveries planned for fiscal 2027, 36 in 2028 and 42 in 2029, and initial operational capability targeted for August 2027.",
+      "source": "https://www.airandspaceforces.com/t-7-red-hawk-production-boeing-contract/"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "GAO pushes full-rate production decision to 2029",
+      "tag": "Programme setback",
+      "summary": "The Government Accountability Office reported significant delays in developmental testing, moving the full-rate production decision from January 2027 to January 2029. It cited additional engineering analysis, shortages of maintenance staff and spares, and slow software development, and warned about building aircraft while testing continues to 2029.",
+      "source": "https://www.airandspaceforces.com/gao-t-7-delays-push-full-rate-production-decision-back-two-years/"
+    }
+  ]
+}

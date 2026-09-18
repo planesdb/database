@@ -1,0 +1,485 @@
+{
+  "name": "B-52 Stratofortress",
+  "fullName": "Boeing B-52 Stratofortress",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Long-Range Strategic Bomber",
+  "tagline": "The 'BUFF' - in service for over 70 years and counting. Nicknamed for 'Big Ugly Fat Fellow' by its crews, it is expected, after re-engining as the B-52J, to remain in frontline service into the 2050s - an operational lifespan unmatched by any other combat aircraft in history.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "Boeing designed the B-52 in the late 1940s to meet a USAF requirement for an intercontinental jet bomber, and the type first flew on 15 April 1952. Entering service in February 1955, the B-52 became the primary manned-bomber leg of the US nuclear triad throughout the Cold War, dropped the first US airborne thermonuclear weapon in a 1956 test, and flew thousands of Arc Light bombing sorties over Vietnam. Successive B-52B through B-52H models refined engines, avionics and defensive systems, with the final B-52H rolling off the line in 1962 - meaning every B-52 flying today is well over 60 years old. The type has seen sustained combat use in Vietnam, the 1991 Gulf War, the Balkans, Afghanistan and Iraq, and it continues to serve as a conventional and stand-off missile platform today. A major re-engining and radar upgrade programme, redesignating surviving aircraft as the B-52J, is intended to keep the airframe flying for a full century of service.\n\nThe B-52's story is now officially a century-long one: the B-52J program is fitting the 76-strong fleet with new Rolls-Royce F130 engines and upgraded radars intended to keep it in service into the 2050s and beyond - meaning aircraft built when Eisenhower was president will likely fly combat missions a hundred years after the type's 1952 first flight, flown by crews whose grandparents weren't born when their bomber rolled off the line.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 650,
+      "text": "565 kn (650 mph / 1,046 km/h)"
+    },
+    "cruiseSpeed": "~525 mph (845 km/h, Mach 0.78)",
+    "range": {
+      "miles": 8800,
+      "text": "8,800 mi unrefuelled"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft (15,240 m)"
+    },
+    "wingspan": {
+      "ft": 185,
+      "text": "185 ft 0 in (56.4 m)"
+    },
+    "length": {
+      "ft": 159.3,
+      "text": "159 ft 4 in (48.5 m)"
+    },
+    "height": {
+      "ft": 40.7,
+      "text": "40 ft 8 in (12.4 m)"
+    },
+    "weight": "operating weight: ~185,000 lb (83,250 kg); MTOW: 488,000 lb (219,600 kg)",
+    "engines": "8 x Pratt & Whitney TF33-P-3/103 turbofans (Rolls-Royce F130 planned for B-52J)",
+    "armament": "Gravity bombs, AGM-86 cruise missiles, JDAM, JASSM, naval mines - up to 70,000 lb payload",
+    "crew": "5 (pilot, co-pilot, radar navigator, navigator, EWO)",
+    "capacity": "Up to 70,000 lb of ordnance",
+    "firstFlight": {
+      "date": "1952-04-15",
+      "year": 1952
+    },
+    "serviceEntryDate": "1955-02-01",
+    "retiredDate": null,
+    "numberBuilt": 744,
+    "unitCost": {
+      "usd": 9280000,
+      "text": "$9.28M (1962 flyaway, B-52H) - roughly $103M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$103M in 2026 dollars"
+    },
+    "combatLosses": "31 lost in the Vietnam War (1965–73) to combined enemy action and operational causes; 15 of those were shot down by SA-2 surface-to-air missiles during the 11-day Linebacker II campaign alone (Dec 1972)"
+  },
+  "variants": [
+    {
+      "code": "B-52A/B",
+      "desc": "Initial production models; entered service 1955."
+    },
+    {
+      "code": "B-52D",
+      "desc": "Optimised for conventional bombing; heavily used over Vietnam."
+    },
+    {
+      "code": "B-52G",
+      "desc": "Shortened tail, wet wing for extra fuel; retired after START treaty reductions."
+    },
+    {
+      "code": "B-52H",
+      "desc": "Final and only currently serving model; TF33 turbofans replaced earlier turbojets."
+    },
+    {
+      "code": "B-52J (planned)",
+      "desc": "Re-engining and radar modernization of surviving B-52H airframes, expected from the early 2030s."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "1955",
+      "fleetSize": "~76",
+      "homeBase": "Barksdale AFB & Minot AFB",
+      "logo": "usaf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B52",
+    "howToFind": "Search Flightradar24 for aircraft type \"B52\" or watch the skies around Barksdale AFB (Louisiana) and Minot AFB (North Dakota), the two active B-52 wings. Training and transit sorties often use tactical callsigns issued for the mission rather than a fixed identifier."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/feed/",
+      "topicTag": "B-52"
+    },
+    {
+      "name": "Defense News",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+      "topicTag": "B-52"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "First B-52 to arrive for re-engining at Boeing plant later this year",
+      "source": "TWZ",
+      "date": "2026-05-01",
+      "category": "Modernization",
+      "url": "https://www.twz.com/air/first-b-52-to-arrive-for-re-engining-at-boeing-plant-later-this-year"
+    },
+    {
+      "title": "Air Force asserts B-52 modernization remains on cost and schedule following June crash",
+      "source": "DefenseScoop",
+      "date": "2026-07-27",
+      "category": "Modernization",
+      "url": "https://defensescoop.com/2026/07/27/b-52-modernization-program-status-after-june-crash/"
+    },
+    {
+      "title": "US Air Force launches analysis of requirements for possible B-52 successor",
+      "source": "The Aviationist",
+      "date": "2026-05-08",
+      "category": "Future",
+      "url": "https://theaviationist.com/2026/05/08/usaf-analysis-possible-b-52-successor/"
+    }
+  ],
+  "tags": [
+    "b-52",
+    "b52",
+    "stratofortress",
+    "buff",
+    "boeing bomber",
+    "strategic bomber",
+    "usaf",
+    "nuclear triad",
+    "military",
+    "cold war bomber"
+  ],
+  "quickFacts": [
+    "The B-52 is on track to serve 100 years: airframes built in 1960-62 are being re-engined to fly into the 2050s, and crews today are younger than their aircraft by four decades.",
+    "Tail gunners in B-52s shot down two MiG-21s over Vietnam - the last gun kills by any American bomber.",
+    "It has carried practically every air-launched weapon in the US inventory - and dropped a Tsar Bomba-class rival's worth of conventional bombs in Vietnam alone.",
+    "Two Cold War accidents - Palomares 1966 and Thule 1968 - scattered nuclear weapons after B-52 crashes and reshaped how the US handles its arsenal.",
+    "A B-52 once flew home and landed after losing its entire vertical tail fin in turbulence in 1964.",
+    "Crews call it the BUFF - 'Big Ugly Fat Fellow' in polite company.",
+    "During Linebacker II in December 1972, B-52s flew the largest heavy-bomber raids since WWII, losing 15 aircraft to SAMs in 11 nights.",
+    "In 2026, B-52s flying from RAF Fairford in England struck Iranian targets with stealthy JASSM cruise missiles during Operation Epic Fury - the type's first shooting war in over a decade."
+  ],
+  "article": {
+    "overview": [
+      "The Boeing B-52 Stratofortress is a long-range, eight-engine strategic bomber built for the US Air Force. Designed in 1948, it first flew in 1952 and entered service in 1955; a re-engining programme now underway is expected to keep it flying into the 2050s.{{ref:wiki-b52}}{{ref:asfm-buff}}",
+      "The B-52 has flown Cold War nuclear alert patrols, the Arc Light bombing campaign over Vietnam, the opening strikes of the 1991 Gulf War, and cruise-missile strikes against Iran in 2026. Production ran from 1952 to 1962 across 744 airframes; roughly 76 remain in service today.{{ref:wiki-b52}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "On 21 October 1948, Boeing engineers George Schairer, Art Carlsen and Vaughn Blumenthal presented the US Air Force's Colonel Pete Warden with a four-engine turboprop bomber design at Larson Air Force Base. Warden turned it down on the spot and asked for a pure jet instead - by Monday.{{ref:wiki-b52}}{{ref:asfm-buff}}",
+          "The team retreated to the Van Cleve Hotel in Dayton, Ohio, joined by Ed Wells, Bob Withington and Maynard Pennell, and spent the weekend redesigning the aircraft from scratch: 35-degree swept wings, eight engines slung in four underwing pods, and an unusual bicycle-style landing gear with wingtip outrigger wheels to cope with the huge wing's flex. By Monday morning Schairer handed Warden a 33-page proposal and a hand-built 14-inch scale model - the Model 464-49, the aircraft that became the B-52.{{ref:wiki-b52}}{{ref:asfm-buff}}",
+          "The YB-52 prototype first flew on 15 April 1952 from Boeing Field, Seattle, piloted by legendary test pilot Alvin \"Tex\" Johnston; the XB-52 followed that October. The first operational B-52B entered service with the 93rd Bombardment Wing at Castle Air Force Base, California, on 29 June 1955.{{ref:wiki-b52}} Production ran for a decade, 1952 to 1962, across eight variants and 744 airframes - and then stopped for good. Every B-52 flying today rolled off the Wichita line more than sixty years ago.",
+          "Production ran through eight models. Only three of the thirteen B-52As ordered were built, all retained by Boeing for flight testing, which made the 50 B-52Bs the type's first true combat variant - the first delivered to the 93rd Bombardment Wing in June 1955. The B-52G was the most numerous at 193, introducing a shorter tail fin and a \"wet wing\" carrying fuel internally rather than in underwing tanks. The last of 102 B-52Hs was delivered on 26 October 1962, and every B-52 flying today is an H.{{ref:wiki-b52}}"
+        ]
+      },
+      {
+        "heading": "Cold War Alert Duty",
+        "paragraphs": [
+          "For most of the Cold War the B-52 was the manned core of America's nuclear triad, flown by Strategic Air Command under the doctrine of Mutually Assured Destruction. Fully armed bombers flew round-the-clock airborne alert patrols under code names including Head Start, Chrome Dome, Hard Head, Round Robin and Giant Lance, loitering near the borders of the Soviet Union so a retaliatory strike could launch within minutes of a warning.{{ref:wiki-b52}}",
+          "Three B-52Bs demonstrated the type's reach in January 1957 with Operation Power Flite, flying 24,325 miles non-stop around the world in 45 hours 19 minutes with several in-flight refuellings - the first non-stop round-the-world flight by a jet aircraft.{{ref:wiki-b52}} Between 1959 and 1963 nearly the whole fleet went through the \"Big Four\" modification program, adding AGM-28 Hound Dog stand-off nuclear missiles, ADM-20 Quail decoys, heavier electronic countermeasures, and the capability to sneak in below 500 feet to beat Soviet radar.{{ref:wiki-b52}}",
+          "Continuous 24-hour SAC alert finally ended in 1991 as the Cold War closed, and Strategic Air Command itself was disestablished the following year, its B-52s passing to Air Combat Command and, from 2010, Air Force Global Strike Command.{{ref:wiki-b52}}"
+        ]
+      },
+      {
+        "heading": "Vietnam: Operation Arc Light",
+        "paragraphs": [
+          "The B-52's first combat mission, Operation Arc Light, flew on 18 June 1965: 30 B-52Fs of the 9th and 441st Bombardment Squadrons struck a suspected Viet Cong stronghold near Bien Hoa. The mission's first casualties came not from the enemy but from the bombers themselves - two aircraft collided while manoeuvring before reaching the target, killing eight crewmen - and only about half the bombs fell inside the intended zone.{{ref:wiki-b52}}",
+          "The type improved fast. From late 1965, \"Big Belly\" modifications to the B-52D nearly tripled its internal bomb capacity, from 27 to as many as 84 five-hundred-pound bombs - up to 60,000 lb of ordnance per aircraft - and from spring 1967 aircraft flying from U-Tapao, Thailand, could reach targets without refuelling at all.{{ref:wiki-b52}} Arc Light and Rolling Thunder sorties became a fixture of the air war, and nowhere more famously than over the besieged Marine base at Khe Sanh in early 1968, where round-the-clock B-52 strikes helped break a 77-day siege by North Vietnamese forces massed around the perimeter.{{ref:asfm-buff}}"
+        ]
+      },
+      {
+        "heading": "Operation Linebacker II",
+        "paragraphs": [
+          "The B-52's largest and costliest campaign came at the very end of America's involvement in Vietnam. Over eleven nights between 18 and 29 December 1972 - with a stand-down on Christmas Day - 729 B-52 sorties dropped roughly 15,000 tons of bombs on Hanoi, Haiphong and other targets in North Vietnam, defended by 26 SA-2 surface-to-air missile sites and around 1,240 missiles fired in response.{{ref:asfm-linebacker}}{{ref:wiki-linebacker2}}",
+          "The first three nights alone cost six B-52s, a loss rate the Air Force judged unsustainable; tactics were overhauled mid-campaign with new approach and withdrawal routes, altitude changes and expanded jamming, and losses fell sharply. By the campaign's end fifteen B-52s had been shot down and their crews killed, captured or rescued - a toll that remains the type's single worst period of combat losses, though a loss rate under 2% of sorties flown.{{ref:asfm-linebacker}}{{ref:wiki-linebacker2}}",
+          "B-52 tail gunners fought back with the aircraft's own quad .50-calibre defensive guns. On the campaign's opening night, Staff Sergeant Samuel O. Turner, gunner aboard B-52D 56-676 \"Brown 3\", fired a 6-8 second burst that downed a pursuing MiG-21 - the first aerial kill credited to a bomber gunner since the Korean War, earning Turner a Silver Star.{{ref:tdia-turner}} Airman First Class Albert Moore, aboard \"Diamond Lil\", downed a second MiG-21 on 24 December.{{ref:wiki-b52}}",
+          "The campaign achieved its strategic aim: North Vietnam returned to the Paris peace talks, and the Paris Peace Accords were signed on 27 January 1973, leading to the release of 591 American prisoners of war within 60 days.{{ref:asfm-linebacker}}"
+        ]
+      },
+      {
+        "heading": "Desert Storm and Beyond",
+        "paragraphs": [
+          "The B-52 kept working long after Vietnam. B-52Gs opened Operation Desert Storm in January 1991 with Operation Secret Squirrel, flying some of the longest combat sorties in history - round trips of over 35 hours from Louisiana to launch conventional cruise missiles at Iraqi targets - and the type went on to fly conventional missions over the former Yugoslavia, Afghanistan and Iraq in the following decades.{{ref:wiki-b52}}",
+          "By the 2020s the B-52H - the only variant still flying - was, on average, over sixty years old, yet the US Air Force had no plan to replace it in numbers: it remained the cheapest bomber in the fleet to fly per hour and, with a fresh set of engines and sensors, the most straightforward to keep flying. Roughly 76 airframes remain, split between active-duty wings at Barksdale and Minot Air Force Bases, Air Force Reserve units, and long-term storage at Davis-Monthan.{{ref:wiki-b52}}"
+        ]
+      },
+      {
+        "heading": "The B-52J Re-engining",
+        "paragraphs": [
+          "The B-52H's original Pratt & Whitney TF33 turbofans are now the aircraft's biggest sustainment problem: the engines have been out of production for decades and are becoming harder to support. In April 2020 the Air Force requested proposals to replace all eight engines fleet-wide, and on 24 September 2021 selected the Rolls-Royce F130 - a militarised version of the BR725 business-jet engine - to power the re-engined fleet, initially valued at $2.6 billion for 650 engines.{{ref:techradar-cost}}",
+          "Unlike earlier re-engining studies that proposed cutting the B-52 down to four larger engines, the F130 program keeps all eight - reworking the airframe's rudder and control systems for a four-engine layout was judged to cost and delay more than it would save.{{ref:wiki-b52}} The upgrade, designated the B-52J, also brings a new AN/APQ-188 active electronically scanned array radar adapted from the F-15's, a streamlined nose with the old infrared turrets removed, modern cockpit displays, and the deletion of one crew position.{{ref:wiki-b52}}",
+          "The program has not been cheap or fast: reported engine costs alone have grown from roughly $8 billion to $9 billion, and the Government Accountability Office has pushed the B-52J's initial operational capability back to 2033.{{ref:techradar-cost}} If it stays on schedule, a bomber first sketched in a hotel room in 1948 will still be flying, re-engined and re-sensored, on its hundredth anniversary."
+        ]
+      },
+      {
+        "heading": "2026 Iran Strikes",
+        "paragraphs": [
+          "The B-52 went back to a shooting war in 2026. On 1 March, following Israeli airstrikes that killed Iran's Supreme Leader, the United States and Israel launched Operation Epic Fury against Iranian military targets. Days later, three B-52Hs of the 5th Bomb Wing deployed from Minot Air Force Base to RAF Fairford in England, joining B-1 Lancers already stationed there after the UK government approved American strike operations from British soil.{{ref:twz-fairford}}",
+          "From Fairford, B-52s launched AGM-158 JASSM stealthy cruise missiles at Iranian targets from well outside Iranian airspace, part of a campaign that by mid-March had struck more than 5,000 objectives across the country. Forward-basing in the UK let the bombers fly a far higher sortie rate than transatlantic missions from the continental United States would have allowed. A ceasefire took hold on 8 April 2026, and after roughly four months at Fairford the last B-52s flew home on 1 July 2026, by which point the wider campaign had reportedly struck some 13,000 targets inside Iran.{{ref:twz-departure}}",
+          "The type's long service has not been without cost closer to home. On 15 June 2026, a B-52 assigned to the 412th Test Wing crashed shortly after takeoff from Edwards Air Force Base, California, during a test flight supporting the B-52J radar modernization program; all eight aboard - a mix of Air Force personnel and Boeing contractors - were killed, with officials stating video of the crash showed there could not have been any survivors. It was the type's deadliest single accident since the 1994 Fairchild AFB crash, and investigators expected the inquiry to take up to six months.{{ref:aljazeera-crash}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-b52",
+      "name": "Boeing B-52 Stratofortress",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress"
+    },
+    {
+      "id": "wiki-linebacker2",
+      "name": "Operation Linebacker II",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Linebacker_II"
+    },
+    {
+      "id": "asfm-buff",
+      "name": "Fifty Years of the BUFF",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/1201buff/"
+    },
+    {
+      "id": "asfm-linebacker",
+      "name": "Linebacker II",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/1197linebacker/"
+    },
+    {
+      "id": "tdia-turner",
+      "name": "18 December 1972",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/18-december-1972/"
+    },
+    {
+      "id": "techradar-cost",
+      "name": "The B-52 refuses to retire as a $9 billion engine upgrade pushes a Cold War bomber toward nearly a century of service",
+      "publisher": "TechRadar",
+      "url": "https://www.techradar.com/pro/with-a-usd1-3-trillion-lifetime-bill-americas-iconic-b-52-stratofortress-buff-bomber-which-is-as-old-as-vladimir-putin-gets-new-avionics-and-upgraded-engines-to-help-it-reach-a-century-of-service"
+    },
+    {
+      "id": "twz-fairford",
+      "name": "B-52s Arrive At U.K. Base As Air Campaign Over Iran Grinds On",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/news-features/b-52s-arrive-at-u-k-base-as-air-campaign-over-iran-grinds-on"
+    },
+    {
+      "id": "twz-departure",
+      "name": "B-52 Stratofortress Bombers Leave England After Iran War Deployment",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/b-52-stratofortress-bombers-leave-england-after-iran-war-deployment"
+    },
+    {
+      "id": "aljazeera-crash",
+      "name": "Eight people killed in US Air Force B-52 bomber crash: What we know",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/16/us-b-52-bomber-crashes-in-california-what-we-know"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "U.S. Air Force - B-52H Stratofortress Fact Sheet",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104465/b-52h-stratofortress/"
+    },
+    {
+      "name": "Air Force Global Strike Command - B-52 Stratofortress Fact Sheet",
+      "url": "https://www.afgsc.af.mil/About/Fact-Sheets/Display/Article/630716/b-52-stratofortress/"
+    },
+    {
+      "name": "Boeing - B-52",
+      "url": "https://www.boeing.com/defense/b-52"
+    },
+    {
+      "name": "Airforce Technology - B-52H Stratofortress Bomber, USA",
+      "url": "https://www.airforce-technology.com/projects/b52/"
+    },
+    {
+      "name": "The B-52 refuses to retire as a $9 billion engine upgrade pushes a Cold War bomber toward nearly a century of service",
+      "url": "https://www.techradar.com/pro/with-a-usd1-3-trillion-lifetime-bill-americas-iconic-b-52-stratofortress-buff-bomber-which-is-as-old-as-vladimir-putin-gets-new-avionics-and-upgraded-engines-to-help-it-reach-a-century-of-service"
+    },
+    {
+      "name": "B-52 Stratofortress Losses and Operational Impacts in the Vietnam War",
+      "url": "https://vietnamwarpows.com/b52-combat-losses-operational-losses-in-vietnam/"
+    },
+    {
+      "name": "List of displayed Boeing B-52 Stratofortresses",
+      "url": "https://en.wikipedia.org/wiki/List_of_displayed_Boeing_B-52_Stratofortresses"
+    }
+  ],
+  "survivors": {
+    "intro": "744 B-52s were built and roughly 76 remain in active USAF service today - the rest were scrapped, mostly under Cold War arms-reduction treaties, but a handful of historically significant airframes survive on public display across the United States.",
+    "airframes": [
+      {
+        "serial": "52-8711",
+        "name": null,
+        "location": "Strategic Air Command & Aerospace Museum",
+        "place": "Ashland, Nebraska",
+        "url": "https://www.sacmuseum.org/",
+        "note": "The first operational B-52, delivered to the 93rd Bombardment Wing on 29 June 1955.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "56-0665",
+        "name": null,
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio",
+        "url": "https://www.nationalmuseum.af.mil/",
+        "note": "A B-52D on display in the museum's Cold War gallery, in the city where the type itself was sketched in 1948.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "58-0183",
+        "name": "Valkyrie",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona",
+        "url": "https://www.pimaair.org/",
+        "note": "A B-52G that flew Operation Secret Squirrel, the record-length cruise-missile strikes that opened Desert Storm in January 1991.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "55-0067",
+        "name": "The Lone Star Lady",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona",
+        "url": "https://www.pimaair.org/",
+        "note": "A B-52D that flew with the 7th Bombardment Wing until its 1982 retirement.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "57-6509",
+        "name": "Nine O Nine II",
+        "location": "Barksdale Global Power Museum",
+        "place": "Bossier City, Louisiana",
+        "note": "A B-52G that flew combat missions during Operation Desert Storm.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "52-0003",
+        "name": "The High and the Mighty One",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona",
+        "url": "https://www.pimaair.org/",
+        "note": "A converted NB-52A that served as the launch aircraft for the X-15 rocket plane at Edwards Air Force Base.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\" and rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing) - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed hero photo credit mismatch - an extra untracked file in the hero/ folder was silently overriding the documented hero photo's credit. Verified the actual photographer (SrA Zeeshan Naeem, via DVIDS) and updated the media record to match.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1961-01-24",
+      "title": "Goldsboro broken arrow",
+      "tag": "Broken arrow / structural failure",
+      "summary": "A fuel leak during refuelling led to a wing failure and the B-52 broke apart over North Carolina, dropping two 3.8-megaton Mark 39 bombs. One parachuted down intact; the other hit at speed and its thermonuclear secondary was never recovered from the mud. Three of the eight crew were killed.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/1961_Goldsboro_B-52_crash"
+    },
+    {
+      "date": "1964-01-10",
+      "title": "Flying home without a tail",
+      "tag": "In-flight structural failure",
+      "fatalities": 0,
+      "summary": "A B-52H on structural test duty lost most of its vertical stabiliser in violent turbulence over Colorado; the crew flew the bomber for six more hours and landed safely - one of the great saves in aviation history and a testament to the airframe's margins.",
+      "sources": [
+        {
+          "name": "Boeing B-52 Stratofortress - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress"
+        }
+      ]
+    },
+    {
+      "date": "1966-01-17",
+      "title": "Palomares broken arrow",
+      "tag": "Nuclear accident",
+      "fatalities": 7,
+      "summary": "A B-52 collided with its KC-135 tanker over Spain, killing seven airmen and dropping four hydrogen bombs near the village of Palomares; two weapons' conventional explosives detonated, scattering plutonium, and one bomb took 80 days to find on the seabed.",
+      "sources": [
+        {
+          "name": "1966 Palomares incident - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/1966_Palomares_incident"
+        }
+      ]
+    },
+    {
+      "date": "1968-01-21",
+      "title": "Thule crash ends airborne alert",
+      "tag": "Nuclear accident",
+      "fatalities": 1,
+      "summary": "A B-52 carrying four hydrogen bombs crashed onto sea ice near Thule, Greenland after a cabin fire; the contamination and diplomatic fallout ended the Chrome Dome airborne-alert program that had kept armed B-52s continuously airborne for eight years. Six of the seven crew ejected safely; the co-pilot, who had given up his ejection seat earlier in the flight, was killed trying to bail out through a lower hatch.",
+      "sources": [
+        {
+          "name": "1968 Thule Air Base B-52 crash - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash"
+        }
+      ]
+    },
+    {
+      "date": "1972-12-18",
+      "title": "Linebacker II",
+      "tag": "Combat losses",
+      "summary": "Over 11 nights, B-52s flew 729 sorties against Hanoi and Haiphong through the densest air defences in history; 15 were shot down by SA-2 missiles, and B-52 gunners claimed two MiG-21s - the campaign that brought North Vietnam back to the Paris peace table.",
+      "sources": [
+        {
+          "name": "Operation Linebacker II - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Operation_Linebacker_II"
+        }
+      ]
+    },
+    {
+      "date": "1994-06-24",
+      "title": "The Fairchild crash",
+      "tag": "Airshow practice crash",
+      "fatalities": 4,
+      "summary": "A B-52H crashed at Fairchild AFB during practice for an airshow display after its pilot exceeded bank limits he had violated for years; all four crew died. 'Czar 52' became the defining case study in military aviation of failed supervision of a rogue aviator.",
+      "sources": [
+        {
+          "name": "1994 Fairchild Air Force Base B-52 crash - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/1994_Fairchild_Air_Force_Base_B-52_crash"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "title": "Fatal crash during B-52J testing",
+      "tag": "Test flight",
+      "fatalities": 8,
+      "summary": "A B-52 assigned to the 412th Test Wing crashed shortly after takeoff from Edwards Air Force Base during a test flight supporting the B-52J radar modernization program, killing all eight aboard - a mix of Air Force personnel and Boeing contractors. It was the type's deadliest accident since 1994; the cause remained under investigation.",
+      "sources": [
+        {
+          "name": "Eight people killed in US Air Force B-52 bomber crash: What we know",
+          "url": "https://www.aljazeera.com/news/2026/6/16/us-b-52-bomber-crashes-in-california-what-we-know"
+        }
+      ]
+    }
+  ]
+}

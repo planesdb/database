@@ -1,0 +1,342 @@
+{
+  "name": "V-22 Osprey",
+  "fullName": "Bell Boeing V-22 Osprey",
+  "manufacturer": "Bell Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters",
+    "cargo"
+  ],
+  "role": "Tiltrotor Assault Transport",
+  "tagline": "The Bell Boeing V-22 Osprey is a tiltrotor military transport that takes off and lands vertically like a helicopter, then rotates its engines forward and cruises like a turboprop at around 240 knots. It entered service with the U.S. Marine Corps in 2007 after two decades of troubled development, and the drive system that makes tiltrotor flight possible has since caused two fatal crashes and left the fleet flying under restrictions.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The Osprey exists because of Operation Eagle Claw - the failed 1980 Iran hostage rescue, where helicopters could not make the distance, drove the joint programme that became the V-22.",
+    "It is not a helicopter: the nacelles rotate through roughly 97 degrees, so it hovers on its proprotors and then flies as a turboprop at about twice the cruise speed of the CH-46 it replaced.",
+    "A single interconnecting cross-shaft runs through the wing so that either engine can drive both proprotors if the other one fails.",
+    "The 38 ft proprotors are a deliberate compromise - big enough to hover on, small enough to clear the ground once the nacelles tilt forward - which leaves the Osprey less efficient in a hover than a true helicopter of the same weight.",
+    "The whole wing rotates to lie along the fuselage and all six blades fold, shrinking the aircraft from 84 ft 7 in wide to 18 ft 5 in for shipboard stowage.",
+    "The 8 April 2000 crash at Marana, Arizona killed 19 Marines and remains the deadliest accident in the programme's history."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the MV-22B, the U.S. Marine Corps assault transport variant and by far the most numerous. The CV-22B and CMV-22B carry extra fuel and differ in range and crew.",
+    "maxSpeed": {
+      "mph": 351,
+      "text": "305 kn (351 mph / 565 km/h)"
+    },
+    "cruiseSpeed": "276 mph (444 km/h) in aeroplane mode",
+    "range": {
+      "miles": 1266,
+      "text": "1,266 mi (2,037 km, 1,100 nmi) operational range; 2,417 mi (3,889 km, 2,100 nmi) self-deployment with one aerial refuelling"
+    },
+    "serviceCeiling": {
+      "ft": 25000,
+      "text": "25,000 ft (7,620 m)"
+    },
+    "rateOfClimb": "1,090 ft/min (5.5 m/s) vertical, at sea level",
+    "mainRotorDiameter": {
+      "ft": 38.1,
+      "text": "38 ft 1 in (11.6 m) each (x2 proprotors, tilting nacelles, no tail rotor); 84 ft 7 in (25.8 m) overall width with rotors turning, 18 ft 5 in (5.6 m) stowed"
+    },
+    "rotorBlades": "3 per proprotor (6 total), composite, fully foldable",
+    "length": {
+      "ft": 57.33,
+      "text": "57 ft 4 in (17.5 m) fuselage; 63 ft (19.2 m) stowed"
+    },
+    "height": {
+      "ft": 22.1,
+      "text": "22 ft 1 in (6.7 m) with nacelles vertical; 17 ft 11 in (5.5 m) at the stabiliser"
+    },
+    "weight": "empty: 33,140 lb (15,032 kg); max gross weight: 52,600 lb (23,859 kg) vertical takeoff, 57,000 lb (25,855 kg) short takeoff, 60,500 lb (27,443 kg) self-deployment",
+    "externalLoad": "10,000 lb (4,536 kg) on the single cargo hook; 15,000 lb (6,804 kg) using both hooks",
+    "engines": "2 x Rolls-Royce AE 1107C Liberty turboshafts, 6,200 shp (4,624 kW) each, driving both proprotors through an interconnecting cross-shaft",
+    "armament": "Optional ramp-mounted M240 machine gun; a belly-mounted remotely operated gun system was trialled and not widely adopted",
+    "crew": "3 (2 pilots + 1 crew chief) on the MV-22B; the CV-22B adds a second special mission aviator",
+    "capacity": "24 seated troops, or 12 litters, or up to 20,000 lb (9,072 kg) of internal cargo",
+    "firstFlight": {
+      "date": "1989-03-19",
+      "year": 1989
+    },
+    "serviceEntryDate": "2007-06-13",
+    "retiredDate": null,
+    "numberBuilt": 400,
+    "unitCost": {
+      "usd": 90000000,
+      "text": "$90M (CV-22B unit cost, U.S. Air Force published figure)"
+    }
+  },
+  "variants": [
+    {
+      "code": "MV-22B",
+      "desc": "The U.S. Marine Corps assault transport and the most numerous variant, carrying 24 troops from amphibious ships or austere land bases. It replaced the CH-46E Sea Knight, roughly doubling that aircraft's cruise speed and radius of action. The programme of record calls for 360 aircraft, and the type also equips Japan's Ground Self-Defense Force, the only export customer."
+    },
+    {
+      "code": "CV-22B",
+      "desc": "The U.S. Air Force special operations variant, flown by Air Force Special Operations Command for long-range infiltration, exfiltration and resupply. It adds extra internal fuel, terrain-following radar and additional defensive systems, giving a combat radius of 500 nautical miles with one internal auxiliary tank, and carries a crew of four including two special mission aviators. The programme of record is 56 aircraft."
+    },
+    {
+      "code": "CMV-22B",
+      "desc": "The U.S. Navy's carrier onboard delivery variant, which reached initial operating capability in 2021 and replaces the C-2A Greyhound. Extended-range fuel tanks and a public-address system for passengers adapt it to the long over-water logistics run, and it is the only aircraft able to carry a complete F-35 power module out to a carrier. The Navy settled on 44 aircraft."
+    },
+    {
+      "code": "V-22A / prototypes",
+      "desc": "Six full-scale development aircraft built for the flight-test programme from 1988, the first flying on 19 March 1989. Two were lost during testing - number four in the Potomac at Quantico in 1992 after flammable fluid collected in a nacelle, killing seven - and the survivors informed the redesigned production standard that followed the programme's near-cancellation."
+    },
+    {
+      "code": "EV-22 / SV-22 (proposed)",
+      "desc": "Two studied but unbuilt derivatives. The EV-22 was examined by the Royal Navy as an airborne early warning platform to replace the Sea King ASaC7, exploiting the tiltrotor's higher altitude and endurance on station. The SV-22 was an anti-submarine warfare variant proposed for the U.S. Navy in the 1980s. Neither progressed beyond study work."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Marine Corps",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "~300",
+      "homeBase": "MCAS New River - North Carolina"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Special Operations Operator",
+      "status": "In Service",
+      "since": "2009",
+      "fleetSize": "~50",
+      "homeBase": "Hurlburt Field - Florida"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Carrier Onboard Delivery",
+      "status": "In Service",
+      "since": "2021",
+      "fleetSize": "~30",
+      "homeBase": "NAS North Island - California"
+    },
+    {
+      "name": "Japan Ground Self-Defense Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "17",
+      "homeBase": "Camp Saga - Japan"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "V22",
+    "howToFind": "Search Flightradar24 for type code \"V22\". Most sorties fly with military callsigns and transponders are often off on operational missions, so the reliable sightings are transits and training around MCAS New River and MCAS Miramar, Hurlburt Field for the CV-22, and NAS North Island for the Navy's CMV-22B. Japanese Ospreys operate from Camp Saga on Kyushu."
+  },
+  "lastUpdated": "2026-09-05",
+  "changelog": [
+    {
+      "date": "2026-09-05",
+      "change": "Entry created - full article, specifications, variants and accident record written from U.S. Air Force, NAVAIR, Boeing, GlobalSecurity and named defence-press sources.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "v-22",
+    "v22",
+    "osprey",
+    "mv-22",
+    "cv-22",
+    "cmv-22",
+    "tiltrotor",
+    "tilt rotor",
+    "bell boeing",
+    "marine corps",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The Bell Boeing V-22 Osprey is a tiltrotor military transport built jointly by Bell and Boeing for the United States Marine Corps, Air Force and Navy. Its two engines sit in nacelles at the wingtips and rotate through roughly 97 degrees, so the aircraft lifts off vertically on 38 ft proprotors and then flies as a turboprop at around 240 knots. {{ref:boeing-v22}} {{ref:af-cv22}}",
+      "It first flew on 19 March 1989 and entered Marine Corps service on 13 June 2007, after a development programme that survived two fatal crashes in 2000 and an attempted cancellation. Roughly 400 had been built by 2020 against a programme of record of 458. Since 2022 the fleet has flown under restrictions imposed after two fatal failures inside its drive system. {{ref:wiki-v22}} {{ref:usni-prgb}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The programme traces directly to Operation Eagle Claw, the failed attempt to rescue American hostages from Tehran in April 1980, which ended in the Iranian desert partly because the RH-53 helicopters involved lacked the range and reliability for the mission. The Department of Defense launched the Joint-service Vertical take-off/landing Experimental programme - JVX - in 1981 to produce an aircraft with a helicopter's landing flexibility and a fixed-wing aircraft's speed and range. Bell and Boeing, who had each worked on tiltrotors separately, were awarded the development contract jointly in 1983. {{ref:wiki-v22}}",
+          "Four services signed up: the Army, Navy, Marine Corps and Air Force. The Army left in 1988 on cost grounds, and the first of six full-scale development aircraft flew on 19 March 1989. Defense Secretary Dick Cheney tried repeatedly to cancel the programme in the early 1990s; Congress restored the funding each time. The result was an unusually long gestation - eighteen years passed between first flight and the Marine Corps declaring the MV-22B operational. {{ref:wiki-v22}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Each wingtip carries a Rolls-Royce AE 1107C Liberty turboshaft of 6,200 shp inside a nacelle that pivots from vertical to horizontal. An interconnecting drive shaft runs through the wing so that either engine can turn both proprotors if the other fails - the single feature that makes engine-out flight survivable in a machine whose lift comes from two widely separated rotors. {{ref:af-cv22}} {{ref:boeing-v22}} The 38 ft 1 in proprotors are a compromise dictated by geometry: large enough to lift the aircraft's 52,600 lb vertical-takeoff gross weight, small enough to clear the ground once the nacelles rotate forward. {{ref:navair-mv22}} That compromise costs hover efficiency compared with a conventional helicopter of similar weight, and it is why the Osprey is best understood as an aircraft that can hover rather than a fast helicopter. {{ref:boeing-v22}}",
+          "The airframe is built largely from composites and is designed around shipboard stowage: the wing rotates to lie along the fuselage and all six blades fold, shrinking the aircraft from 84 ft 7 in wide with rotors turning to 18 ft 5 in stowed. {{ref:boeing-v22}} Performance sits between the two aircraft categories it borrows from - 305 kn maximum, a 25,000 ft ceiling, a 1,100 nmi operational range, and 2,100 nmi self-deploying with a single aerial refuelling. {{ref:gsec-v22}} It carries 24 seated troops or up to 20,000 lb of internal cargo, with 15,000 lb possible on the dual external hooks. {{ref:gsec-v22}}"
+        ]
+      },
+      {
+        "heading": "Development Troubles & Entry to Service",
+        "paragraphs": [
+          "The year 2000 nearly ended the programme. On 8 April an MV-22B crashed on approach to Marana Northwest Regional Airport in Arizona, killing all 19 Marines aboard, after entering vortex ring state during a rapid descent while operating close to another aircraft. On 11 December a second MV-22B crashed near MCAS New River in North Carolina, killing four, when vibration-induced chafing of a hydraulic line combined with an undiscovered error in the flight control software. {{ref:wiki-v22-accidents}}",
+          "The fleet was grounded and the aircraft substantially reworked: hydraulic lines rerouted and separated, the flight control software rewritten, and the flight envelope redefined with hard descent-rate limits to keep crews clear of vortex ring state. Testing resumed in 2002 and the Marine Corps declared the MV-22B in service on 13 June 2007, deploying it to Iraq later that year. The Air Force fielded the CV-22B for special operations from 2009. {{ref:wiki-v22}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The MV-22B replaced the CH-46E Sea Knight as the Marine Corps' assault transport, roughly doubling the speed and radius of action of the aircraft it succeeded and letting a Marine Expeditionary Unit project force much further from its ships. The CV-22B gave Air Force Special Operations Command a 500 nautical mile combat radius on one internal auxiliary tank, with terrain-following radar for low-level penetration. {{ref:af-cv22}} The Navy's CMV-22B reached initial operating capability in 2021 as the carrier onboard delivery aircraft, replacing the C-2A Greyhound; it is the only aircraft that can fly a complete F-35 power module out to a deployed carrier. {{ref:wiki-v22}}",
+          "Japan's Ground Self-Defense Force is the only export customer, taking 17 aircraft from 2020. Beyond assault and logistics work the type has been used heavily for disaster relief and casualty evacuation, where the combination of a vertical landing and fixed-wing transit speed is its clearest advantage over both helicopters and transport aircraft. {{ref:wiki-v22}}"
+        ]
+      },
+      {
+        "heading": "Drive System Failures & Groundings",
+        "paragraphs": [
+          "On 8 June 2022 an MV-22B crashed near Glamis, California, killing five Marines, after a dual hard clutch engagement caused a catastrophic gearbox failure. On 29 November 2023 a CV-22B of the 353rd Special Operations Wing broke up and fell into the sea off Yakushima, Japan, killing all eight airmen aboard; investigators traced it to a failure of the proprotor gearbox. {{ref:wiki-v22-accidents}} The Air Force, Navy and Japan grounded their entire V-22 fleets in December 2023 - the whole global fleet, from all operators, at once.",
+          "Flying resumed in March 2024 under revised maintenance and training rules rather than any change to the aircraft. In December 2024 NAVAIR ordered every Osprey's proprotor gearbox inspected to establish its accumulated flight hours, after a gearbox-related incident over New Mexico, because the metallurgical weakness is thought to appear early in a gearbox's life - meaning newer components carry more risk than older ones. Navy CMV-22Bs were held within 30 minutes of a landing site, forcing Pacific carrier groups back onto the legacy C-2A. {{ref:usni-prgb}} The engineering fix is a redesigned input quill assembly, the part of the gearbox housing the clutch; the programme manager said in April 2025 that unrestricted operations would not resume until the end of 2026. {{ref:defenseone-2026}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Around 400 Ospreys had been built by 2020 against a programme of record of 458 - 360 MV-22B for the Marine Corps, 56 CV-22B for the Air Force and 44 CMV-22B for the Navy - and the production line is planned to stay open to roughly 2026. {{ref:wiki-v22}} The safety record stood at 16 hull losses and 62 fatalities by November 2023, a figure that includes the two 2000 crashes and both drive-system accidents. {{ref:wiki-v22-accidents}}",
+          "The type has no direct successor. The Army, which left the programme in 1988, has selected the Bell V-280 Valor - a tiltrotor whose engines stay horizontal while only the rotors tilt, avoiding much of the mechanical complexity that has troubled the Osprey - but that is a replacement for the UH-60, not the V-22. {{ref:wiki-v22}} The Osprey's own future therefore depends on the gearbox redesign working: the capability it provides is genuinely unmatched, and there is nothing else in the inventory that does the job."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "af-cv22",
+      "name": "CV-22 Osprey Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104531/cv-22-osprey/"
+    },
+    {
+      "id": "boeing-v22",
+      "name": "V-22 Osprey",
+      "publisher": "Boeing",
+      "url": "https://www.boeing.com/defense/v-22-osprey"
+    },
+    {
+      "id": "navair-mv22",
+      "name": "MV-22B Osprey",
+      "publisher": "Naval Air Systems Command",
+      "url": "https://www.navair.navy.mil/product/MV-22B-Osprey"
+    },
+    {
+      "id": "gsec-v22",
+      "name": "V-22 Osprey - Specifications",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/v-22-specs.htm"
+    },
+    {
+      "id": "wiki-v22",
+      "name": "Bell Boeing V-22 Osprey",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey"
+    },
+    {
+      "id": "wiki-v22-accidents",
+      "name": "Accidents and incidents involving the V-22 Osprey",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    },
+    {
+      "id": "usni-prgb",
+      "name": "NAVAIR Issues New V-22 Flight Restrictions Over Gear Box Concerns",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2024/12/20/navair-issues-new-v-22-flight-restrictions-over-gear-box-concerns"
+    },
+    {
+      "id": "defenseone-2026",
+      "name": "Ospreys won't return to full flight operations until 2026",
+      "publisher": "Defense One",
+      "url": "https://www.defenseone.com/defense-systems/2025/04/ospreys-wont-return-full-flight-operations-until-2026/404966/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "U.S. Air Force - CV-22 Osprey Fact Sheet",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104531/cv-22-osprey/"
+    },
+    {
+      "name": "NAVAIR - MV-22B Osprey",
+      "url": "https://www.navair.navy.mil/product/MV-22B-Osprey"
+    },
+    {
+      "name": "Congressional Research Service - V-22 Osprey Aircraft: Background and Issues for Congress",
+      "url": "https://www.congress.gov/crs-product/R48703"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1992-07-20",
+      "title": "Prototype crash into the Potomac at Quantico",
+      "tag": "Engine fire",
+      "summary": "The fourth full-scale development aircraft caught fire and fell into the Potomac River on approach to Marine Corps Base Quantico, killing all seven aboard. Flammable fluid had collected in the right nacelle and ignited, causing the right engine to fail.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    },
+    {
+      "date": "2000-04-08",
+      "title": "Marana crash - vortex ring state",
+      "tag": "Loss of control",
+      "summary": "An MV-22B descended into vortex ring state on approach to Marana Northwest Regional Airport, Arizona, and crashed, killing all 19 Marines on board. The descent rate exceeded the aircraft's limits while operating in close proximity to another Osprey. It remains the deadliest accident in the programme's history.",
+      "fatalities": 19,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    },
+    {
+      "date": "2000-12-11",
+      "title": "New River crash - hydraulic line and software fault",
+      "tag": "Systems failure",
+      "summary": "An MV-22B crashed near MCAS New River, North Carolina, killing all four aboard, after vibration-induced chafing burst a hydraulic line and an undiscovered flight-control software error compounded the failure. The fleet was grounded and substantially reworked.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    },
+    {
+      "date": "2015-05-17",
+      "title": "Bellows Air Force Station hard landing",
+      "tag": "Engine failure",
+      "summary": "An MV-22B suffered a hard landing during a training exercise at Bellows Air Force Station on Oahu, Hawaii, killing two Marines, after the right engine ingested dust while operating in a brownout environment.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    },
+    {
+      "date": "2017-08-05",
+      "title": "Shoalwater Bay shipboard collision",
+      "tag": "Collision",
+      "summary": "An MV-22B struck the amphibious transport dock USS Green Bay during flight operations off Shoalwater Bay, Australia, and went into the sea. Three Marines were killed.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    },
+    {
+      "date": "2022-03-18",
+      "title": "Gratadalen crash, Norway",
+      "tag": "Loss of control",
+      "summary": "An MV-22B crashed in the Gratadalen valley in Beiarn, Norway, during NATO exercise Cold Response, killing all four Marines aboard. Investigators attributed it to low-altitude steep-bank manoeuvring outside the aircraft's normal operating envelope.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    },
+    {
+      "date": "2022-06-08",
+      "title": "Glamis crash - dual hard clutch engagement",
+      "tag": "Drive system failure",
+      "summary": "An MV-22B crashed near Glamis, California, killing five Marines. A dual hard clutch engagement caused a catastrophic failure of the aircraft's gearbox. The event drove the redesign of the input quill assembly that houses the clutch.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    },
+    {
+      "date": "2023-08-27",
+      "title": "Melville Island crash, Australia",
+      "tag": "Crash",
+      "summary": "An MV-22B crashed on Melville Island in Australia's Northern Territory during exercise Predators Run, killing three Marines and injuring several more.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    },
+    {
+      "date": "2023-11-29",
+      "title": "Yakushima crash - proprotor gearbox failure",
+      "tag": "Drive system failure",
+      "summary": "A CV-22B of the 353rd Special Operations Wing broke up over the East China Sea off Yakushima, Japan, killing all eight airmen aboard. Investigators traced the accident to a failure of the proprotor gearbox, which led the U.S. and Japan to ground every V-22 in December 2023 and to impose the flight restrictions still in force.",
+      "fatalities": 8,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_V-22_Osprey"
+    }
+  ]
+}

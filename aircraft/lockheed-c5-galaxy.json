@@ -1,0 +1,320 @@
+{
+  "name": "C-5 Galaxy",
+  "fullName": "Lockheed C-5 Galaxy",
+  "manufacturer": "Lockheed",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Strategic Heavy Airlifter",
+  "tagline": "The Lockheed C-5 Galaxy is a four-engine strategic airlifter built for the United States Air Force and the largest aircraft in American military service. It can carry 281,000 lb of cargo through nose and tail doors that open the full width of a 143-foot hold, and 52 upgraded C-5Ms remain in service more than fifty years after the type entered it.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "Boeing lost the contest that produced the C-5, then reused its losing design's raised cockpit and nose cargo door to build the 747 - the airlifter competition it lost created the airliner that defined the next fifty years.",
+    "During the 1973 airlift to Israel, C-5s flew just 145 of 567 missions but carried 48 percent of the tonnage, because they were the only aircraft that could take an M60 tank or a CH-53 helicopter.",
+    "The aircraft kneels: the landing gear lowers the cargo deck to truck-bed height, and its 28 wheels spread 840,000 lb across paved or bare earth.",
+    "In September 2009 a C-5M set 41 aviation records in a single programme, including lifting 176,610 lb above 41,100 ft in under 24 minutes.",
+    "The programme's $1 billion overrun was the first of its size in US defence procurement and got the Pentagon's Total Package Procurement policy abandoned; the official who testified about it to Congress, Ernest Fitzgerald, was pushed out of his job.",
+    "Readiness has never matched the ambition - the C-5's mission-capable rate had fallen to 37 percent by 2026, against a modernisation target of 75 percent, and the fleet is now scheduled to fly to 2050."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the C-5M Super Galaxy, the re-engined and re-avionicked standard all 52 surviving aircraft were rebuilt to between 2009 and 2018.",
+    "maxSpeed": {
+      "mph": 532,
+      "text": "462 kn (532 mph / 856 km/h)"
+    },
+    "cruiseSpeed": "520 mph (830 km/h) at Mach 0.77",
+    "range": {
+      "miles": 5524,
+      "text": "5,524 mi (8,890 km, 4,800 nmi) with a 120,000 lb payload; 8,100 mi (13,000 km) ferry range empty"
+    },
+    "serviceCeiling": {
+      "ft": 41000,
+      "text": "41,000 ft (12,500 m) at 750,000 lb"
+    },
+    "wingspan": {
+      "ft": 222.75,
+      "text": "222 ft 9 in (67.89 m)"
+    },
+    "length": {
+      "ft": 247.8,
+      "text": "247 ft 10 in (75.3 m)"
+    },
+    "height": {
+      "ft": 65.1,
+      "text": "65 ft 1 in (19.84 m)"
+    },
+    "weight": "empty: 380,000 lb (172,365 kg); MTOW: 840,000 lb (381,000 kg)",
+    "engines": "Four General Electric F138-GE-100 (CF6-80C2) turbofans, 51,250 lbf (228 kN) each; the original C-5A/B used four General Electric TF39 turbofans of 43,000 lbf (191 kN)",
+    "armament": "None - the C-5 is unarmed, carrying defensive countermeasures only",
+    "crew": "7 (pilot, co-pilot, two flight engineers and three loadmasters)",
+    "capacity": "281,001 lb (127,460 kg) maximum payload; 36 pallet positions in a hold 143 ft 9 in long, 19 ft wide and 13 ft 6 in high, loaded through full-width nose and aft doors",
+    "firstFlight": {
+      "date": "1968-06-30",
+      "year": 1968
+    },
+    "serviceEntryDate": "1970-06-17",
+    "retiredDate": null,
+    "numberBuilt": 131,
+    "unitCost": {
+      "usd": 179000000,
+      "text": "$179M (C-5B, fiscal 1998 constant dollars; the C-5A was costed at $152.8M on the same basis) - roughly $367M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$367M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "C-5A",
+      "desc": "The original production aircraft, 81 delivered between 1969 and 1973 with TF39 turbofans of 43,000 lbf. It carried the programme's structural failure: static testing showed the wing failing at 128 percent of limit load against a 150 percent requirement, and the fleet flew for years under payload and fatigue restrictions until it could be re-winged. The type nonetheless flew the Vietnam withdrawal, Operation Nickel Grass and Desert Shield."
+    },
+    {
+      "code": "C-5B",
+      "desc": "Fifty aircraft delivered between 1986 and 1989, incorporating every fix developed for the C-5A from the outset - the redesigned wing in the new aluminium alloy, simplified landing gear, uprated TF39-GE-1C engines and updated avionics. Built after the re-winging programme had proved the design, the B model was the version the C-5 should have been in 1969 and formed the healthier half of the fleet."
+    },
+    {
+      "code": "C-5C",
+      "desc": "Two C-5As, 68-0213 and 68-0216, rebuilt after major accidents to carry outsize space hardware. The rear passenger compartment floor was removed, the aft cargo door split and a movable rear bulkhead fitted, lengthening the usable hold for satellites and launch components. Both are flown by Air Force crews on Department of Defense and NASA spacecraft programmes and are based at Travis AFB."
+    },
+    {
+      "code": "C-5M Super Galaxy",
+      "desc": "Not new-build aircraft but the rebuild of 52 survivors under two programmes: the Avionics Modernization Program from 1998, which fitted glass displays, a new autopilot and Global Air Traffic Management compliance, and the Reliability Enhancement and Re-engining Program from 2006, which replaced the TF39 with the commercial-derived F138. The new engines gave 22 percent more thrust, a 30 percent shorter take-off run and a 38 percent better climb rate. The last conversion was delivered in August 2018."
+    }
+  ],
+  "operators": [
+    {
+      "name": "US Air Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "1970",
+      "fleetSize": "52 C-5Ms of 131 built; never exported, and the only heavy airlifter in the US inventory able to carry outsize loads",
+      "homeBase": "Travis AFB, California and Dover AFB, Delaware",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "Air Force Reserve Command",
+      "role": "Reserve Operator",
+      "status": "In Service",
+      "since": "1980s",
+      "fleetSize": "Two wings fly the type - the 433rd Airlift Wing at Kelly Field, Texas and the 439th Airlift Wing at Westover ARB, Massachusetts",
+      "homeBase": "Kelly Field, Texas and Westover ARB, Massachusetts"
+    },
+    {
+      "name": "NASA",
+      "role": "Spacecraft Transport User",
+      "status": "In Service",
+      "since": "1989",
+      "fleetSize": "Two specially rebuilt C-5Cs, flown by Air Force crews, carry satellites and launch hardware for NASA and DoD space programmes",
+      "homeBase": "Travis AFB, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "C5M",
+    "howToFind": "Filter on the type code C5M and watch the transatlantic and transpacific tracks out of Dover AFB (DOV) and Travis AFB (SUU), the two main operating bases. Military callsigns are usually RCH (Reach). Aircraft often squawk with ADS-B enabled on routine logistics runs but go dark on operational missions, so sightings are intermittent rather than scheduled."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created - full article, specifications, variants, operators and incident log written from US Air Force fact sheets, Wikipedia, The War Zone and Air & Space Forces Magazine.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "c-5",
+    "c5",
+    "c-5m",
+    "galaxy",
+    "super galaxy",
+    "c-5a",
+    "c-5b",
+    "strategic airlift",
+    "outsize cargo",
+    "heavy lifter",
+    "fred",
+    "air mobility command",
+    "military"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed C-5 Galaxy is a four-engine strategic airlifter built for the United States Air Force, and the largest aircraft ever to enter American military service. It first flew on 30 June 1968 and entered service on 17 June 1970; 131 were built, and 52 remain in service as the upgraded C-5M Super Galaxy.{{ref:wiki-c5}}{{ref:af-c5}}",
+      "It exists to move what nothing else can: a hold 143 feet long with doors at both ends, carrying 281,000 lb of tanks, helicopters or satellites. That capability came at a price - the programme produced the first billion-dollar cost overrun in US defence procurement, and a wing that failed structural testing before the aircraft had finished delivery.{{ref:af-c5}}{{ref:wiki-c5}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The 1964 CX-HLS requirement asked for an aircraft that could carry outsize army equipment across an ocean, and Boeing, Douglas and Lockheed all bid. The Air Force judged Boeing's design the better aircraft; Lockheed's was the cheaper bid, and under the Total Package Procurement policy then in force, cost decided it. Lockheed was selected in September 1965 and contracted that December.{{ref:wiki-c5}}",
+          "The losing entry mattered more than the winning one. Boeing took its CX-HLS design's raised flight-deck pod and full-width nose cargo door, applied them to a commercial airframe, and produced the 747 - 1,574 of which were built before the line closed in 2022. The competition that gave the Air Force its heavy airlifter also gave civil aviation its first wide-body, and the 747's distinctive hump is a direct inheritance from a military freighter that was never built.{{ref:wiki-c5}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Everything about the C-5 is arranged around loading it quickly. The nose visor hinges upward and the aft doors open the full width and height of the hold, so vehicles drive in one end and out the other and ground crews can work both ends simultaneously. The landing gear kneels, lowering the cargo deck to the height of a truck bed, and spreads the aircraft's 840,000 lb across five sets of gear and 28 wheels so it can use unpaved surfaces. The hold takes 36 pallets or a double row of vehicles, and it is sized for a specific job: the C-5 is the only aircraft able to carry every item of US Army combat equipment, including the 74-ton mobile scissors bridge that fits in nothing else.{{ref:af-c5}}{{ref:amc-c5}}{{ref:fas-c5}} That is the distinction the Air Force draws between oversize cargo, which several aircraft can move, and outsize cargo, which in American service means the C-5 or nothing.",
+          "The original TF39 engine was as significant as the airframe. It was the first high-bypass turbofan to enter service, developed by General Electric for this aircraft, and its commercial descendant the CF6 went on to power the 747, the DC-10 and the A300. The C-5M's F138 is itself a CF6-80C2 derivative, which means the aircraft's current engines are the grandchildren of the ones designed for it sixty years ago.{{ref:wiki-c5}}"
+        ]
+      },
+      {
+        "heading": "Cost Overruns and the Wing Crisis",
+        "paragraphs": [
+          "The programme ran a $1 billion overrun, the first of that scale in American defence procurement, and prompted congressional investigations in 1968 and 1969. Ernest Fitzgerald, Deputy Assistant Secretary of the Air Force for Management Systems, gave Congress the figures and lost his job for it. The Department of Defense abandoned Total Package Procurement - the policy that had awarded Lockheed the contract on price - and in 1971 the federal government had to guarantee loans to keep Lockheed solvent, the C-5 and the civil L-1011 having between them exhausted the company.{{ref:wiki-c5}}",
+          "The engineering was worse than the accounting. In July 1969, with aircraft already being delivered, a fuselage upbending test failed the wing at 128 percent of limit load against a requirement of 150 percent, and cracks appeared in service airframes. The fleet flew under payload and fatigue restrictions for a decade until a $1.5 billion programme re-winged 76 C-5As between 1980 and 1987, using an aluminium alloy that had not existed when the aircraft was designed.{{ref:wiki-c5}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Operation Nickel Grass in October 1973 demonstrated what the type was for. Resupplying Israel during the Yom Kippur War, C-5s flew 145 of the 567 airlift missions but carried 48 percent of the tonnage, because they were the only aircraft in the inventory that could swallow an M60 Patton tank, an M109 howitzer or a CH-53 helicopter.{{ref:wiki-nickelgrass}} The same disproportion has held ever since: the C-5 flies fewer sorties than the C-17 and carries the loads nothing else will take. The Gulf War was the largest test - between August 1990 and the end of Desert Storm the American transport fleet moved almost half a million passengers and more than 577,000 tons of cargo - and it cost an aircraft, when a thrust reverser deployed just after lift-off from Ramstein on a resupply run to Saudi Arabia and killed 13 of the 17 people aboard.{{ref:fas-c5}}{{ref:baaa-ramstein}}",
+          "Its worst day came on 4 April 1975, when C-5A 68-0218 lost its rear cargo door locks in flight during Operation Babylift, evacuating orphans from Saigon. Explosive decompression severed the tail control cables and destroyed two of four hydraulic systems; the crew flew a controlled descent back towards Tan Son Nhut but the aircraft struck a rice paddy and broke up, killing 138 of the 314 aboard, 78 of them children. Investigators found door locks cannibalised from other C-5s and improperly refitted, and a crew that had struggled to close the doors before departure and launched anyway.{{ref:wiki-babylift}}"
+        ]
+      },
+      {
+        "heading": "The C-5M Super Galaxy",
+        "paragraphs": [
+          "Two overlapping programmes rebuilt the surviving fleet. The Avionics Modernization Program, begun in 1998, fitted flat-panel displays, a new autopilot, updated navigation and safety equipment and compliance with Global Air Traffic Management rules. The Reliability Enhancement and Re-engining Program followed in 2006, replacing the TF39 with the General Electric F138 along with new pylons, auxiliary power units, landing gear and pressurisation systems.{{ref:wiki-c5}} It did not go smoothly: the Air Force notified Congress in September 2007 that re-engining had breached Nunn-McCurdy cost limits on both unit-cost measures, and the restructuring that followed cut the programme from a fleet-wide conversion to 52 aircraft, with the unconverted C-5As retired instead.{{ref:gs-c5m}} That is why 131 were built and 52 fly.",
+          "The gains were substantial: 22 percent more thrust, a 30 percent shorter take-off run, a 38 percent higher climb rate and more payload over greater distance. A C-5M set 41 aviation records in a single September 2009 programme, among them carrying 176,610 lb above 41,100 ft in 23 minutes 59 seconds. The last of 52 conversions was delivered to Air Mobility Command in August 2018.{{ref:wiki-c5}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "All 52 aircraft now fly as C-5Ms, operated by the 60th Air Mobility Wing at Travis AFB and the 436th Airlift Wing at Dover AFB alongside Air Force Reserve wings at Kelly Field and Westover. Two C-5Cs at Travis carry satellites and launch hardware for NASA and Department of Defense space programmes.{{ref:wiki-c5}} In 2026 the Air Force extended the fleet's planned service life to fiscal 2050, by which point the youngest airframe will be 61 years old.{{ref:twz-2050}}",
+          "Readiness remains the type's unresolved problem. The AMP and RERP upgrades were justified partly on raising the mission-capable rate to at least 75 percent; by 2026 the Air Force Chief of Staff was telling Congress it had fallen to 37 percent, with spare parts shortages the principal cause.{{ref:twz-2050}}{{ref:asf-parts}} The C-5 remains the only American aircraft that can carry the heaviest outsize loads, which is precisely why an aircraft this hard to keep flying is being kept flying for another quarter-century.{{ref:twz-2050}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-c5",
+      "name": "Lockheed C-5 Galaxy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_C-5_Galaxy"
+    },
+    {
+      "id": "af-c5",
+      "name": "C-5 A/B/C Galaxy and C-5M Super Galaxy fact sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/1529718/c-5-abc-galaxy-and-c-5m-super-galaxy/"
+    },
+    {
+      "id": "amc-c5",
+      "name": "C-5 A/B/C Galaxy and C-5M Super Galaxy",
+      "publisher": "Air Mobility Command",
+      "url": "https://www.amc.af.mil/About-Us/Fact-Sheets/Display/Article/977534/c-5-abc-galaxy-and-c-5m-super-galaxy/"
+    },
+    {
+      "id": "wiki-nickelgrass",
+      "name": "Operation Nickel Grass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Nickel_Grass"
+    },
+    {
+      "id": "wiki-babylift",
+      "name": "1975 Tan Son Nhut C-5 accident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1975_Tan_Son_Nhut_C-5_accident"
+    },
+    {
+      "id": "twz-2050",
+      "name": "C-5 Galaxies Now Slated To Keep Flying Until 2050 As Readiness Plummets To 37 Percent",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/c-5-galaxies-now-slated-to-keep-flying-until-2050-as-readiness-plummets-to-37-percent"
+    },
+    {
+      "id": "asf-parts",
+      "name": "Lack of Parts Hurting C-5 Galaxy Mission Capable Rate",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/c-5-mission-capable-rate-parts-upgrades/"
+    },
+    {
+      "id": "fas-c5",
+      "name": "C-5A/B Galaxy",
+      "publisher": "Federation of American Scientists",
+      "url": "https://man.fas.org/dod-101/sys/ac/c-5.htm"
+    },
+    {
+      "id": "baaa-ramstein",
+      "name": "Crash of a Lockheed C-5A Galaxy at Ramstein AFB",
+      "publisher": "Bureau of Aircraft Accidents Archives",
+      "url": "https://www.baaa-acro.com/crash/crash-lockheed-c-5a-galaxy-ramstein-afb-13-killed"
+    },
+    {
+      "id": "gs-c5m",
+      "name": "C-5M Super Galaxy",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/c-5m.htm"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "C-5M Super Galaxy - Travis Air Force Base fact sheet",
+      "url": "https://www.travis.af.mil/Units/Fact-Sheets/Article/1207790/c-5-abc-galaxy-and-c-5m-super-galaxy/"
+    },
+    {
+      "name": "Operation Nickel Grass - Air Mobility Command Museum",
+      "url": "https://www.amcmuseum.org/history/operation-nickel-grass/"
+    },
+    {
+      "name": "Saving the Galaxy: The C-5 AMP/RERP Program",
+      "url": "https://www.defenseindustrydaily.com/saving-the-galaxy-the-c-5-amprerp-program-03938/"
+    },
+    {
+      "name": "17 Airmen survive Dover C-5 crash",
+      "url": "https://www.af.mil/News/Article-Display/Article/131447/17-airmen-survive-dover-c-5-crash/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1975-04-04",
+      "title": "Operation Babylift crash at Tan Son Nhut",
+      "tag": "Cargo door failure",
+      "summary": "C-5A 68-0218 suffered rear cargo door lock failure and explosive decompression while evacuating orphans from Saigon, severing the tail control cables and disabling two of four hydraulic systems. The crew flew a controlled descent back towards Tan Son Nhut but the aircraft touched down in a rice paddy and broke up. Investigators found door locks cannibalised from other aircraft and improperly refitted. It remains the deadliest C-5 accident.",
+      "fatalities": 138,
+      "source": "https://en.wikipedia.org/wiki/1975_Tan_Son_Nhut_C-5_accident"
+    },
+    {
+      "date": "1983-07-31",
+      "title": "Landing accident at Shemya in fog",
+      "tag": "Landing accident",
+      "summary": "C-5A 70-0446 crashed while landing in heavy fog at Shemya Air Force Base in the Aleutians. Nobody was killed, and the aircraft was repaired and returned to service.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_C-5_Galaxy"
+    },
+    {
+      "date": "1990-08-29",
+      "title": "Thrust reverser deployment at Ramstein",
+      "tag": "Loss of control after takeoff",
+      "summary": "C-5A 68-0228, carrying supplies to Saudi Arabia for Operation Desert Shield, suffered an inadvertent deployment of the number one engine thrust reverser shortly after lift-off from Ramstein Air Base. The aircraft stopped climbing at 50 to 100 feet, rolled left, struck trees and crashed. Thirteen of the 17 aboard were killed, including all eight crew.",
+      "fatalities": 13,
+      "source": "https://www.baaa-acro.com/crash/crash-lockheed-c-5a-galaxy-ramstein-afb-13-killed"
+    },
+    {
+      "date": "2006-04-03",
+      "title": "Crash short of the runway at Dover",
+      "tag": "Crew error",
+      "summary": "A C-5B of the 436th Airlift Wing crashed near Dover Air Force Base after an in-flight emergency, breaking apart on impact. All 17 aboard survived, several with serious injuries, in what investigators credited to a wings-level touchdown. The accident board found the crew had not properly configured and manoeuvred the aircraft.",
+      "fatalities": 0,
+      "source": "https://www.af.mil/News/Article-Display/Article/131447/17-airmen-survive-dover-c-5-crash/"
+    },
+    {
+      "date": "2009-09-13",
+      "title": "C-5M sets 41 aviation records",
+      "tag": "Record flight",
+      "summary": "A newly converted C-5M Super Galaxy set 41 records in a single programme of flights, including carrying a 176,610 lb payload above 41,100 ft in 23 minutes 59 seconds and taking the world record for greatest payload lifted to 6,562 ft.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_C-5_Galaxy"
+    },
+    {
+      "date": "2018-08-01",
+      "title": "Final C-5M conversion delivered",
+      "tag": "Programme milestone",
+      "summary": "The last of 52 aircraft rebuilt under the Avionics Modernization and Reliability Enhancement and Re-engining programmes was delivered to Air Mobility Command, completing the conversion of the surviving fleet to C-5M standard.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_C-5_Galaxy"
+    }
+  ]
+}

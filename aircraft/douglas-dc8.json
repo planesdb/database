@@ -1,0 +1,408 @@
+{
+  "name": "DC-8",
+  "fullName": "Douglas DC-8",
+  "manufacturer": "Douglas Aircraft Company",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Narrow-Body Jet Airliner",
+  "tagline": "The Douglas DC-8 is a four-engine, narrow-body jet airliner built from 1958 to 1972 as Douglas's answer to the Boeing 707. It lost the sales race - 556 were built against the 707's 1,010 - but outlived its rival in service, because a 1970s re-engining programme turned the stretched Super Sixties into quiet, efficient freighters that were still hauling cargo more than sixty years after the type first flew.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "On 21 August 1961 a DC-8-43 reached Mach 1.012 in a controlled dive from 41,088 ft, making it the first civil jet airliner to go supersonic - with Chuck Yeager flying one of the chase planes.",
+    "Pan Am ordered 20 Boeing 707s and 25 DC-8s on the same day in October 1955, splitting its jet order between the two rivals rather than choosing one.",
+    "Douglas offered only a single fuselage length for years while Boeing tailored the 707 and 720 to each customer - a refusal that cost it the sales race and nearly killed the programme before the stretched Super Sixties arrived.",
+    "The DC-8-61 and -63 seated up to 269 passengers, the largest capacity of any airliner until the Boeing 747 arrived in 1970.",
+    "Re-engining with the CFM56 made the Super Seventies about 70 percent quieter than the Super Sixties and up to 25 percent more fuel-efficient - the change that gave the type a second career in cargo.",
+    "The three-crew flight deck is a large part of why the DC-8 disappeared from passenger service: it needed a flight engineer long after two-pilot cockpits had become the industry standard."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the DC-8-73, the CFM56-powered Super Seventy conversion of the stretched Series 63. Figures vary considerably across the type's ten production series.",
+    "maxSpeed": {
+      "mph": 562,
+      "text": "488 kn (562 mph / 904 km/h)"
+    },
+    "cruiseSpeed": "556 mph (895 km/h) at Mach 0.82",
+    "range": {
+      "miles": 5200,
+      "text": "5,200 mi (8,300 km, 4,500 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 42000,
+      "text": "42,000 ft (12,800 m)"
+    },
+    "wingspan": {
+      "ft": 148.4,
+      "text": "148 ft 5 in (45.2 m)"
+    },
+    "length": {
+      "ft": 187.4,
+      "text": "187 ft 4 in (57.1 m)"
+    },
+    "height": {
+      "ft": 43,
+      "text": "43 ft 0 in (13.1 m)"
+    },
+    "weight": "empty: 166,200 lb (75,400 kg); MTOW: 355,000 lb (161,000 kg)",
+    "engines": "Four CFM International CFM56-2 high-bypass turbofans, 22,000 lbf (97.9 kN) each; originally four Pratt & Whitney JT3D-7 turbofans of 19,000 lbf (84.5 kN)",
+    "crew": "3 (captain, first officer, flight engineer)",
+    "capacity": "189-259 passengers in airline configuration; freighter conversions carry up to roughly 71,900 lb (32,600 kg) of payload through a forward main-deck cargo door",
+    "firstFlight": {
+      "date": "1958-05-30",
+      "year": 1958
+    },
+    "serviceEntryDate": "1959-09-18",
+    "retiredDate": null,
+    "numberBuilt": 556,
+    "unitCost": {
+      "usd": 5460000,
+      "text": "$5.46M (early 1958, domestic-range aircraft) - roughly $63M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$63M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "DC-8-10 / -20",
+      "desc": "The original domestic aircraft. The Series 10 flew on Pratt & Whitney JT3C turbojets with water injection and was limited to US domestic sectors; the Series 20 fitted more powerful JT4A turbojets for hot-and-high airfields such as Denver and Mexico City. Both were thirsty and noisy by later standards, and most were later converted to turbofan power. Delta and United put the Series 10 into service on the same day in September 1959."
+    },
+    {
+      "code": "DC-8-30 / -40",
+      "desc": "The first intercontinental versions, with higher fuel capacity and strengthened structure for transatlantic sectors. The Series 30 used JT4A turbojets; the Series 40 substituted Rolls-Royce Conway turbofans, making it the first DC-8 with a bypass engine and the version bought by Canadian Pacific, Alitalia and Trans-Canada. A Series 43 became the first civil airliner to exceed Mach 1, in a deliberate dive in August 1961."
+    },
+    {
+      "code": "DC-8-50",
+      "desc": "The definitive short-fuselage model, powered by Pratt & Whitney JT3D turbofans that cut fuel burn and noise sharply against the earlier turbojets. It sold to airlines worldwide and introduced the Jet Trader freighter and convertible passenger-cargo layouts from 1962, with a large forward main-deck door and a reinforced floor - the configuration that defined the type's later life."
+    },
+    {
+      "code": "DC-8-61",
+      "desc": "The first of the Super Sixties, announced in April 1965 and stretched 36 ft (11 m) over the original fuselage for up to 269 seats - the highest-capacity airliner available until the Boeing 747. It kept the original wing and JT3D engines, so range fell, making it a high-density domestic aircraft rather than a long-haul one. United was the launch customer and later the largest operator."
+    },
+    {
+      "code": "DC-8-62",
+      "desc": "The long-range Super Sixty, stretched only 6 ft 8 in over the original but given a cleaned-up wing with extended span, redesigned engine pylons and greater fuel capacity. Range rose to about 6,000 mi (9,600 km), the greatest of any DC-8 and enough for routes such as Scandinavia to the US West Coast over the pole. It is generally regarded as the most aerodynamically refined member of the family."
+    },
+    {
+      "code": "DC-8-63",
+      "desc": "The combination model: the Series 61's stretched fuselage married to the Series 62's improved wing, pylons and fuel capacity, with 19,000 lbf JT3D-7 engines. It carried the most payload the furthest of any DC-8 and became the definitive freighter airframe; 107 were built in passenger, convertible and pure-freight configurations. Its 355,000 lb maximum takeoff weight was the highest of the family."
+    },
+    {
+      "code": "DC-8-71 / -72 / -73 (Super Seventy)",
+      "desc": "Not new-build aircraft but a retrofit, offered from 1975 and managed by Cammacorp after 1977 to meet US Stage 3 noise rules. Four CFM56-2 turbofans replaced the JT3Ds, cutting noise by roughly 70 percent and fuel burn by 18-25 percent; the -71, -72 and -73 correspond to converted -61, -62 and -63 airframes. 110 aircraft were converted before the programme closed in 1986, and these are the only DC-8s still flying."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United Airlines",
+      "role": "Largest Passenger Operator",
+      "status": "Retired",
+      "since": "1959",
+      "fleetSize": "Launch operator; later converted 29 of its Series 61s to CFM56-powered Series 71s in a programme reported at $400 million",
+      "homeBase": "Chicago O'Hare International Airport - Illinois"
+    },
+    {
+      "name": "Delta Air Lines",
+      "role": "Launch Operator",
+      "status": "Retired",
+      "since": "1959",
+      "fleetSize": "Flew the first DC-8 revenue service on 18 September 1959, the same day as United; also performed Series 70 conversion work",
+      "homeBase": "Hartsfield-Jackson Atlanta International Airport - Georgia"
+    },
+    {
+      "name": "UPS Airlines",
+      "role": "Largest Cargo Operator",
+      "status": "Retired",
+      "since": "1980s",
+      "fleetSize": "Operated converted Super 71 and Super 73 freighters as the backbone of its overnight network before retiring the fleet",
+      "homeBase": "Louisville Muhammad Ali International Airport - Kentucky"
+    },
+    {
+      "name": "Trans Air Cargo Service",
+      "role": "Last Commercial Operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "Believed to be one of only two DC-8s left in commercial service worldwide; its DC-8-73CF 9S-AJO ran off the runway at Kinshasa in September 2026",
+      "homeBase": "N'Djili International Airport, Kinshasa - DR Congo"
+    },
+    {
+      "name": "NASA",
+      "role": "Airborne Science Laboratory",
+      "status": "Retired",
+      "since": "1987",
+      "fleetSize": "One DC-8-72 (N817NA), flown for 37 years on atmospheric and Earth-science research before its final flight on 15 May 2024",
+      "homeBase": "Armstrong Flight Research Center, Palmdale - California"
+    },
+    {
+      "name": "Samaritan's Purse",
+      "role": "Humanitarian Operator",
+      "status": "Retired",
+      "since": "2016",
+      "fleetSize": "One 1968-built DC-8 (N782SP), the last US-registered example; retired after its 219th mission on 6 December 2025 and preserved at Lynchburg, Virginia",
+      "homeBase": "Greensboro, North Carolina"
+    },
+    {
+      "name": "Air Canada",
+      "role": "Passenger & Cargo Operator",
+      "status": "Retired",
+      "since": "1960",
+      "fleetSize": "Flew the type from 1960 and later ran Series 73 freighters with Air Canada Cargo; also carried out Super Seventy conversion work",
+      "homeBase": "Montreal-Trudeau International Airport - Quebec"
+    },
+    {
+      "name": "Lufthansa",
+      "role": "European Launch Customer",
+      "status": "Retired",
+      "since": "1960",
+      "fleetSize": "An early intercontinental customer, using the DC-8 to open its long-haul jet network",
+      "homeBase": "Frankfurt Airport - Germany"
+    },
+    {
+      "name": "Air France",
+      "role": "Passenger Operator",
+      "status": "Retired",
+      "since": "1960",
+      "fleetSize": "Operated the type on long-haul routes through the 1960s and 1970s",
+      "homeBase": "Paris Orly Airport - France"
+    },
+    {
+      "name": "~40 other airlines and cargo carriers",
+      "role": "Passenger & Freight Operators",
+      "status": "Retired",
+      "since": "1959",
+      "fleetSize": "556 built in total; KLM, SAS, Eastern, Japan Air Lines, Pan Am, Flying Tiger Line, FedEx Express and Arrow Air among them. Around 200 were still in commercial service in 2002, almost all as freighters",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "DC87 (Super Seventy); DC86 for surviving Series 62/63 airframes",
+    "howToFind": "Extremely difficult - with only a handful left worldwide, there is often no DC-8 airborne at all. Set an alert on the ICAO type code DC87 rather than watching live, and focus on central African cargo networks around Kinshasa (FIH) and Lubumbashi, where Trans Air Cargo Service operates. The retired NASA and Samaritan's Purse airframes no longer fly and will not appear."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created - full article, specifications, variants and incident log written from Wikipedia, FlightGlobal, NASA, The War Zone, AirlineGeeks and other named aviation-press sources, prompted by the 8 September 2026 runway excursion at Kinshasa.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Removed the section callout - Overview articles are prose only.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "dc-8",
+    "dc8",
+    "douglas dc-8",
+    "super sixty",
+    "super seventy",
+    "dc-8-63",
+    "dc-8-73",
+    "jet trader",
+    "four engine airliner",
+    "narrow body",
+    "freighter",
+    "cargo",
+    "civilian"
+  ],
+  "article": {
+    "overview": [
+      "The Douglas DC-8 is a four-engine, narrow-body jet airliner built by the Douglas Aircraft Company, and from 1967 by McDonnell Douglas. It first flew on 30 May 1958 and entered service with Delta Air Lines and United Airlines on the same day, 18 September 1959; 556 were built before production ended in 1972.{{ref:wiki-dc8}}",
+      "Launched to challenge the Boeing 707, it lost that contest by a wide margin, but a 1970s programme that replaced its engines with the CFM56 turbofan gave the stretched Super Sixty airframes a second career as freighters. That conversion is why a handful were still flying commercially in 2026, when one of the last examples ran off the runway at Kinshasa.{{ref:wiki-dc8}}{{ref:fg-kinshasa}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Douglas came to jet airliners late and reluctantly. The de Havilland Comet's fatal structural failures in 1954 hardened a company view that the market would move to turboprops first, and Douglas held its position while Boeing developed the 367-80 demonstrator that became the 707. Losing the US Air Force tanker competition to Boeing in May 1954 removed the military launch order that would have underwritten development, and Douglas chose to continue with a commercial design rather than abandon the work. The DC-8 was formally announced on 7 June 1955 against projected development costs of about $450 million.{{ref:wiki-dc8}}",
+          "Pan American World Airways settled the jet age's opening question in October 1955 by refusing to answer it, ordering 20 Boeing 707s and 25 DC-8s simultaneously. Other carriers followed within weeks. Douglas had initially proposed an 80-seat aircraft with five-abreast seating; airline consultation forced the fuselage 15 inches wider for six-abreast, which in turn required a larger wing, bigger tail surfaces and a longer fuselage. The first aircraft rolled out on 9 April 1958 and flew seven weeks later.{{ref:wiki-dc8}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The DC-8 was conventional where the 707 was conventional - swept wing, four podded engines, low tail - but differed in detail in ways that mattered to operators. Its wing used a four-degree greater sweep and a distinctive leading-edge slot rather than slats, and the fuselage was slightly wider than the 707's, giving marginally more cabin room across the same six-abreast layout. The flight deck carried three crew, a captain, first officer and flight engineer, which was standard in 1958 and became the type's commercial liability once two-pilot cockpits arrived.{{ref:wiki-dc8}}",
+          "The airframe proved unusually strong. On 21 August 1961 a DC-8-43 destined for Canadian Pacific was taken to 52,090 ft and put into a controlled dive, reaching Mach 1.012 - 668 mph (1,075 km/h) - at 41,088 ft, making it the first civil jet airliner to exceed the speed of sound. Chuck Yeager flew one of the chase aircraft. The flight was run to gather data on a new leading-edge design rather than as a stunt, and the aircraft was returned to the production line and delivered.{{ref:wiki-dc8}}"
+        ]
+      },
+      {
+        "heading": "The Super Sixties",
+        "paragraphs": [
+          "By 1962 the programme was failing. Douglas had sold 133 DC-8s against Boeing's 150 by early 1958, but where Boeing offered the 707 in several fuselage lengths and added the short-field 720, Douglas offered one size and declined to vary it. Annual sales fell to 26 aircraft. The answer, announced in April 1965, was to stretch rather than shrink: the Series 61 added 36 ft (11 m) of fuselage for up to 269 seats, more than any airliner then flying and a figure not beaten until the Boeing 747 arrived in 1970.{{ref:wiki-dc8}}",
+          "Three Super Sixties followed different needs. The -61 kept the original wing and traded range for capacity, suiting dense domestic routes. The -62 stretched only 6 ft 8 in but gained an extended-span wing, redesigned pylons and more fuel, reaching about 6,000 mi (9,600 km) - the longest-legged DC-8 and the most aerodynamically refined. The -63 combined the -61's fuselage with the -62's wing and 19,000 lbf JT3D-7 engines, lifting maximum takeoff weight to 355,000 lb. Together the three accounted for 262 aircraft, nearly half of all DC-8 production, and rescued a programme that had been close to ending.{{ref:wiki-dc8}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Delta and United began revenue flights on 18 September 1959, and the type spread quickly to Pan Am, Eastern, KLM, SAS, Japan Air Lines, Air Canada, Lufthansa and Air France. Its accident record includes several defining events in air-safety regulation. On 16 December 1960 a United DC-8-11 overshot its clearance limit at excessive speed and collided with a TWA Constellation over New York, killing 128 aboard both aircraft and six people on the ground, and prompting reforms in air traffic control handoffs, distance-measuring equipment and terminal-area speed rules.{{ref:wiki-nyc1960}}",
+          "Two later crashes rank among the worst in the type's history and both turned on organisational failure rather than the aircraft. Arrow Air Flight 1285, a DC-8-63CF carrying US soldiers home from the Sinai, stalled after takeoff from Gander on 12 December 1985 with wing ice and an overloaded airframe, killing all 256 aboard; the disputed investigation led Canada to dissolve its Aviation Safety Board. Nigeria Airways Flight 2120, a Nationair DC-8-61, took off from Jeddah on 11 July 1991 on underinflated tyres that a manager had refused to replace, and burning rubber destroyed the hydraulics after gear retraction, killing all 261 on board - the deadliest DC-8 accident.{{ref:wiki-1285}}{{ref:wiki-2120}}{{ref:wiki-dc8-accidents}}"
+        ]
+      },
+      {
+        "heading": "Re-engining and the Freight Era",
+        "paragraphs": [
+          "In March 1977 Congress set a 1985 deadline for compliance with Stage 3 noise limits, which the JT3D-powered fleet could not meet. Douglas and General Electric had already floated a CFM56 retrofit in 1975; the engineer Jack McGowan founded Cammacorp that year to run the conversion as a separate business, contracting McDonnell Douglas at Long Beach for engineering and spreading the physical work across the Tulsa plant, Delta, Air Canada and UTA Industries. By May 1979 seven airlines had ordered 78 conversions.{{ref:wiki-dc8}}{{ref:ar-dc8}}",
+          "The result made a 1960s airframe economically current. The CFM56-2 cut noise by roughly 70 percent against the Super Sixties and fuel burn by 18 to 25 percent, and 110 aircraft were converted before the programme closed in 1986. Because the -63's combination of payload, range and a main-deck cargo door was already ideal for freight, the converted aircraft went to cargo operators rather than back to passenger service: UPS built its overnight network on Series 71 and 73 freighters, and Flying Tiger Line, FedEx Express, Arrow Air and Air Canada Cargo all flew them. Around 200 DC-8s were still in commercial service in 2002, almost all as freighters.{{ref:wiki-dc8}}{{ref:ar-dc8}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The fleet has now all but disappeared. NASA retired N817NA, a DC-8-72 flown for 37 years as an airborne science laboratory on atmospheric and satellite-verification missions, with a final flight on 15 May 2024 from Palmdale to Idaho State University, where it now trains maintenance technicians.{{ref:twz-nasa}} The last US-registered example, Samaritan's Purse's 1968-built N782SP, flew its 219th and final mission on 6 December 2025, delivering 9,000 shoebox gifts to Jamaica before being preserved at Lynchburg Regional Airport in Virginia; the charity replaced it with a Boeing 767.{{ref:ag-samaritans}}",
+          "That left commercial operation to a small number of African cargo carriers. On 8 September 2026 a Trans Air Cargo Service DC-8-73CF, 9S-AJO, built in 1970 and re-engined with CFM56s, ran off runway 24 while landing at N'Djili International Airport in Kinshasa. The nose gear collapsed and the aircraft came to rest nose-down on unpaved ground; all four crew survived and there were no passengers aboard. The DR Congo's accident investigation authority is examining the circumstances. FlightGlobal reported that the aircraft may have been one of only two DC-8s still in operation anywhere, so if the damage proves uneconomic to repair, the type's commercial life is close to over.{{ref:fg-kinshasa}}{{ref:cavok-kinshasa}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-dc8",
+      "name": "Douglas DC-8",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Douglas_DC-8"
+    },
+    {
+      "id": "wiki-dc8-accidents",
+      "name": "List of accidents and incidents involving the Douglas DC-8",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Douglas_DC-8"
+    },
+    {
+      "id": "fg-kinshasa",
+      "name": "Rare DC-8 freighter suffers runway excursion at Kinshasa",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/ops-safety/2026/09/rare-dc-8-freighter-suffers-runway-excursion-at-kinshasa/"
+    },
+    {
+      "id": "cavok-kinshasa",
+      "name": "Raro DC-8 cargueiro sai da pista durante pouso em Kinshasa",
+      "publisher": "Cavok Brasil",
+      "url": "https://www.cavok.com.br/raro-dc-8-cargueiro-sai-da-pista-durante-pouso-em-kinshasa"
+    },
+    {
+      "id": "twz-nasa",
+      "name": "NASA's DC-8 Flying Lab Flies Into Retirement, Making The Type Nearly Extinct",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/space/nasas-dc-8-flying-lab-flies-into-retirement-making-the-type-nearly-extinct"
+    },
+    {
+      "id": "ag-samaritans",
+      "name": "Fate of Final U.S.-Registered DC-8 Decided",
+      "publisher": "AirlineGeeks",
+      "url": "https://airlinegeeks.com/2025/12/04/fate-of-final-u-s-registered-dc-8-decided/"
+    },
+    {
+      "id": "ar-dc8",
+      "name": "History of the Magnificent DC-8",
+      "publisher": "Airline Ratings",
+      "url": "https://www.airlineratings.com/articles/history-of-the-magnificent-dc-8"
+    },
+    {
+      "id": "wiki-nyc1960",
+      "name": "1960 New York mid-air collision",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1960_New_York_mid-air_collision"
+    },
+    {
+      "id": "wiki-1285",
+      "name": "Arrow Air Flight 1285R",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arrow_Air_Flight_1285R"
+    },
+    {
+      "id": "wiki-2120",
+      "name": "Nigeria Airways Flight 2120",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nigeria_Airways_Flight_2120"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Douglas DC-8 - technical data and variant history",
+      "url": "https://aerocorner.com/aircraft/douglas-dc-8-63/"
+    },
+    {
+      "name": "Japan Air Lines Flight 2 - the DC-8 recovered from San Francisco Bay",
+      "url": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_2"
+    },
+    {
+      "name": "List of Douglas DC-8 operators",
+      "url": "https://en.wikipedia.org/wiki/List_of_Douglas_DC-8_operators"
+    },
+    {
+      "name": "NASA's DC-8 to Fly Low Altitude Over Palmdale, California, for Final Flight",
+      "url": "https://www.nasa.gov/news-release/nasas-dc-8-to-fly-low-altitude-over-pocatello-idaho-for-final-flight/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1960-12-16",
+      "title": "United Airlines Flight 826 mid-air collision over New York",
+      "tag": "Mid-air collision",
+      "summary": "A United DC-8-11 descending toward Idlewild proceeded beyond its clearance limit at excessive speed and struck a TWA Super Constellation. The DC-8 came down in Park Slope, Brooklyn. It was the first fatal DC-8 accident, and led to reforms in air traffic control handoffs, distance-measuring equipment and terminal-area speed limits.",
+      "fatalities": 134,
+      "source": "https://en.wikipedia.org/wiki/1960_New_York_mid-air_collision"
+    },
+    {
+      "date": "1961-08-21",
+      "title": "First supersonic flight by a civil airliner",
+      "tag": "Record flight",
+      "summary": "A DC-8-43 built for Canadian Pacific climbed to 52,090 ft and entered a controlled dive, reaching Mach 1.012 at 41,088 ft. It was the first jet airliner to exceed the speed of sound. The flight tested a new wing leading-edge design; the aircraft was returned to the production line and delivered to its customer.",
+      "source": "https://en.wikipedia.org/wiki/Douglas_DC-8"
+    },
+    {
+      "date": "1968-11-22",
+      "title": "Japan Air Lines Flight 2 ditching in San Francisco Bay",
+      "tag": "Controlled flight into terrain",
+      "summary": "A DC-8-62 flying an automatic ILS approach in heavy fog descended below the glideslope and settled into shallow water 2.5 miles short of the runway. All 107 aboard were evacuated without injury. The aircraft was lifted out 55 hours later, refurbished over six months, and flew on for another 14 years.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_2"
+    },
+    {
+      "date": "1970-09-13",
+      "title": "Swissair Flight 100 destroyed at Dawson's Field",
+      "tag": "Hijacking",
+      "summary": "A DC-8-53 hijacked shortly after departure from Zurich was flown to a desert airstrip in Jordan and blown up after all 155 people aboard had been released, as part of the coordinated Dawson's Field hijackings.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Douglas_DC-8"
+    },
+    {
+      "date": "1972-05-05",
+      "title": "Alitalia Flight 112 crash near Palermo",
+      "tag": "Controlled flight into terrain",
+      "summary": "A DC-8-43 on approach to Punta Raisi Airport struck high ground at Montagna Longa. It remains Italy's worst single-aircraft disaster.",
+      "fatalities": 115,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Douglas_DC-8"
+    },
+    {
+      "date": "1985-12-12",
+      "title": "Arrow Air Flight 1285 crash at Gander",
+      "tag": "Loss of control after takeoff",
+      "summary": "A DC-8-63CF carrying US Army personnel of the 101st Airborne Division home from peacekeeping duty in the Sinai stalled shortly after takeoff from Gander, Newfoundland. The Canadian Aviation Safety Board's majority report attributed the crash to ice contamination on the wing combined with overloading. It remains the deadliest air crash in Canada, and the dispute over its findings led the government to replace the board with the Transportation Safety Board of Canada.",
+      "fatalities": 256,
+      "source": "https://en.wikipedia.org/wiki/Arrow_Air_Flight_1285R"
+    },
+    {
+      "date": "1991-07-11",
+      "title": "Nigeria Airways Flight 2120 crash at Jeddah",
+      "tag": "Tyre failure and in-flight fire",
+      "summary": "A Nationair Canada DC-8-61 operating for Nigeria Airways took off from Jeddah on underinflated tyres that a project manager had declined to replace four days earlier. The tyres overheated and failed, and burning rubber drawn into the wheel well destroyed hydraulic and electrical systems, leading to structural failure and loss of control. It is the deadliest DC-8 accident and the deadliest involving a Canadian airline.",
+      "fatalities": 261,
+      "source": "https://en.wikipedia.org/wiki/Nigeria_Airways_Flight_2120"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Trans Air Cargo Service runway excursion at Kinshasa",
+      "tag": "Runway excursion",
+      "summary": "A DC-8-73CF freighter, 9S-AJO, built in 1970 and re-engined with CFM56 turbofans, departed the paved surface of runway 24 while landing at N'Djili International Airport. The nose gear collapsed and the aircraft came to rest nose-down on unpaved ground. All four crew survived and no passengers were carried. The DR Congo accident investigation authority is examining the circumstances; the aircraft was reported to be one of only two DC-8s still in commercial operation worldwide.",
+      "fatalities": 0,
+      "source": "https://www.flightglobal.com/ops-safety/2026/09/rare-dc-8-freighter-suffers-runway-excursion-at-kinshasa/"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "german-air-force",
+  "slug": "german-air-force",
+  "name": "German Air Force",
+  "shortName": "Luftwaffe",
+  "type": "military",
+  "country": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "founded": "1956-01-09",
+  "foundedDisplay": "9 January 1956",
+  "headquarters": "Berlin-Gatow, Germany",
+  "logo": "luftwaffe.webp",
+  "website": null,
+  "tagline": "Raised inside NATO in 1956, eleven years after the air force whose name it carries was dissolved.",
+  "bio": [
+    "The postwar Luftwaffe was stood up on 9 January 1956 as a branch of the new Bundeswehr, a decade after the wartime air force of the same name ceased to exist, and it was built from the start as a NATO force rather than a national one. Its formative and most painful chapter was the F-104G: West Germany bought 916 Starfighters, adapted a high-altitude interceptor to low-level strike over northern Europe, and lost 292 of them with 116 pilots killed, a record that cost a defence minister his job and reshaped German procurement and training for a generation.",
+    "The Tornado replaced it, and still carries Germany's share of NATO's nuclear mission along with the specialist ECR variant flown for defence suppression. Air defence and increasingly the strike role now belong to the Eurofighter Typhoon, built in part at Manching, with F-35As ordered in 2022 to take over the nuclear role from the Tornado. Germany is the largest A400M customer with 53 on order, flown by Air Transport Wing 62 from Wunstorf."
+  ],
+  "matchPattern": "german air force"
+}

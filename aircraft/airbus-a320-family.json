@@ -1,0 +1,317 @@
+{
+  "name": "A320 Family",
+  "fullName": "Airbus A320 Family",
+  "manufacturer": "Airbus",
+  "originCountry": {
+    "name": "Multinational (Europe)",
+    "code": "eu"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Narrow-Body Commercial Airliner",
+  "tagline": "The Airbus A320 family is a twin-engine, single-aisle airliner series and the first commercial jet ever flown with digital fly-by-wire controls and a sidestick, in place of a yoke connected to the flight surfaces by cables. Launched to beat the Boeing 737 on fuel burn, it has instead overtaken it on total deliveries - passing the 737 as the most-delivered jet airliner in history in September 2025, with over 20,000 aircraft ordered across four fuselage lengths and two engine generations.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "It was the world's first airliner with full digital fly-by-wire flight controls, flown through a sidestick rather than a control yoke - a technology now standard across every Airbus jet since.",
+    "In September 2025 the A320 family passed the Boeing 737 as the most-delivered jet airliner ever, having taken 33 years to reach 10,000 deliveries against the 737's 50.",
+    "US Airways Flight 1549 - the 'Miracle on the Hudson' - was an A320-214 that ditched in the Hudson River on 15 January 2009 after losing both engines to a bird strike; all 155 aboard survived.",
+    "An A320's fuselage is 3.95 m wide against the 737's 3.76 m, a difference dating to Airbus's clean-sheet 1980s design that still shows up today as slightly wider seats and overhead bins.",
+    "The family has a genuinely dark chapter: in March 2015 a Germanwings co-pilot deliberately flew an A320 into the French Alps, killing all 150 aboard - one of only two mass-fatality airliner losses ever caused by a pilot's own intent.",
+    "In November 2025 EASA ordered emergency software changes to roughly 6,000 A320-family aircraft after solar radiation was found capable of corrupting flight-control computer data, following a JetBlue flight's brief uncommanded descent."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the A320-200 (ceo), the baseline model the rest of the family scales from. The A320neo, A321neo and A321XLR fly materially different weights, ranges and engines - see Variants.",
+    "maxSpeed": {
+      "mph": 542,
+      "text": "471 kn (542 mph / 872 km/h)"
+    },
+    "cruiseSpeed": "516 mph (829 km/h, Mach 0.78)",
+    "range": {
+      "miles": 3860,
+      "text": "3,860 mi (6,200 km, 3,350 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 41000,
+      "text": "41,000 ft (12,500 m)"
+    },
+    "wingspan": {
+      "ft": 117.4,
+      "text": "117 ft 5 in (35.80 m)"
+    },
+    "length": {
+      "ft": 123.25,
+      "text": "123 ft 3 in (37.57 m)"
+    },
+    "height": {
+      "ft": 38.6,
+      "text": "38 ft 7 in (11.76 m)"
+    },
+    "weight": "empty: 93,900 lb (42,600 kg); MTOW: 172,000 lb (78,000 kg)",
+    "engines": "2 x CFM56-5B or IAE V2500-A5 turbofans, 22,000-27,000 lbf (98-120 kN) each (A320ceo); CFM LEAP-1A or Pratt & Whitney PW1100G-JM turbofans on the A320neo generation",
+    "crew": "2 flight crew + typically 4-6 cabin crew, varying by operator and variant",
+    "capacity": "150 typical, 2-class (A320-200) / up to 244 in a single-class A321XLR - the family spans 107 seats on the smallest A318 to 244 on the longest A321",
+    "firstFlight": {
+      "date": "1987-02-22",
+      "year": 1987
+    },
+    "serviceEntryDate": "1988-04-08",
+    "retiredDate": null,
+    "numberBuilt": 12670,
+    "unitCost": {
+      "usd": 110600000,
+      "text": "$110.6M (A320neo list price, 2018 - the last year Airbus published catalogue prices; airlines negotiate well below this) - roughly $142M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$142M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "A318",
+      "desc": "The shortest and smallest-selling member of the family, 31.4 m long and seating 107 to 132, launched in April 1999 for thin routes and steep-approach airports such as London City. First delivered in July 2003, it sold poorly - fewer than 80 were built - and was never re-engined as a neo; Airbus stopped actively marketing it in the 2010s."
+    },
+    {
+      "code": "A319 / A319neo",
+      "desc": "Shortened 3.73 m from the A320 to seat 124 to 160, launched in June 1993 and delivered from April 1996 to compete with the 737-700. The re-engined A319neo followed the rest of the family from 2010 but has sold in far smaller numbers than the A320neo and A321neo, as airlines have generally preferred the larger models' better economics per seat."
+    },
+    {
+      "code": "A320 / A320neo",
+      "desc": "The baseline model that launched the programme in March 1984, first flying in February 1987 and entering service with Air France in April 1988 as the first airliner with digital fly-by-wire controls. The re-engined A320neo, launched in December 2010 and delivered from January 2016 with CFM LEAP-1A or Pratt & Whitney PW1100G-JM engines and wingtip sharklets, cuts fuel burn by about 15 percent and now outsells the original A320ceo generation."
+    },
+    {
+      "code": "A321 / A321neo / A321XLR",
+      "desc": "Stretched 6.94 m over the A320 and launched in November 1988, first delivered in January 1994 to seat 185 to 230; it has become the family's best-seller, outselling the equivalent Boeing 737-900 roughly three to one. The A321XLR variant adds a permanent rear fuel tank for a 4,700 nmi range, opening thin long-haul routes to a single-aisle jet that previously needed a widebody, and entered service with Iberia in November 2024."
+    },
+    {
+      "code": "ACJ319 / ACJ320 / ACJneo",
+      "desc": "Airbus Corporate Jets conversions fitted with auxiliary fuel tanks and VIP cabins for heads of state and private operators, extending range to roughly 6,000 nmi on the smaller variants. They share the same type rating and production line as the airline versions, differing only in completion and fuel fit."
+    }
+  ],
+  "operators": [
+    {
+      "name": "American Airlines",
+      "role": "Largest Operator",
+      "status": "In Service",
+      "since": "2013",
+      "fleetSize": "~492",
+      "homeBase": "Dallas/Fort Worth International Airport - Texas"
+    },
+    {
+      "name": "China Eastern Airlines",
+      "role": "Second-Largest Operator",
+      "status": "In Service",
+      "fleetSize": "~393",
+      "homeBase": "Shanghai Hongqiao & Pudong International Airports - China"
+    },
+    {
+      "name": "IndiGo",
+      "role": "Largest Operator Outside China & the Americas",
+      "status": "In Service",
+      "since": "2006",
+      "fleetSize": "~392",
+      "homeBase": "Indira Gandhi International Airport - Delhi, India"
+    },
+    {
+      "name": "easyJet",
+      "role": "Largest European Operator",
+      "status": "In Service",
+      "since": "2003",
+      "fleetSize": "~367",
+      "homeBase": "London Luton Airport - United Kingdom"
+    },
+    {
+      "name": "Air France",
+      "role": "Launch Customer",
+      "status": "In Service",
+      "since": "1988",
+      "fleetSize": "45",
+      "homeBase": "Paris-Charles de Gaulle Airport - France"
+    },
+    {
+      "name": "375+ other airlines worldwide",
+      "role": "Remaining Operators",
+      "status": "In Service",
+      "fleetSize": "Combined worldwide fleet exceeds 11,500 A320-family aircraft in commercial service",
+      "homeBase": "Various",
+      "since": "1988"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A320 / A321 / A319 / A318 (varies by variant; A20N / A21N for the neo generation)",
+    "howToFind": "The most numerous airliner family in the sky, so there is no need to hunt for one - filter by any of the type codes above and dozens will usually be airborne over any populated region. IndiGo (callsign IGO), easyJet (EZY) and American Airlines (AAL) between them fly hundreds; the A321XLR is the rarer sight, currently flown mainly by Iberia (IBE) and a handful of other long-haul operators."
+  },
+  "lastUpdated": "2026-09-08",
+  "changelog": [
+    {
+      "date": "2026-09-08",
+      "change": "Entry created - full article, specifications, variants and incident log written from Airbus, Wikipedia, FlightGlobal, EASA and named aviation-press sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-08",
+      "change": "Operators: replaced the initial four-row list with a properly researched roster - corrected fleet figures for American, IndiGo, easyJet and Air France against current 2026 data, added China Eastern Airlines (the type's second-largest operator, previously omitted), and added a combined row for the wider 375+ operator base with its real aggregate fleet size, per the project's operators-research standard.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "a320",
+    "a321",
+    "a319",
+    "a318",
+    "a320neo",
+    "a321neo",
+    "a321xlr",
+    "airbus a320",
+    "fly-by-wire",
+    "sidestick",
+    "narrow body",
+    "single aisle",
+    "commercial airliner",
+    "civilian"
+  ],
+  "article": {
+    "overview": [
+      "The Airbus A320 family is a twin-engine, single-aisle airliner series built by Airbus across four fuselage lengths - the A318, A319, A320 and A321 - and two engine generations, the original ceo and the re-engined neo. The baseline A320 first flew on 22 February 1987 and entered service with Air France on 8 April 1988 as the world's first airliner controlled through digital fly-by-wire and a sidestick rather than a mechanically linked control yoke. {{ref:wiki-a320fam}}",
+      "The programme was launched on 2 March 1984 specifically to beat the Boeing 737 on fuel efficiency, and for three decades the two families ran close in total orders. That changed after 2015: the A320neo entered service six months before Boeing's competing 737 MAX and built a lasting order lead, and in September 2025 the A320 family passed the 737 to become the most-delivered jet airliner in history. {{ref:wiki-a320fam}}"
+    ],
+    "sections": [
+      {
+        "heading": "The Fly-By-Wire Gamble",
+        "paragraphs": [
+          "Airbus was the newer, smaller manufacturer competing against Boeing's 737 and McDonnell Douglas's DC-9, both mechanically conventional designs by the 1980s. Airbus president Roger Beteille framed the choice starkly: either be first with new technology or accept staying out of the market. The A320 became the test case - a clean-sheet single-aisle jet with no mechanical link at all between the sidestick and the control surfaces, its inputs interpreted by flight control computers that kept the aircraft inside a protected flight envelope regardless of what the pilot commanded. {{ref:wiki-a320fam}}",
+          "The sidestick freed a large amount of cockpit space a control yoke would have occupied and, because the computers - not the pilot - held the aircraft within its structural and aerodynamic limits, it changed what a pilot needed to actively manage in a way no airliner cockpit had before. The same fly-by-wire architecture and a common type rating across every model in the family let an airline mix A318s, A319s, A320s and A321s in one fleet with a single pilot pool, a commonality Airbus has preserved through the neo re-engining and now leans on as one of the family's main selling points against Boeing's more fragmented 737 generations. {{ref:wiki-a320fam}}"
+        ]
+      },
+      {
+        "heading": "Growing the Family",
+        "paragraphs": [
+          "Because the A320 was designed from scratch rather than adapted from an older type, stretching or shrinking the fuselage was a straightforward engineering exercise rather than the running compromise Boeing has had to manage on the 737's 1960s-era airframe. Airbus stretched the basic fuselage 6.94 m for the A321, launched in November 1988 and delivered from January 1994, and shrank it 3.73 m for the A319, launched in June 1993 and delivered from April 1996 to compete directly with the 737-700. The smallest model, the A318, launched in April 1999 and delivered from July 2003, was sized for thin routes and steep-approach airports such as London City, but sold fewer than 80 aircraft and was never re-engined. {{ref:wiki-a320fam}}",
+          "The A321 has been the commercial standout of the stretch programme, now outselling the equivalent Boeing 737-900 by roughly three to one. Its most significant derivative, the A321XLR, adds a permanent rear fuel tank for a 4,700 nmi range and entered service with Iberia in November 2024, letting airlines fly thin long-haul routes - the kind that used to need a wide-body - with a single-aisle jet's lower trip cost. {{ref:wiki-a320fam}}"
+        ]
+      },
+      {
+        "heading": "The neo Generation & Overtaking the 737",
+        "paragraphs": [
+          "Airbus launched the re-engined A320neo on 1 December 2010, offering a choice of CFM LEAP-1A or Pratt & Whitney PW1100G-JM engines plus new wingtip sharklets for roughly 15 percent better fuel burn, and delivered the first aircraft on 25 January 2016. Because the neo reached service six months before Boeing's competing 737 MAX, Airbus had already banked around 1,000 orders by the time Boeing could respond, an early lead the MAX's 2019-2020 grounding widened rather than closed. {{ref:wiki-a320fam}}",
+          "The order book since has been lopsided in Airbus's favour: the A320neo family passed 10,000 orders in December 2023, the first airliner generation ever to do so, and by July 2023 the A321neo alone had outsold the entire 737-800 production run. By May 2026 the A320 family had 20,169 total orders against 12,670 delivered, with the neo generation (12,063 orders) now comfortably ahead of the original ceo family's 8,106. In September 2025 cumulative A320-family deliveries passed the 737's, taking 33 years to reach 10,000 deliveries against the 50 years the 737 needed. {{ref:wiki-a320fam}}"
+        ]
+      },
+      {
+        "heading": "Habsheim and the Fly-By-Wire Controversy",
+        "paragraphs": [
+          "The A320's computer-mediated controls were controversial from close to the start. On 26 June 1988, a brand-new Air France A320 flying a low pass at an airshow near Habsheim, France, descended to about 30 ft instead of the planned 100 ft and struck trees at the end of the runway after a delayed application of go-around power; three of 136 aboard died. Captain Michel Asseline maintained that the flight control system's angle-of-attack protection prevented him from climbing away in time; the official BEA investigation attributed the crash to crew error - flying too low, too slow, with the engines at idle and go-around thrust applied late - rather than a system fault. {{ref:wiki-af296}}",
+          "A second accident sharpened the same debate. On 20 January 1992, Air Inter Flight 148, an A320-111, struck Mont Sainte-Odile in eastern France on approach to Strasbourg, killing 87 of 96 aboard. Investigators found the crew had left the autopilot in Vertical Speed rather than Flight Path Angle mode and entered '33' meaning a 3.3-degree descent; the system read it as 3,300 feet per minute, and the aircraft, lacking a ground-proximity warning system, flew into the mountain under control the whole way down. {{ref:wiki-af148}} Both accidents drove lasting changes to mode-awareness training and cockpit alerting across the industry, well beyond the A320 itself."
+        ]
+      },
+      {
+        "heading": "Miracle, Murder, and an Ordinary Safety Record",
+        "paragraphs": [
+          "Across roughly four decades and tens of millions of flights, the family's overall safety record is strong - 0.095 fatal hull losses per million takeoffs as of 2023 - but a small number of losses have overshadowed it. On 15 January 2009, US Airways Flight 1549, an A320-214, lost both engines to a bird strike shortly after departing New York LaGuardia and ditched in the Hudson River; Captain Chesley Sullenberger and First Officer Jeffrey Skiles got all 155 aboard out alive, an outcome credited partly to the fly-by-wire protections holding the aircraft in a controlled attitude during the landing. {{ref:wiki-a320fam}}",
+          "Two later losses were not accidents at all. On 31 October 2015, a bomb brought down Metrojet Flight 9268, an A321-231, over Egypt's Sinai Peninsula, killing all 224 aboard - the family's deadliest single loss. On 24 March 2015, Germanwings Flight 9525's co-pilot locked the captain out of the cockpit and flew the A320-211 into the French Alps, killing all 150 aboard in a deliberate act; regulators briefly mandated two authorised crew in the cockpit at all times, a rule most European airlines had quietly dropped again by 2017. {{ref:wiki-gw9525}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The family remains in full production and the backbone of short- and medium-haul flying worldwide, with roughly 7,499 aircraft still on order as of May 2026 and American Airlines, IndiGo and easyJet among its largest operators. {{ref:wiki-a320fam}} The most pressing current issue is not commercial but technical: after JetBlue Flight 1230 experienced a brief uncommanded descent on 30 October 2025, investigators traced the fault to intense solar radiation corrupting data inside the elevator aileron computer, and EASA issued an emergency airworthiness directive in November 2025 covering roughly 6,000 A320-family aircraft. {{ref:fg-elac}}",
+          "Most affected aircraft needed only a three-hour software rollback to clear the fault; Airbus said around 900 older airframes would need a hardware fix instead, and warned operators to expect real operational disruption while the fleet worked through it. The episode is a reminder that even a control philosophy validated over four decades and tens of thousands of airframes can still surface a genuinely new failure mode - in this case, one nobody had connected to space weather until an airliner nearly proved it. {{ref:fg-elac}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-a320fam",
+      "name": "Airbus A320 family",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A320_family"
+    },
+    {
+      "id": "wiki-af296",
+      "name": "Air France Flight 296Q",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_France_Flight_296Q"
+    },
+    {
+      "id": "wiki-af148",
+      "name": "Air Inter Flight 148",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_Inter_Flight_148"
+    },
+    {
+      "id": "wiki-gw9525",
+      "name": "Germanwings Flight 9525",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Germanwings_Flight_9525"
+    },
+    {
+      "id": "fg-elac",
+      "name": "Urgent A320 directive drawn up as solar radiation incident reveals flight-control vulnerability",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/safety/urgent-a320-directive-drawn-up-as-solar-radiation-incident-reveals-flight-control-vulnerability/165518.article"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Airbus - A320neo Family",
+      "url": "https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a320-family"
+    },
+    {
+      "name": "FlightGlobal - FAA prepares A320 software order after EASA directive on solar radiation interference",
+      "url": "https://www.flightglobal.com/safety/us-airlines-scramble-to-update-jets-as-faa-prepares-a320-family-software-order/165520.article"
+    },
+    {
+      "name": "Wikipedia - Airbus A320 family",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A320_family"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1988-06-26",
+      "title": "Air France Flight 296 airshow crash, Habsheim",
+      "tag": "Controlled flight into terrain",
+      "summary": "A brand-new A320 flying a low pass at an airshow descended to about 30 ft, well below the planned 100 ft, and struck trees at the runway's end after a late application of go-around power. The captain disputed the official finding of crew error, arguing the flight control system's protections had delayed his climb.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Air_France_Flight_296Q"
+    },
+    {
+      "date": "1992-01-20",
+      "title": "Air Inter Flight 148, Mont Sainte-Odile",
+      "tag": "Controlled flight into terrain",
+      "summary": "An A320-111 struck a mountain on approach to Strasbourg after the crew left the autopilot in Vertical Speed mode and entered a descent rate of 3,300 feet per minute while intending a 3.3-degree flight path angle. The aircraft had no ground-proximity warning system fitted.",
+      "fatalities": 87,
+      "source": "https://en.wikipedia.org/wiki/Air_Inter_Flight_148"
+    },
+    {
+      "date": "2009-01-15",
+      "title": "US Airways Flight 1549, the 'Miracle on the Hudson'",
+      "tag": "Ditching",
+      "summary": "An A320-214 lost thrust in both engines to a bird strike shortly after departing New York LaGuardia. Captain Chesley Sullenberger and First Officer Jeffrey Skiles ditched the aircraft in the Hudson River; all 155 aboard survived.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/US_Airways_Flight_1549"
+    },
+    {
+      "date": "2015-03-24",
+      "title": "Germanwings Flight 9525, deliberate crash",
+      "tag": "Deliberate act",
+      "summary": "The co-pilot of an A320-211 locked the captain out of the cockpit and flew the aircraft into the French Alps in a premeditated act, killing everyone aboard. The crash led to a brief, later abandoned, requirement for two authorised crew members in the cockpit at all times.",
+      "fatalities": 150,
+      "source": "https://en.wikipedia.org/wiki/Germanwings_Flight_9525"
+    },
+    {
+      "date": "2015-10-31",
+      "title": "Metrojet Flight 9268 bombing",
+      "tag": "Bombing",
+      "summary": "An A321-231 broke up over Egypt's Sinai Peninsula after an improvised explosive device detonated on board, killing everyone aboard - the deadliest single loss the A320 family has suffered.",
+      "fatalities": 224,
+      "source": "https://en.wikipedia.org/wiki/Metrojet_Flight_9268"
+    },
+    {
+      "date": "2025-10-30",
+      "title": "JetBlue Flight 1230 uncommanded descent",
+      "tag": "Flight control fault",
+      "summary": "An A320 flying Cancun to Newark experienced a brief uncommanded descent before the autopilot corrected the flight path. Investigation traced the cause to solar radiation corrupting data in the elevator aileron computer, prompting an EASA emergency directive covering roughly 6,000 A320-family aircraft.",
+      "fatalities": 0,
+      "source": "https://www.flightglobal.com/safety/urgent-a320-directive-drawn-up-as-solar-radiation-incident-reveals-flight-control-vulnerability/165518.article"
+    }
+  ]
+}

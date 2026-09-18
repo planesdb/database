@@ -1,0 +1,19 @@
+{
+  "id": "british-airways",
+  "slug": "british-airways",
+  "name": "British Airways",
+  "shortName": "BA",
+  "type": "commercial",
+  "country": { "name": "United Kingdom", "code": "gb" },
+  "founded": "1974-03-31",
+  "foundedDisplay": "31 March 1974",
+  "headquarters": "Waterside, Harmondsworth, near Heathrow Airport, England",
+  "logo": "british-airways.png",
+  "website": "https://www.britishairways.com",
+  "tagline": "The United Kingdom's flag carrier, formed by merging BOAC and BEA, and one of Concorde's two commercial operators.",
+  "bio": [
+    "British Airways was formed on 31 March 1974 through the merger of two long-established state airlines, the long-haul British Overseas Airways Corporation (BOAC) and the short-haul British European Airways (BEA), bringing the UK's flag-carrying operations under one brand for the first time. It has operated out of London Heathrow as its primary hub ever since, and remains the UK's largest airline by international flights and one of the founding members of the Oneworld alliance.",
+    "Alongside its long-haul widebody and short-haul narrowbody fleets, British Airways holds a unique place in aviation history as one of only two airlines - with Air France - to have flown Concorde in scheduled commercial service, operating supersonic transatlantic flights from 1976 until the type's retirement in 2003. Today its fleet centres on the Airbus A320 family, A350 and A380, and the Boeing 777 and 787."
+  ],
+  "matchPattern": "british airways"
+}

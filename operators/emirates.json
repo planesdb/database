@@ -1,0 +1,19 @@
+{
+  "id": "emirates",
+  "slug": "emirates",
+  "name": "Emirates",
+  "shortName": "EK",
+  "type": "commercial",
+  "country": { "name": "United Arab Emirates", "code": "ae" },
+  "founded": "1985-03-25",
+  "foundedDisplay": "25 March 1985",
+  "headquarters": "Garhoud, Dubai, United Arab Emirates",
+  "logo": "emirates.png",
+  "website": "https://www.emirates.com",
+  "tagline": "Dubai's superconnector and by far the world's largest operator of the Airbus A380.",
+  "bio": [
+    "Emirates was founded in March 1985 with US$10 million in start-up capital from the Dubai government and began flying that October with two leased aircraft. Exploiting Dubai's position within an eight-hour flight of most of the world's population, it grew at extraordinary speed into one of the largest international airlines anywhere, funnelling passengers between six continents through its single mega-hub at Dubai International.",
+    "The airline built that network on an all-widebody fleet of just two families - the Boeing 777, of which it is the world's largest operator, and the Airbus A380. Emirates ordered 123 of the double-deck giant, more than every other A380 customer combined, and its commitment effectively sustained the programme for years; it remains the type's biggest champion, with A380 services planned well into the 2030s."
+  ],
+  "matchPattern": "^emirates$|emirates airline"
+}

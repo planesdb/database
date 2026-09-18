@@ -1,0 +1,302 @@
+{
+  "name": "Blériot XI",
+  "fullName": "Blériot XI",
+  "manufacturer": "Blériot Aéronautique",
+  "originCountry": {
+    "name": "France",
+    "code": "fr"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Pioneer Monoplane",
+  "tagline": "The fragile monoplane that made the first powered flight across the English Channel. Built from wood, wire and fabric, it became one of the first genuinely practical aircraft of the pioneer era, with hundreds sold to early civilian aviators, flying schools and fledgling air arms.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Louis Blériot, already a veteran of numerous earlier and largely unsuccessful aircraft designs, first flew the Type XI in January 1909; it represented the culmination of years of trial and error and was powered by a lightweight three-cylinder Anzani engine. Seeking the £1,000 prize offered by the Daily Mail for the first aerial crossing of the English Channel, Blériot took off from Les Baraques near Calais on the morning of 25 July 1909 and landed 36 minutes and 37 seconds later near Dover Castle, despite having never flown over open water before and navigating largely by following a French destroyer below. The flight made Blériot an overnight international celebrity and proved, more vividly than any exhibition flight, that aircraft could be a practical means of transport rather than a fairground novelty; French and British newspapers understood immediately that the crossing had ended Britain's centuries of natural insularity from continental invasion. Orders poured in, and the Type XI went on to be built in the hundreds by Blériot's factory and under license abroad, used for early flying training, air racing and, when war broke out in 1914, as one of the first operational reconnaissance aircraft in several air forces including France's Aéronautique Militaire. The original Channel-crossing aircraft is preserved at the Musée des Arts et Métiers in Paris.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 47,
+      "text": "41 kn (47 mph / 76 km/h)"
+    },
+    "cruiseSpeed": "~40 mph (64 km/h)",
+    "range": {
+      "miles": 90,
+      "text": "90 mi (145 km) on internal fuel"
+    },
+    "serviceCeiling": {
+      "ft": 3280,
+      "text": "3,280 ft (1,000 m) practical operating altitude"
+    },
+    "wingspan": {
+      "ft": 25.67,
+      "text": "25 ft 7 in (7.83 m)"
+    },
+    "length": {
+      "ft": 26.25,
+      "text": "26 ft 3 in (8.0 m)"
+    },
+    "height": {
+      "ft": 8.6,
+      "text": "8 ft 7 in (2.69 m)"
+    },
+    "weight": "empty: 507 lb (230 kg); loaded: 661 lb (300 kg)",
+    "engines": "1 x Anzani 3-cylinder fan-type air-cooled engine, 25 hp (Channel-crossing aircraft); later production used more powerful Gnome rotary engines up to 50 hp",
+    "crew": "1 (pilot, and some later variants carried 1 passenger)",
+    "capacity": "N/A - single-seat sport/reconnaissance monoplane; two-seat trainer variants existed",
+    "firstFlight": {
+      "date": "1909-01-23",
+      "year": 1909
+    },
+    "serviceEntryDate": "1909-07-25",
+    "retiredDate": "1914",
+    "numberBuilt": 900,
+    "unitCost": {
+      "usd": 2000,
+      "text": "~$2,000 in 1909 dollars (roughly 10,000 French francs; about $74,000 in 2026 dollars, adjusted for CPI inflation) for an early production example",
+      "inflationText": "≈$74,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "XI (Anzani)",
+      "desc": "The original Channel-crossing configuration with the 25 hp Anzani fan engine."
+    },
+    {
+      "code": "XI Gnome",
+      "desc": "Later production fitted with the more powerful and reliable Gnome rotary engine, widely used for flying training."
+    },
+    {
+      "code": "XI Militaire",
+      "desc": "Reinforced reconnaissance variant adopted by the French, British and other early air arms at the outbreak of WWI in 1914."
+    },
+    {
+      "code": "XI-2",
+      "desc": "Two-seat tandem trainer variant used to train a generation of early military and civilian pilots."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Louis Blériot (private)",
+      "role": "Original Owner/Pilot",
+      "status": "Retired",
+      "since": "1909",
+      "fleetSize": "1 (Channel-crossing aircraft)",
+      "homeBase": "Calais, France"
+    },
+    {
+      "name": "Aéronautique Militaire (France)",
+      "logo": "french-air-force-roundel.svg",
+      "role": "Early Military Operator",
+      "status": "Retired",
+      "since": "1910",
+      "fleetSize": "~200 (military-contract examples)",
+      "homeBase": "French Army aviation depots"
+    },
+    {
+      "name": "Royal Flying Corps (Britain)",
+      "role": "Early Military Operator",
+      "status": "Retired",
+      "since": "1912",
+      "fleetSize": "~40",
+      "homeBase": "Various early RFC training airfields"
+    },
+    {
+      "name": "Musée des Arts et Métiers",
+      "role": "Museum Custodian",
+      "status": "In Service",
+      "since": "1927",
+      "fleetSize": "1 (original Channel aircraft, preserved)",
+      "homeBase": "Paris, France"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Original and reproduction Blériot XIs occasionally fly at heritage air displays in France and the UK, particularly around Channel-crossing anniversary events each July, but are not routinely tracked by modern transponder systems."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Aerobuzz.fr",
+      "url": "https://www.aerobuzz.fr/feed/",
+      "topicTag": "Blériot heritage"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "More than 11 Blériots!",
+      "source": "Vintage Aviation News",
+      "date": "2025-02-25",
+      "category": "Reference",
+      "url": "https://vintageaviationnews.com/warbird-articles/more-than-11-bleriots.html"
+    }
+  ],
+  "tags": [
+    "bleriot xi",
+    "louis bleriot",
+    "english channel crossing",
+    "pioneer era",
+    "monoplane",
+    "1909",
+    "french aviation",
+    "gnome rotary engine"
+  ],
+  "quickFacts": [
+    "Louis Blériot crossed the English Channel in this design on 25 July 1909 - navigating without a compass, and crash-landing to win the Daily Mail's £1,000 prize.",
+    "British newspapers declared 'England is no longer an island' - the flight triggered the first great public panic about air power.",
+    "Blériot XIs flew history's first fixed-wing combat missions, with Italy over Libya in 1911 - reconnaissance and crude hand-dropped bombs.",
+    "The Shuttleworth Collection's Blériot XI, built in 1909, is the world's oldest airworthy aircraft - it still hops down the runway on calm evenings.",
+    "Orders flooded in after the Channel flight: over 100 were sold within weeks, making it the world's first mass-market aeroplane."
+  ],
+  "article": {
+    "overview": [
+      "The Blériot XI is a French single-engine monoplane designed by Louis Blériot and Raymond Saulnier in 1908-09. On 25 July 1909, Blériot flew one across the English Channel in 37 minutes, becoming the first person to cross it by heavier-than-air aircraft and winning a £1,000 prize offered by the Daily Mail.{{ref:wiki-bleriot}}",
+      "The flight made the Blériot XI the world's first mass-produced aeroplane, with 800-900 built for sportsmen, flying schools and early military air arms. Its layout - tractor propeller, monoplane wing, tail behind the pilot - became the template most conventional aircraft still follow.{{ref:si-bleriot}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Blériot was aviation's great stubborn amateur: a headlamp manufacturer who poured his fortune into eleven successive flying machines - ornithopters, box-kite biplanes, tail-first canards - crashing most of them personally. Model XI, designed with engineer Raymond Saulnier in 1908, was the survivor's synthesis: a wire-braced monoplane with the engine in front and wing-warping lateral control in the Wright manner.{{ref:wiki-bleriot}}",
+          "Its unlikely saviour was the engine: the three-cylinder Anzani produced barely 25 hp and cooled itself badly, but it was light and just reliable enough - on the Channel morning, famously, a providential rain shower may have cooled the overheating cylinders mid-crossing. Marginal power, perfectly timed.{{ref:si-bleriot}}"
+        ]
+      },
+      {
+        "heading": "The Channel Crossing",
+        "paragraphs": [
+          "The Daily Mail's £1,000 prize had turned the Channel into aviation's first great arena. Blériot's rival Hubert Latham had already ditched in the sea once; on 25 July, with the weather briefly clear, Blériot took off from Les Baraques at 4:41 a.m., left the escorting destroyer behind within minutes, and flew for a stretch with no land, no ship and no instruments in sight - 'alone, isolated, lost in the midst of the immense sea', as he described it.{{ref:wiki-crossing}}",
+          "Thirty-seven minutes after France, he sideslipped through gusts onto Northfall Meadow by Dover Castle, smashing the undercarriage and propeller in a landing he cheerfully called adequate. The world's reaction was instant and geopolitical: if a hobbyist's 25-horsepower machine could cross the Channel, fleets and fortresses guarded nothing above sea level. Orders for the XI began within days - over a hundred within weeks.{{ref:wiki-crossing}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The XI is the conventional aeroplane's rough draft: tractor engine, monoplane wing, aft tail with elevator and rudder, main gear forward and tail-skid behind, pilot at the balance point. Almost every conventional aircraft built since shares this basic configuration.{{ref:si-bleriot}}",
+          "Construction was bicycle-shop honest: ash and bamboo longerons, wire bracing everywhere, rubber-cord shock absorbers on castoring wheels, fabric covering only what needed it (early machines left the rear fuselage bare-boned). Wing-warping demanded constant, physical flying - the XI rewarded strong wrists and punished inattention.{{ref:wiki-bleriot}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Success industrialised Blériot overnight: his factory built 800-900 XIs in countless variants (more powerful Gnome rotaries, two-seaters, floatplanes), his flying schools trained a generation of pilots, and record-setters flew XIs first over the Alps (Geo Chavez, 1910, fatally on landing) and across half the world's firsts. Harriet Quimby became the first woman to fly the Channel in one in 1912 - her feat drowned in the news cycle by Titanic.{{ref:wiki-bleriot}}",
+          "The XI even went to war twice before the World War - Italian machines over Libya in 1911 flew history's first military aeroplane reconnaissance and bombing - and when 1914 came, French, British and Italian squadrons took XIs to the front as artillery-spotters and trainers until faster types displaced them within the year.{{ref:wiki-bleriot}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Channel crossing did for aviation what no demonstration flight had: it converted the aeroplane from marvel to instrument, with strategic consequences legible to every government by breakfast. Blériot's company prospered into the SPAD fighters of WWI; his layout became simply how aeroplanes look.{{ref:si-bleriot}}",
+          "The original crossing machine hangs, still fabric-and-ash, in the Musée des Arts et Métiers in Paris{{ref:aem-bleriot}}, and airworthy XIs - including some genuine 1909-1914 originals, the oldest flying aeroplanes on Earth - still putter over vintage rallies, crossing the Channel again on anniversaries as the calmest possible reminder of the morning England stopped being an island.{{ref:si-bleriot}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-bleriot",
+      "name": "Blériot XI",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI"
+    },
+    {
+      "id": "wiki-crossing",
+      "name": "Louis Blériot",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Louis_Bl%C3%A9riot"
+    },
+    {
+      "id": "si-bleriot",
+      "name": "Blériot XI",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/bleriot-xi/nasm_A19500082000"
+    },
+    {
+      "id": "aem-bleriot",
+      "name": "Blériot XI (original Channel aircraft)",
+      "publisher": "Musée des Arts et Métiers",
+      "url": "https://www.arts-et-metiers.net/musee/avion-bleriot-xi"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Blériot XI",
+      "url": "https://en.wikipedia.org/wiki/Blériot_XI"
+    },
+    {
+      "name": "Musée des Arts et Métiers - Blériot XI collection page",
+      "url": "https://www.arts-et-metiers.net/musee"
+    },
+    {
+      "name": "Smithsonian National Air and Space Museum - Blériot XI",
+      "url": "https://airandspace.si.edu/collection-objects/bleriot-xi/nasm_A19200035000"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Fixed hero photo credit mismatch (see above pattern) - heroCredit now matches the actually-displayed photo.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1910-01-04",
+      "title": "Wing failure kills Léon Delagrange",
+      "summary": "Pioneer French aviator Léon Delagrange was killed near Bordeaux when the wing of his Blériot XI failed in flight, an accident attributed to his fitting an overpowered engine that overstressed the airframe.",
+      "fatalities": 1,
+      "tag": "Structural failure",
+      "source": "https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI"
+    },
+    {
+      "date": "1910-04-02",
+      "title": "Second Blériot XI fatality, San Sebastián",
+      "summary": "Former racing driver turned aviator Hubert Le Blon was killed crashing his Blériot XI at San Sebastián, Spain, becoming the type's second recorded fatality after Delagrange.",
+      "fatalities": 1,
+      "tag": "Fatal crash",
+      "source": "https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI"
+    },
+    {
+      "date": "1910-09-23",
+      "title": "Fatal crash after the first crossing of the Alps",
+      "summary": "Jorge Chávez, having just completed the first flight across the Alps in a Blériot XI, crashed on final approach into Domodossola, Italy, and died days later of his injuries. The accident prompted manufacturers to strengthen the wing spars.",
+      "fatalities": 1,
+      "tag": "Landing accident / structural weakness",
+      "source": "https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI"
+    },
+    {
+      "date": "1912-02-01",
+      "title": "French military grounds monoplanes after wing failures",
+      "summary": "Following a string of Blériot XI wing failures, the French military temporarily banned monoplane types from service pending a redesign of the wing bracing wires.",
+      "tag": "Structural failure / fleet grounding",
+      "source": "https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI"
+    },
+    {
+      "date": "1912-07-01",
+      "title": "Harriet Quimby thrown from her aircraft",
+      "summary": "America's first licensed female pilot and her passenger were thrown from her Blériot XI during an unexpected pitch manoeuvre at low altitude over Dorchester Bay, Boston, and both fell to their deaths; the aircraft itself glided down largely intact.",
+      "fatalities": 2,
+      "tag": "In-flight ejection",
+      "source": "https://en.wikipedia.org/wiki/Harriet_Quimby"
+    }
+  ]
+}

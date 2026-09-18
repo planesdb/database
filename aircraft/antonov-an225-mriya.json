@@ -1,0 +1,168 @@
+{
+  "name": "An-225 Mriya",
+  "fullName": "Antonov An-225 Mriya",
+  "manufacturer": "Antonov",
+  "originCountry": { "name": "Ukraine", "code": "ua" },
+  "category": "civilian",
+  "categories": ["cargo"],
+  "role": "Outsize Strategic Freighter",
+  "tagline": "The Antonov An-225 Mriya was a six-engine strategic freighter built in the Soviet Union to carry the Buran space shuttle, and the largest and heaviest aircraft ever flown. Only one was completed; it spent a second career hauling commercial outsize cargo for Antonov Airlines before being destroyed on the ground at Hostomel in February 2022.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Mriya means 'dream' in Ukrainian - the name was given to the aircraft after the collapse of the Soviet Union.",
+    "It set the absolute payload record on 11 September 2001 by lifting 253.8 tonnes, and the record for the heaviest single item ever flown in 2009 with a 190-tonne generator and its loading frame.",
+    "Losing the An-124's rear cargo door saved weight, so everything had to go in through the nose, which hinged upward over a kneeling nose gear.",
+    "It spent 1994 to 2000 grounded at Kyiv with its engines removed and fitted to An-124s, and was brought back for about $20 million.",
+    "With 200 tonnes aboard its range was only about 2,500 miles, so heavy loads meant fuel stops - it was built around volume and weight, not distance.",
+    "It was at Hostomel with an engine stripped for maintenance when Russia invaded and could not be flown out; Ukrainian prosecutors later charged Antonov's former head with negligence for not moving it to Leipzig."
+  ],
+  "specifications": {
+    "specificationsNote": "First flight and service entry are 13 years apart for a reason: the aircraft flew for the Soviet space programme from 1989, sat grounded from 1994 to 2000, and only entered commercial service in January 2002 after refurbishment. Range varies enormously with load - the quoted figure is with 200 tonnes aboard, against a 9,600 mi (15,400 km) ferry range empty.",
+    "maxSpeed": { "mph": 530, "text": "461 kn (530 mph / 850 km/h)" },
+    "cruiseSpeed": "500 mph (800 km/h)",
+    "range": { "miles": 2500, "text": "2,500 mi (4,000 km, 2,160 nmi)" },
+    "serviceCeiling": { "ft": 36000, "text": "36,000 ft (11,000 m)" },
+    "wingspan": { "ft": 290, "text": "290 ft 0 in (88.40 m)" },
+    "length": { "ft": 275.6, "text": "275 ft 7 in (84.00 m)" },
+    "height": { "ft": 59.4, "text": "59 ft 5 in (18.10 m)" },
+    "weight": "empty: 628,317 lb (285,000 kg); MTOW: 1,410,958 lb (640,000 kg)",
+    "engines": "6 x Progress D-18T turbofans, 51,600 lbf (229.5 kN) each",
+    "crew": "6 (two pilots, two navigators and two flight engineers)",
+    "capacity": "559,573 lb (253.8 tonnes) maximum payload in a 1,300 cubic metre (46,000 cu ft) hold 142 ft 3 in (43.35 m) long, 21 ft 0 in (6.4 m) wide and 14 ft 5 in (4.4 m) high, plus external loads carried on the fuselage spine",
+    "firstFlight": { "date": "1988-12-21", "year": 1988 },
+    "serviceEntryDate": "2002-01-03",
+    "retiredDate": "2022-02-27",
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the aircraft was built by the Soviet state for the Buran programme and never sold; Antonov has since put the cost of rebuilding it at over 500 million euros, against a Ukrainian state estimate above $3 billion"
+    }
+  },
+  "variants": [
+    {
+      "code": "An-225 (UR-82060)",
+      "desc": "The only completed aircraft, rolled out in 1988 and first flown on 21 December that year. It carried the Soviet registration CCCP-82060 and later the Ukrainian UR-82060, wore Antonov Airlines colours from 2001, and was destroyed at Hostomel in February 2022. Every world record and every commercial flight the type ever made belongs to this single airframe."
+    },
+    {
+      "code": "Second airframe (unfinished)",
+      "desc": "A second An-225 begun in the late 1980s and abandoned when the Soviet Union collapsed. It was assessed as 60 to 70 percent complete by 2016 and survives at Antonov's Svyatoshyn plant in Kyiv, having come through the Russian occupation of the region intact. Completing it was costed at $300 million and three years back in 2011, and it is expected to form the basis of any rebuild."
+    },
+    {
+      "code": "An-325 (proposed)",
+      "desc": "An enlarged eight-engine derivative studied with British Aerospace from July 1990 as an air-launch platform for the 250-tonne Interim HOTOL spaceplane. It would have added two engines on the inner pylons and extra fuel volume, climbing to around 9 km before a shallow dive to release the orbiter. The findings were presented at ESA in June 1991; UK and ESA funding never followed."
+    }
+  ],
+  "operators": [
+    { "name": "Antonov Airlines", "role": "Sole Operator", "status": "Retired", "since": "2001", "fleetSize": "1", "homeBase": "Antonov Airport, Hostomel - Kyiv Oblast, Ukraine" }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A225",
+    "howToFind": "The aircraft was destroyed in 2022, so live tracking will never find one; historical tracks survive under the registration UR-82060 and the Antonov Airlines callsign ADB. When it was flying, the reliable way to catch it was to watch Antonov Airlines' schedule rather than the map - single charters announced days ahead, routing through Leipzig-Halle, Prestwick or Bangor for fuel. Its sister type, the four-engine An-124, still flies under the same operator and the type code A124."
+  },
+  "lastUpdated": "2026-09-08",
+  "changelog": [
+    { "date": "2026-09-08", "change": "Entry created - full article, specifications, variants and record log written from Antonov, Wikipedia, NATO, Ukrinform and named aviation-press sources.", "author": "planesdb" }
+  ],
+  "tags": ["an-225", "an225", "mriya", "antonov", "cossack", "largest aircraft", "outsize cargo", "buran", "ur-82060", "hostomel", "civilian"],
+  "article": {
+    "overview": [
+      "The Antonov An-225 Mriya was a six-engine strategic freighter designed at the Antonov bureau in Kyiv to carry the Buran space shuttle orbiter and Energia rocket components, and the largest and heaviest aircraft ever to fly. It first flew on 21 December 1988, spanned 88.4 m, weighed up to 640 tonnes and could lift 253.8 tonnes. {{ref:wiki-an225}} {{ref:antonov-an225}}",
+      "Only one was ever completed. After the Soviet space programme ended it sat grounded from 1994 to 2000, returned as a commercial outsize freighter with Antonov Airlines in 2001, and was destroyed on the ground at Hostomel on 27 February 2022 during the Russian assault on the airport. A second airframe, around 70 percent complete, still stands in Kyiv. {{ref:wiki-an225}} {{ref:agn-4years}}"
+    ],
+    "sections": [
+      {
+        "heading": "Built for Buran",
+        "paragraphs": [
+          "The Soviet government asked for the aircraft in 1984 to replace the Myasishchev VM-T, a converted bomber that could carry Buran and Energia components but only in pieces and only just. Antonov's answer was to take the An-124 Ruslan, already the largest production aircraft in the world, and grow it: fore and aft barrel sections stretched the fuselage, the wing centre section was enlarged to take two more Progress D-18T engines for a total of six, and the single fin was replaced by a twin tail on a swept horizontal stabiliser, which kept the control surfaces clear of the wake coming off a shuttle mounted on the spine. {{ref:wiki-an225}} The aircraft rolled out in 1988 and flew for the first time on 21 December, with Oleksandr Galunenko in command. {{ref:antonov-an225}}",
+          "It went to work almost immediately in the role it was built for, carrying Buran on its back and appearing with the orbiter at the Paris Air Show in 1989. In March that year a single flight set 110 world records for speed, altitude and weight lifted to altitude. {{ref:antonov-an225}} The space application went further than shuttle ferrying: from July 1990 Antonov and British Aerospace studied an enlarged eight-engine derivative, the An-325, as an air-launch platform for the 250-tonne Interim HOTOL spaceplane, presenting their findings at the European Space Agency in June 1991. Neither the UK government nor ESA funded it, and the collapse of the Soviet Union ended the work. {{ref:wiki-an325}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The hold was 43.35 m long, 6.4 m wide and 4.4 m high - 1,300 cubic metres - and the aircraft could carry 253.8 tonnes inside it or an outsize load strapped to the fuselage spine. {{ref:wiki-an225}} Weight discipline drove one decision that shaped every loading operation the aircraft ever performed: the An-124's rear cargo door was deleted, so nothing could be driven straight through. Everything went in through the nose, which hinged upward over a nose gear that knelt to bring the floor down to ramp height. The main undercarriage grew to 32 wheels, steerable at the rear to get the aircraft round taxiways its span had no business fitting.",
+          "Six D-18Ts of 51,600 lbf each moved 640 tonnes at a 500 mph cruise, but the fuel arithmetic was unforgiving. With 200 tonnes aboard the range was about 4,000 km - roughly 2,500 miles - against 15,400 km empty, so a heavy transatlantic charter meant planned fuel stops at places like Leipzig-Halle, Prestwick or Bangor. {{ref:wiki-an225}} The aircraft was a volume-and-weight machine rather than a long-range one, and its economics only made sense for cargo that genuinely could not be broken down, shipped or flown any other way."
+        ]
+      },
+      {
+        "heading": "Grounded, Then Reborn as a Freighter",
+        "paragraphs": [
+          "Buran flew once, unmanned, in 1988, and the programme was cancelled in 1993. With no shuttle to carry and no money to fly it, the An-225 was stored at Kyiv from 1994 and its engines were removed and fitted to An-124s, which were earning. {{ref:wiki-an225}} It stood that way for six years - the largest aircraft in the world, complete but stripped, waiting for a commercial case that had not yet been made.",
+          "The case arrived with the growth of the outsize charter market in the late 1990s. Antonov refurbished the aircraft for about $20 million, it received its type certificate in May 2001, and it flew its first commercial mission from 3 January 2002, carrying 187.5 tonnes of prepared meals from Stuttgart to Thumrait in Oman for the American forces in Afghanistan. {{ref:wiki-an225}} {{ref:antonov-an225}} From then on it flew for Antonov Airlines under the registration UR-82060, out of Hostomel north-west of Kyiv."
+        ]
+      },
+      {
+        "heading": "Records & Notable Loads",
+        "paragraphs": [
+          "On 11 September 2001 it lifted 253.82 tonnes - five main battle tanks - to 10,750 m over a 1,000 km closed circuit at 763.2 km/h, taking the absolute payload record. On 11 August 2009 it flew the heaviest single item ever carried by air, a generator and loading frame weighing 189,980 kg, to Armenia. On 11 June 2010 it took the longest cargo record with two 42.1 m wind turbine blades from Tianjin to Denmark, and in September 2012 it carried 500 paintings by 120 Ukrainian artists to 10,150 m for the highest art exhibition ever held. {{ref:wiki-an225}} {{ref:antonov-an225}}",
+          "Its most visible work came at the start of the COVID-19 pandemic. On 14 April 2020 it landed at Warsaw Chopin with 100 tonnes of masks, tests and medical supplies from China, the largest single relief load of the pandemic to that point, and it flew repeatedly on the same routes through 2020. {{ref:ukrinform-covid}} {{ref:ta-warsaw}} Across 34 years and roughly 240 world records the aircraft never had a serious accident - a record that makes the way it was actually lost harder to read."
+        ]
+      },
+      {
+        "heading": "Destruction at Hostomel",
+        "paragraphs": [
+          "The aircraft's last commercial mission ran from 2 to 5 February 2022, collecting almost 90 tonnes of COVID-19 test kits from Tianjin. It then went into the hangar at Hostomel for engine maintenance. On NATO's advice it was prepared for evacuation on the morning of 24 February 2022 - the day Russia invaded - and with an engine disassembled it did not leave. Russian airborne forces assaulted the airport that morning. {{ref:wiki-an225}}",
+          "Ukroboronprom announced on 27 February that the An-225 had been destroyed, and on 4 March footage on Russian state television gave the first clear ground images, showing much of the forward fuselage missing. Ukraine's foreign minister Dmytro Kuleba said Russia might have destroyed the Mriya but would never destroy the dream. {{ref:wiki-an225}} The loss was not purely a casualty of war: in April 2023 Ukrainian prosecutors charged Antonov's former head with official negligence for failing to order the aircraft flown to Leipzig before the invasion. {{ref:wiki-an225}}"
+        ]
+      },
+      {
+        "heading": "The Second Airframe & the Rebuild",
+        "paragraphs": [
+          "A second An-225 was begun in the late 1980s and abandoned unfinished; by 2016 it was assessed as 60 to 70 percent complete, and it came through the occupation of the Kyiv region intact at Antonov's Svyatoshyn plant. {{ref:wiki-an225}} Four months after the destruction Antonov confirmed that parts had been stripped from the wreck for eventual mating to that fuselage, and President Zelenskyy said in May 2022 that Ukraine intended to finish the aircraft. {{ref:wiki-an225}}",
+          "Progress since has been limited, and the entry should be read that way. Antonov has completed a damage assessment and restoration plan, holds roughly 30 percent of the components a new airframe would need, and puts the cost at over 500 million euros against an earlier Ukrainian state figure exceeding $3 billion and a five-year minimum. No funding has been secured, an appeal for public donations was launched, and by September 2024 the company had paused the work until the war ends, with no completion date given since. {{ref:agn-4years}} For now the Mriya exists as a wreck, a 70 percent airframe and an intention."
+        ]
+      }
+    ]
+  },
+  "references": [
+    { "id": "wiki-an225", "name": "Antonov An-225 Mriya", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Antonov_An-225_Mriya" },
+    { "id": "wiki-an325", "name": "Antonov An-325", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Antonov_An-325" },
+    { "id": "antonov-an225", "name": "AN-225 \"Mriya\"", "publisher": "Antonov Company", "url": "https://antonov.com/en/history/an-225-mriya" },
+    { "id": "agn-4years", "name": "Four years after its destruction, will the Antonov An-225 Mriya ever fly again?", "publisher": "Aerospace Global News", "url": "https://aerospaceglobalnews.com/news/antonov-an-225-mriya-destruction-four-years/" },
+    { "id": "ukrinform-covid", "name": "World's largest plane delivers record medical cargo from China to Poland", "publisher": "Ukrinform", "url": "https://www.ukrinform.net/rubric-society/3005643-worlds-largest-plane-delivers-record-medical-cargo-from-china-to-poland.html" },
+    { "id": "ta-warsaw", "name": "The Antonov An-225 Mriya Lands in Warsaw, Poland, Carrying COVID-19 Relief from China", "publisher": "The Aviationist", "url": "https://theaviationist.com/2020/04/14/the-antonov-an-225-mriya-lands-in-warsaw-poland-carrying-covid-19-relief-from-china/" }
+  ],
+  "furtherReading": [
+    { "name": "Antonov Company - AN-225 \"Mriya\"", "url": "https://antonov.com/en/history/an-225-mriya" },
+    { "name": "Aerospace Global News - Will the An-225 ever fly again?", "url": "https://aerospaceglobalnews.com/news/antonov-an-225-mriya-destruction-four-years/" },
+    { "name": "International Charitable Fund for the Reconstruction of the AN-225 Mriya", "url": "https://an225fund.org/en/" }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2001-09-11",
+      "title": "Absolute payload record - 253.8 tonnes",
+      "tag": "Record",
+      "summary": "Carrying five main battle tanks, the aircraft lifted 253.82 tonnes to 10,750 m around a 1,000 km closed circuit at 763.2 km/h, setting the absolute record for the heaviest payload ever flown. The record still stands.",
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-225_Mriya"
+    },
+    {
+      "date": "2009-08-11",
+      "title": "Heaviest single item ever flown",
+      "tag": "Record",
+      "summary": "The aircraft carried a generator and its loading frame weighing 189,980 kg to Armenia - the heaviest indivisible object ever moved by air.",
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-225_Mriya"
+    },
+    {
+      "date": "2010-06-11",
+      "title": "Longest cargo ever carried by air",
+      "tag": "Record",
+      "summary": "Two wind turbine blades of 42.1 m each were flown from Tianjin in China to Denmark, taking the record for the longest single items ever airfreighted.",
+      "source": "https://antonov.com/en/history/an-225-mriya"
+    },
+    {
+      "date": "2020-04-14",
+      "title": "Largest COVID-19 relief flight",
+      "tag": "Humanitarian",
+      "summary": "The aircraft landed at Warsaw Chopin with 100 tonnes of masks, medicines and laboratory tests from China, the largest single load of pandemic relief flown to that point, and the first of a series of similar missions through 2020.",
+      "source": "https://www.ukrinform.net/rubric-society/3005643-worlds-largest-plane-delivers-record-medical-cargo-from-china-to-poland.html"
+    },
+    {
+      "date": "2022-02-27",
+      "title": "Destroyed at Hostomel",
+      "tag": "Destroyed on the ground",
+      "summary": "The only completed An-225 was destroyed in its hangar at Antonov Airport during the Russian assault that began on 24 February. It had been prepared for evacuation but had an engine disassembled for maintenance and could not be flown out. Ukroboronprom confirmed the loss on 27 February; ground footage on 4 March showed much of the forward fuselage gone.",
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-225_Mriya"
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "name": "B-17 Flying Fortress",
+  "fullName": "Boeing B-17 Flying Fortress",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Four-Engine Heavy Bomber",
+  "tagline": "The Boeing B-17 Flying Fortress is a four-engine heavy bomber built for the United States Army Air Forces, and the aircraft the American daylight strategic bombing campaign over Europe was built around. 12,731 were produced between 1936 and 1945, they dropped more than 640,000 tons of bombs on Germany, and the last military operator retired the type in 1968.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The name came from a reporter's remark at the Model 299's public debut in 1935 about the number of gun positions along the fuselage; Boeing then registered 'Flying Fortress' as a trademark.",
+    "B-17s dropped more than 640,000 tons of the roughly 1.5 million tons of bombs that fell on Nazi Germany, around 43 percent of the total.",
+    "Bomb load was the type's weakest point: a normal European mission carried 4,000-5,000 lb, against up to 8,800 lb for the B-24 Liberator, and the RAF's Lancaster carried the heaviest loads in the theatre.",
+    "Eighth Air Force B-17s shot down one Luftwaffe fighter for every 44 sorties flown, roughly twice the rate achieved by B-24 crews.",
+    "IWM Duxford is home to two Flying Fortresses: static B-17G 44-83735 inside the American Air Museum, and B-17G 44-85784 'Sally B' (G-BEDF), the only airworthy B-17 in Europe, which is based on the aerodrome but operated by a private trust rather than the museum.",
+    "In the first year of Eighth Air Force operations over Germany, only 36 percent of bomber crewmen completed the 25 missions a tour then required."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the B-17G, the definitive production version and by far the most numerous at 8,680 built.",
+    "maxSpeed": {
+      "mph": 287,
+      "text": "249 kn (287 mph / 462 km/h)"
+    },
+    "cruiseSpeed": "182 mph (293 km/h)",
+    "range": {
+      "miles": 2000,
+      "text": "2,000 mi (3,219 km, 1,738 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 35600,
+      "text": "35,600 ft (10,850 m)"
+    },
+    "wingspan": {
+      "ft": 103.75,
+      "text": "103 ft 9 in (31.6 m)"
+    },
+    "length": {
+      "ft": 74.33,
+      "text": "74 ft 4 in (22.7 m)"
+    },
+    "height": {
+      "ft": 19.08,
+      "text": "19 ft 1 in (5.8 m)"
+    },
+    "weight": "empty: 36,135 lb (16,391 kg); MTOW: 65,600 lb (29,756 kg)",
+    "engines": "Four Wright R-1820-97 Cyclone nine-cylinder turbo-supercharged radial engines, 1,200 hp each",
+    "armament": "Thirteen .50-calibre (12.7 mm) Browning machine guns in chin, dorsal, ventral ball, tail, cheek and waist positions",
+    "crew": "10 (pilot, co-pilot, navigator, bombardier/nose gunner, flight engineer/top turret gunner, radio operator, ball turret gunner, two waist gunners, tail gunner)",
+    "capacity": "Typical European mission bomb load of 4,000-5,000 lb (1,814-2,268 kg); maximum 17,600 lb (7,983 kg) using external wing racks over short ranges",
+    "firstFlight": {
+      "date": "1935-07-28",
+      "year": 1935
+    },
+    "serviceEntryDate": "1937-03-04",
+    "retiredDate": "1968",
+    "numberBuilt": 12731,
+    "unitCost": {
+      "usd": 204370,
+      "text": "$204,370 (1944 flyaway) - roughly $3.8M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$3.8M in 2026 dollars"
+    },
+    "combatLosses": "4,688 B-17s lost by the Eighth Air Force across 291,508 combat sorties over Europe - one aircraft for every 62.1 sorties flown"
+  },
+  "variants": [
+    {
+      "code": "B-17B / B-17C / B-17D",
+      "desc": "The pre-war production Fortresses, built in small numbers: 39 B-17Bs with a larger rudder, redesigned nose and 1,200 hp R-1820-51 engines; 38 B-17Cs adding armour plate, self-sealing fuel tanks and R-1820-65 engines; and 42 B-17Ds with adjustable cowl flaps, a revised electrical system and a crew of ten. Twenty B-17Cs went to the RAF as the Fortress Mk I."
+    },
+    {
+      "code": "B-17E",
+      "desc": "The first version laid out for combat rather than demonstration. The fuselage was stretched by roughly 10 ft, a far larger fin and rudder were fitted along with a manned tail gun position, a powered Sperry dorsal turret was added, and a ball turret replaced the earlier remotely-sighted ventral gun. Weight rose about 20 percent. 512 were built; 45 went to the RAF as the Fortress Mk IIA."
+    },
+    {
+      "code": "B-17F",
+      "desc": "The main mid-war model and the first built under the Boeing-Douglas-Vega production pool: 3,405 were completed, 2,300 by Boeing, 605 by Douglas and 500 by Lockheed-Vega. Changes were incremental - a frameless moulded Plexiglas bombardier's nose, fully feathering propellers and strengthened landing gear - with the final blocks receiving the Bendix chin turret. The Memphis Belle was a B-17F."
+    },
+    {
+      "code": "B-17G",
+      "desc": "The definitive version and the most numerous variant of the programme at 8,680 aircraft, over two-thirds of all B-17 production. Its defining feature was the Bendix chin turret, which closed the head-on attack gap Luftwaffe fighters had exploited and lifted defensive armament to thirteen .50-calibre guns. Eighty-five were transferred to the RAF as the Fortress Mk III. All specification figures on this entry describe this model."
+    },
+    {
+      "code": "YB-40",
+      "desc": "A gunship conversion meant to escort bomber formations before long-range fighters were available in numbers. The bomb bay carried roughly 10,700 rounds of ammunition instead of bombs, feeding up to 16 guns including a second dorsal turret and a chin turret. Twenty-six were built and twelve flew missions from RAF Alconbury between 29 May and 29 July 1943 before the idea was dropped."
+    },
+    {
+      "code": "SB-17G / PB-1G / PB-1W",
+      "desc": "Post-war rescue and radar conversions. Around 130 B-17Gs became SB-17Gs carrying a droppable airborne lifeboat beneath the fuselage for air-sea rescue. The US Coast Guard operated 18 PB-1Gs on search-and-rescue and International Ice Patrol duties. The US Navy fitted 31 aircraft with one-megawatt AN/APS-20 search radar in a ventral radome as the PB-1W, an early airborne early-warning platform."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces / United States Air Force",
+      "role": "Primary operator - strategic bombing, air-sea rescue, drone and drone-director duties",
+      "status": "Retired",
+      "since": "1937",
+      "fleetSize": "12,731 built; peak Eighth Air Force strength in the thousands",
+      "homeBase": "Eighth Air Force bases across East Anglia, England"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Fortress Mk I, Mk II/IIA and Mk III - daylight bombing, maritime patrol and radio countermeasures",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "20 Mk I, 45 Mk IIA and 85 Mk III among others",
+      "homeBase": "RAF Polebrook and later Coastal Command and 100 Group stations"
+    },
+    {
+      "name": "United States Navy",
+      "role": "PB-1W airborne early warning and maritime patrol",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "31 post-war B-17Gs acquired",
+      "homeBase": "NAS Quonset Point, Rhode Island"
+    },
+    {
+      "name": "United States Coast Guard",
+      "role": "PB-1G search and rescue, International Ice Patrol and photo-mapping",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "18 transferred from the US Navy plus additional aircraft",
+      "homeBase": "US Coast Guard air stations"
+    },
+    {
+      "name": "Força Aérea Brasileira (Brazilian Air Force)",
+      "role": "Search and rescue and photo-reconnaissance - the last military operator of the type",
+      "status": "Retired",
+      "since": "1951",
+      "fleetSize": "13",
+      "homeBase": "Recife, Pernambuco - 6º Grupo de Aviação"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B17",
+    "howToFind": "Only a handful of B-17s are airworthy, so appearances are rare and seasonal. In Europe the one to watch for is 'Sally B', registered G-BEDF and based at Duxford Aerodrome, which files flight plans for UK and continental airshows between roughly May and September; it is easiest to catch on FlightRadar24 on transit legs to and from display sites rather than over the display itself. In the United States the surviving airworthy examples show up around airshow weekends and museum tour stops, usually on short, low-level positioning flights."
+  },
+  "lastUpdated": "2026-09-05",
+  "changelog": [
+    {
+      "date": "2026-09-05",
+      "change": "Entry created - full article, specifications, variants, incident log and survivor list written from Imperial War Museums, US Air Force and National Museum of the USAF fact sheets, NTSB and US Coast Guard aviation history sources, museum collection records and Wikipedia.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Flying Fortress",
+    "B-17G",
+    "Sally B",
+    "Eighth Air Force",
+    "WWII Heavy Bomber",
+    "Duxford"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing B-17 Flying Fortress is a four-engine heavy bomber built by Boeing for the United States Army Air Corps and its wartime successor, the United States Army Air Forces. It first flew as the private-venture Boeing Model 299 on 28 July 1935, entered service with the 2nd Bombardment Group at Langley Field, Virginia, on 4 March 1937, and stayed in production until 1945, by which point 12,731 had been completed by Boeing, Douglas and Lockheed-Vega. {{ref:wikipedia-b17}} {{ref:vintage-y1b17}}",
+      "The B-17 was the aircraft the American daylight precision bombing campaign over Europe was built around, delivering more than 640,000 of the roughly 1.5 million tons of bombs dropped on Nazi Germany. That came at a cost of 4,688 Eighth Air Force Fortresses lost across 291,508 sorties, one for every 62.1 flown. Its bomb load was smaller than the B-24 Liberator's, and unescorted formations proved unable to defend themselves in 1943, but it bombed more accurately than the B-24 and was the type its crews preferred. {{ref:wikipedia-b17}} {{ref:iwm-b17-vs-b24}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The design answered a United States Army Air Corps proposal issued on 8 August 1934 for a multi-engine bomber. Boeing built the Model 299 as a private venture and gave it four engines where Douglas and Martin submitted twin-engine designs, a decision that bought the range and altitude performance the later aircraft depended on. The prototype first flew on 28 July 1935, and reporter Richard Williams coined the name 'Flying Fortress' at its public debut in reference to the gun positions along the fuselage; Boeing subsequently trademarked it. {{ref:wikipedia-b17}} {{ref:hill-aerospace}}",
+          "The Model 299 outflew its rivals in the fly-off but was destroyed on 30 October 1935 at Wright Field, Ohio, after taking off with the control-surface gust locks still engaged. Army test pilot Major Ployer Peter Hill and Boeing observer Les Tower were killed, and the production order went to the twin-engine Douglas B-18; the accident is widely credited with prompting the written pre-flight checklist. The Air Corps ordered 13 service-test YB-17s on 17 January 1936 through a procurement loophole, and twelve Y1B-17s reached the 2nd Bombardment Group from 4 March 1937 for tactical evaluation. {{ref:wikipedia-accidents}} {{ref:wikipedia-b17}} {{ref:vintage-y1b17}}"
+        ]
+      },
+      {
+        "heading": "Design & Defensive Armament",
+        "paragraphs": [
+          "The definitive B-17G was 74 ft 4 in long with a wingspan of 103 ft 9 in, powered by four Wright R-1820-97 Cyclone nine-cylinder radials of 1,200 hp each. Every engine drove a turbo-supercharger, which is what allowed the aircraft to bomb from 25,000 ft and above: maximum speed was 287 mph, cruising speed 182 mph, service ceiling 35,600 ft and range 2,000 miles carrying 4,000 lb of bombs. The wing was more efficient than the B-24's at the altitudes European missions were flown at, and pilots found the aircraft easier and more forgiving to handle. {{ref:hill-aerospace}} {{ref:amc-museum}} {{ref:iwm-b17-vs-b24}}",
+          "Defensive armament grew through the production run from seven guns on the B-17E to thirteen .50-calibre Browning machine guns on the B-17G, sited in chin, dorsal, ventral ball, tail, cheek and waist positions so that formations could lay overlapping fire across every approach. Eighth Air Force B-17s claimed one Luftwaffe fighter for every 44 sorties, against one per 87 for the B-24. The trade was payload: a normal European load was 4,000 to 5,000 lb against up to 8,800 lb for the B-24, and the 17,600 lb maximum quoted for the type applied only to short-range flights using external wing racks. The RAF's Lancaster carried the heaviest bomb loads in the European theatre. {{ref:iwm-b17-vs-b24}} {{ref:nps-44-83690}} {{ref:wikipedia-variants}} {{ref:iwm-lancaster}}"
+        ]
+      },
+      {
+        "heading": "Production & Variants",
+        "paragraphs": [
+          "Pre-war output was small - 39 B-17Bs, 38 B-17Cs and 42 B-17Ds, fewer than 120 aircraft in total - and early combat exposed how lightly armed they were. Twenty B-17Cs went to the RAF as the Fortress Mk I; No. 90 Squadron flew them against German warships at Brest from 30,000 ft on 24 July 1941 and had lost eight in combat by September, after which the RAF abandoned daylight bombing with the type. The B-17E of 1941 was the answer: the fuselage was stretched by about 10 ft, a much larger fin and rudder were fitted along with a manned tail gun position, a powered dorsal turret was added and a ball turret replaced the earlier ventral installation, at the cost of roughly 20 percent more weight. {{ref:wikipedia-variants}} {{ref:wikipedia-b17}}",
+          "Volume came from the B-17F and B-17G, built under a pooling arrangement between Boeing, Douglas and Lockheed-Vega. 3,405 B-17Fs were produced - 2,300 by Boeing, 605 by Douglas and 500 by Vega - introducing a frameless moulded Plexiglas bombardier's nose, fully feathering propellers and strengthened landing gear. The B-17G added the Bendix chin turret that closed the head-on attack gap, and at 8,680 aircraft it accounted for more than two-thirds of all B-17 production, with 85 transferred to the RAF as the Fortress Mk III. {{ref:wikipedia-variants}}"
+        ]
+      },
+      {
+        "heading": "Daylight Bombing over Germany",
+        "paragraphs": [
+          "The Eighth Air Force's unescorted deep-penetration raids of 1943 exposed the limits of the self-defending bomber formation. On 17 August 1943, 376 B-17s attacked the Messerschmitt works at Regensburg and the ball-bearing plants at Schweinfurt; 60 were lost - 24 from the Regensburg force of 146 and 36 from the Schweinfurt force of 230 - with 557 crew missing or taken prisoner, seven killed aboard returning aircraft and 21 wounded. Albert Speer recorded an immediate 34 percent fall in bearing output, but German stockpiles covered the shortfall and the raid was never followed up. {{ref:schweinfurt-regensburg}}",
+          "The second Schweinfurt raid of 14 October 1943, remembered as 'Black Thursday', was worse. Of 291 B-17s dispatched, 229 bombed and 60 were shot down, with 121 more damaged and 650 of 2,900 crew lost - a 22 percent casualty rate in a single day. The American official history concluded that the Eighth Air Force had for the time being lost air superiority over Germany, and unescorted deep raids were suspended until February 1944, when they resumed during 'Big Week' behind long-range P-51 Mustang escort. Crew survival odds were poor throughout that period: in the first year of operations over Germany only 36 percent of bomber crewmen completed the 25-mission tour then required. {{ref:second-schweinfurt}} {{ref:iwm-b17}}"
+        ]
+      },
+      {
+        "heading": "Escort Gunships, Rescue Aircraft & Post-War Service",
+        "paragraphs": [
+          "The YB-40 was an attempt to solve the escort problem with the bomber itself: a B-17F carrying a second dorsal turret, a chin turret, twin waist guns and up to 16 guns in total, with roughly 10,700 rounds of ammunition stowed in place of the bomb load. Twenty-six were built and twelve flew from RAF Alconbury between 29 May and 29 July 1943. Once the bombers they were escorting dropped their bombs and accelerated, the heavy YB-40s could not hold formation, and the programme was abandoned - though its chin turret was adopted for late B-17Fs and every B-17G. {{ref:wikipedia-yb40}} {{ref:wikipedia-variants}}",
+          "The airframe found other work after 1945. About 130 B-17Gs became SB-17Gs carrying a droppable airborne lifeboat for air-sea rescue, and the US Coast Guard flew 18 PB-1Gs transferred from the Navy on search-and-rescue and International Ice Patrol duties until the last was retired on 14 October 1959. The US Navy fitted 31 post-war B-17Gs with AN/APS-20 radar as the PB-1W. The USAF's final operational sortie came on 6 August 1959, when DB-17P 44-83684 directed drone QB-17N 44-83717 as a missile target at Holloman AFB, New Mexico. The Brazilian Air Force, which received 13 aircraft in 1951, flew the type on search-and-rescue and photo-reconnaissance work from Recife until 1968. {{ref:wikipedia-variants}} {{ref:cg-pb1g}} {{ref:aerovintage-drone}} {{ref:wikipedia-operators}}"
+        ]
+      },
+      {
+        "heading": "Survivors & the Duxford Connection",
+        "paragraphs": [
+          "Roughly 45 to 50 complete B-17s survive worldwide, the large majority in the United States, and only a handful remain in flying condition. The most historically significant is B-17F 41-24485 'Memphis Belle' of the 324th Bombardment Squadron, 91st Bombardment Group, whose crew under Captain Robert K. Morgan became the first to finish 25 combat missions on 17 May 1943 against submarine facilities at Lorient. After a restoration begun in 2005, it went on permanent display in the WWII Gallery of the National Museum of the United States Air Force at Dayton, Ohio, on 17 May 2018. {{ref:wikipedia-b17}} {{ref:usaf-memphis-belle}}",
+          "Britain's surviving Fortresses are concentrated at Duxford in Cambridgeshire. B-17G 44-83735, built by Douglas at Long Beach and delivered on 28 May 1945, served no combat tour and instead flew for Transocean Air Lines, the Assemblies of God as 'Ambassador II' and French aerial-survey operators before the Imperial War Museum acquired it in 1978; it entered the American Air Museum in 1997 and, after a 16-month conservation completed in September 2012, wears 96th Bombardment Group 'Square C' markings in place of the 'Mary Alice' scheme of the 401st Bombardment Group it had carried previously. Sharing the aerodrome is B-17G 44-85784 'Sally B', registered G-BEDF and operated by B-17 Preservation Ltd rather than by the museum, the only airworthy B-17 in Europe; one side still carries the 'Memphis Belle' markings applied for the 1990 film. {{ref:iwm-duxford-b17}} {{ref:iwm-b17}} {{ref:sallyb}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia-b17",
+      "name": "Boeing B-17 Flying Fortress",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress"
+    },
+    {
+      "id": "wikipedia-variants",
+      "name": "Boeing B-17 Flying Fortress variants",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress_variants"
+    },
+    {
+      "id": "wikipedia-accidents",
+      "name": "Accidents and incidents involving the Boeing B-17 Flying Fortress",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_Boeing_B-17_Flying_Fortress"
+    },
+    {
+      "id": "wikipedia-operators",
+      "name": "List of Boeing B-17 Flying Fortress operators",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Boeing_B-17_Flying_Fortress_operators"
+    },
+    {
+      "id": "wikipedia-yb40",
+      "name": "Boeing YB-40 Flying Fortress",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_YB-40_Flying_Fortress"
+    },
+    {
+      "id": "schweinfurt-regensburg",
+      "name": "Schweinfurt-Regensburg mission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Schweinfurt%E2%80%93Regensburg_mission"
+    },
+    {
+      "id": "second-schweinfurt",
+      "name": "Second Schweinfurt raid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Second_Schweinfurt_raid"
+    },
+    {
+      "id": "iwm-b17",
+      "name": "B-17 Flying Fortress",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/history/b-17-flying-fortress"
+    },
+    {
+      "id": "iwm-b17-vs-b24",
+      "name": "B-17 Flying Fortress and B-24 Liberator compared",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/history/second-world-war/usa/b-17-vs-b-24"
+    },
+    {
+      "id": "iwm-duxford-b17",
+      "name": "Boeing B-17G Flying Fortress (collection object 70000084)",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/collections/item/object/70000084"
+    },
+    {
+      "id": "iwm-lancaster",
+      "name": "The Avro Lancaster Bomber and the Dambusters Raid",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/history/the-avro-lancaster-bomber-and-the-dambusters-raid"
+    },
+    {
+      "id": "usaf-memphis-belle",
+      "name": "Memphis Belle fact sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/458995/memphis-belle/"
+    },
+    {
+      "id": "hill-aerospace",
+      "name": "B-17 Flying Fortress",
+      "publisher": "Hill Aerospace Museum",
+      "url": "https://www.aerospaceutah.org/b-17-flying-fortress/"
+    },
+    {
+      "id": "amc-museum",
+      "name": "B-17G Flying Fortress",
+      "publisher": "Air Mobility Command Museum",
+      "url": "https://www.amcmuseum.org/at-the-museum/aircraft/b-17g-flying-fortress/"
+    },
+    {
+      "id": "nps-44-83690",
+      "name": "B-17G \"Flying Fortress\" No. 44-83690",
+      "publisher": "U.S. National Park Service",
+      "url": "https://www.nps.gov/articles/b17g-flying-fortress-no-4483690.htm"
+    },
+    {
+      "id": "cg-pb1g",
+      "name": "Boeing PB-1G (1946)",
+      "publisher": "Coast Guard Aviation History",
+      "url": "https://cgaviationhistory.org/aircraft_/boeing-pb-1g/"
+    },
+    {
+      "id": "aerovintage-drone",
+      "name": "Last DB-17/QB-17 Drone Mission (August 6, 1959)",
+      "publisher": "Aero Vintage Books",
+      "url": "https://www.aerovintage.com/2022/04/30/last-db-17-qb-17-drone-mission-august-6-1959/"
+    },
+    {
+      "id": "sallyb",
+      "name": "Sally B - B-17 Preservation Ltd",
+      "publisher": "B-17 Preservation Ltd",
+      "url": "https://www.sallyb.org.uk/"
+    },
+    {
+      "id": "vintage-y1b17",
+      "name": "Today In Aviation History: Y1B-17 Officially Enters Service with 2nd Bomb Group",
+      "publisher": "Vintage Aviation News",
+      "url": "https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-y1b-17-officially-enters-service-with-2nd-bomb-group.html"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing B-17F Memphis Belle - National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195966/boeing-b-17f-memphis-belle/"
+    },
+    {
+      "name": "American Air Museum, IWM Duxford",
+      "url": "https://www.iwm.org.uk/visits/iwm-duxford/american-air-museum"
+    },
+    {
+      "name": "Charlie Brown and Franz Stigler incident",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Brown_and_Franz_Stigler_incident"
+    },
+    {
+      "name": "NTSB investigation ERA20MA001 - B-17 crash at Bradley International Airport",
+      "url": "https://www.ntsb.gov/investigations/Pages/ERA20MA001.aspx"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1935-10-30",
+      "title": "Model 299 prototype destroyed at Wright Field",
+      "tag": "Loss of control (test flight)",
+      "summary": "The Boeing Model 299 prototype, NX13372, crashed on takeoff at Wright Field, Ohio, after the crew flew it with the control-surface gust locks still engaged. Army test pilot Major Ployer Peter Hill and Boeing observer Les Tower were killed, and the production contract went to the Douglas B-18 instead. The accident is widely credited with prompting the adoption of the written pre-flight checklist.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_Boeing_B-17_Flying_Fortress"
+    },
+    {
+      "date": "1943-01-03",
+      "title": "Ball turret gunner survives a fall from 20,000 ft",
+      "tag": "Combat loss",
+      "summary": "B-17F 41-24620 was shot down over Saint-Nazaire, France. Ball turret gunner Sgt Alan Magee fell roughly 20,000 ft without a parachute, crashed through the glass roof of the town's railway station and survived with serious injuries, becoming one of the war's best-documented free-fall survivals.",
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_Boeing_B-17_Flying_Fortress"
+    },
+    {
+      "date": "1943-05-17",
+      "title": "Memphis Belle completes 25 combat missions",
+      "tag": "Milestone",
+      "summary": "B-17F 41-24485 'Memphis Belle' of the 324th Bombardment Squadron, 91st Bombardment Group, flown by Captain Robert K. Morgan, became the first Eighth Air Force bomber crew to complete the 25-mission tour, on a raid against submarine facilities at Lorient. The aircraft and crew returned to the United States on 9 June 1943 for a three-month war bond tour.",
+      "source": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/458995/memphis-belle/"
+    },
+    {
+      "date": "1943-08-17",
+      "title": "Schweinfurt-Regensburg mission: 60 B-17s lost in a day",
+      "tag": "Combat losses",
+      "summary": "376 B-17s attacked the Messerschmitt plant at Regensburg and the ball-bearing works at Schweinfurt in the Eighth Air Force's first deep unescorted double-strike. Sixty bombers were lost - 24 from the 146-aircraft Regensburg force and 36 from the 230-aircraft Schweinfurt force - with 557 aircrew missing or taken prisoner, seven killed aboard returning aircraft and 21 wounded. German bearing output fell 34 percent but recovered from existing stockpiles.",
+      "source": "https://en.wikipedia.org/wiki/Schweinfurt%E2%80%93Regensburg_mission"
+    },
+    {
+      "date": "1943-10-14",
+      "title": "Second Schweinfurt raid - 'Black Thursday'",
+      "tag": "Combat losses",
+      "summary": "Of 291 B-17s dispatched against the Schweinfurt ball-bearing plants, 229 bombed and 60 were shot down, with 121 more damaged. 650 of the 2,900 aircrew involved were killed, wounded or missing - a 22 percent loss rate in one mission. The American official history judged that the Eighth Air Force had lost air superiority over Germany, and unescorted deep-penetration raids were suspended until February 1944.",
+      "source": "https://en.wikipedia.org/wiki/Second_Schweinfurt_raid"
+    },
+    {
+      "date": "1943-12-20",
+      "title": "'Ye Olde Pub' escorted out by a Luftwaffe fighter",
+      "tag": "Combat damage",
+      "summary": "B-17F 42-3167 'Ye Olde Pub' of the 527th Bombardment Squadron, 379th Bombardment Group, was crippled over Bremen with two engines out, most of its guns unusable and part of the rudder and port elevator shot away. Luftwaffe pilot Franz Stigler, flying a Bf 109G-6, intercepted the bomber but did not fire, escorting it to the coast before saluting and turning back. Pilot Charlie Brown flew about 250 miles across the North Sea and landed at RAF Seething. The two pilots met again in 1990.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Charlie_Brown_and_Franz_Stigler_incident"
+    },
+    {
+      "date": "1959-08-06",
+      "title": "Last USAF operational B-17 sortie",
+      "tag": "Milestone",
+      "summary": "DB-17P 44-83684 directed drone QB-17N 44-83717 as an air-to-air missile target for F-101 and F-104 fighters at Holloman AFB, New Mexico. The drone was hit repeatedly but landed at an emergency strip on White Sands Missile Range. The 3205th Drone Group retired its last director aircraft on 11 August 1959, ending B-17 operations with the US Air Force.",
+      "source": "https://www.aerovintage.com/2022/04/30/last-db-17-qb-17-drone-mission-august-6-1959/"
+    },
+    {
+      "date": "2019-10-02",
+      "title": "Collings Foundation B-17G 'Nine-O-Nine' crashes at Bradley",
+      "tag": "Accident (sightseeing flight)",
+      "summary": "B-17G N93012, operating a paid sightseeing flight, lost partial power on the No. 4 engine after takeoff from Bradley International Airport, Windsor Locks, Connecticut, and struck approach lighting and a de-icing facility while returning. Seven of the 13 aboard were killed. The NTSB found the pilot failed to manage aircraft configuration and airspeed after shutting down the engine, with inadequate maintenance, an ineffective operator safety management system and insufficient FAA oversight as contributing factors.",
+      "fatalities": 7,
+      "source": "https://www.ntsb.gov/investigations/Pages/ERA20MA001.aspx"
+    },
+    {
+      "date": "2022-11-12",
+      "title": "Wings Over Dallas mid-air collision",
+      "tag": "Mid-air collision (airshow)",
+      "summary": "B-17G 'Texas Raiders' and a Bell P-63F Kingcobra collided during a Commemorative Air Force display at Dallas Executive Airport, Texas, destroying both aircraft. All five crew aboard the B-17 and the P-63's pilot were killed; there were no injuries on the ground.",
+      "fatalities": 6,
+      "source": "https://www.aopa.org/news-and-media/all-news/2022/november/12/wings-over-dallas-caf-p63-b17-midair"
+    }
+  ],
+  "survivors": {
+    "intro": "Roughly 45 to 50 complete B-17s survive worldwide, the great majority in the United States, and only a handful are still airworthy. Duxford in Cambridgeshire is unusual in holding two.",
+    "airframes": [
+      {
+        "serial": "44-83735",
+        "name": "Duxford's two B-17s",
+        "location": "Imperial War Museum Duxford - American Air Museum",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "url": "https://www.iwm.org.uk/visits/iwm-duxford/american-air-museum",
+        "note": "Duxford holds two: a static B-17G in 96th Bombardment Group markings inside the American Air Museum, and ‘Sally B’ (G-BEDF), the only airworthy B-17 in Europe - based on the airfield but privately owned and flown by B-17 Preservation Ltd rather than part of the IWM collection.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "41-24485",
+        "name": "Memphis Belle",
+        "location": "National Museum of the United States Air Force - WWII Gallery",
+        "place": "Dayton, Ohio, United States",
+        "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/458995/memphis-belle/",
+        "note": "A B-17F of the 324th Bombardment Squadron, 91st Bombardment Group, and the aircraft whose crew, under Captain Robert K. Morgan, became the first in the Eighth Air Force to complete 25 combat missions, on 17 May 1943. Restored from 2005 and placed on permanent display on 17 May 2018.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-83663",
+        "name": "Short Bier",
+        "location": "Hill Aerospace Museum",
+        "place": "Roy, Utah, United States",
+        "url": "https://www.aerospaceutah.org/b-17-flying-fortress/",
+        "note": "A B-17G-90-DL that arrived at the museum in 1987 and is displayed in the markings of 'Short Bier' of the 493rd Bombardment Group.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

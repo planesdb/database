@@ -1,0 +1,312 @@
+{
+  "name": "Su-57 Felon",
+  "fullName": "Sukhoi Su-57 Felon",
+  "manufacturer": "Sukhoi (United Aircraft Corporation)",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Fifth-Generation Stealth Air-Superiority / Multirole Fighter",
+  "tagline": "Russia's twin-engine answer to the F-22 and F-35. It combines low-observable shaping, internal weapons bays and supercruise performance, though independent analysts judge its radar cross-section and production numbers to trail well behind its American rivals.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "The Su-57 grew out of Russia's PAK FA (Perspective Aviation Complex of Frontline Aviation) programme launched in the 2000s to replace the MiG-29 and Su-27 with a genuine stealth fighter. The T-50 prototype first flew on 29 January 2010, and after a long, sanctions-slowed development the type - renamed Su-57 - entered serial production in 2019 and formally joined Russian Aerospace Forces service in December 2020. Early production was tiny, hampered by the loss of Ukrainian-sourced components after 2014 and by a fatal 2019 prototype crash, but output has since increased at the Komsomolsk-on-Amur plant. The Su-57 has flown in the war against Ukraine since shortly after the February 2022 invasion, initially launching missiles from within Russian airspace before later flights - escorted by Su-35s - fired Kh-59/Kh-69 stand-off cruise missiles at Ukrainian targets; Russian officials have also claimed unconfirmed air-to-air kills for the type. In June 2024 Ukraine claimed a long-range drone strike damaged or destroyed Su-57s at Akhtubinsk air base, illustrating the aircraft's continued vulnerability even far from the front line. In 2025-2026 Algeria became the Su-57's first confirmed export customer, taking delivery of Su-57E variants and making the type's combat debut outside Russian service a live possibility for the years ahead.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1327,
+      "text": "1,153 kn (1,327 mph / 2,135 km/h)"
+    },
+    "cruiseSpeed": "Mach 1.3 supercruise (sustained supersonic flight without afterburner)",
+    "range": {
+      "miles": 2175,
+      "text": "2,175 mi (3,500 km) on internal fuel; extended further with aerial refuelling via retractable probe"
+    },
+    "serviceCeiling": {
+      "ft": 65600,
+      "text": "65,600 ft (20,000 m)"
+    },
+    "wingspan": {
+      "ft": 46.3,
+      "text": "46 ft 3 in (14.1 m)"
+    },
+    "length": {
+      "ft": 65.9,
+      "text": "65 ft 11 in (20.1 m)"
+    },
+    "height": {
+      "ft": 15.1,
+      "text": "15 ft 1 in (4.6 m)"
+    },
+    "weight": "empty: 40,785 lb (18,500 kg); normal takeoff: 55,115 lb (25,000 kg); MTOW: 77,160 lb (35,000 kg)",
+    "engines": "2 x Saturn AL-41F1 (izdeliye 117) turbofans, ~142 kN afterburning thrust each; later production shifting to the more powerful izdeliye 30 (AL-51F1)",
+    "armament": "1 x GSh-30-1 30mm cannon (150 rounds); internal bays for R-77M/R-37M air-to-air missiles and Kh-38/Kh-59MK2/Kh-69 stand-off missiles or KAB-250/500 guided bombs; 6 external hardpoints for non-stealth missions",
+    "crew": "1",
+    "capacity": "N/A - single-seat fighter; internal bays carry ~1,500 kg (3,300 lb), rising to ~10,000 kg (22,000 lb) total with external hardpoints in non-stealth loadouts",
+    "firstFlight": {
+      "date": "2010-01-29",
+      "year": 2010
+    },
+    "serviceEntryDate": "2020-12-01",
+    "retiredDate": null,
+    "numberBuilt": 32,
+    "unitCost": {
+      "usd": 35000000,
+      "text": "~$35-42M (officially cited figure); Western analysts believe true program unit cost is considerably higher given low-rate production"
+    }
+  },
+  "variants": [
+    {
+      "code": "Su-57 (T-50)",
+      "desc": "Baseline production fighter for the Russian Aerospace Forces, following the T-50 prototype programme."
+    },
+    {
+      "code": "Su-57M",
+      "desc": "Upgraded production standard re-engined with the more powerful izdeliye 30 (AL-51F1) turbofan."
+    },
+    {
+      "code": "Su-57E",
+      "desc": "Export configuration with modified IFF and export-cleared systems; first delivered to Algeria from 2025."
+    },
+    {
+      "code": "Su-75 Checkmate (LTS)",
+      "desc": "Related lightweight single-engine stealth fighter concept developed alongside the Su-57 for export markets, not a direct variant."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Russian Aerospace Forces",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "~30",
+      "homeBase": "Akhtubinsk & Lipetsk Air Bases",
+      "logo": "russian-aerospace-forces.svg"
+    },
+    {
+      "name": "Algerian Air Force (Su-57E)",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2025",
+      "fleetSize": "~6 (initial batch)",
+      "homeBase": "Undisclosed"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "SU57",
+    "howToFind": "Su-57s essentially never broadcast civil ADS-B and rarely leave Russian or, now, Algerian airspace, so confirmed Flightradar24 sightings are effectively unheard of; most public tracking of the type instead comes from geolocated video, satellite imagery of Akhtubinsk and Lipetsk, and air-show flypasts such as MAKS."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/feed",
+      "topicTag": "Su-57"
+    },
+    {
+      "name": "Military Watch Magazine",
+      "url": "https://militarywatchmagazine.com/feed",
+      "topicTag": "Su-57 Felon"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Russian Su-57 Felon crashes during training flight near Moscow, pilot ejects",
+      "source": "19FortyFive",
+      "date": "2026-07-23",
+      "category": "Incident",
+      "url": "https://www.19fortyfive.com/2026/07/a-rare-russian-su-57-felon-stealth-fighter-has-just-crashed-and-looks-destroyed/"
+    },
+    {
+      "title": "Russia's new two-seat Su-57D variant takes its first flight",
+      "source": "The War Zone",
+      "date": "2026-05-19",
+      "category": "Development",
+      "url": "https://www.twz.com/air/russias-new-two-seat-su-57-felon-takes-its-first-flight"
+    },
+    {
+      "title": "Algeria's new Su-57E export deal raises concern for NATO's southern flank",
+      "source": "19FortyFive",
+      "date": "2026-02-01",
+      "category": "Exports",
+      "url": "https://www.19fortyfive.com/2026/02/the-felon-in-africa-why-algerias-new-su-57e-is-a-nightmare-for-natos-southern-flank/"
+    }
+  ],
+  "tags": [
+    "su-57",
+    "su57",
+    "felon",
+    "sukhoi",
+    "stealth fighter",
+    "fifth generation fighter",
+    "russian air force",
+    "pak fa",
+    "t-50",
+    "fighter jet",
+    "military"
+  ],
+  "quickFacts": [
+    "Russia's first stealth fighter has been built in tiny numbers - Western estimates suggest only a few dozen delivered, fewer than China builds of the J-20 in a year.",
+    "In June 2024, Ukrainian drones struck Akhtubinsk airbase and damaged at least one Su-57 on the ground - the first stealth fighter ever damaged by enemy action.",
+    "Algeria became the type's first export customer, with deliveries reported from 2025.",
+    "It has flown combat missions over Ukraine mostly as a stand-off missile launcher, rarely crossing the front line.",
+    "The first production aircraft crashed before delivery in 2019 - an inauspicious start for the program.",
+    "Its 3D thrust-vectoring makes it arguably the most agile fighter flying - at airshows it performs manoeuvres no Western stealth jet attempts."
+  ],
+  "article": {
+    "overview": [
+      "The Sukhoi Su-57 is a Russian twin-engine stealth fighter developed by Sukhoi for the Russian Aerospace Forces. It first flew in 2010 and carries its weapons internally in tandem belly bays to reduce radar signature.{{ref:wiki-su57}}",
+      "Production has run well behind plan - only a few dozen of a planned 76 aircraft were in service by the mid-2020s. It has flown combat missions over Ukraine from stand-off range since 2022, and Algeria became its first export customer, receiving initial Su-57Es in early 2026.{{ref:twz-algeria}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The PAK FA program of the early 2000s set out to give Russia what the F-22 had given America: a fifth-generation air-superiority fighter combining stealth, supercruise, sensor fusion and super-manoeuvrability. Sukhoi's T-50 design won the assignment, flying first on 29 January 2010 from Komsomolsk-on-Amur.{{ref:wiki-su57}}",
+          "The philosophy diverged deliberately from Lockheed's: where the F-22 buys survivability almost entirely through signature, the T-50 blended moderate stealth with extreme agility - 3D thrust-vectoring nozzles, relaxed stability, enormous control authority - betting that a fighter which is hard to see AND nearly impossible to out-turn beats one optimised for either alone.{{ref:wiki-su57}}",
+          "India joined as co-developer in 2007 with plans for a two-seat FGFA derivative, then withdrew in 2018 citing cost, technology-sharing and stealth-performance concerns - a loss of funding and scale from which the program's economics never fully recovered.{{ref:wiki-su57}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Felon's airframe is a widescreen blend of Flanker heritage and stealth shaping: widely spaced engines with a lifting body between them, all-moving tail surfaces, serrated skins and S-shaped(ish) inlets, and two tandem internal bays sized for its principal air-to-air and cruise missiles, with wing-root bays for short-range weapons. Western assessments generally credit a real but partial signature reduction - well above Flanker, short of F-22/F-35 class.{{ref:wiki-su57}}",
+          "Its sensor suite is ambitious: the N036 Byelka radar spreads five AESA arrays around the airframe (including side-looking and L-band wing arrays aimed at counter-stealth), paired with an infrared search-and-track ball and a heavily automated cockpit. The intended second-stage AL-51 'izdeliye 30' engines - promising supercruise and serrated stealth nozzles - began flying on production aircraft only in the mid-2020s, years behind schedule.{{ref:wiki-su57}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "Deliveries tell the program's story: a 2019 order for 76 aircraft by 2028, first serial delivery in 2020 (after the very first production jet crashed pre-delivery in 2019), and a trickle thereafter - Western estimates put the operational fleet in the dozens by the mid-2020s, with 2025's deliveries to the VKS reported as minimal while export airframes took priority.{{ref:ni-deliveries}}",
+          "Over Ukraine the Su-57 has flown combat missions since 2022 - launching stand-off missiles from Russian airspace and reportedly conducting some defence-suppression sorties - while Moscow keeps its rarest fighter carefully clear of contested airspace. Ukrainian long-range drone strikes claimed damage to at least one Felon at Akhtubinsk in 2024, underlining why: each airframe is, effectively, irreplaceable in the near term.{{ref:wiki-su57}}",
+          "The export breakthrough came late but concretely: Algeria confirmed itself as launch customer in early 2025{{ref:mwm-algeria}}, with a reported 2021-vintage contract for 14 Su-57Es - roughly six delivered from 2025, footage confirming operations alongside Algerian Su-35s by February 2026 - and India, post-2025 border tensions, publicly re-examining the type it once abandoned.{{ref:twz-algeria}}{{ref:aer-algeria}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The program's second decade is about volume and derivatives: a modernised Su-57M with the definitive engines, the single-engine Su-75 'Checkmate' pitched as its affordable stablemate (still unflown years after its 2021 rollout), and teaming trials with the S-70 Okhotnik-B stealth combat drone - the Felon cast as command node for Russia's loyal-wingman ambitions.{{ref:wiki-su57}}",
+          "Sanctions run through everything: Western-sourced machine tools and electronics named in leaked documents, workarounds through third countries, and a production system visibly straining to scale. The Su-57's engineering is no longer its hardest problem; its industrial base is.{{ref:ni-deliveries}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Verdicts on the Felon split along what you measure. As a technology demonstrator for Russian aerospace - vectoring stealth, distributed AESA, weapons-bay integration - it delivered genuine firsts for its industry. As a fleet, it has yet to matter: numbers too small to shape any campaign, held back from the one war its country is fighting.{{ref:wiki-su57}}",
+          "Its next decade will decide which reading holds: Algeria's jets entering full service, India's choice pending, engines finally maturing - or a small fleet overtaken by sixth-generation programmes already flying elsewhere.{{ref:twz-algeria}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-su57",
+      "name": "Sukhoi Su-57",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-57"
+    },
+    {
+      "id": "twz-algeria",
+      "name": "Algeria Says It's The Su-57 Felon's First Export Customer",
+      "publisher": "TWZ (The War Zone)",
+      "url": "https://www.twz.com/air/algeria-says-its-the-su-57-felons-first-export-customer"
+    },
+    {
+      "id": "aer-algeria",
+      "name": "Algeria's First Su-57E Reportedly Captured in Flight",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/02/11/algerias-first-su-57e/"
+    },
+    {
+      "id": "ni-deliveries",
+      "name": "Russia Delivered Few, If Any, Su-57s in 2025",
+      "publisher": "The National Interest",
+      "url": "https://nationalinterest.org/blog/buzz/russia-delivered-few-if-any-su-57s-in-2025-ps-010926"
+    },
+    {
+      "id": "mwm-algeria",
+      "name": "Algeria Confirms First Su-57 Fighters Arriving in 2025",
+      "publisher": "Military Watch Magazine",
+      "url": "https://militarywatchmagazine.com/article/algeria-confirmed-first-foreign-client-russia-su57-how-many"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Sukhoi Su-57",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-57"
+    },
+    {
+      "name": "Britannica - Sukhoi Su-57 Felon",
+      "url": "https://www.britannica.com/technology/Sukhoi-Su-57"
+    },
+    {
+      "name": "Army Recognition - Algeria Becomes First Foreign Operator of Su-57E",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2025/algeria-becomes-first-foreign-operator-of-russian-su-57e-fighter-jet-with-delivery-in-2025"
+    },
+    {
+      "name": "GlobalMilitary.net - Su-57 Felon Combat Aircraft Specs & Operators",
+      "url": "https://www.globalmilitary.net/aircraft/su-57-felon/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and 2025-26 export/production status.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2019-12-24",
+      "title": "First production Su-57 destroyed in test crash",
+      "summary": "The first serial-production Su-57 crashed and exploded on impact roughly 68 miles from the Komsomolsk-on-Amur plant, reportedly during a flight-control or engine-related test. The pilot ejected and was rescued alive.",
+      "fatalities": 0,
+      "tag": "Test flight failure",
+      "source": "https://www.twz.com/31620/su-57-felon-advanced-fighter-crashes-in-russia"
+    },
+    {
+      "date": "2024-06-08",
+      "title": "Damaged by a Ukrainian drone strike",
+      "summary": "Ukraine's military intelligence said a drone strike hit an Su-57 at Akhtubinsk airfield, roughly 589 km from the front line. A Russian military-affiliated channel acknowledged shrapnel damage, though the full extent and repair status were unconfirmed.",
+      "tag": "Combat damage (unconfirmed extent)",
+      "source": "https://theaviationist.com/2024/06/09/su-57-felon-hit-by-ukrainian-drone-strike/"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Crash near Moscow amid suspected friendly fire",
+      "summary": "An Su-57 crashed near Zvenigorod, west of Moscow, during what Russia's defence ministry called a takeoff accident. Russian military bloggers suggested the capital's air-defence batteries may have shot it down, a cause Russian officials have not confirmed. The pilot ejected safely.",
+      "fatalities": 0,
+      "tag": "Crash (cause disputed)",
+      "source": "https://euromaidanpress.com/2026/07/23/russias-su-57-newest-stealth-fighter-crashes-near-moscow-and-the-suspects-are-russian-air-defenders/"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "singapore-airlines",
+  "slug": "singapore-airlines",
+  "name": "Singapore Airlines",
+  "shortName": "SIA",
+  "type": "commercial",
+  "country": { "name": "Singapore", "code": "sg" },
+  "founded": "1972-01-28",
+  "foundedDisplay": "28 January 1972",
+  "headquarters": "Airline House, 25 Airline Road, Singapore",
+  "logo": "singapore-airlines.png",
+  "website": "https://www.singaporeair.com",
+  "tagline": "The launch operator of the Airbus A380, and a byword for premium long-haul service for five decades.",
+  "bio": [
+    "Singapore Airlines traces its roots to Malayan Airways, which flew its first service in 1947, and took its present name on 28 January 1972 when the joint Malaysia-Singapore Airlines was split between the two countries. Flying from a city-state with no domestic market at all, it built its entire business on international long-haul service - and on a reputation for cabin service, symbolised by the \"Singapore Girl\", that made it a perennial fixture at the top of world-airline rankings.",
+    "The airline has a habit of aviation firsts: it launched the world's longest non-stop scheduled flights, and on 25 October 2007 it flew the very first commercial Airbus A380 service, from Singapore to Sydney, beating every other customer of the superjumbo into the air. Its A380s, 777s, A350s and 787s all funnel through its Changi hub, itself routinely rated among the world's best airports."
+  ],
+  "matchPattern": "singapore airlines|malaysia-singapore airlines"
+}

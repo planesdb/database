@@ -1,0 +1,19 @@
+{
+  "id": "indian-air-force",
+  "slug": "indian-air-force",
+  "name": "Indian Air Force",
+  "shortName": "IAF",
+  "type": "military",
+  "country": { "name": "India", "code": "in" },
+  "founded": "1932-10-08",
+  "foundedDisplay": "8 October 1932",
+  "headquarters": "Air Headquarters (Vayu Bhawan), New Delhi, India",
+  "logo": "indian-air-force.webp",
+  "website": null,
+  "tagline": "One of the world's largest air forces, blending Russian, Western and home-grown Indian aircraft into a single sprawling fleet.",
+  "bio": [
+    "The Indian Air Force was founded on 8 October 1932 as an auxiliary air arm under British rule, flying its first sorties with a handful of Westland Wapiti biplanes and four pilots. Since independence in 1947 it has fought in every major conflict on the subcontinent, and its transport and helicopter fleets have an equally storied record of high-altitude operations, sustaining garrisons in the Himalayas at some of the highest airfields on Earth.",
+    "Few air forces field a more varied inventory: license-built MiG-21s served for six decades until their final squadrons retired in 2025, while today's front line mixes Russian-designed Su-30MKIs, French Rafales, the indigenous HAL Tejas and heavy-lift C-17 Globemasters and CH-47 Chinooks. That east-meets-west fleet reflects India's non-aligned procurement history - and a growing push, through programmes like the Tejas, to design and build its combat aircraft at home."
+  ],
+  "matchPattern": "indian air force"
+}

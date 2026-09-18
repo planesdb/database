@@ -1,0 +1,452 @@
+{
+  "name": "A350",
+  "fullName": "Airbus A350",
+  "manufacturer": "Airbus",
+  "originCountry": {
+    "name": "Multinational (Europe)",
+    "code": "eu"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Long-Range Wide-Body Airliner",
+  "tagline": "A twin-engine long-range airliner and the first Airbus built largely from carbon-fibre composites, launched as a clean-sheet answer to the Boeing 787 after an A330 derivative failed to convince the airlines. It entered service with Qatar Airways in January 2015 and 734 had been delivered by August 2026, with no fatalities and a single hull loss in a runway collision.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The name XWB stands for Xtra-Wide-Body, adopted in 2006 when Airbus abandoned the A330-based design and widened the fuselage to take nine economy seats abreast",
+    "It was the first airliner approved for ETOPS beyond 180 minutes before it even entered service, cleared to 370 minutes in October 2014 - enough to cover 99.7 percent of the Earth's surface",
+    "Two of Airbus's biggest customers killed the original design in public: ILFC's Steven Udvar-Hazy called it a band-aid reaction to the 787",
+    "The A350-900ULR flew the world's longest scheduled service, Singapore to New York, from October 2018 at an average 18 hours 45 minutes",
+    "Redesigning it cost Airbus two years and pushed development from about $5.5 billion to a figure Reuters put at $15 billion",
+    "Its only hull loss was at Tokyo Haneda in January 2024, where all 379 people aboard evacuated a burning aircraft in about 11 minutes with the cabin announcement system dead"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the A350-900 unless stated, with A350-1000 figures given alongside where they differ. Airbus stopped publishing list prices after 2018 and does not publish an operating empty weight.",
+    "maxSpeed": {
+      "mph": 587,
+      "text": "510 kn (587 mph / 945 km/h)"
+    },
+    "cruiseSpeed": "561 mph (903 km/h), Mach 0.85",
+    "range": {
+      "miles": 9787,
+      "text": "9,787 mi (15,750 km, 8,500 nmi); 10,377 mi (16,700 km) on the A350-1000"
+    },
+    "serviceCeiling": {
+      "ft": 43100,
+      "text": "43,100 ft (13,137 m); 41,450 ft (12,634 m) on the A350-1000"
+    },
+    "wingspan": {
+      "ft": 212.4,
+      "text": "212 ft 5 in (64.75 m), common to all variants"
+    },
+    "length": {
+      "ft": 219.2,
+      "text": "219 ft 2 in (66.80 m); 242 ft 1 in (73.78 m) on the A350-1000"
+    },
+    "height": {
+      "ft": 55.9,
+      "text": "55 ft 11 in (17.05 m)"
+    },
+    "weight": "empty: not published; MTOW: 624,000 lb (283,000 kg); 710,000 lb (322,000 kg) on the A350-1000",
+    "engines": "2 x Rolls-Royce Trent XWB-84 turbofans, 84,000 lbf (374 kN) each; Trent XWB-97, 97,000 lbf (431 kN) each on the A350-1000. No other engine has ever been offered.",
+    "crew": "2 flight crew",
+    "capacity": "332-352 passengers in three classes and up to 440 maximum on the A350-900; 375-400 in three classes and up to 480 on the A350-1000. Economy is nine-across 3-3-3 as standard, ten-across on some aircraft. Hold takes 11-14 pallets in 172-208 cubic metres of usable volume.",
+    "firstFlight": {
+      "date": "2013-06-14",
+      "year": 2013
+    },
+    "serviceEntryDate": "2015-01-15",
+    "retiredDate": null,
+    "numberBuilt": 734,
+    "unitCost": {
+      "usd": 317400000,
+      "text": "$317.4M for the A350-900 and $366.5M for the A350-1000 (2018 list prices, the last Airbus published) - roughly $411M and $474M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$411M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "A350-800",
+      "desc": "A 60.45 m shrink of the -900 seating 276 in three classes over 8,245 nmi, aimed at replacing the A330-200. Airbus developed it as a simple shortening rather than an optimised airframe, costing a couple of percent in fuel burn. Its backlog peaked at 182 in 2008 and drained away as customers moved up. Cancelled in September 2014 after the A330neo launched."
+    },
+    {
+      "code": "A350-900",
+      "desc": "The baseline aircraft and by far the most numerous, seating 332 to 352 in three classes at a 283 tonne maximum takeoff weight and 8,500 nmi of range. It first flew on 14 June 2013 and entered service with Qatar Airways in January 2015. The standard has moved three times since, most substantially in the 2022 new production standard worth 30 more seats."
+    },
+    {
+      "code": "A350-900ULR",
+      "desc": "The ultra-long-range version, built only for Singapore Airlines, which took seven. Fuel capacity rises by 24,000 litres to 165,000 within the existing tankage, with extended winglets, giving up to 9,700 nmi and over 20 hours non-stop. The first was delivered on 22 September 2018 and opened Singapore to New York that October at an average 18 hours 45 minutes."
+    },
+    {
+      "code": "A350-1000",
+      "desc": "The stretch, 73.78 m long and seating 375 to 400 in three classes over 9,000 nmi at 322 tonnes. Redesigned in 2011 with higher weights and the more powerful Trent XWB-97 for trans-Pacific range, which won over Cathay Pacific and Singapore Airlines but lost Emirates. It needs a six-wheel main bogie rather than the -900's four to stay within pavement limits."
+    },
+    {
+      "code": "A350-1000ULR",
+      "desc": "An ultra-long-range -1000 for Qantas's Project Sunrise, ordered in May 2022 in a batch of 12. A 20,000-litre rear centre fuel tank is built into the existing structure, and its associated systems form the bulk of the certification work. The first aircraft flew from Toulouse on 2 June 2026, with delivery targeted for April 2027 in a 238-seat layout."
+    },
+    {
+      "code": "A350F",
+      "desc": "The freighter, launched in 2021, carrying up to 111 tonnes over 4,700 nmi at a 109 tonne payload. It is 70.8 m long at 319 tonnes, takes 30 main-deck and 12 lower-deck pallets, and has the largest main deck cargo door ever built. Airbus is targeting certification in mid-2027 and first delivery in the second half of that year."
+    },
+    {
+      "code": "A350-2000 (shelved)",
+      "desc": "A studied 4 m stretch offering 45 more seats, variously called the -2000, -8000 or -1100, aimed at the 747-400 replacement market against the 777-9. It stayed inside the four-door-pair exit limit and needed only 3 percent more thrust. Airbus leadership doubted the 400-seat market and feared it would cannibalise the -1000; it was shelved at the 2017 Paris Air Show."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Singapore Airlines",
+      "role": "Largest Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "65 (58 A350-900 and 7 A350-900ULR)",
+      "homeBase": "Changi (SIN)"
+    },
+    {
+      "name": "Qatar Airways",
+      "role": "Launch Customer",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "58 (34 A350-900 and 24 A350-1000)",
+      "homeBase": "Hamad International (DOH)"
+    },
+    {
+      "name": "Cathay Pacific",
+      "role": "Major Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "48, plus 8 A350F on order",
+      "homeBase": "Hong Kong International (HKG)"
+    },
+    {
+      "name": "Air France",
+      "role": "Major Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "41, plus 4 A350F on order",
+      "homeBase": "Paris Charles de Gaulle (CDG)"
+    },
+    {
+      "name": "Delta Air Lines",
+      "role": "First North American Operator",
+      "status": "In Service",
+      "since": "2017",
+      "fleetSize": "37, with 20 A350-1000 due from early 2027",
+      "homeBase": "Detroit Metropolitan (DTW)"
+    },
+    {
+      "name": "Air China",
+      "role": "Major Operator",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "30",
+      "homeBase": "Beijing Capital (PEK)"
+    },
+    {
+      "name": "Lufthansa",
+      "role": "Major Operator",
+      "status": "In Service",
+      "since": "2017",
+      "fleetSize": "30, with 15 A350-1000 from October 2026",
+      "homeBase": "Munich (MUC)"
+    },
+    {
+      "name": "Japan Airlines",
+      "role": "Major Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "25 (15 A350-900 and 10 A350-1000)",
+      "homeBase": "Tokyo Haneda (HND)"
+    },
+    {
+      "name": "Turkish Airlines",
+      "role": "Largest Customer by Backlog",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "25 in service; the largest order book at around 110 aircraft including 5 A350F",
+      "homeBase": "Istanbul (IST)"
+    },
+    {
+      "name": "Thai Airways International",
+      "role": "Major Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "23",
+      "homeBase": "Suvarnabhumi (BKK)"
+    },
+    {
+      "name": "Ethiopian Airlines",
+      "role": "First African Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "22 (20 A350-900 and 3 A350-1000 ordered)",
+      "homeBase": "Addis Ababa Bole (ADD)"
+    },
+    {
+      "name": "Iberia",
+      "role": "Major Operator",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "22; took the 500th A350 built in September 2022",
+      "homeBase": "Madrid Barajas (MAD)"
+    },
+    {
+      "name": "British Airways",
+      "role": "A350-1000 Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "18 A350-1000",
+      "homeBase": "London Heathrow (LHR)"
+    },
+    {
+      "name": "Finnair",
+      "role": "First European Operator",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "17",
+      "homeBase": "Helsinki-Vantaa (HEL)"
+    },
+    {
+      "name": "Emirates",
+      "role": "Major Operator",
+      "status": "In Service",
+      "since": "2024",
+      "fleetSize": "16",
+      "homeBase": "Dubai International (DXB)"
+    },
+    {
+      "name": "Other airlines worldwide",
+      "role": "Remaining Operators",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "Around 20 further carriers including Asiana, China Airlines, China Eastern, China Southern, Vietnam Airlines, Virgin Atlantic, Starlux, Korean Air, ITA Airways, Malaysia Airlines, Philippine Airlines, Fiji Airways and Scandinavian Airlines",
+      "homeBase": "Worldwide"
+    },
+    {
+      "name": "LATAM Airlines",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "2015",
+      "fleetSize": "13 in the LATAM Brasil fleet, the first in the Americas; retired early during the COVID-19 pandemic",
+      "homeBase": "Sao Paulo Guarulhos (GRU)"
+    },
+    {
+      "name": "Aeroflot",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "2020",
+      "fleetSize": "7; no longer supported by Airbus following the Russian invasion of Ukraine",
+      "homeBase": "Sheremetyevo (SVO)"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A359 (A350-900); A35K (A350-1000)",
+    "howToFind": "Filter Flightradar24 by type A359 or A35K. The A350 is easy to catch because it dominates the longest scheduled sectors: Singapore Airlines flights to New York and Newark (callsign SIA), Qantas Project Sunrise testing from 2026, and the Qatar Airways, Cathay Pacific and Air France long-haul networks. A35K is the rarer of the two codes and concentrated with Qatar Airways, British Airways, Virgin Atlantic and Japan Airlines."
+  },
+  "lastUpdated": "2026-09-16",
+  "changelog": [
+    {
+      "date": "2026-09-16",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Airbus published data and facts-and-figures documents, the EASA type certificate data sheet, and contemporary reporting on the Haneda accident, the Trent XWB directive and the Qatar Airways dispute.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "A350 XWB",
+    "XWB",
+    "A359",
+    "A35K",
+    "A350F",
+    "Trent XWB",
+    "Project Sunrise",
+    "ULR"
+  ],
+  "article": {
+    "overview": [
+      "The Airbus A350 is a long-range wide-body twinjet and the first Airbus built largely from carbon-fibre-reinforced polymer. It is offered as the A350-900, typically carrying 300 to 350 passengers over 8,500 nmi, and the longer A350-1000, carrying 350 to 410 over 9,000 nmi, both powered exclusively by Rolls-Royce Trent XWB engines. {{ref:wiki}} {{ref:airbus-facts}}",
+      "It first flew on 14 June 2013, was certified by EASA in September 2014 and the FAA two months later, and entered service with Qatar Airways on 15 January 2015. By August 2026, 734 of the 1,624 ordered had been delivered, 733 were in service with 38 operators, and the fleet had flown over 15 million hours on more than 1,400 routes with no fatalities and one hull loss. {{ref:wiki}} {{ref:airbus-a350-900}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the Redesign",
+        "paragraphs": [
+          "Airbus initially dismissed the Boeing 787 as a reaction to the A330 that needed no answer. When airlines pushed back it proposed the A330-200 Lite, an aerodynamic and engine refresh, then in December 2004 approved an A350 based on the A330 with a composite wing, new engines and an aluminium-lithium fuselage - two versions at 253 and 300 seats, launched industrially in October 2005 for about 3.5 billion euros. The response from the people who buy aircraft was blunt. In March 2006 ILFC president Steven Udvar-Hazy urged Airbus to go clean-sheet and called the strategy a band-aid reaction to the 787, a view echoed by GECAS; Singapore Airlines' chief executive said that having designed a new wing, tail and cockpit Airbus should have gone the whole hog and designed a new fuselage. {{ref:wiki}}",
+          "Airbus did. On 14 July 2006 at Farnborough the redesigned aircraft was announced as the A350 XWB, for Xtra-Wide-Body, with a fuselage wide enough for nine economy seats abreast against the A330's eight, and within four days Singapore Airlines agreed to order 20. The board approved the -800, -900 and -1000 in December 2006. The price was two years of schedule and a development cost that rose from about $5.5 billion to roughly $10 billion, with Reuters putting the eventual total at $15 billion. The programme broke even in 2019. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The airframe is 53 percent composite - the empennage, the wing box, covers, stringers and spars, and the fuselage skin, frames and keel beam - with 19 percent aluminium and aluminium-lithium, 14 percent titanium, 6 percent steel and 8 percent other materials. The composite frames carry aluminium strips to keep the fuselage electrically continuous so it can dissipate lightning strikes. The double-lobe fuselage is 5.97 m across externally and 5.61 m at armrest level, 12 cm wider than the 787's at a seated passenger's eye level, which is what buys the ninth seat and 45 cm economy seat width. Unlike the 787, Airbus kept a conventional bleed air system. {{ref:wiki}}",
+          "The 64.75 m composite wing is common to every variant and stays inside the same ICAO Code E limit as the A330 and 777. It is swept 31.9 degrees for a Mach 0.85 cruise against a Mach 0.89 maximum operating speed, and uses an advanced dropped-hinge flap that lets the spoiler close the gap ahead of it, with inboard and outboard flaps deflecting together for variable camber and differentially for lateral load control - a limited morphing wing that trims the spanload continuously to cut fuel burn. Rolls-Royce won exclusivity: General Electric declined to develop a high-thrust variant that would compete with its GE90-powered 777s, and the Trent XWB has powered every A350 since, at 84,000 lbf on the -900 and 97,000 lbf on the -1000. {{ref:wiki}} {{ref:airbus-facts}}"
+        ]
+      },
+      {
+        "heading": "Entry into Service & Reliability",
+        "paragraphs": [
+          "EASA certified the A350-900 on 30 September 2014 and on 15 October approved it for 370-minute ETOPS - the first airliner cleared beyond 180 minutes before it had even entered service, covering 99.7 percent of the Earth's surface. Qatar Airways took the first aircraft on 22 December 2014 and flew the first service from Doha to Frankfurt on 15 January 2015. Early operations exposed the usual list: maintenance network software needed work, galley inserts were removed over leaks, and spurious bleed air overheat warnings were traced to a connector that had to be replaced with a gold-plated one. Zodiac Aerospace could not build business class seats fast enough, and Cathay Pacific ended up upgrading or replacing the seats in its earliest cabins. {{ref:wiki}}",
+          "The numbers improved quickly. Operational reliability went from 97.8 percent in mid-2016 to 98.8 percent by June 2017 and 99.3 percent by February 2018; by June 2026 a fleet of 717 aircraft averaging 5.15 years old was running at 99.28 percent over three months, having carried more than 600 million passengers. Utilisation is high and sectors are long - Finnair was flying its aircraft over 20 hours a day to Bangkok within the first year, and Singapore Airlines has operated both the longest leg in the network and, at 160 nmi to Kuala Lumpur, one of the shortest. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "The Qatar Airways Paint Dispute",
+        "paragraphs": [
+          "In August 2021 Qatar Airways found unusually degraded paint on A350s being repainted in a World Cup livery, grounded its fleet and refused further deliveries. The airline argued the surface flaws risked fuel tank ignition by degrading lightning protection over the wing tanks, and claimed $200,000 a day per grounded aircraft. EASA found that the degradation did not affect the structure or introduce other risks, and Qatar's own regulator was the only one to treat it as an airworthiness issue - though Reuters established that Finnair, Cathay Pacific, Etihad, Lufthansa and Air France had all reported paint damage as early as 2016. {{ref:wiki}}",
+          "Qatar Airways filed in the English courts on 20 December 2021 and Airbus responded by cancelling the airline's outstanding orders, which Flight International read as a sign Airbus was confident of its case. The two settled confidentially on 1 February 2023 before the hearing. The episode cost Airbus deliveries and publicity but left the aircraft's certification basis untouched, and Qatar Airways remains the launch operator of both variants and the largest A350-1000 customer. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Safety Record",
+        "paragraphs": [
+          "The A350's only hull loss came on 2 January 2024, when Japan Airlines Flight 516, an A350-941 registered JA13XJ, landed on runway 34R at Tokyo Haneda and struck a Japan Coast Guard Dash 8 that had entered the runway without clearance. Both aircraft caught fire. All 379 people aboard the A350 - 367 passengers and 12 crew - got out through three of the eight slides in about 11 minutes, with 17 injured, while the cabin announcement system had failed and crew used megaphones. Five of the six on the Coast Guard aircraft were killed. Investigators found the Coast Guard captain had taken an instruction that his aircraft was number one as a takeoff clearance, and that neither the controller nor the JAL crew spotted the incursion; the composite fuselage held up well enough through the impact for the evacuation to happen at all. {{ref:haneda}}",
+          "The other significant event was an engine failure. On 2 September 2024 a Cathay Pacific A350-1000 leaving Hong Kong suffered a Trent XWB-97 engine fire, and on 5 September EASA issued an emergency airworthiness directive mandating inspection of fuel manifold hoses across the A350-1000 fleet. An earlier directive in August 2017, reissued in July 2019, had required operators to power cycle early A350-900s before 149 hours of continuous power-on time after a software fault. Neither has produced a fatality; the fleet's record after more than 15 million flight hours is one hull loss and no deaths on board. {{ref:easa-trent}} {{ref:fg-trentfire}} {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Production has climbed back from the pandemic, when the rate fell from 9.5 aircraft a month to six. Airbus targeted nine a month by the end of 2025 and the pre-pandemic ten during 2026, with twelve a month planned by 2028 on the back of 281 net orders in 2023. The order book is heavily weighted to the future: 1,624 ordered against 734 delivered by August 2026, with Turkish Airlines the largest customer at around 110 aircraft and large unfilled orders from United, IndiGo, KLM, Riyadh Air, Air Europa and EVA Air. {{ref:wiki}} {{ref:airbus-facts}}",
+          "Two derivatives dominate the near term. The A350F freighter, launched in 2021 for up to 111 tonnes of payload and carrying the largest main deck cargo door ever built, completed ground vibration testing in June 2026 and is expected to make its first flight around 24 September 2026, with certification targeted for mid-2027 and first delivery in the second half of that year - already a year later than originally planned. The A350-1000ULR for Qantas first flew on 2 June 2026 and is due for delivery in April 2027 ahead of non-stop Sydney-London services. A re-engined A350neo has been studied since 2018 but remains tied to engine developments that have not arrived, and Rolls-Royce holds an exclusive agreement to supply A350-900 engines until 2030. {{ref:aircargonews-a350f}} {{ref:airbus-a350f}} {{ref:flightbrief-ulr}} {{ref:wiki}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Airbus A350",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A350"
+    },
+    {
+      "id": "airbus-facts",
+      "name": "Airbus A350 Family Facts and Figures, November 2025",
+      "publisher": "Airbus",
+      "url": "https://www.airbus.com/sites/g/files/jlcbta136/files/2025-11/Airbus-A350-Family-Facts-and-Figures%20November%202025.pdf"
+    },
+    {
+      "id": "airbus-a350-900",
+      "name": "A350-900 specifications",
+      "publisher": "Airbus",
+      "url": "https://www.aircraft.airbus.com/en/aircraft/a350/a350-900"
+    },
+    {
+      "id": "airbus-a350f",
+      "name": "Airbus A350F Facts and Figures, April 2025",
+      "publisher": "Airbus",
+      "url": "https://www.airbus.com/sites/g/files/jlcbta136/files/2025-04/Airbus-A350F-Facts-and-Figures-April-2025.pdf"
+    },
+    {
+      "id": "haneda",
+      "name": "2024 Haneda Airport runway collision",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2024_Haneda_Airport_runway_collision"
+    },
+    {
+      "id": "easa-trent",
+      "name": "EASA mandates inspections on Rolls-Royce Trent XWB-97 engines",
+      "publisher": "European Union Aviation Safety Agency",
+      "url": "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-mandates-inspections-rolls-royce-trent-xwb-97-engines"
+    },
+    {
+      "id": "fg-trentfire",
+      "name": "A350-1000 operators told to check fuel manifold hoses after Cathay Trent XWB engine fire",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/safety/a350-1000-operators-told-to-check-fuel-manifold-hoses-after-cathay-trent-xwb-engine-fire/159870.article"
+    },
+    {
+      "id": "aircargonews-a350f",
+      "name": "Reuters: A350 freighter test flights set for September",
+      "publisher": "Air Cargo News",
+      "url": "https://www.aircargonews.net/editorial/2026/08/reuters-a350-freighter-test-flights-set-for-september/"
+    },
+    {
+      "id": "flightbrief-ulr",
+      "name": "Qantas Project Sunrise A350-1000ULR: testing, delivery and routes",
+      "publisher": "The Flight Brief",
+      "url": "https://www.theflightbrief.com/articles/a350-1000ulr-qantas-project-sunrise"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "List of Airbus A350 operators",
+      "url": "https://en.wikipedia.org/wiki/List_of_Airbus_A350_operators"
+    },
+    {
+      "name": "EASA Type Certificate Data Sheet EASA.A.151 - Airbus A350",
+      "url": "https://www.easa.europa.eu/en/downloads/17736/en"
+    },
+    {
+      "name": "First Ultra Long Range A350 XWB delivered to Singapore Airlines",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2018-09-first-ultra-long-range-a350-xwb-delivered-to-singapore-airlines"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2013-06-14",
+      "title": "First flight from Toulouse",
+      "tag": "First flight",
+      "summary": "The prototype A350-900, registered F-WXWB, flew for four hours from Toulouse-Blagnac, reaching Mach 0.8 at 25,000 ft and opening a 2,500-hour flight test campaign across five aircraft.",
+      "source": "https://en.wikipedia.org/wiki/Airbus_A350"
+    },
+    {
+      "date": "2014-10-15",
+      "title": "First airliner approved for ETOPS beyond 180 minutes",
+      "tag": "Certification milestone",
+      "summary": "EASA approved the A350-900 for 370-minute ETOPS, allowing it to fly more than six hours from a diversion airport on one engine, and making it the first airliner cleared beyond 180 minutes before entering service. The approval covers 99.7 percent of the Earth's surface.",
+      "source": "https://en.wikipedia.org/wiki/Airbus_A350"
+    },
+    {
+      "date": "2017-08-01",
+      "title": "Power-cycling airworthiness directive",
+      "tag": "Airworthiness directive",
+      "summary": "EASA issued a directive requiring operators to power cycle early A350-900s before 149 hours of continuous power-on time, following a software fault. It was reissued in July 2019.",
+      "source": "https://en.wikipedia.org/wiki/Airbus_A350"
+    },
+    {
+      "date": "2018-10-11",
+      "title": "World's longest scheduled flight opens",
+      "tag": "Record flight",
+      "summary": "Singapore Airlines began non-stop Singapore to New York services with the A350-900ULR, averaging 18 hours 45 minutes. The variant carries 24,000 more litres of fuel than a standard -900 and is rated to 9,700 nmi.",
+      "source": "https://www.airbus.com/en/newsroom/press-releases/2018-09-first-ultra-long-range-a350-xwb-delivered-to-singapore-airlines"
+    },
+    {
+      "date": "2021-12-20",
+      "title": "Qatar Airways sues Airbus over paint degradation",
+      "tag": "Grounding / dispute",
+      "summary": "After finding unusually degraded paint during repainting in August 2021, Qatar Airways grounded its A350s, stopped taking deliveries and filed a claim in the English courts on this date, arguing the flaws degraded lightning protection over the wing fuel tanks and claiming $200,000 a day per grounded aircraft. EASA found no effect on the structure or other risks. The two sides settled confidentially on 1 February 2023.",
+      "source": "https://en.wikipedia.org/wiki/Airbus_A350"
+    },
+    {
+      "date": "2022-09-30",
+      "title": "500th A350 delivered",
+      "tag": "Production milestone",
+      "summary": "Iberia received the 500th A350, an A350-900 registered EC-NXD, which was also the first aircraft built to the new production standard bringing a 3 tonne MTOW increase, a 1.2 tonne weight reduction and a wider cabin.",
+      "source": "https://en.wikipedia.org/wiki/Airbus_A350"
+    },
+    {
+      "date": "2024-01-02",
+      "title": "Haneda runway collision - the type's only hull loss",
+      "tag": "Runway collision",
+      "summary": "Japan Airlines Flight 516, an A350-941 registered JA13XJ, collided on landing at Tokyo Haneda with a Japan Coast Guard Dash 8 that had entered runway 34R without clearance. All 379 aboard the A350 evacuated in about 11 minutes with 17 injured; five of the six Coast Guard crew were killed. The Coast Guard captain had read an instruction that he was number one as takeoff clearance.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/2024_Haneda_Airport_runway_collision"
+    },
+    {
+      "date": "2024-09-05",
+      "title": "Emergency directive after a Cathay Pacific engine fire",
+      "tag": "Airworthiness directive",
+      "summary": "After a Trent XWB-97 engine fire on a Cathay Pacific A350-1000 leaving Hong Kong days earlier, EASA issued an emergency airworthiness directive requiring inspection of fuel manifold hoses across the A350-1000 fleet. Cathay Pacific grounded and checked its own aircraft.",
+      "fatalities": 0,
+      "source": "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-mandates-inspections-rolls-royce-trent-xwb-97-engines"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "First flight of the A350-1000ULR",
+      "tag": "Milestone",
+      "summary": "MSN 707, the first A350-1000ULR for Qantas, flew from Toulouse, beginning a certification campaign of around 80 flight hours covering the new 20,000-litre rear centre fuel tank and its systems. It later flew a 24-hour, 23,100 km sector from Melbourne to Toulouse.",
+      "source": "https://www.theflightbrief.com/articles/a350-1000ulr-qantas-project-sunrise"
+    }
+  ]
+}

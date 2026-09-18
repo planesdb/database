@@ -1,0 +1,36 @@
+name: Check entries
+
+# Contributors cannot preview their change - the site generator lives in a
+# separate repository - so this check is the feedback they get instead. It
+# runs on every pull request and on pushes to main, and enforces the same
+# rules the site's build.js does, so a green tick here means the entry will
+# actually build.
+
+on:
+  pull_request:
+    paths:
+      - 'aircraft/**'
+      - 'operators/**'
+      - 'categories.json'
+      - 'scripts/validate-entries.js'
+  push:
+    branches: [main]
+    paths:
+      - 'aircraft/**'
+      - 'operators/**'
+      - 'categories.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # No npm install: the validator is dependency-free on purpose, so this
+      # check stays fast and cannot break because of somebody else's release.
+      - name: Validate aircraft and operator entries
+        run: node scripts/validate-entries.js

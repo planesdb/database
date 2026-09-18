@@ -1,0 +1,340 @@
+{
+  "name": "Bf 109",
+  "fullName": "Messerschmitt Bf 109",
+  "manufacturer": "Messerschmitt AG",
+  "originCountry": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "WWII Fighter Interceptor",
+  "tagline": "The most-produced fighter aircraft in history and the backbone of the Luftwaffe's fighter force for the entire war. A compact, lightweight all-metal monoplane, it was continuously upgraded over an 11-year production run that saw roughly 34,000 built.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Designed by Willy Messerschmitt and first flown in May 1935, the Bf 109 combined then-radical features - all-metal monocoque construction, a fully enclosed cockpit, retractable undercarriage and automatic wing slats - into a small, aerodynamically clean fighter optimised around its powerful liquid-cooled engine. It saw its combat debut with the Condor Legion in the Spanish Civil War, where German pilots refined the fighter tactics (including the loose 'finger-four' formation later adopted by air forces worldwide) that would prove devastating in the opening years of WWII. The Bf 109E ('Emil') was the standard Luftwaffe fighter during the Battle of Britain in 1940, evenly matched against the Spitfire but hampered by its short combat radius, which left German fighters with only minutes over southern England before having to turn for home. Continuously refined through the F, G ('Gustav', the most numerous variant with over 20,000 built) and K series, the 109 remained frontline equipment on every German front until May 1945, flown by the war's highest-scoring aces including Erich Hartmann, credited with 352 aerial victories - the most of any fighter pilot in history, nearly all scored in various marks of the 109. After the war, license- and captured-tooling-built versions continued in service with Spain (as the Hispano Buchón) and Czechoslovakia (as the Avia S-99/S-199) into the 1950s, and Israel's fledgling air force flew Avia-built 109s as its first fighters in the 1948 war.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 386,
+      "text": "335 kn (386 mph / 621 km/h)"
+    },
+    "cruiseSpeed": "~300 mph (480 km/h)",
+    "range": {
+      "miles": 385,
+      "text": "385 mi (620 km) on internal fuel; up to 528 mi (850 km) with a drop tank"
+    },
+    "serviceCeiling": {
+      "ft": 39370,
+      "text": "39,370 ft (12,000 m)"
+    },
+    "wingspan": {
+      "ft": 32.58,
+      "text": "32 ft 7 in (9.92 m)"
+    },
+    "length": {
+      "ft": 29,
+      "text": "29 ft 0 in (8.85 m)"
+    },
+    "height": {
+      "ft": 8.17,
+      "text": "8 ft 2 in (2.5 m)"
+    },
+    "weight": "empty: 5,893 lb (2,673 kg); loaded: 6,940 lb (3,148 kg)",
+    "engines": "1 x Daimler-Benz DB 605A liquid-cooled inverted V-12, 1,455 hp (Bf 109G-6)",
+    "armament": "1 x 20 mm MG 151/20 cannon firing through the propeller hub + 2 x 13 mm MG 131 machine guns above the engine (Bf 109G-6); some sub-variants added underwing 20mm gun pods",
+    "crew": "1 (pilot); rare two-seat trainer conversions carried 2",
+    "capacity": "N/A - single-seat fighter; fighter-bomber variants carried up to 551 lb of bombs",
+    "firstFlight": {
+      "date": "1935-05-28",
+      "year": 1935
+    },
+    "serviceEntryDate": "1937-02-01",
+    "retiredDate": "1965",
+    "numberBuilt": 34000,
+    "unitCost": {
+      "usd": 9500,
+      "text": "~$9,500 wartime unit cost (roughly 72,000 Reichsmarks at contemporary exchange rates) - roughly $184,000 in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$184,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "Bf 109E 'Emil'",
+      "desc": "Standard Battle of Britain-era variant with the DB 601 engine and 20mm wing cannon armament."
+    },
+    {
+      "code": "Bf 109F 'Friedrich'",
+      "desc": "Aerodynamically refined 1941 redesign with a rounded wingtip and improved engine cowling; regarded by many pilots as the best-handling mark."
+    },
+    {
+      "code": "Bf 109G 'Gustav'",
+      "desc": "The most numerous variant (over 20,000 built), with the more powerful DB 605 engine but progressively added weight and drag that eroded handling."
+    },
+    {
+      "code": "Avia S-199 (postwar)",
+      "desc": "Czechoslovak-built version using a Junkers Jumo engine from leftover WWII tooling; among the first fighters flown by the Israeli Air Force in 1948."
+    },
+    {
+      "code": "Hispano Ha-1112 Buchón (postwar)",
+      "desc": "Spanish license-built version with a Rolls-Royce Merlin engine, remaining in Spanish service into the 1960s."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Luftwaffe",
+      "role": "Primary Wartime Operator",
+      "status": "Retired",
+      "since": "1937",
+      "fleetSize": "~34,000 built total",
+      "homeBase": "Airbases across every European and North African front",
+      "logo": "luftwaffe.webp"
+    },
+    {
+      "name": "Regia Aeronautica (Italy)",
+      "role": "Allied Operator",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "~140",
+      "homeBase": "Italian airbases"
+    },
+    {
+      "name": "Spanish Air Force (Hispano Buchón)",
+      "role": "Postwar License Operator",
+      "status": "Retired",
+      "since": "1945",
+      "fleetSize": "~200 (license-built)",
+      "homeBase": "Spanish airbases",
+      "logo": "spanish-air-force.webp"
+    },
+    {
+      "name": "Israeli Air Force (Avia S-199)",
+      "role": "Postwar Operator",
+      "status": "Retired",
+      "since": "1948",
+      "fleetSize": "~25",
+      "homeBase": "Ekron airbase, Israel",
+      "logo": "israeli-air-force.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "ME09",
+    "howToFind": "A small number of original and reproduction Bf 109s (including Spanish-built Buchón airframes reworked with Merlin engines) fly at European airshows, notably in Germany and the UK; visible on Flightradar24 during airshow-season transit flights with civil registrations."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "Bf 109"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Military Aviation Museum's airworthy Bf 109G-4 returns to flight after year-long maintenance",
+      "source": "Vintage Aviation News",
+      "date": "2024-09-30",
+      "category": "Restoration",
+      "url": "https://vintageaviationnews.com/warbirds-news/military-aviation-museums-messerschmitt-bf-109-soars-again.html"
+    }
+  ],
+  "tags": [
+    "messerschmitt bf 109",
+    "luftwaffe",
+    "wwii fighter",
+    "world war 2",
+    "erich hartmann",
+    "battle of britain",
+    "german fighter",
+    "daimler-benz engine",
+    "most produced fighter"
+  ],
+  "quickFacts": [
+    "With around 34,000 built, the Bf 109 is the most-produced fighter aircraft in history.",
+    "The three highest-scoring fighter aces of all time all flew it - Erich Hartmann's 352 victories will never be equalled.",
+    "Its narrow, splayed undercarriage caused thousands of take-off and landing accidents - by some estimates 10% of all 109s were lost this way.",
+    "Spain flew Merlin-engined 109s ('Buchóns') into the 1960s - so the 'German' fighters in the film Battle of Britain are powered by Rolls-Royce.",
+    "A special racing version held the absolute world speed record for piston aircraft - 469 mph in 1939 - for 30 years.",
+    "Franz Stigler, a Bf 109 ace, famously escorted a crippled B-17 to safety in 1943 rather than finish it off - the 'Higher Call' incident."
+  ],
+  "article": {
+    "overview": [
+      "The Messerschmitt Bf 109 is a German single-engine fighter built by Messerschmitt. Nearly 34,000 were produced, making it the most numerous fighter aircraft ever built.{{ref:wiki-bf109}}",
+      "It formed the backbone of the Luftwaffe from the Spanish Civil War in 1937 through the end of the Second World War in 1945, and was flown by the highest-scoring fighter aces in the history of air combat.{{ref:wiki-bf109}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The 109 won the Luftwaffe's 1935 fighter competition by embracing modernity harder than its rivals: all-metal monocoque, leading-edge slats, slotted flaps, retracting gear and an enclosed cockpit, on the lightest structure Messerschmitt's team could contrive. Traditionalists hated the cramped cockpit and the wing slats; the performance figures ended the argument.{{ref:wiki-bf109}}",
+          "Blooded with the Condor Legion in Spain from 1937, early 109s swept aside Republican opposition and taught the Luftwaffe the finger-four tactics the rest of the world would spend 1940 painfully learning. By the invasion of Poland, the 109 was the most battle-tested fighter on Earth.{{ref:wiki-bf109}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Small airframe, big engine: the 109's inverted-V Daimler-Benz used direct fuel injection, so it kept running under negative-g while carburetted Spitfires and Hurricanes coughed - the famous escape trick of 1940 was simply pushing the nose down hard. Automatic leading-edge slats let the little wing turn harder than it had any right to.{{ref:wiki-bf109}}",
+          "The economies had teeth. The undercarriage - hung from the fuselage so wings could be removed without trestles - was narrow and knock-kneed, and ground-looped an estimated 5-10% of all 109s ever built into scrap. The cockpit was a coffin-tight box with a heavy-framed canopy; visibility and comfort were sacrificed to frontal area until the clear-view 'Erla' hood arrived late in the war.{{ref:wiki-bf109}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The 109 owned the sky over Poland, Norway, France - and met its limit over England, where ten minutes of combat fuel and orders chaining it to the bombers wasted its strengths. The Battle of Britain was the type's first check, and the war's.{{ref:wiki-bf109}}",
+          "In the East it reaped historically unmatched scores: the top three aces of all time - Erich Hartmann (352), Gerhard Barkhorn (301), Günther Rall (275) - flew the 109 for essentially their entire careers, products of target-rich skies, no rotation home, and an aircraft that remained lethal in expert hands to the last day. More than a hundred 109 pilots passed 100 victories.{{ref:wiki-hartmann}}",
+          "By 1944 the arithmetic reversed: swarms of Mustangs and Thunderbolts, flown by well-trained pilots against teenagers with 30 hours, met 109s that were now overloaded gun-trucks defending the Reich. Production peaked even as the pilot corps collapsed, leaving the Luftwaffe with more aircraft than trained pilots to fly them.{{ref:wiki-bf109}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The 109 was upgraded past its own limits for a decade: from the Jumo-powered A-D models through the Battle of Britain's E 'Emil', the aerodynamically refined F 'Friedrich' (many pilots' favourite), to the mass-produced G 'Gustav' that made up most of the run - each heavier, faster and nastier to fly than the last, sprouting gun pods and bulges ('Beule') as weight chased power.{{ref:wiki-bf109}}",
+          "Its afterlife was long and strange: Spain built Hispano Buchóns with Merlin engines (the '109s' of every war film, including 'Battle of Britain'), and Czechoslovakia's Jumo-engined Avia S-199s equipped the infant Israeli Air Force in 1948 - Messerschmitts flown by Jewish pilots, history's darkest irony given wings.{{ref:wiki-avia}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The 109 is the great case study in riding a design as far as it will go: brilliant in 1937, competitive in 1941, obsolescent but everywhere in 1945, its 33,984 airframes testifying both to German industrial desperation and to how right the original concept was. Its true rival was never one Allied fighter but the Allied training pipeline - the resource Germany could not mass-produce.{{ref:wiki-bf109}}",
+          "A few dozen survive, a handful airworthy{{ref:nasm-bf109}} - original Daimler-engined examples are the rarest of all warbirds, while Buchón stand-ins still appear in film work. Every one that runs draws a crowd at airshows across Europe.{{ref:wiki-bf109}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-bf109",
+      "name": "Messerschmitt Bf 109",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109"
+    },
+    {
+      "id": "wiki-hartmann",
+      "name": "Erich Hartmann",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erich_Hartmann"
+    },
+    {
+      "id": "wiki-avia",
+      "name": "Avia S-199",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Avia_S-199"
+    },
+    {
+      "id": "nasm-bf109",
+      "name": "Messerschmitt Bf 109 G-6",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/messerschmitt-bf-109-g-6r3/nasm_A19600328000"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Messerschmitt Bf 109",
+      "url": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109"
+    },
+    {
+      "name": "Deutsches Museum - Messerschmitt Bf 109 collection notes",
+      "url": "https://www.deutsches-museum.de/en/"
+    },
+    {
+      "name": "Imperial War Museums - Messerschmitt Bf 109",
+      "url": "https://www.iwm.org.uk/collections/item/object/205019948"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Added a survivors section - this type has well-documented preserved/airworthy examples but the field was previously missing, an inconsistency versus similar WWII/Cold War-era entries elsewhere in the database.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "survivors": {
+    "intro": "Only a handful of genuine Bf 109s survive with their original Daimler-Benz engines, and just two are airworthy - both maintained by the same German museum on the Baltic coast.",
+    "airframes": [
+      {
+        "serial": "Werknummer 440738 (D-FMGS)",
+        "name": null,
+        "location": "Hangar 10 - Fliegermuseum",
+        "place": "Zirchow, Usedom, Germany",
+        "url": "https://www.outono.net/elentir/2022/10/25/two-original-messerschmitt-bf-109s-of-the-world-war-ii-still-airworthy/",
+        "note": "A G-6 built in 1944, one of only two original wartime Bf 109s still flying, powered by its original Daimler-Benz DB605 V12.",
+        "featured": true,
+        "countryCode": "de",
+        "country": "Germany"
+      },
+      {
+        "serial": "Werknummer 462707 (D-FMGV)",
+        "name": null,
+        "location": "Hangar 10 - Fliegermuseum",
+        "place": "Zirchow, Usedom, Germany",
+        "url": "https://www.outono.net/elentir/2022/10/25/two-original-messerschmitt-bf-109s-of-the-world-war-ii-still-airworthy/",
+        "note": "A G-14 built in 1944; the second of the two remaining airworthy original Bf 109s, flown alongside 440738 by the same museum.",
+        "featured": true,
+        "countryCode": "de",
+        "country": "Germany"
+      },
+      {
+        "serial": "Werknummer 163824",
+        "name": null,
+        "location": "Australian War Memorial",
+        "place": "Canberra, Australia",
+        "url": "https://www.awm.gov.au/collection/C1174062",
+        "note": "A G-6 held in static museum condition, captured intact toward the end of the war.",
+        "countryCode": "au",
+        "country": "Australia"
+      }
+    ]
+  },
+  "accidentsAndIncidents": [
+    {
+      "date": "1939-09-01",
+      "title": "The undercarriage that cost a tenth of the fleet",
+      "tag": "Design flaw / ground accidents",
+      "summary": "The Bf 109's narrow, splayed undercarriage and small rudder made it a handful on the ground: at least a tenth of all Bf 109s built were lost in takeoff and landing accidents, some 1,500 of them between 1939 and 1941 alone. Experienced pilots managed the swing easily, but as training was cut back later in the war the toll among novices grew.",
+      "source": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109"
+    },
+    {
+      "date": "1940-11-27",
+      "title": "\"Black 12\" belly-lands intact at Manston",
+      "summary": "A Bf 109E damaged in combat with a Spitfire over the Thames Estuary belly-landed largely intact at RAF Manston. The aircraft was recovered undamaged enough for extensive evaluation and is preserved today at the RAF Museum Hendon.",
+      "fatalities": 0,
+      "tag": "Combat loss / non-fatal",
+      "source": "https://www.manstonhistory.org.uk/messerschmitt-bf109-black-12-crash-lands-manston-27th-november-1940/"
+    },
+    {
+      "date": "1942-09-30",
+      "title": "Death of ace Hans-Joachim Marseille",
+      "summary": "Marseille's Bf 109 developed engine trouble and filled with smoke during a mission over North Africa. While bailing out near Sidi Abdel Rahman, he struck the aircraft's tailplane as it dove, and fell to his death before his parachute could deploy.",
+      "fatalities": 1,
+      "tag": "Non-combat/mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/Hans-Joachim_Marseille"
+    }
+  ]
+}

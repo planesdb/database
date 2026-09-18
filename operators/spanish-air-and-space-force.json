@@ -1,0 +1,22 @@
+{
+  "id": "spanish-air-and-space-force",
+  "slug": "spanish-air-and-space-force",
+  "name": "Spanish Air and Space Force",
+  "shortName": "EdA",
+  "type": "military",
+  "country": {
+    "name": "Spain",
+    "code": "es"
+  },
+  "founded": "1939-10-07",
+  "foundedDisplay": "7 October 1939",
+  "headquarters": "Cuartel General del Ejercito del Aire, Madrid, Spain",
+  "logo": "spanish-air-force.webp",
+  "website": null,
+  "tagline": "Builds every A400M in the world at Seville, and once flew Merlin-engined Messerschmitts long after Germany had stopped.",
+  "bio": [
+    "The Ejercito del Aire was constituted as an independent service on 7 October 1939 and spent its first decades on an unusual footing, cut off from both power blocs and making do with licence-built and locally modified aircraft. The most famous of them was the Hispano HA-1112 Buchon: Spain built the Bf 109 under licence, ran out of German DB 605 engines, and fitted Rolls-Royce Merlins instead, producing a Messerschmitt with a Spitfire's powerplant that stayed in service into the 1960s and then supplied most of the \"Luftwaffe\" seen in Battle of Britain in 1969.",
+    "Today it flies the Eurofighter Typhoon from Moron and Albacete and has a particular claim on the A400M: final assembly for every operator sits at Seville San Pablo, so each Atlas in service anywhere was rolled out in Spain. The service was renamed the Ejercito del Aire y del Espacio in 2022 on taking on space surveillance duties. Its display team, the Patrulla Aguila, flies the CASA C-101, another aircraft of domestic design."
+  ],
+  "matchPattern": "spanish air and space force|spanish air force|ej[eé]rcito del aire"
+}

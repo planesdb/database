@@ -1,0 +1,714 @@
+{
+  "name": "DHC-6 Twin Otter",
+  "fullName": "de Havilland Canada DHC-6 Twin Otter",
+  "manufacturer": "de Havilland Canada / Viking Air",
+  "originCountry": {
+    "name": "Canada",
+    "code": "ca"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "STOL Utility Twin Turboprop",
+  "tagline": "The rugged Canadian bush plane that never stopped flying. Built for short takeoff and landing from gravel, snow, ice and water, it remains the workhorse of choice for regional airlines, polar research stations and skydiving operators from the Maldives to Antarctica.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "De Havilland Canada designed the Twin Otter as a twin-engine, turboprop-powered successor to its piston-engined DHC-3 Otter, aiming to keep the same rugged STOL bush-flying capability while adding the reliability and power of Pratt & Whitney Canada's new PT6A turboprop. The prototype first flew on 20 May 1965 from Downsview, Ontario, and the type entered airline and bush-operator service in 1966. De Havilland Canada progressively improved the design through the Series 100, 200, and definitive Series 300 (introduced in 1969, with more powerful PT6A-27 engines and higher payload), building 844 aircraft in total before Boeing, which had absorbed de Havilland Canada, ended production in 1988. Demand for the type never went away - operators kept flying existing airframes hard for decades in roles no other aircraft could fill as economically - and in 2006 Victoria, British Columbia-based Viking Air acquired the type certificates for all out-of-production de Havilland Canada designs. Viking relaunched production as the Series 400 in 2008, with first delivery in 2010, adding a Honeywell glass cockpit, PT6A-34 engines, and composite structures while preserving the same STOL performance, and has continued building and refining the type (including the 2023-launched Series 300-G 'Classic' cockpit upgrade package) for customers ranging from regional airlines to military and coast guard operators.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 210,
+      "text": "182 kn (210 mph / 337 km/h)"
+    },
+    "cruiseSpeed": "184-210 mph (296-337 km/h) depending on series and altitude",
+    "range": {
+      "miles": 800,
+      "text": "~890-920 mi (1,430-1,480 km, 771-800 nmi) ferry range; typical operational legs are far shorter"
+    },
+    "serviceCeiling": {
+      "ft": 25000,
+      "text": "25,000 ft (7,600 m), both engines operating"
+    },
+    "wingspan": {
+      "ft": 65,
+      "text": "65 ft 0 in (19.81 m)"
+    },
+    "length": {
+      "ft": 51.75,
+      "text": "51 ft 9 in (15.77 m), Series 300/400; earlier Series 100 was 49 ft 6 in"
+    },
+    "height": {
+      "ft": 19.5,
+      "text": "19 ft 6 in (5.94 m)"
+    },
+    "weight": "empty: ~7,415 lb (3,363 kg); MTOW: 12,500 lb (5,670 kg), Series 300/400",
+    "engines": "2 x Pratt & Whitney Canada PT6A-34 turboprops (750 shp, flat-rated to 620 shp), Series 400; earlier series used PT6A-20 or PT6A-27",
+    "crew": "1-2 pilots",
+    "capacity": "18-19 passengers (commuter/regional configuration) or equivalent cargo/medevac load",
+    "firstFlight": {
+      "date": "1965-05-20",
+      "year": 1965
+    },
+    "serviceEntryDate": "1966-01-01",
+    "retiredDate": null,
+    "numberBuilt": 1000,
+    "unitCost": {
+      "usd": 7250000,
+      "text": "~$7.25M (2023, fully-equipped Series 400)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Series 100/200",
+      "desc": "Original 1966-onward production standard with 550 shp PT6A-20 engines; Series 200 added a slightly restyled nose baggage compartment."
+    },
+    {
+      "code": "Series 300",
+      "desc": "Most numerous original-production variant (from 1969) with more powerful 620 shp PT6A-27 engines and increased maximum takeoff weight; 614 built before 1988."
+    },
+    {
+      "code": "Series 400",
+      "desc": "Viking Air's relaunched production standard (first delivered 2010) with PT6A-34 engines, a Honeywell Primus Apex glass cockpit, and composite airframe components."
+    },
+    {
+      "code": "Series 300-G 'Classic'",
+      "desc": "2023-launched upgrade package pairing the existing Series 300 airframe with a new Garmin glass cockpit and modernized interior."
+    },
+    {
+      "code": "DHC-6-300M / Twin Otter on floats/skis",
+      "desc": "Military utility and float/ski-equipped variants used for Arctic and Antarctic logistics, medevac, and paratrooper operations."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Trans Maldivian Airways",
+      "role": "Largest Operator (Seaplane)",
+      "status": "In Service",
+      "since": "1989",
+      "fleetSize": "~65",
+      "homeBase": "Male, Maldives (seaplane bases)"
+    },
+    {
+      "name": "Kenn Borek Air",
+      "role": "Polar Operator",
+      "status": "In Service",
+      "since": "1970",
+      "fleetSize": "~15",
+      "homeBase": "Calgary, Canada (Arctic/Antarctic ops)"
+    },
+    {
+      "name": "Grand Canyon Airlines / Scenic Airlines",
+      "role": "Sightseeing Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "~13",
+      "homeBase": "Grand Canyon National Park Airport (KGCN)"
+    },
+    {
+      "name": "Royal Canadian Air Force / Various Coast Guards",
+      "role": "Utility/SAR Operator",
+      "status": "In Service",
+      "since": "varies",
+      "fleetSize": "small numbers",
+      "homeBase": "Multiple",
+      "logo": "rcaf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "DHC6",
+    "howToFind": "Filter Flightradar24's aircraft-type field for \"DHC6\" or search by operator callsign - Trans Maldivian Airways' seaplane sightseeing hops rarely appear (many are flown below radar/ADS-B coverage over remote atolls), but overland regional and commuter operators such as Kenn Borek Air, Loganair, and Cape Air-style bush carriers are commonly visible on domestic routes."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Viking Air Press Releases",
+      "url": "https://www.vikingair.com/news",
+      "topicTag": "Twin Otter"
+    },
+    {
+      "name": "Simple Flying",
+      "url": "https://simpleflying.com/feed/",
+      "topicTag": "DHC-6 Twin Otter"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "De Havilland's DHC-6 Twin Otter hits 1,000 built after six decades",
+      "source": "Aerospace Global News",
+      "date": "2026-01-24",
+      "category": "Production",
+      "url": "https://aerospaceglobalnews.com/news/de-havilland-dhc-6-twin-otter-1000-built/"
+    }
+  ],
+  "tags": [
+    "dhc-6",
+    "dhc6",
+    "twin otter",
+    "de havilland canada",
+    "viking air",
+    "stol",
+    "bush plane",
+    "seaplane",
+    "float plane",
+    "utility aircraft",
+    "trans maldivian",
+    "turboprop"
+  ],
+  "quickFacts": [
+    "Twin Otters fly scheduled services to the world's shortest runway island (Saba, 400 m) and the famous beach landing at Barra, Scotland - where the runway disappears at high tide.",
+    "Ski-equipped Twin Otters made the first-ever winter flights to the South Pole - the daring 2001 and 2016 midwinter medical evacuations, in darkness at -60°C.",
+    "Production restarted in 2010 after a 22-year gap - almost unheard of in aviation - because nothing newer could do its job.",
+    "The British Antarctic Survey and Kenn Borek Air operate fleets on skis, floats and tundra tyres - often all in one season.",
+    "It can take off in around 366 m fully loaded - shorter than four football pitches."
+  ],
+  "article": {
+    "overview": [
+      "The de Havilland Canada DHC-6 Twin Otter is a twin-engine turboprop STOL aircraft designed for short-field and bush operations. It first flew in 1965 and can be fitted with wheels, floats or skis, letting it operate from gravel bars, glaciers, lakes and short unpaved strips.{{ref:wiki-dhc6}}",
+      "Production ended in 1988 but resumed in 2007 after Viking Air, holder of the type certificate, judged continuing demand strong enough to restart the line - one of the few aircraft ever returned to production this way. It remains in production today as the Series 400 and Classic 300-G.{{ref:dhc-dhc6}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "De Havilland Canada spent the 1950s perfecting bush aircraft - Beaver, then Otter - and the DHC-6 was their logical multiplication: two of Pratt & Whitney Canada's brand-new PT6 turboprops on a stretched, fixed-gear, high-wing airframe with STOL wings, aimed at operators who needed Otter manners with commuter capacity and engine-out safety.{{ref:wiki-dhc6}}",
+          "It flew on 20 May 1965 and found two markets at once: the bush and float operators it was designed for, and - unexpectedly - the new 'commuter airline' boom in the United States, where its nineteen seats fit the regulations and its short-field manners fit downtown STOLports. The Twin Otter became the world's default third-level airliner.{{ref:wiki-dhc6}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Twin Otter's genius is honest STOL: a big straight wing with double-slotted flaps, fixed tricycle gear that swaps to floats, skis, wheel-skis or tundra tyres in a shift, and PT6 reliability in places where a mechanic is a radio call and a day's flying away. Takeoff and landing runs under 400 metres - far less lightly loaded - open strips nothing else with two engines can use.{{ref:dhc-dhc6}}",
+          "It is deliberately simple to keep flying: unpressurised, mechanical, tolerant of cold-soak at -50°C and coral-dust at +40°C, field-repairable, and forgiving enough that it serves as half the world's introduction to multi-engine bush flying. The Series 400 restart added modern Honeywell avionics while changing the airframe as little as possible - operators insisted.{{ref:dhc-dhc6}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The type's postings read like an atlas of difficult places: Maldivian float fleets running the world's largest seaplane operation, Kenn Borek's red-and-white machines working both polar regions, island-hoppers in the Caribbean and Pacific, skydiving lifts on every continent, and parapublic fleets from the Chilean fjords to the Norwegian coast. Some 30+ militaries have flown it, including the U.S. Army's new grey Grand Caravans-with-attitude for Arctic work.{{ref:wiki-dhc6}}",
+          "Its legend is polar. Ski-equipped Twin Otters supply Antarctic field camps, and twice - in 2001 and 2016 - Kenn Borek crews flew midwinter medical evacuations from the South Pole itself: minus 60°C, months of darkness, landings by flare-light at the coldest airstrip on Earth. No other aircraft type has ever done it.{{ref:borek-pole}}",
+          "Around 985 classic-build aircraft were followed by 150+ Viking/DHC Series 400s; hundreds of fifty-year-old examples still earn daily revenue, kept ageless by unlimited-life structural programs and the absence of any substitute.{{ref:dhc-dhc6}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The resurrection is the singular chapter: production ended in 1988 when parent policy moved on, but values of used Twin Otters kept climbing until Viking Air - holder of the type certificates - concluded the absurd was commercial sense and relaunched manufacture in 2007. First new-build Series 400 flew in 2010; the De Havilland Canada name returned to the program in 2019, and the refreshed Classic 300-G keeps the order book alive into the 2030s.{{ref:dhc-dhc6}}",
+          "Nineteen seats, two PT6s, fixed gear: the specification has survived sixty years essentially intact because every attempt at a 'Twin Otter replacement' - including several by its own manufacturers - discovered the replacement was a Twin Otter.{{ref:wiki-dhc6}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The Twin Otter is infrastructure disguised as an aircraft: for hundreds of communities from Nunavut to the Nepali hills, it is the road, the ambulance, the mail van and the school bus. Aviation measures most types in performance; this one is measured in places that exist on the network only because it exists.{{ref:dhc-dhc6}}",
+          "Its production resurrection remains nearly unique in aviation history - the market simply refused the aircraft's retirement, and sixty years after first flight the Twin Otter is still building the order book, still flying the South Pole logbook and still keeping the Lukla schedule{{ref:wiki-lukla}}.{{ref:wiki-dhc6}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-dhc6",
+      "name": "De Havilland Canada DHC-6 Twin Otter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "id": "dhc-dhc6",
+      "name": "DHC-6 Twin Otter",
+      "publisher": "De Havilland Aircraft of Canada",
+      "url": "https://dehavilland.com/en/twin-otter"
+    },
+    {
+      "id": "borek-pole",
+      "name": "South Pole medevac missions",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kenn_Borek_Air"
+    },
+    {
+      "id": "wiki-lukla",
+      "name": "Tenzing–Hillary Airport (Lukla)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tenzing%E2%80%93Hillary_Airport"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - de Havilland Canada DHC-6 Twin Otter",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "name": "Viking Air - Twin Otter Series 400 Technical Specifications (PDF)",
+      "url": "https://www.vikingair.com/sites/default/files/Viking-Twin-Otter-Series-400-Technical-Specifications-R-01-2018.pdf"
+    },
+    {
+      "name": "De Havilland Aircraft of Canada - DHC-6 Twin Otter Classic 300-G Brochure (PDF)",
+      "url": "https://dehavilland.com/wp-content/uploads/2025/01/DHC-6-Twin-Otter-Classic-300-G_Brochure_V3_DIGITAL2.pdf"
+    },
+    {
+      "name": "Wikipedia - Trans Maldivian Airways",
+      "url": "https://en.wikipedia.org/wiki/Trans_Maldivian_Airways"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1968-11-23",
+      "title": "Cable Commuter Airlines crash at Santa Ana",
+      "tag": "Approach accident",
+      "summary": "The aircraft struck a light pole in fog about 1.8 miles short of John Wayne Airport, California, killing nine people.",
+      "fatalities": 9,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1972-06-29",
+      "title": "Air Wisconsin Flight 671 mid-air collision",
+      "tag": "Mid-air collision",
+      "summary": "The Twin Otter collided in mid-air with a North Central Airlines Convair 580 over Appleton, Wisconsin. All eight aboard the Twin Otter and all five in the Convair were killed.",
+      "fatalities": 13,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1975-01-05",
+      "title": "Argentine Army Aviation crash",
+      "tag": "Weather",
+      "summary": "An Argentine Army Twin Otter crashed in bad weather while flying without a filed flight plan, killing all thirteen on board.",
+      "fatalities": 13,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1975-01-09",
+      "title": "Golden West Airlines Flight 261 mid-air collision",
+      "tag": "Mid-air collision",
+      "summary": "The commuter Twin Otter collided with a Cessna 150 over Whittier, California. Twelve people on the airliner and both occupants of the Cessna were killed.",
+      "fatalities": 14,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1976-05-03",
+      "title": "Demonstration flight crash at Monze, Zambia",
+      "tag": "Takeoff accident",
+      "summary": "A Twin Otter being demonstrated at Monze Air Force Base crashed on takeoff, killing eleven people.",
+      "fatalities": 11,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1976-12-12",
+      "title": "Allegheny Commuter Flight 977",
+      "tag": "Approach accident",
+      "summary": "The aircraft came down short of the runway, killing three of those on board.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1977-01-14",
+      "title": "Pacific Western Airlines Flight 405",
+      "tag": "Controlled flight into terrain",
+      "summary": "The Twin Otter flew into a mountain on approach in British Columbia, killing all twelve aboard.",
+      "fatalities": 12,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1978-01-18",
+      "title": "Frontier Airlines training crash",
+      "tag": "Training accident",
+      "summary": "Three crew were killed when the aircraft crashed during a training flight.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1978-09-02",
+      "title": "Airwest Airlines approach crash",
+      "tag": "Mechanical failure",
+      "summary": "A corroded rod failed and let a flap retract on approach; the crew lost control and eleven people were killed.",
+      "fatalities": 11,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1978-11-18",
+      "title": "Attacked at Port Kaituma during the Jonestown killings",
+      "tag": "Ground attack",
+      "summary": "Members of the Peoples Temple opened fire on a Twin Otter and a Cessna evacuating defectors from Jonestown, Guyana, disabling the Twin Otter with gunfire. Five people were killed at the airstrip, among them US Congressman Leo Ryan.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1978-12-04",
+      "title": "Rocky Mountain Airways Flight 217",
+      "tag": "Icing / mountain wave",
+      "summary": "Severe icing and a mountain-wave downdraft forced the aircraft down onto snow in Colorado. The impact was survivable for most on board, but two people died.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1979-05-30",
+      "title": "Downeast Airlines Flight 46",
+      "tag": "Approach accident",
+      "summary": "The Twin Otter crashed about 1.2 miles from Knox County Regional Airport, Maine, killing seventeen of the eighteen people aboard.",
+      "fatalities": 17,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1979-06-17",
+      "title": "Air New England Flight 248",
+      "tag": "Controlled flight into terrain",
+      "summary": "The aircraft flew into woodland on approach to Hyannis, Massachusetts; the captain was killed and the other occupants survived.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1981-07-24",
+      "title": "Air Madagascar Flight 112",
+      "tag": "Controlled flight into terrain",
+      "summary": "The Twin Otter struck a mountain in cloud, killing all nineteen people on board.",
+      "fatalities": 19,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1981-07-31",
+      "title": "Crash that killed Panama's Omar Torrijos",
+      "tag": "Loss of control",
+      "summary": "A Panamanian Air Force Twin Otter crashed in mountainous terrain, killing General Omar Torrijos, Panama's de facto leader, and six others. The cause remains disputed.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1982-02-21",
+      "title": "Pilgrim Airlines Flight 458 in-flight fire",
+      "tag": "In-flight fire",
+      "summary": "A fire broke out on board and the crew put the aircraft down in a frozen field in Connecticut. One passenger died.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1982-03-11",
+      "title": "Widerøe Flight 933 (the Mehamn disaster)",
+      "tag": "Loss of control",
+      "summary": "The Twin Otter came apart and fell into the Barents Sea off northern Norway, killing all fifteen aboard. The official finding was a failure in the elevator control system, but the cause was contested for decades.",
+      "fatalities": 15,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1986-06-14",
+      "title": "RCAF Twin Otter 13807 lost on a search flight",
+      "tag": "Spatial disorientation",
+      "summary": "A Canadian Forces Twin Otter searching for a missing aircraft crashed after the crew were affected by visual illusion, killing all eight aboard.",
+      "fatalities": 8,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1986-06-18",
+      "title": "Grand Canyon Airlines Flight 6 mid-air collision",
+      "tag": "Mid-air collision",
+      "summary": "A sightseeing Twin Otter collided with a Bell 206 helicopter over the Grand Canyon. All twenty on the aeroplane and all five in the helicopter died; the accident led to new rules for air tours over the canyon.",
+      "fatalities": 25,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1986-08-04",
+      "title": "LIAT Flight 319",
+      "tag": "Loss of control",
+      "summary": "The aircraft came down in the Caribbean Sea en route from St Lucia, killing all thirteen on board.",
+      "fatalities": 13,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1989-10-28",
+      "title": "Aloha IslandAir Flight 1712",
+      "tag": "Controlled flight into terrain",
+      "summary": "The Twin Otter struck high ground on approach to Molokai Airport, Hawaii, killing all twenty people aboard.",
+      "fatalities": 20,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1990-04-12",
+      "title": "Widerøe Flight 839",
+      "tag": "Weather",
+      "summary": "The aircraft crashed into the sea off Værøy, Norway, in violent wind, killing all five on board.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1992-04-22",
+      "title": "Perris Valley skydiving crash",
+      "tag": "Fuel contamination",
+      "summary": "Contaminated fuel caused a loss of power on takeoff and the aircraft crashed beside the runway in California, killing sixteen of the skydivers and crew aboard.",
+      "fatalities": 16,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1993-10-27",
+      "title": "Widerøe Flight 744",
+      "tag": "Controlled flight into terrain",
+      "summary": "The aircraft flew into a forested hillside at night on approach in Norway, killing six of the crew and passengers.",
+      "fatalities": 6,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1994-12-17",
+      "title": "Mission Aviation Fellowship crash",
+      "tag": "Controlled flight into terrain",
+      "summary": "The Twin Otter struck a mountain at 6,400 ft en route, killing all twenty-eight people on board.",
+      "fatalities": 28,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1995-01-10",
+      "title": "Merpati Nusantara Airlines Flight 6715",
+      "tag": "Weather / disappearance",
+      "summary": "The aircraft disappeared in bad weather on an Indonesian domestic flight; all fourteen aboard were killed.",
+      "fatalities": 14,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1996-11-30",
+      "title": "ACES Colombia Flight 148",
+      "tag": "Approach accident",
+      "summary": "The Twin Otter crashed about five miles from Olaya Herrera Airport, Medellín, killing all fourteen on board.",
+      "fatalities": 14,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "1997-01-07",
+      "title": "Polynesian Airlines Flight 211",
+      "tag": "Controlled flight into terrain",
+      "summary": "While diverting to Faleolo International Airport in bad weather the aircraft flew into terrain, killing three people.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2000-07-27",
+      "title": "Royal Nepal Airlines crash near Dhangadhi",
+      "summary": "A Royal Nepal Airlines Twin Otter struck a hillside near Jogbuda on final approach to Dhangadhi Airport, killing all 25 aboard.",
+      "fatalities": 25,
+      "tag": "Weather/CFIT",
+      "source": "https://en.wikipedia.org/wiki/2000_Royal_Nepal_Airlines_Twin_Otter_crash"
+    },
+    {
+      "date": "2001-03-24",
+      "title": "Air Caraïbes Flight 1501",
+      "tag": "Approach accident",
+      "summary": "The Twin Otter crashed near Gustaf III Airport on St Barthélemy, killing all nineteen aboard and one person on the ground.",
+      "fatalities": 20,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2002-08-22",
+      "title": "Shangri-La Air crash near Pokhara",
+      "tag": "Controlled flight into terrain",
+      "summary": "The aircraft flew into a mountain three miles south-east of Pokhara Airport, Nepal, killing all eighteen on board.",
+      "fatalities": 18,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2006-05-26",
+      "title": "Air São Tomé and Príncipe training crash",
+      "tag": "Training accident",
+      "summary": "The airline's only aircraft, S9-BAL, crashed on a training flight, killing all four on board.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2006-06-21",
+      "title": "Yeti Airlines crash at Jumla",
+      "tag": "Controlled flight into terrain",
+      "summary": "The Twin Otter crashed at the edge of the runway at Jumla Airport, Nepal, killing all nine on board.",
+      "fatalities": 9,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2007-05-06",
+      "title": "French Air Force crash in Sinai",
+      "tag": "Controlled flight into terrain",
+      "summary": "A French Twin Otter supporting the Multinational Force and Observers crashed in Egypt, killing all nine aboard.",
+      "fatalities": 9,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2007-08-09",
+      "title": "Air Moorea Flight 1121 elevator cable failure",
+      "summary": "An Air Moorea DHC-6-300 crashed into the sea shortly after takeoff from Moorea, French Polynesia, after its elevator control cable failed in flight. All 19 passengers and the pilot were killed.",
+      "fatalities": 20,
+      "tag": "Mechanical failure",
+      "source": "https://en.wikipedia.org/wiki/Air_Moorea_Flight_1121"
+    },
+    {
+      "date": "2008-10-08",
+      "title": "Yeti Airlines Flight 101 at Lukla",
+      "tag": "Landing accident",
+      "summary": "The aircraft was destroyed landing at Tenzing-Hillary Airport, Lukla, one of the world's most demanding airstrips. Eighteen of the nineteen people aboard were killed.",
+      "fatalities": 18,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2009-08-02",
+      "title": "Merpati Nusantara Airlines Flight 9760D",
+      "tag": "Controlled flight into terrain",
+      "summary": "The Twin Otter crashed about fourteen miles north of Oksibil in Papua, killing all sixteen on board.",
+      "fatalities": 16,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2009-08-11",
+      "title": "Airlines PNG Flight 4684",
+      "tag": "Controlled flight into terrain",
+      "summary": "The aircraft struck a mountain on the Kokoda run in Papua New Guinea, killing all thirteen aboard.",
+      "fatalities": 13,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2010-12-15",
+      "title": "Tara Air crash after takeoff from Lamidanda",
+      "tag": "Weather",
+      "summary": "The Twin Otter came down shortly after takeoff on a Nepalese domestic flight, killing all twenty-two on board.",
+      "fatalities": 22,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2011-01-20",
+      "title": "Ecuadorian Air Force crash",
+      "tag": "Loss of control",
+      "summary": "An Ecuadorian Air Force Twin Otter crashed en route between Río Amazonas and Mayor Galo de la Torre airports, killing six.",
+      "fatalities": 6,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2011-09-22",
+      "title": "Arctic Sunwest Charters crash in Yellowknife",
+      "tag": "Loss of control",
+      "summary": "A float-equipped Twin Otter came down in a street in Yellowknife, killing both pilots and injuring seven people on the ground.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2013-01-23",
+      "title": "Antarctic CFIT near Mount Elizabeth",
+      "summary": "A Kenn Borek Air Twin Otter on a supply run in Antarctica struck Mount Elizabeth after the crew turned too early in poor visibility. All three crew were killed.",
+      "fatalities": 3,
+      "tag": "Weather/CFIT",
+      "source": "https://en.wikipedia.org/wiki/2013_Kenn_Borek_Air_DHC-6_crash"
+    },
+    {
+      "date": "2013-10-10",
+      "title": "MASwings Flight 3002 at Kudat",
+      "tag": "Landing accident",
+      "summary": "The aircraft crashed while landing at Kudat Airport in Sabah, Malaysia, killing two of those on board.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2014-02-16",
+      "title": "Nepal Airlines Flight 183",
+      "tag": "Weather",
+      "summary": "The Twin Otter crashed in bad weather en route from Pokhara to Jumla, killing all eighteen on board.",
+      "fatalities": 18,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2014-09-20",
+      "title": "Hevilift landing crash near Port Moresby",
+      "tag": "Landing accident",
+      "summary": "The aircraft crashed on landing in Papua New Guinea, killing four people.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2015-10-02",
+      "title": "Aviastar Flight 7503",
+      "tag": "Controlled flight into terrain",
+      "summary": "The pilot deviated from the route to Makassar and the aircraft struck mountainous terrain in Sulawesi, killing all ten on board.",
+      "fatalities": 10,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2016-02-24",
+      "title": "Tara Air Flight 193",
+      "tag": "Controlled flight into terrain",
+      "summary": "The Twin Otter crashed shortly after takeoff from Pokhara on a flight to Jomsom, killing all twenty-three people on board.",
+      "fatalities": 23,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2018-08-30",
+      "title": "Ethiopian Air Force crash at Nannawa",
+      "tag": "Loss of control",
+      "summary": "An Ethiopian Air Force Twin Otter flying from Dire Dawa crashed at Nannawa, killing eighteen people.",
+      "fatalities": 18,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2019-09-18",
+      "title": "PT Carpediem Aviasi Mandiri crash in Papua",
+      "tag": "Controlled flight into terrain",
+      "summary": "The aircraft crashed in the Hoeya district after departing Timika, killing all four on board.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2022-05-29",
+      "title": "Tara Air Flight 197",
+      "tag": "Controlled flight into terrain",
+      "summary": "The Twin Otter crashed in the mountains after leaving Pokhara for Jomsom, killing all twenty-two on board.",
+      "fatalities": 22,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2023-05-20",
+      "title": "Crash into Half Moon Bay, California",
+      "tag": "Loss of control",
+      "summary": "A Twin Otter came down in the sea off Half Moon Bay, California, killing two people.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2023-12-27",
+      "title": "Air Tindi crash north-east of Yellowknife",
+      "tag": "Forced landing",
+      "summary": "The aircraft came down about 190 miles north-east of Yellowknife in Canada's Northwest Territories with no loss of life.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2024-10-20",
+      "title": "SAM Air crash at Panua Airport",
+      "tag": "Landing accident",
+      "summary": "The Twin Otter crashed attempting to land at Panua Airport in Pohuwato Regency, Indonesia, killing four on board.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    },
+    {
+      "date": "2025-04-25",
+      "title": "Royal Thai Police crash near Hua Hin",
+      "tag": "Training accident",
+      "summary": "A Royal Thai Police Twin Otter crashed into the sea near Hua Hin Airport during a parachute training flight, killing six.",
+      "fatalities": 6,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter"
+    }
+  ]
+}

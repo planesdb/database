@@ -1,0 +1,371 @@
+{
+  "name": "MiG-21",
+  "fullName": "Mikoyan-Gurevich MiG-21 (NATO: Fishbed)",
+  "manufacturer": "Mikoyan-Gurevich (MiG)",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Cold War Supersonic Fighter",
+  "tagline": "The most-produced supersonic jet aircraft in history, flown by more than 60 air forces worldwide. Built in numbers exceeding 11,000 across the Soviet Union, Czechoslovakia, India and China, it saw sustained combat over Vietnam, the Middle East and South Asia before its most prominent operator, the Indian Air Force, retired the type in September 2025.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Designed in response to combat lessons from the Korean War, where Soviet engineers concluded that a lightweight, simple, easy-to-mass-produce interceptor optimised for speed and climb rate would suit Warsaw Pact doctrine better than a larger multirole design, the MiG-21 first flew in prototype form in 1955 and entered Soviet Air Force service in 1959. Its light weight and powerful engine gave exceptional acceleration and climb performance, though at the cost of very short range and limited weapons load compared to Western contemporaries. The type saw extensive and controversial combat over North Vietnam from 1966, where MiG-21s flown by North Vietnamese pilots proved a serious threat to US strike aircraft and, in the type's most famous engagement, fought running battles with US F-4 Phantoms that exposed weaknesses in American close-in dogfighting doctrine and directly prompted the founding of the US Navy's Top Gun training school. It was exported and license-built on a vast scale - by Czechoslovakia's Aero Vodochody, India's Hindustan Aeronautics (which built over 650 under license and flew them in the 1971 and 1999 wars with Pakistan), and China as the Chengdu J-7. India's squadrons, the type's last major frontline operator, flew their final sorties in September 2025 after a long and controversial safety record that earned the type the nickname 'Flying Coffin' in Indian media due to a high accident rate in its later Indian service decades; a small number of other air forces continue to operate residual MiG-21s in limited frontline or reserve roles.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1385,
+      "text": "1,204 kn (1,385 mph / 2,229 km/h)"
+    },
+    "cruiseSpeed": "~560 mph (900 km/h)",
+    "range": {
+      "miles": 683,
+      "text": "683 mi (1,100 km) on internal fuel; up to 1,118 mi (1,800 km) with drop tanks"
+    },
+    "serviceCeiling": {
+      "ft": 57400,
+      "text": "57,400 ft (17,500 m)"
+    },
+    "wingspan": {
+      "ft": 23.5,
+      "text": "23 ft 6 in (7.15 m)"
+    },
+    "length": {
+      "ft": 51.83,
+      "text": "51 ft 10 in (15.76 m) including pitot boom"
+    },
+    "height": {
+      "ft": 13.42,
+      "text": "13 ft 5 in (4.1 m)"
+    },
+    "weight": "empty: 12,346 lb (5,600 kg); loaded: 19,996 lb (9,070 kg)",
+    "engines": "1 x Tumansky R-25-300 turbojet, 16,530 lbf thrust with afterburner (MiG-21bis)",
+    "armament": "1 x 23 mm GSh-23L twin-barrel cannon; up to 4-5 hardpoints for R-3S/R-60 air-to-air missiles, rockets or bombs",
+    "crew": "1 (pilot); MiG-21U/UM two-seat trainer variants carried 2",
+    "capacity": "N/A - single-seat fighter; up to 3,300 lb (1,500 kg) of external ordnance across 4-5 hardpoints",
+    "firstFlight": {
+      "date": "1955-06-14",
+      "year": 1955
+    },
+    "serviceEntryDate": "1959-05-01",
+    "retiredDate": "2025",
+    "numberBuilt": 11496,
+    "unitCost": {
+      "usd": 5000000,
+      "text": "~$5M (late production, adjusted to 2026 dollars) - original Soviet-era production cost was far lower under centrally planned economics"
+    }
+  },
+  "variants": [
+    {
+      "code": "MiG-21F",
+      "desc": "Original clear-weather day fighter variant, the first mass-produced version."
+    },
+    {
+      "code": "MiG-21PF/PFM",
+      "desc": "All-weather interceptor variants with search radar and improved avionics, widely exported through the 1960s."
+    },
+    {
+      "code": "MiG-21bis",
+      "desc": "Final and most capable Soviet production standard, with a more powerful engine and modern avionics; the definitive late-Cold War version."
+    },
+    {
+      "code": "Chengdu J-7 (China)",
+      "desc": "Chinese reverse-engineered and license-derived version, produced in large numbers and further developed independently for decades."
+    },
+    {
+      "code": "HAL-built MiG-21 (India)",
+      "desc": "License-built and later upgraded ('Bison' standard) Indian Air Force version, in frontline and reserve service into the mid-2020s."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet Air Forces / Russian Air Force",
+      "role": "Original Operator",
+      "status": "Retired",
+      "since": "1959",
+      "fleetSize": "~10,000 at Cold War peak - the largest fleet of any operator",
+      "homeBase": "Soviet and Warsaw Pact airbases"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "Largest Export & Licence Operator",
+      "status": "Retired",
+      "since": "1963",
+      "fleetSize": "1,200+ inducted, ~400 at peak across 19 squadrons; ~870 licence-built by HAL; final squadrons retired 2025",
+      "homeBase": "Indian Air Force bases",
+      "logo": "indian-air-force.webp"
+    },
+    {
+      "name": "People's Liberation Army Air Force (Chengdu J-7)",
+      "role": "Licence Production & Derivative",
+      "status": "Retired",
+      "since": "1966",
+      "fleetSize": "2,400+ J-7s built in China to 2013; the largest single derivative of the design",
+      "homeBase": "PLAAF bases across China"
+    },
+    {
+      "name": "Vietnam People's Air Force",
+      "role": "Combat Operator",
+      "status": "Retired",
+      "since": "1966",
+      "fleetSize": "~180 during the Vietnam War",
+      "homeBase": "North Vietnamese airbases",
+      "logo": "vietnam-peoples-air-force.svg"
+    },
+    {
+      "name": "Yugoslav Air Force",
+      "role": "Non-aligned Export Operator",
+      "status": "Retired",
+      "since": "1962",
+      "fleetSize": "261 purchased between 1962 and the early 1980s; successor states flew them into the 2020s",
+      "homeBase": "Batajnica and other Yugoslav airbases"
+    },
+    {
+      "name": "Warsaw Pact air forces (Poland, Czechoslovakia, East Germany, Hungary, Romania, Bulgaria)",
+      "role": "Bloc Operators",
+      "status": "Retired",
+      "since": "1960s",
+      "fleetSize": "Several thousand combined; Czechoslovakia and India also built the type under licence",
+      "homeBase": "Warsaw Pact airbases across Eastern Europe"
+    },
+    {
+      "name": "~50 other air forces worldwide",
+      "role": "Export Operators",
+      "status": "In Service",
+      "since": "1960s",
+      "fleetSize": "Roughly 60 air forces flew the type; Syria (51), North Korea (26), Angola (23), Yemen (19) and Libya (12) retain residual fleets",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "MG21",
+    "howToFind": "A small number of MiG-21s remain airworthy in private warbird collections, particularly in the US, and appear at airshows; a handful of air forces still fly the type in limited reserve/training roles, occasionally visible on Flightradar24 near those bases."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "AeroTime",
+      "url": "https://www.aerotime.aero/feed",
+      "topicTag": "MiG-21"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Indian Air Force retires its MiG-21 Bison after 62 years of service",
+      "source": "The Aviationist",
+      "date": "2025-09-26",
+      "category": "Retirement",
+      "url": "https://theaviationist.com/2025/09/26/indian-air-force-mig-21-bison-retires/"
+    },
+    {
+      "title": "India's iconic MiG-21 'blasts off' into retirement as Tejas takes over",
+      "source": "The War Zone",
+      "date": "2025-09-26",
+      "category": "Retirement",
+      "url": "https://www.twz.com/air/indias-iconic-mig-21-blasts-off-into-retirement"
+    }
+  ],
+  "tags": [
+    "mig-21",
+    "fishbed",
+    "mikoyan-gurevich",
+    "cold war fighter",
+    "vietnam war",
+    "soviet fighter",
+    "indian air force",
+    "most produced supersonic jet",
+    "delta wing"
+  ],
+  "quickFacts": [
+    "With over 11,000 built, the MiG-21 is the most-produced supersonic aircraft in history - it served with about 60 air forces on four continents.",
+    "India retired its last MiG-21s in September 2025 after 62 years - during which around 400 Indian MiG-21s crashed, earning it the grim nickname 'the flying coffin'.",
+    "In 1966, Israel's Mossad persuaded an Iraqi pilot to defect with his MiG-21 (Operation Diamond) - the jet was test-flown against Western fighters and changed air combat tactics worldwide.",
+    "Over Vietnam, MiG-21s armed with just two missiles regularly ambushed US strike packages using ground-controlled slashing attacks - and forced the US to invent Top Gun.",
+    "Fighter pilots nicknamed it 'the pencil' for its needle fuselage; its delta wing bled speed so fast in turns that good MiG-21 pilots simply never turned.",
+    "Some air forces still fly it today, seven decades after the 1955 prototype - the longest front-line career of any supersonic fighter."
+  ],
+  "article": {
+    "overview": [
+      "The Mikoyan-Gurevich MiG-21 is a Soviet single-engine, delta-wing supersonic fighter. Over 11,000 were built in the Soviet Union, India and Czechoslovakia, plus thousands more as Chinese-built J-7 copies, making it the most-produced supersonic aircraft in history.{{ref:wiki-mig21}}",
+      "It has been flown by roughly 60 air forces and has seen combat somewhere in the world in nearly every year since 1963, including against US F-4 Phantoms over Vietnam.{{ref:wiki-mig21}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Korea's MiG-15-versus-Sabre duels convinced Soviet planners that the next war's fighter needed one thing above all: performance. The requirement that became the MiG-21 asked for a lightweight point-defence interceptor - Mach 2, blistering climb, minimal everything else - to defend the homeland against Western bombers.{{ref:wiki-mig21}}",
+          "Mikoyan-Gurevich tested both swept and tailed-delta prototypes; the delta Ye-4/Ye-5 line won, evolving into the Ye-6 that first flew in 1958 as the production template. The formula: a tiny tailed delta wrapped around one Tumansky turbojet, with a nose intake whose movable centre cone housed the (initially tiny) radar.{{ref:wiki-mig21}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The MiG-21's genius was industrial as much as aeronautical. Three generations - the day-fighter F-13, the all-weather PF/PFM family, and the multirole MF/bis with more fuel, better engines and real avionics - kept the same cheap, tough airframe relevant for thirty years of production, ending in the USSR in 1985 and in India (under licence) later still.{{ref:wiki-mig21}}",
+          "Counting China's reverse-engineered Chengdu J-7 (built until 2013){{ref:wiki-j7}}, the family exceeds 13,000 aircraft - a scale no supersonic design has approached since. By the 1970s the MiG-21 equipped the air forces of dozens of Warsaw Pact, Middle Eastern, Asian and African states.{{ref:wiki-mig21}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Everything on the Fishbed serves lightness and speed. The razor-thin delta wing gave low supersonic drag and a startling climb; the price was ferocious landing speeds and fuel reserves best measured in minutes - a point-defence aircraft in the most literal sense, with early models carrying barely 45 minutes of flying.{{ref:wiki-mig21}}",
+          "It was engineered for the real Soviet world: grass and dirt strip operations, maintenance by conscripts with hand tools, temperatures from Siberia to the Sahara. The forward-hinging canopy of early models doubled as a blast shield during ejection - a characteristically brutal-but-clever Soviet touch later abandoned for a conventional design.{{ref:wiki-mig21}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "Vietnam was the proving ground. Flown by North Vietnamese pilots under strict ground control, MiG-21s slashed through American strike packages with hit-and-run Atoll missile attacks, imposing real losses and forcing the U.S. to reinvent its training. Aces like Nguyen Van Coc (nine kills, the war's highest-scoring pilot){{ref:wiki-vancoc}} flew the Fishbed; both sides ended the war respecting it.{{ref:wiki-mig21}}",
+          "It fought everywhere else too: Indo-Pakistani wars (including the first supersonic-vs-supersonic combats of 1971), the Middle East from 1967 through the Bekaa Valley's massacre of Syrian MiGs in 1982, the Iran-Iraq War, African conflicts beyond counting - and, astonishingly, into the 2020s, with upgraded examples flying combat in regional conflicts a lifetime after the design's first flight.{{ref:wiki-mig21}}",
+          "Its long twilight has been harder: ageing airframes earned grim nicknames ('flying coffin' in India's press), and operators from Romania to India finally retired their fleets in the 2020s - India's last MiG-21 squadrons standing down after six decades of service.{{ref:wiki-mig21}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "No fighter has armed more nations, fought more wars or trained more pilots than the MiG-21. Its low cost and simplicity meant the MiG-21 was exported and license-built more widely than most technically superior Western fighters, shaping air combat across five decades of regional conflicts.{{ref:wiki-mig21}}",
+          "Hundreds still serve - Chinese J-7 derivatives above all - and hundreds more are preserved in museums from Hanoi to Havana.{{ref:nasm-mig21}} More supersonic MiG-21s were built than every Western Mach 2 fighter of its generation combined.{{ref:wiki-mig21}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-mig21",
+      "name": "Mikoyan-Gurevich MiG-21",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-21"
+    },
+    {
+      "id": "wiki-j7",
+      "name": "Chengdu J-7",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chengdu_J-7"
+    },
+    {
+      "id": "wiki-vancoc",
+      "name": "Nguyen Van Coc",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_C%E1%BB%91c"
+    },
+    {
+      "id": "nasm-mig21",
+      "name": "Mikoyan-Gurevich MiG-21F",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/mikoyan-gurevich-mig-21f-fishbed-c/nasm_A19870200000"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Mikoyan-Gurevich MiG-21",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-21"
+    },
+    {
+      "name": "Hindustan Aeronautics Limited - MiG-21 program history",
+      "url": "https://hal-india.co.in/"
+    },
+    {
+      "name": "Smithsonian National Air and Space Museum - MiG-21",
+      "url": "https://airandspace.si.edu/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Fixed status/retiredDate inconsistency: retiredDate was null despite status being 'Retired'. Set retiredDate to 2025 (India's final retirement, the type's last major operator) and clarified in the description/history that a small number of other air forces still fly residual MiG-21s.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Rebuilt the operators roster from the full Wikipedia operators list - added Chinese J-7 licence production, Yugoslavia and the Warsaw Pact air forces, gave the Indian and Soviet rows real peak figures, and replaced the vague export row with named residual operators. Attached three previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1970-07-30",
+      "title": "Operation Rimon 20",
+      "summary": "During the War of Attrition, Israeli Mirage IIIs and F-4s baited Soviet-piloted Egyptian MiG-21s into an air battle over the Suez Canal, shooting down five MiG-21s in around three minutes.",
+      "tag": "Combat loss",
+      "source": "https://nationalinterest.org/blog/buzz/180-seconds-death-how-israel-shot-down-5-deadly-russian-made-migs-3-minutes-30657"
+    },
+    {
+      "date": "1973-10-14",
+      "title": "Air Battle of Mansoura",
+      "summary": "In one of the largest air battles of the Yom Kippur War, roughly 62 Egyptian MiG-21s engaged around 120 Israeli Phantoms and Skyhawks over the Nile Delta. Egypt reported losing six MiG-21s in the 53-minute engagement.",
+      "tag": "Combat loss",
+      "source": "https://en.wikipedia.org/wiki/Air_battle_of_Mansoura"
+    },
+    {
+      "date": "1999-05-27",
+      "title": "MiG-21 lost over Kargil",
+      "tag": "Shot down",
+      "summary": "Squadron Leader Ajay Ahuja's MiG-21 was brought down by Pakistani ground fire during the Kargil war. He ejected but was killed after capture, an act India condemned as murder.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-21"
+    },
+    {
+      "date": "1999-08-10",
+      "title": "Atlantique incident over the Rann of Kutch",
+      "tag": "Shootdown",
+      "summary": "Two Indian MiG-21FLs shot down a Pakistan Navy Bréguet Atlantique maritime patrol aircraft with an R-60 missile after it entered Indian airspace, killing all sixteen on board and bringing the two countries close to conflict weeks after Kargil.",
+      "fatalities": 16,
+      "source": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-21"
+    },
+    {
+      "date": "2001-05-07",
+      "title": "Desert training crash in Rajasthan",
+      "summary": "An Indian Air Force MiG-21 crashed during a low-level training exercise in the Rajasthan desert in extreme heat, killing the pilot. It came amid a run of MiG crashes that had killed over 50 IAF pilots in the preceding decade.",
+      "fatalities": 1,
+      "tag": "Training accident",
+      "source": "https://www.tribuneindia.com/2001/20010508/main1.htm"
+    },
+    {
+      "date": "2019-02-27",
+      "title": "Balakot air skirmish shootdown",
+      "summary": "During an India-Pakistan aerial engagement following the Balakot airstrikes, an Indian Air Force MiG-21 Bison was shot down. The pilot, Wing Commander Abhinandan Varthaman, ejected, was captured, and was returned to India after 60 hours.",
+      "fatalities": 0,
+      "tag": "Combat loss",
+      "source": "https://www.indiatvnews.com/news/india/abhinandan-varthaman-shot-down-pakistan-f-16-fighter-jet-what-happened-on-february-27-2019-746191"
+    },
+    {
+      "date": "2020-09-25",
+      "title": "Serbia's last MiG-21UM crashes",
+      "tag": "Training accident",
+      "summary": "Serbia's last flying MiG-21UM - the final MiG-21 built in the Soviet Union - crashed near Mali Zvornik, killing both pilots.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-21"
+    },
+    {
+      "date": "2021-05-21",
+      "title": "Punjab training crash",
+      "summary": "An Indian Air Force MiG-21 Bison crashed during a night training mission in Punjab. The pilot ejected but died of his injuries, one of three fatal MiG-21 crashes the IAF suffered that year.",
+      "fatalities": 1,
+      "tag": "Training accident",
+      "source": "https://www.globalsecurity.org/wmd/library/news/india/2021/india-210521-sputnik01.htm"
+    }
+  ]
+}

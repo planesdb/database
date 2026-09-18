@@ -1,0 +1,289 @@
+{
+  "name": "J-20 Mighty Dragon",
+  "fullName": "Chengdu J-20 Mighty Dragon",
+  "manufacturer": "Chengdu Aircraft Corporation (CAC)",
+  "originCountry": {
+    "name": "China",
+    "code": "cn"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Air Superiority Stealth Fighter",
+  "tagline": "China's twin-engine canard stealth fighter. It made China only the second country after the United States to field an operational stealth fighter, and now anchors PLAAF plans to contest air superiority against Western aircraft like the F-22 and F-35.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "The J-20 grew out of a Chinese requirement for a long-range, low-observable air-superiority fighter dating to the 1990s J-XX studies, with the program formally endorsed around 2008. Prototype '2001' made its first flight on 11 January 2011, and a rapid succession of prototypes through 2011-2015 progressively refined the diverterless supersonic intakes, canopy, engine nacelles and stealth shaping before the design was frozen ahead of low-rate initial production in December 2015. The type was officially unveiled in PLAAF service on 9 March 2017, initially flying with interim Russian-supplied AL-31FM2 engines before transitioning to the domestic Shenyang WS-10C from around 2019-2021 as China worked to end its reliance on Russian powerplants. Production has since accelerated sharply, with independent trackers estimating well over 300 airframes delivered by late 2025 at a reported annual rate approaching 100-120 aircraft - a pace that has already pushed total J-20 numbers past the entire 187-aircraft production run of the US F-22 Raptor. In September 2025 the PLAAF publicly rolled out two new sub-variants: the J-20A, an upgraded single-seater optimised for the more powerful indigenous WS-15 engine, and the J-20S, the world's first operational twin-seat stealth fighter, intended for roles such as directing drone 'loyal wingman' formations and airborne battle management. The J-20 has since become a fixture of Chinese exercises over the East and South China Seas and has featured heavily in tensions with Taiwan and in encounters with US and allied aircraft in the Indo-Pacific.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1320,
+      "text": "~1,147 kn (~1,320 mph / 2,130 km/h)"
+    },
+    "cruiseSpeed": "~Mach 1.0-1.2 supercruise without afterburner on WS-15-equipped variants (estimated)",
+    "range": {
+      "miles": 3418,
+      "text": "~3,420 mi (5,500 km) ferry range with external tanks; ~1,240 mi (2,000 km) combat radius (estimated)"
+    },
+    "serviceCeiling": {
+      "ft": 66000,
+      "text": "~66,000 ft (20,000 m) (estimated)"
+    },
+    "wingspan": {
+      "ft": 42.7,
+      "text": "42 ft 8 in (13.01 m)"
+    },
+    "length": {
+      "ft": 69.6,
+      "text": "69 ft 7 in (21.2 m)"
+    },
+    "height": {
+      "ft": 15.4,
+      "text": "15 ft 5 in (4.69 m)"
+    },
+    "weight": "empty: ~37,500 lb (17,000 kg); MTOW: ~81,600 lb (37,000 kg)",
+    "engines": "2 x Shenyang WS-10C afterburning turbofans (~32,000-33,000 lbf / 142-147 kN each with afterburner); newer airframes fitted with the more powerful WS-15 (~36,000-40,500 lbf / 161-180 kN, estimated); early pre-production aircraft used Russian Saturn AL-31FM2 engines",
+    "armament": "PL-15 long-range and PL-10 short-range air-to-air missiles carried internally in a main ventral bay and two lateral bays (up to ~6 missiles internally); no internal gun; external hardpoints available for additional missiles or fuel tanks at the cost of stealth",
+    "crew": "1 (J-20/J-20A); 2 in tandem on the J-20S twin-seat variant",
+    "capacity": "~24,000 lb (11,000 kg) max weapons/fuel payload (estimated)",
+    "firstFlight": {
+      "date": "2011-01-11",
+      "year": 2011
+    },
+    "serviceEntryDate": "2017-03-09",
+    "retiredDate": null,
+    "numberBuilt": 320,
+    "unitCost": {
+      "usd": 100000000,
+      "text": "~$100M (estimated; China does not publish official program costs)"
+    }
+  },
+  "variants": [
+    {
+      "code": "J-20 (baseline)",
+      "desc": "Initial production standard entering service 2017, later re-engined with domestic WS-10C turbofans in place of interim Russian AL-31FM2s."
+    },
+    {
+      "code": "J-20A",
+      "desc": "Upgraded single-seat standard unveiled September 2025 with reshaped nose/spine, avionics and sensor overhaul, and airframe optimised for the more powerful WS-15 engine."
+    },
+    {
+      "code": "J-20S",
+      "desc": "Tandem twin-seat variant unveiled September 2025 - the first operational two-seat stealth fighter in the world - intended for systems management, drone-swarm control and airborne battle management."
+    },
+    {
+      "code": "J-20B (thrust-vectoring)",
+      "desc": "Designation used by some analysts for airframes fitted with thrust-vectoring nozzles; reporting on exact engine fit and status is inconsistent."
+    }
+  ],
+  "operators": [
+    {
+      "name": "People's Liberation Army Air Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "2017",
+      "fleetSize": "300+",
+      "homeBase": "Multiple air brigades across all five PLA theater commands",
+      "logo": "plaaf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "Not assigned (no civil ICAO type code; Chinese military aircraft are not registered for civil air traffic)",
+    "howToFind": "The J-20 is essentially never visible on Flightradar24 or other ADS-B based public trackers - it operates exclusively within PLAAF military airspace and does not broadcast civil ADS-B, so sightings depend on ground spotters, satellite imagery and official PLA media releases rather than flight-tracking sites."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "The War Zone",
+      "url": "https://www.twz.com/feed",
+      "topicTag": "J-20"
+    },
+    {
+      "name": "Defense News",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+      "topicTag": "J-20"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Chengdu believed to have delivered over 200 J-20s to the PLA in H1 2026",
+      "source": "Meta-Defense",
+      "date": "2026-07-18",
+      "category": "Production",
+      "url": "https://meta-defense.fr/en/2026/07/18/chengdu-over-200-j-20s-to-pla-first-half-2026/"
+    },
+    {
+      "title": "Chengdu advances mass production of the new J-20A variant",
+      "source": "Zona Militar",
+      "date": "2026-01-27",
+      "category": "Production",
+      "url": "https://www.zona-militar.com/en/2026/01/27/chengdu-advances-in-the-mass-production-of-the-j-20a-the-new-version-of-the-chinese-air-forces-fifth-generation-stealth-fighter/"
+    }
+  ],
+  "tags": [
+    "j-20",
+    "j20",
+    "mighty dragon",
+    "chengdu",
+    "stealth fighter",
+    "plaaf",
+    "chinese fighter",
+    "fifth-generation fighter",
+    "canard",
+    "ws-15",
+    "china"
+  ],
+  "quickFacts": [
+    "Western estimates put the J-20 fleet at 300+ aircraft - China is building its stealth fighter faster than the US built Raptors.",
+    "The two-seat J-20S is the world's first twin-seat stealth fighter, aimed at drone-teaming missions with a dedicated systems operator.",
+    "Its combination of canards and stealth shaping was long considered contradictory - the J-20 made it work.",
+    "US Pacific commanders confirmed F-35s and J-20s have already flown within visual range of each other over the East China Sea.",
+    "Early jets flew on Russian engines; the indigenous WS-15 now gives it supercruise-class thrust - closing the last gap with US types.",
+    "It was unveiled in 2011 during a visit by the US Defense Secretary - timing nobody in Beijing pretended was coincidence."
+  ],
+  "article": {
+    "overview": [
+      "The Chengdu J-20 'Mighty Dragon' is a Chinese twin-engine, canard-delta stealth fighter developed by Chengdu Aircraft Corporation for the People's Liberation Army Air Force. It first flew in 2011 and is designed for long-range strikes against tankers, airborne early warning aircraft and other high-value targets rather than close-range dogfighting.{{ref:wiki-j20}}",
+      "It now equips units across every PLA theatre command; mid-2026 estimates put the fleet at 300 to 500 airframes, with production running at roughly 100 a year - a scaling rate faster than either the F-22 or F-35 achieved.{{ref:dsa-300}}{{ref:agn-fleet}} A twin-seat variant, believed to command drone formations, has since entered service."
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "China's fifth-generation program emerged from 1990s studies into the J-XX requirement, with Chengdu's canard design beating Shenyang's more conventional proposal. The J-20's timing was theatrical: its first flight on 11 January 2011 occurred hours before a visiting U.S. Defense Secretary met Hu Jintao - read universally as a message, and a program milestone Western analysts had placed years further out.{{ref:wiki-j20}}",
+          "The design brief showed in the shape from day one: a large aircraft with generous fuel fraction and big internal bays, optimised for speed, range and forward-hemisphere stealth rather than knife-fight agility - a fighter for the Pacific's distances, aimed at the enablers (tankers, AWACS, bases) that hold American airpower together.{{ref:wiki-j20}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The J-20 is aerodynamically unlike its Western peers: close-coupled canards ahead of a cropped delta, long chined forebody, ventral strakes and diverterless supersonic inlets - choices that trade some all-aspect signature for lift, supersonic cruise efficiency and control at a 25-tonne scale. Its main bays carry four (later six) PL-15 long-range missiles, with side bays for short-range PL-10s on distinctive swing-out rails that let the doors close behind them.{{ref:wiki-j20}}",
+          "Its engines chart China's whole propulsion journey: Russian AL-31s in early jets, interim WS-10Cs with serrated nozzles from 2021, and finally the purpose-built WS-15 - flown from 2023 and fielded on the upgraded J-20A - promising the sustained supercruise and thrust the design always intended. Sensor-wise the type mirrors the F-35's philosophy: big-array AESA, distributed EO apertures around the airframe, and heavy sensor fusion.{{ref:wiki-j20}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The J-20 entered PLAAF service in 2017 and spread with un-Western speed: by September 2025 the fleet officially passed 300 aircraft across thirteen-plus brigades in all five theater commands, with June 2026 open-source counts arguing for numbers approaching 500 and annual production near 100-120{{ref:ff-j20}}. Projections of a four-figure fleet by the 2030s are no longer treated as fanciful.{{ref:dsa-300}}{{ref:agn-fleet}}",
+          "Its operational pattern is maritime and assertive: East China Sea patrols (with claimed radar-lock encounters against foreign fighters), escort packages around Taiwan, and intercepts over the Western Pacific. U.S. Pacific commanders have described professional, capable J-20 conduct - and treat the type as the pacing threat their own fifth-generation posture answers.{{ref:wiki-j20}}",
+          "The twin-seat J-20S - the world's first two-seat stealth fighter - confirms where the fleet is headed: the back-seater as battle manager for loyal-wingman drones, with the J-20 family cast as the quarterback of a manned-unmanned team rather than a lone-wolf dogfighter.{{ref:tdw-j36}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "The type's evolution has been continuous: LRIP jets with Russian engines, the WS-10C generation, the J-20A with WS-15s and airframe refinements, and the J-20S twin-seater - plus persistent reporting of a carrier-influenced technology exchange with Shenyang's J-35 program, which now gives China a two-type stealth fighter high-low mix no other nation outside the U.S. possesses.{{ref:tdw-j36}}",
+          "Above it, the next generation is already flying: Chengdu's tailless J-36 - escorted on its December 2024 first flight by a J-20S chase plane - and Shenyang's J-50 signal that the J-20 is becoming the established mainstay of a family, not the frontier. Chinese airpower's frontier now moves on a five-year cadence.{{ref:tdw-j36}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Whatever its exact signature or kinematics - still debated in open sources - the J-20's strategic effect is settled: it ended the American monopoly on operational stealth fighter fleets, forced a redesign of Pacific air planning around survivable tankers and dispersed bases, and demonstrated an industrial tempo that has become the yardstick anxiety of Western procurement debates.{{ref:agn-fleet}}",
+          "Fifteen years separated the J-20's first flight from a fleet of several hundred aircraft with successor types already flying - a development pace Western analysts compare to the United States' own aerospace expansion in the 1950s.{{ref:tdw-j36}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-j20",
+      "name": "Chengdu J-20",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chengdu_J-20"
+    },
+    {
+      "id": "dsa-300",
+      "name": "Inside China's J-20 Revolution: 300 Stealth Fighters",
+      "publisher": "Defence Security Asia",
+      "url": "https://defencesecurityasia.com/en/inside-china-j20-revolution-300-stealth-fighters-challenge-f22-f35/"
+    },
+    {
+      "id": "agn-fleet",
+      "name": "China may soon have more J-20 stealth fighters than the USAF has F-35As",
+      "publisher": "Aerospace Global News",
+      "url": "https://aerospaceglobalnews.com/news/china-j20-us-air-force-f35a-fleet-size/"
+    },
+    {
+      "id": "tdw-j36",
+      "name": "China Fighter Jet Power 2026: J-20, J-35 & Sixth-Gen J-36",
+      "publisher": "The Defense Watch",
+      "url": "https://thedefensewatch.com/aerospace-aviation/china-fighter-jet-2026-j20-j35-j36/"
+    },
+    {
+      "id": "ff-j20",
+      "name": "China's J-20 Mighty Dragon Is Getting Pumped Out Of Factories In Big Numbers",
+      "publisher": "19FortyFive",
+      "url": "https://www.19fortyfive.com/2026/02/sorry-f-22-and-f-35-chinas-j-20-mighty-dragon-stealth-fighter-is-getting-pumped-out-of-factories-in-big-numbers/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Chengdu J-20",
+      "url": "https://en.wikipedia.org/wiki/Chengdu_J-20"
+    },
+    {
+      "name": "Army Recognition - Chengdu J-20 Fighter Aircraft",
+      "url": "https://www.armyrecognition.com/military-products/air/fighter/chengdu-j-20"
+    },
+    {
+      "name": "19FortyFive - China's Super J-20 Stealth Fighter Summed Up in 4 Words",
+      "url": "https://www.19fortyfive.com/2025/12/chinas-super-j-20-stealth-fighter-summed-up-in-4-words/"
+    },
+    {
+      "name": "Military Machine - J-20 vs F-22: Stealth Fighter Comparison",
+      "url": "https://militarymachine.com/j20-vs-f22-stealth-fighter-comparison"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and 2025-26 fleet-size estimates.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2012-12-18",
+      "title": "Aborted high-speed taxi test",
+      "tag": "Test incident",
+      "summary": "Ground sensors flagged a fault during a high-speed runway run that the cockpit instruments did not show, and the test was aborted about three minutes in. AVIC later said that a delay of two or three more minutes could have caused a major accident. No aircraft has ever been publicly confirmed lost, though China does not routinely disclose losses.",
+      "fatalities": 0,
+      "source": "https://www.scmp.com/news/china/military/article/3163526/close-calls-chinas-j-20-stealth-fighters-deployment-avic-says"
+    },
+    {
+      "date": "2016-05-17",
+      "title": "In-flight fault resolved on a test sortie",
+      "tag": "Test incident",
+      "summary": "Monitoring software picked up a fault during a J-20 test flight; ground control and engineers talked the pilot through it and the aircraft returned safely. AVIC disclosed the episode publicly only years later.",
+      "fatalities": 0,
+      "source": "https://www.scmp.com/news/china/military/article/3163526/close-calls-chinas-j-20-stealth-fighters-deployment-avic-says"
+    }
+  ]
+}

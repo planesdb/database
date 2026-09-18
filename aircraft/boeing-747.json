@@ -1,0 +1,627 @@
+{
+  "name": "747",
+  "fullName": "Boeing 747",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Wide-Body Commercial Airliner / Freighter",
+  "tagline": "The original 'Jumbo Jet' and the aircraft that invented the wide-body airliner. For 37 years it was the largest passenger aircraft ever built, and its distinctive humped upper deck - a legacy of a scrapped supersonic-transport requirement and a planned freighter future - remains the most recognisable silhouette in commercial aviation.",
+  "status": "In Service",
+  "inProduction": false,
+  "history": "Boeing launched the 747 in 1966 after Pan Am's Juan Trippe pushed for an airliner more than twice the size of the 707, betting that congested airports would eventually adopt supersonic jets for premium travel and leave subsonic giants like the 747 to haul freight and economy passengers. A team of roughly 4,500 engineers - nicknamed 'the Incredibles' - designed the aircraft from a blank sheet in about 29 months, working out of a purpose-built factory at Everett, Washington that remains the largest building by volume on Earth. The prototype first flew on 9 February 1969, and Pan Am flew the first commercial service on 22 January 1970. The 747 went on to spawn the -100, -200, -300, the shortened long-range SP, the extensively updated -400, and finally the re-winged, re-engined 747-8. Passenger demand for very large four-engined jets steadily gave way to smaller, more efficient twinjets from the 1990s onward, and Boeing ended 747 production on 31 January 2023 with the delivery of a 747-8 Freighter to Atlas Air - 1,574 aircraft after 54 years, the longest production run of any wide-body airliner. A handful of carriers, led by Lufthansa, still fly 747 passenger variants, and 747-400/-8 freighters remain a mainstay of global air cargo.",
+  "specifications": {
+    "specificationsNote": "Specifications based on the 747-8 variant (most recent variant)",
+    "maxSpeed": {
+      "mph": 660,
+      "text": "573 kn (660 mph / 1,062 km/h)"
+    },
+    "cruiseSpeed": "570 mph (917 km/h, Mach 0.855)",
+    "range": {
+      "miles": 8960,
+      "text": "8,960 mi (14,430 km, 7,790 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 43100,
+      "text": "43,100 ft (13,100 m)"
+    },
+    "wingspan": {
+      "ft": 224.6,
+      "text": "224 ft 7 in (68.4 m)"
+    },
+    "length": {
+      "ft": 250.2,
+      "text": "250 ft 2 in (76.25 m)"
+    },
+    "height": {
+      "ft": 63.5,
+      "text": "63 ft 6 in (19.4 m)"
+    },
+    "weight": "empty: 485,300 lb (220,128 kg); MTOW: 975,000 lb (442,000 kg)",
+    "engines": "4 x General Electric GEnx-2B67 turbofans (747-8); earlier -100/-200/-300/-400 variants flew with Pratt & Whitney JT9D/PW4000, General Electric CF6, or Rolls-Royce RB211 engines",
+    "armament": null,
+    "crew": "2 flight crew + up to 14-19 cabin crew (varies by operator)",
+    "capacity": "467 typical, 3-class (747-8 Intercontinental) / up to 137 tonnes cargo (747-8 Freighter)",
+    "firstFlight": {
+      "date": "1969-02-09",
+      "year": 1969
+    },
+    "serviceEntryDate": "1970-01-22",
+    "retiredDate": null,
+    "numberBuilt": 1574,
+    "unitCost": {
+      "usd": 418400000,
+      "text": "$418.4M (747-8 list price, 2019) - roughly $520M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$520M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "747-100",
+      "desc": "The original production version, launched with Pan Am in 1970; later refined into the higher-weight -100B and higher-capacity -100SR."
+    },
+    {
+      "code": "747-200",
+      "desc": "Introduced 1971 with more powerful engines, higher maximum takeoff weight and greater range; also built as the -200F freighter and -200C convertible."
+    },
+    {
+      "code": "747SP",
+      "desc": "'Special Performance' - a shortened, lighter, extra-long-range variant introduced in 1976, used for thin ultra-long-haul routes and government VIP transport."
+    },
+    {
+      "code": "747-300",
+      "desc": "Launched 1980; extended the upper deck for more premium seating, the first major cabin change since the original design."
+    },
+    {
+      "code": "747-400",
+      "desc": "The best-selling variant, entering service in 1989 with a two-crew glass cockpit, winglets, and greater range - the definitive 747 for most of the 1990s and 2000s."
+    },
+    {
+      "code": "747-8",
+      "desc": "The final and largest variant, launched 2005 with a stretched fuselage, new wing and General Electric GEnx engines, built as the 747-8 Intercontinental (passenger) and 747-8 Freighter."
+    },
+    {
+      "code": "VC-25 / Air Force One",
+      "desc": "Two heavily modified 747-200B airframes used as the U.S. presidential aircraft since 1990; a 747-8-based replacement is in development."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Lufthansa",
+      "role": "Largest Passenger Operator",
+      "status": "In Service",
+      "since": "1970",
+      "fleetSize": "26 (18 x 747-8, 8 x 747-400)",
+      "homeBase": "Frankfurt (FRA)",
+      "logo": "lufthansa.png"
+    },
+    {
+      "name": "Atlas Air",
+      "role": "Cargo Operator",
+      "status": "In Service",
+      "since": "1992",
+      "fleetSize": "Dozens (747-400F/747-8F)",
+      "homeBase": "Miami Intl (MIA)",
+      "logo": "atlas-air.png"
+    },
+    {
+      "name": "Cargolux",
+      "role": "Cargo Operator",
+      "status": "In Service",
+      "since": "1993",
+      "fleetSize": "Dozens (747-400F/747-8F)",
+      "homeBase": "Luxembourg (LUX)",
+      "logo": "cargolux.png"
+    },
+    {
+      "name": "Korean Air",
+      "role": "Passenger/Cargo Operator",
+      "status": "In Service",
+      "since": "1973",
+      "fleetSize": "747-8i passenger and 747-8F/747-400F freighters",
+      "homeBase": "Incheon (ICN)",
+      "logo": "korean-air.png"
+    },
+    {
+      "name": "Air China",
+      "role": "Passenger Operator",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "747-400/747-8i (mostly VIP/government use)",
+      "homeBase": "Beijing Capital (PEK)",
+      "logo": "air-china.png"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Government/VIP (VC-25)",
+      "status": "In Service",
+      "since": "1990",
+      "fleetSize": "2",
+      "homeBase": "Joint Base Andrews (ADW)",
+      "logo": "usaf.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B741/B742/B743/B744/B74S/B748 (varies by variant)",
+    "howToFind": "Filter by the ICAO type code matching the variant you want (B744 for the common 747-400, B748 for the 747-8), or search by cargo-airline callsign - Atlas Air uses GTI, Cargolux uses CLX. Lufthansa's remaining passenger 747s carry the DLH callsign."
+  },
+  "lastUpdated": "2026-07-31",
+  "changelog": [
+    {
+      "date": "2026-07-17",
+      "change": "New entry added: full gold-standard article, timeline, references and specs for the Boeing 747.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Almost 60 years after first flight, the Boeing 747 still in demand",
+      "source": "Forbes",
+      "date": "2026-05-01",
+      "category": "Feature",
+      "url": "https://www.forbes.com/sites/michaelgoldstein/2026/05/01/almost-60-years-after-first-flight-the-boeing-747-remains-in-demand/"
+    }
+  ],
+  "tags": [
+    "747",
+    "boeing 747",
+    "jumbo jet",
+    "queen of the skies",
+    "wide body",
+    "commercial airliner",
+    "747-400",
+    "747-8",
+    "air force one",
+    "vc-25",
+    "civilian"
+  ],
+  "quickFacts": [
+    "The 747 was the world's first twin-aisle ('wide-body') airliner - it single-handedly created the category in 1969.",
+    "Its distinctive upper-deck hump exists because Boeing designed the 747 to be easily convertible into a freighter with a nose-loading door, assuming supersonic jets would eventually take over passenger travel.",
+    "It held the record for the world's largest passenger aircraft for 37 years, from its 1970 debut until the Airbus A380 entered service in 2007.",
+    "An El Al 747 carried a record 1,088 passengers on a single flight during Operation Solomon in 1991, evacuating Ethiopian Jews to Israel - a record that still stands for any aircraft.",
+    "1,574 were built over a 54-year production run, the longest of any wide-body airliner, ending with a 747-8 Freighter delivered to Atlas Air on 31 January 2023.",
+    "Two specially modified 747-200Bs have served as Air Force One since 1990, and a 747-8-based replacement is currently in development."
+  ],
+  "article": {
+    "overview": [
+      "The Boeing 747 is a wide-body airliner and the first twin-aisle commercial aircraft, built by Boeing from 1968. It entered service with Pan Am in January 1970 and remained the largest passenger aircraft in the world for 37 years, until the Airbus A380 entered service in 2007.{{ref:wiki-747}}",
+      "Boeing designed the 747 to double as a freighter, since its own engineers expected supersonic transports to eventually replace it on passenger routes; that shift never happened, and 747 freighters remain central to global air cargo today. The last of 1,574 built was delivered in January 2023, ending the longest production run of any wide-body airliner.{{ref:wiki-747}}{{ref:atlas-final}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The story starts with Pan Am's Juan Trippe, who wanted an airliner more than double the size of Boeing's own 707 to relieve growing congestion at major airports. Boeing agreed to build it, but hedged its bet: convinced that supersonic transports would eventually dominate premium passenger travel, Boeing designed the 747 so it could be easily converted into a freighter once passenger demand for a subsonic giant faded - hence the raised cockpit and short upper deck, which let a hinged nose swing open for straight-in cargo loading.{{ref:wiki-747}}",
+          "That decision, made to hedge against a future that never arrived, is the entire reason the 747 looks the way it does. The supersonic future never displaced it; instead the 'safety net' passenger design became one of the most successful airliners ever built.{{ref:wiki-747}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Boeing assembled a team of roughly 4,500 engineers - nicknamed 'the Incredibles' - who designed the entire aircraft from a blank sheet in about 29 months, an extraordinarily short schedule for an aircraft of unprecedented scale. To build it, Boeing constructed the Everett factory in Washington state, which remains the largest building by volume on Earth.{{ref:wiki-747}}",
+          "The prototype rolled out on 30 September 1968 and made its first flight on 9 February 1969. After a fast-tracked certification programme, the 747 entered service with launch customer Pan Am on 22 January 1970, flying New York to London.{{ref:thisdayinaviation}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The 747's four-engine, twin-aisle layout was itself a novelty - nothing in commercial service had two aisles before it - and its scale forced airports worldwide to build new jet bridges, taxiways and terminal gates just to accommodate it. Successive variants steadily grew the type's capability: the -200 added range and power, the shortened SP chased ultra-long-haul routes, the -300 stretched the upper deck, and the -400 introduced a modern two-crew glass cockpit and distinctive winglets that became the type's most recognisable later silhouette.{{ref:wiki-747}}",
+          "The final variant, the 747-8, re-winged and re-engined the airframe with General Electric GEnx turbofans borrowed from the 787 programme, stretching the fuselage to make it the longest commercial airliner ever built at the time of its 2011 debut, and pushing efficiency far beyond the original -100.{{ref:wiki-748}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The 747 opened intercontinental travel to a mass market that the 707 generation couldn't reach, and it became the definitive flagship aircraft for airlines worldwide through the 1970s, 80s and 90s - a status it held even as smaller, more efficient twinjets like the 777 and 787 gradually took over long, thin routes that no longer justified a four-engined giant.{{ref:wiki-747ops}}",
+          "The aircraft's second life has been as a freighter. The 747-400F and 747-8F remain central to global air cargo thanks to their nose-loading door and large main-deck volume - a capability that became especially valuable during the COVID-19 pandemic, when 747 freighters carried enormous volumes of medical equipment and vaccines that would not fit through smaller aircraft's side cargo doors.{{ref:wiki-747ops}}",
+          "Two specially modified 747-200Bs have carried the U.S. President as Air Force One since 1990, and the type has also served as NASA's Shuttle Carrier Aircraft and as the basis for several government VIP and military transport conversions around the world.{{ref:wiki-747}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Boeing delivered the last 747 ever built - a 747-8 Freighter for Atlas Air - on 31 January 2023, closing a 54-year, 1,574-aircraft production run, the longest of any wide-body airliner.{{ref:atlas-final}}",
+          "Passenger service is winding down gradually rather than ending all at once: Lufthansa remains by far the largest operator of 747 passenger variants and plans to keep flying its 747-8s well into the 2030s, while Korean Air has set 2031 as its target retirement date for its 747-8i fleet. Freighter variants have a much longer runway - 747-400F and 747-8F aircraft are expected to remain in heavy air-cargo service for years to come, since no in-production aircraft fully replaces their nose-loading capability.{{ref:sf-outlook}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-747",
+      "name": "Boeing 747",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747"
+    },
+    {
+      "id": "wiki-748",
+      "name": "Boeing 747-8",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747-8"
+    },
+    {
+      "id": "wiki-747ops",
+      "name": "Boeing 747 operational history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747_operational_history"
+    },
+    {
+      "id": "thisdayinaviation",
+      "name": "9 February 1969",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/9-february-1969/"
+    },
+    {
+      "id": "atlas-final",
+      "name": "Atlas Air Takes Delivery of Boeing's Final 747 Production Aircraft",
+      "publisher": "Atlas Air Worldwide",
+      "url": "https://www.atlasairworldwide.com/2023/01/atlas-air-takes-delivery-of-boeings-final-747-production-aircraft/"
+    },
+    {
+      "id": "sf-outlook",
+      "name": "It's 2026, But Why Do Some Airlines Still Love The 747?",
+      "publisher": "Simple Flying",
+      "url": "https://simpleflying.com/why-some-airines-still-love-the-boeing-747/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing - 747-8 Product Page",
+      "url": "https://www.boeing.com/commercial/747-8"
+    },
+    {
+      "name": "Wikipedia - Boeing 747",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747"
+    },
+    {
+      "name": "Wikipedia - Boeing 747-8",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747-8"
+    },
+    {
+      "name": "Atlas Air Worldwide - Atlas Air Takes Delivery of Boeing's Final 747 Production Aircraft",
+      "url": "https://www.atlasairworldwide.com/2023/01/atlas-air-takes-delivery-of-boeings-final-747-production-aircraft/"
+    },
+    {
+      "name": "SKYbrary - Boeing 747-8",
+      "url": "https://skybrary.aero/aircraft/b748"
+    },
+    {
+      "name": "BBC Future - The plane that shrank the world",
+      "url": "https://www.bbc.co.uk/future/article/20180927-the-boeing-747-the-plane-that-shrank-the-world"
+    },
+    {
+      "name": "Boeing 747: Weight, Length, Range, Wingspan & Other Specs",
+      "url": "https://knaviation.net/boeing-747-specs/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1970-09-06",
+      "title": "Pan Am Flight 93 destroyed at Cairo",
+      "tag": "Hijacking / hull loss",
+      "summary": "Hijacked out of Amsterdam by PFLP militants during the Dawson's Field hijackings and flown to Cairo, where the passengers and crew were evacuated before the aircraft was blown up on the ground. It was the first hull loss of a Boeing 747.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Dawson%27s_Field_hijackings"
+    },
+    {
+      "date": "1974-11-20",
+      "title": "Lufthansa Flight 540",
+      "tag": "Stall on takeoff",
+      "summary": "The first fatal accident involving a 747. The crew took off from Nairobi without the leading-edge slats extended because the pneumatic system had not been switched on; the aircraft stalled and struck the ground seconds after lifting off.",
+      "fatalities": 59,
+      "source": "https://en.wikipedia.org/wiki/Lufthansa_Flight_540"
+    },
+    {
+      "date": "1976-05-09",
+      "title": "Imperial Iranian Air Force Flight ULF48",
+      "tag": "Lightning strike / wing separation",
+      "summary": "A lightning strike ignited fuel vapour in the left wing of an Iranian Air Force 747 freighter near Madrid, causing the wing to fail in flight. All on board were killed.",
+      "fatalities": 17,
+      "source": "https://en.wikipedia.org/wiki/Imperial_Iranian_Air_Force_Flight_ULF48"
+    },
+    {
+      "date": "1977-03-27",
+      "title": "Tenerife airport disaster",
+      "summary": "Two Boeing 747s - KLM Flight 4805 and Pan Am Flight 1736 - collided on a fog-bound runway at Los Rodeos Airport, killing 583 people. It remains the deadliest accident in aviation history.",
+      "fatalities": 583,
+      "tag": "Runway collision",
+      "source": "https://en.wikipedia.org/wiki/Tenerife_airport_disaster"
+    },
+    {
+      "date": "1978-01-01",
+      "title": "Air India Flight 855",
+      "tag": "Spatial disorientation",
+      "summary": "Shortly after a night takeoff from Bombay the captain's attitude indicator failed; disoriented over a featureless sea, he rolled the aircraft into a steep bank and it struck the water. All 213 aboard died.",
+      "fatalities": 213,
+      "source": "https://en.wikipedia.org/wiki/Air_India_Flight_855"
+    },
+    {
+      "date": "1980-11-19",
+      "title": "Korean Air Lines Flight 015",
+      "tag": "Approach accident / fire",
+      "summary": "The 747 struck the ground short of the runway at Seoul's Gimpo airport in fog, broke up and caught fire. Most aboard escaped, but fifteen people were killed.",
+      "fatalities": 15,
+      "source": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_015"
+    },
+    {
+      "date": "1982-06-24",
+      "title": "British Airways Flight 9 flies through volcanic ash",
+      "tag": "Quadruple engine failure",
+      "summary": "All four engines flamed out after the aircraft entered an ash cloud from Mount Galunggung at night over Indonesia. The crew glided for sixteen minutes, restarted three engines as they descended into clearer air, and landed at Jakarta with no injuries - the accident that led to today's volcanic-ash advisory system.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/British_Airways_Flight_009"
+    },
+    {
+      "date": "1983-09-01",
+      "title": "Korean Air Lines Flight 007 shot down",
+      "tag": "Shot down",
+      "summary": "A navigational error took the airliner into prohibited Soviet airspace near Sakhalin, where a Su-15 interceptor shot it down with air-to-air missiles. All 269 people aboard were killed, including a serving US congressman; the incident led the United States to open GPS to civilian use.",
+      "fatalities": 269,
+      "source": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007"
+    },
+    {
+      "date": "1983-11-27",
+      "title": "Avianca Flight 011",
+      "tag": "Controlled flight into terrain",
+      "summary": "A navigational error on approach to Madrid put the aircraft into hills well short of the runway. Of the 192 people on board, 181 were killed.",
+      "fatalities": 181,
+      "source": "https://en.wikipedia.org/wiki/Avianca_Flight_011"
+    },
+    {
+      "date": "1985-02-19",
+      "title": "China Airlines Flight 006 upset over the Pacific",
+      "tag": "Loss of control (recovered)",
+      "summary": "After a slow engine failure at 41,000 ft the aircraft rolled over and fell more than 30,000 feet in about two minutes, pulling around 5g and bending the airframe. The crew recovered and diverted to San Francisco; two people were seriously injured and nobody died.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/China_Airlines_Flight_006"
+    },
+    {
+      "date": "1985-06-23",
+      "title": "Air India Flight 182 bombing",
+      "tag": "Terrorist bombing",
+      "summary": "A bomb placed by Sikh separatists exploded in the forward cargo hold at 31,000 ft off the Irish coast, destroying the aircraft. All 329 people aboard were killed - the deadliest aviation terrorist attack before 11 September 2001.",
+      "fatalities": 329,
+      "source": "https://en.wikipedia.org/wiki/Air_India_Flight_182"
+    },
+    {
+      "date": "1985-08-12",
+      "title": "Japan Airlines Flight 123",
+      "summary": "A faulty repair to the rear pressure bulkhead led to an explosive decompression and loss of hydraulic control on a 747SR. The crew fought the crippled aircraft for 32 minutes before it crashed into Mount Takamagahara, killing 520 of 524 aboard - the deadliest single-aircraft accident in history.",
+      "fatalities": 520,
+      "tag": "Structural failure",
+      "source": "https://en.wikipedia.org/wiki/Japan_Airlines_Flight_123"
+    },
+    {
+      "date": "1986-09-05",
+      "title": "Pan Am Flight 73 hijacking at Karachi",
+      "tag": "Hijacking",
+      "summary": "Four Abu Nidal gunmen seized the aircraft on the ground at Karachi. After a seventeen-hour standoff the cabin lights failed and the hijackers opened fire on the passengers; twenty people were killed before the survivors escaped through the emergency exits.",
+      "fatalities": 20,
+      "source": "https://en.wikipedia.org/wiki/Pan_Am_Flight_73"
+    },
+    {
+      "date": "1987-11-28",
+      "title": "South African Airways Flight 295",
+      "tag": "In-flight cargo fire",
+      "summary": "An uncontrollable fire in the main-deck cargo hold filled the aircraft with smoke on a night flight from Taipei; it crashed into the Indian Ocean near Mauritius, killing all 159 aboard. The wreckage lay under nearly 5 km of water and the fire's origin was never established.",
+      "fatalities": 159,
+      "source": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_295"
+    },
+    {
+      "date": "1988-12-21",
+      "title": "Pan Am Flight 103 (Lockerbie bombing)",
+      "summary": "A terrorist bomb hidden in the forward cargo hold detonated over Lockerbie, Scotland, destroying the 747 and killing all 259 aboard plus 11 people on the ground.",
+      "fatalities": 270,
+      "tag": "Terrorism",
+      "source": "https://en.wikipedia.org/wiki/Pan_Am_Flight_103"
+    },
+    {
+      "date": "1989-02-19",
+      "title": "Flying Tiger Line Flight 066",
+      "tag": "Controlled flight into terrain",
+      "summary": "An ambiguous descent clearance - \"descend two four zero zero\" - was read back as \"to four zero zero\" by the crew of the 747 freighter, which flew into a hillside near Kuala Lumpur. All four crew were killed.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Flying_Tiger_Line_Flight_066"
+    },
+    {
+      "date": "1989-02-24",
+      "title": "United Airlines Flight 811 cargo-door failure",
+      "tag": "Explosive decompression",
+      "summary": "A faulty cargo-door latch let the forward door burst open at 22,000 ft out of Honolulu, tearing away a section of fuselage and ejecting nine passengers. The crew shut down two damaged engines and landed back at Honolulu with everyone else alive.",
+      "fatalities": 9,
+      "source": "https://en.wikipedia.org/wiki/United_Airlines_Flight_811"
+    },
+    {
+      "date": "1989-12-15",
+      "title": "KLM Flight 867 flies through volcanic ash",
+      "tag": "Quadruple engine failure",
+      "summary": "All four engines flamed out in an ash cloud from Alaska's Mount Redoubt. The crew restarted them after falling more than 14,000 feet and landed safely at Anchorage; the ash damage cost around $80 million to repair.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/KLM_Flight_867"
+    },
+    {
+      "date": "1990-08-02",
+      "title": "British Airways Flight 149 caught in the invasion of Kuwait",
+      "tag": "Ground attack / hostages",
+      "summary": "The 747 landed at Kuwait City as Iraqi forces invaded. Passengers and crew were taken hostage and used as human shields, one of whom died; the aircraft was destroyed on the ground.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/British_Airways_Flight_149"
+    },
+    {
+      "date": "1991-12-29",
+      "title": "China Airlines Flight 358",
+      "tag": "Engine separation",
+      "summary": "Fatigue failure of the engine pylon fuse pins let both right-hand engines tear away from the wing shortly after takeoff from Taipei; the freighter crashed into hills, killing all five crew.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/China_Airlines_Flight_358"
+    },
+    {
+      "date": "1992-10-04",
+      "title": "El Al Flight 1862 (Bijlmermeer crash)",
+      "summary": "An El Al 747-200 freighter suffered sequential failure of fatigue-cracked engine pylon fuse pins, causing both right-wing engines to detach in flight. The crew lost control while attempting an emergency landing and crashed into an Amsterdam apartment complex, killing all aboard and dozens on the ground.",
+      "fatalities": 47,
+      "tag": "Structural failure (engine pylon)",
+      "source": "https://en.wikipedia.org/wiki/El_Al_Flight_1862"
+    },
+    {
+      "date": "1993-11-04",
+      "title": "China Airlines Flight 605 into Hong Kong harbour",
+      "tag": "Runway overrun / hull loss",
+      "summary": "A brand-new 747-400 touched down long on Kai Tak's runway 13 in a typhoon's tail winds and ran off the end into Victoria Harbour. All 396 aboard were rescued; the aircraft was written off.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/China_Airlines_Flight_605"
+    },
+    {
+      "date": "1994-12-11",
+      "title": "Philippine Airlines Flight 434 bombing",
+      "tag": "Terrorist bombing",
+      "summary": "Ramzi Yousef planted a small nitroglycerin bomb under a seat as a rehearsal for the Bojinka plot. It killed the passenger sitting there and damaged the controls, but the crew landed at Okinawa with the other 292 people aboard alive.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Philippine_Airlines_Flight_434"
+    },
+    {
+      "date": "1995-12-20",
+      "title": "Tower Air Flight 41",
+      "tag": "Takeoff excursion / hull loss",
+      "summary": "The aircraft skidded off a snow-covered taxiway and runway during an attempted takeoff from JFK, collapsing the nose gear. Everyone survived with minor injuries and the airframe was written off.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Tower_Air_Flight_41"
+    },
+    {
+      "date": "1996-07-17",
+      "title": "TWA Flight 800 in-flight breakup",
+      "summary": "A TWA 747-100 exploded and broke apart in mid-air off Long Island, New York, shortly after takeoff, killing all 230 aboard. The NTSB concluded the probable cause was ignition of flammable vapours in the center wing fuel tank.",
+      "fatalities": 230,
+      "tag": "Structural failure / fuel tank explosion",
+      "source": "https://en.wikipedia.org/wiki/TWA_Flight_800"
+    },
+    {
+      "date": "1996-11-12",
+      "title": "Charkhi Dadri mid-air collision",
+      "tag": "Mid-air collision",
+      "summary": "A Saudia 747 climbing out of Delhi collided head-on with a descending Kazakhstan Airlines Il-76 whose crew had drifted below their assigned level. All 349 people on both aircraft died - the deadliest mid-air collision in history.",
+      "fatalities": 349,
+      "source": "https://en.wikipedia.org/wiki/1996_Charkhi_Dadri_mid-air_collision"
+    },
+    {
+      "date": "1997-08-06",
+      "title": "Korean Air Flight 801",
+      "tag": "Controlled flight into terrain",
+      "summary": "On a night non-precision approach to Guam in rain, with the airport's glideslope out of service, the aircraft struck Nimitz Hill three miles short of the runway. 229 of the 254 people aboard were killed.",
+      "fatalities": 229,
+      "source": "https://en.wikipedia.org/wiki/Korean_Air_Flight_801"
+    },
+    {
+      "date": "1999-07-23",
+      "title": "All Nippon Airways Flight 61 hijacking",
+      "tag": "Hijacking",
+      "summary": "A lone hijacker forced his way into the cockpit after takeoff from Tokyo, stabbed and killed the captain and took the controls. Off-duty crew overpowered him and the first officer recovered the aircraft from a steep descent.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/All_Nippon_Airways_Flight_61"
+    },
+    {
+      "date": "1999-12-22",
+      "title": "Korean Air Cargo Flight 8509",
+      "tag": "Loss of control after takeoff",
+      "summary": "A faulty attitude indicator led the captain to roll the freighter steadily left after taking off from London Stansted; it struck the ground about a minute later, killing all four crew.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Korean_Air_Cargo_Flight_8509"
+    },
+    {
+      "date": "2000-10-31",
+      "title": "Singapore Airlines Flight 006",
+      "tag": "Takeoff from closed runway",
+      "summary": "In heavy rain from an approaching typhoon at Taipei, the crew began their takeoff run on a runway closed for construction and struck barriers and machinery. Of the 179 people aboard, 83 were killed.",
+      "fatalities": 83,
+      "source": "https://en.wikipedia.org/wiki/Singapore_Airlines_Flight_006"
+    },
+    {
+      "date": "2002-05-25",
+      "title": "China Airlines Flight 611",
+      "tag": "In-flight structural failure",
+      "summary": "The aircraft broke apart at 35,000 ft over the Taiwan Strait. Investigators traced the failure to fatigue cracking beneath a doubler plate fitted after a 1980 tailstrike repair that had never been done properly. All 225 aboard died.",
+      "fatalities": 225,
+      "source": "https://en.wikipedia.org/wiki/China_Airlines_Flight_611"
+    },
+    {
+      "date": "2004-10-14",
+      "title": "MK Airlines Flight 1602",
+      "tag": "Takeoff performance error",
+      "summary": "Takeoff thrust and speeds were calculated for a much lighter weight, so the overloaded freighter never got airborne and struck an earth berm at the end of the runway at Halifax. All seven crew were killed.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/MK_Airlines_Flight_1602"
+    },
+    {
+      "date": "2008-07-07",
+      "title": "Centurion Air Cargo Flight 164",
+      "tag": "Engine fire on takeoff",
+      "summary": "An engine failed and caught fire on takeoff from Bogota; the freighter came down on farmland, striking a house. The crew survived, but two people on the ground were killed.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Centurion_Air_Cargo_Flight_164"
+    },
+    {
+      "date": "2008-07-25",
+      "title": "Qantas Flight 30 decompression",
+      "tag": "Explosive decompression",
+      "summary": "An oxygen cylinder ruptured at 29,000 ft off the Philippines and blew a two-metre hole in the fuselage beside the forward cargo door. The crew made an emergency descent and landed at Manila with no injuries.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Qantas_Flight_30"
+    },
+    {
+      "date": "2010-09-03",
+      "title": "UPS Airlines Flight 6",
+      "tag": "Cargo fire (lithium batteries)",
+      "summary": "A pallet of lithium-ion batteries caught fire in the main deck twenty minutes out of Dubai. Smoke filled the cockpit and disabled the crew's oxygen and controls; both pilots were killed when the freighter crashed. The accident reshaped the rules on carrying batteries by air.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/UPS_Airlines_Flight_6"
+    },
+    {
+      "date": "2011-07-28",
+      "title": "Asiana Airlines Flight 991",
+      "tag": "Cargo fire",
+      "summary": "A fire in the main-deck cargo, which included lithium batteries and flammable liquids, destroyed the freighter over the sea near Jeju Island. Both pilots were killed.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Asiana_Airlines_Flight_991"
+    },
+    {
+      "date": "2013-04-29",
+      "title": "National Airlines Flight 102",
+      "tag": "Cargo shift / stall",
+      "summary": "Armoured vehicles broke loose in the hold on takeoff from Bagram, shifting the centre of gravity aft and damaging the hydraulics. The freighter stalled and crashed just past the runway, killing all seven crew; the crash was captured on dashcam video.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/National_Airlines_Flight_102"
+    },
+    {
+      "date": "2017-01-16",
+      "title": "Turkish Airlines Flight 6491",
+      "tag": "Approach accident",
+      "summary": "The freighter descended through fog well past the runway threshold at Bishkek, went around too late and crashed into a village beside the airport. All four crew and 35 people on the ground were killed.",
+      "fatalities": 39,
+      "source": "https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_6491"
+    },
+    {
+      "date": "2025-10-20",
+      "title": "Emirates SkyCargo Flight 9788",
+      "tag": "Runway excursion / hull loss",
+      "summary": "On landing at Hong Kong the number-four engine spooled up to near-full thrust, swinging the freighter off runway 07L. It struck an airport security vehicle and went into the sea; the four crew survived but both security staff in the vehicle were killed.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Emirates_SkyCargo_Flight_9788"
+    }
+  ]
+}

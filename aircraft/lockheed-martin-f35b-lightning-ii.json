@@ -1,0 +1,404 @@
+{
+  "name": "F-35B Lightning II",
+  "fullName": "Lockheed Martin F-35B Lightning II",
+  "manufacturer": "Lockheed Martin",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "STOVL Stealth Multirole Fighter",
+  "tagline": "The world's first operational supersonic short takeoff and vertical landing stealth fighter. Its shaft-driven LiftFan system lets the US Marine Corps, UK Royal Air Force and Royal Navy, and Italian Armed Forces fly it from amphibious assault ships, small carriers and frontline austere bases.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "Developed out of the Joint Strike Fighter (JSF) program that began in the 1990s, the X-35 prototype successfully demonstrated the innovative shaft-driven lift fan system designed by Lockheed Martin and built by Rolls-Royce. The production-representative F-35B (designated BF-1) made its first flight on June 11, 2008. The U.S. Marine Corps declared Initial Operational Capability (IOC) for the F-35B on July 31, 2015, marking the first of any F-35 variant to enter active operational service. The variant has since seen combat operations with the US Marine Corps and the UK Royal Air Force over the Middle East. Ongoing modernization packages like Block 4 continue to upgrade its sensors and weapons capacities.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1200,
+      "text": "1,043 kn (1,200 mph / 1,931 km/h)"
+    },
+    "cruiseSpeed": "~720 mph (Mach 0.94)",
+    "range": {
+      "miles": 1035,
+      "text": ">1,035 mi (>900 nmi) internal fuel"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft"
+    },
+    "wingspan": {
+      "ft": 35,
+      "text": "35 ft 0 in (10.7 m)"
+    },
+    "length": {
+      "ft": 51.2,
+      "text": "51 ft 2 in (15.6 m)"
+    },
+    "height": {
+      "ft": 14.3,
+      "text": "14 ft 4 in (4.36 m)"
+    },
+    "weight": "empty: 32,300 lb (14,651 kg); MTOW: ~60,000 lb (27,216 kg)",
+    "engines": "1 x Pratt & Whitney F135-PW-600 afterburning turbofan with Rolls-Royce LiftSystem (40,500 lb lift thrust / 38,000 lb forward thrust)",
+    "armament": "Internal weapons bays and external hardpoints carrying up to 15,000 lb of ordnance: AIM-120 AMRAAM, AIM-9X Sidewinder, JDAM, Paveway IV, Spear 3, Meteor, or an optional external 25mm GAU-22/A gun pod.",
+    "crew": "1 (Pilot)",
+    "capacity": "Up to 15,000 lb of total weapons payload",
+    "firstFlight": {
+      "date": "2008-06-11",
+      "year": 2008
+    },
+    "serviceEntryDate": "2015-07-31",
+    "retiredDate": null,
+    "numberBuilt": 204,
+    "unitCost": {
+      "usd": 109000000,
+      "text": "$109M (2024 flyaway average)"
+    },
+    "combatLosses": "Zero F-35Bs lost to enemy fire. Confirmed mishap losses: one destroyed 17 Nov 2021 (ditched into the Mediterranean off HMS Queen Elizabeth after an intake blank restricted takeoff thrust; wreckage later located/partially recovered from the seabed) and one destroyed 17 Sep 2023 (South Carolina 'flyaway,' crashed after an unnecessary ejection during an electrical/display malfunction). No F-35B has been lost in combat operations."
+  },
+  "variants": [
+    {
+      "code": "F-35A",
+      "desc": "Conventional Takeoff and Landing (CTOL) variant used primarily by the USAF and international partners."
+    },
+    {
+      "code": "F-35B",
+      "desc": "Short Takeoff and Vertical Landing (STOVL) variant featuring a shaft-driven lift fan for operation on small carriers or amphibious ships."
+    },
+    {
+      "code": "F-35C",
+      "desc": "Carrier Variant (CV) featuring larger wings, folding wingtips, and heavier landing gear for catapult-assisted takeoff and arrested recovery."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Marine Corps",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "100+",
+      "homeBase": "MCAS Beaufort, MCAS Miramar, & MCAS Iwakuni",
+      "logo": "usmc.webp"
+    },
+    {
+      "name": "Royal Air Force / Royal Navy",
+      "role": "International Partner",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "~30+",
+      "homeBase": "RAF Marham",
+      "logo": "raf.png"
+    },
+    {
+      "name": "Italian Armed Forces",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "~20",
+      "homeBase": "Grottaglie Air Station & Amendola Air Base"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F35",
+    "howToFind": "Search for type code 'F35' on flight trackers. Active operating areas include the North Sea / Norfolk vicinity near RAF Marham (UK), coastal South Carolina near MCAS Beaufort, and Southern California near MCAS Miramar. Training exercises and deployment transit flights are the most likely tracking opportunities."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "F-35 Program News",
+      "url": "https://www.f35.com/f35/news-and-features.html",
+      "topicTag": "F-35B"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Pentagon considers massive new order for more F-35 Lightning IIs",
+      "source": "19FortyFive",
+      "date": "2026-04-01",
+      "category": "Program Update",
+      "url": "https://www.19fortyfive.com/2026/04/the-u-s-military-wants-to-place-a-massive-order-for-more-f-35-lightning-ii-stealth-fighters/"
+    },
+    {
+      "title": "F-35 programme chief warns fleet has outgrown its support system amid record-low readiness",
+      "source": "Military Times",
+      "date": "2026-06-24",
+      "category": "Readiness",
+      "url": "https://www.militarytimes.com/news/your-military/2026/06/24/f-35-program-chief-warns-fleet-has-outgrown-its-support-system-amid-record-low-readiness/"
+    }
+  ],
+  "tags": [
+    "f35",
+    "f-35",
+    "f35b",
+    "f-35b",
+    "lightning",
+    "stovl",
+    "joint strike fighter",
+    "jsf",
+    "stealth fighter",
+    "marine corps",
+    "raf",
+    "royal navy"
+  ],
+  "quickFacts": [
+    "The F-35B hovers using a 20,000 hp shaft-driven lift fan behind the cockpit - a direct descendant of the Harrier's swivelling-nozzle concept, but with roughly twice the vertical thrust.",
+    "Britain's F-35Bs are flown jointly by the RAF and Royal Navy, and the first front-line squadron is No. 617 - the Dambusters.",
+    "A Royal Navy F-35B stranded by weather at an Indian airport in June 2025 spent over five weeks there and became a global social media celebrity - Kerala's tourism board used it in an ad campaign.",
+    "The UK's 2021 carrier-group deployment took F-35Bs from Portsmouth to Japan and back - the largest British naval deployment in a generation.",
+    "About 15% by value of every F-35 built - all three variants, worldwide - is manufactured in Britain, including the rear fuselage of every single aircraft.",
+    "In June 2025 the UK announced it would also buy 12 conventional F-35As to join NATO's nuclear-sharing mission - returning the RAF to the tactical nuclear role it gave up in 1998."
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed Martin F-35B Lightning II is the short take-off and vertical landing (STOVL) variant of the F-35 Joint Strike Fighter, developed for the US Marine Corps and allied navies and air forces.{{ref:jsf-wiki}} A Rolls-Royce shaft-driven lift fan, combined with a swivelling engine nozzle and wing-mounted roll posts, lets it hover and land vertically while retaining the internal weapons bays and stealth shaping of a conventional F-35.{{ref:lm-firstflight}}",
+      "It was the first F-35 variant to reach a squadron and the first to fly in combat, and lets the US Marine Corps, the UK's Royal Navy and RAF, and the Italian Navy operate fifth-generation fighters from amphibious ships and light carriers.{{ref:usmc-ioc}}{{ref:usni-combat}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The F-35B's lineage runs through the Joint Strike Fighter (JSF) program that the Pentagon launched in the 1990s to replace the AV-8B Harrier II, F-16, F/A-18 Hornet, and A-10 with a single stealthy, multirole airframe family built in three variants sharing a common design and supply chain. For the Marine Corps and the UK, the non-negotiable requirement was short takeoff/vertical landing (STOVL) capability - the ability to operate off amphibious assault ships and austere forward strips without a catapult or arresting gear, exactly as the Harrier had done since the 1960s, but with stealth and supersonic performance the Harrier never had.",
+          "Two competing prototypes chased that requirement: Boeing's X-32 and Lockheed Martin's X-35. Boeing's direct-lift approach diverted the engine's own exhaust straight down through vectoring nozzles, but the hot exhaust gas recirculating back into the intake robbed the engine of thrust and threatened to cook its own inlet - a problem serious enough that Boeing quietly abandoned the wing-and-nozzle configuration it had flown before the fly-off even finished. Lockheed's X-35B instead paired a conventional aft-vectoring nozzle with a separate, shaft-driven lift fan mounted ahead of the engine, and in July 2001 it settled the argument decisively.{{ref:lm-missionx}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "On 20 July 2001, Marine Corps test pilot Maj. Art Tomassetti took the X-35B through what the JSF program called 'Mission X': a short takeoff, a climb to 25,000 feet, a level supersonic dash, and a return to a vertical landing - all in a single sortie. BAE Systems test pilot Simon Hargreaves repeated the feat on 26 July. No STOVL aircraft had ever gone supersonic and landed vertically on the same flight; the Harrier, for all its vertical-landing fame, had never been capable of supersonic flight at all. By the time X-35B flight testing wrapped in early August 2001, the aircraft had logged 17 vertical takeoffs, 27 vertical landings, and five supersonic flights, and the JSF team was awarded the Collier Trophy for the achievement.{{ref:lm-missionx}}",
+          "The Pentagon awarded Lockheed Martin the System Development and Demonstration contract on 26 October 2001, and the X-35B's shaft-driven lift fan concept - validated in the air rather than on paper - became the propulsion architecture for what would be designated the F-35B.{{ref:jsf-wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The F-35B's defining engineering story is the Rolls-Royce LiftSystem, and it works nothing like the Harrier it replaced. A Harrier pilot rotates four exhaust nozzles on the same engine that produces forward thrust, redirecting the full exhaust stream straight down - simple, but it also means the engine's hot, high-velocity exhaust has to be managed extremely close to the ground and the airframe, and it offers no way to balance the aircraft's center of lift against a stealthy, weapons-bay-heavy fuselage. The F-35B instead splits the job in two. Just aft of the cockpit, a vertically mounted lift fan - built by Rolls-Royce, its blades never touching combustion gas at all - is spun up by a driveshaft and a carbon-carbon clutch running off the F135 engine's low-pressure turbine, engaging or disengaging in under nine seconds. The fan pushes a huge column of relatively cool bypass air straight down, generating up to roughly 20,000 lbf of lift on its own without burning a drop of extra fuel.",
+          "At the tail, the engine's own exhaust is redirected downward through a three-bearing swivel module (3BSM) - three interlocking, non-parallel rings that let the nozzle rotate from rearward-facing to vertical while still carrying the F135's full afterburning thrust. Two hydraulically actuated roll-post nozzles in the wing roots, fed by engine bypass air, give the pilot roll control while hovering, since conventional ailerons lose authority at zero airspeed. The lift fan at the front and the vectored nozzle at the rear are positioned to balance each other, letting the jet hover in a stable, wings-level attitude rather than pitching around a single downward thrust point the way a Harrier does.",
+          "This architecture is precisely why the F-35B still looks like an F-35 rather than a Harrier with stealth paint. Because vertical lift is generated fore and aft rather than through belly-mounted vectoring nozzles, Lockheed's engineers were able to keep the internal weapons bays and the smooth, low-observable outer mold line largely intact across all three variants - a Harrier-style direct-lift solution would have made that impossible. The trade-off is weight and volume: the lift-fan bay, drive shaft, clutch, and 3BSM add roughly 1,900 kg of hardware the F-35A and F-35C don't carry, which is why the B-model has the shortest range, the lightest internal fuel load, and the lowest maximum weapons payload of the three variants.",
+          "STOVL flight has its own operational choreography. Pilots select 'Mode 4' - STOVL mode - only below about 200 knots, at which point unique flight-control software blends fan, nozzle, and roll-post inputs automatically so the pilot flies a simplified throttle-and-stick interface rather than juggling nozzle angle by hand. Vertical landings generate intense, concentrated exhaust heat that requires specially designed deck coatings (or, on austere strips, portable landing mats) to prevent the jet from melting the surface beneath it, and the recirculating hot air and downwash can pose foreign-object-debris and engine-reingestion risks the other variants never have to consider."
+        ]
+      },
+      {
+        "heading": "Entry into Service",
+        "paragraphs": [
+          "The F-35B - airframe BF-1 - made its first flight on 11 June 2008{{ref:aviationist-bf1}} from Lockheed's Fort Worth plant, with former RAF Harrier pilot Graham Tomlinson at the controls flying a conventional takeoff and landing; STOVL transitions, hovers, and vertical landings were phased in over the following year. BF-1 would go on to perform the type's first vertical landing at NAS Patuxent River on 18 March 2010 and its first vertical takeoff on 10 May 2013.{{ref:lm-firstflight}}",
+          "The Marine Corps declared Initial Operational Capability for the F-35B on 31 July 2015 with VMFA-121 at MCAS Yuma - the first squadron in history to take any F-35 variant operational, beating both the Air Force's F-35A (August 2016) and the Navy's F-35C (February 2019) to the milestone, and vindicating the STOVL-first sequencing the Marine Corps had insisted on throughout the program.{{ref:usmc-ioc}}"
+        ]
+      },
+      {
+        "heading": "Combat & Operational History",
+        "paragraphs": [
+          "The F-35B flew the Lightning II family's combat debut on 27 September 2018, when jets of Marine Fighter Attack Squadron 211, embarked aboard the amphibious assault ship USS Essex in the Arabian Sea, struck a fixed Taliban target in Kandahar Province, Afghanistan, in support of a ground clearance operation. VMFA-211's F-35Bs became the first Marine Corps squadron to deploy the type in place of the AV-8B Harrier it replaced.{{ref:usni-combat}}",
+          "The Royal Navy and RAF's joint Lightning Force followed a similar path, flying F-35Bs from HMS Queen Elizabeth on Operation Shader strikes against Islamic State remnants in Iraq and Syria during the carrier's 2021 Carrier Strike Group deployment, and again supporting operations from the Eastern Mediterranean as the UK's carrier strike groups have rotated through the region since. Beyond the Anglo-American core, the F-35B has become the signature aircraft of a widening STOVL/light-carrier club: the Italian Navy flies it from the carrier Cavour, declaring initial operational capability during a 2024 Indo-Pacific deployment; Japan's JMSDF is fielding F-35Bs to eventually operate from its modified Izumo-class destroyer-carriers; and Singapore has selected the type for its own air force.{{ref:usni-cavour}}",
+          "The variant's most consequential losses have all been accidents rather than combat. On 17 November 2021, a Royal Navy F-35B launching from HMS Queen Elizabeth in the Eastern Mediterranean failed to generate sufficient thrust and went off the ski-jump into the sea; the pilot ejected safely and was recovered by helicopter within minutes. The subsequent investigation found a protective intake blank had been left inside the engine duct, throttling thrust to roughly half of what takeoff required - compounded by rushed handovers, high winds, and fatigue among the ship's ground crew. The wreck was later located and partially recovered from the seabed.{{ref:usni-crash2021}}",
+          "Nearly two years later, on 17 September 2023, a Marine F-35B pilot ejected during a heavy rainstorm near Joint Base Charleston, South Carolina, after electrical and display malfunctions led him to misdiagnose the jet as out of control. The aircraft, in fact still flyable, continued on autopilot for more than eleven minutes and roughly 64 miles before crashing in a field near Hemmingway, South Carolina; it took over a day of searching to locate the wreckage. A 2024 investigation attributed the loss to pilot error rather than a fundamental aircraft fault, and the pilot was relieved of his squadron command.{{ref:stripes-scflyaway}}",
+          "In June 2025, a Royal Navy F-35B from HMS Prince of Wales, operating off Kerala during the carrier strike group's Indo-Pacific deployment, diverted to Thiruvananthapuram International Airport after monsoon weather and rough seas prevented a safe return to the ship with critically low fuel. A subsequent hydraulic failure grounded the jet for weeks while a Royal Navy engineering team, and eventually a repair path involving the aircraft's return to the UK, worked the problem.{{ref:forces-kerala}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Like its A- and C-model siblings, the F-35B shares the program's common avionics backbone - the AN/APG-81 AESA radar, the Distributed Aperture System, the Electro-Optical Targeting System, and the sensor-fusion software that combines them into a single tactical picture - and the same modernization pipeline. The Pentagon has spent years replacing the maligned Autonomic Logistics Information System (ALIS) with the cloud-based Operational Data Integrated Network (ODIN), aiming for lighter, faster, more secure maintenance and supply-chain hardware across the fleet. In parallel, the Block 4/Technical Refresh 3 (TR-3) modernization effort is rolling out new processors, displays, and more than 50 planned capability upgrades, though schedule slips have pushed full TR-3 combat capability into the mid-to-late 2020s and driven continued scrutiny from the Government Accountability Office.{{ref:gao-fcost}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "lm-missionx",
+      "name": "JSF X-35B Converts to STOVL, Goes Supersonic in the Same Flight",
+      "publisher": "Lockheed Martin",
+      "url": "https://news.lockheedmartin.com/2001-07-10-JSF-X-35B-Converts-to-STOVL-Goes-Supersonic-in-the-Same-Flight"
+    },
+    {
+      "id": "jsf-wiki",
+      "name": "Joint Strike Fighter program",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joint_Strike_Fighter_program"
+    },
+    {
+      "id": "lm-firstflight",
+      "name": "Lockheed Martin F-35B STOVL Stealth Fighter Achieves Successful First Flight",
+      "publisher": "Lockheed Martin",
+      "url": "https://news.lockheedmartin.com/2008-06-11-Lockheed-Martin-F-35B-STOVL-Stealth-Fighter-Achieves-Successful-First-Flight"
+    },
+    {
+      "id": "usmc-ioc",
+      "name": "U.S. Marines Corps declares the F-35B operational",
+      "publisher": "marines.mil",
+      "url": "https://www.marines.mil/News/News-Display/Article/611657/us-marines-corps-declares-the-f-35b-operational/"
+    },
+    {
+      "id": "usni-combat",
+      "name": "Marines' F-35B Joint Strike Fighter Conducts First-Ever Combat Mission with Strike in Afghanistan",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2018/09/27/36885"
+    },
+    {
+      "id": "usni-cavour",
+      "name": "Carrier Cavour's Pacific Deployment Extends Italy's Reach in the Pacific, Say Admiral",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2024/10/11/carrier-cavours-pacific-deployment-extends-italys-reach-in-the-pacific-say-admiral"
+    },
+    {
+      "id": "usni-crash2021",
+      "name": "U.K. F-35B from Carrier HMS Queen Elizabeth Crashes in Mediterranean, Pilot Recovered",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2021/11/17/u-k-mod-f-35b-from-aircraft-carrier-hms-queen-elizabeth-crashes-in-mediterranean-british-pilot-recovered"
+    },
+    {
+      "id": "stripes-scflyaway",
+      "name": "Marines blame pilot error in 2023 crash of F-35 jet that went missing more than a day in South Carolina",
+      "publisher": "Stars and Stripes",
+      "url": "https://www.stripes.com/branches/marine_corps/2024-10-31/f35-crash-south-carolina-pilot-error-15692186.html"
+    },
+    {
+      "id": "forces-kerala",
+      "name": "Stranded Royal Navy F-35B moved into hangar as UK engineers arrive in India",
+      "publisher": "Forces News",
+      "url": "https://www.forcesnews.com/services/navy/stranded-royal-navy-f-35b-moved-hangar-uk-engineers-arrive-india"
+    },
+    {
+      "id": "aviationist-bf1",
+      "name": "First F-35B Transported by CH-53K to MCAS Beaufort to be Retired as Static Display",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2025/08/31/f-35b-bf-01-transported-by-ch-53k-mcas-beaufort/"
+    },
+    {
+      "id": "gao-fcost",
+      "name": "The F-35 Will Now Exceed $2 Trillion As the Military Plans to Fly It Less",
+      "publisher": "U.S. Government Accountability Office",
+      "url": "https://www.gao.gov/blog/f-35-will-now-exceed-2-trillion-military-plans-fly-it-less"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Lockheed Martin - F-35 Lightning II",
+      "url": "https://www.lockheedmartin.com/en-us/products/f-35.html"
+    },
+    {
+      "name": "Royal Air Force - F-35B Lightning",
+      "url": "https://www.raf.mod.uk/aircraft/current-aircraft/lightning-f35b/"
+    },
+    {
+      "name": "BAE Systems - F-35 Lightning II",
+      "url": "https://www.baesystems.com/dam/jcr:47fbc276-ac6f-43f9-92c2-3652530d4dd4"
+    },
+    {
+      "name": "Wikipedia - Lockheed Martin F-35 Lightning II",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"
+    }
+  ],
+  "survivors": {
+    "intro": "The F-35B remains in full-rate production and active frontline service with the U.S. Marine Corps, the UK's joint RAF/Royal Navy Lightning Force, and the Italian Navy, so there is no population of retired combat airframes yet available for museum display. The one meaningful exception is BF-1, the very first F-35B built, which completed its flight-test career and was retired as a permanent static display in 2025. The airframes lost in the 2021 HMS Queen Elizabeth accident and the 2023 South Carolina 'flyaway' were destroyed or substantially wrecked and are not preserved as museum exhibits.",
+    "airframes": [
+      {
+        "serial": "BF-1",
+        "name": "First F-35B Lightning II",
+        "location": "MCAS Beaufort",
+        "place": "Beaufort, South Carolina, USA",
+        "note": "The first F-35B ever built; flew the type's first flight (11 June 2008), first vertical landing (18 March 2010), and first vertical takeoff (10 May 2013). Demilitarized and airlifted by a Marine CH-53K King Stallion from NAS Patuxent River to MCAS Beaufort on 27 August 2025 as a permanent static display.",
+        "countryCode": "us",
+        "country": "United States",
+        "url": "https://theaviationist.com/2025/08/31/f-35b-bf-01-transported-by-ch-53k-mcas-beaufort/",
+        "featured": true
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved. Also renamed magazine-style section headings to plain factual ones.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2016-10-27",
+      "title": "In-flight fire near MCAS Beaufort",
+      "summary": "An F-35B suffered an in-flight fire after a faulty bracket chafed against electrical wiring. The pilot made a safe emergency landing, but the aircraft was later written off.",
+      "fatalities": 0,
+      "tag": "Engine fire",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2018-09-28",
+      "title": "First-ever F-35 crash",
+      "summary": "A U.S. Marine Corps F-35B crashed near MCAS Beaufort, South Carolina after a faulty fuel tube caused an engine failure. The pilot ejected safely; it was the first crash of any F-35 variant.",
+      "fatalities": 0,
+      "tag": "Engine failure",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2020-09-29",
+      "title": "Mid-air collision with a KC-130 tanker",
+      "summary": "A Marine Corps F-35B collided with a KC-130J tanker during air-to-air refuelling over Imperial County, California. The F-35B pilot ejected safely and the KC-130 crew made an emergency landing.",
+      "fatalities": 0,
+      "tag": "Mid-air collision",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2021-11-17",
+      "title": "Crash into the Mediterranean from HMS Queen Elizabeth",
+      "summary": "A UK F-35B crashed into the Mediterranean Sea shortly after taking off from HMS Queen Elizabeth, after an engine-intake blanking plug was inadvertently left in place. The pilot ejected safely and the wreckage was later recovered.",
+      "fatalities": 0,
+      "tag": "Maintenance error",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2022-12-15",
+      "title": "Failed vertical landing at Fort Worth",
+      "tag": "Landing accident",
+      "summary": "A Lockheed Martin test aircraft bounced and toppled during a vertical landing at Naval Air Station Joint Reserve Base Fort Worth; the pilot ejected safely. Video of the accident circulated widely.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2023-09-17",
+      "title": "Pilot ejects near Charleston; jet flies on and is lost",
+      "summary": "A Marine Corps F-35B suffered a mishap during a training flight near North Charleston, South Carolina, prompting the pilot to eject. The jet continued flying unmanned and crashed; the wreckage wasn't located for roughly 30 hours.",
+      "fatalities": 0,
+      "tag": "Ejection",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2024-05-28",
+      "title": "Test aircraft crash near Kirtland AFB",
+      "tag": "Test flight accident",
+      "summary": "A developmental F-35B crashed shortly after taking off from Kirtland Air Force Base, New Mexico, on a ferry flight. The pilot survived with serious injuries.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "date": "2025-06-14",
+      "title": "The Kerala stranding",
+      "tag": "Diversion / technical fault",
+      "summary": "A Royal Navy F-35B from HMS Prince of Wales diverted to Thiruvananthapuram in India low on fuel in bad weather, then developed a hydraulic fault that kept it there for more than five weeks while engineers and spares were flown out. The stranded jet became a worldwide news story before finally flying out in July.",
+      "fatalities": 0,
+      "source": "https://www.rusi.org/explore-our-research/publications/commentary/british-f-35-stuck-india-pr-disaster"
+    }
+  ]
+}

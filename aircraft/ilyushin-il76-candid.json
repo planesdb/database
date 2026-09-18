@@ -1,0 +1,392 @@
+{
+  "name": "Il-76 Candid",
+  "fullName": "Ilyushin Il-76 \"Candid\"",
+  "manufacturer": "Ilyushin",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Strategic and Tactical Military Freighter",
+  "tagline": "The Il-76 is a four-engine, T-tailed heavy freighter designed by Ilyushin to carry 40 tonnes into unpaved Soviet airstrips, and it has been in continuous production since 1971. More than 980 have been built in transport, tanker, airborne early warning, firefighting and zero-gravity training forms, making it the most widely used Soviet or Russian transport aircraft ever produced.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "Between 1979 and 1991 Soviet Il-76s flew 14,700 sorties into Afghanistan, carrying 89 percent of the troops and 74 percent of the freight that the Soviet Union airlifted into the country",
+    "The military version has a glazed navigator's station in the nose and, on many airframes, a manned tail turret with two 23 mm cannon - unusual equipment for a transport aircraft",
+    "A firefighting Il-76 can drop 49,000 litres of water in a single pass, and Russia's EMERCOM has deployed them as far as Chile and Indonesia",
+    "The Il-76MDK flies parabolic arcs to train cosmonauts in weightlessness, the Russian equivalent of NASA's 'Vomit Comet'",
+    "The airframe is the base for the Beriev A-50 and A-100 radar aircraft and the Il-78 tanker, and China's KJ-2000 AEW&C aircraft is a converted Il-76",
+    "Its safety record is poor by Western standards: 137 recorded occurrences and 99 hull losses by July 2024, with 1,158 deaths"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the current-production Il-76MD-90A, which has PS-90A-76 engines, a reinforced wing and a higher payload than the D-30KP-powered Il-76M/MD and Il-76T/TD variants that make up most of the fleet in service.",
+    "maxSpeed": {
+      "mph": 528,
+      "text": "459 kn (528 mph / 850 km/h)"
+    },
+    "cruiseSpeed": "470-500 mph (750-800 km/h)",
+    "range": {
+      "miles": 3100,
+      "text": "3,100 mi (5,000 km, 2,700 nmi) with 52 t payload; 6,027 mi (9,700 km) ferry"
+    },
+    "serviceCeiling": {
+      "ft": 40000,
+      "text": "40,000 ft (12,200 m)"
+    },
+    "wingspan": {
+      "ft": 166,
+      "text": "165 ft 8 in (50.5 m)"
+    },
+    "length": {
+      "ft": 153,
+      "text": "152 ft 11 in (46.6 m)"
+    },
+    "height": {
+      "ft": 47,
+      "text": "47 ft 4 in (14.42 m)"
+    },
+    "weight": "empty: 203,928 lb (92,500 kg); MTOW: 462,971 lb (210,000 kg)",
+    "engines": "Four Aviadvigatel PS-90A-76 turbofans, 35,300 lbf (156.9 kN) each; earlier Il-76M/MD/T/TD variants use four Soloviev D-30KP turbofans",
+    "armament": "Military transport variants can carry two 23 mm cannon in a radar-directed tail turret and four underwing hardpoints for 500 kg bombs; civil aircraft and most export transports are unarmed",
+    "crew": "5",
+    "capacity": "132,277 lb (60,000 kg) on the Il-76MD-90A - 105,822 lb (48,000 kg) on the Il-76MD and 92,594 lb (42,000 kg) on the Il-76M. Cargo hold 80 ft 5 in (24.5 m) long including the ramp, 11 ft 4 in (3.45 m) wide and 11 ft 2 in (3.4 m) high, giving 11,335 cu ft (321 cu m)",
+    "firstFlight": {
+      "date": "1971-03-25",
+      "year": 1971
+    },
+    "serviceEntryDate": "1974-06-01",
+    "retiredDate": null,
+    "numberBuilt": 981,
+    "unitCost": {
+      "usd": 51000000,
+      "text": "$51M (2020 contract price of 3.71 billion rubles per aircraft at the exchange rates of the time; the 2012 contract price of 3.57 billion rubles was worth roughly $115M when it was signed, and court filings in the resulting dispute describe both figures as below actual production cost)",
+      "inflationText": null
+    },
+    "combatLosses": "Il-76s have been shot down repeatedly while flying into contested airspace: a TransAVIAexport aircraft near Mogadishu on 23 March 2007 (11 killed), a Ukrainian Air Force aircraft on approach to Luhansk on 14 June 2014 (49 killed), and an aircraft over Sudan on 21 October 2024 (5 crew killed). A Yemeni Il-76TD was destroyed on the ground by an Israeli strike on 6 May 2025."
+  },
+  "variants": [
+    {
+      "code": "Il-76 / Il-76M / Il-76MD",
+      "desc": "The original military transports. The baseline Il-76 gave way to the Il-76M with a 42-tonne payload and, from the late 1970s, the Il-76MD with strengthened structure, more fuel and a 48-tonne payload. All use four Soloviev D-30KP turbofans and most carry the glazed navigator's nose and tail gun position. These variants did the Afghan airlift and still make up the bulk of the exported fleet."
+    },
+    {
+      "code": "Il-76T / Il-76TD",
+      "desc": "The civil equivalents of the M and MD, stripped of the tail turret and military avionics and certified for commercial cargo work. Aeroflot operated large numbers, and after 1991 they scattered across independent charter operators in Africa, Central Asia and the Middle East. The Il-76TD-90VD is a re-engined derivative built to meet Western noise and emissions rules, five of which fly for Volga-Dnepr."
+    },
+    {
+      "code": "Il-76MF / Il-76TF",
+      "desc": "Stretched versions with the fuselage lengthened by 6.6 m in two plugs, raising payload to 60 tonnes. Only a handful were completed; Egypt took two Il-76MFs, which remain the only significant export sale of the stretched airframe. The extra length made the type more competitive on volume-limited loads, but the programme was overtaken by the Il-76MD-90A."
+    },
+    {
+      "code": "Il-76MD-90A (Il-476)",
+      "desc": "The current production standard, assembled at Aviastar-SP in Ulyanovsk rather than the original Tashkent plant. It combines PS-90A-76 turbofans, a redesigned wing built as long panels rather than assembled sections, a glass cockpit and a 60-tonne payload at a 210-tonne maximum takeoff weight. It first flew in September 2012 and the first serial aircraft was delivered in April 2019."
+    },
+    {
+      "code": "Il-78 / Il-78M / Il-78M-90A",
+      "desc": "The aerial refuelling tanker family, distinguished by two underwing hose-and-drogue pods and a third on the rear fuselage. About 50 were built, and the Il-78MKI supplied to India adds Israeli-supplied systems. The Il-78M-90A is the tanker version of the MD-90A airframe. Convertible variants can carry removable fuel tanks in the hold so the aircraft can revert to a freighter."
+    },
+    {
+      "code": "Beriev A-50 / A-100 and other special missions",
+      "desc": "The Il-76 airframe hosts most Soviet and Russian large special-mission aircraft. Beriev converted around 25 into A-50 airborne early warning aircraft with a rotodome above the rear fuselage, exported as the A-50E and A-50EI, with the A-100 as the MD-90A-based successor. Other conversions include the Il-82 airborne command post, the A-60 airborne laser testbed, the Il-76MDK zero-gravity trainer and the water-bombing firefighter."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Russian Aerospace Forces",
+      "role": "Largest Operator",
+      "status": "In Service",
+      "since": "1992",
+      "fleetSize": "~130 Il-76 transports, 19 Il-78 tankers and 12 A-50/A-100 radar aircraft, with 38 more on order",
+      "homeBase": "Multiple military transport aviation regiments; Il-78s at Engels-2"
+    },
+    {
+      "name": "Soviet Air Forces",
+      "role": "Original Operator (historical)",
+      "status": "Retired (superseded by successor states, 1991)",
+      "since": "1974",
+      "fleetSize": "Several hundred; flew 14,700 sorties into Afghanistan between 1979 and 1991",
+      "homeBase": "Military Transport Aviation bases across the USSR"
+    },
+    {
+      "name": "Aeroflot",
+      "role": "Original Civil Operator (historical)",
+      "status": "Retired",
+      "since": "1976",
+      "fleetSize": "Large Soviet-era fleet of Il-76T/TD freighters, dispersed among successor carriers after 1991",
+      "homeBase": "Moscow and regional Soviet hubs"
+    },
+    {
+      "name": "People's Liberation Army Air Force",
+      "role": "Strategic Airlift and AEW&C Operator",
+      "status": "In Service",
+      "since": "1991",
+      "fleetSize": "26 Il-76MD/TD, 3 Il-78M tankers and 4 KJ-2000 AEW&C conversions",
+      "homeBase": "Multiple PLAAF transport divisions"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "Strategic Airlift, Tanker and AEW&C Operator",
+      "status": "In Service",
+      "since": "1985",
+      "fleetSize": "17 Il-76MD ('Gajraj'), 6 Il-78MKI tankers and 3 A-50EI radar aircraft",
+      "homeBase": "Air Force Station Chandigarh and Agra"
+    },
+    {
+      "name": "Algerian Air Force",
+      "role": "Transport and Tanker Operator",
+      "status": "In Service",
+      "since": "1980s",
+      "fleetSize": "11 Il-76MD/TD and 5 Il-78TD tankers",
+      "homeBase": "Boufarik Air Base"
+    },
+    {
+      "name": "Volga-Dnepr Airlines",
+      "role": "Civil Heavy-Freight Operator",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "5 Il-76TD-90VD",
+      "homeBase": "Ulyanovsk Vostochny Airport, Russia"
+    },
+    {
+      "name": "20+ other air forces and civil operators worldwide",
+      "role": "Transport, Tanker and Charter Operators",
+      "status": "In Service",
+      "since": "1970s",
+      "fleetSize": "Small fleets of one to seven aircraft each, including Angola, Armenia, Azerbaijan, Belarus, the DR Congo, Egypt, Iran, Jordan, North Korea, Sudan, Ukraine and Uzbekistan, plus charter carriers in Central Asia and the Middle East",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "IL76",
+    "howToFind": "Unlike most Russian military types the Il-76 is easy to track, because so many fly commercially. Filter for type IL76 and the reliable hits are Volga-Dnepr and Central Asian charter operators moving outsize freight, plus UN humanitarian flights into Africa. Military aircraft in Russian service do not transmit, but Il-76s chartered by Western governments for logistics work generally do."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, Airforce Technology, Aerospace Global News and The War Zone.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Candid",
+    "Il76",
+    "IL-476",
+    "Gajraj",
+    "Ilyushin 76"
+  ],
+  "article": {
+    "overview": [
+      "The Il-76 is a four-engine, high-wing, T-tailed heavy freighter designed by the Ilyushin bureau to replace the turboprop Antonov An-12 in Soviet Military Transport Aviation. The requirement set in 1967 called for 40 tonnes carried 5,000 km in under six hours, out of unpaved strips; the prototype flew on 25 March 1971 and the type entered service in June 1974. {{ref:wiki-il76}}",
+      "Some 981 have been built, first at Tashkent and now at Aviastar-SP in Ulyanovsk, in transport, tanker, airborne early warning, command post, firefighting and zero-gravity training forms. It remains in production more than fifty years after its first flight, at seven aircraft a year in 2025. {{ref:wiki-il76}} {{ref:agn-2025}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Soviet Military Transport Aviation in the mid-1960s depended on the An-12, a turboprop with roughly a 20-tonne payload and no ability to move the heavier equipment the Ground Forces were fielding. The 1967 requirement doubled the payload and added a demand that shaped the whole design: the aircraft had to operate from unprepared strips in a country where paved runways were concentrated in a few western districts. Ilyushin's answer was a swept-wing jet freighter sized around the 40-tonne figure, with four Soloviev D-30KP turbofans in underwing pods and a rear ramp wide enough to load vehicles. The prototype flew from Moscow's Central Airfield on 25 March 1971 and the type entered Military Transport Aviation service in June 1974, with the civil Il-76T following for Aeroflot. {{ref:wiki-il76}}",
+          "Production began at the Tashkent Aviation Production Association in Uzbekistan, which built the great majority of the 981 airframes completed - a figure no other Soviet or Russian transport comes close to. After the Soviet collapse left the plant outside Russia, assembly moved to Aviastar-SP in Ulyanovsk, where the modernised Il-76MD-90A is built today. {{ref:wiki-il76}} {{ref:agn-2025}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The unpaved-strip requirement drove the landing gear: twenty wheels on five units, with low-pressure tyres whose inflation can be adjusted in flight to suit the surface, and main gear that retracts into fuselage fairings rather than the wing. The high wing keeps the engines clear of debris, the rear ramp and door open in flight for airdrops, and thrust reversers bring the landing run down to 450 m. Two overhead travelling cranes and winches in the hold let the crew load without ground equipment, which matters at exactly the airfields the aircraft was designed for. {{ref:wiki-il76}}",
+          "Military aircraft keep a glazed navigator's station under the flight deck and, on many airframes, a tail turret with two 23 mm cannon directed by its own radar - equipment no Western transport carries. Current-production Il-76MD-90As replace the D-30KP turbofans with PS-90A-76 engines, which burn about 12 percent less fuel, and swap the old panel-built wing for one assembled from long one-piece panels, raising maximum takeoff weight to 210 tonnes and payload to 60 tonnes. {{ref:wiki-il76}} {{ref:aft-il476}}"
+        ]
+      },
+      {
+        "heading": "Afghanistan & Soviet Service",
+        "paragraphs": [
+          "The Soviet-Afghan War is where the Il-76 established itself. Between 1979 and 1991 Soviet Il-76s flew 14,700 sorties into Afghanistan, moving 786,200 servicemen and 315,800 tonnes of freight - 89 percent of the personnel and 74 percent of the cargo the Soviet Union airlifted into the country. Crews flew steep tactical approaches into Kabul to stay inside the defended perimeter, and aircraft repeatedly absorbed Stinger and Strela hits and returned. {{ref:wiki-il76}}",
+          "The war also produced the type's first losses. An Il-76 came down 36 km from Kabul on 25 December 1979, the opening day of the intervention, killing 48. The first loss of any Il-76 had occurred a month earlier near Vitebsk, killing all seven crew. {{ref:wiki-il76}}"
+        ]
+      },
+      {
+        "heading": "Civil Careers & Special Missions",
+        "paragraphs": [
+          "The break-up of the Soviet Union pushed hundreds of Il-76T and TD freighters onto the open market, where their rough-field capability and low acquisition cost made them the default aircraft for cargo that had to reach places without infrastructure. UN humanitarian flights, Antarctic resupply, oil and mining logistics and, less creditably, arms trafficking into African conflict zones have all run on second-hand Il-76s. Canadian Forces leased civil aircraft for Afghanistan operations in 2006, and China's air force used its Il-76s for evacuations from Afghanistan in 2004 and Libya in 2011. {{ref:wiki-il76}}",
+          "The airframe's size also made it the standard Soviet and Russian platform for anything that needed a large aircraft as a bus. Beriev converted around 25 into A-50 airborne early warning aircraft, and the A-100 continues that line on the MD-90A airframe; the Il-78 family provides Russia's aerial refuelling; the firefighting version drops 49,000 litres of water in one pass and has deployed as far as Chile; and the Il-76MDK flies parabolic arcs for cosmonaut weightlessness training. {{ref:wiki-il76}}"
+        ]
+      },
+      {
+        "heading": "Safety Record",
+        "paragraphs": [
+          "The Il-76's accident record is much worse than that of comparable Western freighters, and the reasons are not solely to do with the aircraft. By July 2024 the type had accumulated 137 recorded occurrences, 99 hull losses and 1,158 deaths. Much of that total comes from the environments the aircraft is chosen for - unpaved strips, war zones, weak regulatory oversight and, in several documented cases, deliberate overloading. {{ref:wiki-il76}}",
+          "The three worst events illustrate the range. On 12 November 1996 a Kazakhstan Airlines Il-76 collided with a Saudi Boeing 747 near Charkhi Dadri in India, killing all 349 people aboard both aircraft in the deadliest mid-air collision on record. On 19 February 2003 an Iranian Revolutionary Guard Il-76 crashed near Kerman, killing 275 - the deadliest accident involving the type. On 11 April 2018 an Algerian Air Force Il-76 came down shortly after takeoff from Boufarik, killing all 257 on board, the worst air disaster on Algerian soil. {{ref:wiki-il76}}"
+        ]
+      },
+      {
+        "heading": "Current Production & Outlook",
+        "paragraphs": [
+          "Production of the Il-76MD-90A has been climbing slowly rather than dramatically: three aircraft a year in 2019 and 2020, two in 2021, five in 2022, six in 2023 and 2024, and seven in 2025, all from Aviastar-SP. Russia has stated an intention to reach about 12 a year by 2027 and up to 18 thereafter, which is the rate the Ulyanovsk line was designed for, though export demand remains limited and only a small number of export contracts are in place. {{ref:agn-2025}}",
+          "For the Russian Aerospace Forces there is no alternative in sight. The Il-76 remains the only aircraft in the inventory that can move a company of paratroopers or an armoured vehicle into an austere strip, the A-50 and A-100 radar fleets have nowhere else to live, and the Il-78 is the only tanker Russia operates. Court filings over the 2012 and 2020 supply contracts, in which per-aircraft prices of 3.57 and 3.71 billion rubles were both described as below production cost, suggest the programme has never been comfortably profitable. {{ref:twz-costs}} {{ref:agn-2025}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-il76",
+      "name": "Ilyushin Il-76",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "id": "aft-il476",
+      "name": "Ilyushin IL-76MD-90A (IL-476) Aircraft",
+      "publisher": "Airforce Technology",
+      "url": "https://www.airforce-technology.com/projects/ilyushin-il-76md-90a-il-476-aircraft-russia/"
+    },
+    {
+      "id": "agn-2025",
+      "name": "Russia ramps up Ilyushin Il-76 production with 7 aircraft delivered in 2025",
+      "publisher": "Aerospace Global News",
+      "url": "https://aerospaceglobalnews.com/news/russian-il-76-production-2025/"
+    },
+    {
+      "id": "twz-costs",
+      "name": "Here Is What Russia's Military Aircraft And Missiles Actually Cost",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/here-is-what-russias-military-aircraft-and-missiles-actually-cost"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Ilyushin Il-76",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "name": "Il-76 Candid: Transport Aircraft Specs, Top Speed & Range",
+      "url": "https://www.globalmilitary.net/aircraft/il-76-candid/"
+    },
+    {
+      "name": "Russia signs deal for new-generation Il-76 transports",
+      "url": "https://www.flightglobal.com/fixed-wing/2012/10/russia-signs-deal-for-new-generation-il-76-transports/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1979-11-23",
+      "title": "First loss of an Il-76, near Vitebsk",
+      "tag": "Crash",
+      "summary": "The first Il-76 hull loss occurred near Vitebsk in the Byelorussian SSR, killing all seven crew.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "1979-12-25",
+      "title": "Crash near Kabul on the opening day of the Afghan intervention",
+      "tag": "Controlled flight into terrain",
+      "summary": "A Soviet Il-76 carrying troops into Afghanistan on the first day of the intervention struck high ground about 36 km from Kabul. All 48 on board were killed.",
+      "fatalities": 48,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "1988-12-11",
+      "title": "Earthquake relief crash at Leninakan",
+      "tag": "Crash on approach",
+      "summary": "An Aeroflot Il-76 flying relief supplies into Armenia after the Spitak earthquake crashed near Leninakan. Seventy-seven of the 78 people on board were killed.",
+      "fatalities": 77,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "1989-10-18",
+      "title": "In-flight wing separation over the Caspian Sea",
+      "tag": "Structural failure",
+      "summary": "A Soviet Air Force Il-76 suffered a wing separation over the Caspian Sea and broke up, killing all 57 on board. It remains Azerbaijan's deadliest aviation accident.",
+      "fatalities": 57,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "1995-08-03",
+      "title": "Il-76TD forced down and its crew held by the Taliban",
+      "tag": "Hijacking",
+      "summary": "An Airstan Il-76TD carrying ammunition to Kabul was intercepted by a Taliban MiG-21 and forced to land at Kandahar. The seven Russian crew were held for more than a year before escaping with their aircraft in August 1996.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "1996-11-12",
+      "title": "Charkhi Dadri mid-air collision",
+      "tag": "Mid-air collision",
+      "summary": "A Kazakhstan Airlines Il-76 descending towards Delhi collided with a climbing Saudia Boeing 747 near Charkhi Dadri, India. All 349 people aboard the two aircraft were killed, making it the deadliest mid-air collision in aviation history.",
+      "fatalities": 349,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "2003-02-19",
+      "title": "Iranian Revolutionary Guard crash near Kerman",
+      "tag": "Controlled flight into terrain",
+      "summary": "An Iranian Il-76 carrying Revolutionary Guard personnel crashed in mountains near Kerman in poor weather. All 275 on board were killed - the deadliest accident involving the type.",
+      "fatalities": 275,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "2007-03-23",
+      "title": "Shot down over Mogadishu",
+      "tag": "Shot down",
+      "summary": "A TransAVIAexport Il-76 was shot down shortly after taking off from Mogadishu, Somalia. All 11 on board were killed.",
+      "fatalities": 11,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "2014-06-14",
+      "title": "Shot down on approach to Luhansk",
+      "tag": "Shot down",
+      "summary": "A Ukrainian Air Force Il-76 carrying paratroopers and equipment was shot down by pro-Russian forces on final approach to Luhansk airport, killing all 49 on board - the single heaviest loss of life the Ukrainian military had suffered to that point in the conflict.",
+      "fatalities": 49,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "2016-07-01",
+      "title": "Firefighting Il-76TD lost near Irkutsk",
+      "tag": "Controlled flight into terrain",
+      "summary": "A Russian EMERCOM Il-76TD water bomber fighting wildfires in Irkutsk Oblast struck a hillside in poor visibility. All 10 on board were killed.",
+      "fatalities": 10,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "2018-04-11",
+      "title": "Algerian Air Force crash at Boufarik",
+      "tag": "Crash after takeoff",
+      "summary": "An Algerian Air Force Il-76 crashed moments after taking off from Boufarik Air Base near Algiers, killing all 257 people on board. It is the deadliest air crash on Algerian soil.",
+      "fatalities": 257,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "2024-01-24",
+      "title": "Crash in Belgorod Oblast",
+      "tag": "Disputed loss",
+      "summary": "A Russian Air Force Il-76 came down in Belgorod Oblast near the Ukrainian border. Russia said 74 people were on board, including 65 Ukrainian prisoners of war being taken to an exchange, and blamed a Ukrainian missile; Ukraine said it had no reliable information about who was aboard. Independent verification of the passenger list has not been possible.",
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "2024-03-12",
+      "title": "Engine fire after takeoff near Ivanovo",
+      "tag": "Engine fire",
+      "summary": "A Russian Air Force Il-76 suffered an engine fire shortly after departing Ivanovo Severny and crashed, killing all 15 crew and passengers on board.",
+      "fatalities": 15,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "2024-10-21",
+      "title": "Shot down over Sudan",
+      "tag": "Shot down",
+      "summary": "An Il-76 was shot down over Sudan during the civil war there, killing the five crew on board.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "Yemeni Il-76TD destroyed on the ground",
+      "tag": "Destroyed in airstrike",
+      "summary": "A Yemen Air Force Il-76TD was destroyed by an Israeli missile strike on the ground at Sanaa International Airport.",
+      "source": "https://en.wikipedia.org/wiki/Ilyushin_Il-76"
+    }
+  ]
+}

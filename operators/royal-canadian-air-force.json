@@ -1,0 +1,19 @@
+{
+  "id": "royal-canadian-air-force",
+  "slug": "royal-canadian-air-force",
+  "name": "Royal Canadian Air Force",
+  "shortName": "RCAF",
+  "type": "military",
+  "country": { "name": "Canada", "code": "ca" },
+  "founded": "1924-04-01",
+  "foundedDisplay": "1 April 1924",
+  "headquarters": "Ottawa, Ontario, Canada",
+  "logo": "rcaf.webp",
+  "website": null,
+  "tagline": "Wartime host of the 'aerodrome of democracy', builder of the legendary Arrow, and NORAD's northern partner for over sixty years.",
+  "bio": [
+    "The Royal Canadian Air Force was established on 1 April 1924 and came of age in the Second World War, when Canada hosted the British Commonwealth Air Training Plan - the vast scheme that trained more than 130,000 Allied aircrew and led President Roosevelt to call Canada the \"aerodrome of democracy\". RCAF squadrons flew Hurricanes in the Battle of Britain and manned Lancaster-equipped No. 6 Group with Bomber Command, while Canadian factories turned out hundreds of Lancasters and thousands of other aircraft.",
+    "The post-war years brought license-built Canadair Sabres, the heartbreak of the CF-105 Arrow's 1959 cancellation, and a founding role in NORAD, the joint Canada-US command that still watches North American airspace. After decades folded into the unified Canadian Forces, the RCAF name was restored in 2011; today the force flies CF-18 Hornets ahead of a planned F-35A transition, CC-177 Globemasters, CH-147F Chinooks and search-and-rescue fleets covering the world's second-largest country."
+  ],
+  "matchPattern": "royal canadian air force|\\brcaf\\b"
+}

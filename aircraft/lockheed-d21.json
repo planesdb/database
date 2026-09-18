@@ -1,0 +1,426 @@
+{
+  "name": "D-21",
+  "fullName": "Lockheed D-21",
+  "manufacturer": "Lockheed (Skunk Works)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "drones",
+    "spy-planes"
+  ],
+  "role": "Mach 3 Reconnaissance Drone",
+  "tagline": "The Lockheed D-21 is a Mach 3 reconnaissance drone designed to fly one way: over the target, then eject its camera hatch and destroy itself. Thirty-eight were built, and the four that flew operational missions over China between 1969 and 1971 returned no usable photographs.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The designations were literal: 'D' for daughter and 'M' for mother, the drone riding piggyback on a modified A-12 renamed the M-21.",
+    "It was not remotely piloted. There was no control link - an inertial navigator and a mechanical computer flew a route programmed with up to 32 destinations before launch.",
+    "A ramjet makes no thrust standing still, so every D-21 had to be accelerated to supersonic speed first: by a Mach 3 mothership, and later by a 27,300 lbf rocket booster.",
+    "Test flights set the programme's extremes - article 519 reached 96,588 ft and article 521 hit Mach 3.32.",
+    "In four operational missions over China it never delivered a single usable photograph: two drones were lost outright, and the two that completed their runs lost the film hatch at sea.",
+    "The fate of the first operational drone stayed unknown for 17 years, until a CIA officer handed Lockheed's Ben Rich a panel from it that had come to him from a KGB agent."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the D-21B, the B-52-launched variant that flew every operational mission. Published speed and range figures vary between sources; the values here follow the Museum of Flight's D-21B data and the 3,000-nautical-mile design range quoted by the Directory of U.S. Military Rockets and Missiles.",
+    "maxSpeed": {
+      "mph": 2211,
+      "text": "1,921 kn (2,211 mph / 3,558 km/h)"
+    },
+    "cruiseSpeed": "2,211 mph (3,558 km/h, Mach 3.3)",
+    "range": {
+      "miles": 3450,
+      "text": "3,450 mi (5,550 km, 3,000 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 95000,
+      "text": "95,000 ft (29,000 m)"
+    },
+    "wingspan": {
+      "ft": 19.02,
+      "text": "19 ft 0.25 in (5.80 m)"
+    },
+    "length": {
+      "ft": 42.83,
+      "text": "42 ft 10 in (13.06 m)"
+    },
+    "height": {
+      "ft": 7.02,
+      "text": "7 ft 0.25 in (2.14 m)"
+    },
+    "weight": "launch weight: 11,000 lb (4,990 kg) without booster; D-21B solid rocket booster: 13,286 lb (6,027 kg)",
+    "engines": "1 x Marquardt RJ43-MA-11 ramjet burning JP-7, derived from the Bomarc missile's engine; the D-21B added a jettisonable solid-propellant booster delivering 27,300 lbf for 87 seconds",
+    "crew": "None onboard - not remotely piloted either; an inertial navigator and a mechanical computer flew a course preset with up to 32 destinations before launch",
+    "capacity": "One 425 lb (193 kg) jettisonable hatch holding a high-resolution camera and its exposed film, ejected at the end of the run for mid-air recovery",
+    "firstFlight": {
+      "date": "1966-03-05",
+      "year": 1966
+    },
+    "serviceEntryDate": "1969-11-09",
+    "retiredDate": "1971-07-23",
+    "numberBuilt": 38,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Tagboard was a black programme and no per-drone price was ever published; reported funding ran to $8M in fiscal 1963 and $60M in fiscal 1964, together around $440M in 2019 dollars",
+      "inflationText": null
+    },
+    "combatLosses": "Not applicable in the usual sense - the D-21 was unarmed and every operational flight was one-way by design. All four drones flown over China were expended: article 517 came down in Soviet Siberia in November 1969, articles 523 and 526 were lost at sea with their film in December 1970 and March 1971, and article 527 crashed over Yunnan in March 1971. Across the whole programme 21 of the 38 airframes built were expended in launches."
+  },
+  "variants": [
+    {
+      "code": "D-21",
+      "desc": "The original Tagboard drone, carried on the dorsal pylon of an M-21 mothership and released above Mach 3 so that its ramjet was already at light-off speed on separation. Six were built to this standard. Four were launched between March and July 1966, and the fourth destroyed its mothership on separation, ending the M-21 phase of the programme."
+    },
+    {
+      "code": "D-21B",
+      "desc": "The B-52-launched rebuild, with a vertical stabiliser 20 percent larger, a strengthened structure and attachment points for a 13,286 lb solid rocket booster that accelerated the drone from a subsonic drop to ramjet speed. Thirty-four were built or converted from D-21 airframes, and every operational mission over China was flown by this variant."
+    },
+    {
+      "code": "GTD-21B",
+      "desc": "Not a new build but the designation applied to the airframes that survived cancellation, 'GT' standing for ground training. The seventeen unexpended drones moved from Norton AFB to the Davis-Monthan boneyard in 1976-77 under this designation, and almost every D-21 displayed in a museum today is a GTD-21B released from that storage."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Operational Operator (4200th Support Squadron)",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "38 built; 21 expended in launches, 17 placed in storage",
+      "homeBase": "Beale AFB, California; operational launches staged from Andersen AFB, Guam"
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "role": "Programme Sponsor (Tagboard)",
+      "status": "Retired",
+      "since": "1962",
+      "fleetSize": "Not published; two A-12s were converted into M-21 motherships for the launch trials",
+      "homeBase": "Groom Lake, Nevada"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The D-21 never carried a civil transponder and no airframe has flown since 1971, so it cannot appear on Flightradar24. The survivors are static museum exhibits; the most complete display is at the Museum of Flight in Seattle, where article 510 sits on the pylon of the only remaining M-21 mothership."
+  },
+  "lastUpdated": "2026-09-11",
+  "changelog": [
+    {
+      "date": "2026-09-11",
+      "change": "Entry created - full article, specifications, variants, survivors and mission log written from the National Museum of the USAF fact sheet, the Museum of Flight, the Directory of U.S. Military Rockets and Missiles, C4ISRNET and NASA's incident record.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "D-21",
+    "D21",
+    "Tagboard",
+    "Senior Bowl",
+    "Q-12",
+    "M-21",
+    "GTD-21B",
+    "Skunk Works",
+    "ramjet drone",
+    "Lop Nur",
+    "Mach 3 drone",
+    "Blackbird"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed D-21 is an unmanned, ramjet-powered reconnaissance drone built by Lockheed's Skunk Works for the Central Intelligence Agency and the U.S. Air Force. It was designed to cruise above Mach 3 at around 95,000 feet along a course programmed before launch, eject a hatch containing its camera and film for recovery in mid-air, and then destroy itself. {{ref:nmusaf}} {{ref:parsch}}",
+      "Thirty-eight were built. Four flew operational missions over China's Lop Nur nuclear test site between November 1969 and March 1971 under the code name Senior Bowl, none of which produced usable imagery, and the programme was cancelled on 23 July 1971. {{ref:wikipedia}} {{ref:parsch}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Development began in October 1962, when the CIA and the Air Force asked Lockheed to study a high-speed, high-altitude drone. Kelly Johnson set the targets at Mach 3.3 to 3.5, an operating altitude of 87,000 to 95,000 feet and a range of 3,000 nautical miles. A full-scale mockup of the aircraft, then designated Q-12, was finished on 7 December 1962, and Lockheed received a development contract in March 1963. {{ref:wikipedia}} {{ref:parsch}}",
+          "The project was code-named Tagboard in late 1963, at which point the Q-12 became the D-21 and the A-12 chosen to carry it became the M-21 - D for daughter, M for mother. The airframe reused the A-12's titanium construction and its radar cross-section shaping, but nothing else about the aircraft was reusable: it was a one-way vehicle from the outset, with no intention of ever recovering the airframe. Reported funding ran to $8 million in fiscal 1963 and $60 million in fiscal 1964. {{ref:wikipedia}} {{ref:c4isrnet}}"
+        ]
+      },
+      {
+        "heading": "Propulsion, Guidance & the One-Way Payload",
+        "paragraphs": [
+          "The D-21 flew on a single Marquardt RJ43-MA-11 ramjet burning JP-7, the same fuel as the A-12, and a member of the same RJ43 family used in the CIM-10 Bomarc surface-to-air missile. A ramjet has no compressor and produces no thrust at rest, which dictated the whole shape of the programme: the drone had to be carried to supersonic speed before its engine would light, first by a Mach 3 mothership and later by a rocket booster. {{ref:parsch}} {{ref:marchfield}}",
+          "Despite being described in later Air Force material as a remotely piloted aircraft, the D-21 had no control link. An inertial navigator and a mechanical computer flew a route preset with up to 32 destinations, and photographic resolution was on the order of 1.5 to 2 feet. At the end of the run the drone ejected a 425 lb hatch carrying the camera and its exposed film; the hatch descended by parachute to be snagged in mid-air by a JC-130 Hercules using the system already developed for catching satellite film capsules, or failing that to be fished out of the sea. The drone then self-destructed. {{ref:c4isrnet}} {{ref:aviationist}} {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Tagboard and the M-21",
+        "paragraphs": [
+          "Two A-12s, 60-6940 and 60-6941, were converted into M-21 motherships with a pylon on the centreline between the vertical stabilisers and a second cockpit for a launch control officer. Captive-carry flights began on 22 December 1964, and the first free flight came on 5 March 1966, when the drone separated successfully but lingered near the mothership's tail. On 27 April 1966 a D-21 reached 90,000 feet and better than Mach 3.3 before a hydraulic pump failure ended the flight after more than 1,200 nautical miles, and on 16 June it flew a 1,550-nautical-mile profile but an electronics fault stopped the camera hatch ejecting. {{ref:wikipedia}} {{ref:parsch}}",
+          "The fourth launch, on 30 July 1966, was flown straight and level at 1g rather than from the pushover used on the earlier releases. The drone met the mothership's shock wave, bounced, rolled 45 degrees to port and struck 60-6941 at the wing root, cutting the aircraft in two. Pilot Bill Park and launch control officer Ray Torick ejected over the Pacific; Torick drowned when his pressure suit filled with water, after which a Baylor bar was added to pressure-suit helmets to stop visors opening during ejection. Kelly Johnson cancelled M-21 launches immediately. The surviving mothership, 60-6940, is now at the Museum of Flight in Seattle with a D-21 still on its pylon. {{ref:nasa-incident}} {{ref:wikipedia}} {{ref:mof-m21}}"
+        ]
+      },
+      {
+        "heading": "Senior Bowl and the Booster",
+        "paragraphs": [
+          "Johnson's answer was to drop the drone subsonically from a B-52H and light the ramjet with a rocket. The resulting D-21B gained a strengthened structure, a vertical stabiliser 20 percent larger and attachment points for a solid-propellant booster 44 feet 4 inches long and weighing 13,286 pounds, which delivered 27,300 pounds of thrust for 87 seconds before falling away. Two B-52Hs, 60-0036 and 61-0021, were modified to carry the drones on underwing pylons, and the 4200th Support Squadron at Beale AFB, California ran the operation. {{ref:wikipedia}} {{ref:geekclub}}",
+          "The new configuration took nearly two years to make work. On the first attempt, on 28 September 1967, a stripped nut let the drone fall off the pylon before the launch point, and failures continued through January 1968; the first fully successful flight came on 16 June 1968. Test launches between September 1967 and July 1969 consumed twelve airframes. They also produced the programme's best numbers: article 519 reached 96,588 feet and article 521 recorded Mach 3.32. {{ref:wikipedia}} {{ref:parsch}} {{ref:habu}}"
+        ]
+      },
+      {
+        "heading": "Four Missions Over China",
+        "paragraphs": [
+          "The first operational mission flew on 9 November 1969. Article 517 reached Lop Nur but then continued straight on instead of turning for the recovery area, and disappeared. Its fate stayed unknown until February 1986, when a CIA officer returned a panel from it to Ben Rich, having been given the panel by a KGB agent: the drone had self-destructed over Siberia and the Soviets had recovered the wreckage. The Tupolev bureau was instructed to rebuild it in Soviet materials as the Voron, which was never constructed. {{ref:wikipedia}} {{ref:voron}}",
+          "The remaining three missions all reached their target area and all lost their film. On 16 December 1970 the drone flew to Lop Nur and back, but a partial parachute failure lost the hatch at sea. On 4 March 1971 the hatch ejected and the parachute deployed, the JC-130 missed the catch, and the destroyer sent to pick the hatch out of the water ran it down and sank it. On 20 March 1971 the last drone was lost over Yunnan province; local authorities found the wreck, which eventually reached the China Aviation Museum in Beijing and was moved from its storage yard into the exhibition area in 2010. Two of the four missions were flown successfully by the drone itself, and in neither case did the intelligence come home. {{ref:wikipedia}} {{ref:parsch}}"
+        ]
+      },
+      {
+        "heading": "Cancellation & Legacy",
+        "paragraphs": [
+          "The programme was cancelled on 23 July 1971 for three reasons at once: the poor success rate, a new generation of photographic reconnaissance satellites, and President Nixon's opening to China, which removed the political appetite for overflying it at all. National Reconnaissance Office director John McLucas argued that there was no longer any area of strategic significance where the United States was willing to fly manned overflights of denied territory, and that satellites were the better investment. {{ref:wikipedia}} {{ref:c4isrnet}}",
+          "Of the 38 airframes built, 21 were expended in launches. The remaining 17 went to Norton AFB and then to the Davis-Monthan boneyard in 1976-77 as GTD-21Bs, where six were finally scrapped in 2013 and the rest were released to museums. What the programme proved was narrow but real: a Mach 3, air-launched unmanned aircraft could be built and flown a long way on a preset course, and articles 519 and 521 flew higher and faster than almost anything else of their era. What it never solved was the last link in the chain - getting the film back - and that is the part the reconnaissance satellite made irrelevant. {{ref:wikipedia}} {{ref:habu}} {{ref:mof}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nmusaf",
+      "name": "Lockheed D-21B",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195778/lockheed-d-21b/"
+    },
+    {
+      "id": "parsch",
+      "name": "Lockheed D-21 Tagboard",
+      "publisher": "Directory of U.S. Military Rockets and Missiles",
+      "url": "https://www.designation-systems.net/dusrm/app4/d-21.html"
+    },
+    {
+      "id": "wikipedia",
+      "name": "Lockheed D-21",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_D-21"
+    },
+    {
+      "id": "mof",
+      "name": "Lockheed D-21B Drone",
+      "publisher": "The Museum of Flight",
+      "url": "https://www.museumofflight.org/exhibits-and-events/aircraft/lockheed-d-21b-drone"
+    },
+    {
+      "id": "mof-m21",
+      "name": "Lockheed M-21 (Blackbird)",
+      "publisher": "The Museum of Flight",
+      "url": "https://www.museumofflight.org/exhibits-and-events/aircraft/lockheed-m-21-blackbird"
+    },
+    {
+      "id": "nasa-incident",
+      "name": "Loss of M-21 and D-21, 30 July 1966",
+      "publisher": "NASA Safety and Mission Assurance",
+      "url": "https://sma.nasa.gov/SignificantIncidents/assets/loss-of-m-21-and-d-21-on-30-july-1966-photo-archive-and-data.htm.pdf"
+    },
+    {
+      "id": "c4isrnet",
+      "name": "Excavating lessons for tomorrow from the Tagboard drone of the Cold War",
+      "publisher": "C4ISRNET",
+      "url": "https://www.c4isrnet.com/unmanned/2019/03/27/excavating-lessons-for-tomorrow-from-the-tagboard-drone-of-the-cold-war/"
+    },
+    {
+      "id": "aviationist",
+      "name": "The Secretive D-21 Drone and Operation Senior Bowl",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2025/07/23/d-21-drone-and-operation-senior-bowl/"
+    },
+    {
+      "id": "geekclub",
+      "name": "The story of the D-21 Drone and project Senior Bowl",
+      "publisher": "The Aviation Geek Club",
+      "url": "https://theaviationgeekclub.com/the-story-of-the-d-21-drone-and-project-senior-bowl-the-most-secret-program-ever-developed-by-the-famed-lockheed-skunk-works/"
+    },
+    {
+      "id": "habu",
+      "name": "D-21 Drones 501-539 Status and Disposition",
+      "publisher": "habu.org",
+      "url": "http://habu.org/m21-d21/d21.html"
+    },
+    {
+      "id": "marchfield",
+      "name": "D-21 Drone",
+      "publisher": "March Field Air Museum",
+      "url": "https://www.marchfield.org/d-21-drone/"
+    },
+    {
+      "id": "voron",
+      "name": "Tupolev Voron",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Voron"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Lockheed D-21B Drone - Pima Air & Space Museum",
+      "url": "https://pimaair.org/museum-aircraft/lockheed-d-21b/"
+    },
+    {
+      "name": "The Time I Found a Formerly Top Secret D-21 Supersonic Drone in the Arizona Desert",
+      "url": "https://theaviationist.com/2018/06/08/the-time-i-found-a-formerly-top-secret-d-21-supersonic-drone-in-the-arizona-desert/"
+    },
+    {
+      "name": "D-21 Projects Tagboard & Senior Bowl - Roadrunners Internationale",
+      "url": "https://roadrunnersinternationale.com/yf12/tagboard.html"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1966-03-05",
+      "title": "First free flight of a D-21",
+      "tag": "Test milestone",
+      "summary": "A D-21 separated from its M-21 mothership in flight for the first time. The release worked, though the drone lingered close to the mothership's tail for several seconds before accelerating away.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_D-21"
+    },
+    {
+      "date": "1966-07-30",
+      "title": "M-21/D-21 collision kills Ray Torick",
+      "tag": "Mid-air collision",
+      "summary": "On the fourth launch, flown straight and level rather than from a pushover, the drone struck the mothership's shock wave, rolled 45 degrees and hit M-21 60-6941 at the wing root, cutting it in half. Bill Park and Ray Torick ejected over the Pacific; Torick drowned when his pressure suit filled with water. Kelly Johnson cancelled M-21 launches.",
+      "fatalities": 1,
+      "source": "https://sma.nasa.gov/SignificantIncidents/assets/loss-of-m-21-and-d-21-on-30-july-1966-photo-archive-and-data.htm.pdf"
+    },
+    {
+      "date": "1967-09-28",
+      "title": "First B-52 launch attempt fails on the pylon",
+      "tag": "Launch failure",
+      "summary": "The first attempt to launch a D-21B from a B-52H ended before the launch point when a stripped nut let the drone fall off the pylon. Further failures followed through January 1968, and the first fully successful B-52 launch did not come until 16 June 1968.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_D-21"
+    },
+    {
+      "date": "1969-11-09",
+      "title": "First operational mission lost over Siberia",
+      "tag": "Lost on operational mission",
+      "summary": "Article 517 flew the first Senior Bowl mission to Lop Nur, then continued straight on rather than turning for the recovery area and disappeared. Its fate was only established in February 1986, when a CIA officer passed Ben Rich a panel from the drone obtained from a KGB agent: it had self-destructed over Siberia and the Soviets had recovered the wreckage.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_D-21"
+    },
+    {
+      "date": "1970-12-16",
+      "title": "Film hatch lost at sea after parachute failure",
+      "tag": "Recovery failure",
+      "summary": "The second operational mission reached Lop Nur and returned, but the camera hatch suffered a partial parachute failure and was lost at sea with its photographs.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_D-21"
+    },
+    {
+      "date": "1971-03-04",
+      "title": "Destroyer runs down the recovered hatch",
+      "tag": "Recovery failure",
+      "summary": "The drone flew to Lop Nur and back and released its hatch, whose parachute deployed correctly, but the JC-130 missed the mid-air catch. The destroyer sent to retrieve the hatch from the water ran it down and it sank.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_D-21"
+    },
+    {
+      "date": "1971-03-20",
+      "title": "Final Senior Bowl mission lost over Yunnan",
+      "tag": "Lost on operational mission",
+      "summary": "Article 527, the last D-21 flown operationally, was lost over Yunnan province in China. Local authorities recovered the wreckage, which eventually reached the China Aviation Museum in Beijing and was moved into the exhibition area in 2010. The programme was cancelled four months later.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_D-21"
+    }
+  ],
+  "survivors": {
+    "intro": "Twenty-one of the 38 drones built were expended in launches. The 17 survivors went into storage as GTD-21Bs, six were scrapped at Davis-Monthan in 2013, and the rest are museum exhibits - including the only surviving M-21 mothership with a drone still on its pylon, and the wreck China recovered from the final mission.",
+    "airframes": [
+      {
+        "serial": "Article 510",
+        "name": null,
+        "location": "The Museum of Flight",
+        "place": "Seattle, Washington, United States",
+        "url": "https://www.museumofflight.org/exhibits-and-events/aircraft/lockheed-d-21b-drone",
+        "note": "Mounted on the pylon of M-21 60-6940, the only surviving mothership, so the pair is displayed as it would have flown. The museum acquired the drone from the Air Force in November 1993.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Article 527",
+        "name": null,
+        "location": "China Aviation Museum",
+        "place": "Beijing, China",
+        "url": "http://habu.org/m21-d21/d21.html",
+        "note": "The drone lost over Yunnan province on the final Senior Bowl mission of 20 March 1971. Its wreckage sat in the museum's storage yard for years before being moved into the exhibition area in 2010.",
+        "featured": true,
+        "countryCode": "cn",
+        "country": "China"
+      },
+      {
+        "serial": "Article 524",
+        "name": null,
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195778/lockheed-d-21b/",
+        "note": "Transferred to the museum in 1993.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Article 533",
+        "name": null,
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "url": "https://pimaair.org/museum-aircraft/lockheed-d-21b/",
+        "note": "Displayed a short distance from the Davis-Monthan boneyard where the surplus drones spent nearly forty years.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Article 537",
+        "name": null,
+        "location": "March Field Air Museum",
+        "place": "Riverside, California, United States",
+        "url": "https://www.marchfield.org/d-21-drone/",
+        "note": "Delivered on 19 July 2007, on loan from the National Museum of the U.S. Air Force.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Article 522",
+        "name": null,
+        "location": "Pacific Coast Air Museum",
+        "place": "Santa Rosa, California, United States",
+        "url": "https://pacificcoastairmuseum.org/aircraft/d-21-drone/",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Article 525",
+        "name": null,
+        "location": "Blackbird Airpark",
+        "place": "Palmdale, California, United States",
+        "url": "https://flighttestmuseum.org/blackbird-airpark/",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Article 528",
+        "name": null,
+        "location": "Grissom Air Museum",
+        "place": "Peru, Indiana, United States",
+        "url": "http://habu.org/m21-d21/d21.html",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Article 534",
+        "name": null,
+        "location": "Evergreen Aviation & Space Museum",
+        "place": "McMinnville, Oregon, United States",
+        "url": "http://habu.org/m21-d21/d21.html",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Article 539",
+        "name": null,
+        "location": "Beale Air Force Base",
+        "place": "Marysville, California, United States",
+        "url": "http://habu.org/m21-d21/d21.html",
+        "note": "Displayed at the base from which the 4200th Support Squadron ran the Senior Bowl programme.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

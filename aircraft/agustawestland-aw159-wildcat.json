@@ -1,0 +1,312 @@
+{
+  "name": "AW159 Wildcat",
+  "fullName": "AgustaWestland AW159 Wildcat",
+  "manufacturer": "AgustaWestland / Leonardo",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Twin-Engine Battlefield Reconnaissance & Maritime Attack Helicopter",
+  "tagline": "Britain's Lynx successor, built for the battlefield and the flight deck alike. It flies parallel Army and Royal Navy variants that share only about 5% of their parts with the original Lynx, and has since been exported to South Korea, the Philippines and Algeria.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "Development began in the early 2000s as the Future Lynx programme, intended to replace the British Army's and Royal Navy's ageing Lynx AH7 and HMA8 fleets under the Battlefield Reconnaissance Helicopter (BRH) and Surface Combatant Maritime Rotorcraft (SCMR) requirements. The Ministry of Defence signed a £1 billion contract with AgustaWestland in June 2006, and the first AW159 - as the type was designated in April 2009 - made its maiden flight on 12 November 2009. The Wildcat AH1 entered British Army service on 29 August 2014, with the Royal Navy's HMA2 following into operational deployment in early 2015; both services had fully retired the Lynx within five years. Export orders followed from the Republic of Korea Navy (from 2013) and the Philippine Navy (from 2019, with a further batch agreed in 2025), and Algeria's navy became the type's newest customer in 2025. With the naval Martlet missile in service and the heavier Sea Venom anti-ship missile reaching initial operating capability in October 2025, the Wildcat has matured into a genuinely multirole attack and surveillance helicopter even as the UK's own long-term plans point toward an eventual drone-led replacement.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 193,
+      "text": "168 kn (193 mph / 311 km/h)"
+    },
+    "cruiseSpeed": "~150 mph (241 km/h)",
+    "range": {
+      "miles": 483,
+      "text": "483 mi (777 km, 420 nmi) standard fuel; 598 mi (963 km, 520 nmi) ferry range"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Not publicly disclosed by the manufacturer as a standalone figure"
+    },
+    "mainRotorDiameter": {
+      "ft": 42,
+      "text": "42 ft (12.8 m)"
+    },
+    "length": {
+      "ft": 50,
+      "text": "50 ft 0 in (15.24 m) fuselage"
+    },
+    "height": {
+      "ft": 12.25,
+      "text": "12 ft 3 in (3.73 m)"
+    },
+    "weight": "empty: 7,275 lb (3,300 kg); MTOW: 13,228 lb (6,000 kg)",
+    "rotorBlades": "4 main (BERP IV composite blades), 4 tail",
+    "engines": "2 x LHTEC CTS800-4N turboshafts, 1,362 shp (1,016 kW) each",
+    "armament": "Pintle-mounted machine gun (FN MAG for Army, Browning M3M for Navy); naval HMA2 can carry up to 20 Thales Martlet lightweight multirole missiles, or up to 4 MBDA Sea Venom anti-ship missiles, or Sting Ray torpedoes and Mk11 depth charges; South Korean and Philippine navies field K745 Blue Shark torpedoes and Spike NLOS anti-ship missiles",
+    "crew": "2 pilots, plus up to 6 passengers/door gunner in the cabin",
+    "capacity": "6 passengers including door gunner, or equivalent cargo/mission equipment; naval HMA2 typically flies a 2-3 person mission crew plus sensor operator",
+    "firstFlight": {
+      "date": "2009-11-12",
+      "year": 2009
+    },
+    "serviceEntryDate": "2014-08-29",
+    "retiredDate": null,
+    "numberBuilt": 100,
+    "unitCost": {
+      "usd": 21000000,
+      "text": "~£1.7B whole-programme cost for 62 aircraft (2009 basis), implying roughly $21M-$27M per airframe depending on exchange rate and fit-out",
+      "inflationText": null
+    },
+    "combatLosses": "No documented combat losses; the type has flown extensively on counter-piracy, sanctions-enforcement and, from 2026, counter-drone operations without a confirmed aircraft lost to hostile action"
+  },
+  "variants": [
+    {
+      "code": "Wildcat AH1",
+      "desc": "British Army battlefield reconnaissance and utility variant; entered service in August 2014, operated by the Army Air Corps."
+    },
+    {
+      "code": "Wildcat HMA2",
+      "desc": "Royal Navy maritime attack variant with Seaspray AESA radar, Martlet and Sea Venom missile compatibility, and ASW/ASuW mission systems; flown by the Fleet Air Arm from frigates, destroyers and carriers."
+    },
+    {
+      "code": "AW159 (export)",
+      "desc": "Naval-configured export version flown by the Republic of Korea Navy, Philippine Navy and, from 2025, the Algerian Navy, typically fitted with different weapons and sonobuoy/torpedo systems to suit each customer."
+    }
+  ],
+  "operators": [
+    {
+      "name": "British Army (Army Air Corps)",
+      "role": "Primary Operator (AH1)",
+      "status": "In Service",
+      "since": "2014",
+      "fleetSize": "34",
+      "homeBase": "Wattisham Flying Station"
+    },
+    {
+      "name": "Royal Navy (Fleet Air Arm)",
+      "role": "Primary Operator (HMA2)",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "28",
+      "homeBase": "RNAS Yeovilton"
+    },
+    {
+      "name": "Republic of Korea Navy",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2016",
+      "fleetSize": "8",
+      "homeBase": "Multiple naval air stations",
+      "logo": "rok-navy-aviation.svg"
+    },
+    {
+      "name": "Philippine Navy",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "2, with further aircraft agreed",
+      "homeBase": "Sangley Point Naval Air Station",
+      "logo": "philippine-air-force.svg"
+    },
+    {
+      "name": "Algerian Navy",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2025",
+      "fleetSize": "3 (on order/delivery)",
+      "homeBase": "Not publicly disclosed"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "AW159",
+    "howToFind": "As a military helicopter the Wildcat is not required to broadcast ADS-B and flies low, so Flightradar24 sightings are opportunistic - most likely near RNAS Yeovilton, Wattisham Flying Station, or during Royal Navy ship deployments picked up by AIS-linked trackers."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "Army Recognition",
+      "url": "https://www.armyrecognition.com/rss",
+      "topicTag": "AW159 Wildcat"
+    },
+    {
+      "name": "Navy Lookout",
+      "url": "https://www.navylookout.com/feed/",
+      "topicTag": "Wildcat"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "UK Deploys AW159 Wildcat Helicopters to Counter Rising Drone Threats in the Eastern Mediterranean",
+      "source": "Army Recognition",
+      "date": "2026-03-03",
+      "category": "Deployment",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/uk-deploys-aw159-wildcat-helicopters-to-counter-rising-drone-threats-in-the-eastern-mediterranean"
+    },
+    {
+      "title": "UK Navy Wildcat Helicopter Uses Multiple Drones for Live Targeting in First Mission",
+      "source": "Army Recognition",
+      "date": "2026-01-30",
+      "category": "Trials",
+      "url": "https://www.armyrecognition.com/news/navy-news/2026/uk-navy-wildcat-helicopter-uses-multiple-drones-for-live-targeting-in-first-mission"
+    },
+    {
+      "title": "Leonardo mulls Wildcat's future amid dwindling backlog",
+      "source": "Flight Global",
+      "date": "2025-11-10",
+      "category": "Industry",
+      "url": "https://www.flightglobal.com/helicopters/leonardo-mulls-wildcats-future-amid-dwindling-backlog/162203.article"
+    },
+    {
+      "title": "Leonardo nears deal to supply more AW159 Wildcat Helicopters to the Philippines",
+      "source": "Naval News",
+      "date": "2025-10-10",
+      "category": "Orders",
+      "url": "https://www.navalnews.com/naval-news/2025/10/leonardo-nears-deal-to-supply-more-aw159-wildcat-helicopters-to-the-philippines/"
+    },
+    {
+      "title": "Algeria purchases three AW159 Wildcat helicopters to expand the anti-submarine capabilities of Adhafer-class corvettes",
+      "source": "Army Recognition",
+      "date": "2025-04-22",
+      "category": "Orders",
+      "url": "https://armyrecognition.com/news/navy-news/2025/algeria-purchases-three-aw159-wildcat-helicopters-to-expand-the-anti-submarine-capabilities-of-adhafer-class-corvettes"
+    }
+  ],
+  "tags": [
+    "aw159",
+    "wildcat",
+    "lynx wildcat",
+    "future lynx",
+    "agustawestland",
+    "leonardo helicopter",
+    "army air corps",
+    "fleet air arm",
+    "royal navy helicopter",
+    "helicopter"
+  ],
+  "quickFacts": [
+    "The Wildcat looks like a Lynx but really isn't one - about 95% of its parts are new, with only items like the fuel system and main rotor gearbox interchangeable with the old Lynx AH7/HMA8.",
+    "Its BERP IV composite rotor blades trace their lineage to the same rotor technology that helped a Westland Lynx set the outright helicopter speed record in 1986.",
+    "The Army (AH1) and Navy (HMA2) versions share around 98% commonality despite flying very different missions - one scouting the battlefield, the other hunting submarines and ships.",
+    "The naval Sea Venom anti-ship missile, capable of disabling vessels up to 1,000 tonnes, only reached initial operating capability on the Wildcat in October 2025 - sixteen years after the helicopter's first flight.",
+    "South Korea's export version was the type's first-ever foreign sale, arriving before the UK's own Royal Navy variant had completed testing.",
+    "In January 2026 a Royal Navy Wildcat crew fused live video from multiple uncrewed drones into a single targeting picture mid-mission - a glimpse of the crewed-uncrewed teaming role the type may play as it heads toward retirement."
+  ],
+  "article": {
+    "overview": [
+      "The AgustaWestland AW159 Wildcat is a twin-engine multirole helicopter built for the British Army and Royal Navy, developed from the earlier Westland Lynx. It first flew in 2009 and entered British service in 2014, and is also flown by South Korea, the Philippines and Algeria.{{ref:wiki-wildcat}}",
+      "Though it shares the Lynx's silhouette, roughly 95% of the airframe is new, including a strengthened structure, uprated engines and a digital cockpit. The naval HMA2 variant hunts submarines with dipping sonar and anti-ship missiles, while the Army AH1 flies battlefield reconnaissance; the UK's 2026 defence investment plan envisages replacing the type with autonomous systems from 2027.{{ref:armyrec-drone}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Wildcat's roots go back to 1995, when the British government first announced the ageing Westland Lynx fleet would need replacing. What followed was a decade of false starts - refurbishment studies, an all-Merlin fleet floated and dropped, a scaled-back 'Battlefield Reconnaissance Helicopter' requirement - before the Ministry of Defence finally committed to AgustaWestland's Future Lynx proposal and signed a £1 billion contract for 70 aircraft in June 2006.{{ref:wiki-wildcat}}",
+          "The programme was designed from the outset to serve both the British Army's battlefield reconnaissance role and the Royal Navy's Surface Combatant Maritime Rotorcraft requirement from a common airframe - a deliberate two-customers-one-helicopter approach that shaped everything about the design that followed.{{ref:wiki-wildcat}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Despite carrying the Lynx family resemblance, the AW159 is built almost entirely from new components - roughly 95% of the airframe, with only a handful of parts such as the fuel system and main rotor gearbox interchangeable with the legacy Lynx AH7 and HMA8. A new composite tailboom, redesigned nose, strengthened naval-standard undercarriage and a 12,000-flight-hour structural life all extend well beyond what the old Lynx airframe could offer.{{ref:wiki-wildcat}}",
+          "Two LHTEC CTS800-4N turboshafts, each producing around 1,362 shp, drive BERP IV composite main rotor blades through a new transmission - the same BERP rotor-blade lineage that helped a specially modified Lynx set the outright helicopter airspeed record in 1986. The result is a machine over a tonne heavier at maximum takeoff weight than the Super Lynx it replaces, with power to match.{{ref:wiki-wildcat}}",
+          "A four-screen glass cockpit and, on the naval HMA2, a Selex Seaspray 7000E AESA radar and Wescam MX-15HDi electro-optical turret give both variants genuinely modern sensor and mission-management capability - a decisive gap over the analogue-era Lynx it replaced.{{ref:wiki-wildcat}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The Wildcat AH1 entered British Army service on 29 August 2014, with the Royal Navy's HMA2 following into operational deployment at sea in early 2015; within five years both services had fully withdrawn the Lynx. The naval variant quickly found itself doing real maritime security work, supporting Royal Marines boarding teams during the high-profile 2019 seizure of the tanker Grace 1 off Gibraltar amid the standoff over sanctioned Iranian oil.{{ref:guardian-gibraltar}}",
+          "Export success followed the domestic rollout: South Korea became the type's first foreign customer in 2013, taking delivery from 2016, followed by the Philippine Navy from 2019 (with a further batch agreed in 2025) and, most recently, Algeria's navy in 2025 to equip its Adhafer-class corvettes. New Zealand evaluated the Wildcat for its own Maritime Helicopter Replacement programme but selected the Seahawk instead in 2025.{{ref:navalnews-philippines}}",
+          "Weapons integration has been a slower story than the airframe itself: the lightweight Martlet missile reached operational status years before the heavier Sea Venom anti-ship missile, which only achieved initial operating capability in October 2025 - underlining how much of the Wildcat's true multirole potential has arrived well after its 2014 service debut.{{ref:wiki-wildcat}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "In early 2026 the Wildcat found itself at the sharp edge of two emerging threats at once: in January, a Royal Navy crew demonstrated fusing live feeds from multiple uncrewed drones into a single real-time targeting picture, and in March, Martlet-armed HMA2s deployed alongside the destroyer HMS Dragon to the Eastern Mediterranean specifically to counter rising drone activity around Cyprus.{{ref:armyrec-med}}{{ref:armyrec-drone}}",
+          "Yet the type's long-term future in UK service is already in question: Britain's 2026 defence investment plan envisages replacing the Wildcat with autonomous systems, with the reconnaissance AH1 projected to begin retirement from 2027 and the naval HMA2 phased out between 2030 and 2035. Leonardo, meanwhile, is weighing the programme's future amid a thinning order book, with Algeria now its only outstanding customer for the naval variant - a helicopter still proving its worth on operations even as the industry debates whether it gets a successor at all.{{ref:flightglobal-backlog}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-wildcat",
+      "name": "AgustaWestland AW159 Wildcat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AgustaWestland_AW159_Wildcat"
+    },
+    {
+      "id": "guardian-gibraltar",
+      "name": "Iran fury as Royal Marines seize tanker suspected of carrying oil to Syria",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/world/2019/jul/04/royal-marines-gibraltar-tanker-oil-syria-eu-sanctions"
+    },
+    {
+      "id": "navalnews-philippines",
+      "name": "Leonardo nears deal to supply more AW159 Wildcat Helicopters to the Philippines",
+      "publisher": "Naval News",
+      "url": "https://www.navalnews.com/naval-news/2025/10/leonardo-nears-deal-to-supply-more-aw159-wildcat-helicopters-to-the-philippines/"
+    },
+    {
+      "id": "armyrec-drone",
+      "name": "UK Navy Wildcat Helicopter Uses Multiple Drones for Live Targeting in First Mission",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/navy-news/2026/uk-navy-wildcat-helicopter-uses-multiple-drones-for-live-targeting-in-first-mission"
+    },
+    {
+      "id": "armyrec-med",
+      "name": "UK Deploys AW159 Wildcat Helicopters to Counter Rising Drone Threats in the Eastern Mediterranean",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/uk-deploys-aw159-wildcat-helicopters-to-counter-rising-drone-threats-in-the-eastern-mediterranean"
+    },
+    {
+      "id": "flightglobal-backlog",
+      "name": "Leonardo mulls Wildcat's future amid dwindling backlog",
+      "publisher": "Flight Global",
+      "url": "https://www.flightglobal.com/helicopters/leonardo-mulls-wildcats-future-amid-dwindling-backlog/162203.article"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - AgustaWestland AW159 Wildcat",
+      "url": "https://en.wikipedia.org/wiki/AgustaWestland_AW159_Wildcat"
+    },
+    {
+      "name": "Army Recognition - UK Deploys AW159 Wildcat Helicopters to Counter Rising Drone Threats in the Eastern Mediterranean",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/uk-deploys-aw159-wildcat-helicopters-to-counter-rising-drone-threats-in-the-eastern-mediterranean"
+    },
+    {
+      "name": "Army Recognition - UK Navy Wildcat Helicopter Uses Multiple Drones for Live Targeting in First Mission",
+      "url": "https://www.armyrecognition.com/news/navy-news/2026/uk-navy-wildcat-helicopter-uses-multiple-drones-for-live-targeting-in-first-mission"
+    },
+    {
+      "name": "Flight Global - Leonardo mulls Wildcat's future amid dwindling backlog",
+      "url": "https://www.flightglobal.com/helicopters/leonardo-mulls-wildcats-future-amid-dwindling-backlog/162203.article"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-11",
+      "change": "Entry created as a gold-standard test of the new helicopter template: full spec block, article, references and timeline sourced from Wikipedia's AW159 infobox and current 2025-2026 reporting on Sea Venom, Eastern Mediterranean deployment and the UK's planned autonomous-systems replacement.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2023-02-01",
+      "title": "UK fleet-wide grounding over gearbox defect",
+      "summary": "The UK Ministry of Defence temporarily grounded its entire AW159 Wildcat fleet after a routine inspection found a tail rotor gearbox ball race out of tolerance on one aircraft. No accident occurred, and flights resumed within days after fleet-wide checks.",
+      "tag": "Fleet grounding / mechanical defect",
+      "source": "https://www.helihub.com/2023/02/01/uk-temporarily-grounds-aw159-wildcat/"
+    }
+  ]
+}

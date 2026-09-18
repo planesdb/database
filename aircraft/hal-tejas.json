@@ -1,0 +1,279 @@
+{
+  "name": "Tejas",
+  "fullName": "HAL Tejas (Light Combat Aircraft)",
+  "manufacturer": "Hindustan Aeronautics Limited (HAL)",
+  "originCountry": {
+    "name": "India",
+    "code": "in"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Light Multirole Fighter",
+  "tagline": "India's indigenously developed light fighter and the aircraft finally replacing its long-serving MiG-21 fleet. A tailless compound-delta design with quadruplex digital fly-by-wire controls, it represents India's most ambitious indigenous combat aircraft program to date.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "The Light Combat Aircraft program that produced the Tejas was launched in 1983 specifically to replace India's MiG-21 fleet, but the project suffered decades of delay from the technical difficulty of mastering fly-by-wire flight control software, sanctions-related setbacks following India's 1998 nuclear tests that temporarily cut off access to Western avionics and engine technology, and the sheer scale of building a fully indigenous fighter development ecosystem largely from scratch. The aircraft, named 'Tejas' (Sanskrit for 'radiance' or 'brilliance') by then-Prime Minister Atal Bihari Vajpayee, first flew in January 2001 and finally achieved Initial Operational Clearance in 2011 and Final Operational Clearance in 2019, entering frontline Indian Air Force squadron service with No. 45 Squadron ('Flying Daggers') and No. 18 Squadron ('Flying Bullets'). The improved Tejas Mk1A standard, incorporating an active electronically scanned array radar, aerial refuelling capability and reduced maintenance requirements, began deliveries in 2024 following a large Indian Air Force order for 83 aircraft (later expanded), with HAL working to scale up production to meet a demanding delivery schedule amid engine-supply delays from US partner GE Aerospace. A more capable Tejas Mk2, stretched and re-engined with the more powerful GE F414 engine, is in advanced development as a heavier, longer-range successor. The Tejas program has also drawn export interest from several countries in Southeast Asia, Latin America and Africa evaluating it as an affordable alternative to more expensive Western and Russian fighters.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1204,
+      "text": "1,046 kn (1,204 mph / 1,937 km/h)"
+    },
+    "cruiseSpeed": "~560 mph (900 km/h)",
+    "range": {
+      "miles": 1305,
+      "text": "1,305 mi (2,100 km) ferry range; combat radius of roughly 300 mi (485 km) on internal fuel"
+    },
+    "serviceCeiling": {
+      "ft": 52000,
+      "text": "52,000 ft (15,900 m)"
+    },
+    "wingspan": {
+      "ft": 26.83,
+      "text": "26 ft 10 in (8.2 m)"
+    },
+    "length": {
+      "ft": 43.42,
+      "text": "43 ft 5 in (13.2 m)"
+    },
+    "height": {
+      "ft": 14.42,
+      "text": "14 ft 5 in (4.4 m)"
+    },
+    "weight": "empty: 13,955 lb (6,330 kg); MTOW: 29,760 lb (13,500 kg)",
+    "engines": "1 x General Electric F404-GE-IN20 afterburning turbofan, 19,000 lbf thrust with afterburner",
+    "armament": "1 x 23 mm GSh-23 twin-barrel cannon; up to 7,940 lb (3,600 kg) of air-to-air missiles (Astra, R-73, ASRAAM), precision-guided bombs and anti-ship missiles across 8 hardpoints",
+    "crew": "1 (pilot); Tejas twin-seat trainer variant carried 2",
+    "capacity": "N/A - single-seat fighter; up to 7,940 lb (3,600 kg) of external ordnance across 8 hardpoints",
+    "firstFlight": {
+      "date": "2001-01-04",
+      "year": 2001
+    },
+    "serviceEntryDate": "2015-01-17",
+    "retiredDate": null,
+    "numberBuilt": 55,
+    "unitCost": {
+      "usd": 29000000,
+      "text": "~$29M (Tejas Mk1A production standard, 2023-2026 dollars; roughly ₹160-241 crore)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Tejas Mk1",
+      "desc": "Initial production standard, delivered in limited numbers to the first two Indian Air Force squadrons."
+    },
+    {
+      "code": "Tejas Mk1A",
+      "desc": "Improved production standard with AESA radar, electronic warfare suite and aerial refuelling probe, current production version."
+    },
+    {
+      "code": "Tejas Trainer",
+      "desc": "Tandem two-seat conversion trainer variant, structurally near-identical to the single-seat fighter."
+    },
+    {
+      "code": "Tejas Mk2 (in development)",
+      "desc": "Larger, re-engined successor with the more powerful GE F414 engine, greater range and payload, planned to enter service later this decade."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Indian Air Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "~40 delivered; 220+ Mk1/Mk1A on order",
+      "homeBase": "Sulur and Nal airbases, India",
+      "logo": "indian-air-force.webp"
+    },
+    {
+      "name": "Indian Navy (evaluation/trials)",
+      "role": "Trials Operator (naval Tejas variant)",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "Small trials fleet for carrier-capable naval Tejas testing",
+      "homeBase": "INS Hansa shore-based test facility, Goa"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Tejas aircraft are occasionally visible on Flightradar24 during public airshow appearances (including international air shows such as Bahrain, Dubai and Aero India) where the Indian Air Force flies display sorties; routine operational flights from Indian Air Force bases are typically not publicly broadcast."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Defense News",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+      "topicTag": "HAL Tejas"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Tejas programme veteran steps into new role at HAL",
+      "source": "FlightGlobal",
+      "date": "2026-05-01",
+      "category": "Program Update",
+      "url": "https://www.flightglobal.com/fixed-wing/2026/05/tejas-veteran-steps-into-to-job-at-hal/"
+    },
+    {
+      "title": "New HAL chief takes aim at delivery execution for Tejas",
+      "source": "FlightGlobal",
+      "date": "2026-07-01",
+      "category": "Program Update",
+      "url": "https://www.flightglobal.com/fixed-wing/2026/07/new-hal-chief-takes-aim-at-delivery-execution-for-fighters/"
+    }
+  ],
+  "tags": [
+    "hal tejas",
+    "light combat aircraft",
+    "indian air force",
+    "indigenous fighter",
+    "mig-21 replacement",
+    "hindustan aeronautics",
+    "make in india",
+    "delta wing fighter",
+    "tejas mk1a"
+  ],
+  "quickFacts": [
+    "The Tejas took nearly 40 years from program launch (1983) to full squadron service - one of the longest fighter gestations in history.",
+    "It flew 23 years - over 10,000 sorties - before its first crash in 2024, a record no other fighter program matches.",
+    "It is among the smallest and lightest supersonic fighters in the world, with a tailless compound-delta design.",
+    "India has ordered 180+ Tejas Mk1A jets to replace its retired MiG-21s - the type it was conceived to succeed four decades ago.",
+    "A navalised Tejas performed ski-jump launches and arrested landings on INS Vikramaditya in 2020, proving India's indigenous carrier aviation."
+  ],
+  "article": {
+    "overview": [
+      "The HAL Tejas is an Indian single-engine, delta-wing light combat aircraft built by Hindustan Aeronautics Limited. Development began in 1983 to replace the MiG-21, and the type reached Indian Air Force squadrons in 2016.{{ref:wiki-tejas}}",
+      "India has ordered 83 upgraded Tejas Mk1A aircraft, with a further 97 approved, though deliveries have been delayed by General Electric engine supply shortages - roughly thirty completed airframes were awaiting engines in 2026.{{ref:idn-stall}}{{ref:idrw-deliveries}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Light Combat Aircraft program of 1983 had two declared goals: replace the vast MiG-21 fleet, and drag Indian aerospace from licence-assembly into design authority - airframe, engine (Kaveri), radar and flight controls, all indigenous. The ambition was the point; the timeline paid for it.{{ref:wiki-tejas}}",
+          "The technology mountain proved alpine: sanctions after the 1998 nuclear tests cut off partners mid-program, the Kaveri engine never matured (GE's F404 stepped in), and the little delta did not fly until January 2001 - eighteen years in. 'Tejas' (radiance) was bestowed by the Prime Minister two years later.{{ref:wiki-tejas}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Tejas is the smallest fighter in its generation: a tailless compound delta with relaxed stability tamed by an indigenous quadruplex digital fly-by-wire system{{ref:hal-tejas}} - the program's crown jewel - plus extensive composites (around 45% by weight), an Israeli-then-Indian radar line culminating in the domestic Uttam AESA, and an unusually clean safety record: no crashes in over two decades of testing, a rarity for any new fighter.{{ref:wiki-tejas}}",
+          "The Mk1A standard turns prototype-lineage jets into a service fleet: AESA radar, self-protection jammer, aerial refuelling, Astra and Python missiles, and maintainability fixes the Air Force demanded. Beyond it sits the heavier Mk2 with GE F414s built under a landmark technology-transfer deal - the engine sovereignty the Kaveri never delivered, bought a different way.{{ref:wiki-tejas}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "No. 45 Squadron 'Flying Daggers' stood up on the Tejas in July 2016, followed by the 'Bulls' of No. 18 - the type patrolling Indian skies, joining exercises abroad, and drawing consistent praise from pilots for its handling even as numbers stayed thin. A naval variant proved arrested landings aboard INS Vikramaditya and Vikrant, seeding the separate Twin-Engine Deck-Based Fighter program.{{ref:wiki-tejas}}",
+          "The Mk1A order book made the type strategic: 83 aircraft signed in 2021, 97 more cleared in 2024-25 - approaching 350 airframes across variants in the plan - precisely as the last MiG-21 squadrons retired in 2025 and left the Air Force at its lowest squadron strength in decades. The Tejas is no longer an experiment; it is the schedule.{{ref:wiki-tejas}}",
+          "Which is the 2026 drama: GE's F404 line, restarted after years cold, delivered engines late; by mid-2026 some thirty completed Mk1As sat awaiting powerplants, with supply finally steadying - about twenty engines due through December - and HAL targeting first squadron deliveries for August-September 2026, two years behind contract. Three assembly lines now stand ready for the surge.{{ref:idn-stall}}{{ref:idrw-deliveries}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Everything difficult about the Tejas was chosen: an indigenous engine program that failed forward into knowledge, radar and EW suites that matured over decades, and a national supply chain - public HAL plus a widening private tier - assembled around the aircraft. India priced sovereignty in years and paid.{{ref:wiki-tejas}}",
+          "The dividend is the roadmap: Mk1A production at three lines, Mk2 prototypes ahead, the F414 built in India with transferred technology, and the AMCA fifth-generation programme staffed by engineers the LCA trained.{{ref:wiki-tejas}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "As procurement, the Tejas took four decades from launch to fleet. As a nation-building programme, its record is stronger: India now designs fighters, writes flight-control law, integrates AESA radars and negotiates engine technology transfer from a position no 1983 planner had.{{ref:wiki-tejas}}",
+          "Its next few years will determine deliveries: engines arriving, squadrons forming as the MiG-21 fleet retires, and exports being courted from Southeast Asia to South America.{{ref:idrw-deliveries}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-tejas",
+      "name": "HAL Tejas",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HAL_Tejas"
+    },
+    {
+      "id": "idn-stall",
+      "name": "HAL's Tejas Mk-1A Deliveries Stall Despite Engines And Airframes In Inventory",
+      "publisher": "Indian Defence News",
+      "url": "https://www.indiandefensenews.in/2026/05/hals-tejas-mk-1a-deliveries-stall.html"
+    },
+    {
+      "id": "idrw-deliveries",
+      "name": "HAL Says Tejas Mk1A Deliveries Expected to Begin by August-September 2026",
+      "publisher": "IDRW",
+      "url": "https://idrw.org/hal-says-tejas-mk1a-deliveries-expected-to-begin-by-august-september-2026/"
+    },
+    {
+      "id": "hal-tejas",
+      "name": "LCA Tejas",
+      "publisher": "Hindustan Aeronautics Limited",
+      "url": "https://hal-india.co.in/product_details?product=27"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - HAL Tejas",
+      "url": "https://en.wikipedia.org/wiki/HAL_Tejas"
+    },
+    {
+      "name": "Hindustan Aeronautics Limited - LCA Tejas program page",
+      "url": "https://hal-india.co.in/product/lca"
+    },
+    {
+      "name": "Indian Ministry of Defence - Tejas program updates",
+      "url": "https://www.pib.gov.in/"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and the 2026 Mk1A delivery situation.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-11",
+      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2024-03-12",
+      "title": "First-ever Tejas crash, near Jaisalmer",
+      "summary": "An IAF Tejas Mk1 crashed during a training exercise near Jaisalmer, Rajasthan, reportedly after an engine failure. The pilot ejected safely — the first crash of the type since its maiden flight 23 years earlier.",
+      "fatalities": 0,
+      "tag": "Training accident",
+      "source": "https://www.tribuneindia.com/news/india/tejas-crashes-pilot-ejects-safely-599896"
+    },
+    {
+      "date": "2025-11-21",
+      "title": "Fatal crash at the Dubai Airshow",
+      "summary": "An IAF Tejas Mk1 crashed during an aerobatic display at Dubai Airshow 2025, entering a low-altitude manoeuvre before losing altitude and striking the ground. The pilot was killed.",
+      "fatalities": 1,
+      "tag": "Display crash",
+      "source": "https://www.twz.com/air/fatal-crash-of-indias-tejas-light-fighter-mars-dubai-airshow"
+    }
+  ]
+}

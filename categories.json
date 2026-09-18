@@ -1,0 +1,11 @@
+[
+  { "slug": "all-aircraft", "name": "All Aircraft", "icon": "all", "description": "Browse the entire PlanesDB database." },
+  { "slug": "military", "name": "Military", "icon": "military", "description": "Fighters, bombers, transports and more." },
+  { "slug": "civilian", "name": "Civilian", "icon": "civilian", "description": "Commercial, private and general aviation." },
+  { "slug": "fighter-jets", "name": "Fighter Jets", "icon": "fighter", "description": "Air superiority and multirole fighters." },
+  { "slug": "cargo", "name": "Cargo Planes", "icon": "cargo", "description": "Heavy-lift and logistics aircraft." },
+  { "slug": "bombers", "name": "Bombers", "icon": "bomber", "description": "Long-range strike and heavy bomber aircraft." },
+  { "slug": "spy-planes", "name": "Spy Planes", "icon": "spy", "description": "Reconnaissance and intelligence aircraft." },
+  { "slug": "helicopters", "name": "Helicopters", "icon": "helicopter", "description": "Rotary-wing aircraft of all kinds." },
+  { "slug": "drones", "name": "Drones", "icon": "drone", "description": "Military and professional unmanned aircraft - not off-the-shelf consumer drones." }
+]

@@ -1,0 +1,357 @@
+{
+  "name": "F-35C Lightning II",
+  "fullName": "Lockheed Martin F-35C Lightning II",
+  "manufacturer": "Lockheed Martin",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Carrier-Based Stealth Fighter",
+  "tagline": "The world's only 5th-generation long-range stealth strike fighter built for carrier operations. With larger wings, folding wingtips and the greatest internal fuel capacity of all F-35 variants, it gives the US Navy and Marine Corps a persistent low-observable strike platform at sea.",
+  "status": "In Service",
+  "inProduction": true,
+  "history": "Developed out of the competitive Joint Strike Fighter program alongside the A and B models, the F-35C was tailored to replace legacy F/A-18C/D Hornets as the premier offensive asset for U.S. Navy Carrier Strike Groups. The first production F-35C completed its initial test flights following the program's framework, and after meticulous carrier qualification trials aboard nuclear-powered supercarriers, the U.S. Navy officially declared Initial Operating Capability (IOC) on February 28, 2019. It marked its milestone first operational deployment in 2021 aboard the USS Carl Vinson, cementing 5th-generation network-centric warfare and sensor fusion on the flight deck.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 1200,
+      "text": "1,043 kn (1,200 mph / 1,931 km/h)"
+    },
+    "cruiseSpeed": "~700 mph (Mach 0.95)",
+    "range": {
+      "miles": 1380,
+      "text": ">1,200 nmi unrefueled (>600 nmi combat radius on internal fuel)"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft"
+    },
+    "wingspan": {
+      "ft": 43,
+      "text": "43 ft 0 in (13.1 m) unfolded; 29.8 ft folded"
+    },
+    "length": {
+      "ft": 51.5,
+      "text": "51 ft 6 in (15.7 m)"
+    },
+    "height": {
+      "ft": 14.7,
+      "text": "14 ft 8 in (4.48 m)"
+    },
+    "weight": "empty: 34,800 lb (15,785 kg); MTOW: 70,000 lb class (31,750 kg)",
+    "engines": "1 x Pratt & Whitney F135-PW-100 afterburning turbofan (40,000 lbf Max thrust)",
+    "armament": "No internal gun (can carry external 25mm GAU-22/A pod); 2x internal weapons bays holding heavy munitions like 2,000 lb GBU-31 JDAMs and AIM-120 AMRAAMs; external wing stations for supplementary air-to-air and precision-strike weapons",
+    "crew": "1 (pilot)",
+    "capacity": "Up to 18,000 lb (8,160 kg) of weapons payload",
+    "firstFlight": {
+      "date": "2010-06-06",
+      "year": 2010
+    },
+    "serviceEntryDate": "2019-02-28",
+    "retiredDate": null,
+    "numberBuilt": 150,
+    "unitCost": {
+      "usd": 94400000,
+      "text": "$94.4M (Lot 14 flyaway airframe cost framework)"
+    },
+    "combatLosses": "None lost to enemy action. One F-35C total loss: 24 January 2022, ramp-strike mishap aboard USS Carl Vinson in the South China Sea (pilot error, per a February 2023 Navy investigation). The airframe was recovered from roughly 12,400 ft of water on 2 March 2022 but assessed as unsalvageable due to saltwater intrusion; it was not returned to flying status."
+  },
+  "variants": [
+    {
+      "code": "F-35A",
+      "desc": "Conventional Takeoff and Landing (CTOL) variant optimized for air forces operating out of traditional runways, featuring an integrated internal cannon."
+    },
+    {
+      "code": "F-35B",
+      "desc": "Short Takeoff and Vertical Landing (STOVL) variant utilizing a shaft-driven lift fan for operation from amphibious assault vessels and austere landing strips."
+    },
+    {
+      "code": "F-35C",
+      "desc": "Carrier Variant (CV) optimized with structural reinforcements, folding outer wings, larger control surfaces, and dual-wheel nose gear for heavy catapult launches and tailhook traps."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Navy",
+      "role": "Primary Carrier Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "Drafting toward 273 planned airframes",
+      "homeBase": "NAS Lemoore",
+      "logo": "usaf.webp"
+    },
+    {
+      "name": "United States Marine Corps",
+      "role": "Carrier-Air-Wing Integrated Operator",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "67 planned",
+      "homeBase": "MCAS Miramar",
+      "logo": "usmc.webp"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F35",
+    "howToFind": "Search public flight trackers for the shared ICAO type identifier 'F35'. Ground-based training trajectories originate predictably around NAS Lemoore (California) or off-station areas around Miramar. Active aircraft carrier tracking is visual, as tracking data over international waters is normally suppressed."
+  },
+  "lastUpdated": "2026-07-31",
+  "newsSourceFeeds": [
+    {
+      "name": "USNI News",
+      "url": "https://news.usni.org/category/fleet/aviation/feed",
+      "topicTag": "F-35C"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "Pentagon considers massive new order for more F-35 Lightning IIs",
+      "source": "19FortyFive",
+      "date": "2026-04-01",
+      "category": "Program Update",
+      "url": "https://www.19fortyfive.com/2026/04/the-u-s-military-wants-to-place-a-massive-order-for-more-f-35-lightning-ii-stealth-fighters/"
+    },
+    {
+      "title": "F-35 programme chief warns fleet has outgrown its support system amid record-low readiness",
+      "source": "Military Times",
+      "date": "2026-06-24",
+      "category": "Readiness",
+      "url": "https://www.militarytimes.com/news/your-military/2026/06/24/f-35-program-chief-warns-fleet-has-outgrown-its-support-system-amid-record-low-readiness/"
+    }
+  ],
+  "tags": [
+    "f-35",
+    "f35",
+    "f-35c",
+    "lightning",
+    "lightning-ii",
+    "carrier-variant",
+    "catobar",
+    "stealth-fighter",
+    "usn",
+    "usmc",
+    "lockheed-martin"
+  ],
+  "quickFacts": [
+    "The F-35C has the biggest wing of any F-35 - 43% more area than the A-model - for slow, precise carrier approaches.",
+    "Its wingtips fold, its landing gear is beefed for catapult shots, and it carries nearly 20,000 lb of internal fuel - the longest-legged F-35.",
+    "The US Navy's first F-35C combat deployment sailed in 2021 aboard USS Carl Vinson.",
+    "When one crashed into the South China Sea in 2022, the US raced to recover it from 12,400 ft down before anyone else could - and did.",
+    "It's the rarest variant: only the US Navy and Marine Corps fly the C.",
+    "In 2024, USMC squadron VMFA-314 flying F-35Cs from USS Abraham Lincoln struck Houthi targets in Yemen - the first combat use of the carrier variant."
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed Martin F-35C Lightning II is the carrier-based variant of the F-35 Joint Strike Fighter, developed for the US Navy and Marine Corps.{{ref:wiki-jsf-program}} Compared with the F-35A and F-35B, it has a larger wing, longer-travel landing gear and larger internal fuel tanks to withstand catapult launches and arrested landings.{{ref:globalsecurity-c}}",
+      "A redesigned tailhook failed repeatedly during 2011 trials before Lockheed Martin and the Navy fixed it; the F-35C first trapped aboard USS Nimitz in November 2014, and in 2024 it became the first F-35 variant to drop weapons in combat from a carrier deck.{{ref:aviationist-hook-2012}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The F-35C's lineage runs back to two Pentagon efforts that merged in the mid-1990s: the Defense Advanced Research Projects Agency's Common Affordable Lightweight Fighter program and the Joint Advanced Strike Technology initiative the Pentagon stood up in 1993 to find a common jet for the Navy, Air Force, Marine Corps, and the UK's Royal Navy.{{ref:wiki-jsf-program}} Renamed the Joint Strike Fighter in 1995, the program forced Lockheed Martin and Boeing to each build two flying technology demonstrators - the X-35 and the X-32 - that had to prove they could do conventional takeoff, carrier launch and recovery, and short takeoff/vertical landing from a single basic design.{{ref:wiki-jsf-program}}",
+          "On 26 October 2001, the Department of Defense picked the Lockheed Martin X-35, judging its shaft-driven lift-fan approach to short takeoff and vertical landing a better bet than Boeing's direct-lift-engine X-32, even though both demonstrators met or exceeded the requirements put in front of them.{{ref:wiki-f35}} It was the single largest fighter contract in American history. The X-35 became the F-35 Lightning II, with the carrier-capable F-35C as one of three derivative airframes sharing roughly 80 percent of their parts and, crucially, a common mission systems architecture."
+        ]
+      },
+      {
+        "heading": "Avionics & Sensor Fusion",
+        "paragraphs": [
+          "What actually sets the F-35 family apart from earlier fighters isn't stealth alone - it's the way the jet fuses inputs from its AN/APG-81 active electronically scanned array radar, the distributed aperture system's six infrared cameras providing a stitched 360-degree view around the airframe, and the electro-optical targeting system slung under the nose into one integrated picture the pilot sees on a single panoramic touchscreen display.{{ref:af-f35-fact}} For a carrier air wing, that fusion turns the F-35C into something closer to an airborne quarterback than a traditional strike fighter: it can pull data from every other jet, ship, and sensor on the network, build the tactical picture, and quietly hand off targeting information to older Super Hornets and Growlers flying the same strike package without ever using its own radar in a way that would give away its position.",
+          "None of that came cheap or on schedule. The program's Autonomic Logistics Information System, meant to automate maintenance and parts ordering fleet-wide, became such a persistent headache - slow, unreliable in the field, and disliked by maintainers - that the Pentagon began retiring it in the early 2020s in favor of a cloud-based replacement called the Operational Data Integrated Network, or ODIN, which has continued rolling out to F-35 units through the mid-2020s.{{ref:af-odin}} Combined with the Block 4 modernization effort and its new Technology Refresh 3 core processor and cockpit hardware, the upgrade path has been as much about fixing how the jet is supported as what it can shoot."
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The F-35C is, structurally, the odd sibling. It carries the largest wing of any Lightning II variant - a 43-foot span with a 668-square-foot wing area, roughly 45 percent more lifting surface than the F-35A or F-35B, plus larger wingtip and tail control surfaces sized specifically to give the jet gentler, more predictable handling during the slow, high-angle-of-attack approach a carrier landing demands.{{ref:globalsecurity-c}} The outer wing panels fold hydraulically just outboard of the weapons stations, shrinking the span to roughly 29.8 ft so two F-35Cs can ride a deck elevator side by side or squeeze into a carrier's hangar bay - a packaging problem the Air Force and Marine variants simply don't have.",
+          "Underneath, the landing gear is a different animal entirely: a reinforced, long-stroke twin-wheel nose gear built to survive the compression of a catapult shot and the shock of trapping, married to a strengthened airframe and tailhook assembly stressed for repeated arrested landings that would fatigue a land-based fighter's structure in short order. The F-35C also carries the largest internal fuel fraction of the three variants, giving it the longest unrefuelled range in the family - because a carrier air wing operating far from friendly divert fields needs range and endurance more than it needs a few extra knots of top speed.{{ref:globalsecurity-c}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Every carrier jet needs a hook that reliably snags one of four arresting wires strung across the landing area, and in 2011 the F-35C's did not. A Defense Department quick-look report that November revealed that all eight run-in and rolling engagement tests at Naval Air Engineering Station Lakehurst that August had failed outright - the hook simply skipped over the wire time after time.{{ref:aviationist-hook-2012}} The root cause, once engineers traced it, was a nasty piece of stealth-driven geometry: to keep the hook tucked inside the fuselage for a clean radar signature, Lockheed had placed it closer to the main landing gear than on any prior carrier jet, which left too little time for the wire - lying flush against the deck after the wheels rolled over it - to spring back up before the hook point passed. A flawed wire-dynamics model supplied to Lockheed by Naval Air Systems Command compounded the problem by understating how the hook needed to behave on contact.{{ref:usni-hook-2013}}",
+          "The fix took engineers back to the drawing board on the hook point's shape and the hold-down damper that controls how it bounces on touchdown, with a redesigned assembly tested at Lakehurst starting in 2012 and refined further over the following two years.{{ref:usni-hook-2013}} On 3 November 2014, Navy test pilot Cmdr. Tony Wilson brought an F-35C aboard USS Nimitz off the coast of San Diego and caught the wire clean on the first attempt - the type's first successful arrested landing, with a second F-35C repeating the feat the same afternoon.{{ref:militarytimes-hook-2014}}"
+        ]
+      },
+      {
+        "heading": "Operational History",
+        "paragraphs": [
+          "The Navy declared initial operational capability for the F-35C on 28 February 2019, built around Strike Fighter Squadron 147, the 'Argonauts,' after the squadron completed carrier qualifications and safe-for-flight certification aboard USS Carl Vinson the previous December.{{ref:usni-ioc-2019}} VFA-147 carried that milestone into the fleet's first real-world test in August 2021, when Carl Vinson sailed for the Indo-Pacific with the Navy's first fully integrated F-35C air wing, Carrier Air Wing 2, alongside the new CMV-22B Osprey - a deployment billed at the time as a proof of concept for how a 21st-century carrier air wing would actually fight.{{ref:usni-deploy-2021}}",
+          "That deployment also produced the type's worst single loss. On 24 January 2022, an F-35C assigned to Carrier Air Wing 2 made a fast, high-angle 'Sierra Hotel break' approach to Carl Vinson in the South China Sea; the pilot didn't realize a power-compensation aid was switched off, the jet arrived underpowered, and its nose struck the aft edge of the flight deck. The landing gear collapsed, the fighter slid off the angled deck into the water, and the pilot ejected safely. Seven sailors were injured on the flight deck by flying debris, three of them evacuated to a hospital in Manila.{{ref:usni-mishap-2022}} A Navy investigation released in February 2023 attributed the crash to pilot error, but not to recklessness.{{ref:usni-investigation-2023}}",
+          "Because the jet went down in roughly 12,400 feet of water in a stretch of the South China Sea China claims as its own, the Navy moved fast: a salvage team working off the commercial diving support vessel Picasso used a CURV-21 remotely operated vehicle to rig the wreck and hoist it to the surface, completing the recovery within about five weeks, on 2 March 2022.{{ref:usni-recovery-2022}} Investigators later noted that weeks of saltwater intrusion at that depth had likely destroyed any salvage value in the airframe's components, but recovering it denied any possibility of Chinese access to the downed jet's classified coatings, systems, and structure.{{ref:usni-recovery-2022}}",
+          "The Marine Corps flies the F-35C too, integrating Marine squadrons into Navy carrier air wings rather than operating them separately. VMFA-314, the 'Black Knights,' transitioned from the F/A-18 in 2019 and became the first Marine F-35C squadron to deploy aboard a carrier. In 2024, deployed with Carrier Air Wing 9 aboard USS Abraham Lincoln, VMFA-314's jets were diverted into U.S. Central Command's fight against Houthi forces in Yemen - putting F-35C bombs on target for the first time in the type's history and marking the first combat employment of any F-35 variant from a carrier deck.{{ref:aviationist-vmfa314}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "By the mid-2020s the F-35C fleet had grown past 100 delivered airframes, with Lockheed marking the 100th F-35C handover to the Navy in December 2024, and the type is now a standard fixture aboard deploying carriers rather than a novelty.{{ref:aviationist-100th}} The bigger story for the F-35C - as for the whole F-35 fleet - has become sustainment rather than development. Government Accountability Office reporting through the mid-2020s has repeatedly flagged spare-parts shortages, contractor dependence, and readiness rates below program goals, even as the Pentagon pushes ahead with the Block 4 upgrade package and its new Technology Refresh 3 processing core.{{ref:gao-sustainment}} The F-35C is now one of the most expensive aircraft types the Department of Defense operates to keep flying, measured by total sustainment cost."
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-jsf-program",
+      "name": "Joint Strike Fighter program",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joint_Strike_Fighter_program"
+    },
+    {
+      "id": "wiki-f35",
+      "name": "Lockheed Martin F-35 Lightning II",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"
+    },
+    {
+      "id": "af-f35-fact",
+      "name": "F-35A Lightning II Fact Sheet",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/478441/f-35a-lightning-ii/"
+    },
+    {
+      "id": "af-odin",
+      "name": "F-35 Joint Program Office moves to new logistics system, ODIN",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/f-35-alis-odin-logistics/"
+    },
+    {
+      "id": "globalsecurity-c",
+      "name": "F-35C Carrier Variant Joint Strike Fighter (JSF)",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/f-35c.htm"
+    },
+    {
+      "id": "aviationist-hook-2012",
+      "name": "\"F-35C unable to land aboard aircraft carriers\" report says",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2012/01/09/f-35c-hook-problems/"
+    },
+    {
+      "id": "usni-hook-2013",
+      "name": "Lockheed: New Carrier Hook for F-35",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2013/12/12/lockheed-new-carrier-hook-f-35"
+    },
+    {
+      "id": "militarytimes-hook-2014",
+      "name": "F-35C makes first arrested landing on aircraft carrier",
+      "publisher": "Military Times",
+      "url": "https://www.militarytimes.com/news/your-military/2014/11/04/f-35c-makes-first-arrested-landing-on-aircraft-carrier/"
+    },
+    {
+      "id": "usni-ioc-2019",
+      "name": "Navy Declares Initial Operational Capability for F-35C Joint Strike Fighter",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2019/02/28/navy-declares-initial-operational-capability-for-f-35c-joint-strike-fighter"
+    },
+    {
+      "id": "usni-deploy-2021",
+      "name": "First F-35C Fighters, CMV-22B Deploy with Carl Vinson Carrier Strike Group",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2021/08/02/first-f-35c-fighters-cmv-22b-deploy-with-carl-vinson-carrier-strike-group"
+    },
+    {
+      "id": "usni-mishap-2022",
+      "name": "Pilot Ejects After F-35 Lightning II 'Landing Mishap' on USS Carl Vinson in South China Sea",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2022/01/24/f-35-lightning-ii-has-landing-mishap-on-uss-carl-vinson-in-south-china-sea"
+    },
+    {
+      "id": "usni-investigation-2023",
+      "name": "Pilot Error Caused South China Sea F-35C Crash, Investigation Says",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2023/02/21/pilot-error-after-sierra-hotel-break-resulted-in-south-china-sea-f-35c-crash-investigation-says"
+    },
+    {
+      "id": "usni-recovery-2022",
+      "name": "UPDATED: Navy Recovers Crashed F-35C From Depths of South China Sea",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2022/03/03/navy-recovers-crashed-f-35c-from-depths-of-south-china-sea"
+    },
+    {
+      "id": "aviationist-vmfa314",
+      "name": "VMFA-314 F-35Cs Return From Combat With Some Interesting Bomb Markings",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2024/12/15/vmfa-314-f-35cs-return-from-combat-with-some-interesting-bomb-markings/"
+    },
+    {
+      "id": "aviationist-100th",
+      "name": "Lockheed Martin Has Delivered The 100th F-35C",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2024/12/20/lockheed-martin-delivered-100th-f-35c/"
+    },
+    {
+      "id": "gao-sustainment",
+      "name": "F-35 Sustainment: Actions Needed to Ensure Updated Strategy Improves Persistent Readiness Challenges",
+      "publisher": "U.S. Government Accountability Office",
+      "url": "https://www.gao.gov/products/gao-26-108113"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Lockheed Martin - F-35C Lightning II Fast Facts & Specifications",
+      "url": "https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/documents/F-35/FG19-24749_004%20F35FastFacts4_2020.pdf"
+    },
+    {
+      "name": "Lockheed Martin - Everything You Need to Know about the F-35C",
+      "url": "https://www.f35.com/f35/news-and-features/everything-you-need-to-know-about-the-f-35c.html"
+    },
+    {
+      "name": "Military.com - F-35C Equipment Profile",
+      "url": "https://www.military.com/equipment/f-35c-lightning-ii"
+    },
+    {
+      "name": "Simple Flying - A Guide To The Variants Of The F-35 Lightning II",
+      "url": "https://simpleflying.com/f-35-lightning-fighter-jet-variants-guide/"
+    }
+  ],
+  "survivors": {
+    "intro": "The F-35C remains in full-rate production and active front-line service with the U.S. Navy and Marine Corps, so - unlike many older types in this database - none have yet been retired to museum display. Every airframe built is either in the fleet, in test and evaluation, or, in one case, was briefly on the floor of the South China Sea. The January 2022 Carl Vinson mishap aircraft was recovered from roughly 12,400 feet of water in March 2022, but investigators concluded that weeks of saltwater intrusion had likely destroyed any salvage value in its components; it was returned to a military installation to support the crash investigation rather than preserved for display, and no evidence indicates it was subsequently placed on public exhibit. No F-35C prototype or early test airframe, including CF-1, the first aircraft built, has been confirmed as retired to a museum collection as of this writing.",
+    "airframes": []
+  },
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved. Also renamed magazine-style section headings to plain factual ones.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2022-01-24",
+      "title": "Ramp strike aboard USS Carl Vinson",
+      "summary": "An F-35C suffered a ramp strike while landing on USS Carl Vinson in the South China Sea and fell into the water. The pilot ejected, seven sailors aboard the carrier were injured, and a Navy investigation attributed the crash to pilot error during a high-g manoeuvre.",
+      "fatalities": 0,
+      "tag": "Carrier landing accident",
+      "source": "https://news.usni.org/2023/02/21/pilot-error-after-sierra-hotel-break-resulted-in-south-china-sea-f-35c-crash-investigation-says"
+    },
+    {
+      "date": "2025-07-30",
+      "title": "Crash near NAS Lemoore",
+      "summary": "An F-35C crashed near Naval Air Station Lemoore, California. The pilot ejected safely; the cause was under investigation.",
+      "fatalities": 0,
+      "tag": "Ejection",
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Lockheed_Martin_F-35_Lightning_II"
+    }
+  ]
+}

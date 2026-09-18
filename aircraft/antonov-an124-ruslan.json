@@ -1,0 +1,314 @@
+{
+  "name": "An-124 Ruslan",
+  "fullName": "Antonov An-124 Ruslan",
+  "manufacturer": "Antonov",
+  "originCountry": {
+    "name": "Ukraine",
+    "code": "ua"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Strategic Outsize Freighter",
+  "tagline": "The An-124 Ruslan is a four-engine strategic freighter designed by Antonov in Kyiv for Soviet Military Transport Aviation and first flown in December 1982. It is the heaviest cargo aircraft in operation anywhere, able to swallow 120 tonnes through a nose door and a rear ramp, and only 57 were ever built.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "It loads through both ends: the entire nose hinges upward and the tail has its own ramp, so vehicles can be driven straight through the aircraft",
+    "The landing gear kneels, dropping the nose to reduce the loading ramp angle, and spreads the aircraft's weight across 24 wheels",
+    "Two overhead cranes rated at 30 tonnes and winches good for 120 tonnes mean the crew can load without any ground equipment at all",
+    "In May 1987 an An-124 flew 20,151 km without refuelling in 25.5 hours, and in July 1985 one lifted 171,219 kg to 2,000 m - both world records at the time",
+    "It has carried locomotives, the Obelisk of Axum, a concrete pump sent to cool the Fukushima reactors, Delhi Metro railcars and SpaceX rocket fairings",
+    "It needs a crew of eight, including a navigator and a radio operator - a Soviet-era flight deck arrangement no Western freighter of its generation still uses"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the An-124-100, the civil-certified standard that most operators fly. The single An-124-100M-150 conversion raises payload to 150 tonnes and maximum takeoff weight to 420 tonnes on uprated D-18T Series 4 engines.",
+    "maxSpeed": {
+      "mph": 537,
+      "text": "467 kn (537 mph / 865 km/h)"
+    },
+    "cruiseSpeed": "497-528 mph (800-850 km/h)",
+    "range": {
+      "miles": 2300,
+      "text": "2,300 mi (3,700 km, 2,000 nmi) at max payload; 8,700 mi (14,000 km) ferry"
+    },
+    "serviceCeiling": {
+      "ft": 39000,
+      "text": "39,000 ft (12,000 m)"
+    },
+    "wingspan": {
+      "ft": 241,
+      "text": "240 ft 6 in (73.3 m)"
+    },
+    "length": {
+      "ft": 227,
+      "text": "226 ft 8 in (69.1 m)"
+    },
+    "height": {
+      "ft": 69,
+      "text": "69 ft 2 in (21.08 m)"
+    },
+    "weight": "empty: 399,037 lb (181,000 kg); MTOW: 886,258 lb (402,000 kg)",
+    "engines": "Four Progress D-18T high-bypass turbofans, 51,000 lbf (226.8 kN) each; D-18T Series 4 on the -150 standard",
+    "crew": "8 (pilot, co-pilot, navigator, chief flight engineer, electrical flight engineer, radio operator and two loadmasters)",
+    "capacity": "264,555 lb (120,000 kg) of freight in a titanium-floored hold 118 ft (36 m) long, 21 ft (6.4 m) wide and 14 ft 5 in (4.4 m) high; 88 passengers on the upper deck aft of the wing, or up to 350 on a palletised seating system in the hold",
+    "firstFlight": {
+      "date": "1982-12-24",
+      "year": 1982
+    },
+    "serviceEntryDate": "1986-01-01",
+    "retiredDate": null,
+    "numberBuilt": 57,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the type was built for Soviet state airlift rather than an open market, the last airframe was completed in 2004, and no new aircraft has been offered for sale since; outsize air freight is quoted as a charter rate, not a purchase price",
+      "inflationText": null
+    },
+    "combatLosses": "One aircraft has been lost to hostile action: Antonov Airlines' UR-82009 was destroyed by Russian artillery at Antonov Airport, Hostomel, on 24 February 2022, alongside the sole An-225."
+  },
+  "variants": [
+    {
+      "code": "An-124 (Condor)",
+      "desc": "The original military standard delivered to Soviet Military Transport Aviation from 1986, carrying 120 tonnes and equipped for airdrop and paratroop work as well as vehicle freight. Aircraft in this configuration lacked the civil avionics and certification of the later -100 and were flown to military rather than commercial rules. The Russian Aerospace Forces still operate the surviving examples of this batch."
+    },
+    {
+      "code": "An-124-100",
+      "desc": "The civil-certified version, granted its type certificate on 30 December 1992, which opened the type to commercial heavy-lift charter work. It is the standard almost every operator now flies, with a 120-tonne payload and Western-compatible navigation and communications fitted progressively over the following decades. Antonov Airlines and Volga-Dnepr between them account for most of the surviving fleet."
+    },
+    {
+      "code": "An-124-100M-150",
+      "desc": "A single An-124-100 converted to carry 150 tonnes at a 420-tonne maximum takeoff weight, using uprated Lotarev D-18T Series 4 engines. The conversion was aimed at the small number of loads that exceed 120 tonnes, where the aircraft would otherwise have no competitor at all. Only one aircraft was completed to this standard."
+    },
+    {
+      "code": "An-124-200 / -210 / -300 (proposals)",
+      "desc": "A series of re-engining and re-equipping proposals, none of which produced a fleet. The -200 and -210 would have fitted General Electric CF6-80C2 and Rolls-Royce engines respectively, the latter offered with Air Foyle for the UK's Short Term Strategic Airlift requirement - a competition the Boeing C-17 won. The -300, ordered by the Russian Aerospace Forces in 2020, was to have upgraded engines and systems."
+    },
+    {
+      "code": "An-124-102 Slon (successor)",
+      "desc": "A Russian clean-sheet replacement design studied by TsAGI rather than a variant of the aircraft, sharing the mission but not the airframe. It would be substantially larger at 82.3 m long, with PD-35 engines producing about 50 percent more thrust than the Ukrainian-built D-18T, removing the dependence on Progress that sanctions made untenable. Wind tunnel work ran through 2019 and the first test cycle completed in March 2020."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Antonov Airlines",
+      "role": "Civil Heavy-Lift Operator",
+      "status": "In Service",
+      "since": "1989",
+      "fleetSize": "7 (5 active, operating from Leipzig since 2022)",
+      "homeBase": "Leipzig/Halle Airport, Germany - temporarily, in place of Antonov Airport, Hostomel"
+    },
+    {
+      "name": "Volga-Dnepr Airlines",
+      "role": "Civil Heavy-Lift Operator",
+      "status": "In Service",
+      "since": "1990",
+      "fleetSize": "12 at the time of the 2022 invasion; operations heavily curtailed by sanctions and at least one aircraft seized abroad",
+      "homeBase": "Ulyanovsk Vostochny Airport, Russia"
+    },
+    {
+      "name": "Russian Aerospace Forces",
+      "role": "Military Strategic Airlift Operator",
+      "status": "In Service",
+      "since": "1992",
+      "fleetSize": "~20 inherited from the Soviet fleet, supporting long-range deployments including the 2018 Venezuela bomber detachment",
+      "homeBase": "Migalovo Air Base, Tver"
+    },
+    {
+      "name": "Soviet Air Forces (Military Transport Aviation)",
+      "role": "Original Operator (historical)",
+      "status": "Retired (superseded by successor states, 1991)",
+      "since": "1986",
+      "fleetSize": "Around 26 delivered before the Soviet collapse",
+      "homeBase": "Seshcha and Migalovo Air Bases"
+    },
+    {
+      "name": "Maximus Air Cargo",
+      "role": "Civil Heavy-Lift Operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "1",
+      "homeBase": "Abu Dhabi International Airport, United Arab Emirates"
+    },
+    {
+      "name": "NATO Strategic Airlift Interim Solution (SALIS)",
+      "role": "Charter Programme (historical)",
+      "status": "Retired",
+      "since": "2006",
+      "fleetSize": "6 aircraft chartered from Antonov Airlines and Volga-Dnepr on behalf of 18 member nations, 2 of them kept permanently at Leipzig/Halle",
+      "homeBase": "Leipzig/Halle Airport, Germany"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A124",
+    "howToFind": "Antonov Airlines aircraft are the reliable ones to catch: filter for type A124 and watch Leipzig/Halle, which has been the company's operating base since 2022, with Prestwick, Shannon and Bangor recurring as transatlantic fuel stops. Registrations are UR-82007 through UR-82073. Russian-registered RA-82xxx aircraft appear far less often, since sanctions have shut them out of most Western airspace."
+  },
+  "lastUpdated": "2026-09-09",
+  "changelog": [
+    {
+      "date": "2026-09-09",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, European Security & Defence, The Aviationist and Cargo Facts.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Ruslan",
+    "Condor",
+    "An124",
+    "Antonov 124",
+    "Outsize Cargo"
+  ],
+  "article": {
+    "overview": [
+      "The An-124 Ruslan is a four-engine, high-wing strategic freighter designed by the Antonov bureau in Kyiv to give Soviet Military Transport Aviation the heavy airlift it lacked. Design work began in 1971 under the internal designation Izdeliye 400, the prototype flew on 24 December 1982, and the type entered service in 1986 with the NATO reporting name Condor. {{ref:wiki-an124}}",
+      "Fifty-seven were built between 1982 and 2004, and it remains the heaviest cargo aircraft in operation, carrying 120 tonnes through a hinged nose and a rear ramp at a maximum takeoff weight of 886,258 lb. By 2013 the type had visited 768 airports in more than 100 countries. Production ended long before demand did, and the 2022 invasion of Ukraine split the surviving fleet along a political line that has yet to be resolved. {{ref:wiki-an124}} {{ref:cargofacts-2022}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Soviet heavy airlift in the 1970s topped out at the An-22 turboprop, which could not move the largest items the Ground Forces and the space programme needed shifted. Antonov began design work in 1971 on a jet freighter roughly matched to the American C-5 Galaxy, and produced an aircraft of similar layout and greater payload, though with a conventional empennage in place of the C-5's T-tail. {{ref:wiki-an124}}",
+          "The result was, at the time, the heaviest aircraft in the world. The design also carried more composite material than any previous Soviet aircraft, with carbon fibre accounting for about 5 percent of structural weight alongside extensive use of titanium in the cargo floor and load paths. The type was granted civil certification on 30 December 1992, which is what allowed a military airlifter to become a commercial charter aircraft. {{ref:wiki-an124}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Loading dictated the airframe. The entire nose section hinges upward and the tail has its own ramp, so vehicles can be driven in one end and out the other rather than reversed, and the landing gear kneels to lower the nose and flatten the ramp angle. The gear spreads the aircraft's weight across 24 wheels on five twin-wheel legs per side, which is what allows an aircraft of this mass onto runways not built for it. Two overhead travelling cranes rated at 30 tonnes and winches good for 120 tonnes make the aircraft self-loading at fields with no equipment. {{ref:wiki-an124}}",
+          "The hold measures 118 by 21 by 14 ft 5 in, and its titanium floor is what lets the aircraft take concentrated point loads that would punch through an aluminium deck. Four Progress D-18T turbofans of 51,000 lbf each drive it, and the flight deck is worked by a crew of eight including a navigator and a radio operator. Range falls away sharply with weight: 2,300 mi at maximum payload against 8,700 mi empty, and 4,500 nmi at an 80-tonne load, so a genuinely full aircraft usually means a fuel stop - which is why Prestwick, Shannon and Bangor recur so often in An-124 flight tracks. Takeoff needs 3,000 m of runway, though it lands in 900 m. {{ref:wiki-an124}}"
+        ]
+      },
+      {
+        "heading": "From Soviet Airlift to Commercial Heavy Lift",
+        "paragraphs": [
+          "Around 26 aircraft reached Soviet Military Transport Aviation before 1991, after which the fleet split between Russia and Ukraine along with everything else. What followed was unusual: rather than being scrapped or mothballed, the aircraft found a commercial market that had never existed before, because nothing in Western service could carry what they could. Antonov Airlines and Volga-Dnepr built businesses on it, and by late 2020 three civil operators between them flew 20 aircraft: Volga-Dnepr 12, Antonov Airlines 7 and Maximus Air Cargo 1. {{ref:wiki-an124}}",
+          "NATO became a customer of its own former adversary's airlifter. Under the Strategic Airlift Interim Solution, six An-124-100s were chartered from Antonov Airlines and Volga-Dnepr on behalf of 18 member nations, with two kept permanently at Leipzig/Halle - the arrangement that filled the alliance's outsize airlift gap until enough C-17s arrived. {{ref:wiki-an124}}"
+        ]
+      },
+      {
+        "heading": "What It Actually Carries",
+        "paragraphs": [
+          "The An-124's commercial niche is defined by loads that will not fit in anything else. It moved the first IE 201 Class diesel-electric locomotive from Canada to Ireland in June 1994, the Obelisk of Axum back to Ethiopia in April 2005, the first Bombardier Movia railcar for the Delhi Metro in February 2009, skimmer boats for the Deepwater Horizon cleanup in July 2010, and a Putzmeister concrete pump to Japan in April 2011 to pour water onto the Fukushima reactors. {{ref:wiki-an124}}",
+          "Industrial logistics is the steady business underneath the headline cargoes - an 87,000 lb press tool flown from Michigan to England in May 2018 to restart Ford F-150 production after a supplier fire, satellites for Space Systems Loral, Atlas V hardware for United Launch Alliance and payload fairings for SpaceX. The type also holds two records set in its first years: 171,219 kg lifted to 2,000 m in July 1985, and 20,151 km flown without refuelling in 25.5 hours in May 1987. {{ref:wiki-an124}}"
+        ]
+      },
+      {
+        "heading": "War, Sanctions & the Split Fleet",
+        "paragraphs": [
+          "On 24 February 2022 Russian forces attacked Antonov Airport at Hostomel, destroying UR-82009 along with the sole An-225 and wrecking the company's premises. Five Antonov An-124s that happened to be away on missions were rehomed at Leipzig; a sixth, UR-82073, was sitting in Kyiv completely disassembled for an upgrade. Volga-Dnepr's 12 aircraft were shut out of Western airspace by sanctions almost immediately, one of them impounded at Toronto Pearson after Canada closed its airspace to Russian operators and formally seized in June 2023. {{ref:wiki-an124}} {{ref:cargofacts-2022}}",
+          "The immediate effect was a global shortage of outsize airlift, in a market where operators had been able to name their price for loads nothing else could take. The recovery of UR-82073 shows what the split costs in practice: Antonov had to replace Russian-built components that could no longer be maintained with Ukrainian and Western equivalents before the aircraft could fly again. Built in 1994 with over 21,000 hours and 5,500 flights behind it, it left Kyiv for Leipzig on 11 July 2025, more than three years after the work stopped. {{ref:eurosd-2025}} {{ref:aviationist-2025}}"
+        ]
+      },
+      {
+        "heading": "Replacement Prospects & Outlook",
+        "paragraphs": [
+          "Restarting production has been announced repeatedly and never achieved. A Russo-Ukrainian joint venture was agreed in April 2008 for a 2008 restart; United Aircraft Corporation cancelled its 2009-2012 plans; President Medvedev ordered a resumption in late 2009 with 20 aircraft anticipated; and the whole effort stopped in August 2014 when relations between the two countries broke down. In January 2019 Antonov announced it would restart without Russian involvement. Nothing has been laid down. {{ref:wiki-an124}}",
+          "Both sides have since aimed at a successor rather than a restart, and each faces the same problem from opposite directions: the engines are Ukrainian and the largest customer base was Russian. Russia's TsAGI-designed An-124-102 Slon would use domestic PD-35 engines instead of the D-18T; Antonov has no engine problem but no production line either. In the meantime the surviving airframes carry loads nothing else can take, and every one lost is a permanent reduction in world capacity. {{ref:wiki-an124}} {{ref:eurosd-2025}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-an124",
+      "name": "Antonov An-124 Ruslan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan"
+    },
+    {
+      "id": "eurosd-2025",
+      "name": "Antonov Airlines returns stranded An-124 Ruslan airlifter back into service",
+      "publisher": "European Security & Defence",
+      "url": "https://euro-sd.com/2025/07/major-news/45583/an-124-returned-to-service/"
+    },
+    {
+      "id": "aviationist-2025",
+      "name": "Stranded An-124 Rejoins Antonov Fleet at Leipzig",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2025/07/19/an124-leaves-kyiv/"
+    },
+    {
+      "id": "cargofacts-2022",
+      "name": "Giant cargo jets sidelined by Russia's invasion of Ukraine",
+      "publisher": "Cargo Facts",
+      "url": "https://cargofacts.com/allposts/carriers/giant-cargo-jets-sidelined-by-russias-invasion-of-ukraine/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Antonov An-124 Ruslan",
+      "url": "https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan"
+    },
+    {
+      "name": "Volga-Dnepr Airlines Flight 4066",
+      "url": "https://en.wikipedia.org/wiki/Volga-Dnepr_Airlines_Flight_4066"
+    },
+    {
+      "name": "Canada Keeps Seized Russian An-124 Grounded",
+      "url": "https://aerocorner.com/news/volga-dnepr-an124-toronto-sanctions-ruling/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1992-10-13",
+      "title": "Nose door failure on a test flight near Kyiv",
+      "tag": "Structural failure (test flight)",
+      "summary": "Antonov's USSR-82002 was lost near Kyiv when the nose cargo door failed during a high-speed descent, causing a total loss of control. Eight of the nine crew on board were killed.",
+      "fatalities": 8,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan"
+    },
+    {
+      "date": "1993-11-15",
+      "title": "Mountain impact near Kerman, Iran",
+      "tag": "Controlled flight into terrain",
+      "summary": "Aviastar Airlines' RA-82071 struck a mountain at around 11,000 ft near Kerman in Iran, killing 17 people on board.",
+      "fatalities": 17,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan"
+    },
+    {
+      "date": "1996-10-08",
+      "title": "Go-around crash at Turin",
+      "tag": "Loss of control on go-around",
+      "summary": "RA-82069, an Aeroflot aircraft operated by Ajax Cargo, crashed during a go-around at Turin. Four people were killed.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan"
+    },
+    {
+      "date": "1997-12-06",
+      "title": "Crash into an Irkutsk residential district",
+      "tag": "Crash after takeoff",
+      "summary": "Russian Air Force RA-82005 came down into a residential area of Irkutsk shortly after takeoff. All 23 on board and 45 people on the ground were killed - the deadliest accident involving the type.",
+      "fatalities": 68,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan"
+    },
+    {
+      "date": "2020-11-13",
+      "title": "Uncontained engine failure at Novosibirsk",
+      "tag": "Engine failure",
+      "summary": "Volga-Dnepr's RA-82042 suffered an uncontained engine failure after takeoff from Novosibirsk, ran off the runway on the return landing and collapsed its nose gear. Nobody was hurt. Volga-Dnepr grounded its entire An-124 fleet on 25 November for engine inspections, returning the first aircraft to service on 29 December.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan"
+    },
+    {
+      "date": "2022-02-24",
+      "title": "Destroyed at Antonov Airport, Hostomel",
+      "tag": "Destroyed by artillery",
+      "summary": "Antonov Airlines' UR-82009 was destroyed by Russian artillery during the battle for Antonov Airport at Hostomel on the opening day of the full-scale invasion, alongside the company's sole An-225 Mriya. Five other An-124s that were away on missions were rehomed at Leipzig.",
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan"
+    },
+    {
+      "date": "2023-06-09",
+      "title": "Russian An-124 seized at Toronto Pearson",
+      "tag": "Aircraft seized",
+      "summary": "A Russian-registered An-124 that had been stranded at Toronto Pearson since Canada closed its airspace to Russian operators in February 2022 was formally seized by the Canadian government.",
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan"
+    },
+    {
+      "date": "2025-07-11",
+      "title": "UR-82073 returns to service after three years in Kyiv",
+      "tag": "Return to service",
+      "summary": "An-124 UR-82073, left completely disassembled at Sviatoshyn near Kyiv when the invasion began, flew from Kyiv to Leipzig after Antonov replaced Russian-built components with Ukrainian and Western equivalents. Built in 1994, it had logged over 21,000 flight hours and 5,500 flights before the work began.",
+      "source": "https://euro-sd.com/2025/07/major-news/45583/an-124-returned-to-service/"
+    }
+  ]
+}

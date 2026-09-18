@@ -1,0 +1,22 @@
+{
+  "id": "japan-air-self-defense-force",
+  "slug": "japan-air-self-defense-force",
+  "name": "Japan Air Self-Defense Force",
+  "shortName": "JASDF",
+  "type": "military",
+  "country": {
+    "name": "Japan",
+    "code": "jp"
+  },
+  "founded": "1954-07-01",
+  "foundedDisplay": "1 July 1954",
+  "headquarters": "Ichigaya, Shinjuku, Tokyo, Japan",
+  "logo": "jasdf.webp",
+  "website": null,
+  "tagline": "Shaped by a constitution that rules out offensive war, and the first air force anywhere to put an AESA radar in a fighter.",
+  "bio": [
+    "Constituted on 1 July 1954, the JASDF was designed around Article 9 of Japan's postwar constitution, which renounces war as a sovereign right. The practical effect was an air force built almost entirely for interception and territorial defence: no strategic bombers, no long-range strike, and no aerial refuelling capability at all until the first KC-767s arrived in 2008. What it did invest in was quality and quantity of fighters, licence-building close to 200 F-15Js through Mitsubishi Heavy Industries - the largest Eagle fleet outside the United States Air Force.",
+    "That industrial base produced the Mitsubishi F-2, developed with Lockheed Martin from the F-16 with a larger co-cured composite wing and a longer nose. Its J/APG-1 was the first active electronically scanned array radar to enter squadron service on any fighter, in 1995, several years ahead of the American programmes that made the technology standard. The service now operates the F-35A and F-35B alongside the F-15J and F-2, and the Blue Impulse team flies the Kawasaki T-4."
+  ],
+  "matchPattern": "japan air self-?defen[sc]e force|\\bjasdf\\b"
+}

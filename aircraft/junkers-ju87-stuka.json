@@ -1,0 +1,275 @@
+{
+  "name": "Junkers Ju 87",
+  "fullName": "Junkers Ju 87 Sturzkampfflugzeug (Stuka)",
+  "manufacturer": "Junkers Flugzeug- und Motorenwerke",
+  "originCountry": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "WWII Dive Bomber",
+  "tagline": "The gull-winged, siren-screaming dive bomber that terrorised the early campaigns of the Blitzkrieg. Fitted with wind-driven 'Jericho Trumpet' sirens that shrieked during its near-vertical attack dives, it became a psychological weapon as much as a physical one.",
+  "status": "Retired",
+  "inProduction": false,
+  "history": "Developed under chief designer Hermann Pohlmann and first flown in 1935, the Ju 87 was built from the outset around the dive-bombing concept championed by Luftwaffe planners, with an automatic pull-out system to save pilots who blacked out under high g-forces during their attack dive. It proved devastatingly effective in the opening campaigns of the war, providing pinpoint close air support that shattered Polish defences in September 1939 and spearheaded the fast-moving Blitzkrieg through France and the Low Countries in 1940, working in close coordination with advancing German armoured columns. Its reputation as a terror weapon peaked during these campaigns, the Jericho Trumpet sirens deliberately amplifying the psychological effect on troops and refugees below. However, the Battle of Britain exposed its fatal weakness: slow, lightly armed and unable to defend itself against fast monoplane fighters, Stuka losses to RAF Hurricanes and Spitfires became so severe in August 1940 that the type was withdrawn from the campaign entirely. It found renewed effectiveness on the Eastern Front from 1941, particularly in the tank-busting Ju 87G variant armed with two 37mm underwing cannon, flown to devastating effect against Soviet armour by ace pilot Hans-Ulrich Rudel, the most highly decorated German serviceman of the war, credited with destroying over 500 tanks. Around 6,500 Stukas were built in total before production ended in 1944 as the type was rendered increasingly obsolete by Allied air superiority.",
+  "specifications": {
+    "specificationsNote": "",
+    "maxSpeed": {
+      "mph": 255,
+      "text": "222 kn (255 mph / 410 km/h)"
+    },
+    "cruiseSpeed": "~198 mph (320 km/h)",
+    "range": {
+      "miles": 500,
+      "text": "500 mi (800 km)"
+    },
+    "serviceCeiling": {
+      "ft": 26247,
+      "text": "26,247 ft (8,000 m)"
+    },
+    "wingspan": {
+      "ft": 45.25,
+      "text": "45 ft 3 in (13.8 m)"
+    },
+    "length": {
+      "ft": 36.08,
+      "text": "36 ft 1 in (11.0 m)"
+    },
+    "height": {
+      "ft": 12.83,
+      "text": "12 ft 9 in (3.9 m)"
+    },
+    "weight": "empty: 6,400 lb (2,900 kg); loaded: 9,370 lb (4,250 kg)",
+    "engines": "1 x Junkers Jumo 211Da liquid-cooled inverted V-12, 1,200 hp (Ju 87B)",
+    "armament": "2 x fixed forward-firing 7.92 mm MG 17 machine guns + 1 x flexible rear-firing MG 15; up to 1,540 lb (700 kg) of bombs; Ju 87G 'tank-buster' variant replaced bombs with 2 x 37 mm BK 3.7 underwing cannon",
+    "crew": "2 (pilot and rear gunner/radio operator)",
+    "capacity": "Bomb load of up to 1,540 lb (700 kg), typically a single 500 kg bomb on a swinging cradle that pivoted clear of the propeller during the dive",
+    "firstFlight": {
+      "date": "1935-09-17",
+      "year": 1935
+    },
+    "serviceEntryDate": "1937-01-01",
+    "retiredDate": "1945-05",
+    "numberBuilt": 6500,
+    "unitCost": {
+      "usd": 4700,
+      "text": "~$4,700 wartime unit cost (roughly 35,000 Reichsmarks at contemporary exchange rates) - roughly $91,000 in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$91,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "Ju 87B",
+      "desc": "Main early-war production version used in Poland, France and the Battle of Britain, fitted with the distinctive Jericho Trumpet sirens."
+    },
+    {
+      "code": "Ju 87D",
+      "desc": "Improved, more heavily armoured version with a more powerful engine, the most numerous variant overall, used extensively on the Eastern Front."
+    },
+    {
+      "code": "Ju 87G",
+      "desc": "Dedicated tank-busting conversion carrying two underwing 37mm cannon in place of bombs, famously flown by ace Hans-Ulrich Rudel."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Luftwaffe",
+      "role": "Sole Wartime Operator",
+      "status": "Retired",
+      "since": "1937",
+      "fleetSize": "~6,500 built total",
+      "homeBase": "Airbases across every European front, 1939-1945",
+      "logo": "luftwaffe.webp"
+    },
+    {
+      "name": "Regia Aeronautica (Italy)",
+      "role": "Allied Operator",
+      "status": "Retired",
+      "since": "1940",
+      "fleetSize": "~150 (transferred aircraft)",
+      "homeBase": "Italian and North African airbases"
+    },
+    {
+      "name": "Royal Bulgarian Air Force",
+      "role": "Allied Operator",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "~30",
+      "homeBase": "Bulgarian airbases",
+      "logo": "bulgarian-air-force.svg"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No original Ju 87 remains airworthy anywhere in the world; wreckage recoveries occasionally surface from Eastern Front crash sites and are restored to static museum condition, but the type has not flown since the 1940s."
+  },
+  "lastUpdated": "2026-09-09",
+  "newsSourceFeeds": [
+    {
+      "name": "Key.Aero",
+      "url": "https://www.key.aero/feed",
+      "topicTag": "Junkers Ju 87"
+    }
+  ],
+  "seedNews": [
+    {
+      "title": "FHCAM's Junkers Ju 87 Stuka heads to new facility for final restoration phase",
+      "source": "Vintage Aviation News",
+      "date": "2025-06-30",
+      "category": "Restoration",
+      "url": "https://vintageaviationnews.com/restorations/fhcams-junkers-ju-87-stuka-heads-to-new-facility-for-final-restoration-phase.html"
+    }
+  ],
+  "tags": [
+    "junkers ju 87",
+    "stuka",
+    "dive bomber",
+    "wwii bomber",
+    "world war 2",
+    "luftwaffe",
+    "jericho trumpet",
+    "hans-ulrich rudel",
+    "blitzkrieg",
+    "close air support"
+  ],
+  "quickFacts": [
+    "The Stuka's 'Jericho trumpet' sirens were pure psychological warfare - wind-driven and deliberately terrifying, they were later removed because they cost 20 mph.",
+    "It had an automatic dive-recovery system that would pull out of the dive even if the pilot blacked out under g.",
+    "Stuka pilot Hans-Ulrich Rudel flew 2,530 combat missions and was credited with destroying 519 tanks - the most decorated German serviceman of the war.",
+    "In the Battle of Britain it was slaughtered - entire Stuka groups were withdrawn after losing a fifth of their strength in days.",
+    "Late-war 'Kanonenvogel' Stukas carried two 37 mm cannon pods and hunted Soviet armour at point-blank range."
+  ],
+  "article": {
+    "overview": [
+      "The Junkers Ju 87 Stuka is a German single-engine dive bomber built by Junkers, first flown in 1935. Fitted with wind-driven sirens nicknamed 'Jericho Trumpets', it became closely associated with the German Blitzkrieg campaigns of 1939-40.{{ref:wiki-ju87}}",
+      "The Stuka was highly effective while the Luftwaffe held air superiority but suffered heavy losses once it did not, and was withdrawn from the Battle of Britain after five weeks. Around 6,000 were built, including a cannon-armed anti-tank variant flown on the Eastern Front by Hans-Ulrich Rudel, the most-decorated German serviceman of the war.{{ref:wiki-ju87}}{{ref:wiki-rudel}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Dive bombing was the 1930s' answer to a real problem: level bombers couldn't hit anything small. Diving the whole aircraft at the target turned the machine into the bombsight, and Ernst Udet - WWI ace turned Luftwaffe procurement chief - came home from a 1933 American demonstration a dive-bombing evangelist. The Sturzkampfflugzeug ('diving combat aircraft', Stuka for short) requirement followed.{{ref:wiki-ju87}}",
+          "Junkers' design, first flown in 1935, embraced ugliness in service of function: inverted gull wings clearing a huge propeller and stout fixed undercarriage, dive brakes, a bomb crutch that swung the main weapon clear of the prop, and - crucially - an automatic dive-recovery system that pulled the aircraft out even if its pilot had blacked out under the 6g recovery.{{ref:wiki-ju87}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "A Stuka attack was procedure made terror: roll inverted into an 80-90 degree dive through a window in the cockpit floor, red tabs on the wings confirming dive angle, siren screaming, release at around 450 metres triggered by altimeter, automatic pull-out crushing the crew while the bomb flew on into a circle a fraction the size any level bomber could manage.{{ref:wiki-ju87}}",
+          "Everything else was sacrificed to that dive. Fixed gear and slab sides made it slow (~390 km/h) and defensively helpless - one rear gunner against pursuit fighters - which mattered little over Poland and everything over Kent. The airframe's toughness, at least, was real: Stukas routinely came home shredded.{{ref:wiki-ju87}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "From Poland through France, the Stuka was Blitzkrieg's flying artillery: smashing strongpoints, bridges and columns minutes ahead of the panzers, sinking more ships at Dunkirk than the Luftwaffe managed anywhere else in the West. Where German fighters ruled above it, the system was devastating.{{ref:wiki-ju87}}",
+          "The Battle of Britain broke the spell in five weeks: against radar-directed Spitfires and Hurricanes the slow, unescortable Stuka suffered catastrophic losses - 18 August 1940, the 'Hardest Day', cost entire Gruppen - and it was withdrawn from the battle, the first unambiguous sign that the Luftwaffe could be beaten.{{ref:wiki-hardestday}}",
+          "The East gave it a second life. Over the Mediterranean it crippled carriers and cruisers; over Russia, where air cover came and went, the cannon-armed Ju 87G 'Kanonenvogel' - two 37mm guns under the wings - became the war's premier tank-killer in the hands of Hans-Ulrich Rudel, who flew a scarcely believable 2,530 combat sorties, was credited with 519 tanks and a battleship, was shot down some 30 times, and finished the war flying with one leg amputated.{{ref:wiki-rudel}}"
+        ]
+      },
+      {
+        "heading": "Development",
+        "paragraphs": [
+          "Around 6,000 Stukas were built through D-model refinements and the G tank-buster, long after the type's obsolescence was obvious - Germany's dive-bomber replacement programs failed serially, so the Ju 87 soldiered to 1944 before ground-attack Fw 190s finally displaced it. Its production story is the Reich's in miniature: brilliant early specialisation, no viable successor, attrition without answer.{{ref:wiki-ju87}}",
+          "Only a handful survive - two complete examples in Chicago and London{{ref:iwm-ju87}}, plus wrecks under restoration - making the most infamous aircraft of 1940 one of the rarest today.{{ref:wiki-ju87}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Stuka wrote the template of close air support - the concept every A-10, Su-25 and armed drone descends from - and simultaneously taught its limits: precision attack aircraft live and die by air superiority, a lesson re-learned in every war since. Doctrine textbooks still open the CAS chapter in a screaming dive.{{ref:wiki-ju87}}",
+          "Culturally it remains the sound of terror-from-above: the siren is cinema shorthand for air attack itself. That an aircraft should be remembered chiefly for a noise fitted to frighten civilians is, perhaps, the most honest legacy of what it was for.{{ref:wiki-ju87}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-ju87",
+      "name": "Junkers Ju 87",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Junkers_Ju_87"
+    },
+    {
+      "id": "wiki-rudel",
+      "name": "Hans-Ulrich Rudel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hans-Ulrich_Rudel"
+    },
+    {
+      "id": "wiki-hardestday",
+      "name": "The Hardest Day",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Hardest_Day"
+    },
+    {
+      "id": "iwm-ju87",
+      "name": "Junkers Ju 87 Stuka",
+      "publisher": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/collections/item/object/30011670"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Junkers Ju 87",
+      "url": "https://en.wikipedia.org/wiki/Junkers_Ju_87"
+    },
+    {
+      "name": "Deutsches Museum - Junkers Ju 87 collection notes",
+      "url": "https://www.deutsches-museum.de/en/"
+    },
+    {
+      "name": "Imperial War Museums - The Stuka Dive Bomber",
+      "url": "https://www.iwm.org.uk/collections/item/object/205019955"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-07-10",
+      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-07-31",
+      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-09-09",
+      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "author": "planesdb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1939-08-15",
+      "title": "Neuhammer dive-bombing disaster",
+      "summary": "During a dive-bombing demonstration for senior Luftwaffe commanders near Neuhammer, 26 Ju 87Bs dove through cloud far lower than forecast. Thirteen aircraft struck the ground, killing all 26 crew aboard them.",
+      "fatalities": 26,
+      "tag": "Weather/CFIT",
+      "source": "https://en.wikipedia.org/wiki/1939_Neuhammer_disaster"
+    },
+    {
+      "date": "1940-08-18",
+      "title": "Withdrawn from the Battle of Britain after heavy losses",
+      "summary": "Heavy losses to Ju 87 formations attacking targets including Thorney Island and Poling led the Luftwaffe to withdraw the Stuka from daylight operations over Britain for the rest of the battle.",
+      "tag": "Combat loss",
+      "source": "https://theaviationgeekclub.com/heres-why-luftwaffe-lost-20-of-its-ju-87-stuka-dive-bombers-during-the-battle-of-britain-even-though-they-were-escorted-by-fighters/"
+    },
+    {
+      "date": "1942-04-01",
+      "title": "Shot down west of Murmansk",
+      "summary": "A Ju 87R-2 was attacked by Soviet fighters while bombing Murmansk and crashed in the wilderness, where it lay undiscovered until recovered by a private collector in the early 1990s.",
+      "tag": "Combat loss",
+      "source": "https://www.ww2wrecks.com/portfolio/the-junkers-ju-87r-2-stuka-wk-nr-6234-l1fw-restoration-project-at-the-flying-heritage-combat-armor-museum/"
+    }
+  ]
+}
