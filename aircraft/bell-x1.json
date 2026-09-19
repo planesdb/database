@@ -1,0 +1,422 @@
+{
+  "name": "X-1",
+  "fullName": "Bell X-1",
+  "manufacturer": "Bell Aircraft Corporation",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Supersonic Research Aircraft",
+  "tagline": "The Bell X-1 was a rocket-powered research aircraft built for the US Army Air Forces and the NACA, and the first aircraft to fly faster than the speed of sound in level flight. Six airframes flew 214 flights between 1946 and 1958, and the first of them now hangs in the Smithsonian's Milestones of Flight hall.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The X-1 could not carry enough propellant to take off and still do its job, so a B-29 carried it to about 25,000 ft in its bomb bay and dropped it; the rocket then burned for only a few minutes.",
+    "Yeager cracked two ribs falling from a horse two days before the supersonic flight, told only his wife and project engineer Jack Ridley, and used the end of a broom handle as a lever to seal the cockpit hatch.",
+    "The Air Force classified the 14 October 1947 flight and all its data Top Secret within two hours; word did not leak until December, and the achievement was not officially confirmed until March 1948.",
+    "Three of the six airframes were destroyed by explosions eventually traced to tricresyl phosphate, used to treat leather gaskets, which turned impact-sensitive in contact with liquid oxygen.",
+    "The first-generation aircraft had no ejection seat - the only way out was to release the side hatch into the slipstream and climb over the wing. Only the rebuilt X-1E got a canopy and a seat.",
+    "The fuselage was shaped after a .50-calibre machine gun bullet, a form already known to stay stable above the speed of sound."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the first-generation X-1 (46-062 and 46-063) as flown. The longer second-generation X-1A, X-1B and X-1D and the rebuilt X-1E were heavier and considerably faster, reaching Mach 2.44 and 90,440 ft. Two dates in this entry are disputed between sources: NASA's First Generation X-1 fact sheet gives 19 January 1946 for the first glide flight while NASA's own X-vehicle inventory says 25 January, and the Smithsonian attributes both the Mach 1.45 speed and the 71,900 ft altitude to the 26 March 1948 flight, while the altitude is separately credited to Frank Everest in August 1949. The speed and ceiling below are the type's bests rather than one flight's figures.",
+    "maxSpeed": {
+      "mph": 957,
+      "text": "832 kn (957 mph / 1,540 km/h)"
+    },
+    "cruiseSpeed": "N/A - the X-1 had no cruise regime; the rocket burned for a few minutes and the rest of each flight was an unpowered glide",
+    "range": {
+      "miles": null,
+      "text": "N/A - air-launched and glided back to the lakebed, so no range figure applies"
+    },
+    "serviceCeiling": {
+      "ft": 71900,
+      "text": "71,900 ft (21,900 m)"
+    },
+    "wingspan": {
+      "ft": 28,
+      "text": "28 ft 0 in (8.53 m)"
+    },
+    "length": {
+      "ft": 30.92,
+      "text": "30 ft 11 in (9.42 m)"
+    },
+    "height": {
+      "ft": 10.83,
+      "text": "10 ft 10 in (3.30 m)"
+    },
+    "weight": "empty: 7,000 lb (3,175 kg); launch weight: 12,250 lb (5,557 kg) at drop",
+    "engines": "1 x Reaction Motors XLR11-RM-3 four-chamber liquid-fuel rocket, 6,000 lbf (27 kN) total, burning ethyl alcohol and water with liquid oxygen",
+    "crew": "1 (pilot)",
+    "capacity": "None - more than 500 lb (227 kg) of flight-test instrumentation was carried in place of any useful load",
+    "firstFlight": {
+      "date": "1946-01-19",
+      "year": 1946
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1958-11-06",
+    "numberBuilt": 6,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the X-1s were built under a 1945 Army Air Forces research contract and no per-aircraft price was published; the airframes were never offered for sale",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "X-1-1 (46-062)",
+      "desc": "The first airframe, named Glamorous Glennis by Chuck Yeager after his wife. It carried the thinner of the two original wings, at 8 per cent thickness-to-chord ratio, and was assigned to the Air Force's accelerated push to Mach 1. It flew 78 times, made the first supersonic flight on 14 October 1947, and was retired to the Smithsonian after Yeager's final flight in it on 12 May 1950."
+    },
+    {
+      "code": "X-1-2 (46-063)",
+      "desc": "The second airframe, fitted with a thicker 10 per cent wing so that the two aircraft could be compared directly. It was flown by the NACA on the slower, more detailed transonic research series the programme existed for, under pilots including Herbert Hoover, Howard Lilly, Robert Champine, Scott Crossfield and Joe Walker. It made its 54th and last flight as an X-1-2 on 23 October 1951."
+    },
+    {
+      "code": "X-1-3 (46-064)",
+      "desc": "Externally identical to the first two aircraft but fitted with a turbopump instead of the heavy nitrogen pressurisation spheres, which raised its calculated maximum to Mach 2.4. Funding cuts and turbopump problems delayed it three years, the Air Force cancelled it, and the NACA took it on. It made one glide flight before being destroyed in a ground explosion on 9 November 1951."
+    },
+    {
+      "code": "X-1A (48-1384)",
+      "desc": "The first of the second-generation aircraft to fly, built for dynamic stability research with a cylindrical fuselage four and a half feet longer, a stepped canopy and a turbopump fuel system. Yeager flew it to Mach 2.44 on 12 December 1953 and Arthur Murray to 90,440 ft on 26 August 1954. It was destroyed by an explosion during a countdown on 8 August 1955."
+    },
+    {
+      "code": "X-1B (48-1385)",
+      "desc": "Built for air load and aerodynamic heating research and fitted with 300 thermocouples for heating data. Transferred to the NACA in December 1954, it was later modified with hydrogen peroxide reaction-control thrusters on a wingtip, the aft fuselage and the tail to test control at dynamic pressures too low for aerodynamic surfaces - directly feeding the X-15 programme. It is the only second-generation airframe to survive."
+    },
+    {
+      "code": "X-1C (48-1387)",
+      "desc": "Planned as an armament testbed carrying a .50-calibre machine gun in the nose and a gun sight for the pilot, to investigate how weapons and gunnery behaved in the high transonic and supersonic range. It was cancelled while still at the mockup stage and no airframe was ever completed, which is why the programme is usually counted as six aircraft rather than seven."
+    },
+    {
+      "code": "X-1D (48-1386)",
+      "desc": "Built for heat transfer research and the first second-generation aircraft delivered to Edwards, arriving in July 1951. Jean Ziegler made its only flight, a glide on 24 July that damaged the nose gear on landing. Its first powered flight, on 22 August 1951, was aborted after a loss of nitrogen pressure; jettisoning the propellant triggered an explosion and the aircraft was dropped and destroyed."
+    },
+    {
+      "code": "X-1E",
+      "desc": "A rebuild of 46-063 rather than a new airframe. It received wings only three and three-eighths inches thick at the root, carrying over 200 pressure openings and 343 strain gauges, plus a turbopump fuel system, an upward-opening canopy and the family's only ejection seat. Joe Walker flew 21 of its 26 flights and John McKay the last five, reaching Mach 2.24 on 8 October 1957."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Development and Test Operator",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "4 (X-1-1, X-1A, X-1B and X-1D)",
+      "homeBase": "Muroc Army Air Field, later Edwards Air Force Base, California"
+    },
+    {
+      "name": "National Advisory Committee for Aeronautics",
+      "role": "Research Operator",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "5 received (X-1-2, X-1-3, X-1A, X-1B and the X-1E rebuild)",
+      "homeBase": "NACA High-Speed Flight Station, Edwards, California"
+    },
+    {
+      "name": "United States Army Air Forces",
+      "role": "Programme Sponsor",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "3 ordered under the 1945 MX-653 contract",
+      "homeBase": "Pinecastle Army Airfield, Florida, then Muroc Army Air Field, California"
+    },
+    {
+      "name": "Bell Aircraft Corporation",
+      "role": "Contractor Test Operator",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "All 6 airframes flew a contractor phase",
+      "homeBase": "Buffalo, New York; flight testing at Pinecastle and Muroc"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No X-1 has flown since 6 November 1958 and the three survivors are static museum exhibits, so the type cannot appear on Flightradar24. Glamorous Glennis hangs in the Boeing Milestones of Flight Hall at the National Air and Space Museum in Washington, DC, the X-1B is in the Research and Development Gallery at the National Museum of the US Air Force near Dayton, Ohio, and the X-1E sits on a pole outside NASA's Armstrong Flight Research Center at Edwards."
+  },
+  "lastUpdated": "2026-09-19",
+  "changelog": [
+    {
+      "date": "2026-09-19",
+      "change": "Entry created - full article, specifications, variants, operators, survivors and incident log written from NASA Armstrong fact sheets, Smithsonian National Air and Space Museum collection records and the National Museum of the US Air Force.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "XS-1",
+    "Glamorous Glennis",
+    "Chuck Yeager",
+    "sound barrier",
+    "Mach 1",
+    "rocket plane",
+    "X-1A",
+    "X-1E"
+  ],
+  "article": {
+    "overview": [
+      "The Bell X-1 was a rocket-powered research aircraft built by the Bell Aircraft Corporation for the US Army Air Forces and the National Advisory Committee for Aeronautics, and the first aircraft to exceed the speed of sound in controlled level flight. Capt. Charles 'Chuck' Yeager flew the first airframe, 46-062, to Mach 1.06 - about 700 mph - at 43,000 ft over the Mojave Desert on 14 October 1947. {{ref:nasm-glennis}} {{ref:nasa-first-gen}}",
+      "Six airframes were completed and flew 214 flights between 1946 and 1958. The X-1 also established the idea of an aircraft built purely for research, with no military or commercial requirement attached to it, and the pattern it set - air launch from a bomber, a few minutes of rocket power, then an unpowered glide onto a dry lakebed - ran through the X-plane programmes that followed it as far as the X-15. {{ref:nasa-x1-overview}} {{ref:nasa-first-gen}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The X-1 came out of a problem neither wind tunnels nor existing aircraft could solve. By the early 1940s aircraft were meeting both subsonic and supersonic airflow over their wings, producing compressibility effects, sharply increased drag, trim changes, severe turbulence and a loss of control effectiveness. Wind tunnels suffered from the same aerodynamic problems in that speed range, so their data could not be relied on either. John Stack of the NACA, Ezra Kotcher of the Army Air Forces and Walter Diehl of the Navy each concluded that a specialised research aircraft was the only workable way to get the numbers. {{ref:nasa-first-gen}}",
+          "On 16 March 1945 the Army Air Technical Service Command awarded Bell Aircraft of Buffalo, New York a contract for three transonic and supersonic research aircraft under project MX-653, designated XS-1 for Experimental Sonic and later shortened to X-1. The Army specified rocket propulsion, a choice neither the NACA nor the Navy wanted - both would have preferred a jet-powered research aircraft, and in 1945 rockets were still viewed with suspicion by a good many engineers. The first airframe was delivered in December 1945, and the Army Air Forces asked the NACA to take over instrumentation and data analysis, which is how a civilian agency ended up embedded in a military programme. {{ref:nasm-glennis}} {{ref:nasa-first-gen}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The fuselage was shaped after a .50-calibre machine gun bullet, a form already known to stay stable at supersonic speeds, and it was packed solid: two propellant tanks, twelve nitrogen spheres for fuel and cabin pressurisation, three pressure regulators, retractable landing gear, the wing carry-through structure, the rocket engine and more than 500 lb of flight-test instrumentation. The wings were straight rather than swept and thin for the period, and the two original aircraft were built differently so they could be compared - 46-062 with a wing of 8 per cent thickness-to-chord ratio, 46-063 with a 10 per cent wing. It was painted international orange to make it easier to see from the ground during high-altitude tests. {{ref:nasm-glennis}} {{ref:nasa-first-gen}}",
+          "Power came from a Reaction Motors XLR11, nicknamed Black Betsy, with four chambers that could be fired independently for a combined 6,000 lbf, burning ethyl alcohol diluted with water together with liquid oxygen. It emptied its tanks in a matter of minutes, which is why the aircraft never flew a conventional profile: a modified B-29 carried it to around 25,000 ft in its bomb bay and dropped it, and only then did the pilot light the rocket. The detail that mattered most was in the tail. A conventional hinged elevator lost most of its authority as shock waves formed over the tail surfaces near Mach 0.9, so Bell gave the X-1 a horizontal stabiliser whose whole incidence could be trimmed in flight. That adjustable stabiliser and the thin wing sections are what made the aircraft controllable through the transonic range. {{ref:nasm-3d}} {{ref:nasa-glenn}}"
+        ]
+      },
+      {
+        "heading": "Breaking the Sound Barrier",
+        "paragraphs": [
+          "Bell test pilot Jack Woolams made the first glide flight at Pinecastle Field, Florida on 19 January 1946 and nine more after it, testing low-speed handling before the aircraft went back to Bell for its rocket engine. Chalmers 'Slick' Goodlin flew the first glide in 46-063 on 11 October 1946 and the first powered flight on 9 December, reaching Mach 0.79. By June 1947 Bell had demonstrated both aircraft to Mach 0.8, where its contract ended. On 30 June the Army Air Forces and the NACA agreed a two-phase programme: the Air Force would use the thinner-winged 46-062 to reach Mach 1.1 as quickly as possible, and the NACA would then fly a slower, more detailed research series in 46-063. {{ref:nasa-first-gen}}",
+          "Yeager made his first glide flights on 6, 7 and 8 August 1947 and his first powered flight on 29 August at Mach 0.85, working up to Mach 0.997 on 10 October. On 14 October he took 46-062 to Mach 1.06 at 43,000 ft. Two days earlier he had cracked two ribs falling from a horse, and rather than risk being grounded he told only his wife and project engineer Jack Ridley, sealing the cockpit hatch with the end of a broom handle used as a lever because he could not close it himself. Air Force officials classified the flight and all its data Top Secret two hours afterwards; word leaked in December 1947, and the Air Force did not officially confirm it until March 1948. {{ref:nasa-first-gen}} {{ref:nasm-3d}}"
+        ]
+      },
+      {
+        "heading": "Research Flights & Records",
+        "paragraphs": [
+          "The first-generation aircraft kept flying for another four years. On 26 March 1948 Yeager took 46-062 to Mach 1.45, 957 mph, the fastest the nitrogen-pressurised aircraft ever went, and on 5 January 1949 he flew the only conventional ground takeoff in the programme, lifting the X-1 off Muroc Dry Lake under its own power. Frank Everest flew an X-1 to an unofficial altitude record of 71,902 ft in August 1949. The NACA meanwhile produced the research the programme had been set up for: Herbert Hoover reached Mach 1.029 in 46-063 on 4 March 1948, becoming the second man and the first civilian to fly supersonic, and Howard Lilly reached Mach 1.1 on 31 March. {{ref:nasm-glennis}} {{ref:nasa-first-gen}} {{ref:wikipedia-everest}}",
+          "The second-generation aircraft kept the original wing, tail and engine but added a cylindrical fuselage four and a half feet longer - the most a B-29 or B-50 could carry - a stepped canopy, and a low-pressure turbopump in place of the heavy spherical tanks, raising the calculated maximum to Mach 2.47 at 70,000 ft. Yeager flew the X-1A to Mach 2.44 at 74,200 ft on 12 December 1953 and immediately lost it: the aircraft rolled left, then right, then tumbled out of control, throwing him about hard enough to crack the canopy with his helmet and knock him unconscious. He came round at about 29,000 ft in an inverted spin and landed at Edwards without help from the chase planes. The Air Force abandoned high-Mach flights in the X-1A after that and used it for altitude work instead, Arthur Murray reaching 90,440 ft on 26 August 1954. {{ref:nasa-second-gen}} {{ref:nasa-x1a-flight}}"
+        ]
+      },
+      {
+        "heading": "A Leather Gasket and Four Explosions",
+        "paragraphs": [
+          "Three X-1s were destroyed by explosions in four years, and none of them was flying at the time. The X-1D was lost on 22 August 1951 when its first powered flight was aborted on a loss of nitrogen pressure and jettisoning the propellant triggered an explosion and fire; it was dropped from the mothership and destroyed on impact. On 9 November 1951 the X-1-3 exploded during defuelling after a captive flight, destroying both it and the B-50 carrying it - Bell pilot Joseph Cannon got out but spent close to a year in hospital with severe burns. The X-1A went the same way on 8 August 1955, exploding during a countdown and being jettisoned because the B-29 could not land with it aboard. Accident boards investigated each one and found no common factor. {{ref:nasa-second-gen}} {{ref:nasa-first-gen}}",
+          "The answer turned up by accident. After the X-1A was lost its wreckage was brought in from the desert and laid out on a hangar floor, with the X-1B - back from modifications only a week earlier - parked next to it. When the X-1B's liquid oxygen tank was examined, tricresyl phosphate was found in both the tank and the LOX lines to the engine. TCP was used to treat the leather gaskets in that plumbing, and tests showed that in contact with liquid oxygen it became impact-sensitive, so the shock of pressurising a tank could set it off. A re-examination attributed all four losses - the X-1-3, the X-1D, the X-1A and the second X-2 - to the same mechanism. The leather gaskets were pulled out of the X-1B and the surviving X-2, and there were no further explosions. {{ref:nasa-second-gen}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The Air Force retired 46-062 after Yeager's final flight in it on 12 May 1950 and gave it to the Smithsonian, where Gen. Hoyt Vandenberg handed it over to the Institution's secretary, Alexander Wetmore. The NACA grounded 46-063 in 1951 once it found the high-pressure nitrogen spheres were likely to fail from metal fatigue, and rebuilt it as the X-1E with wings only three and three-eighths inches thick at the root, a turbopump fuel system, an upward-opening canopy and the family's only ejection seat. The X-1E flew 26 times, reaching Mach 2.24 on 8 October 1957, and made the last flight of the whole programme on 6 November 1958, twelve years after the first glide. {{ref:nasm-glennis}} {{ref:nasa-x1e}} {{ref:nasa-x1-canopy}}",
+          "The X-1B did the work that connected the X-1 most directly to what came next. Fitted with hydrogen peroxide thrusters on a wingtip, the aft fuselage and the tail, it tested control at dynamic pressures too low for aerodynamic surfaces to bite, which is exactly the regime the X-15 was being built to fly in; John McKay made the first reaction-control checkout flight on 27 November 1957. Cracks found in its liquid oxygen tank ended the work early, the remaining flights moved to an F-104, and the aircraft went to the Air Force Museum. Three of the six airframes survive: Glamorous Glennis in the Smithsonian, the X-1B at Wright-Patterson and the X-1E outside NASA Armstrong. {{ref:nasa-second-gen}} {{ref:nmusaf-x1b}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nasm-glennis",
+      "name": "Bell X-1 Glamorous Glennis",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/bell-x-1-glamorous-glennis/nasm_A19510007000"
+    },
+    {
+      "id": "nasa-first-gen",
+      "name": "First Generation X-1",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/aeronautics/first-generation-x-1/"
+    },
+    {
+      "id": "nasa-x1-overview",
+      "name": "Bell X-1",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/image-article/bell-x-1/"
+    },
+    {
+      "id": "nasm-3d",
+      "name": "Bell X-1 in 3D",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://www.airandspace.si.edu/stories/editorial/bell-x-1-3d"
+    },
+    {
+      "id": "nasa-glenn",
+      "name": "Bell X-1 History",
+      "publisher": "NASA Glenn Research Center",
+      "url": "https://www.grc.nasa.gov/www/k-12/aerosim/LessonHS97/BellX1.html"
+    },
+    {
+      "id": "wikipedia-everest",
+      "name": "Frank Kendall Everest Jr.",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Frank_Kendall_Everest_Jr."
+    },
+    {
+      "id": "nasa-second-gen",
+      "name": "Second Generation X-1",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/aeronautics/second-generation-x-1/"
+    },
+    {
+      "id": "nasa-x1a-flight",
+      "name": "Yeager's Mach 2.44 Flight in the X-1A",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/image-article/yeagers-mach-2-44-flight-x-1a"
+    },
+    {
+      "id": "nasa-x1e",
+      "name": "X-1E Research Aircraft",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-083-DFRC.html"
+    },
+    {
+      "id": "nasa-x1-canopy",
+      "name": "X-1 Canopy Design",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/image-article/x-1-canopy-design"
+    },
+    {
+      "id": "nmusaf-x1b",
+      "name": "Bell X-1B",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195763/bell-x-1b"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Fiftieth Anniversary of the X-1",
+      "url": "https://www.nasa.gov/history/x1/"
+    },
+    {
+      "name": "American X-Vehicles: An Inventory, X-1 to X-50 (NASA SP-4531)",
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/04/sp-4531.pdf"
+    },
+    {
+      "name": "First Generation X-1 fact sheet (FS-085-DFRC)",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/09/120327main_fs-085-dfrc.pdf"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1946-01-19",
+      "title": "First glide flight at Pinecastle Field",
+      "tag": "First flight",
+      "summary": "Bell test pilot Jack Woolams made the X-1's first flight, an unpowered glide after release from a B-29 over Pinecastle Field, Florida. He flew nine more glides to check low-speed handling before the aircraft returned to Bell for its rocket engine.",
+      "source": "https://www.nasa.gov/aeronautics/first-generation-x-1/"
+    },
+    {
+      "date": "1946-12-09",
+      "title": "First powered flight",
+      "tag": "Milestone",
+      "summary": "Bell test pilot Chalmers 'Slick' Goodlin made the first rocket-powered flight in 46-063 at Muroc, reaching Mach 0.79 after four glide flights in the same aircraft.",
+      "source": "https://www.nasa.gov/aeronautics/first-generation-x-1/"
+    },
+    {
+      "date": "1947-10-14",
+      "title": "First supersonic flight",
+      "tag": "Record",
+      "summary": "Capt. Chuck Yeager flew 46-062 to Mach 1.06 at 43,000 ft over the Mojave Desert, the first controlled level flight faster than sound. The Air Force classified the flight and its data Top Secret within two hours and did not confirm the achievement publicly until March 1948.",
+      "source": "https://airandspace.si.edu/collection-objects/bell-x-1-glamorous-glennis/nasm_A19510007000"
+    },
+    {
+      "date": "1948-03-04",
+      "title": "First civilian supersonic flight",
+      "tag": "Milestone",
+      "summary": "NACA research pilot Herbert H. Hoover reached Mach 1.029 in 46-063, becoming the second person and the first civilian to fly faster than sound. Howard C. Lilly followed with Mach 1.1 on 31 March.",
+      "source": "https://www.nasa.gov/aeronautics/first-generation-x-1/"
+    },
+    {
+      "date": "1948-03-26",
+      "title": "Mach 1.45 speed record",
+      "tag": "Record",
+      "summary": "Yeager took 46-062 to 957 mph, Mach 1.45 - the fastest the nitrogen-pressurised first-generation aircraft ever flew.",
+      "source": "https://airandspace.si.edu/collection-objects/bell-x-1-glamorous-glennis/nasm_A19510007000"
+    },
+    {
+      "date": "1949-01-05",
+      "title": "Only conventional ground takeoff by an X-1",
+      "tag": "Milestone",
+      "summary": "Yeager took 46-062 off from Muroc Dry Lake under its own power rather than being air-launched, the only time an X-1 made a conventional takeoff. Performance penalties and the safety hazards of ground-launching a rocket aircraft were why air launch was used throughout the rest of the programme.",
+      "source": "https://www.si.edu/object/nasm_A19510007000"
+    },
+    {
+      "date": "1949-08-01",
+      "title": "Unofficial altitude record of 71,902 ft",
+      "tag": "Record",
+      "summary": "Air Force test pilot Frank K. 'Pete' Everest flew an X-1 to an unofficial aircraft altitude record of 71,902 ft over the Mojave. The exact day in August 1949 is not recorded in the sources consulted.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Kendall_Everest_Jr."
+    },
+    {
+      "date": "1951-08-22",
+      "title": "X-1D destroyed after aborted launch",
+      "tag": "Explosion",
+      "summary": "The X-1D's first powered flight was aborted after a loss of nitrogen pressure. Lt. Col. Frank Everest attempted to jettison the propellant, which triggered an explosion and fire, and the aircraft was dropped from the mothership and destroyed on impact after a single glide flight in its career.",
+      "fatalities": 0,
+      "source": "https://www.nasa.gov/aeronautics/second-generation-x-1/"
+    },
+    {
+      "date": "1951-11-09",
+      "title": "X-1-3 and its B-50 mothership destroyed by fire",
+      "tag": "Explosion",
+      "summary": "After a captive flight, the fully fuelled X-1-3 exploded during defuelling at Edwards, destroying both the rocket aircraft and the B-50 carrying it. Bell test pilot Joseph Cannon escaped but spent nearly a year in hospital with severe burns.",
+      "fatalities": 0,
+      "source": "https://www.nasa.gov/aeronautics/first-generation-x-1/"
+    },
+    {
+      "date": "1953-12-12",
+      "title": "Yeager's Mach 2.44 flight and inertial coupling tumble",
+      "tag": "Loss of control",
+      "summary": "Yeager reached Mach 2.44 at 74,200 ft in the X-1A, then lost control as the aircraft rolled and tumbled. He was thrown about violently enough to crack the canopy with his helmet and lost consciousness, coming round at about 29,000 ft in an inverted spin before recovering and landing unaided.",
+      "fatalities": 0,
+      "source": "https://www.nasa.gov/image-article/yeagers-mach-2-44-flight-x-1a"
+    },
+    {
+      "date": "1954-08-26",
+      "title": "Altitude record of 90,440 ft in the X-1A",
+      "tag": "Record",
+      "summary": "Maj. Arthur 'Kit' Murray flew the X-1A to 90,440 ft. Similar instability to Yeager's December 1953 flight occurred, though less severely because of the lower speed and higher altitude.",
+      "source": "https://www.nasa.gov/aeronautics/second-generation-x-1/"
+    },
+    {
+      "date": "1955-08-08",
+      "title": "X-1A destroyed during countdown",
+      "tag": "Explosion",
+      "summary": "An explosion occurred in the X-1A during the countdown for a NACA flight. The B-29 launch aircraft could not land with the damaged rocket plane aboard, so it was jettisoned and destroyed on impact. Examination of the X-1B parked beside the wreckage identified tricresyl phosphate in leather gaskets as the cause of this and three earlier explosions.",
+      "fatalities": 0,
+      "source": "https://www.nasa.gov/aeronautics/second-generation-x-1/"
+    },
+    {
+      "date": "1958-11-06",
+      "title": "Final X-1 flight ends the programme",
+      "tag": "Milestone",
+      "summary": "John B. McKay flew the X-1E for the 26th and last time over Edwards, closing the X-1 programme twelve years after the first glide flight.",
+      "source": "https://www.nasa.gov/image-article/x-1-canopy-design"
+    }
+  ],
+  "survivors": {
+    "intro": "Three of the six X-1 airframes survive, all on public display. The X-1-3, X-1D and X-1A were destroyed by explosions between 1951 and 1955, and the X-1C was cancelled before construction.",
+    "airframes": [
+      {
+        "serial": "46-062",
+        "name": "Glamorous Glennis",
+        "location": "Smithsonian National Air and Space Museum - Boeing Milestones of Flight Hall",
+        "place": "Washington, DC, United States",
+        "url": "https://airandspace.si.edu/collection-objects/bell-x-1-glamorous-glennis/nasm_A19510007000",
+        "note": "The aircraft Yeager flew supersonic on 14 October 1947, retired after his final flight in it on 12 May 1950 and presented to the Smithsonian by Gen. Hoyt Vandenberg. It was repainted with white accents at some point after the record flight, and the museum has since restored it to its 1947 international orange scheme.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "48-1385",
+        "name": "X-1B",
+        "location": "National Museum of the United States Air Force - Research and Development Gallery",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195763/bell-x-1b",
+        "note": "The only second-generation airframe to survive. It made its last flight in January 1958, after reaction-control system testing that fed directly into the X-15 programme, and was transferred to the museum a year later.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "46-063",
+        "name": "X-1E",
+        "location": "NASA Armstrong Flight Research Center",
+        "place": "Edwards, California, United States",
+        "url": "https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-083-DFRC.html",
+        "note": "The second X-1 rebuilt with a three-and-three-eighths-inch-thick wing, a turbopump fuel system and an ejection seat. It flew the last flight of the programme on 6 November 1958 and has been mounted outside the centre's headquarters building since April 1960.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}
