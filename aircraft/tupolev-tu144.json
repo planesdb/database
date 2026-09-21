@@ -1,0 +1,271 @@
+{
+  "name": "Tu-144",
+  "fullName": "Tupolev Tu-144",
+  "manufacturer": "Tupolev",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Supersonic Airliner",
+  "tagline": "The Soviet supersonic airliner that beat Concorde into the air by two months, and then spent fifteen years failing to become an airliner. It flew fare-paying passengers on a single route for seven months, set thirteen world records in the year it was cancelled, and ended its career as a NASA research aircraft.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "It was the first supersonic transport of any nation to fly, lifting off from Zhukovsky on 31 December 1968 - the last day of the year the Soviet government's 1963 decree had set as its deadline.",
+    "It carried fare-paying passengers for just seven months, on one route: Moscow to Alma-Ata, once a week, from 1 November 1977 to 1 June 1978.",
+    "The cabin ran at 90-95 dB in cruise, loud enough that passengers two seats apart passed handwritten notes rather than try to talk.",
+    "The Tu-144S needed its afterburners lit continuously to hold supersonic cruise, where Concorde used reheat only to get through the transonic drag rise.",
+    "NASA flew one as a supersonic testbed between 1996 and 1999, re-engined with NK-321 turbofans taken from the Tu-160 bomber.",
+    "Only one Tu-144 stands outside the former Soviet Union: 77112, on the roof of the Technik Museum Sinsheim in Germany since 2001, parked alongside an Air France Concorde."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Tu-144D, the final production standard with Kolesov RD-36-51 turbojets. Earlier Tu-144S aircraft used Kuznetsov NK-144A afterburning turbofans and had shorter range.",
+    "maxSpeed": {
+      "mph": 1553,
+      "text": "1,350 kn (1,553 mph / 2,500 km/h)"
+    },
+    "cruiseSpeed": "1,320 mph (2,125 km/h, about Mach 2)",
+    "range": {
+      "miles": 4039,
+      "text": "4,039 mi (6,500 km); 3,312 mi (5,330 km) with full payload"
+    },
+    "serviceCeiling": {
+      "ft": 66000,
+      "text": "66,000 ft (20,000 m)"
+    },
+    "wingspan": {
+      "ft": 94.5,
+      "text": "94 ft 6 in (28.8 m)"
+    },
+    "length": {
+      "ft": 215.58,
+      "text": "215 ft 7 in (65.7 m)"
+    },
+    "height": {
+      "ft": 41.17,
+      "text": "41 ft 2 in (12.55 m)"
+    },
+    "weight": "empty: 218,699 lb (99,200 kg); MTOW: 456,357 lb (207,000 kg)",
+    "engines": "4 x Kolesov RD-36-51 turbojets, 54,000 lbf thrust each (Tu-144D); Tu-144S used 4 x Kuznetsov NK-144A afterburning turbofans, 38,580 lbf with reheat",
+    "crew": "3",
+    "capacity": "150 passengers (11 first class and 139 tourist class)",
+    "firstFlight": {
+      "date": "1968-12-31",
+      "year": 1968
+    },
+    "serviceEntryDate": "1975-12-26",
+    "retiredDate": "1983-07-01",
+    "numberBuilt": 16
+  },
+  "variants": [
+    {
+      "code": "Tu-144 (izdeliye 044)",
+      "desc": "The single prototype, registered CCCP-68001, which first flew on 31 December 1968, went supersonic on 5 June 1969 and passed Mach 2 on 26 May 1970. It carried an ogival delta wing and no canards, and differed enough from the production aircraft that its flight results transferred poorly. It accumulated roughly 180 flight hours before state acceptance testing began."
+    },
+    {
+      "code": "Tu-144S (izdeliye 004)",
+      "desc": "The first production standard, nine built with registrations 77102 to 77110, powered by Kuznetsov NK-144A afterburning turbofans that had to run in reheat to sustain supersonic cruise. It introduced the redesigned double-delta wing and the retractable canards behind the cockpit. 77102 was lost at the 1973 Paris Air Show; the rest flew the Moscow-Alma-Ata services and a heavy test programme."
+    },
+    {
+      "code": "Tu-144D (izdeliye 004D)",
+      "desc": "The long-range version, five completed and one left unfinished, registered 77111 to 77116. It replaced the NK-144A with non-afterburning Kolesov RD-36-51 turbojets rated at 54,000 lbf each, cutting cruise specific fuel consumption from 1.81 to 1.22 and lifting full-payload range to 5,330 km. It never carried fare-paying passengers, flying cargo and mail from 23 June 1979 until the programme ended."
+    },
+    {
+      "code": "Tu-144LL",
+      "desc": "One Tu-144D, 77114, rebuilt from 1995 as a flying laboratory for NASA's High Speed Research programme and fitted with four Kuznetsov NK-321 afterburning turbofans from the Tu-160 bomber, rated at more than 55,000 lbf in full reheat. It flew 19 research sorties between June 1996 and February 1998 and about seven more from September 1998 to April 1999."
+    },
+    {
+      "code": "Tu-144DA and military proposals",
+      "desc": "A series of paper variants, none built. The Tu-144DA was to use RD-36-61 engines for a 7,500 km range. Tupolev also offered the Tu-144R as an air-launch platform for ballistic missiles, the Tu-144PP for electronic countermeasures, and the Tu-144PR and Tu-144MR for land and naval reconnaissance. Soviet Long-Range Aviation rejected all of them."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Aeroflot",
+      "role": "Sole Commercial Operator",
+      "status": "Retired",
+      "since": "1975",
+      "fleetSize": "9 Tu-144S built for service, of which 8 were certified for commercial flights, plus Tu-144D aircraft on later cargo services",
+      "homeBase": "Moscow Domodedovo"
+    },
+    {
+      "name": "Ministry of Aviation Industry / Tupolev test fleet",
+      "role": "Development & Flight Test Operator",
+      "status": "Retired",
+      "since": "1968",
+      "fleetSize": "Prototype 68001 plus production airframes rotated through the test programme",
+      "homeBase": "Zhukovsky, Moscow Oblast"
+    },
+    {
+      "name": "Gromov Flight Research Institute",
+      "role": "Research Operator",
+      "status": "Retired",
+      "since": "1985",
+      "fleetSize": "2 (77114 and 77115)",
+      "homeBase": "Zhukovsky, Moscow Oblast"
+    },
+    {
+      "name": "NASA",
+      "role": "Research Programme Partner (Tu-144LL)",
+      "status": "Retired",
+      "since": "1996",
+      "fleetSize": "1 (77114, flown by Russian crews under the High Speed Research programme)",
+      "homeBase": "Zhukovsky, Moscow Oblast"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "T144",
+    "howToFind": "No Tu-144 has flown since April 1999 and none is airworthy, so the type never appears on Flightradar24. Seven survive on ground display: Monino, Kazan, Samara, Ulyanovsk and Zhukovsky in Russia, and the Technik Museum Sinsheim in Germany."
+  },
+  "lastUpdated": "2026-09-21",
+  "changelog": [
+    {
+      "date": "2026-09-21",
+      "change": "Entry created - full article, specifications, variants, operators and incident log written.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "tu-144",
+    "charger",
+    "concordski",
+    "supersonic airliner",
+    "sst",
+    "aeroflot",
+    "soviet union",
+    "tu-144ll",
+    "nasa high speed research",
+    "mach 2"
+  ],
+  "article": {
+    "overview": [
+      "The Tupolev Tu-144 is a four-engine supersonic airliner designed by the Tupolev bureau in the Soviet Union, and the first supersonic transport of any country to fly. The prototype took off from Zhukovsky on 31 December 1968, two months ahead of the famous Concorde, it went supersonic on the 5th of June 1969 and passed Mach 2 on the 26th May 1970.{{ref:wiki-tu144}}",
+      "16 airframes were built between 1967 and 1983, one of them never completed. The type carried paying passengers on a single route, Moscow to Alma-Ata, for seven months between 1st November 1977 and 1st June 1978, it flew cargo and mail until 1983, and was terminated by government decree on 1st July 1983 with its structural, engine and fuel-economy problems unresolved.{{ref:wiki-tu144}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Soviet government published the Tu-144 concept in January 1962, and development formally began on 26th July 1963, ten days after the Council of Ministers approved the design. The plan called for five flying prototypes within four years and the first delivery in 1966, and the decree named 1968 as the year the aircraft had to fly. It flew on 31 December 1968, the last available day. Concorde's own first flight, originally set for February 1968, had by then been pushed back repeatedly to allow for more component testing, and followed on 2nd March 1969.{{ref:wiki-tu144}}",
+          "The deadline shaped the aircraft. The prototype logged around 180 flight hours before state acceptance testing began, against 1,509 hours in acceptance and a further 835 hours of service trials before passengers were carried. Export controls compounded the problem: Tupolev could not obtain the Lucas Industries electronic engine control package licensed for Concorde, and had to manage thermal loads with fuel and hydraulic heat exchangers and a cooling turbine for cabin air rather than using fuel as the primary heat sink.{{ref:wiki-tu144}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Production aircraft carried a double-delta wing with both spanwise and chordwise camber, replacing the prototype's ogival delta, and added a pair of small retractable canards behind the cockpit. The canards extended for takeoff and landing to add lift and offset the nose-down pitch the elevons produced when deflected, bringing landing speed down to 315-333 km/h. As on Concorde the nose drooped hydraulically for visibility on approach, but the Tu-144 had no thrust reversers and stopped with a braking parachute, one of the last commercial aircraft to do so. The structure was 15 percent titanium by weight and 23 percent non-metallic, with titanium or stainless steel leading edges, elevons, rudder and engine heat shields, and was designed for 30,000 flight hours over fifteen years.{{ref:wiki-tu144}}",
+          "The engines were the programme's central weakness. The Tu-144S used four Kuznetsov NK-144A afterburning turbofans, rated at 38,580 lbf in reheat, which had to stay in afterburner throughout supersonic cruise and returned a specific fuel consumption of 1.81 against the 1.2 the design required.{{ref:wiki-nk144}} The Tu-144D substituted non-afterburning Kolesov RD-36-51 turbojets of 54,000 lbf each, cutting cruise consumption to 1.22. Both were grouped in two pairs under the fuselage rather than separated in wing nacelles, fed by intakes twice the length of Concorde's - a margin later attributed to an overly cautious reading of intake distortion. Cabin noise in cruise ran at 90-95 dB, loud enough that passengers seated two rows apart resorted to written notes.{{ref:wiki-tu144}}"
+        ]
+      },
+      {
+        "heading": "Paris 1973 and the Structural Problem",
+        "paragraphs": [
+          "On the 3rd of June 1973, Tu-144S 77102 broke up during a demonstration at the Paris Air Show, killing all six on board - including deputy chief designer Vladimir Benderov - along with eight people on the ground, and destroying fifteen houses. The official inquiry found no abnormality in the aircraft's design and left the cause undetermined for lack of evidence. A French Mirage III photographing the display had not been notified to the Soviet crew; later accounts accept the Mirage was there and that the Tu-144 crew was probably surprised by it, while holding that no collision risk existed.{{ref:wiki-paris73}}",
+          "The deeper problem surfaced in the laboratory. In 1976 TsAGI static and repeat-load testing cracked a Tu-144S airframe at 70 percent of design flight load, with cracks running many metres in several directions. The aircraft were assembled from very large aluminium slabs, some over 19 m long, in which undetected material defects became crack initiation sites, and the structure had no crack-arresting features to stop a crack once it started. Environmental chamber tests that combined skin temperatures of 110-130°C with cabin pressure cycling - the real conditions of a supersonic sector - reproduced the same failures.{{ref:wiki-tu144}}"
+        ]
+      },
+      {
+        "heading": "Airline Service",
+        "paragraphs": [
+          "Commercial flying began on the 26th December 1975 with mail and cargo between Moscow and Alma-Ata, a sector of roughly 3,100 km, and passenger service started on 1st November 1977. Aeroflot scheduled one flight a week despite having eight certified aircraft. Across 102 commercial flights and 181 flight hours, only 55 carried passengers, and the fleet logged more than 226 failures, 80 of them in flight, concentrated in flight instruments, navigation equipment, radios and autopilots. Chief designer Aleksey Tupolev and two USSR vice-ministers had to inspect the aircraft and jointly authorise the release of every scheduled departure.{{ref:wiki-tu144}}",
+          "Passenger service ended after a pre-delivery test flight on 23 May 1978. A ruptured fuel line had leaked eight tonnes of fuel into the wing compartments some 27 minutes before an auxiliary power unit fire started in the port wing; incorrect fuel readings meant the crew were never alerted. They shut down engines three and four and put the aircraft down on its belly near Yegoryevsk, where the nose section collapsed and killed both flight engineers stationed in it. Scheduled passenger operations stopped on 1 June 1978. Cargo flying resumed with the Tu-144D on 23 June 1979 and continued until 1983.{{ref:wiki-tu144}}"
+        ]
+      },
+      {
+        "heading": "Cancellation",
+        "paragraphs": [
+          "Two engine failures closed the programme out. On 31st August 1980 Tu-144D 77113 suffered an uncontained compressor disc failure during supersonic flight, damaging structure and systems, and diverted to an emergency landing at the Engels-2 strategic bomber base. On 12th November 1981 an RD-36-51 was destroyed on the test bench, and all Tu-144D flying was suspended. Production was ordered halted on 7th January 1982 and the programme was terminated by decree on 1st July 1983.{{ref:wiki-tu144}}",
+          "The economics had never worked. Full-payload range was 5,330 km against Concorde's 6,470 km, fuel consumption stayed well above target, and the 1973 oil shock raised the cost of both. Andrei Tupolev died in 1972 and aviation industry minister Pyotr Dementyev in 1977, removing the programme's two strongest protectors, while the bureau's attention moved to the Tu-154, Tu-22M and Tu-160. The military declined every proposed derivative; Long-Range Aviation commander Vasily Reshetnikov judged the aircraft short of its performance target, unreliable, fuel-thirsty and difficult to operate. The type nonetheless set thirteen FAI world records between 13th and 20th July 1983, reaching 18,200 m with loads up to 30 tonnes and holding 2,032 km/h around a closed circuit.{{ref:wiki-tu144}}"
+        ]
+      },
+      {
+        "heading": "Second Life and Legacy",
+        "paragraphs": [
+          "In the mid-1990s the type returned as a research aircraft. Tu-144D 77114, built in 1981 and carrying only 82 hours 40 minutes of flight time, was rebuilt as the Tu-144LL flying laboratory and fitted with four Kuznetsov NK-321 afterburning turbofans from the Tu-160, rated at more than 55,000 lbf in full reheat. Flying from Zhukovsky with Russian crews, it completed 19 research flights between June 1996 and February 1998 and about seven more from September 1998 to April 1999, carrying six in-flight and two ground experiments covering aerodynamics, structures, engine temperatures, boundary-layer airflow, ground effect, noise and structural flexibility. NASA Langley managed the work under the High Speed Research programme with Boeing, Pratt & Whitney, General Electric, NASA Dryden and Tupolev ANTK.{{ref:nasa-tu144ll}}",
+          "Of the sixteen airframes, seven survive, eight were scrapped and two were destroyed. 77106 - the aircraft that flew the first Moscow-Alma-Ata cargo service - is at the Central Air Force Museum at Monino, with others at Kazan, Samara, Ulyanovsk and the Gromov Institute at Zhukovsky. The only example outside the former Soviet Union is 77112, moved by water and road to the Technik Museum Sinsheim and installed on the museum roof in 2001, where it stands next to an Air France Concorde.{{ref:sinsheim}}{{ref:wiki-tu144}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-tu144",
+      "name": "Tupolev Tu-144",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144"
+    },
+    {
+      "id": "wiki-paris73",
+      "name": "1973 Paris Air Show crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1973_Paris_Air_Show_crash"
+    },
+    {
+      "id": "nasa-tu144ll",
+      "name": "The Tu-144LL: A Supersonic Flying Laboratory (NASA Facts FS-062-DFRC)",
+      "publisher": "NASA Dryden Flight Research Center",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/09/120315main_fs-062-dfrc.pdf"
+    },
+    {
+      "id": "wiki-nk144",
+      "name": "Kuznetsov NK-144",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kuznetsov_NK-144"
+    },
+    {
+      "id": "sinsheim",
+      "name": "Tupolev Tu-144 exhibit",
+      "publisher": "Technik Museum Sinsheim",
+      "url": "https://www.technik-museum.de/en/discover/exhibits/tupolev-tu-144/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Tupolev Tu-144",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144"
+    },
+    {
+      "name": "NASA - The Tu-144LL: A Supersonic Flying Laboratory",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/09/120315main_fs-062-dfrc.pdf"
+    },
+    {
+      "name": "Technik Museum Sinsheim - 25 years on the museum roof, the Tupolev Tu-144",
+      "url": "https://www.technik-museum.de/en/community/museum-stories/25-years-on-the-museum-roof-the-tupolev-tu-144/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1973-06-03",
+      "title": "Tu-144S 77102 breaks up at the Paris Air Show",
+      "tag": "Fatal crash",
+      "summary": "The aircraft broke apart during a demonstration flight at Le Bourget and crashed into Goussainville, killing all six on board and eight people on the ground and destroying fifteen houses. The official report found no abnormality in the design and left the cause undetermined. A French Mirage III photographing the display had not been notified to the Soviet crew.",
+      "fatalities": 14,
+      "source": "https://en.wikipedia.org/wiki/1973_Paris_Air_Show_crash"
+    },
+    {
+      "date": "1978-05-23",
+      "title": "Tu-144D fuel leak and fire, forced landing near Yegoryevsk",
+      "tag": "In-flight fire",
+      "summary": "On a pre-delivery test flight at 3,000 m, a ruptured fuel line leaked eight tonnes of fuel into the wing compartments and an auxiliary power unit fire started in the port wing. The crew shut down two engines and belly-landed near Yegoryevsk; the nose section collapsed on impact, killing both flight engineers stationed there. Scheduled passenger services ended nine days later.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-144"
+    },
+    {
+      "date": "1980-08-31",
+      "title": "Uncontained engine failure in supersonic cruise",
+      "tag": "Engine failure",
+      "summary": "Tu-144D 77113 suffered an uncontained compressor disc failure during supersonic flight, damaging airframe structure and aircraft systems. The crew made a successful emergency landing at the Engels-2 strategic bomber base with no injuries.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-144"
+    },
+    {
+      "date": "1983-07-20",
+      "title": "Thirteen FAI world records set in the month of cancellation",
+      "tag": "Record flights",
+      "summary": "Between 13 and 20 July 1983, weeks after the government decree terminating the programme, Tu-144 test flights registered thirteen world records with the Federation Aeronautique Internationale, including an altitude of 18,200 m carrying loads of up to 30 tonnes and a sustained 2,032 km/h around a closed circuit.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-144"
+    }
+  ]
+}

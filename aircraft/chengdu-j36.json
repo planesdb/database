@@ -1,0 +1,232 @@
+{
+  "name": "J-36",
+  "fullName": "Chengdu J-36",
+  "manufacturer": "Chengdu Aircraft Corporation (CAC)",
+  "originCountry": {
+    "name": "China",
+    "code": "cn"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Sixth-Generation Combat Aircraft (In Testing)",
+  "tagline": "The large tailless trijet that appeared over Chengdu on 26 December 2024, the first sixth-generation combat aircraft of any nation to be seen flying. China has confirmed almost nothing about it, including its name: 'J-36' is an analyst's label taken from the serial number on its nose.",
+  "status": "In Development",
+  "inProduction": false,
+  "quickFacts": [
+    "'J-36' is not an official designation. Analysts derived it from the serial 36011 painted on the first aircraft; Chinese state media has referred to it only as the 'ginkgo leaf jet'.",
+    "It has three engines - one fed by a dorsal intake on the spine and two by intakes under the fuselage - an arrangement no other modern combat aircraft uses.",
+    "Commercial satellite imagery taken at a base near Lop Nur on 27 August 2025 put its wingspan at about 65 ft and its length at about 62 ft, making it larger in span than an F-111 with its wings fully extended.",
+    "It has no vertical tail, no canards and no strakes, and uses split surfaces near the wingtips for yaw control and airbraking.",
+    "The first official Chinese imagery was a single second of blurred footage, released on 29 June 2026 inside a film marking ten years of the Y-20 - eighteen months after the aircraft first appeared on social media.",
+    "By July 2026 observers had counted what they believe is a fifth distinct flying airframe, each differing in nose, intakes, exhausts and landing gear.",
+    "It was not alone: a second, smaller tailless prototype from Shenyang - labelled J-50, equally unofficially - was first seen on the same day, 26 December 2024."
+  ],
+  "specifications": {
+    "specificationsNote": "\"??\" means the figure has not been published. China has released no dimensions, weights, performance or propulsion data for this aircraft, and has not confirmed its designation, so the only figures recorded here are ones measured from commercial satellite imagery by The War Zone and clearly labelled analyst estimates. Everything else circulating in the aviation press is inference from photographs and is deliberately left out.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "??"
+    },
+    "cruiseSpeed": "?? - the wing sweep has been read by analysts as optimised for sustained supersonic cruise, but no figure has been published or demonstrated publicly",
+    "range": {
+      "miles": null,
+      "text": "?? - analysts estimate an operational range in the order of 1,240-1,860 mi (2,000-3,000 km), which would reach the second island chain; this is an estimate, not a published figure"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "??"
+    },
+    "wingspan": {
+      "ft": 65,
+      "text": "~65 ft (~19.8 m), measured from commercial satellite imagery taken on 27 August 2025 (estimate)"
+    },
+    "length": {
+      "ft": 62,
+      "text": "~62 ft (~18.9 m), measured from the same imagery (estimate)"
+    },
+    "height": {
+      "ft": null,
+      "text": "??"
+    },
+    "weight": "?? - twin-wheel main landing gear units point to a heavy aircraft, but no weight figure has been published",
+    "engines": "3 x afterburning turbofans, types unconfirmed. Early analysis of the first airframe suggested Chinese WS-10C engines as an interim fit; one is fed by a dorsal intake above the fuselage and two by intakes beneath it, and the intake and exhaust designs have changed between prototypes",
+    "armament": "?? - multiple internal weapons bays have been identified in photographs, the main bay reported at roughly 7.6 m long, but no weapons fit has been shown or announced",
+    "crew": "2 (reported as side-by-side seating; the broad nose and canopy shape support this, but it has not been officially confirmed)",
+    "capacity": "??",
+    "firstFlight": {
+      "date": "2024-12-26",
+      "year": 2024
+    },
+    "serviceEntryDate": "??",
+    "retiredDate": null,
+    "numberBuilt": "??"
+  },
+  "variants": [
+    {
+      "code": "First prototype (serial 36011)",
+      "desc": "The aircraft seen flying over Chengdu on 26 December 2024 alongside a two-seat J-20S chase plane. It showed a modified delta planform with chine lines running to the nose, five trailing-edge control surfaces per wing including split surfaces at the tips for yaw control, twin-wheel main gear, trench-style recessed exhausts and a large ventral weapons bay. The serial 36011 is where the 'J-36' label came from."
+    },
+    {
+      "code": "Second prototype (from October 2025)",
+      "desc": "A second airframe entered testing in October 2025 carrying design changes from the first. Reporting through late 2025 and 2026 describes repeated revisions across successive aircraft to the nose, air intakes, engine nozzles, landing gear and surrounding structure, with diverterless supersonic inlets appearing in place of the earlier arrangement on later airframes."
+    },
+    {
+      "code": "Later airframes (to 2026)",
+      "desc": "Imagery published on 23 July 2026 was assessed by observers as showing a fifth distinct flying airframe, combining the diverterless inlets of the later aircraft with recessed trench exhausts closer to the original prototype. Neither the count nor the configuration of these aircraft has been confirmed by any official source, and the aircraft has not been shown publicly on the ground."
+    }
+  ],
+  "operators": [
+    {
+      "name": "People's Liberation Army Air Force",
+      "role": "Intended Operator",
+      "status": "In Development",
+      "since": "Not in service",
+      "fleetSize": "No production aircraft. At least five distinct prototypes are believed to have flown by July 2026, none officially acknowledged",
+      "homeBase": "Flight testing from the Chengdu Aircraft Corporation airfield, Sichuan, and a remote base near Lop Nur, Xinjiang"
+    },
+    {
+      "name": "Chengdu Aircraft Corporation",
+      "role": "Manufacturer & Test Operator",
+      "status": "In Development",
+      "since": "2024",
+      "fleetSize": "Prototype fleet of unknown size",
+      "homeBase": "Chengdu, Sichuan, China"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "?? - no ICAO type designator has been issued",
+    "howToFind": "A Chinese military prototype in flight test does not transmit ADS-B and will not appear on Flightradar24. Everything known publicly about its movements comes from ground photography near Chengdu and from commercial satellite imagery of its test bases."
+  },
+  "lastUpdated": "2026-09-21",
+  "changelog": [
+    {
+      "date": "2026-09-21",
+      "change": "Entry created - article, prototype record and operators written from Wikipedia, The War Zone's debut and satellite-imagery reporting, 19FortyFive and the South China Morning Post. Specification fields left as \"??\" where no figure has been published, per the note on the Specifications tab.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "j-36",
+    "j36",
+    "36011",
+    "ginkgo leaf jet",
+    "chengdu",
+    "cac",
+    "sixth-generation fighter",
+    "tailless",
+    "trijet",
+    "plaaf",
+    "stealth",
+    "china"
+  ],
+  "article": {
+    "overview": [
+      "The J-36 is a large tailless stealth combat aircraft built by the Chengdu Aircraft Corporation in China, and the first aircraft widely described as sixth-generation to be seen flying. It appeared in daylight over Chengdu on 26 December 2024, accompanied by a two-seat J-20S chase aircraft, in imagery posted to Chinese social media.{{ref:twz-debut}}",
+      "Almost nothing about it has been confirmed. 'J-36' is a label analysts took from the serial 36011 on the first airframe rather than an official designation, and Chinese state media has referred to the aircraft only as the 'ginkgo leaf jet'. No dimensions, weights, performance figures, engine types or mission description have been published by any Chinese source, and this entry leaves those fields blank rather than record estimates as facts.{{ref:wiki-j36}}"
+    ],
+    "sections": [
+      {
+        "heading": "What Appeared Over Chengdu",
+        "paragraphs": [
+          "The aircraft flew in daylight on 26 December 2024, a date observers noted falls on Mao Zedong's birthday, and was photographed from the ground in a way that suggested the flight was not being hidden. The presence of a J-20S chase plane pointed to the Chengdu Aircraft Corporation factory airfield as the location. What the photographs showed was a tailless modified delta with chine lines running forward to the nose, no vertical surfaces, no canards and no strakes, five trailing-edge control surfaces per wing including split surfaces near the tips acting as rudders and airbrakes, and twin-wheel main landing gear of a size that implies a heavy aircraft.{{ref:twz-debut}}",
+          "The most unusual feature was the propulsion. The aircraft has three engines: one fed by a dorsal intake on the spine and two by intakes under the fuselage, an arrangement no other modern combat aircraft uses. Early analysis suggested Chinese WS-10C turbofans as an interim fit, which would be a standard way to fly an airframe while its intended engines are still in development. Large apertures on either side of the nose appear sized for electro-optical windows and side-looking radar arrays, and the broad nose suggested side-by-side seating for two crew, though the canopy views were too limited to be certain.{{ref:twz-debut}}"
+        ]
+      },
+      {
+        "heading": "Size and Configuration",
+        "paragraphs": [
+          "The first hard measurements came from commercial satellite imagery. On 27 August 2025 the aircraft was photographed at a remote airbase near the Lop Nur nuclear test site in Xinjiang, well away from its home field at Chengdu, wearing a splinter camouflage scheme. Analysis of that imagery gave a wingspan of about 65 ft and an overall length of about 62 ft. For comparison, a Flanker-family fighter such as China's own J-16 spans around 48 ft, and the F-111 with its wings fully swept forward spanned 63 ft.{{ref:twz-satellite}}",
+          "A span of that order on a tailless airframe carrying three engines, multiple internal bays - the main one reported at roughly 7.6 m long - and a two-person crew describes an aircraft closer in mass to a medium bomber than to a fighter. That has driven the argument about what it is for. Proposals have ranged from long-range fighter to regional bomber to a category of its own, with several analysts settling on something like an airborne cruiser: a supercruising platform carrying a heavy internal missile load and acting as a sensor and command node for uncrewed aircraft flying with it.{{ref:wiki-j36}}"
+        ]
+      },
+      {
+        "heading": "Test Programme",
+        "paragraphs": [
+          "A second flight was observed on 17 March 2025, and a second airframe with visible design changes began testing in October 2025. Reporting through 2026 has described repeated revisions across successive aircraft to the nose, air intakes, engine nozzles and landing gear, with diverterless supersonic inlets replacing the earlier arrangement on later airframes - a change that removes moving parts and radar-reflective edges around the intake. Imagery published on 23 July 2026 was assessed as showing a fifth distinct flying airframe, combining those inlets with recessed trench exhausts of the kind seen on the first aircraft.{{ref:ar-fifth}}",
+          "The pace is the part worth noting. Five airframes flying inside nineteen months, each visibly different from the last, describes a programme iterating hardware rather than refining a frozen design - and it is also the reason no specification in this entry can be treated as settled, since the aircraft being photographed in 2026 is not the aircraft that flew in 2024. Observers cannot confirm the airframe count, and no J-36 has been shown publicly on the ground.{{ref:scmp-fifth}}"
+        ]
+      },
+      {
+        "heading": "What China Has and Has Not Said",
+        "paragraphs": [
+          "For the first fifteen months the Chinese Ministry of National Defence, the PLA and state media said nothing at all, and coverage rested entirely on unauthorised photographs. An indirect acknowledgement came through state broadcaster coverage in March 2025. The first official imagery followed on 29 June 2026, when China Military Bugle, the PLA's official press account, included roughly one second of blurred footage of a tailless aircraft alongside a tanker in a four-minute film marking ten years of Y-20 service.{{ref:19fortyfive}}",
+          "That clip confirmed the aircraft exists and is tailless, both of which had been visible in ground photographs for eighteen months, and confirmed nothing else - no engines, no sensors, no role, no name. Releasing a second of footage and no data is a recognisable approach: it shapes what rival air forces plan against without committing Beijing to a single claim about the aircraft's capability. Any published figure for this aircraft's speed, range, radar cross-section or weapons load is currently somebody's estimate.{{ref:19fortyfive}}"
+        ]
+      },
+      {
+        "heading": "The Wider Sixth-Generation Race",
+        "paragraphs": [
+          "The J-36 was not the only aircraft to break cover that day. A second tailless prototype, labelled J-50 by analysts on the same unofficial basis, was first publicly observed near Shenyang Aircraft Corporation facilities on 26 December 2024. It is smaller than the Chengdu aircraft, single-seat, and built around a lambda wing with swivelling wingtips and two engines with thrust-vectoring nozzles. Satellite analysis published in November 2025 placed both prototypes at the Lop Nur test facility during August and September 2025, which points to two programmes from two bureaus being supported in parallel rather than one competing design being dropped.{{ref:wiki-j50}}",
+          "The American comparison is harder to draw than the headlines suggest. Boeing won the Next Generation Air Dominance contract on 21 March 2025, worth more than $20 billion, and the resulting F-47 is in engineering and manufacturing development, with roughly 200 aircraft planned to be fielded during the 2030s alongside more than 1,000 uncrewed collaborative combat aircraft. No F-47 has been shown flying. The visible gap between the two countries is therefore partly a gap in disclosure: China's prototypes are photographed from public roads near their factory airfields, and America's are not photographed at all.{{ref:wiki-ngad}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "twz-debut",
+      "name": "China Stuns With Heavy Stealth Tactical Jet's Sudden Appearance",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/china-stuns-with-heavy-stealth-tactical-jets-sudden-appearance"
+    },
+    {
+      "id": "twz-satellite",
+      "name": "China's New Tailless Stealth Fighters Both Appear At Secretive Test Base",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/chinas-6th-generation-stealth-fighters-both-appear-at-secretive-test-base"
+    },
+    {
+      "id": "wiki-j36",
+      "name": "Chengdu J-36",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chengdu_J-36"
+    },
+    {
+      "id": "19fortyfive",
+      "name": "China's New J-36 6th Generation Stealth Fighter 'Officially' Just Broke Cover",
+      "publisher": "19FortyFive",
+      "url": "https://www.19fortyfive.com/2026/06/chinas-new-j-36-6th-generation-stealth-fighter-officially-just-broke-cover/"
+    },
+    {
+      "id": "ar-fifth",
+      "name": "China's Possible Fifth J-36 Prototype Shows a More Refined Sixth-Generation Fighter Design",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/chinas-possible-fifth-j-36-prototype-shows-a-more-refined-sixth-generation-fighter-design"
+    },
+    {
+      "id": "scmp-fifth",
+      "name": "New images point to fifth prototype for China's J-36 fighter jet in air power race with US",
+      "publisher": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/military/article/3362241/new-images-point-fifth-prototype-chinas-j-36-fighter-jet-air-power-race-us"
+    },
+    {
+      "id": "wiki-j50",
+      "name": "Shenyang J-50",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shenyang_J-50"
+    },
+    {
+      "id": "wiki-ngad",
+      "name": "Next Generation Air Dominance",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_Generation_Air_Dominance"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Chengdu J-36",
+      "url": "https://en.wikipedia.org/wiki/Chengdu_J-36"
+    },
+    {
+      "name": "The Diplomat - J-36: Assessing China's New Generation Combat Aircraft",
+      "url": "https://thediplomat.com/2024/12/j-36-assessing-chinas-new-generation-combat-aircraft/"
+    },
+    {
+      "name": "The War Zone - China's New Tailless Stealth Fighters Both Appear At Secretive Test Base",
+      "url": "https://www.twz.com/air/chinas-6th-generation-stealth-fighters-both-appear-at-secretive-test-base"
+    }
+  ],
+  "accidentsAndIncidents": []
+}

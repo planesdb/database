@@ -1,0 +1,248 @@
+{
+  "name": "YF-23",
+  "fullName": "Northrop/McDonnell Douglas YF-23",
+  "manufacturer": "Northrop / McDonnell Douglas",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Stealth Air Superiority Fighter Prototype",
+  "tagline": "Northrop's entry in the Advanced Tactical Fighter fly-off, and the faster and stealthier of the two designs the U.S. Air Force flew in 1990. Two prototypes flew 50 times between them before the service picked the Lockheed YF-22 in April 1991; both survive in museums, and neither ever carried a weapon.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "Both prototypes flew a combined total of just 50 flights and 65.2 flight hours before the competition ended.",
+    "PAV-2 supercruised at Mach 1.72 on 29 November 1990 - faster than the YF-22 managed on dry thrust, and faster than the F-22 that entered service.",
+    "It had no thrust vectoring at all, a deliberate trade of low-speed agility for rear-aspect stealth and less mechanical complexity.",
+    "The name 'Black Widow II' was always unofficial, taken from the eight-lobe radar cross-section plot that looked like a spider; the Air Force Museum nonetheless displays PAV-1 under it today.",
+    "The prototypes carried no radar, no fire-control system and no weapons; the bay was opened in flight only to test acoustics, and no missile was ever launched.",
+    "To save money the team fitted parts off other aircraft, including an F-15 nose wheel, F/A-18 main gear and F-15E cockpit components."
+  ],
+  "specifications": {
+    "specificationsNote": "The two prototypes were flown with different engines - PAV-1 with Pratt & Whitney YF119s and PAV-2 with General Electric YF120s - so thrust figures cover both. Weights, speeds and ranges are the published programme figures for the YF-23 rather than demonstrated flight-test values; the highest speed actually flown was about Mach 1.8, and the maximum was classified at the time.",
+    "maxSpeed": {
+      "mph": 1452,
+      "text": "1,262 kn (1,452 mph / 2,337 km/h)"
+    },
+    "cruiseSpeed": "Supercruise demonstrated at Mach 1.72 (1,135 mph / 1,827 km/h) by PAV-2 on dry thrust; PAV-1 reached Mach 1.43",
+    "range": {
+      "miles": 2762,
+      "text": "2,762 mi (4,445 km, 2,400 nmi) ferry range; combat radius 806-921 mi (1,296-1,482 km, 700-800 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 65000,
+      "text": "65,000 ft (19,800 m)"
+    },
+    "wingspan": {
+      "ft": 43.58,
+      "text": "43 ft 7 in (13.28 m)"
+    },
+    "length": {
+      "ft": 67.42,
+      "text": "67 ft 5 in (20.55 m)"
+    },
+    "height": {
+      "ft": 13.92,
+      "text": "13 ft 11 in (4.24 m)"
+    },
+    "weight": "empty: 29,000 lb (13,154 kg) without engines; combat weight: 51,320 lb (23,280 kg); takeoff gross weight: 64,000 lb (29,030 kg)",
+    "engines": "2 x Pratt & Whitney YF119 (PAV-1) or General Electric YF120 (PAV-2) afterburning turbofans, in the 35,000 lbf class with afterburner",
+    "armament": "None carried. A single large weapons bay sat between the nose and main landing gear and was configured for weapons launch, but the prototypes flew with no armament and no fire-control system, and no missile was ever fired",
+    "crew": "1",
+    "capacity": "N/A - single-seat fighter prototype; flight test instrumentation in place of mission systems",
+    "firstFlight": {
+      "date": "1990-08-27",
+      "year": 1990
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": null,
+    "numberBuilt": 2
+  },
+  "variants": [
+    {
+      "code": "PAV-1 (87-0800)",
+      "desc": "The first prototype air vehicle, flown by Paul Metz on 27 August 1990 with two Pratt & Whitney YF119 engines. Painted charcoal grey and known within the team as the Gray Ghost, it briefly carried a red hourglass marking on its ram air scoop, painted on to stop ground crew walking into it and removed once Northrop management saw it. It supercruised at Mach 1.43 on 18 September 1990 and flew six sorties in a ten-hour period on 30 November 1990 to demonstrate sortie generation."
+    },
+    {
+      "code": "PAV-2 (87-0801)",
+      "desc": "The second prototype, flown by Jim Sandberg on 26 October 1990 with General Electric YF120 variable-cycle engines. Finished in two-tone grey and nicknamed Spider, it recorded the programme's fastest supercruise at Mach 1.72 on 29 November 1990. It was later modified by Northrop Grumman as a full-scale display model for the FB-23 bomber proposal before returning to museum display."
+    },
+    {
+      "code": "F-23A (production proposal)",
+      "desc": "The production fighter offered against the Lockheed F-22A, differing from the prototypes in having full mission avionics, a fire-control radar, an armed weapons bay and a revised structure. It was never built: the Air Force selected the YF-22 on 23 April 1991 and the Northrop team's engineering and manufacturing development proposal went no further."
+    },
+    {
+      "code": "FB-23 (bomber proposal)",
+      "desc": "A two-seat regional bomber derivative offered in 2004 against a U.S. Air Force interim bomber solicitation. It stretched to roughly 100 ft overall, carried 10,000 lb internally over a combat radius of more than 1,600 nmi, and replaced the trench exhausts with round axisymmetric nozzles above the aft deck. The 2006 Quadrennial Defense Review favoured longer-range strategic bombers and the proposal ended."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Intended Operator (Advanced Tactical Fighter competitor)",
+      "status": "Cancelled",
+      "since": "Never entered service",
+      "fleetSize": "Two prototypes flown under Air Force contract; the envisaged buy of 750 Advanced Tactical Fighters went to the Lockheed F-22 instead, and was eventually cut to 187 aircraft",
+      "homeBase": "Flight testing at Edwards Air Force Base, California"
+    },
+    {
+      "name": "Northrop / McDonnell Douglas team",
+      "role": "Prime Contractor & Test Operator",
+      "status": "Retired",
+      "since": "1986",
+      "fleetSize": "2 (87-0800 and 87-0801)",
+      "homeBase": "Hawthorne, California and St. Louis, Missouri"
+    },
+    {
+      "name": "NASA Dryden Flight Research Center",
+      "role": "Custodian (both airframes, engines removed)",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "2, held in storage until mid-1996",
+      "homeBase": "Edwards Air Force Base, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A - no ICAO type designator was ever issued",
+    "howToFind": "Neither YF-23 has flown since 1990 and both are engineless museum exhibits, so the type never appears on Flightradar24. PAV-1 is at the National Museum of the United States Air Force in Dayton, Ohio; PAV-2 is at the Western Museum of Flight in Torrance, California."
+  },
+  "lastUpdated": "2026-09-21",
+  "changelog": [
+    {
+      "date": "2026-09-21",
+      "change": "Entry created - full article, specifications, variants, operators and survivor records written from Wikipedia and the National Museum of the United States Air Force fact sheet.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "yf-23",
+    "yf23",
+    "black widow ii",
+    "gray ghost",
+    "spider",
+    "northrop",
+    "mcdonnell douglas",
+    "advanced tactical fighter",
+    "atf",
+    "stealth fighter",
+    "supercruise",
+    "fb-23"
+  ],
+  "article": {
+    "overview": [
+      "The YF-23 is a single-seat, twin-engine stealth fighter prototype built by Northrop with McDonnell Douglas for the United States Air Force's Advanced Tactical Fighter competition. Two aircraft were built. The first flew on 27 August 1990 and the programme ended on 23 April 1991 when the Air Force selected the rival Lockheed YF-22.{{ref:wiki-yf23}}",
+      "Neither prototype was ever armed or fitted with a fire-control system, and between them they flew 50 times for 65.2 flight hours. Both survive: PAV-1 at the National Museum of the United States Air Force in Ohio, and PAV-2 at the Western Museum of Flight in California.{{ref:wiki-yf23}}{{ref:nmusaf}}"
+    ],
+    "sections": [
+      {
+        "heading": "The Advanced Tactical Fighter Competition",
+        "paragraphs": [
+          "The Air Force began the Advanced Tactical Fighter programme in 1981 to replace the F-15, issuing a request for information that May, with the Soviet Su-27 and MiG-29 as the threats it was meant to answer. In October 1986 the service awarded demonstration and validation contracts worth $691 million in FY1985 dollars to two competing teams: Northrop with McDonnell Douglas, and Lockheed with Boeing and General Dynamics. Each team was to build two flying prototypes, against an Air Force plan to buy 750 fighters at a unit flyaway cost of $35 million. The Northrop team put in a further $650 million of its own money.{{ref:wiki-yf23}}",
+          "The work was split across the country. Northrop, as prime contractor, built the aft fuselage and empennage at Hawthorne, California; McDonnell Douglas built the wings and forward fuselage in St. Louis. Because the prototypes existed to demonstrate a design rather than to fight, the team fitted commercial and off-the-shelf parts wherever it could get away with it, including an F-15 nose wheel, F/A-18 main landing gear and F-15E cockpit components.{{ref:wiki-yf23}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The YF-23 was built around stealth and sustained supersonic speed rather than close-in agility. The diamond planform wing was swept 40 degrees on both leading and trailing edges, and all-moving V-tail ruddervators canted 50 degrees from vertical replaced the conventional fins and tailplanes - four surfaces doing the work of six, with far fewer radar-reflective corners. The chiselled nose carried sharp chines that shed vortices to help at high angle of attack, and the aircraft was relaxed-stability with fly-by-wire control throughout. Across 950 sq ft of wing the design worked out at 67.4 lb/sq ft of wing loading, falling to 54 lb/sq ft at combat weight, with a thrust-to-weight ratio of 1.09 rising to 1.36.{{ref:wiki-yf23}}",
+          "The rear end was the most distinctive part of the design. Widely spaced trapezoidal inlets fed serpentine S-ducts that hid the compressor faces from radar, and the exhaust left through troughs cut into the upper surface, lined with heat-absorbing tiles using Lamilloy transpiration cooling to bring the infrared signature down. There was no thrust vectoring - the YF-22 had it and the YF-23 deliberately did not, buying rear-aspect signature and simplicity at the cost of the low-speed pointing ability the Air Force would later demonstrate publicly with the Lockheed aircraft. A single large weapons bay sat between the nose and main landing gear. The result was a radar cross-section plot with eight narrow lobes - a shape read as resembling a spider, and the origin of the unofficial Black Widow II name.{{ref:wiki-yf23}}"
+        ]
+      },
+      {
+        "heading": "Flight Testing",
+        "paragraphs": [
+          "PAV-1, serial 87-0800 and known to the team as the Gray Ghost, first flew on 27 August 1990, a 50-minute sortie with Paul Metz at the controls and Pratt & Whitney YF119 engines. PAV-2, 87-0801 and nicknamed Spider, followed on 26 October with Jim Sandberg flying and General Electric YF120 variable-cycle engines fitted, so that each engine candidate was proved in the airframe. PAV-1 supercruised at Mach 1.43 on 18 September 1990 and PAV-2 reached Mach 1.72 on 29 November, both without afterburner.{{ref:wiki-yf23}}",
+          "The demonstrated envelope stopped well short of the design figures. The fastest speed flown was around Mach 1.8 with afterburner, the highest angle of attack 25 degrees and the highest load factor 7.1 g, and the classified maximum was never approached. On 30 November 1990 PAV-1 flew six sorties in a ten-hour period to show turnaround performance. The weapons bay was opened in flight to measure acoustics, but no missile was ever launched from either aircraft. The two prototypes together logged 50 flights and 65.2 hours - considerably fewer than the Lockheed team flew.{{ref:wiki-yf23}}"
+        ]
+      },
+      {
+        "heading": "Losing the Fly-Off",
+        "paragraphs": [
+          "On 23 April 1991, Secretary of the Air Force Donald Rice announced that the Lockheed YF-22 and the Pratt & Whitney F119 had won. The service said the Lockheed and Pratt & Whitney designs rated higher on technical grounds, carried lower risk and showed more effective programme management. The lighter flight-test record counted against Northrop directly: fewer sorties and fewer hours meant less demonstrated.{{ref:wiki-yf23}}",
+          "Two other factors are widely cited and were never part of the official rationale. Northrop was at that point running cost overruns and schedule slips on the B-2 and the AGM-137 TSSAM missile, which damaged confidence in its programme management. The YF-22 was also thought more adaptable to the Navy's planned NATF carrier fighter - a requirement the Navy abandoned by fiscal year 1992, after the decision had been made.{{ref:wiki-yf23}}"
+        ]
+      },
+      {
+        "heading": "Afterlife and the FB-23",
+        "paragraphs": [
+          "Both aircraft went to NASA's Dryden Flight Research Center at Edwards with their engines removed. A plan to use one for calibration work came to nothing and they sat in storage until mid-1996, when they were released to museums. PAV-1 went to the National Museum of the United States Air Force at Wright-Patterson, where it is displayed in the research and development hangar.{{ref:nmusaf}}",
+          "The design resurfaced once. In 2004 Northrop Grumman offered the FB-23, a two-seat regional bomber derivative roughly 100 ft long carrying 10,000 lb internally over a combat radius of more than 1,600 nmi, with round axisymmetric nozzles above the aft deck in place of the trench exhausts. PAV-2 was modified as the full-scale display model. The 2006 Quadrennial Defense Review came down in favour of longer-range strategic bombers, the proposal ended, and the aircraft went back to the Western Museum of Flight in 2010.{{ref:wiki-yf23}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-yf23",
+      "name": "Northrop YF-23",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YF-23"
+    },
+    {
+      "id": "nmusaf",
+      "name": "Northrop-McDonnell Douglas YF-23A Black Widow II",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195766/northrop-mcdonnell-douglas-yf-23a-black-widow-ii/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Wikipedia - Northrop YF-23",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YF-23"
+    },
+    {
+      "name": "National Museum of the United States Air Force - Northrop-McDonnell Douglas YF-23A Black Widow II",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195766/northrop-mcdonnell-douglas-yf-23a-black-widow-ii/"
+    },
+    {
+      "name": "Western Museum of Flight - Torrance, California",
+      "url": "https://www.wmof.com/"
+    }
+  ],
+  "survivors": {
+    "intro": "Both YF-23s survive, which is unusual for a losing prototype, and both are on public display in the United States. Neither has engines: they were removed before the aircraft were handed to NASA in 1991 and never refitted.",
+    "airframes": [
+      {
+        "serial": "87-0800 (PAV-1)",
+        "name": "Gray Ghost",
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195766/northrop-mcdonnell-douglas-yf-23a-black-widow-ii/",
+        "note": "The first prototype, flown on 27 August 1990 with Pratt & Whitney YF119 engines. Displayed in the museum's research and development hangar.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "87-0801 (PAV-2)",
+        "name": "Spider",
+        "location": "Western Museum of Flight, Zamperini Field",
+        "place": "Torrance, California, United States",
+        "url": "https://www.wmof.com/",
+        "note": "The second prototype, flown on 26 October 1990 with General Electric YF120 engines. Reclaimed by Northrop Grumman in 2004 to serve as the FB-23 bomber display model and returned to the museum in 2010.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "accidentsAndIncidents": [
+    {
+      "date": "1990-11-29",
+      "title": "Fastest supercruise of the ATF competition",
+      "tag": "Record flight",
+      "summary": "PAV-2, flying with General Electric YF120 engines, sustained Mach 1.72 without afterburner - the highest dry-thrust cruise speed reached by either Advanced Tactical Fighter prototype, and higher than the F-22 that entered service a decade later.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_YF-23"
+    },
+    {
+      "date": "1990-11-30",
+      "title": "Six sorties in ten hours",
+      "tag": "Test milestone",
+      "summary": "PAV-1 flew six times over a ten-hour period in a demonstration of combat sortie generation, one of the few operationally flavoured tests the short programme had time for.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_YF-23"
+    }
+  ]
+}
