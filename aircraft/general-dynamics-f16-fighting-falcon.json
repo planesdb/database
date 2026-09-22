@@ -11,17 +11,17 @@
     "fighter-jets"
   ],
   "role": "Multirole Fighter",
-  "tagline": "The most-produced Western jet fighter of the modern era. It pioneered fly-by-wire flight controls in a production fighter and a deliberately unstable airframe for extreme agility, and with over 4,600 built, new-build Block 70/72 aircraft are still rolling off the line today.",
+  "tagline": "The F-16 Fighting Falcon is a single-engine multirole fighter designed by General Dynamics and now built by Lockheed Martin. It was the first production fighter with fly-by-wire controls and a deliberately unstable airframe, more than 4,600 have been built, and new Block 70/72 aircraft are still coming off the line.",
   "status": "In Service",
   "inProduction": true,
   "history": "The F-16 was born from the Lightweight Fighter (LWF) competition, where General Dynamics' YF-16 beat the Northrop YF-17 in 1975 - its first 'flight' was actually an unplanned hop during a high-speed taxi test on 20 January 1974. The type entered USAF service in 1979 and quickly evolved from a day dogfighter into a true multirole workhorse, flying strike, SEAD ('Wild Weasel'), and air-defence missions in every major US operation since Desert Storm. Israel used F-16s to destroy Iraq's Osirak reactor in 1981, and Pakistani, Turkish, Greek and Dutch jets have all seen combat with the type. Production transferred to Lockheed Martin in 1993, and the latest Block 70/72 variants - with AESA radar and conformal fuel tanks - have kept the order book open into the 2030s, with Ukraine among the newest operators of second-hand European jets.",
   "quickFacts": [
-    "The F-16's first flight was an accident: during a high-speed taxi test on 20 January 1974, oscillations forced test pilot Phil Oestricher to lift off to avoid crashing.",
+    "On 20 January 1974 test pilot Phil Oestricher made the F-16's first flight by accident, lifting off during a high-speed taxi test when oscillations threatened to crash the aircraft.",
     "It was the first production fighter deliberately built to be aerodynamically unstable, relying entirely on its fly-by-wire computer to stay controllable.",
-    "Pilots nicknamed it the 'Viper' after the fighters in Battlestar Galactica - the official name 'Fighting Falcon' never really caught on in squadrons.",
-    "The seat is reclined 30 degrees and the side-stick controller barely moves - early versions didn't move at all, sensing only pressure from the pilot's hand.",
+    "Pilots nicknamed it the 'Viper' after the fighters in Battlestar Galactica, and in squadrons that name stuck far better than the official 'Fighting Falcon'.",
+    "The seat is reclined 30 degrees and the sidestick barely moves; on early versions it did not move at all and sensed only the pressure of the pilot's hand.",
     "With more than 4,600 built for 25+ countries, it is the most numerous fixed-wing military aircraft in service anywhere in the world.",
-    "Israeli F-16 number 78-0322, nicknamed 'Netz 107', is credited with 6.5 air-to-air kills plus the 1981 Osirak reactor strike - the highest-scoring F-16 airframe ever."
+    "Israeli F-16 number 78-0322, nicknamed 'Netz 107', is credited with 6.5 air-to-air kills and flew in the 1981 Osirak reactor strike. No other F-16 airframe has more kills."
   ],
   "specifications": {
     "specificationsNote": "",
@@ -181,7 +181,7 @@
     "icaoTypeCode": "F16",
     "howToFind": "Search type 'F16'. Training sorties from ANG bases and European operators (Belgium, Netherlands, Poland, Greece) appear regularly when jets fly with transponders on."
   },
-  "lastUpdated": "2026-09-09",
+  "lastUpdated": "2026-09-22",
   "newsSourceFeeds": [
     {
       "name": "Air & Space Forces Magazine",
@@ -224,48 +224,48 @@
   ],
   "article": {
     "overview": [
-      "The General Dynamics F-16 Fighting Falcon is a single-engine, single-seat multirole fighter developed by General Dynamics, now built by Lockheed Martin. More than 4,600 have been built for over two dozen air forces, making it the most numerous fixed-wing combat aircraft in service today.{{ref:wiki-f16}}{{ref:lm-fastfacts}}",
+      "The General Dynamics F-16 Fighting Falcon is a single-engine, single-seat multirole fighter developed by General Dynamics, now built by Lockheed Martin. More than 4,600 have been built for over two dozen air forces, and it is the most numerous fixed-wing combat aircraft in service today.{{ref:wiki-f16}}{{ref:lm-fastfacts}}",
       "It has fought over Lebanon's Bekaa Valley and over Baghdad, destroyed Iraq's Osirak nuclear reactor in a 1981 raid, and entered Ukrainian service in 2024. Pilots have called it the 'Viper' since its first operational squadron stood up.{{ref:wiki-f16}}"
     ],
     "sections": [
       {
         "heading": "Origins & Concept",
         "paragraphs": [
-          "The F-16 exists because a small group of Pentagon insurgents - the self-styled 'Fighter Mafia' around Colonel John Boyd, mathematician Thomas Christie and designer Harry Hillaker - believed 1960s fighters had lost the plot. Boyd's energy-manoeuvrability theory reduced dogfighting to mathematics, and the mathematics said the winning fighter was small, light, simple and agile, with more thrust than weight and a pilot who could see out.{{ref:wiki-f16}}",
-          "Their heresy became the Lightweight Fighter (LWF) program of 1972, a fly-before-buy competition the establishment expected to remain a technology demo. General Dynamics' YF-16 flew against Northrop's twin-engined YF-17 through 1974; the YF-16 won in January 1975 on agility, range and the economics of sharing the F-15's engine.{{ref:wiki-f16}}",
-          "What guaranteed the type's future came five months later: Belgium, Denmark, the Netherlands and Norway jointly picked the F-16 over the Mirage F1 and a Swedish Viggen derivative to replace their F-104s - the 'Deal of the Century', which planted F-16 production lines and four decades of operators across Europe from the start.{{ref:wiki-f16}}"
+          "The F-16 came out of the 'Fighter Mafia', a small group inside the Pentagon around Colonel John Boyd, mathematician Thomas Christie and designer Harry Hillaker, who argued that 1960s fighter design had gone in the wrong direction. Boyd's energy-manoeuvrability theory turned dogfighting into equations, and by those equations the best fighter was small, light, simple and agile, with more thrust than weight and a clear view out for the pilot.{{ref:wiki-f16}}",
+          "Their ideas became the Lightweight Fighter (LWF) programme of 1972, a fly-before-buy competition that the establishment expected to stay a technology demonstration. General Dynamics' YF-16 flew against Northrop's twin-engined YF-17 through 1974, and the YF-16 won in January 1975 on agility, range and the savings of sharing the F-15's engine.{{ref:wiki-f16}}",
+          "Five months later Belgium, Denmark, the Netherlands and Norway jointly chose the F-16 over the Mirage F1 and a Swedish Viggen derivative to replace their F-104s. The 'Deal of the Century' put F-16 production lines in Europe from the start and gave the type four decades of European operators.{{ref:wiki-f16}}"
         ]
       },
       {
         "heading": "Development",
         "paragraphs": [
-          "Turning the YF-16 into the production F-16A stretched the fuselage, grew the radar nose and added hardpoints - the start of a weight-and-capability spiral the Fighter Mafia grumbled about forever after. Deliveries to Hill AFB began in January 1979, with the European partner air forces following within months from their own assembly lines in Belgium and the Netherlands.{{ref:wiki-f16}}",
-          "The design then did something few fighters manage: it kept absorbing new roles without losing its edge. The C/D models added beyond-visual-range missiles and precision strike; successive Block numbers brought new radars, engines and electronic warfare fits; and by the 2000s the F-16 was less a single aircraft than a family tree spanning forty years of avionics.{{ref:key-block70}}",
-          "It refuses to end. The current Block 70/72 - AESA radar, new cockpit, conformal tanks, automatic ground-collision avoidance - is built at a dedicated Greenville, South Carolina line with 122 delivered and a backlog of roughly 530 aircraft as of mid-2026, keeping production alive into the 2030s.{{ref:lm-fastfacts}}{{ref:shephard-f16}}{{ref:sf-ordering}}"
+          "Turning the YF-16 into the production F-16A stretched the fuselage, enlarged the radar nose and added hardpoints. That began a steady growth in weight and capability that the Fighter Mafia complained about for years. Deliveries to Hill AFB began in January 1979, and the European partner air forces followed within months from their own assembly lines in Belgium and the Netherlands.{{ref:wiki-f16}}",
+          "The F-16 kept taking on new roles. The C/D models added beyond-visual-range missiles and precision strike, and successive Block numbers brought new radars, engines and electronic warfare fits, so that by the 2000s the one name covered forty years of different avionics standards.{{ref:key-block70}}",
+          "The current Block 70/72 has an AESA radar, a new cockpit, conformal fuel tanks and automatic ground-collision avoidance, and is built on a dedicated line at Greenville, South Carolina. By mid-2026 the line had delivered 122 aircraft and had a backlog of roughly 530, enough to keep production going into the 2030s.{{ref:lm-fastfacts}}{{ref:shephard-f16}}{{ref:sf-ordering}}"
         ]
       },
       {
         "heading": "Design & Engineering",
         "paragraphs": [
-          "The F-16 was the first production aircraft designed to be aerodynamically unstable on purpose. Relaxed static stability meant the airframe wanted to depart controlled flight every instant - and the analogue (later digital) fly-by-wire system, another production first, caught it every instant, converting instability into extraordinary agility. Pilots don't so much deflect the F-16's controls as request manoeuvres from the computer.{{ref:wiki-f16}}",
-          "The cockpit departed sharply from earlier fighters too: a frameless bubble canopy for improved all-round visibility, a seat reclined 30 degrees to raise g-tolerance, and a force-sensing sidestick on the right console in place of the centre stick fighters had used since 1914. The airframe was designed to a 9g structural limit.{{ref:wiki-f16}}",
-          "Underneath it all: one F100 engine shared with the F-15, a blended wing-body that carries lift into the fuselage, and the strake vortices that keep the nose flying at angles of attack that would stall the aircraft it replaced.{{ref:wiki-f16}}"
+          "The F-16 was the first production aircraft designed to be aerodynamically unstable on purpose. With relaxed static stability the airframe would depart controlled flight without constant correction, and the analogue (later digital) fly-by-wire system, another production first, supplied that correction continuously. The instability is what gives the F-16 its agility: the pilot's inputs go to the flight computer, which decides how to move the control surfaces.{{ref:wiki-f16}}",
+          "The cockpit broke with earlier fighters as well. It has a frameless bubble canopy for all-round visibility, a seat reclined 30 degrees to raise g-tolerance, and a force-sensing sidestick on the right console in place of the centre stick fighters had used since 1914. The airframe was designed to a 9g structural limit.{{ref:wiki-f16}}",
+          "The F-16 uses the same F100 engine as the F-15, and its blended wing-body carries lift into the fuselage. Vortices from the strakes keep the nose flying at angles of attack that would stall the aircraft it replaced.{{ref:wiki-f16}}"
         ]
       },
       {
         "heading": "Combat History",
         "paragraphs": [
-          "Israel wrote the type's first legends. On 7 June 1981, eight Israeli F-16As flew low across Jordan and Saudi Arabia to destroy Iraq's Osirak nuclear reactor - a mission at the ragged edge of their unrefuelled range and the defining precision strike of its era. A year later over Lebanon's Bekaa Valley, Israeli F-16s tore through the Syrian air force in history's largest jet-versus-jet battle, establishing an air-to-air record the type never surrendered.{{ref:wiki-osirak}}",
-          "For the U.S. and NATO, the F-16 became the everywhere-fighter: 13,340 sorties in Desert Storm (more than any other coalition type), no-fly zones over Iraq and the Balkans, strikes in Kosovo, Afghanistan and against ISIS, and the backbone of a dozen allied air arms doing the same jobs on the same jets.{{ref:wiki-f16}}",
-          "Its newest war began in August 2024, when the first European-donated F-16s reached Ukraine. Flying air defence against cruise missiles and Shahed drones - and losing airframes and pilots doing it - Ukrainian Vipers turned a Cold War icon into the most-watched fighter of the 2020s, sustained by a NATO pipeline of Danish and Dutch donations and even boneyard airframes shipped for spares.{{ref:twz-boneyard}}{{ref:lm-fastfacts}}"
+          "On 7 June 1981, eight Israeli F-16As flew low across Jordan and Saudi Arabia to destroy Iraq's Osirak nuclear reactor, a mission flown near the limit of their unrefuelled range. A year later, over Lebanon's Bekaa Valley, Israeli F-16s fought the Syrian air force in the largest jet-versus-jet battle in history.{{ref:wiki-osirak}}",
+          "US and NATO F-16s flew 13,340 sorties in Desert Storm, more than any other coalition type, then enforced no-fly zones over Iraq and the Balkans and flew strikes in Kosovo, Afghanistan and against ISIS. A dozen allied air forces flew the same missions in the same aircraft.{{ref:wiki-f16}}",
+          "The first European-donated F-16s reached Ukraine in August 2024. Ukrainian pilots have flown them mainly as air defence against cruise missiles and Shahed drones, and several aircraft and pilots have been lost doing it. Danish and Dutch donations keep the fleet going, and the US has even shipped boneyard airframes to Ukraine for spare parts.{{ref:twz-boneyard}}{{ref:lm-fastfacts}}"
         ]
       },
       {
         "heading": "Current Status & Outlook",
         "paragraphs": [
-          "By the numbers alone the F-16 is the most successful Western fighter of the jet age: over 4,600 built, more than two dozen operator nations, an air-to-air record measured in dozens of kills against a single loss, and - uniquely for a 1970s design - a production backlog that grew in the 2020s.{{ref:lm-fastfacts}}{{ref:af-f16}}",
-          "Fly-by-wire instability, the sidestick, the reclined seat, the bubble canopy and thrust-to-weight over unity all became standard features on fighters designed after the F-16. Many air forces that buy the F-35 as an F-16 successor continue operating F-16s alongside it rather than retiring the type.{{ref:shephard-f16}}",
-          "Fifty years after Phil Oestricher's unplanned first flight, air forces from Bratislava to Kyiv to Taipei are still taking delivery of new F-16s.{{ref:key-block70}}"
+          "More than 4,600 F-16s have been built for more than two dozen countries. The type's air-to-air record runs to dozens of kills against a single loss, and its production backlog grew during the 2020s, some fifty years after the first flight.{{ref:lm-fastfacts}}{{ref:af-f16}}",
+          "Fly-by-wire instability, the sidestick, the reclined seat, the bubble canopy and thrust-to-weight over unity all became standard features on fighters designed after the F-16. Many air forces that buy the F-35 as its successor keep flying their F-16s alongside it.{{ref:shephard-f16}}",
+          "Air forces including Slovakia's and Taiwan's are still taking delivery of new-build F-16s.{{ref:key-block70}}"
         ]
       }
     ]
@@ -363,6 +363,16 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators roster from the full operators list - broke the single \"25+ allied air forces\" row into the nine largest operators with real delivered and in-service figures, corrected the USAF fleet to the 2023 figure of 841, and named the remaining export customers. Attached two previously uncited references.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-22",
+      "change": "Updated the Accidents & Incidents tab with the two F-16 crashes in the past week: the Texas Air National Guard jet lost near Traverse City, Michigan on 17 September, and the 52nd Fighter Wing jet lost at Spangdahlem Air Base, Germany on 22 September. Both pilots ejected.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-22",
+      "change": "Rewrote the tagline, quickFacts and Overview article to read more naturally (removed stock phrases, set-up sentences, dash-heavy constructions and unsupported superlatives). Facts and citations unchanged.",
       "author": "planesdb"
     }
   ],
@@ -478,6 +488,22 @@
       "summary": "Pilot Maksym Ustymenko was killed when his F-16 was struck by debris from a drone he had just destroyed during a large-scale Russian attack; he stayed with the aircraft to steer it away from a populated area.",
       "fatalities": 1,
       "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_operational_history"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Texas Air National Guard F-16 crashes in Michigan",
+      "tag": "Training accident",
+      "summary": "An F-16 of the Texas Air National Guard's 149th Fighter Wing, operating from the Combat Readiness Training Center at Alpena, crashed in Blair Township near Traverse City, Michigan, while flying a low-level training route with a wingman. The pilot ejected and was reported in stable condition, and homes within a mile were evacuated for several hours. Air traffic control audio suggested a bird strike, and first responders and residents exposed to hydrazine from the wreck were sent for decontamination.",
+      "fatalities": 0,
+      "source": "https://www.cbsnews.com/detroit/news/plane-crash-grand-traverse-county-michigan-shelter-in-place/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "F-16 crashes at Spangdahlem Air Base",
+      "tag": "Approach accident",
+      "summary": "An F-16CM of the 52nd Fighter Wing's 480th Fighter Squadron crashed on the base golf course just short of the runway while returning from a two-ship training mission at Spangdahlem, Germany. The pilot ejected and was treated for injuries, and the aircraft was destroyed. It was the second US F-16 crash in five days; the cause is under investigation.",
+      "fatalities": 0,
+      "source": "https://www.airandspaceforces.com/f-16-crashes-in-germany-pilot-ejects/"
     }
   ]
 }

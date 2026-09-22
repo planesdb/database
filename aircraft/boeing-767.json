@@ -1,0 +1,419 @@
+{
+  "name": "767",
+  "fullName": "Boeing 767",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Wide-Body Airliner and Freighter",
+  "tagline": "The Boeing 767 is a mid-size, twin-engine wide-body airliner built by Boeing since 1981. It was the first aircraft approved for 120-minute ETOPS flights across the North Atlantic, more than 1,370 have been delivered, and FedEx and UPS now fly the largest fleets as freighters.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "In 1985 the 767 became the first aircraft cleared for 120-minute ETOPS, and by the end of the 1990s 767s crossed the Atlantic more often than all other airliner types combined.",
+    "The 'Gimli Glider' was a 767: in July 1983 an Air Canada jet ran out of fuel at 41,000 ft after a pounds-to-kilograms mix-up and glided to a landing on a disused airfield in Manitoba with no fatalities.",
+    "Its 2-3-2 economy layout means about 87 percent of seats are at a window or an aisle.",
+    "Pilots can fly both the 767 and the narrow-body 757 on one common type rating, because Boeing developed the two flight decks together.",
+    "The 767 freighter does not meet the ICAO carbon-emissions standard that takes effect in 2028, and Boeing plans to end production in 2027."
+  ],
+  "specifications": {
+    "specificationsNote": "\"??\" means the figure has not been published in the sources checked. Specifications are for the 767-300ER, the best-selling version. Height is Boeing's published figure for the 767-300F, which shares the -300ER's airframe; maximum speed is set by the FAA type certificate (A1NM), which was not available to check, so no figure is recorded.",
+    "maxSpeed": {
+      "mph": 567,
+      "text": "567 mph (912 km/h, Mach 0.86)"
+    },
+    "cruiseSpeed": "533 mph (858 km/h, Mach 0.80)",
+    "range": {
+      "miles": 6880,
+      "text": "6,880 mi (11,070 km, 5,980 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 43100,
+      "text": "43,100 ft (13,140 m)"
+    },
+    "wingspan": {
+      "ft": 156.1,
+      "text": "156 ft 1 in (47.57 m)"
+    },
+    "length": {
+      "ft": 180.3,
+      "text": "180 ft 3 in (54.94 m)"
+    },
+    "height": {
+      "ft": 52,
+      "text": "52 ft (15.85 m)"
+    },
+    "weight": "empty: 198,440 lb (90 t); MTOW: 412,000 lb (186.9 t)",
+    "engines": "2 x Pratt & Whitney PW4000, General Electric CF6-80C2 or Rolls-Royce RB211-524 turbofans, 56,750-61,500 lbf (252-274 kN) each",
+    "crew": "2 flight crew",
+    "capacity": "218 typical (3-class), up to 290; 767-300F: 115,700 lb (52,480 kg) payload",
+    "firstFlight": {
+      "date": "1981-09-26",
+      "year": 1981
+    },
+    "serviceEntryDate": "1982-09-08",
+    "retiredDate": null,
+    "numberBuilt": 1373,
+    "unitCost": {
+      "usd": 217900000,
+      "text": "$217.9M (767-300ER list price, 2019) - roughly $286M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$286M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "767-200 / -200ER",
+      "desc": "The original version entered service with United on 8 September 1982 carrying up to 216 passengers over 3,900 nmi. The -200ER, in service from March 1984, added fuel and weight for a 6,590 nmi range and flew many of the first ETOPS routes. 128 -200s and 121 -200ERs were delivered."
+    },
+    {
+      "code": "767-300 / -300ER",
+      "desc": "A 21.1 ft stretch of the -200, entering service in October 1986 and raising typical seating to 269. The extended-range -300ER followed in March 1988 with a 412,000 lb maximum take-off weight and a 5,980 nmi range, and outsold every other 767, with 583 delivered against 104 standard -300s."
+    },
+    {
+      "code": "767-300F",
+      "desc": "The dedicated freighter, launched by UPS and in service from October 1995, with a main-deck cargo door and a payload of about 115,700 lb (52,480 kg). 278 had been delivered by August 2026, long after passenger production ended, and FedEx and UPS are its only remaining customers."
+    },
+    {
+      "code": "767-400ER",
+      "desc": "The final passenger model and a second stretch, entering service in September 2000 with seating for about 245 and raked wingtips that added 14.3 ft to the span. Only 38 were built, the fewest of any version, and its range of 5,625 nmi was shorter than the -300ER's."
+    },
+    {
+      "code": "Military derivatives (E-767, KC-767, KC-46)",
+      "desc": "The 767 airframe is the basis of Japan's E-767 airborne early warning aircraft (first delivered 1998), the KC-767 tanker flown by Japan and Italy (first delivered 2008), and the 767-2C, basis of the US Air Force's KC-46 Pegasus. By August 2026, 121 KC-46s had been delivered with 68 more on order."
+    }
+  ],
+  "operators": [
+    {
+      "name": "FedEx Express",
+      "role": "Largest Operator",
+      "status": "In Service",
+      "fleetSize": "145",
+      "homeBase": "Memphis International Airport - Tennessee"
+    },
+    {
+      "name": "UPS Airlines",
+      "role": "Launch Customer (767-300F)",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "99",
+      "homeBase": "Louisville Muhammad Ali International Airport - Kentucky"
+    },
+    {
+      "name": "Delta Air Lines",
+      "role": "Largest Passenger Operator",
+      "status": "In Service",
+      "fleetSize": "58",
+      "homeBase": "Hartsfield-Jackson Atlanta International Airport - Georgia"
+    },
+    {
+      "name": "United Airlines",
+      "role": "Launch Customer",
+      "status": "In Service",
+      "since": "1982",
+      "fleetSize": "53",
+      "homeBase": "Chicago O'Hare International Airport - Illinois"
+    },
+    {
+      "name": "Air Transport International",
+      "role": "Cargo Operator",
+      "status": "In Service",
+      "fleetSize": "45",
+      "homeBase": "Wilmington Air Park - Ohio"
+    },
+    {
+      "name": "Atlas Air",
+      "role": "Cargo Operator (incl. for Amazon Air)",
+      "status": "In Service",
+      "fleetSize": "30",
+      "homeBase": "United States"
+    },
+    {
+      "name": "LATAM Airlines Group",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "29",
+      "homeBase": "Santiago - Chile"
+    },
+    {
+      "name": "Japan Airlines",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "27",
+      "homeBase": "Tokyo - Japan"
+    },
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "Military Operator (E-767, KC-767)",
+      "status": "In Service",
+      "since": "1998",
+      "fleetSize": "8 (4 E-767, 4 KC-767)",
+      "homeBase": "Japan"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Military Operator (KC-767)",
+      "status": "In Service",
+      "fleetSize": "4",
+      "homeBase": "Italy"
+    },
+    {
+      "name": "40+ other operators",
+      "role": "Operators",
+      "status": "In Service",
+      "since": "1982",
+      "fleetSize": "Including ABX Air (33); former operators include British Airways (last 767 retired December 2018)",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B762 (767-200); B763 (767-300/-300F); B764 (767-400ER)",
+    "howToFind": "Filter by B763 for the most common version. The largest fleets belong to FedEx (callsign FDX) and UPS (UPS), flying freighters out of their hubs at Memphis and Louisville; Delta (DAL) and United (UAL) are the biggest passenger operators."
+  },
+  "lastUpdated": "2026-09-22",
+  "changelog": [
+    {
+      "date": "2026-09-22",
+      "change": "Entry created with the planesdb-aircraft-entry-human skill - full article, specifications, variants and incident log written from Wikipedia, Boeing, FreightWaves and The Everett Herald.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "767",
+    "boeing 767",
+    "b767",
+    "767-300er",
+    "767-300f",
+    "767-400er",
+    "767-200",
+    "wide-body",
+    "widebody",
+    "freighter",
+    "etops",
+    "gimli glider"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing 767 is an American mid-size, wide-body twin-engine jet airliner built by Boeing Commercial Airplanes. It first flew on 26 September 1981, entered service with United Airlines on 8 September 1982, and was Boeing's first wide-body with a two-crew glass cockpit.{{ref:wiki-767}}",
+      "In 1985 it became the first aircraft approved for 120-minute ETOPS operations, which opened the North Atlantic to twin-engine jets. As of August 2026, Boeing has taken 1,451 orders from 74 customers and delivered 1,373 aircraft. The total covers passenger models, the 767-300F freighters flown by FedEx and UPS, and military tankers including the KC-46 Pegasus.{{ref:wiki-767}}{{ref:boeing-767}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Launch",
+        "paragraphs": [
+          "The 767 grew out of Boeing's 7X7 study for a mid-size wide-body to sit between the 707 and 747. The programme was launched on 14 July 1978 with an order from United Airlines for 30 aircraft, followed later that year by American Airlines and Delta Air Lines. To share the development cost, Boeing signed risk-sharing agreements with Italy's Aeritalia and with the Civil Transport Development Corporation, a Japanese consortium of Fuji, Kawasaki and Mitsubishi Heavy Industries.{{ref:wiki-767}}",
+          "United initially wanted a conventional three-person flight deck with a flight engineer, but changed its position after a US presidential task force concluded that two pilots could safely operate a wide-body jet. Tommy Edmonds, Lew Wallick and John Brit flew the prototype, N767BA, for the first time on 26 September 1981, and after six test aircraft had flown some 1,600 hours, the JT9D-powered 767-200 received FAA and UK Civil Aviation Authority certification in July 1982, with the CF6-powered version following in September. United flew the first revenue service, from Chicago to Denver, on 8 September 1982.{{ref:wiki-767}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Boeing set the fuselage width at 16.5 ft (5.03 m), midway between the 707 and the 747. That allows seven-abreast economy seating in a 2-3-2 layout, which puts about 87 percent of passengers at a window or an aisle. The lower hold takes the LD2, a smaller cargo container created specifically for the 767. The wing is swept at 31.5 degrees and uses a supercritical airfoil optimised for a cruise speed of Mach 0.8.{{ref:wiki-767}}",
+          "The 767 was also the first Boeing airliner offered at launch with a choice of engines, the Pratt & Whitney JT9D and the General Electric CF6, both rated at 48,000 lbf; the Rolls-Royce RB211-524 followed in 1990. Its digital flight deck, with colour CRT displays, was developed alongside the 757's, and the two share a common type rating: a pilot qualified on one can fly the other after a short conversion course.{{ref:wiki-767}}"
+        ]
+      },
+      {
+        "heading": "ETOPS & the North Atlantic",
+        "paragraphs": [
+          "TWA began transatlantic 767-200 services on 1 February 1985, and in May that year the FAA granted TWA the first 120-minute ETOPS approval, allowing a twin to fly routes up to two hours from the nearest diversion airport. Between Boston and Paris the 767 burned about 7,000 lb (3.2 t) less fuel per hour than a Lockheed L-1011 TriStar. CF6-powered aircraft were cleared for 180-minute ETOPS in 1989.{{ref:wiki-767}}",
+          "With ETOPS approval, airlines no longer needed three- and four-engine jets to cross the ocean, and could fly smaller point-to-point routes instead of funnelling passengers through large hubs. By the end of the 1990s, 767s crossed the Atlantic more often than all other aircraft types combined.{{ref:wiki-767}}"
+        ]
+      },
+      {
+        "heading": "Stretches & Freighters",
+        "paragraphs": [
+          "The longer-range 767-200ER entered service in March 1984; the 767-300, stretched by 21.1 ft, followed in October 1986; and the 767-300ER arrived in March 1988. With 583 delivered, the -300ER is the best-selling version. The final passenger model, the 767-400ER, entered service in September 2000 with a second stretch and raked wingtips that added 14.3 ft of span, but only 38 were built.{{ref:wiki-767}}",
+          "UPS launched the 767-300F freighter, which entered service in October 1995 and can carry about 115,700 lb (52,480 kg) of payload over 3,255 nmi. Boeing stopped building passenger 767s but kept building the freighter: 278 had been delivered by August 2026, with FedEx and UPS the two remaining customers. FedEx is now the largest 767 operator of any kind, with 145 aircraft against 99 at UPS. The 1,000th 767 rolled out on 2 February 2011, destined for All Nippon Airways.{{ref:wiki-767}}{{ref:boeing-767}}{{ref:fw-exempt}}{{ref:wiki-operators}}"
+        ]
+      },
+      {
+        "heading": "Accidents & Safety Record",
+        "paragraphs": [
+          "As of May 2026 the 767 had been involved in 68 occurrences, including 19 hull-loss accidents and 11 fatal crashes that killed 854 occupants. On 23 July 1983 Air Canada Flight 143, later known as the Gimli Glider, ran out of fuel at 41,000 ft after the crew used the wrong pounds-to-kilograms conversion, and the pilots glided it onto a former RCAF base at Gimli, Manitoba, with no deaths. The aircraft was repaired and flew until 2008. On 1 November 2011 LOT Polish Airlines Flight 16 made a belly landing at Warsaw after a hydraulic leak and a tripped circuit breaker left the gear unable to extend, and all 231 on board survived. On 26 May 1991 a thrust reverser on Lauda Air Flight 004 deployed in the climb over Thailand and the aircraft broke up, killing all 223 on board. Boeing later added sync locks to prevent reversers deploying unless the main gear is on the ground.{{ref:wiki-767}}{{ref:wiki-gimli}}{{ref:wiki-lauda}}",
+          "Two 767s were hijacked and flown into the World Trade Center on 11 September 2001, killing all 92 on American Airlines Flight 11 and all 65 on United Airlines Flight 175. In 1996 hijackers forced Ethiopian Airlines Flight 961 to fly until its fuel ran out, and Captain Leul Abate ditched it off Grande Comore; 125 of the 175 on board died, many because they had inflated their life jackets inside the cabin. It was the first ditching of a wide-body airliner. The NTSB attributed EgyptAir Flight 990 in 1999 to the relief first officer's control inputs, a finding Egypt disputed. Korean investigators blamed crew error for Air China Flight 129, which hit high ground while circling to land at Busan on 15 April 2002, killing 129; China's aviation authority argued that the Gimhae controller was unlicensed and had given the crew incorrect altitude guidance. The NTSB blamed crew error for Atlas Air Flight 3591 on 23 February 2019, a 767-300 freighter flying for Amazon that crashed into Trinity Bay, Texas, after the first officer responded wrongly to an inadvertent go-around mode activation, killing all three on board. The first officer's history of failed training at earlier airlines had gone undetected because of gaps in the FAA's pilot records database.{{ref:wiki-767}}{{ref:wiki-et961}}{{ref:wiki-ms990}}{{ref:wiki-ca129}}{{ref:wiki-atlas}}"
+        ]
+      },
+      {
+        "heading": "Military Derivatives & Outlook",
+        "paragraphs": [
+          "Japan received the first two E-767 airborne early warning aircraft in 1998 and the first KC-767 tankers in 2008, and Italy also operates four KC-767s. The 767-2C is the basis for the US Air Force's KC-46 Pegasus tanker, of which 121 had been delivered by August 2026, with 68 more on order. Both the tanker and the freighter are built at Everett, and most of the 78 unfilled 767 orders at that point were for KC-46s and freighters.{{ref:wiki-767}}",
+          "Boeing was building three 767s a month in 2024. The freighter does not meet the ICAO carbon-dioxide standard that takes effect in 2028, and the FAA Reauthorization Act of May 2024 exempted it for five years, allowing production through 2033 for US operators. Even so, Boeing chief executive Kelly Ortberg announced on 11 October 2024 that 767F production would end in 2027 once the last 29 orders were delivered: 17 for UPS and 12 for FedEx. KC-46 production at Everett will continue after the freighter line closes.{{ref:fw-exempt}}{{ref:herald-end}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-767",
+      "name": "Boeing 767",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_767"
+    },
+    {
+      "id": "boeing-767",
+      "name": "767",
+      "publisher": "Boeing",
+      "url": "https://www.boeing.com/commercial/767"
+    },
+    {
+      "id": "wiki-gimli",
+      "name": "Gimli Glider",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gimli_Glider"
+    },
+    {
+      "id": "wiki-lauda",
+      "name": "Lauda Air Flight 004",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lauda_Air_Flight_004"
+    },
+    {
+      "id": "wiki-atlas",
+      "name": "Atlas Air Flight 3591",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atlas_Air_Flight_3591"
+    },
+    {
+      "id": "fw-exempt",
+      "name": "Congress exempts Boeing 767 freighter from 2028 production cutoff",
+      "publisher": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/congress-exempts-boeing-767-freighter-from-2028-production-cutoff"
+    },
+    {
+      "id": "herald-end",
+      "name": "Boeing will stop production of the Everett-built 767 in 2027",
+      "publisher": "The Everett Herald",
+      "url": "https://www.heraldnet.com/news/boeing-will-stop-production-of-the-everett-built-767-in-2027/"
+    },
+    {
+      "id": "wiki-et961",
+      "name": "Ethiopian Airlines Flight 961",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_961"
+    },
+    {
+      "id": "wiki-ms990",
+      "name": "EgyptAir Flight 990",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/EgyptAir_Flight_990"
+    },
+    {
+      "id": "wiki-ca129",
+      "name": "Air China Flight 129",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_China_Flight_129"
+    },
+    {
+      "id": "wiki-operators",
+      "name": "List of Boeing 767 operators",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Boeing_767_operators"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1981-09-26",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "The prototype, N767BA, made the type's first flight with test pilots Tommy Edmonds, Lew Wallick and John Brit at the controls.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_767"
+    },
+    {
+      "date": "1982-09-08",
+      "title": "Entry into service with United",
+      "tag": "Service entry",
+      "summary": "United Airlines flew the first revenue service, a JT9D-powered 767-200 on the Chicago-Denver route.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_767"
+    },
+    {
+      "date": "1983-07-23",
+      "title": "Air Canada Flight 143 - the 'Gimli Glider'",
+      "tag": "Fuel exhaustion",
+      "summary": "Air Canada Flight 143, a 767-200, ran out of fuel at 41,000 ft after the fuel load was calculated with the wrong pounds-to-kilograms conversion. The crew glided it to a landing on a former RCAF airfield at Gimli, Manitoba; ten people suffered minor injuries.",
+      "source": "https://en.wikipedia.org/wiki/Gimli_Glider",
+      "fatalities": 0
+    },
+    {
+      "date": "1985-02-01",
+      "title": "First transatlantic ETOPS service",
+      "tag": "Aviation first",
+      "summary": "TWA began transatlantic 767-200 services, the first twin-engine ETOPS operations across the North Atlantic, ahead of formal 120-minute approval in May 1985.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_767"
+    },
+    {
+      "date": "1991-05-26",
+      "title": "Lauda Air Flight 004",
+      "tag": "In-flight breakup",
+      "summary": "An uncommanded thrust reverser deployment during the climb from Bangkok caused the loss of control and in-flight breakup of the Lauda Air 767-300ER over Suphan Buri province, Thailand. Boeing afterwards redesigned the reverser locking system.",
+      "source": "https://en.wikipedia.org/wiki/Lauda_Air_Flight_004",
+      "fatalities": 223
+    },
+    {
+      "date": "1996-11-23",
+      "title": "Ethiopian Airlines Flight 961",
+      "tag": "Hijacking / ditching",
+      "summary": "Hijackers demanded to be flown to Australia; when the fuel ran out, Captain Leul Abate ditched the 767-200ER off Grande Comore. 50 of the 175 on board survived. It was the first ditching of a wide-body airliner.",
+      "source": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_961",
+      "fatalities": 125
+    },
+    {
+      "date": "1999-10-31",
+      "title": "EgyptAir Flight 990",
+      "tag": "Crash",
+      "summary": "The 767-300ER crashed into the Atlantic south of Nantucket. The NTSB attributed it to the relief first officer's control inputs; Egypt's ECAA argued a mechanical elevator failure was the likely cause.",
+      "source": "https://en.wikipedia.org/wiki/EgyptAir_Flight_990",
+      "fatalities": 217
+    },
+    {
+      "date": "2001-09-11",
+      "title": "American Airlines Flight 11",
+      "tag": "Hijacking / terrorism",
+      "summary": "The 767-223ER was hijacked by al-Qaeda terrorists and flown into the North Tower of the World Trade Center at 08:46, killing all 92 on board as well as many people on the ground.",
+      "source": "https://en.wikipedia.org/wiki/American_Airlines_Flight_11",
+      "fatalities": 92
+    },
+    {
+      "date": "2001-09-11",
+      "title": "United Airlines Flight 175",
+      "tag": "Hijacking / terrorism",
+      "summary": "The 767-222 was hijacked and flown into the South Tower of the World Trade Center at about 09:03, killing all 65 on board as well as many people on the ground.",
+      "source": "https://en.wikipedia.org/wiki/United_Airlines_Flight_175",
+      "fatalities": 65
+    },
+    {
+      "date": "2002-04-15",
+      "title": "Air China Flight 129",
+      "tag": "Controlled flight into terrain",
+      "summary": "The 767-200ER struck high ground near Gimhae International Airport, Busan, South Korea, during a circling approach in poor weather. 129 were killed and 37 survived.",
+      "source": "https://en.wikipedia.org/wiki/Air_China_Flight_129",
+      "fatalities": 129
+    },
+    {
+      "date": "2011-02-02",
+      "title": "1,000th 767 rolls out",
+      "tag": "Production milestone",
+      "summary": "The 1,000th 767 rolled out at Everett, destined for All Nippon Airways.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_767"
+    },
+    {
+      "date": "2011-11-01",
+      "title": "LOT Polish Airlines Flight 16",
+      "tag": "Gear-up landing",
+      "summary": "After a hydraulic leak and a tripped circuit breaker left the landing gear unable to extend, Captain Tadeusz Wrona landed the 767-300ER on its belly at Warsaw Chopin Airport. All 231 people on board survived.",
+      "source": "https://en.wikipedia.org/wiki/LOT_Polish_Airlines_Flight_16",
+      "fatalities": 0
+    },
+    {
+      "date": "2019-02-23",
+      "title": "Atlas Air Flight 3591",
+      "tag": "Crash",
+      "summary": "The 767-300 freighter, operated by Atlas Air for Amazon Air, crashed into Trinity Bay near Anahuac, Texas, after the first officer responded wrongly to an inadvertent go-around mode activation, killing all three on board.",
+      "source": "https://en.wikipedia.org/wiki/Atlas_Air_Flight_3591",
+      "fatalities": 3
+    }
+  ]
+}
