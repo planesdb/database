@@ -1,0 +1,392 @@
+{
+  "name": "Bayraktar TB2",
+  "fullName": "Baykar Bayraktar TB2",
+  "manufacturer": "Baykar",
+  "originCountry": {
+    "name": "Turkey",
+    "code": "tr"
+  },
+  "category": "military",
+  "categories": [
+    "drones"
+  ],
+  "role": "MALE Armed Drone",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "Its development was spurred by a US refusal to export armed drones to Turkey, over concerns they would be used against the PKK.",
+    "In 2022 crowdfunding campaigns in several European countries raised enough money to buy TB2s for Ukraine, which is where the estimated unit price of about $5M comes from.",
+    "Its engine and camera were both Western until October 2020, when Rotax's parent company suspended engine exports and Canada halted sales of the Wescam sensor turret after the drone's use in Nagorno-Karabakh - Turkey replaced both with domestic designs.",
+    "On 7 May 2022 a Ukrainian TB2 destroyed a Russian Mi-8 helicopter as it was unloading troops on Snake Island in the Black Sea.",
+    "It is slow and easily seen by modern air defences: by mid-2023 Ukraine had largely pulled its TB2s back from strike missions to reconnaissance, and at least 26 have been visually confirmed lost there.",
+    "In 2025 it became the first combat drone to perform an autonomous spin recovery, according to Baykar."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are Baykar's own published numbers for the baseline TB2. Other sources quote higher performance - Wikipedia gives a 120 kn maximum speed and a 25,000 ft ceiling, and Army Technology a maximum altitude of 27,030 ft and endurance of up to 27 hours. The first flight is dated August 2014 by Wikipedia and April 2014 by Army Technology, and the range shown is the limit of the line-of-sight datalink, not of the aircraft's fuel.",
+    "maxSpeed": {
+      "mph": 127,
+      "text": "110 kn (127 mph / 204 km/h)"
+    },
+    "cruiseSpeed": "81 mph (130 km/h)",
+    "range": {
+      "miles": 186,
+      "text": "Under 186 mi (300 km) datalink range"
+    },
+    "serviceCeiling": {
+      "ft": 20000,
+      "text": "20,000 ft (6,096 m)"
+    },
+    "wingspan": {
+      "ft": 39.4,
+      "text": "39 ft 4 in (12 m)"
+    },
+    "length": {
+      "ft": 21,
+      "text": "21 ft (6.4 m)"
+    },
+    "height": {
+      "ft": 7.2,
+      "text": "7 ft 3 in (2.2 m)"
+    },
+    "weight": "empty: not published; MTOW: 1,543 lb (700 kg)",
+    "engines": "1 x 100 hp piston engine - originally a Rotax 912-iS; TEI-PD170 or Baykar TM100 since 2020",
+    "armament": "Up to 331 lb (150 kg) of small guided munitions, including Roketsan MAM-L and MAM-C laser-guided bombs, TÜBİTAK SAGE BOZOK, KAYI-30 and Roketsan Cirit and L-UMTAS missiles",
+    "crew": "None onboard - flown from a ground control station",
+    "capacity": "331 lb (150 kg) payload - sensors and munitions",
+    "firstFlight": {
+      "date": "2014-08",
+      "year": 2014
+    },
+    "serviceEntryDate": "2014-11-01",
+    "retiredDate": null,
+    "numberBuilt": "800+",
+    "unitCost": {
+      "usd": 5000000,
+      "text": "~$5M (2022 estimate, from European crowdfunded purchases for Ukraine)",
+      "inflationText": null
+    },
+    "combatLosses": "Dozens across several wars - at least 16 shot down in Libya by July 2020, 3 in Syria during Operation Spring Shield (March 2020), 2 confirmed in Nagorno-Karabakh (2020), and 26 visually confirmed in Ukraine by February 2025"
+  },
+  "variants": [
+    {
+      "code": "TB2",
+      "desc": "The baseline production aircraft: a 12 m (39 ft 4 in) wingspan, 700 kg airframe with a single 100 hp piston engine, a 150 kg payload and a line-of-sight datalink good for under 300 km. It entered Turkish Land Forces service in November 2014. Early aircraft used an Austrian Rotax engine and a Canadian Wescam turret, replaced by Turkish equipment after both exports were halted in 2020."
+    },
+    {
+      "code": "TB2S",
+      "desc": "A satellite-communications version introduced in 2020, using a TÜRKSAT link to extend control beyond the 300 km line-of-sight limit of the standard datalink and to make the aircraft harder to jam. It first flew on 4 December 2020. The airframe, engine and weapons are otherwise those of the standard TB2."
+    },
+    {
+      "code": "TB2T-AI",
+      "desc": "An upgraded version unveiled in February 2025, with a turbocharged engine, revised aerodynamics including winglets and a modified inverted V-tail, and three artificial-intelligence computers for autonomous functions. Baykar quotes a speed of 160 kn (about 300 km/h) and a maximum altitude of 30,000 ft, against the standard TB2's 110 kn and 20,000 ft, along with a higher take-off weight and payload."
+    },
+    {
+      "code": "TB3",
+      "desc": "A larger naval derivative with folding wings and retractable landing gear, designed to operate from the Turkish amphibious assault ship TCG Anadolu. It first flew on 27 October 2023 and made its first take-off and landing on the ship on 19 November 2024. It has a 14 m wingspan, a 1,450 kg maximum take-off weight and a 280 kg payload - about twice the TB2's weight and payload."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Turkish Land Forces",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2014",
+      "fleetSize": "200+",
+      "homeBase": "Turkey"
+    },
+    {
+      "name": "Turkish Naval Forces",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2010s",
+      "fleetSize": "10",
+      "homeBase": "Turkey"
+    },
+    {
+      "name": "Gendarmerie General Command",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2010s",
+      "fleetSize": "18",
+      "homeBase": "Turkey"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "50+ received by June 2022 (Air Force and Navy)",
+      "homeBase": "Ukraine"
+    },
+    {
+      "name": "Ukrainian Navy",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2021",
+      "fleetSize": "6 ordered",
+      "homeBase": "Ukraine"
+    },
+    {
+      "name": "Azerbaijani Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2020",
+      "fleetSize": "Not disclosed",
+      "homeBase": "Azerbaijan"
+    },
+    {
+      "name": "Pakistan Armed Forces",
+      "role": "Operator (Army and Air Force)",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "24",
+      "homeBase": "Pakistan"
+    },
+    {
+      "name": "United Arab Emirates Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "20 delivered",
+      "homeBase": "United Arab Emirates"
+    },
+    {
+      "name": "Royal Moroccan Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2021",
+      "fleetSize": "19 ordered",
+      "homeBase": "Morocco"
+    },
+    {
+      "name": "Romanian Land Forces",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2023",
+      "fleetSize": "18 (3 systems of 6)",
+      "homeBase": "Romania"
+    },
+    {
+      "name": "Croatian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2025",
+      "fleetSize": "6",
+      "homeBase": "Croatia"
+    },
+    {
+      "name": "20+ other countries",
+      "role": "Operators",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "Qatar (first export), Poland, Nigeria, Ethiopia, Bangladesh, Albania, Kenya, Kuwait, Japan and others - 34+ countries in total",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "TB2s do not normally broadcast ADS-B and are very rarely seen on Flightradar24. The occasional sighting is usually a delivery, test or demonstration flight near Baykar's facilities in Turkey or an operator's home base."
+  },
+  "lastUpdated": "2026-09-22",
+  "changelog": [
+    {
+      "date": "2026-09-22",
+      "change": "Entry created - full article, specifications, variants, operators and incident log written from Baykar's own product and history pages, Wikipedia, Army Technology, The War Zone and Ukrinform.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "tb2",
+    "bayraktar",
+    "baykar",
+    "bayraktar tb2",
+    "turkish drone",
+    "ucav",
+    "male drone",
+    "combat drone",
+    "armed drone",
+    "tb2s",
+    "uav"
+  ],
+  "article": {
+    "overview": [
+      "The Baykar Bayraktar TB2 is a medium-altitude, long-endurance unmanned combat aerial vehicle built in Turkey by Baykar. It first flew in 2014, entered service with the Turkish Land Forces that November, and carries small laser-guided munitions developed for it by Roketsan and other Turkish manufacturers.{{ref:wiki-tb2}}{{ref:armytech-tb2}}",
+      "More than 800 have been built, and it has been exported to more than 30 countries, the largest export success of any combat drone. It has been used in Syria, Libya, Nagorno-Karabakh, Ethiopia and Ukraine, where it was prominent in the first months of the Russian invasion. It is also slow, propeller-driven and limited to a line-of-sight datalink range of under 300 km, and by 2023 Ukraine had largely withdrawn it from strike missions as Russian air defences caught up with it.{{ref:wiki-tb2}}{{ref:twz-tb2-2025}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "Baykar was run by the brothers Selçuk and Haluk Bayraktar, and its first military drone, the Bayraktar TB1, was delivered to the Turkish Army in 2011. The TB2 was developed at the request of Turkey's Presidency of Defence Industries, driven by a US ban on exporting armed drones to Turkey over concerns that they would be used against the PKK. A contract for a second development phase and series production was signed in December 2011, with work beginning in January 2012.{{ref:wiki-tb2}}{{ref:armytech-tb2}}",
+          "The TB2 first flew in 2014 - in August according to Wikipedia, in April according to Army Technology - and after acceptance tests in November 2014 the first six aircraft were delivered to the Turkish Land Forces, followed by six more in June 2015. On 18 December 2015 Baykar released video of a TB2 firing a guided munition developed with Roketsan, and that year the Turkish National Police placed its own order. The type flew in Operation Euphrates Shield in Syria in 2016.{{ref:wiki-tb2}}{{ref:armytech-tb2}}{{ref:baykar-history}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The TB2 is a small aircraft with a 12 m (39 ft 4 in) wingspan and a maximum take-off weight of 700 kg (1,543 lb), powered by a single 100 hp piston engine. Baykar gives a maximum speed of 90-110 kn, a service ceiling of 20,000 ft and endurance of more than 18 hours, with a record of 27 hours 3 minutes set on an operational flight in Kuwait in 2019. It can taxi, take off, cruise and land fully autonomously under a triple-redundant autopilot, and can navigate by internal sensor fusion without depending on GPS.{{ref:baykar-tb2}}{{ref:baykar-history}}",
+          "Its 150 kg (331 lb) payload is split between a sensor turret and small precision-guided weapons, principally Roketsan's MAM-L and MAM-C laser-guided bombs. Two Western components had to be replaced in October 2020: Bombardier Recreational Products suspended exports of the Austrian Rotax 912-iS engine, and Canada halted exports of the Wescam MX-15D sensor turret. Turkey substituted the domestic TEI-PD170 and Baykar TM100 engines and the Aselsan ASELFLIR-500 turret. The standard datalink is line-of-sight only, limiting control range to under 300 km; the TB2S version added satellite communications in 2020.{{ref:wiki-tb2}}"
+        ]
+      },
+      {
+        "heading": "Syria, Libya & Nagorno-Karabakh",
+        "paragraphs": [
+          "Turkey has used the TB2 extensively against the PKK and YPG in Iraq and Syria; on 15 August 2018 a strike in Iraq's Sinjar District killed senior PKK figure İsmail Özden. After Syrian government air strikes killed 33 Turkish soldiers at Balyun in Idlib province on 27 February 2020, Turkey launched Operation Spring Shield, and until a ceasefire agreed in Moscow on 5-6 March its drones struck Syrian armour, artillery and air defences. The Oryx open-source tally recorded 37 tanks, 16 self-propelled howitzers, 8 multiple rocket launchers and 2 Pantsir-S1 air-defence systems among the Syrian vehicles destroyed during the operation; three TB2s were lost, on 2, 3 and 4 March.{{ref:wiki-tb2}}{{ref:wiki-spring-shield}}",
+          "In Libya, the Government of National Accord's TB2s suffered heavy losses: at least 16 were shot down in six months of fighting up to 1 July 2020. Azerbaijan received its first TB2s in June 2020 and used them in the Second Nagorno-Karabakh War that autumn against Armenian artillery, T-72 tanks, infantry fighting vehicles and air-defence systems; two were confirmed shot down, on 19 October and 8 November 2020. Its use in that war led directly to the suspension of Rotax engine and Wescam turret exports in October 2020.{{ref:wiki-tb2}}"
+        ]
+      },
+      {
+        "heading": "Ukraine",
+        "paragraphs": [
+          "Ukraine agreed to buy six TB2s in January 2019 for $69 million, flew its first reconnaissance mission over the Donbas on 9 April 2021, and made its first strike on 26 October 2021, destroying a separatist D-30 howitzer battery near Hranitne that had been shelling Ukrainian positions. After Russia invaded in February 2022, TB2s struck Russian convoys in the Kherson and Zhytomyr regions from 27 February, and Ukraine had received more than 50 by late June 2022, some of them paid for by public crowdfunding in European countries.{{ref:wiki-tb2}}{{ref:ukrinform-strike}}",
+          "Around Snake Island in the Black Sea, a TB2 destroyed two Russian Raptor-class patrol boats on 2 May 2022 and a Mi-8 helicopter unloading troops on 7 May. By June 2023, with at least 26 visually confirmed lost, Ukraine had moved most of its TB2s to reconnaissance and target designation out of range of Russian Pantsir, Buk and Tor systems, and in October 2023 a Ukrainian colonel said it had become hard to find situations in which to use them. From June 2025, after Ukraine had destroyed much of the Russian air-defence cover along the Kherson coast, TB2s resumed occasional strikes on Russian landing craft and boats near the Tendrivska Spit.{{ref:wiki-tb2}}{{ref:twz-tb2-2025}}"
+        ]
+      },
+      {
+        "heading": "Exports & Controversy",
+        "paragraphs": [
+          "Qatar was the TB2's first export customer, followed by Ukraine. By September 2023 it had been exported to 31 countries, with later orders including 18 for Romania for €321 million in April 2023, six for Croatia for €67 million, 20 delivered to the United Arab Emirates, 24 for Pakistan, 19 for Morocco and 43 on order for Nigeria. Baykar says the fleet has flown more than 1.25 million hours; the 500th TB2 left the production line in 2023, and the company claims capacity for 250 a year.{{ref:wiki-tb2}}{{ref:baykar-tb2}}{{ref:baykar-history}}",
+          "Its low price has also put it in the hands of governments fighting internal wars. Ethiopia took delivery of TB2s in November 2021 for use in the Tigray War, and on 7 January 2022 a strike with a MAM-L munition on a camp for displaced people at Dedebit killed around 60 civilians.{{ref:wiki-tb2}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The TB2 remains in production and service with more than 30 countries. Baykar unveiled the TB2T-AI in February 2025, with a turbocharged engine, winglets, a modified inverted V-tail and three artificial-intelligence computers, and a quoted speed of 160 kn and ceiling of 30,000 ft. In 2025 the company said a TB2 had become the first combat drone to perform an autonomous spin recovery.{{ref:wiki-tb2}}{{ref:baykar-history}}",
+          "Its larger naval derivative, the TB3, first flew on 27 October 2023 and made its first take-off and landing aboard the Turkish amphibious assault ship TCG Anadolu on 19 November 2024. The TB2's own limits - a speed around 110 kn, a piston engine and a line-of-sight datalink - leave it exposed wherever modern air defences and electronic warfare are present, as its withdrawal from front-line strike work in Ukraine showed.{{ref:wiki-tb3}}{{ref:twz-tb2-2025}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-tb2",
+      "name": "Baykar Bayraktar TB2",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    },
+    {
+      "id": "armytech-tb2",
+      "name": "Bayraktar TB2 Tactical UAV",
+      "publisher": "Army Technology",
+      "url": "https://www.army-technology.com/projects/bayraktar-tb2-tactical-uav/"
+    },
+    {
+      "id": "twz-tb2-2025",
+      "name": "Ukraine's TB-2 Bayraktar Drones Are Striking Russian Forces Again After A Long Hiatus",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/ukraines-tb-2-bayraktar-drones-are-striking-russian-forces-again-after-a-long-hiatus"
+    },
+    {
+      "id": "baykar-history",
+      "name": "History",
+      "publisher": "Baykar",
+      "url": "https://baykartech.com/en/history/"
+    },
+    {
+      "id": "baykar-tb2",
+      "name": "Bayraktar TB2",
+      "publisher": "Baykar",
+      "url": "https://baykartech.com/en/uav/bayraktar-tb2/"
+    },
+    {
+      "id": "wiki-spring-shield",
+      "name": "Operation Spring Shield",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Spring_Shield"
+    },
+    {
+      "id": "ukrinform-strike",
+      "name": "Ukraine Army hits enemy artillery unit, first time using Bayraktar combat drone",
+      "publisher": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-defense/3339789-ukraine-army-hits-enemy-artillery-unit-first-time-using-bayraktar-combat-drone.html"
+    },
+    {
+      "id": "wiki-tb3",
+      "name": "Baykar Bayraktar TB3",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB3"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2015-12-18",
+      "title": "First guided-munition test firing",
+      "tag": "Test milestone",
+      "summary": "Baykar released video of a TB2 test-firing a guided munition developed with Roketsan, the first demonstration of the aircraft as an armed drone.",
+      "source": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    },
+    {
+      "date": "2018-06-30",
+      "title": "Crash in Hatay",
+      "tag": "Crash",
+      "summary": "A Turkish TB2 crashed in Hatay province, southern Turkey, after a technical failure.",
+      "source": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    },
+    {
+      "date": "2018-08-15",
+      "title": "Strike kills senior PKK leader in Sinjar",
+      "tag": "Targeted strike",
+      "summary": "A Turkish cross-border operation in Iraq's Sinjar District using a TB2 killed senior PKK figure İsmail Özden.",
+      "source": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    },
+    {
+      "date": "2020-02-27",
+      "title": "Operation Spring Shield begins",
+      "tag": "Combat operation",
+      "summary": "After Syrian air strikes killed 33 Turkish soldiers at Balyun, Turkey launched a drone-led campaign in Idlib province that destroyed dozens of Syrian tanks, artillery pieces and air-defence systems before a ceasefire on 5-6 March. Three TB2s were lost, on 2, 3 and 4 March.",
+      "source": "https://en.wikipedia.org/wiki/Operation_Spring_Shield"
+    },
+    {
+      "date": "2020-08-23",
+      "title": "Shot down near Kafr Nabl",
+      "tag": "Shot down",
+      "summary": "A Turkish TB2 was shot down by Syrian government air defences near Kafr Nabl in Idlib province.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    },
+    {
+      "date": "2020-10-19",
+      "title": "Shot down over Nagorno-Karabakh",
+      "tag": "Shot down",
+      "summary": "An Azerbaijani TB2 was shot down during the Second Nagorno-Karabakh War - the first of two confirmed TB2 losses in the conflict, the second following on 8 November.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    },
+    {
+      "date": "2020-12-04",
+      "title": "TB2S satellite-link version flies",
+      "tag": "First flight",
+      "summary": "The TB2S, with a TÜRKSAT satellite link extending its control range beyond the standard line-of-sight datalink, made its first flight.",
+      "source": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    },
+    {
+      "date": "2021-10-26",
+      "title": "Ukraine's first TB2 strike",
+      "tag": "Combat debut",
+      "summary": "A Ukrainian TB2 destroyed a D-30 howitzer battery near Hranitne in the Donbas that had been shelling Ukrainian positions, the type's first combat use by Ukraine. The drone stayed on its own side of the line of contact.",
+      "source": "https://www.ukrinform.net/rubric-defense/3339789-ukraine-army-hits-enemy-artillery-unit-first-time-using-bayraktar-combat-drone.html"
+    },
+    {
+      "date": "2022-01-07",
+      "title": "Dedebit strike on displaced people's camp",
+      "tag": "Civilian casualties",
+      "summary": "An Ethiopian TB2 strike using a MAM-L munition on a camp for displaced people at Dedebit in Tigray killed around 60 civilians.",
+      "source": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    },
+    {
+      "date": "2022-05-02",
+      "title": "Russian patrol boats destroyed near Snake Island",
+      "tag": "Combat",
+      "summary": "A Ukrainian TB2 destroyed two Russian Raptor-class patrol boats near Snake Island in the Black Sea.",
+      "source": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    },
+    {
+      "date": "2022-05-07",
+      "title": "Mi-8 destroyed on Snake Island",
+      "tag": "Combat",
+      "summary": "A Ukrainian TB2 destroyed a Russian Mi-8 transport helicopter as it was unloading troops on Snake Island, and a Tor air-defence launcher on the island.",
+      "source": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+    }
+  ]
+}

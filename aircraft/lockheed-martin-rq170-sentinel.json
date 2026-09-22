@@ -1,0 +1,237 @@
+{
+  "name": "RQ-170 Sentinel",
+  "fullName": "Lockheed Martin RQ-170 Sentinel",
+  "manufacturer": "Lockheed Martin (Skunk Works)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes",
+    "drones"
+  ],
+  "role": "Stealth Reconnaissance Drone",
+  "tagline": "The RQ-170 Sentinel is a stealthy, tailless flying-wing reconnaissance drone built by Lockheed Martin's Skunk Works for the U.S. Air Force. Known as the 'Beast of Kandahar' after it was first photographed in Afghanistan, it watched over the 2011 bin Laden raid, lost one airframe intact to Iran the same year, and took part in the January 2026 operation that captured Nicolás Maduro.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "Its nickname, the 'Beast of Kandahar', was coined by aviation journalist Bill Sweetman after the aircraft was photographed at Kandahar Airfield in Afghanistan.",
+    "An RQ-170 came down largely intact near Kashmar in north-eastern Iran on 4 December 2011, about 140 miles (225 km) from the Afghan border - Iran refused a US request to return it.",
+    "Iran has since unveiled several drones based on the captured aircraft, and in February 2018 Israel shot down one that its officials said was largely based on the RQ-170.",
+    "The Air Force has never published a performance figure for it, and even the wingspan is disputed - from 38 ft 7 in in a US Army training circular to around 66 ft in a 2009 Aviation Week estimate.",
+    "The 30th Reconnaissance Squadron, which flies it, was named Remotely Piloted Aircraft Squadron of the Year for 2025 after flying 87 intelligence, surveillance and reconnaissance missions across three combatant command areas."
+  ],
+  "specifications": {
+    "specificationsNote": "\"??\" means the figure has not been published. The RQ-170 is a classified programme and the Air Force releases no dimensions, weights, performance or propulsion data for it. The figures that circulate disagree badly - wingspan alone ranges from 38 ft 7 in (a US Army training circular) to around 66 ft (Aviation Week, 2009) to about 85 ft (Iran's claim after the 2011 capture) - so none are recorded as fact here. Analysts expect a mid-altitude ceiling below 50,000 ft. Service entry is given only as the year it was first deployed.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "??"
+    },
+    "cruiseSpeed": "??",
+    "range": {
+      "miles": null,
+      "text": "??"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "??"
+    },
+    "wingspan": {
+      "ft": null,
+      "text": "?? - published figures conflict (38 ft 7 in to ~66 ft)"
+    },
+    "length": {
+      "ft": null,
+      "text": "??"
+    },
+    "height": {
+      "ft": null,
+      "text": "??"
+    },
+    "weight": "??",
+    "engines": "1 x jet engine, type not disclosed (analysts suggest a General Electric TF34 or Garrett TFE731 turbofan)",
+    "crew": "None onboard - remotely piloted",
+    "capacity": "?? - reported to carry electro-optical/infrared sensors and possibly a radar in a belly fairing",
+    "firstFlight": {
+      "date": "??",
+      "year": null
+    },
+    "serviceEntryDate": "2007",
+    "retiredDate": null,
+    "numberBuilt": "?? - estimated at 20-30",
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the RQ-170 is a classified programme and no procurement figures have been released",
+      "inflationText": null
+    },
+    "combatLosses": "1 lost intact over Iran on 4 December 2011 - Iran says it captured the aircraft electronically; US officials said there was no indication it was brought down by hostile fire"
+  },
+  "variants": [
+    {
+      "code": "RQ-170 Sentinel",
+      "desc": "The only publicly known version, a single-engine tailless flying wing with sensor pods faired into the upper wing surfaces and a medium-grey finish. Flown by the 30th and 44th Reconnaissance Squadrons, it carries unarmed reconnaissance payloads only - the 'RQ' designation denotes a reconnaissance drone. Around 20 to 30 are believed to have been built; the Air Force has never confirmed a figure."
+    },
+    {
+      "code": "Shahed 171 Simorgh (Iranian copy)",
+      "desc": "An unlicensed, full-size Iranian copy of the RQ-170, built after the December 2011 capture and unveiled in 2016. Iran first showed a claimed copy on state television in May 2014, which outside analysts judged to be a static mock-up, and announced a test flight that November. The Simorgh is not a Lockheed Martin product and has never been independently shown to match the original's performance."
+    },
+    {
+      "code": "Saegheh (Iranian derivative)",
+      "desc": "A smaller Iranian flying-wing drone unveiled in September 2016 and derived from the RQ-170's layout, with Iran claiming it can carry four precision-guided bombs. One version was shot down by Israel in February 2018 after crossing into Israeli airspace from Syria, and Israeli officials said its design was largely based on the captured American aircraft."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "~20-30 (estimated)",
+      "homeBase": "Creech AFB and Tonopah Test Range, Nevada (30th and 44th Reconnaissance Squadrons, 432nd Wing)"
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "role": "Reported User",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "Not disclosed",
+      "homeBase": "Not disclosed"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The RQ-170 does not broadcast ADS-B and will not appear on Flightradar24. Almost everything publicly known about its movements comes from spotter photographs at forward bases - Kandahar in the late 2000s, and Puerto Rico after the January 2026 Venezuela operation."
+  },
+  "lastUpdated": "2026-09-22",
+  "changelog": [
+    {
+      "date": "2026-09-22",
+      "change": "Entry created - full article, specifications, variants and incident log written from Wikipedia, a declassified US Air Force fact sheet, and reporting by Air & Space Forces Magazine, The War Zone and Defense One.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "rq-170",
+    "rq170",
+    "sentinel",
+    "beast of kandahar",
+    "skunk works",
+    "stealth drone",
+    "flying wing",
+    "uav",
+    "reconnaissance drone",
+    "iran drone capture"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed Martin RQ-170 Sentinel is a stealthy, tailless flying-wing unmanned aircraft built by Lockheed Martin's Skunk Works for reconnaissance and surveillance in defended airspace. It is flown by the U.S. Air Force's 30th and 44th Reconnaissance Squadrons, part of the 432nd Wing at Creech Air Force Base, Nevada, and has been in service since 2007.{{ref:wiki-rq170}}{{ref:twz-award}}",
+      "Almost nothing about the aircraft is officially published. The Air Force acknowledged its existence in 2009, after photographs taken at Kandahar Airfield in Afghanistan had earned it the nickname 'Beast of Kandahar', and has released no dimensions, performance figures or fleet size since. It is known publicly through three events: surveillance of Osama bin Laden's compound during the May 2011 raid in Pakistan, the loss of one aircraft largely intact to Iran in December 2011, and its part in the January 2026 operation that captured Venezuelan president Nicolás Maduro.{{ref:wiki-rq170}}{{ref:defenseone-maduro}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Secrecy",
+        "paragraphs": [
+          "The RQ-170 came out of the same Skunk Works line of stealthy uncrewed designs as the RQ-3 DarkStar of the 1990s and the Polecat demonstrator, and shares obvious design features with both. Its first operational unit, the 30th Reconnaissance Squadron, was activated on 1 September 2005 at Tonopah Test Range Airport in Nevada, and the aircraft first deployed to Afghanistan in late 2007. A second squadron, the 44th Reconnaissance Squadron, was established on 1 April 2015.{{ref:wiki-rq170}}",
+          "The Air Force's only fact sheet on the type is a few lines long. It describes a 'low observable' unmanned aircraft developed with Lockheed Martin to provide reconnaissance and surveillance for the joint forces commander, flown by Air Combat Command's 432nd Wing and the 30th Reconnaissance Squadron. Beyond that, the service has published at least one photograph and nothing else - no first flight date, no number built and no performance data.{{ref:af-factsheet}}{{ref:afm-venezuela}}"
+        ]
+      },
+      {
+        "heading": "Design & Sensors",
+        "paragraphs": [
+          "The Sentinel is a tailless flying wing with a single engine and two pods faired into the upper wing surfaces, painted medium grey rather than the black used on high-altitude reconnaissance types. The engine has never been identified; analysts have suggested a General Electric TF34 or a Garrett TFE731 turbofan. Dimensions are disputed: a US Army training circular gives a wingspan of 38 ft 7 in (11.58 m) and a length of 14 ft 9 in (4.5 m), a 2009 Aviation Week estimate put the span at about 66 ft (20 m), and Iran claimed about 85 ft (26 m) after measuring the aircraft it captured.{{ref:wiki-rq170}}",
+          "The sensor fit is equally unconfirmed. Aviation specialists have suggested an electro-optical/infrared turret, a possible active electronically scanned array radar in a belly fairing, communications-intercept equipment, and hyperspectral sensors able to detect traces of radioactive isotopes and chemicals. Bill Sweetman, who named the aircraft, judged that it probably carries one or at most two payloads and is modest in both range and altitude, with a ceiling unlikely to exceed 50,000 ft. It carries no weapons.{{ref:wiki-rq170}}{{ref:afm-venezuela}}"
+        ]
+      },
+      {
+        "heading": "Abbottabad and the Loss Over Iran",
+        "paragraphs": [
+          "On 2 May 2011 an RQ-170 orbited over Osama bin Laden's compound in Abbottabad, Pakistan, during the US Navy SEAL raid that killed him, sending live video back to US commanders. Seven months later, on 4 December 2011, another came down near Kashmar in north-eastern Iran, about 140 miles (225 km) from the Afghan border. Iranian television showed the aircraft largely intact on 8 December, and the United States confirmed the footage was genuine. President Obama asked for it to be returned; Iran refused.{{ref:wiki-rq170}}{{ref:wiki-iran-incident}}",
+          "Iran's Revolutionary Guard said its electronic-warfare unit had captured the drone by jamming its control link, forcing it onto its GPS autopilot, and then feeding it false GPS signals so that it landed in Iran believing it was back at its base in Afghanistan. US officials said only that they had no indication it was brought down by hostile fire, and the cause has never been independently established. Iran showed a claimed copy in May 2014 and unveiled the full-size Shahed 171 Simorgh and the smaller Saegheh in 2016; in February 2018 Israel shot down a Saegheh-type drone that its officials said was largely based on the RQ-170.{{ref:wiki-iran-incident}}"
+        ]
+      },
+      {
+        "heading": "Later Operations",
+        "paragraphs": [
+          "Public sightings since 2011 have been rare. The aircraft has been reported at Kunsan Air Base in South Korea, and The War Zone has tied its movements to Naval Air Station Sigonella in Italy, Greece and possible missions near Crimea over the Black Sea in 2022 and 2023. The 432nd Wing mentioned an RQ-170 deployment in 2021 without naming a location, which was the last public acknowledgement of its operations for almost five years.{{ref:twz-award}}{{ref:defenseone-maduro}}",
+          "On 3 January 2026 RQ-170s took part in Operation Absolute Resolve, the US operation to capture Nicolás Maduro in Venezuela, gathering intelligence before the raid; one was photographed returning to Puerto Rico that day. Neither the Air Force nor US Southern Command confirmed their role, but Lockheed Martin chief executive Jim Taiclet named the RQ-170 alongside the F-35, F-22 and Black Hawk on the company's earnings call on 29 January 2026.{{ref:afm-venezuela}}{{ref:defenseone-maduro}}{{ref:twz-maduro}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The Air Force is estimated to have between 20 and 30 RQ-170s. In 2025 the 30th Reconnaissance Squadron, nicknamed 'the Blackbirds', flew 87 intelligence, surveillance and reconnaissance missions across three combatant command areas, took part in six large-force exercises and graduated its largest-ever class of combat-mission-ready crews, and it was named Remotely Piloted Aircraft Squadron of the Year for 2025 at the Air & Space Forces Association conference in September 2026.{{ref:twz-award}}",
+          "The Sentinel is a first-generation stealth design, and one example has been in Iranian hands since 2011. Its expected successor is the Northrop Grumman RQ-180, a larger and more advanced stealth reconnaissance drone whose existence the Air Force briefly confirmed in 2014, though the RQ-170 remains in regular use as of 2026.{{ref:afm-venezuela}}{{ref:twz-award}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-rq170",
+      "name": "Lockheed Martin RQ-170 Sentinel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_RQ-170_Sentinel"
+    },
+    {
+      "id": "twz-award",
+      "name": "New Details About Secretive RQ-170 Sentinel Drone Squadron Shared With New Award",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/new-details-about-secretive-rq-170-sentinel-drone-squadron-shared-with-new-award"
+    },
+    {
+      "id": "defenseone-maduro",
+      "name": "Lockheed CEO: Air Force RQ-170 drones used in mission to capture Maduro",
+      "publisher": "Defense One",
+      "url": "https://www.defenseone.com/defense-systems/2026/01/lockheed-ceo-air-force-rq-170-drones-used-mission-capture-maduro/411077/"
+    },
+    {
+      "id": "af-factsheet",
+      "name": "U.S. Air Force Fact Sheet: RQ-170 Sentinel",
+      "publisher": "U.S. Air Force (via the National Security Archive, George Washington University)",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB410/docs/UBLDocument4.pdf"
+    },
+    {
+      "id": "afm-venezuela",
+      "name": "What to Know About the RQ-170 Drone, Venezuela, and Stealthy ISR",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/what-to-know-rq-170-drone-venezuela-stealthy-isr/"
+    },
+    {
+      "id": "wiki-iran-incident",
+      "name": "Iran-U.S. RQ-170 incident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93U.S._RQ-170_incident"
+    },
+    {
+      "id": "twz-maduro",
+      "name": "Lockheed Confirms RQ-170 Sentinel Spy Drones Took Part In Maduro Capture Mission",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/lockheed-confirms-rq-170-sentinel-spy-drones-took-part-in-maduro-capture-mission"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2011-05-02",
+      "title": "Surveillance of the bin Laden raid",
+      "tag": "Historic mission",
+      "summary": "An RQ-170 monitored Osama bin Laden's compound in Abbottabad, Pakistan, during the US Navy SEAL raid that killed him, providing live video to commanders in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_Martin_RQ-170_Sentinel"
+    },
+    {
+      "date": "2011-12-04",
+      "title": "Lost intact over Iran",
+      "tag": "Captured",
+      "summary": "An RQ-170 came down near Kashmar in north-eastern Iran, about 140 miles (225 km) from the Afghan border, and was shown largely intact on Iranian television four days later. Iran claimed it had spoofed the aircraft's GPS; US officials said there was no indication of hostile fire. Iran refused a US request to return it.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Iran%E2%80%93U.S._RQ-170_incident"
+    },
+    {
+      "date": "2026-01-03",
+      "title": "Operation Absolute Resolve, Venezuela",
+      "tag": "Historic mission",
+      "summary": "RQ-170s gathered intelligence for the US operation that captured Venezuelan president Nicolás Maduro. Lockheed Martin's chief executive confirmed their involvement on 29 January 2026; the Air Force has not commented.",
+      "source": "https://www.defenseone.com/defense-systems/2026/01/lockheed-ceo-air-force-rq-170-drones-used-mission-capture-maduro/411077/"
+    }
+  ]
+}

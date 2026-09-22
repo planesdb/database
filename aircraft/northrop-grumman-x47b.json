@@ -1,0 +1,244 @@
+{
+  "name": "X-47B",
+  "fullName": "Northrop Grumman X-47B",
+  "manufacturer": "Northrop Grumman",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "drones"
+  ],
+  "role": "Carrier-Based UCAV Demonstrator",
+  "tagline": "The X-47B is a tailless, carrier-capable unmanned combat air vehicle demonstrator built by Northrop Grumman for the U.S. Navy. In 2013 it became the first uncrewed aircraft to be catapulted from an aircraft carrier and the first to make an arrested landing on one, and in 2015 it made the first autonomous aerial refuelling by an uncrewed aircraft.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "It was the first tailless flying wing ever to land on an aircraft carrier, trapping aboard USS George H.W. Bush on 10 July 2013.",
+    "The Navy, Northrop Grumman and the X-47B development team jointly won the 2013 Collier Trophy for excellence in aeronautical technology.",
+    "It never carried a weapon - its two internal weapons bays, sized for up to 4,500 lb, were never used to carry weapons.",
+    "When the programme ended in 2015, the two aircraft had used only about 20 percent of the flying hours they had been allocated.",
+    "The same day as its first carrier trap, the X-47B had to abandon a third landing and divert to Wallops Island after one of its three navigation subsystems failed."
+  ],
+  "specifications": {
+    "specificationsNote": "\"??\" means the figure has not been published - Northrop Grumman and the Navy describe the X-47B's top speed only as high subsonic. The empty weight shown is the published zero-fuel weight.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "??"
+    },
+    "cruiseSpeed": "High subsonic (Mach 0.9+)",
+    "range": {
+      "miles": 2400,
+      "text": "2,400 mi (3,900 km, 2,100 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 42000,
+      "text": "42,000 ft (12,800 m)"
+    },
+    "wingspan": {
+      "ft": 62.1,
+      "text": "62 ft 1 in (18.9 m); 30 ft 11 in (9.4 m) folded"
+    },
+    "length": {
+      "ft": 38.2,
+      "text": "38 ft 2 in (11.63 m)"
+    },
+    "height": {
+      "ft": 10.4,
+      "text": "10 ft 5 in (3.18 m)"
+    },
+    "weight": "MTOW: 44,501 lb (20,185 kg); zero-fuel: 28,837 lb (13,080 kg)",
+    "engines": "1 x Pratt & Whitney F100-220U turbofan",
+    "armament": "None fitted - two internal weapons bays sized for up to 4,500 lb (2,000 kg) of ordnance were never used for weapons",
+    "crew": "None onboard - semi-autonomous",
+    "capacity": "Two internal weapons bays, up to 4,500 lb (2,000 kg)",
+    "firstFlight": {
+      "date": "2011-02-04",
+      "year": 2011
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "2015",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - two demonstrators were built under a UCAS-D contract of $635.8M (2007), estimated at $813M by January 2012",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "X-47A Pegasus",
+      "desc": "Northrop Grumman's proof-of-concept predecessor, a much smaller tailless demonstrator with a 27.8 ft (8.5 m) wingspan. It first flew on 23 February 2003 at the Naval Air Warfare Center, China Lake, California, and its 2003-2006 test programme supplied the basis for the X-47B. The aircraft is now displayed at the Patuxent River Naval Air Museum in Maryland."
+    },
+    {
+      "code": "X-47B",
+      "desc": "The carrier-capable demonstrator built for the Navy's UCAS-D programme, with a 62.1 ft folding wing, a Pratt & Whitney F100-220U turbofan and two internal weapons bays. Two were built - Air Vehicle 1 and Air Vehicle 2, flown under the call signs Salty Dog 501 and 502 - and between 2011 and 2015 they made the first carrier launch, arrested landing and autonomous aerial refuelling by an uncrewed aircraft."
+    },
+    {
+      "code": "X-47C (proposed)",
+      "desc": "A family of larger derivatives Northrop Grumman proposed as the X-47B programme progressed, including a bomber version intended to carry a 10,000 lb (4,500 kg) bomb load. The designs were aimed at the Navy's UCLASS requirement, but none was built, and the Navy reworked UCLASS in 2016 into the carrier-based tanker programme that became the Boeing MQ-25 Stingray."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Navy",
+      "role": "Sole Operator (test programme)",
+      "status": "Retired",
+      "since": "2011",
+      "fleetSize": "2 (both built)",
+      "homeBase": "NAS Patuxent River, Maryland; first flights at Edwards AFB, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Both X-47Bs have been in storage since the test programme ended and will not appear on Flightradar24. During the programme they flew from Edwards AFB, NAS Patuxent River and aircraft carriers off the Virginia coast, and did not broadcast civil ADS-B."
+  },
+  "lastUpdated": "2026-09-22",
+  "changelog": [
+    {
+      "date": "2026-09-22",
+      "change": "Entry created - full article, specifications, variants and test-milestone log written from Wikipedia, NAVAIR, USNI News, Aviation Week and The War Zone.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "x-47b",
+    "x47b",
+    "x-47",
+    "salty dog",
+    "ucas-d",
+    "ucav",
+    "carrier drone",
+    "flying wing",
+    "northrop grumman",
+    "autonomous refueling",
+    "unmanned combat air vehicle"
+  ],
+  "article": {
+    "overview": [
+      "The Northrop Grumman X-47B is a tailless, jet-powered, carrier-capable unmanned combat air vehicle demonstrator built for the U.S. Navy's Unmanned Combat Air System Demonstration (UCAS-D) programme. Two were built, and the first flew on 4 February 2011 at Edwards Air Force Base, California.{{ref:wiki-x47b}}",
+      "On 14 May 2013 the X-47B became the first uncrewed aircraft to be catapulted from an aircraft carrier, and on 10 July 2013 the first to make an arrested landing on one, both aboard USS George H.W. Bush. On 22 April 2015 it made the first autonomous aerial refuelling by an uncrewed aircraft. It never carried weapons and never entered service, and both airframes are now stored by Northrop Grumman at Palmdale, California.{{ref:avweek-firsts}}{{ref:navair-aar}}{{ref:twz-museums}}"
+    ],
+    "sections": [
+      {
+        "heading": "From J-UCAS to UCAS-D",
+        "paragraphs": [
+          "The X-47 began under the Defense Advanced Research Projects Agency's Joint Unmanned Combat Air Systems (J-UCAS) programme, run jointly for the Air Force and the Navy. Northrop Grumman's smaller X-47A Pegasus proof-of-concept aircraft, with a 27.8 ft (8.5 m) wingspan, first flew on 23 February 2003 at China Lake, California. J-UCAS was terminated in February 2006 following that year's Quadrennial Defense Review, and the Navy carried on alone.{{ref:wiki-x47b}}{{ref:paxmuseum}}",
+          "In 2007 the Navy awarded Northrop Grumman a $635.8 million contract for two carrier-capable demonstrators under the new UCAS-D programme. By January 2012 the estimated cost had grown to $813 million. The programme's aim was narrow: prove that a tailless, uncrewed jet could be launched, recovered and handled on a carrier deck alongside crewed aircraft, rather than develop a combat aircraft for service.{{ref:wiki-x47b}}{{ref:avweek-firsts}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The X-47B is a flying wing with no vertical tail, 38 ft 2 in (11.63 m) long with a 62.1 ft (18.9 m) wingspan whose outer panels fold to 30.9 ft (9.4 m) for stowage on a carrier. It is powered by a single Pratt & Whitney F100-220U turbofan, weighs up to 44,501 lb (20,185 kg) at take-off and has a published range of 2,400 mi (3,900 km) and a ceiling of 42,000 ft. Two internal weapons bays were sized for up to 4,500 lb (2,000 kg) of ordnance, although the aircraft was never armed.{{ref:wiki-x47b}}",
+          "The aircraft flew semi-autonomously, carrying out its flight plan under computer control with operators supervising, rather than being flown by a remote pilot. It navigated with three independent navigation subsystems, so that a failure in one could be detected by the other two. For the refuelling trials in 2015 it was fitted with a fixed refuelling probe and a camera tracking system to guide the probe into a tanker's drogue.{{ref:wiki-x47b}}{{ref:avweek-firsts}}"
+        ]
+      },
+      {
+        "heading": "Carrier Trials",
+        "paragraphs": [
+          "Envelope expansion at Edwards was completed in 16 flights against 49 planned, and the second aircraft, AV-2, first flew on 22 November 2011. After a land-based catapult launch in November 2012, the X-47B began carrier evaluation aboard USS Harry S. Truman on 26 November 2012 with deck-handling tests over a 15-day period. On 14 May 2013 it was catapulted from USS George H.W. Bush in the Atlantic, and it made its first touch-and-go landings on the same ship three days later.{{ref:wiki-x47b}}{{ref:avweek-firsts}}",
+          "On 10 July 2013 the X-47B made the first arrested landing by an uncrewed aircraft on a carrier, followed by a second. A third approach was abandoned when one of the three navigation subsystems failed, and the aircraft diverted to Wallops Flight Facility in Virginia. On 15 July AV-2 aborted another planned landing on George H.W. Bush because of a technical problem. The X-47B made its first night flight on 10 April 2014, and on 17 August 2014 it operated alongside F/A-18 Hornets aboard USS Theodore Roosevelt - the first integrated carrier operations of crewed and uncrewed aircraft.{{ref:wiki-x47b}}"
+        ]
+      },
+      {
+        "heading": "Autonomous Refuelling & Programme End",
+        "paragraphs": [
+          "The UCAS-D programme was originally due to end in 2013, but Navy leadership had it extended to test autonomous aerial refuelling. On 22 April 2015, over the Atlantic Test Ranges off Maryland and Virginia, the X-47B manoeuvred its probe into the drogue of an Omega Aerial Refueling Services K-707 tanker using the Navy's probe-and-drogue method and took on more than 4,000 lb of fuel. It stayed connected for more than 11 minutes during five engagements, completing the final test objective of the programme.{{ref:navair-aar}}{{ref:usni-aar}}{{ref:avweek-firsts}}",
+          "The Navy judged that design differences between the X-47B and its planned operational drone made further testing on the demonstrators too costly, and the aircraft were retired having used only about 20 percent of their allocated flying hours. The programme's carrier landings had already won Northrop Grumman, the Navy and the development team the 2013 Collier Trophy, presented on 9 April 2014.{{ref:usni-aar}}{{ref:wiki-x47b}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The X-47B was meant to lead into the Navy's Unmanned Carrier-Launched Airborne Surveillance and Strike (UCLASS) programme, for which Northrop Grumman proposed larger X-47C derivatives, including a bomber carrying 10,000 lb (4,500 kg) of weapons. In February 2016 the Navy recast UCLASS as a carrier-based refuelling drone with only limited strike capability, the requirement that became the Boeing MQ-25 Stingray. Northrop Grumman modified one X-47B as a testbed for its MQ-25 bid in 2017, then withdrew from the competition on 25 October 2017.{{ref:wiki-x47b}}",
+          "The Navy had planned in April 2015 to send both aircraft to museums, then decided in July 2015 to keep them in flying condition. One left NAS Patuxent River for Northrop Grumman's facility at Palmdale, California, in January 2017, and in spring 2019 one airframe made a static engine run while the other stayed in its hangar. In August 2022 The War Zone reported that both - by then owned by Northrop Grumman rather than the Navy - were being prepared for delivery to two aviation museums, though where and when they will be displayed had not been announced.{{ref:wiki-x47b}}{{ref:twz-museums}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-x47b",
+      "name": "Northrop Grumman X-47B",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_Grumman_X-47B"
+    },
+    {
+      "id": "avweek-firsts",
+      "name": "Autonomy Pioneer: X-47B UCAS-D's Historic Aviation Firsts",
+      "publisher": "Aviation Week",
+      "url": "https://aviationweek.com/defense/autonomy-pioneer-x-47b-ucas-ds-historic-aviation-firsts"
+    },
+    {
+      "id": "navair-aar",
+      "name": "Fueled in flight: X-47B first to complete autonomous aerial refueling",
+      "publisher": "NAVAIR",
+      "url": "https://www.navair.navy.mil/node/22191"
+    },
+    {
+      "id": "twz-museums",
+      "name": "Historic X-47B Carrier-Capable Unmanned Jets Are Headed To Museums",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/historic-x-47b-carrier-capable-unmanned-jets-are-headed-to-museums"
+    },
+    {
+      "id": "paxmuseum",
+      "name": "Unmanned Combat Air Vehicles",
+      "publisher": "Patuxent River Naval Air Museum",
+      "url": "https://www.paxmuseum.com/ucav"
+    },
+    {
+      "id": "usni-aar",
+      "name": "Navy Conducts Successful Test of Aerial Refueling with X-47B, UCAS-D Program Ending",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2015/04/22/navy-conducts-successful-test-of-aerial-refueling-on-x-47b-ucas-d-program-ending"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2011-02-04",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "Air Vehicle 1 made the X-47B's first flight at Edwards Air Force Base, California.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_X-47B"
+    },
+    {
+      "date": "2013-05-14",
+      "title": "First carrier catapult launch by an uncrewed aircraft",
+      "tag": "Aviation first",
+      "summary": "The X-47B was catapulted from USS George H.W. Bush in the Atlantic, the first launch of an uncrewed aircraft from an aircraft carrier.",
+      "source": "https://aviationweek.com/defense/autonomy-pioneer-x-47b-ucas-ds-historic-aviation-firsts"
+    },
+    {
+      "date": "2013-07-10",
+      "title": "First arrested landing by an uncrewed aircraft",
+      "tag": "Aviation first",
+      "summary": "The X-47B made two arrested landings aboard USS George H.W. Bush, the first by an uncrewed aircraft and the first by a tailless flying wing. A third approach was abandoned after one of its three navigation subsystems failed, and it diverted to Wallops Flight Facility.",
+      "source": "https://aviationweek.com/defense/autonomy-pioneer-x-47b-ucas-ds-historic-aviation-firsts"
+    },
+    {
+      "date": "2013-07-15",
+      "title": "Carrier landing aborted",
+      "tag": "Technical fault",
+      "summary": "AV-2 aborted a planned landing on USS George H.W. Bush because of a technical problem and did not land aboard that day.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_X-47B"
+    },
+    {
+      "date": "2014-08-17",
+      "title": "First integrated carrier operations with crewed jets",
+      "tag": "Test milestone",
+      "summary": "The X-47B launched and recovered alongside F/A-18 Hornets aboard USS Theodore Roosevelt, the first time crewed and uncrewed aircraft operated together from a carrier deck.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_X-47B"
+    },
+    {
+      "date": "2015-04-22",
+      "title": "First autonomous aerial refuelling",
+      "tag": "Aviation first",
+      "summary": "Over the Atlantic Test Ranges off Maryland and Virginia, the X-47B took on more than 4,000 lb of fuel from an Omega K-707 tanker using probe-and-drogue refuelling - the first autonomous aerial refuelling by an uncrewed aircraft and the last test objective of the programme.",
+      "source": "https://www.navair.navy.mil/node/22191"
+    }
+  ]
+}

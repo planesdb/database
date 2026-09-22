@@ -1,0 +1,419 @@
+{
+  "name": "RQ-4 Global Hawk",
+  "fullName": "Northrop Grumman RQ-4 Global Hawk",
+  "manufacturer": "Northrop Grumman (originally Ryan Aeronautical)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes",
+    "drones"
+  ],
+  "role": "High-Altitude Surveillance Drone",
+  "tagline": "The RQ-4 Global Hawk is a high-altitude, long-endurance unmanned surveillance aircraft built by Northrop Grumman for the U.S. Air Force. It flies at up to 60,000 ft for more than 30 hours at a time, and in 2001 became the first uncrewed aircraft to fly non-stop across the Pacific.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "In April 2001 a Global Hawk flew non-stop from Edwards AFB, California, to RAAF Base Edinburgh in South Australia in 23 hours 20 minutes - the first crossing of the Pacific by an uncrewed aircraft and a world distance record for a UAV of 8,214 mi (13,220 km).",
+    "On 22 March 2008 a Global Hawk flew for 33.1 hours at up to 60,000 ft, an endurance record for a full-scale operational uncrewed aircraft.",
+    "A single Global Hawk can survey an area roughly the size of Illinois - about 40,000 sq mi - in one day.",
+    "Its biggest drawback is cost: in 2012 the Pentagon tried to cancel the Block 30 after finding it more expensive to operate and less capable than the crewed U-2 it was meant to replace.",
+    "The prototype 'Grumpy' (98-2003), now at the National Museum of the US Air Force, flew 195 combat sorties and 4,152 combat hours after being rushed to war in 2001."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the RQ-4B (Block 20, 30 and 40), which has a longer wing and heavier payload than the original RQ-4A.",
+    "maxSpeed": {
+      "mph": 391,
+      "text": "340 kn (391 mph / 629 km/h)"
+    },
+    "cruiseSpeed": "357 mph (574 km/h)",
+    "range": {
+      "miles": 14200,
+      "text": "14,200 mi (22,800 km, 12,300 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 60000,
+      "text": "60,000 ft (18,288 m)"
+    },
+    "wingspan": {
+      "ft": 130.9,
+      "text": "130 ft 11 in (39.9 m)"
+    },
+    "length": {
+      "ft": 47.6,
+      "text": "47 ft 7 in (14.5 m)"
+    },
+    "height": {
+      "ft": 15.3,
+      "text": "15 ft 4 in (4.7 m)"
+    },
+    "weight": "empty: 14,950 lb (6,781 kg); MTOW: 32,250 lb (14,628 kg)",
+    "engines": "1 x Rolls-Royce F137-RR-100 turbofan, 7,600 lbf (34 kN)",
+    "crew": "None onboard - remotely piloted",
+    "capacity": "3,000 lb (1,360 kg) sensor payload",
+    "firstFlight": {
+      "date": "1998-02-28",
+      "year": 1998
+    },
+    "serviceEntryDate": "2001-11-01",
+    "retiredDate": null,
+    "numberBuilt": "45 USAF production aircraft, plus prototypes and exports",
+    "unitCost": {
+      "usd": 131400000,
+      "text": "$131.4M (FY2013 flyaway, RQ-4B) - roughly $189M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$189M in 2026 dollars"
+    },
+    "combatLosses": "1 shot down - a US Navy RQ-4A BAMS-D, by an Iranian surface-to-air missile over the Strait of Hormuz on 20 June 2019. Several more were lost in accidents on operational deployments."
+  },
+  "variants": [
+    {
+      "code": "RQ-4A (Block 10)",
+      "desc": "The initial production version, carrying a 2,000 lb payload on a shorter wing than later aircraft. Sixteen were built, the last delivered on 26 June 2006, alongside the prototypes that went to war in Afghanistan in November 2001. The Air Force retired its Block 10s in 2011; five went to the US Navy as the BAMS-D maritime surveillance demonstrators, and two prototypes went to NASA."
+    },
+    {
+      "code": "RQ-4B Block 20 / EQ-4B",
+      "desc": "The first RQ-4B, rolled out on 25 August 2006, with the wingspan increased to 130.9 ft and payload raised to 3,000 lb. Built as an imagery-intelligence aircraft with the Enhanced Integrated Sensor Suite, several were converted into EQ-4B communications relays carrying the Battlefield Airborne Communications Node, which flew 1,000 consecutive sorties without a maintenance cancellation by April 2017. The Block 20s were retired in 2021."
+    },
+    {
+      "code": "RQ-4B Block 30",
+      "desc": "The multi-intelligence version, adding a signals-intelligence payload to the electro-optical, infrared and synthetic aperture radar sensors. It reached initial operational capability in August 2011 and was the most widely deployed variant. The Pentagon tried to cancel it in 2012 as costlier and less capable than the U-2; it was retired in 2022, and the airframes were converted for hypersonic weapons test support."
+    },
+    {
+      "code": "RQ-4B Block 40",
+      "desc": "The ground-surveillance version, fitted with the Multi-Platform Radar Technology Insertion Program (MP-RTIP) active electronically scanned array radar for tracking moving vehicles over wide areas. It reached initial operational capability in August 2016 and is the only Global Hawk still in US Air Force service, with nine aircraft flying from Grand Forks AFB, North Dakota."
+    },
+    {
+      "code": "RQ-4D Phoenix",
+      "desc": "The NATO Alliance Ground Surveillance version, based on the Block 40 and its radar. NATO signed for five aircraft in May 2012, the first arrived at Sigonella in Sicily on 21 November 2019, and the pooled fleet reached initial operating capability in 2021. It is operated on behalf of the alliance rather than any single national air force."
+    },
+    {
+      "code": "RQ-4E Euro Hawk",
+      "desc": "A signals-intelligence version for the German Luftwaffe, pairing the RQ-4B airframe with an EADS SIGINT payload. It was rolled out on 8 October 2009 and first flew on 29 June 2010, but Germany cancelled the programme on 15 May 2013 after spending €562 million, when certifying it for European airspace was estimated to cost a further €600 million. Only one of the five planned aircraft was delivered."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2001",
+      "fleetSize": "9 (Block 40)",
+      "homeBase": "Grand Forks AFB, North Dakota; forward operating from Andersen AFB, NAS Sigonella, RAF Fairford and Yokota AB"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Former Operator (BAMS-D)",
+      "status": "Retired",
+      "since": "2000s",
+      "fleetSize": "5 RQ-4A",
+      "homeBase": "Deployed to the Middle East until June 2022"
+    },
+    {
+      "name": "NATO",
+      "role": "Operator (RQ-4D Phoenix)",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "5",
+      "homeBase": "NAS Sigonella, Sicily, Italy"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "4 (Block 30)",
+      "homeBase": "South Korea"
+    },
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "3",
+      "homeBase": "Misawa Air Base"
+    },
+    {
+      "name": "NASA",
+      "role": "Research Operator",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "2 transferred in 2007; AV-6 still active",
+      "homeBase": "Armstrong Flight Research Center, Edwards AFB, California"
+    },
+    {
+      "name": "German Air Force",
+      "role": "Former Operator (RQ-4E Euro Hawk)",
+      "status": "Retired",
+      "since": "2010",
+      "fleetSize": "1 (of 5 planned)",
+      "homeBase": "Germany"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "Q4",
+    "howToFind": "Global Hawks sometimes fly with transponders on in international airspace and are most likely to be seen near their forward operating bases - NAS Sigonella in Sicily (home to NATO's RQ-4D fleet as well), RAF Fairford, Andersen AFB on Guam and Yokota in Japan. Filter by the Q4 type code, which the RQ-4 shares with the MQ-4C Triton."
+  },
+  "lastUpdated": "2026-09-22",
+  "changelog": [
+    {
+      "date": "2026-09-22",
+      "change": "Entry created - full article, specifications, variants, operators, survivors and incident log written from Wikipedia, Air & Space Forces Magazine, The War Zone, DVIDS, NASA, the Australian Defence Science and Technology Group and museum fact sheets.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "rq-4",
+    "rq4",
+    "global hawk",
+    "eq-4b",
+    "rq-4d",
+    "phoenix",
+    "euro hawk",
+    "hale",
+    "high altitude long endurance",
+    "surveillance drone",
+    "northrop grumman",
+    "uav"
+  ],
+  "article": {
+    "overview": [
+      "The Northrop Grumman RQ-4 Global Hawk is a high-altitude, long-endurance unmanned surveillance aircraft built for the U.S. Air Force. Designed by Ryan Aeronautical, now part of Northrop Grumman, it first flew on 28 February 1998 and was sent to war in Afghanistan in November 2001, while still a developmental aircraft.{{ref:wiki-rq4}}",
+      "The RQ-4 carries imaging, radar and signals-intelligence sensors at up to 60,000 ft for more than 30 hours. The Air Force has retired every version except the radar-equipped Block 40, of which nine remain, and Congress has pushed their retirement from 2027 to at least 2030. The design also serves NATO as the RQ-4D Phoenix, flies with South Korea, Japan and NASA, and was developed into the U.S. Navy's MQ-4C Triton.{{ref:afm-rq4}}{{ref:wiki-rq4}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "The Global Hawk was developed as the Tier II+ programme, a DARPA-sponsored Advanced Concept Technology Demonstration for a high-flying reconnaissance drone. Seven prototypes were built, and the first flew at Edwards Air Force Base on 28 February 1998. The programme was costed ambitiously: in 1994 the target price was $10 million each for the first ten aircraft, but the flyaway cost had reached $60.9 million by 2001 and $131.4 million by 2013, and the planned buy of 63 aircraft was cut to 45.{{ref:wiki-rq4}}{{ref:afm-rq4}}",
+          "The prototypes were fragile. Four of the six or seven built were lost in accidents, attributed to technical failures or poor maintenance, beginning with 95-2002, which crashed at China Lake on 29 March 1999. Production began with the RQ-4A Block 10, of which 16 were built, before the larger RQ-4B was rolled out on 25 August 2006 with a 130.9 ft wingspan and a 3,000 lb payload - half as much again as the RQ-4A's 2,000 lb.{{ref:wiki-rq4}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The RQ-4B is a long, slender-winged aircraft 47 ft 7 in (14.5 m) long, powered by a single Rolls-Royce F137-RR-100 turbofan of 7,600 lbf (34 kN). It weighs up to 32,250 lb (14,628 kg) at take-off, cruises at about 357 mph (574 km/h) and can stay airborne for 32 hours or more, including 24 hours on station at 1,200 miles from its base. Operating above the reach of most air defences, it can image an area of about 40,000 sq mi, roughly the size of Illinois, in a single day.{{ref:afm-rq4}}{{ref:moa-rq4}}",
+          "Each production block carried a different sensor fit. The Block 20 carried the Enhanced Integrated Sensor Suite for imagery intelligence; the Block 30 added signals intelligence to electro-optical, infrared and synthetic aperture radar sensors, and reached initial operational capability in August 2011; and the Block 40 carries the Multi-Platform Radar Technology Insertion Program radar, an active electronically scanned array that tracks moving vehicles over wide areas, and reached initial operational capability in August 2016.{{ref:afm-rq4}}"
+        ]
+      },
+      {
+        "heading": "Record Flights",
+        "paragraphs": [
+          "In April 2001 a Global Hawk flew non-stop from Edwards AFB to RAAF Base Edinburgh in South Australia, landing on 23 April after 23 hours 20 minutes in the air. It was the first crossing of the Pacific by an uncrewed aircraft and set a world record for absolute distance flown by a UAV of 13,219.86 km (8,214.44 mi). Renamed Southern Cross II for the visit, it spent six weeks in Australia on maritime surveillance trials with the Royal Australian Air Force and Australia's Defence Science and Technology Organisation.{{ref:wiki-rq4}}{{ref:dst-2001}}",
+          "On 22 March 2008 a Global Hawk flew for 33.1 hours at altitudes up to 60,000 ft, an endurance record for a full-scale operational uncrewed aircraft. The prototype AV-3 had already flown non-stop and autonomously from Australia back to Edwards in February 2006.{{ref:wiki-rq4}}{{ref:nmusaf-av3}}"
+        ]
+      },
+      {
+        "heading": "Operational Service",
+        "paragraphs": [
+          "Developmental Global Hawks were deployed to Afghanistan in November 2001, and the prototype AV-3, 98-2003, nicknamed 'Grumpy' for its teething problems, went on to fly 195 combat sorties and 4,152.7 combat hours over Afghanistan and Iraq. In March 2003 its radar tracked Iraqi Republican Guard units through a sandstorm that had blinded optical sensors, allowing fighters and bombers to attack them. Two more prototypes were lost on deployment: 98-2005 crashed returning to Al Dhafra in the UAE on 30 December 2001, and 98-2004 crashed in Pakistan after an engine failure on 10 July 2002.{{ref:nmusaf-av3}}{{ref:wiki-rq4}}",
+          "The fleet reached 100,000 flight hours by September 2013, three-quarters of them in combat zones, and had passed 320,000 by 2022. Global Hawks flew 300 hours over the Fukushima disaster area in Japan in 2011 and reconnaissance flights over eastern Ukraine and Crimea as late as 22 February 2022. On 20 June 2019 Iran shot down a US Navy RQ-4A BAMS-D over the Strait of Hormuz; Iran said it was 8.3 nmi off its coast, the United States that it was 17.3 nmi out in international airspace, and President Trump called off retaliatory strikes minutes before launch.{{ref:wiki-rq4}}{{ref:dvids-beale}}{{ref:wiki-iran-2019}}"
+        ]
+      },
+      {
+        "heading": "Cost, Cuts & the U-2",
+        "paragraphs": [
+          "The Global Hawk was meant to replace the crewed U-2, but in January 2012 the Pentagon announced it would stop buying the Block 30, judging it more expensive to operate than the U-2 and fitted with less capable sensors. Congress ordered the Block 30s kept flying through December 2014, and by fiscal 2015 about $3 billion had been moved from the U-2 to the RQ-4 Block 30 to close the gap between them.{{ref:wiki-rq4}}",
+          "The drawdown began in earnest in 2021. The Block 20 aircraft were divested in October 2021, and the last Block 30 left Beale AFB, California, on 7 July 2022, with the Air Force citing savings of more than $2 billion. The retired Block 30s were handed to Northrop Grumman and reconfigured as 'RangeHawks' to relay telemetry for hypersonic missile tests, and the US Navy brought its last deployed BAMS-D aircraft home from the Middle East on 17 June 2022, ending what began as a six-month trial and lasted 13 years.{{ref:dvids-beale}}{{ref:twz-beale}}{{ref:wiki-rq4}}"
+        ]
+      },
+      {
+        "heading": "International Operators & Outlook",
+        "paragraphs": [
+          "Germany's RQ-4E Euro Hawk flew on 29 June 2010, but the programme was cancelled on 15 May 2013 after €562 million had been spent, when certifying the aircraft for European airspace - including an anti-collision system - was estimated to cost another €600 million. NATO had better luck: it ordered five Block 40-based RQ-4D Phoenix aircraft in May 2012, the first reached Sigonella on 21 November 2019, and the fleet reached initial operating capability in 2021. South Korea signed a $657 million contract for four Block 30s on 17 December 2014 and received them between December 2019 and September 2020, and Japan's first of three landed at Misawa on 12 March 2022.{{ref:wiki-rq4}}{{ref:afm-rq4}}",
+          "NASA received the first and sixth prototypes from the Air Force in December 2007 for high-altitude science, including hurricane research; AV-1 has since been retired, while AV-6 remains available for campaigns. In US service the Global Hawk is down to nine Block 40s at Grand Forks, which Congress has kept flying to at least 2030, and The War Zone has long reported the stealthy RQ-180 as the aircraft expected to take over its mission.{{ref:nasa-gh}}{{ref:afm-rq4}}{{ref:twz-beale}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-rq4",
+      "name": "Northrop Grumman RQ-4 Global Hawk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "id": "afm-rq4",
+      "name": "RQ-4 Global Hawk",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/weapons/rq-4/"
+    },
+    {
+      "id": "moa-rq4",
+      "name": "RQ-4A Global Hawk",
+      "publisher": "Museum of Aviation Foundation",
+      "url": "https://museumofaviation.org/portfolio/rq-4a-global-hawk/"
+    },
+    {
+      "id": "dst-2001",
+      "name": "Global Hawk's Australian touchdown - 20 years on, the impact is clear",
+      "publisher": "Defence Science and Technology Group (Australia)",
+      "url": "https://www.dst.defence.gov.au/news/2021/04/23/global-hawk%E2%80%99s-australian-touchdown-%E2%80%93-20-years-impact-clear"
+    },
+    {
+      "id": "nmusaf-av3",
+      "name": "Northrop Grumman RQ-4 Global Hawk",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196043/northrop-grumman-rq-4-global-hawk/"
+    },
+    {
+      "id": "dvids-beale",
+      "name": "Beale AFB says farewell to the RQ-4 Global Hawk Block 30",
+      "publisher": "DVIDS",
+      "url": "https://www.dvidshub.net/news/426868/beale-afb-says-farewell-rq-4-global-hawk-block-30"
+    },
+    {
+      "id": "wiki-iran-2019",
+      "name": "2019 Iranian shoot-down of American drone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2019_Iranian_shoot-down_of_American_drone"
+    },
+    {
+      "id": "twz-beale",
+      "name": "Global Hawk Has Left Beale Air Force Base For Good",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/global-hawk-has-left-beale-air-force-base-for-good"
+    },
+    {
+      "id": "nasa-gh",
+      "name": "Global Hawk - AFRC",
+      "publisher": "NASA Airborne Science Program",
+      "url": "https://airbornescience.nasa.gov/aircraft/Global_Hawk_-_AFRC"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1998-02-28",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "The first Global Hawk prototype flew at Edwards Air Force Base, California.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "1999-03-29",
+      "title": "Prototype lost at China Lake",
+      "tag": "Crash",
+      "summary": "Prototype RQ-4A 95-2002 crashed at the Naval Weapons Center, China Lake, California - one of four prototypes lost to accidents.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2001-04-23",
+      "title": "First uncrewed crossing of the Pacific",
+      "tag": "Record flight",
+      "summary": "A Global Hawk landed at RAAF Base Edinburgh, South Australia, after a 23-hour 20-minute non-stop flight from Edwards AFB, setting a UAV absolute distance record of 13,219.86 km (8,214.44 mi).",
+      "source": "https://www.dst.defence.gov.au/news/2021/04/23/global-hawk%E2%80%99s-australian-touchdown-%E2%80%93-20-years-impact-clear"
+    },
+    {
+      "date": "2001-12-30",
+      "title": "Crash returning to Al Dhafra",
+      "tag": "Crash",
+      "summary": "Developmental RQ-4A 98-2005 crashed while returning to Al Dhafra Air Base in the United Arab Emirates from an operational mission.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2002-07-10",
+      "title": "Engine failure over Pakistan",
+      "tag": "Crash",
+      "summary": "RQ-4A 98-2004 crashed near Shamsi Air Base, Pakistan, after an engine failure.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2008-03-22",
+      "title": "33.1-hour endurance record",
+      "tag": "Record flight",
+      "summary": "A Global Hawk flew for 33.1 hours at altitudes up to 60,000 ft, an endurance record for a full-scale operational uncrewed aircraft.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2011-08-21",
+      "title": "EQ-4B crash in Afghanistan",
+      "tag": "Crash",
+      "summary": "An EQ-4B communications-relay Global Hawk crashed south-east of Jalalabad, Afghanistan.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2012-06-11",
+      "title": "Navy BAMS-D crash in Maryland",
+      "tag": "Crash",
+      "summary": "A US Navy RQ-4A crashed near Naval Air Station Patuxent River, Maryland, during a training flight.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2017-06-21",
+      "title": "Crash near Lone Pine",
+      "tag": "Crash",
+      "summary": "A USAF RQ-4B crashed near Lone Pine in the Sierra Nevada, California.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2018-06-26",
+      "title": "Lost off Rota, Spain",
+      "tag": "Crash",
+      "summary": "A USAF RQ-4B crashed into the sea off Naval Station Rota, Spain.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2019-06-20",
+      "title": "Shot down by Iran over the Strait of Hormuz",
+      "tag": "Shot down",
+      "summary": "A US Navy RQ-4A BAMS-D was shot down by an Iranian surface-to-air missile. Iran said the aircraft was 8.3 nmi off its coast; the United States said it was 17.3 nmi out, in international airspace. President Trump called off retaliatory strikes shortly before they were due to launch.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/2019_Iranian_shoot-down_of_American_drone"
+    },
+    {
+      "date": "2019-11-21",
+      "title": "First NATO RQ-4D arrives at Sigonella",
+      "tag": "Delivery milestone",
+      "summary": "The first of five RQ-4D Phoenix aircraft for NATO's Alliance Ground Surveillance Force arrived at Sigonella, Sicily.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2022-06-17",
+      "title": "Navy BAMS-D deployment ends",
+      "tag": "Retirement",
+      "summary": "The US Navy brought its last deployed RQ-4A BAMS-D home from the Middle East, ending a six-month experiment that had lasted 13 years.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk"
+    },
+    {
+      "date": "2022-07-07",
+      "title": "Last Block 30 leaves Beale",
+      "tag": "Retirement",
+      "summary": "The final RQ-4 Block 30 departed Beale AFB, California, where Global Hawks had been based since October 2004. The retired aircraft were reconfigured to support hypersonic weapons testing.",
+      "source": "https://www.dvidshub.net/news/426868/beale-afb-says-farewell-rq-4-global-hawk-block-30"
+    }
+  ],
+  "survivors": {
+    "intro": "Several early Global Hawks have been retired to museum and static display, mostly RQ-4A prototypes and Block 10 aircraft that flew combat missions over Afghanistan and Iraq. The two below are individually documented by their museums; others, such as the static display at Goodfellow AFB, Texas, have no published serial.",
+    "airframes": [
+      {
+        "serial": "98-2003 (AV-3)",
+        "name": "Grumpy",
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196043/northrop-grumman-rq-4-global-hawk/",
+        "note": "The third prototype, which flew 251 flights and 4,891.3 hours, including 195 combat sorties over Afghanistan and Iraq. Placed on display in 2008.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "02-2011",
+        "location": "Museum of Aviation, Robins Air Force Base",
+        "place": "Warner Robins, Georgia, United States",
+        "url": "https://museumofaviation.org/portfolio/rq-4a-global-hawk/",
+        "note": "The fourth production RQ-4A, first flown in August 2004. It flew 422 flights and 7,658.5 hours supporting operations in Iraq and Afghanistan before retiring in May 2011, and went on display in January 2015.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}
