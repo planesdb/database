@@ -1,0 +1,414 @@
+{
+  "name": "777",
+  "fullName": "Boeing 777",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Long-Range Wide-Body Airliner and Freighter",
+  "tagline": "The Boeing 777 is a long-range, twin-engine wide-body airliner built by Boeing since 1994 and the largest twinjet in airline service. It was the first airliner designed entirely on computer, more than 1,790 have been delivered, and the 777F freighter and the delayed 777X keep the family in production.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The 777 was the first airliner designed entirely on computer, using CATIA software, and Boeing built it without a full-scale physical mock-up.",
+    "On 10 November 2005 a 777-200LR flew 11,664 nmi (21,602 km) eastbound from Hong Kong to London in 22 hours 42 minutes, the longest non-stop flight by an airliner at the time.",
+    "Its GE90-115B engine produces 115,300 lbf (513 kN) of thrust, and each of its 22 fan blades is 4 ft (1.2 m) long.",
+    "Boeing offered folding wingtips on the original 777 in 1990, but no airline bought them; the 777X is the first airliner to have them.",
+    "First 777X deliveries were due in 2020 but have slipped to 2027, and in 2026 even that date was at risk because a seal in the GE9X engine proved less durable than expected.",
+    "The main wreckage of Malaysia Airlines Flight 370 has still not been found, after a further Ocean Infinity search ended without success on 23 January 2026."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the 777-300ER, the best-selling version. Its maximum operating speed is set out in the Airplane Flight Manual rather than the EASA type certificate, so no maximum speed is recorded; cruise speed is Boeing's published Mach figure.",
+    "maxSpeed": {
+      "mph": 587,
+      "text": "511 kn (587 mph, 945 km/h)"
+    },
+    "cruiseSpeed": "Mach 0.84",
+    "range": {
+      "miles": 8480,
+      "text": "8,480 mi (13,650 km, 7,370 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 43100,
+      "text": "43,100 ft (13,140 m)"
+    },
+    "wingspan": {
+      "ft": 212.6,
+      "text": "212 ft 7 in (64.8 m)"
+    },
+    "length": {
+      "ft": 242.3,
+      "text": "242 ft 4 in (73.9 m)"
+    },
+    "height": {
+      "ft": 60.7,
+      "text": "60 ft 8 in (18.5 m)"
+    },
+    "weight": "empty: 371,600 lb (168.6 t); MTOW: 775,000 lb (351.5 t)",
+    "engines": "2 x General Electric GE90-115B turbofans, 115,300 lbf (513 kN) each; earlier 777s used the Pratt & Whitney PW4000, GE90 or Rolls-Royce Trent 800",
+    "crew": "2 flight crew",
+    "capacity": "392 typical (2-class), up to 550 all-economy; 777F: 224,900 lb (102,010 kg) payload",
+    "firstFlight": {
+      "date": "1994-06-12",
+      "year": 1994
+    },
+    "serviceEntryDate": "1995-06-07",
+    "retiredDate": null,
+    "numberBuilt": 1792,
+    "unitCost": {
+      "usd": 375500000,
+      "text": "$375.5M (777-300ER list price, 2019) - roughly $492M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$492M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "777-200 / -200ER",
+      "desc": "The original 777-200 entered service with United in June 1995, seating 305 in three classes with a range of 5,240 nmi; 88 were delivered. The heavier -200ER followed in 1997 with British Airways as first customer, raising range to 7,065 nmi. With 422 delivered, it was the best-selling 777 until the -300ER, and it was offered with all three engine makes."
+    },
+    {
+      "code": "777-200LR",
+      "desc": "The ultra-long-range version, with auxiliary fuel tanks, a range of 8,555 nmi and GE90-115B engines only. Pakistan International Airlines took the first in 2006. On 10 November 2005 a -200LR flew 11,664 nmi from Hong Kong to London eastbound, then the longest non-stop flight by an airliner. Only 61 were delivered, the fewest of the passenger versions after the -300."
+    },
+    {
+      "code": "777-300",
+      "desc": "A stretch of the -200 that entered service with Cathay Pacific in 1998, adding about 20 percent more length and 60 extra seats for 368 in three classes, with a range of 6,005 nmi. Only 60 were delivered, the last in 2006, and the longer-range -300ER replaced it."
+    },
+    {
+      "code": "777-300ER",
+      "desc": "The -300's cabin combined with the range of the -200ER, powered only by the GE90-115B and fitted with raked wingtips. Air France took the first in 2004. It seats 392 in two classes, flies 7,370 nmi and became the best-selling 777 with 833 delivered. By 2025 Boeing had stopped building it, leaving the 777X as its successor."
+    },
+    {
+      "code": "777F",
+      "desc": "The freighter, based on the -200LR airframe with GE90-115B engines. It first flew on 14 July 2008 and Air France received the first on 19 February 2009. Boeing quotes a payload of 224,900 lb over 4,970 nmi. FedEx flies the largest fleet. In September 2026 the FAA let Boeing sell 35 more after 2028 emissions rules take effect."
+    },
+    {
+      "code": "777X (777-8 / 777-9 / 777-8F)",
+      "desc": "The next generation, launched in November 2013 with a composite wing, folding wingtips and GE9X engines. The 777-9 first flew on 25 January 2020, but certification has slipped and first deliveries, to launch customer Lufthansa, are now due in 2027. The 777-8F freighter was launched by Qatar Airways in January 2022 for service around 2029."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Emirates",
+      "role": "Largest Operator",
+      "status": "In Service",
+      "fleetSize": "148",
+      "homeBase": "Dubai International Airport - UAE"
+    },
+    {
+      "name": "Qatar Airways",
+      "role": "Operator (passenger and cargo)",
+      "status": "In Service",
+      "fleetSize": "92 passenger, 28 freighters",
+      "homeBase": "Hamad International Airport - Qatar"
+    },
+    {
+      "name": "United Airlines",
+      "role": "Launch Customer",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "86",
+      "homeBase": "Chicago O'Hare International Airport - Illinois"
+    },
+    {
+      "name": "American Airlines",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "67",
+      "homeBase": "Dallas/Fort Worth International Airport - Texas"
+    },
+    {
+      "name": "Air France",
+      "role": "Launch Customer (777-300ER, 777F)",
+      "status": "In Service",
+      "since": "2004",
+      "fleetSize": "63",
+      "homeBase": "Paris Charles de Gaulle Airport - France"
+    },
+    {
+      "name": "FedEx Express",
+      "role": "Largest 777F Operator",
+      "status": "In Service",
+      "fleetSize": "59",
+      "homeBase": "Memphis International Airport - Tennessee"
+    },
+    {
+      "name": "Cathay Pacific",
+      "role": "Launch Customer (777-300)",
+      "status": "In Service",
+      "since": "1998",
+      "fleetSize": "50",
+      "homeBase": "Hong Kong International Airport"
+    },
+    {
+      "name": "Lufthansa Cargo",
+      "role": "Cargo Operator",
+      "status": "In Service",
+      "fleetSize": "12",
+      "homeBase": "Frankfurt Airport - Germany"
+    },
+    {
+      "name": "60+ other operators",
+      "role": "Operators",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "More than 70 operators in total; former operators include Japan Airlines' Pratt & Whitney-powered 777s, retired early in March 2021",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B772 (777-200/-200ER); B77L (777-200LR/777F); B773 (777-300); B77W (777-300ER)",
+    "howToFind": "Filter by B77W for the 777-300ER, the most common version. Emirates (callsign UAE) flies the largest fleet, so Dubai is the busiest place to find one, and FedEx (FDX) 777Fs are regulars at Memphis. B77L covers both the 777-200LR and the 777F."
+  },
+  "lastUpdated": "2026-09-22",
+  "changelog": [
+    {
+      "date": "2026-09-22",
+      "change": "Entry created - full article, specifications, variants, operators and incident log written from Wikipedia, Boeing, the EASA type certificate, Leeham News, AirlineRatings and news reporting on the 777F emissions waiver.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "777",
+    "boeing 777",
+    "b777",
+    "triple seven",
+    "777-300er",
+    "777-200er",
+    "777-200lr",
+    "777f",
+    "777x",
+    "777-9",
+    "wide-body",
+    "widebody",
+    "twinjet",
+    "etops"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing 777 is an American long-range, wide-body twin-engine airliner built by Boeing Commercial Airplanes. It first flew on 12 June 1994 and entered service with United Airlines on 7 June 1995. It is the largest twinjet in airline service and the most-produced wide-body airliner, with 1,792 delivered by July 2026.{{ref:wiki-777}}",
+      "The 777 was the first airliner designed entirely on computer and the first to hold 180-minute ETOPS approval when it entered service. The 777-300ER, with 833 delivered, is the best-selling version. Passenger production of the original family has ended, but the 777F freighter is still being built and the 777X is due to enter service in 2027, seven years late.{{ref:wiki-777}}{{ref:wiki-777x}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Working Together",
+        "paragraphs": [
+          "United Airlines launched the programme on 29 October 1990 with an order for the new twinjet. Boeing had already invited eight airlines into the design process: All Nippon Airways, American Airlines, British Airways, Cathay Pacific, Delta Air Lines, Japan Airlines, Qantas and United. Bringing customers into the design this early was a new approach for Boeing, and the group became known as 'Working Together'.{{ref:wiki-777}}",
+          "The 777 was the first commercial aircraft designed entirely with computer-aided design. Engineers used Dassault's CATIA software, and it was also the first Boeing jetliner built without an expensive full-scale physical mock-up to work out the details.{{ref:wiki-777}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The 777 was Boeing's first fly-by-wire airliner, although Boeing kept conventional control yokes rather than switch to sidesticks. The cabin cross-section is close to the 747's and takes ten-abreast economy seating, up to 550 passengers in an all-economy layout. Each main landing gear leg carries a six-wheel bogie. When the 777 was launched, Boeing offered 21 ft (6.40 m) folding wingtips, but no airline ordered them.{{ref:wiki-777}}",
+          "The first 777s could be ordered with Pratt & Whitney PW4000, General Electric GE90 or Rolls-Royce Trent 800 engines. The later -300ER, -200LR and 777F are powered only by the GE90, in versions rated at 110,000 to 115,300 lbf. The GE90-115B produces 115,300 lbf (513 kN), and each of its 22 fan blades is 4 ft (1.2 m) long.{{ref:wiki-777}}"
+        ]
+      },
+      {
+        "heading": "Testing, Certification & ETOPS",
+        "paragraphs": [
+          "The first 777 flew on 12 June 1994. Boeing flew nine test aircraft with all three engine types, in conditions ranging from the desert at Edwards Air Force Base, California, to cold-weather trials in Alaska. The FAA and the European JAA certified the type together on 19 April 1995.{{ref:wiki-777}}",
+          "On 30 May 1995 the FAA cleared the PW4084-powered 777 for 180-minute ETOPS, which let it fly routes up to three hours from the nearest diversion airport. That made it the first airliner to hold an ETOPS-180 rating at entry into service. United flew the first revenue service on 7 June 1995, from London Heathrow to Washington Dulles, and the FAA extended the limit to 207 minutes in October 1996.{{ref:wiki-777}}{{ref:wiki-777-operators}}"
+        ]
+      },
+      {
+        "heading": "Second Generation & Freighters",
+        "paragraphs": [
+          "The heavier 777-200ER entered service with British Airways in 1997, and Cathay Pacific introduced the stretched 777-300 in 1998. The second generation followed in the 2000s. The 777-300ER, delivered first to Air France in 2004, paired the -300's cabin with longer range, seating 392 in two classes over 7,370 nmi, and became the best-selling 777. The ultra-long-range 777-200LR went to Pakistan International Airlines in 2006, and on 10 November 2005 a -200LR flew 11,664 nmi eastbound from Hong Kong to London in 22 hours 42 minutes, then the longest non-stop flight by an airliner.{{ref:wiki-777}}",
+          "The 777F freighter first flew on 14 July 2008, and Air France received the first on 19 February 2009. Boeing quotes a payload of 224,900 lb (102,010 kg) over 4,970 nmi, and FedEx flies the largest fleet with 59. Among passenger airlines, Emirates has the most 777s, with 148. By 2025 Boeing had stopped building the passenger 777-300ER after more than 830, and the freighter is now the only version of the original 777 still in production.{{ref:boeing-777}}{{ref:wiki-777-operators}}{{ref:airlineratings-300er}}"
+        ]
+      },
+      {
+        "heading": "Accidents & Safety Record",
+        "paragraphs": [
+          "The 777 flew for more than 12 years before its first hull loss. On 17 January 2008 British Airways Flight 38 lost power in both Rolls-Royce Trent engines on final approach to Heathrow after ice from the fuel blocked the fuel-oil heat exchangers, and it landed short of the runway; Captain Peter Burkill and Senior First Officer John Coward were at the controls, and all 152 on board survived. Rolls-Royce redesigned the heat exchanger, and regulators ordered it fitted to Trent 500, 700 and 800 engines. On 29 July 2011 a fire broke out in the cockpit of EgyptAir Flight 667 near the first officer's oxygen supply while passengers were boarding at Cairo; everyone got off, but the aircraft was written off. The first fatal 777 accident came on 6 July 2013, when Asiana Airlines Flight 214 struck the seawall at San Francisco after the crew mismanaged a visual approach, killing 3 of 307 people on board.{{ref:wiki-ba38}}{{ref:wiki-ms667}}{{ref:wiki-oz214}}",
+          "The two deadliest losses both involved Malaysia Airlines in 2014. Flight 370 disappeared on 8 March with 239 people on board while flying from Kuala Lumpur to Beijing, and the main wreckage has never been found. A flaperon washed up on Réunion on 29 July 2015, and a further 'no find, no fee' search by Ocean Infinity ended on 23 January 2026 without success. On 17 July a Russian-made Buk missile fired from separatist-held eastern Ukraine destroyed Flight 17, killing all 298. The Joint Investigation Team traced the launcher to Russia's 53rd Anti-Aircraft Missile Brigade, and a Dutch court convicted three men of murder in November 2022. On 20 February 2021 a fan blade broke in a PW4077 engine on United Airlines Flight 328 over Denver; the aircraft landed safely, but 124 PW4000-powered 777s were grounded and Japan Airlines retired its fleet a year early. United's 777-200s did not return to service until May 2022. At Dubai on 3 August 2016, Emirates Flight 521 touched down long and its go-around failed because the thrust was never advanced; all 300 on board escaped the fire, but a firefighter was killed.{{ref:wiki-mh370}}{{ref:wiki-mh17}}{{ref:wiki-ua328}}{{ref:wiki-ek521}}"
+        ]
+      },
+      {
+        "heading": "777X & Current Status",
+        "paragraphs": [
+          "Boeing launched the 777X at the Dubai Airshow in November 2013 with 259 orders and commitments. It has a new composite wing, GE9X engines and folding wingtips that fold the span from 235 ft 5 in to 212 ft 9 in on the ground, the first on a commercial airliner. The 777-9 first flew on 25 January 2020, and Qatar Airways launched the 777-8F freighter in January 2022 with 34 orders and 16 options. By February 2026 the 777X family had 619 orders.{{ref:wiki-777x}}",
+          "Certification has slipped seven years. Boeing now plans first deliveries, to Lufthansa, in 2027, but in September 2026 the type still lacked ETOPS approval because a mid-seal in the GE9X had proved less durable than expected. It is the second GE9X problem after earlier fatigue in the engine's thrust links, and the FAA has examined the programme closely since the 737 MAX crashes. Analyst Richard Aboulafia expects them probably not until very late in 2027. The delay has kept the 777F in demand: on 17 September 2026 the FAA waived the emissions rules that take effect in 2028, allowing Boeing to sell 35 more 777Fs through 2030 until the 777-8F arrives around 2029. Boeing had argued that without the waiver more than $15 billion of US exports would be lost.{{ref:leeham-777x}}{{ref:wsau-777f}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-777",
+      "name": "Boeing 777",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777"
+    },
+    {
+      "id": "wiki-777x",
+      "name": "Boeing 777X",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777X"
+    },
+    {
+      "id": "wiki-777-operators",
+      "name": "List of Boeing 777 operators",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Boeing_777_operators"
+    },
+    {
+      "id": "boeing-777",
+      "name": "777",
+      "publisher": "Boeing",
+      "url": "https://www.boeing.com/commercial/777"
+    },
+    {
+      "id": "airlineratings-300er",
+      "name": "Boeing Quietly Closes the Book on a Legend: The Boeing 777-300ER",
+      "publisher": "AirlineRatings",
+      "url": "https://www.airlineratings.com/articles/boeing-quietly-closes-the-book-on-a-legend-the-boeing-777-300er"
+    },
+    {
+      "id": "wiki-ba38",
+      "name": "British Airways Flight 38",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/British_Airways_Flight_38"
+    },
+    {
+      "id": "wiki-ms667",
+      "name": "EgyptAir Flight 667",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/EgyptAir_Flight_667"
+    },
+    {
+      "id": "wiki-oz214",
+      "name": "Asiana Airlines Flight 214",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asiana_Airlines_Flight_214"
+    },
+    {
+      "id": "wiki-mh370",
+      "name": "Malaysia Airlines Flight 370",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370"
+    },
+    {
+      "id": "wiki-mh17",
+      "name": "Malaysia Airlines Flight 17",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17"
+    },
+    {
+      "id": "wiki-ek521",
+      "name": "Emirates Flight 521",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emirates_Flight_521"
+    },
+    {
+      "id": "wiki-ua328",
+      "name": "United Airlines Flight 328",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_Airlines_Flight_328"
+    },
+    {
+      "id": "leeham-777x",
+      "name": "Examining why Boeing's 777X certification timeline is likely slipping",
+      "publisher": "Leeham News",
+      "url": "https://leehamnews.com/2026/09/17/examining-why-boeings-777x-certification-timeline-is-likely-slipping/"
+    },
+    {
+      "id": "wsau-777f",
+      "name": "FAA waives emissions rules to let Boeing sell 35 additional 777F freighters",
+      "publisher": "WSAU News",
+      "url": "https://wsau.com/2026/09/17/faa-waives-emissions-rules-to-let-boeing-sell-35-additional-777f-freighters/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1994-06-12",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "The first 777 made its maiden flight, the start of a test programme that used nine aircraft with all three engine types.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_777"
+    },
+    {
+      "date": "1995-06-07",
+      "title": "Entry into service with United",
+      "tag": "Service entry",
+      "summary": "United Airlines flew the first revenue service, from London Heathrow to Washington Dulles, eight days after the 777 became the first airliner cleared for 180-minute ETOPS at entry into service.",
+      "source": "https://en.wikipedia.org/wiki/List_of_Boeing_777_operators"
+    },
+    {
+      "date": "2005-11-10",
+      "title": "Hong Kong to London non-stop record",
+      "tag": "Record flight",
+      "summary": "A 777-200LR flew 11,664 nmi (21,602 km) eastbound from Hong Kong to London in 22 hours 42 minutes, then the longest non-stop flight by an airliner.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_777"
+    },
+    {
+      "date": "2008-01-17",
+      "title": "British Airways Flight 38",
+      "tag": "Dual engine rollback",
+      "summary": "Both Rolls-Royce Trent engines lost thrust on final approach to Heathrow when ice from the fuel blocked the fuel-oil heat exchangers, and the 777-200ER landed short of the runway. All 152 on board survived, 47 with injuries. It was the first 777 hull loss.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/British_Airways_Flight_38"
+    },
+    {
+      "date": "2011-07-29",
+      "title": "EgyptAir Flight 667 cockpit fire",
+      "tag": "Ground fire",
+      "summary": "A fire broke out near the first officer's oxygen supply while passengers were boarding at Cairo. Everyone was evacuated and seven people were treated for smoke inhalation, but the aircraft was written off. Investigators suspected faulty wiring near the oxygen system.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/EgyptAir_Flight_667"
+    },
+    {
+      "date": "2013-07-06",
+      "title": "Asiana Airlines Flight 214",
+      "tag": "Landing accident",
+      "summary": "The 777-200ER struck the seawall short of the runway at San Francisco after the crew mismanaged a visual approach and lost airspeed. Three of the 307 people on board were killed and 187 injured, the first fatal accident in 777 service.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Asiana_Airlines_Flight_214"
+    },
+    {
+      "date": "2014-03-08",
+      "title": "Malaysia Airlines Flight 370",
+      "tag": "Disappearance",
+      "summary": "The 777-200ER disappeared on a flight from Kuala Lumpur to Beijing with 239 people on board. Satellite data showed it flew on for about six hours over the Indian Ocean. Debris has washed ashore since 2015, but the main wreckage has not been found.",
+      "fatalities": 239,
+      "source": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370"
+    },
+    {
+      "date": "2014-07-17",
+      "title": "Malaysia Airlines Flight 17",
+      "tag": "Shot down",
+      "summary": "A Buk surface-to-air missile fired from separatist-held territory in eastern Ukraine destroyed the 777-200ER at 33,000 ft, killing all 298 on board. A Dutch court convicted three men of murder in November 2022.",
+      "fatalities": 298,
+      "source": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17"
+    },
+    {
+      "date": "2016-08-03",
+      "title": "Emirates Flight 521",
+      "tag": "Go-around accident",
+      "summary": "The 777-300 touched down long at Dubai, and the crew's attempt to go around failed because the thrust was not advanced. It hit the runway and caught fire. All 300 on board escaped, but firefighter Jassim al-Balooshi was killed in an explosion.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Emirates_Flight_521"
+    },
+    {
+      "date": "2020-01-25",
+      "title": "777-9 first flight",
+      "tag": "First flight",
+      "summary": "The first 777-9 flew from Paine Field in Everett to Seattle, a flight of 3 hours 52 minutes.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_777X"
+    },
+    {
+      "date": "2021-02-20",
+      "title": "United Airlines Flight 328 engine failure",
+      "tag": "Engine failure",
+      "summary": "A fan blade broke from metal fatigue in the right PW4077 engine shortly after take-off from Denver, scattering debris over Broomfield. The 777-200 landed safely with no injuries, but 124 PW4000-powered 777s were grounded worldwide.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/United_Airlines_Flight_328"
+    }
+  ]
+}
