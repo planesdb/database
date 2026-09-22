@@ -25,7 +25,7 @@
     "specificationsNote": "\"??\" means the figure has not been published in the sources checked. Specifications are for the 767-300ER, the best-selling version. Height is Boeing's published figure for the 767-300F, which shares the -300ER's airframe; maximum speed is set by the FAA type certificate (A1NM), which was not available to check, so no figure is recorded.",
     "maxSpeed": {
       "mph": 567,
-      "text": "567 mph (912 km/h, Mach 0.86)"
+      "text": "492 kn (567 mph, 912 km/h)"
     },
     "cruiseSpeed": "533 mph (858 km/h, Mach 0.80)",
     "range": {
