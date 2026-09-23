@@ -1,0 +1,261 @@
+{
+  "name": "Hawk T2",
+  "fullName": "BAE Systems Hawk T2",
+  "manufacturer": "BAE Systems",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Advanced Jet Trainer",
+  "tagline": "The Hawk T2, also designated Mk128, is the two-seat advanced jet trainer that prepares Royal Air Force and Royal Navy student pilots for the Typhoon and F-35B. Despite sharing its name and airframe family with the earlier Hawk T1, it shares only about 10 percent of its parts with that aircraft and carries no live weapons of its own.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "Although it carries the same Hawk name, the T2 shares only around 10 percent of its parts with the original Hawk T1 - it uses a new wing, forward and centre fuselage, fin and tailplane.",
+    "All 28 Hawk T2s were built under a single £450 million contract signed in October 2006, and none have been produced since.",
+    "The aircraft carries no live weapons in RAF or Royal Navy service - its embedded training system simulates radar, missile and electronic warfare threats instead.",
+    "In March 2025 Air Chief Marshal Sir Richard Knighton said of the fleet's chronic engine problems, \"we get about half of what we should get out of it.\"",
+    "On 23 September 2026 a Hawk T2 crashed in a field near RAF Valley shortly after takeoff; both crew ejected safely, reducing the active fleet to 27 aircraft."
+  ],
+  "specifications": {
+    "maxSpeed": {
+      "mph": 639,
+      "text": "555 kn (639 mph / 1,028 km/h)"
+    },
+    "range": {
+      "miles": 1566,
+      "text": "1,566 mi (2,520 km)"
+    },
+    "serviceCeiling": {
+      "ft": 44500,
+      "text": "44,500 ft (13,565 m)"
+    },
+    "wingspan": {
+      "ft": 32,
+      "text": "32 ft 7 in (9.94 m)"
+    },
+    "length": {
+      "ft": 40,
+      "text": "40 ft 9 in (12.43 m)"
+    },
+    "height": {
+      "ft": 13,
+      "text": "13 ft 1 in (3.98 m)"
+    },
+    "weight": "empty: 9,880 lb (4,480 kg); MTOW: 20,000 lb (9,100 kg)",
+    "engines": "One Rolls-Royce/Turbomeca Adour Mk951 non-afterburning turbofan, 6,500 lbf (29 kN) thrust",
+    "armament": "Five hardpoints (one centreline, four underwing) rated for up to 3,085 kg of stores, but RAF and Royal Navy Hawk T2s fly with no live weapons fitted - radar, missile and gun engagements are generated synthetically by the onboard embedded training system",
+    "crew": "2 (student and instructor, tandem cockpit)",
+    "capacity": "None - dedicated two-seat trainer with no cargo or passenger capacity",
+    "firstFlight": {
+      "date": "2005-07-27",
+      "year": 2005
+    },
+    "serviceEntryDate": "2009-11-01",
+    "retiredDate": null,
+    "numberBuilt": 28,
+    "unitCost": {
+      "usd": 29000000,
+      "text": "Not publicly disclosed - the October 2006 production contract totalled £450M for all 28 aircraft including spares and support, roughly $29M per airframe at the time with no aircraft-only price broken out"
+    }
+  },
+  "variants": [
+    {
+      "code": "Hawk T2 / Mk128",
+      "desc": "The sole production standard, built for the RAF and Royal Navy under the 2006 contract. It replaces the T1's analogue instruments with a full glass cockpit and an embedded tactical training system that simulates radar contacts, missile shots and electronic warfare threats, so students train against a realistic modern air-combat picture without the aircraft ever carrying a live weapon."
+    },
+    {
+      "code": "Hawk 127 LIFCAP",
+      "desc": "Not a T2 by designation, but the closest equivalent outside the UK. Between 2014 and 2019, BAE Systems upgraded 33 Royal Australian Air Force Hawk 127s to a mission computer, radar emulator, electronic warfare and datalink standard very close to the Mk128's. Unlike the RAF's T2s, the upgraded Australian jets kept the ability to fire live weapons, which meant extra software development and certification work the UK programme never had to do."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "2009",
+      "fleetSize": "27 (of 28 built; one lost in a September 2026 crash near RAF Valley)",
+      "homeBase": "RAF Valley, Anglesey"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "HAWK",
+    "howToFind": "Hawk T2s fly training sorties from RAF Valley over Anglesey and the Welsh coast, and occasionally cross-country to display at airshows such as RIAT. Serials on Flightradar24 typically run in the ZK0xx range."
+  },
+  "lastUpdated": "2026-09-23",
+  "changelog": [
+    {
+      "date": "2026-09-23",
+      "change": "Entry created - full article, specifications, variants, operators and incident log written from RAF, MoD, BAE and contemporary news sources.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Mk128",
+    "RAF Valley",
+    "UK MFTS",
+    "Adour",
+    "advanced fast jet trainer",
+    "IV Squadron",
+    "XXV Squadron"
+  ],
+  "article": {
+    "overview": [
+      "The BAE Systems Hawk T2, also designated Mk128, is a two-seat advanced jet trainer built for the Royal Air Force and Royal Navy. It equips No. IV (Reserve) Squadron and No. XXV (Fighter) Squadron at RAF Valley, where student pilots complete the advanced fast jet course before moving on to the Eurofighter Typhoon or F-35B Lightning. {{ref:raf}} {{ref:forcesnews}}",
+      "The Ministry of Defence ordered 28 aircraft under a £450 million contract signed in October 2006, and deliveries ran from November 2009. {{ref:wiki}} The type has since been affected by chronic engine reliability problems that have cut the fleet's usable flying hours roughly in half, and on 23 September 2026 one of the 28 aircraft crashed shortly after takeoff near RAF Valley. {{ref:breakingdefense}} {{ref:aviationist}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The T2 grew out of the UK's Advanced Fast Jet Training requirement, which called for a trainer that handled and displayed information more like a modern fighter than the analogue-cockpit Hawk T1 it would sit alongside. The Ministry of Defence awarded BAE Systems a design and development contract on 22 December 2004, drawing on the digital cockpits already flying on Australia's Hawk 127 and South Africa's Hawk 120. {{ref:wiki}}",
+          "The first T2 flew on 27 July 2005 from BAE Systems' Warton Aerodrome. A production contract worth £450 million for 28 aircraft followed in October 2006, and the RAF took delivery of its first Hawk T2 in November 2009, with training operations beginning in April 2012. {{ref:wiki}} {{ref:forcesnews}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Behind the shared name, the T2 is a substantially different aircraft from the T1: a new wing, forward and centre fuselage, fin and tailplane give it roughly four times the fatigue life of the original design and leave only about 10 percent parts commonality between the two. Its full-colour glass cockpit and embedded tactical training system generate synthetic radar contacts, missile launches and electronic warfare threats, letting students fly realistic air-combat and air-to-ground profiles without live ordnance ever leaving the aircraft. {{ref:wiki}} {{ref:ascent}}",
+          "A single Rolls-Royce/Turbomeca Adour Mk951 turbofan producing 6,500 lbf (29 kN) of thrust powers the aircraft to a maximum speed of 555 kn (639 mph / 1,028 km/h) and a service ceiling of 44,500 ft. Five hardpoints can carry up to 3,085 kg of external stores, but RAF and Royal Navy T2s fly with none of them armed - unlike the RAF's own jets, Australia's later-upgraded Hawk 127s kept a live-weapons capability that required extra software certification work the UK programme never needed. {{ref:weaponspecs}} {{ref:lifcap}}"
+        ]
+      },
+      {
+        "heading": "Training Role & Service History",
+        "paragraphs": [
+          "RAF and Royal Navy pilots reach the Hawk T2 after earning their wings on the Texan T1, then spend around a year at RAF Valley flying the advanced fast jet course and learning air combat tactics on the T2 before posting to an operational conversion unit - No. 29 Squadron for the Typhoon or No. 207 Squadron for the F-35B Lightning. {{ref:forcesnews}}",
+          "A fatal ejection-seat accident on a Red Arrows Hawk T1 at RAF Scampton on 8 November 2011 briefly grounded every Hawk variant, T2 included, while the Ministry of Defence checked the type's Martin-Baker seats; the T2 fleet itself was not involved in the accident and was cleared to resume flying within weeks. {{ref:cunningham}}"
+        ]
+      },
+      {
+        "heading": "Reliability & Current Status",
+        "paragraphs": [
+          "The RAF grounded the entire Hawk T2 fleet in January 2023 after a compressor blade broke away and was ingested by an Adour engine on the runway at RAF Valley; the fleet had returned to flying by 31 January 2023, but the underlying reliability problem persisted, and reporting in 2025 put a full fix two to three years away. {{ref:flightglobal}} {{ref:key}} In March 2025, Air Chief Marshal Sir Richard Knighton told a parliamentary committee, \"we get about half of what we should get out of it,\" and the Ministry of Defence is now examining early replacements including Italy's M-346, South Korea's T-50, Turkey's Hurjet, the US Air Force's T-7A Red Hawk and UK-based Aeralis's modular design, rather than fund the T2 through to its planned 2040 out-of-service date. {{ref:breakingdefense}}",
+          "On 23 September 2026, a Hawk T2 caught fire shortly after taking off from RAF Valley, climbed steeply before pitching violently, and crashed in a field about a mile from the runway. Both crew ejected safely under parachute and were recovered by air ambulance; the cause has not yet been established, and the accident reduced the active fleet to 27 aircraft. {{ref:aviationist}} {{ref:ukdj}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "raf",
+      "name": "Hawk T2",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/aircraft/hawk-t2/"
+    },
+    {
+      "id": "wiki",
+      "name": "BAE Systems Hawk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BAE_Systems_Hawk"
+    },
+    {
+      "id": "forcesnews",
+      "name": "Hawk T1 and T2: All you need to know",
+      "publisher": "Forces News",
+      "url": "https://www.forcesnews.com/news/hawk-t1-and-t2-all-you-need-know"
+    },
+    {
+      "id": "ascent",
+      "name": "Aircraft profiles: Hawk T2",
+      "publisher": "Ascent Flight Training",
+      "url": "https://ascentflighttraining.com/aircraft-profiles-hawk-t2/"
+    },
+    {
+      "id": "weaponspecs",
+      "name": "BAE Systems Hawk T2, specs & comparison",
+      "publisher": "WeaponSpecs",
+      "url": "https://www.weaponspecs.com/systems/bae-systems/hawk-t2-trainer/"
+    },
+    {
+      "id": "lifcap",
+      "name": "Hawk LIFCAP complete",
+      "publisher": "Australian Defence Magazine",
+      "url": "https://www.australiandefence.com.au/defence/air/hawk-lifcap-complete"
+    },
+    {
+      "id": "cunningham",
+      "name": "Death of Sean Cunningham",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Sean_Cunningham"
+    },
+    {
+      "id": "flightglobal",
+      "name": "RAF Hawk T2s airborne again after short grounding",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/fixed-wing/2023/01/raf-hawk-t2s-airborne-again-after-short-grounding-as-trainer-developer-seals-airtanker-pact/"
+    },
+    {
+      "id": "key",
+      "name": "RAF grounds entire Hawk T2 fleet after engine fault",
+      "publisher": "Key.Aero",
+      "url": "https://www.key.aero/article/raf-grounds-entire-hawk-t2-fleet-after-engine-fault"
+    },
+    {
+      "id": "breakingdefense",
+      "name": "UK examines 'alternative options' for Hawk T2 trainer",
+      "publisher": "Breaking Defense",
+      "url": "https://breakingdefense.com/2025/03/uk-examines-alternative-options-for-hawk-t2-trainer/"
+    },
+    {
+      "id": "aviationist",
+      "name": "Royal Air Force Hawk Crash Near RAF Valley, Two Parachutes Seen",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/09/23/raf-hawk-t2-crash/"
+    },
+    {
+      "id": "ukdj",
+      "name": "Hawk jet crashes near RAF Valley",
+      "publisher": "UK Defence Journal",
+      "url": "https://ukdefencejournal.org.uk/hawk-jet-crashes-near-raf-valley/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "MOD invests £695 million in Hawk training jets and Red Arrows",
+      "url": "https://www.raf.mod.uk/news/articles/mod-invests-695-million-in-hawk-training-jets-and-red-arrows/"
+    },
+    {
+      "name": "RAF Hawk T2 crashes near RAF Valley, pilots eject",
+      "url": "https://www.aerotime.aero/articles/raf-hawk-t2-crash-raf-valley-wales-pilots-eject"
+    },
+    {
+      "name": "BAE Systems Hawk",
+      "url": "https://en.wikipedia.org/wiki/BAE_Systems_Hawk"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2011-11-08",
+      "title": "Red Arrows ejection-seat fatality grounds the wider Hawk fleet",
+      "tag": "Fleet-wide grounding (ejection seat)",
+      "summary": "A Hawk T1 ejection seat fired accidentally on the ground at RAF Scampton, killing the pilot before his parachute deployed. No Hawk T2 was involved in the accident itself, but the Ministry of Defence briefly grounded every Hawk variant, T2 included, while Martin-Baker seats across the fleet were inspected.",
+      "source": "https://en.wikipedia.org/wiki/Death_of_Sean_Cunningham"
+    },
+    {
+      "date": "2019-01-09",
+      "title": "Near-miss on a formation takeoff at RAF Valley",
+      "tag": "Near-miss",
+      "summary": "During a three-ship formation takeoff, one Hawk T2 developed an unknown fault and veered left, missing another Hawk by inches before the instructor aborted and landed safely. The RAF suspended formation takeoffs pending a safety review.",
+      "fatalities": 0,
+      "source": "https://www.pressreader.com/uk/the-mail-on-sunday/20190407/282424170592818"
+    },
+    {
+      "date": "2023-01-31",
+      "title": "Fleet grounded after an engine blade failure",
+      "tag": "Engine failure / fleet grounding",
+      "summary": "A compressor blade broke away and was ingested by an Adour Mk951 engine on the runway at RAF Valley, prompting the RAF to ground the entire Hawk T2 fleet as a precaution. Flying had resumed fleet-wide by 31 January 2023, though the underlying reliability issue continued to limit flying hours for years afterward.",
+      "fatalities": 0,
+      "source": "https://www.flightglobal.com/fixed-wing/2023/01/raf-hawk-t2s-airborne-again-after-short-grounding-as-trainer-developer-seals-airtanker-pact/"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Crash shortly after takeoff near RAF Valley",
+      "tag": "In-flight fire / crash",
+      "summary": "A Hawk T2 caught fire immediately after takeoff, pitched violently and crashed in a field about a mile from RAF Valley. Both crew ejected safely under parachute; the cause is under investigation and the accident reduced the active fleet to 27 aircraft.",
+      "source": "https://theaviationist.com/2026/09/23/raf-hawk-t2-crash/"
+    }
+  ]
+}
