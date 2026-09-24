@@ -1,0 +1,378 @@
+{
+  "name": "Hunter",
+  "fullName": "Hawker Hunter",
+  "manufacturer": "Hawker Aircraft (later Hawker Siddeley)",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Day Fighter / Ground Attack",
+  "tagline": "The Hawker Hunter is a British single-seat transonic jet fighter designed by Sydney Camm, which entered RAF service in 1954 and was later flown in ground-attack, reconnaissance and training roles. Hawker and Hawker Siddeley built 1,972 of them, and air forces on four continents flew the type until Lebanon retired its last examples in 2014.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "On 7 September 1953 Neville Duke flew the first prototype, WB188, at 727.63 mph to set a world air speed record.",
+    "In September 1958 No. 111 Squadron's Black Arrows looped 22 Hunters in formation at Farnborough, a record that has never been equalled.",
+    "Early Avons had such poor surge margins that firing the four 30 mm cannon could stall the compressor and flame out the engine.",
+    "The first Hunters carried so little internal fuel that their maximum endurance was only about an hour.",
+    "Civilian contractors still fly ex-Swiss Hunters for military training, and Hawker Hunter Aviation keeps F.58s airworthy at RAF Leeming."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Hunter F.6, the most-produced RAF fighter version. Its top speed was 715 mph at sea level (Mach 0.94) and 623 mph at 36,000 ft; range is combat range on internal fuel, and ferry range with external tanks was about 1,900 mi. The RAF service entry date is padded to 1 July 1954, as sources give only the month.",
+    "maxSpeed": {
+      "mph": 715,
+      "text": "621 kn (715 mph / 1,151 km/h)"
+    },
+    "range": {
+      "miles": 385,
+      "text": "385 mi (620 km)"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft (15,240 m)"
+    },
+    "rateOfClimb": "17,200 ft/min (87 m/s)",
+    "wingspan": {
+      "ft": 33,
+      "text": "33 ft 8 in (10.26 m)"
+    },
+    "length": {
+      "ft": 45,
+      "text": "45 ft 10.5 in (13.98 m)"
+    },
+    "height": {
+      "ft": 13,
+      "text": "13 ft 2 in (4.01 m)"
+    },
+    "weight": "empty: 14,122 lb (6,406 kg); MTOW: 24,600 lb (11,158 kg)",
+    "engines": "One Rolls-Royce Avon 207 turbojet, 10,145 lbf (45.1 kN) thrust",
+    "armament": "Four 30 mm ADEN cannon with 150 rounds each in a removable gun pack; four underwing hardpoints for up to 7,400 lb (3,357 kg) of bombs, rockets or drop tanks",
+    "crew": "1 (2 side by side in the T.7 and T.8 trainers)",
+    "capacity": "None - single-seat fighter",
+    "firstFlight": {
+      "date": "1951-07-20",
+      "year": 1951
+    },
+    "serviceEntryDate": "1954-07-01",
+    "retiredDate": "2014",
+    "numberBuilt": 1972,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price for RAF Hunters has been published",
+      "inflationText": null
+    },
+    "combatLosses": "Most of Jordan's Hunters were destroyed on the ground on the first day of the 1967 Six-Day War, and Jordan rebuilt its fleet afterwards with Hunters from Britain and Saudi Arabia. No overall combat loss figure across all operators has been published."
+  },
+  "variants": [
+    {
+      "code": "F.1 / F.2",
+      "desc": "The first production fighters, built in parallel with different engines. There were 139 F.1s with the Rolls-Royce Avon 113, the first flown on 16 May 1953, and 45 F.2s with the Armstrong Siddeley Sapphire 101. Both were limited by small internal fuel capacity and by Avon compressor surges when the guns were fired."
+    },
+    {
+      "code": "F.4 / F.5",
+      "desc": "The F.4 replaced the rear fuselage fuel tanks with bag-type tanks in the wings, aimed at the early aircraft's short endurance. It first flew on 20 October 1954 and 349 were built, with a later Avon 121. The F.5 was the same airframe with the Sapphire engine, and 105 were built. F.5s of Nos 1 and 34 Squadrons escorted Canberras over Egypt during Suez in 1956."
+    },
+    {
+      "code": "F.6",
+      "desc": "The main RAF fighter version, with the Avon 203 of about 10,000 lbf, a revised wing with a leading-edge dogtooth and four hardpoints. The first flew on 22 January 1954 and 384 were built. No. 111 Squadron's Black Arrows used F.6s for their 22-aircraft loop in 1958, and the airframe became the basis for most export versions."
+    },
+    {
+      "code": "FGA.9 / FR.10",
+      "desc": "Ground-attack and reconnaissance conversions of the F.6. The FGA.9, of which 128 were converted, had a strengthened wing, 230-gallon inboard drop tanks and an Avon 203 or 207. The FR.10 was a rebuilt F.6 with three F95 cameras, and 33 were produced. Both were used extensively against insurgents in the 1964 Radfan campaign in Aden."
+    },
+    {
+      "code": "T.7 / T.8",
+      "desc": "Two-seat trainers with the instructor and student side by side. The RAF's T.7 first flew on 11 October 1957; 65 were built new and 6 converted from F.4s. The Royal Navy's T.8 had an arrester hook for naval airfields, with 10 built and 18 converted. T.7s and T.8s stayed in use until the early 1990s, when the Buccaneer retired."
+    },
+    {
+      "code": "Export versions (Mk 50, Mk 56, Mk 58 and others)",
+      "desc": "Most exports were adapted F.4s and F.6s. Sweden took 120 Mk 50s, designated J 34, and India 160 Mk 56s with a brake parachute and provision for 500 lb bombs. Switzerland's 100 Mk 58s were 88 new-build aircraft and 12 conversions. Belgium and the Netherlands also built F.4s and F.6s under licence, with Fokker and SABCA/Avions Fairey as the builders."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1954",
+      "fleetSize": "Largest operator, flying Hunters with more than 30 squadrons plus training and specialist units",
+      "homeBase": "RAF Leuchars (first squadron) and bases across the UK, Germany, Cyprus, Aden and the Far East"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "Largest Export Operator",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "140 single-seat fighters ordered in 1954, and 160 Mk 56s built in total; retired in 1996",
+      "homeBase": "Squadrons including Nos 7, 14, 17, 20, 27 and 37"
+    },
+    {
+      "name": "Belgian Air Force",
+      "role": "Licence-Built Operator",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "256 (112 F.4, 144 F.6)",
+      "homeBase": "Belgium"
+    },
+    {
+      "name": "Swiss Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "1958",
+      "fleetSize": "100 ordered in 1958 (88 new-build Mk 58s and 12 refurbished F.6s), with about 30 more refurbished aircraft added later; retired in 1994",
+      "homeBase": "Switzerland"
+    },
+    {
+      "name": "Swedish Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "120 Mk 50 (J 34), ordered on 29 June 1954; retired in 1969",
+      "homeBase": "Wings F8, F9, F10 and F18"
+    },
+    {
+      "name": "Lebanese Air Force",
+      "role": "Last Military Operator",
+      "status": "Retired",
+      "since": "1958",
+      "fleetSize": "19 (12 from the UK, 7 from Belgium); four returned to service in 2008 and all were retired in 2014",
+      "homeBase": "Rayak Air Base"
+    },
+    {
+      "name": "Other air forces",
+      "role": "Export Operators",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "Royal Navy (Fleet Air Arm), Netherlands, Denmark (last flight 30 April 1974), Iraq (about 57), Jordan, Kuwait (9), Oman (12), Singapore (46, to 1992), Peru (17), Chile, Rhodesia/Zimbabwe (to 2002), Abu Dhabi and Somalia",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "HUNT",
+    "howToFind": "A small number of civil-registered Hunters still fly, mostly former Swiss F.58s used by contractors such as Hawker Hunter Aviation, which operates from RAF Leeming. They often fly without broadcasting a position, so sightings on Flightradar24 are rare."
+  },
+  "lastUpdated": "2026-09-24",
+  "changelog": [
+    {
+      "date": "2026-09-24",
+      "change": "Entry created - full article, specifications, variants, operators, survivors and incident log written from Wikipedia, museum, preservation and AAIB-related sources.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Hawker P.1067",
+    "Hunter F.6",
+    "Hunter FGA.9",
+    "Hunter T.7",
+    "J 34",
+    "Black Arrows",
+    "Sydney Camm",
+    "Neville Duke"
+  ],
+  "article": {
+    "overview": [
+      "The Hawker Hunter is a British single-seat transonic jet fighter designed by Sydney Camm. It first flew on 20 July 1951, entered RAF service in July 1954, and later moved into ground-attack, reconnaissance and training roles. {{ref:wiki}}",
+      "Hawker and its successor, Hawker Siddeley, built 1,972 Hunters. Belgium and the Netherlands also built F.4s under licence, 64 by SABCA and Avions Fairey and 48 by Fokker. The type was flown by air forces in Europe, the Middle East, South Asia, Africa and South America, and Lebanon retired the last military Hunters in 2014. {{ref:wiki}} {{ref:operators}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Hunter was Hawker's answer to Air Ministry specification F.3/48, issued in March 1948, which asked for a fighter able to reach 629 mph at 45,000 ft with a high rate of climb. Sydney Camm's team developed the P.1067 from the earlier P.1040 and designed it to take either the Rolls-Royce Avon or the Armstrong Siddeley Sapphire turbojet. {{ref:wiki}}",
+          "Neville Duke flew the first P.1067, WB188, from Boscombe Down on 20 July 1951. Redesignated Hunter Mk 3, WB188 set a world air speed record of 727.63 mph on 7 September 1953, again with Duke at the controls. About a month later it was retired to ground instruction at RAF Halton. {{ref:wiki}} {{ref:wb188}}"
+        ]
+      },
+      {
+        "heading": "Design & Early Problems",
+        "paragraphs": [
+          "The Hunter has a swept wing, a single turbojet and four 30 mm ADEN cannon with 150 rounds each, mounted in a removable gun pack. The first production batches were split between engines: 139 F.1s were built with the Avon and 45 F.2s with the Sapphire. {{ref:wiki}} {{ref:variants}}",
+          "Early aircraft had serious faults. The Avon had poor surge margins and could stall or flame out when the guns were fired, the original split-flap airbrakes changed the pitch trim, and spent ammunition links struck the underside of the fuselage. Internal fuel allowed only about an hour's flying. The F.4, first flown on 20 October 1954, moved fuel into bag tanks in the wings, and the F.6 brought the 10,000 lbf Avon 203, a dogtoothed wing leading edge and four hardpoints. {{ref:wiki}} {{ref:variants}}"
+        ]
+      },
+      {
+        "heading": "Fighter Service & Display Teams",
+        "paragraphs": [
+          "No. 43 Squadron at RAF Leuchars was the first to receive the Hunter F.1, replacing its Meteor F.8s in July 1954. {{ref:43sqn}} No. 257 Squadron took Sapphire-engined F.2s that November, and F.4s and F.5s reached Nos 54 and 263 Squadrons early in 1955. By 1957, 19 RAF squadrons were flying Hunters. {{ref:tl-history}} The RAF bought more than 1,000 in all, and the RAF Museum describes it as the first high-speed jet fighter with radar and fully powered flying controls to enter widespread RAF service. {{ref:rafmuseum}} During the 1956 Suez crisis, F.5s of Nos 1 and 34 Squadrons escorted Canberra bombers on raids into Egypt. {{ref:wiki}}",
+          "In September 1958 No. 111 Squadron's Black Arrows, led by Squadron Leader Roger Topp, looped 22 Hunter F.6s in formation at the Farnborough air show. No team has equalled that number, and the Blue Diamonds later flew displays with 16 Hunters. {{ref:loop}} {{ref:wiki}} Switzerland's Patrouille Suisse, formed on 22 August 1964, also flew Hunters until the Swiss retired them in 1994. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Ground Attack & Reconnaissance",
+        "paragraphs": [
+          "The Lightning replaced the Hunter F.6 as the RAF's day fighter by 1963, and many F.6s were converted for close air support. The FGA.9 won a 1958 competition to replace the Venom ground-attack fighters based in the Middle East, first flew in July 1959 and joined No. 8 Squadron in January 1960. It had a strengthened wing and carried 230-gallon drop tanks on its inboard pylons. All 128 FGA.9s were conversions of existing Hunters rather than new-build aircraft. {{ref:wiki}} {{ref:rafmuseum}} {{ref:tl-history}} RAF Hunters supported British ground forces during the 1962 Brunei Revolt, and in 1964 FGA.9s and FR.10s were used extensively against insurgents in the Radfan campaign in Aden. {{ref:wiki}}",
+          "Most FGA.9s served overseas, and the FGA.9's front-line RAF service ended when No. 8 Squadron disbanded in December 1971, although training units kept the type a little longer. {{ref:rafmuseum}} Two-seat T.7s and T.8s stayed in RAF and Royal Navy service for training and support until the early 1990s, when the Buccaneer retired. {{ref:wiki}} The Defence Evaluation and Research Agency and the Empire Test Pilots' School flew Hunters until 1999. {{ref:tl-history}}"
+        ]
+      },
+      {
+        "heading": "Export & Combat Abroad",
+        "paragraphs": [
+          "Sweden signed for 120 Mk 50s on 29 June 1954 and flew them as the J 34, armed with four 30 mm cannon and two Sidewinders, until 1969; one was fitted with a Swedish-designed afterburner for trials in 1958. India ordered 140 single-seat Hunters the same year and placed its first order for T.66 two-seaters in 1957. In the 1965 war with Pakistan they were the Indian Air Force's main air defence fighter alongside the Folland Gnat, often fighting Pakistani F-86 Sabres and F-104 Starfighters. In December 1971 six Hunters from Jaisalmer helped halt a Pakistani armoured advance at Longewala with continuous bombing raids. India retired its last Hunters in 1996. {{ref:wiki}}",
+          "Most of Jordan's Hunters were destroyed on the ground on the first day of the 1967 Six-Day War, and Jordan rebuilt its fleet afterwards with Hunters from Britain and Saudi Arabia. Chilean Hunters bombed the Palacio de La Moneda during the 1973 coup, and Rhodesian FGA.9s were used against ZANLA and ZIPRA guerrillas through the 1970s; the same squadron, No. 1 Squadron, kept Hunters in Zimbabwean service until it was deactivated in 2002. Switzerland evaluated the Hunter against the F-86 Sabre and Folland Gnat in 1957, then in January 1958 cancelled its own FFA P-16 fighter and ordered 100 Hunters. Swiss Hunters carried Sidewinders from 1963 and were later wired for AGM-65 Maverick missiles, and 30 more refurbished aircraft arrived in 1974. The fleet was retired quickly in 1994 after cracks were found in the wings. Singapore received 46 refurbished Hunters and retired them in 1992. {{ref:wiki}} Iraq built up a fleet of about 57, starting with 16 F.6s in 1957 and adding 22 F.59s in 1963 and 19 more in 1964. Peru took 16 F.52s in 1956 and flew them until 1980, and Kuwait's nine Hunters, delivered between 1965 and 1969, were withdrawn in 1976. {{ref:operators}}"
+        ]
+      },
+      {
+        "heading": "Later Life & Civil Operators",
+        "paragraphs": [
+          "On 12 November 2008, 50 years after its first Hunters arrived, the Lebanese Air Force returned four of its eight remaining Hunters to service with No. 2 Squadron at Rayak Air Base, one two-seater and three single-seaters. Lebanon's Hunters had come from two sources, 12 from the UK and 7 from Belgium, and the last were retired during 2014, ending military Hunter flying. {{ref:wiki}} {{ref:operators}} Civilian companies bought ex-Swiss F.58s to fly as adversaries and targets for military training: ATAC in the United States had 14 and lost three in operations, Lortie Aviation had 21 and Hawker Hunter Aviation in the UK 12 single-seaters and three two-seaters, based at RAF Leeming. Apache Aviation has flown Hunters for a French Navy contract, the International Test Pilots School uses three from London, Ontario, and Delta Jets operated Hunters from Kemble between 1995 and 2010. {{ref:wiki}} {{ref:survivors}}",
+          "On 22 August 2015 a privately owned Hunter T.7, G-BXFI, crashed onto the A27 road while displaying at the Shoreham Airshow, killing 11 people on the ground. The AAIB found the pilot began a loop at about 200 ft, below the 500 ft minimum, and reached only 2,700 ft and 105 knots at the top, against the 4,000 ft and 150 knots needed. The pilot was acquitted of 11 counts of manslaughter in March 2019, but an inquest concluded in December 2022 that the victims had been unlawfully killed. The Civil Aviation Authority banned civilian vintage jets from aerobatics over populated areas, limiting them to high flypasts. {{ref:shoreham}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Hawker Hunter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawker_Hunter"
+    },
+    {
+      "id": "operators",
+      "name": "List of Hawker Hunter operators",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Hawker_Hunter_operators"
+    },
+    {
+      "id": "variants",
+      "name": "Hawker Hunter variants",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawker_Hunter_variants"
+    },
+    {
+      "id": "wb188",
+      "name": "Hawker Hunter - Survivor WB188",
+      "publisher": "Thunder & Lightnings",
+      "url": "https://www.thunder-and-lightnings.co.uk/hunter/survivor.php?id=130"
+    },
+    {
+      "id": "43sqn",
+      "name": "No. 43 Squadron RAF",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/No._43_Squadron_RAF"
+    },
+    {
+      "id": "loop",
+      "name": "World record loop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_record_loop"
+    },
+    {
+      "id": "survivors",
+      "name": "Hawker Hunter - Survivors",
+      "publisher": "Thunder & Lightnings",
+      "url": "https://www.thunder-and-lightnings.co.uk/hunter/survivors.php"
+    },
+    {
+      "id": "shoreham",
+      "name": "2015 Shoreham Airshow crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2015_Shoreham_Airshow_crash"
+    },
+    {
+      "id": "tl-history",
+      "name": "Hawker Hunter - History",
+      "publisher": "Thunder & Lightnings",
+      "url": "https://www.thunder-and-lightnings.co.uk/hunter/history.php"
+    },
+    {
+      "id": "rafmuseum",
+      "name": "Hawker Hunter FGA9",
+      "publisher": "RAF Museum",
+      "url": "https://www.rafmuseum.org.uk/research/collections/hawker-hunter-fga9/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "AAIB Aircraft Accident Report 1/2017 - Hawker Hunter T7, G-BXFI",
+      "url": "https://assets.publishing.service.gov.uk/media/58c92626e5274a2a5c00016b/AAR_1-2017_Hawker_Hunter_T7_G-BXFI_03-17.pdf"
+    },
+    {
+      "name": "Hawker Hunter Mk3 - Tangmere Military Aviation Museum",
+      "url": "https://tangmere-museum.org.uk/hawker-hunter-mk3/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1951-07-20",
+      "title": "First flight of the P.1067",
+      "tag": "First flight",
+      "summary": "Neville Duke flew the first prototype, WB188, from RAF Boscombe Down.",
+      "source": "https://www.thunder-and-lightnings.co.uk/hunter/survivor.php?id=130"
+    },
+    {
+      "date": "1953-09-07",
+      "title": "World air speed record",
+      "tag": "Record",
+      "summary": "Neville Duke flew the Hunter Mk 3, WB188, at 727.63 mph to set a world air speed record for jet aircraft.",
+      "source": "https://en.wikipedia.org/wiki/Hawker_Hunter"
+    },
+    {
+      "date": "1967-06-05",
+      "title": "Jordanian Hunters destroyed on the ground",
+      "tag": "Combat loss",
+      "summary": "Most of the Royal Jordanian Air Force's Hunters were destroyed on the ground on the first day of the Six-Day War.",
+      "source": "https://en.wikipedia.org/wiki/Hawker_Hunter"
+    },
+    {
+      "date": "1973-09-11",
+      "title": "Chilean Hunters bomb La Moneda",
+      "tag": "Combat use",
+      "summary": "Chilean Air Force Hunters bombed the Palacio de La Moneda, President Allende's official residence in Santiago, and several pro-government radio stations during the military coup.",
+      "source": "https://en.wikipedia.org/wiki/Hawker_Hunter"
+    },
+    {
+      "date": "2008-11-12",
+      "title": "Lebanon returns Hunters to service",
+      "tag": "Return to service",
+      "summary": "Fifty years after its first Hunters arrived, the Lebanese Air Force put four of its eight remaining aircraft back into service at Rayak Air Base.",
+      "source": "https://en.wikipedia.org/wiki/Hawker_Hunter"
+    },
+    {
+      "date": "2015-08-22",
+      "title": "Shoreham Airshow crash",
+      "tag": "Airshow crash",
+      "summary": "Hunter T.7 G-BXFI crashed onto the A27 during a looping manoeuvre begun too low at the Shoreham Airshow. Eleven people on the ground were killed and the pilot was seriously injured.",
+      "fatalities": 11,
+      "source": "https://en.wikipedia.org/wiki/2015_Shoreham_Airshow_crash"
+    }
+  ],
+  "survivors": {
+    "intro": "Hundreds of Hunters survive in museums worldwide, and a few ex-Swiss aircraft still fly on the civil register. These airframes have been individually confirmed.",
+    "airframes": [
+      {
+        "serial": "WB188",
+        "location": "Tangmere Military Aviation Museum, Tangmere, West Sussex, United Kingdom",
+        "note": "The first prototype, flown by Neville Duke on 20 July 1951 and later used for the 1953 world air speed record. On loan from the RAF Museum since 1992."
+      },
+      {
+        "serial": "XE627",
+        "location": "Imperial War Museum Duxford, Cambridgeshire, United Kingdom",
+        "note": "Hunter F.6A."
+      },
+      {
+        "serial": "XG225",
+        "location": "RAF Museum Midlands, RAF Cosford, Shropshire, United Kingdom",
+        "note": "Hunter F.6A displayed as the museum's gate guardian."
+      },
+      {
+        "serial": "XG154",
+        "location": "RAF Museum London, Hendon, United Kingdom",
+        "note": "Hunter FGA.9 whose last unit was No. 8 Squadron, disbanded in December 1971."
+      },
+      {
+        "serial": "BA263",
+        "location": "Indian Air Force Museum, Palam, Delhi, India",
+        "note": "Hunter F.56A of the Indian Air Force."
+      },
+      {
+        "serial": "ZZ191",
+        "location": "Hawker Hunter Aviation Ltd, RAF Leeming, United Kingdom",
+        "note": "Ex-Swiss F.58, kept airworthy by a civilian contractor."
+      }
+    ]
+  }
+}

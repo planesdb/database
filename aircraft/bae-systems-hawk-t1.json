@@ -1,0 +1,396 @@
+{
+  "name": "Hawk T1",
+  "fullName": "Hawker Siddeley / BAE Systems Hawk T1",
+  "manufacturer": "Hawker Siddeley (later British Aerospace / BAE Systems)",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Advanced Jet Trainer",
+  "tagline": "The Hawk T1 is a two-seat advanced jet trainer built by Hawker Siddeley for the Royal Air Force, and since 1979 the aircraft of the Red Arrows display team. The RAF took 175 of them from 1976, retired the type from flying training in March 2022, and plans to keep the Red Arrows' remaining jets flying until 2030.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "XX154, the first Hawk to fly, stayed in Ministry of Defence test use at Boscombe Down until December 2018, more than 44 years after its maiden flight.",
+    "Each Red Arrows Hawk carries a centreline pod holding 50 gallons of plain diesel and 20 gallons of red and blue dyed diesel, enough for about seven minutes of smoke.",
+    "Between 1983 and 1986, 89 Hawks were wired to carry two AIM-9L Sidewinders so they could help defend UK airfields in wartime.",
+    "In January 2025 the most-used Red Arrows jet, XX242, had consumed 94.65 percent of its fatigue life.",
+    "The Adour Mk151 engine is no longer made, and in 2026 the RAF began flying most Red Arrows displays with seven jets instead of nine to save engines, spares and airframe hours."
+  ],
+  "specifications": {
+    "specificationsNote": "Dimensions, thrust, ceiling and range are the RAF's published Hawk T1 figures. The RAF does not publish a level-flight top speed (its Mach 1.2 figure is a dive limit), so the max speed shown is the commonly quoted Hawk T1 figure. A maximum takeoff weight for the T1 is not published consistently and is left out.",
+    "maxSpeed": {
+      "mph": 645,
+      "text": "560 kn (645 mph / 1,038 km/h)"
+    },
+    "range": {
+      "miles": 1151,
+      "text": "1,151 mi (1,852 km, 1,000 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 48000,
+      "text": "48,000 ft (14,630 m)"
+    },
+    "wingspan": {
+      "ft": 30,
+      "text": "30 ft 10 in (9.39 m)"
+    },
+    "length": {
+      "ft": 39,
+      "text": "39 ft 3 in (11.96 m)"
+    },
+    "height": {
+      "ft": 13,
+      "text": "13 ft 1 in (3.99 m)"
+    },
+    "weight": "empty: 8,040 lb (3,647 kg)",
+    "engines": "One Rolls-Royce/Turbomeca Adour Mk151 non-afterburning turbofan, 5,200 lbf (23.1 kN) thrust (slightly uprated on Red Arrows aircraft)",
+    "armament": "T1A: two AIM-9L Sidewinder missiles on underwing pylons and a 30 mm Aden cannon in a centreline pod; up to eight 3 kg practice bombs. Red Arrows aircraft carry a smoke pod in place of the gun pod and no weapons",
+    "crew": "2 (student and instructor, tandem cockpit)",
+    "capacity": "None - dedicated two-seat trainer with no cargo or passenger capacity",
+    "firstFlight": {
+      "date": "1974-08-21",
+      "year": 1974
+    },
+    "serviceEntryDate": "1976-11-04",
+    "retiredDate": null,
+    "numberBuilt": 175,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price for the RAF's March 1972 order of 175 Hawk T1s has been published",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "Hawk T1",
+      "desc": "The basic RAF trainer, ordered as 175 aircraft in March 1972 with no separate prototype: the first production airframe, XX154, flew on 21 August 1974. Powered by a single 5,200 lbf Adour Mk151, it has tandem Martin-Baker Mk 10B seats and two underwing pylons. Deliveries to No. 4 Flying Training School at RAF Valley began in November 1976."
+    },
+    {
+      "code": "Hawk T1A",
+      "desc": "Between 1983 and 1986, 89 T1s were modified to carry two AIM-9L Sidewinders and a centreline 30 mm Aden gun pod. The T1A replaced the Hunter at the Tactical Weapons Units, where students learned air combat and ground attack, and in wartime it would have helped defend UK bases as a short-range interceptor. The Red Arrows fly T1As."
+    },
+    {
+      "code": "Red Arrows T1A",
+      "desc": "The display team's Hawks are T1As with slightly uprated engines and the gun pod replaced by a smoke pod. Diesel from a 50-gallon tank, plus two 10-gallon tanks dyed red and blue, is injected into the exhaust at 10 gallons a minute. The first of ten aircraft arrived on 17 August 1979, ready for the 1980 season."
+    },
+    {
+      "code": "Royal Navy Hawk T1/T1A",
+      "desc": "Twelve Hawk T1s and T1As passed from the RAF to the Royal Navy, which used them from RNAS Culdrose to simulate air attacks on warships during crew training. They flew with the Fleet Requirements and Air Direction Unit from 1994 to 2013 and then with 736 Naval Air Squadron until it disbanded in March 2022."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1976",
+      "fleetSize": "175 delivered; 26 left by January 2025, all with the Red Arrows (14 active, 12 in the sustainment fleet)",
+      "homeBase": "RAF Waddington, Lincolnshire (Red Arrows); formerly RAF Valley, Leeming and others"
+    },
+    {
+      "name": "Fleet Air Arm",
+      "role": "Fleet Training Support",
+      "status": "Retired",
+      "since": "1994",
+      "fleetSize": "12 transferred from the RAF",
+      "homeBase": "RNAS Culdrose, Cornwall"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "HAWK",
+    "howToFind": "The only Hawk T1s still flying belong to the Red Arrows, so look for them around RAF Waddington in Lincolnshire, at UK airshows during the summer display season, and on transit flights to overseas tours. Serials run in the XX1xx to XX3xx range."
+  },
+  "lastUpdated": "2026-09-24",
+  "changelog": [
+    {
+      "date": "2026-09-24",
+      "change": "Entry created - full article, specifications, variants, operators, survivors and incident log written from RAF, Wikipedia, museum and aviation press sources.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Hawk T.1",
+    "Hawk T1A",
+    "HS.1182",
+    "Red Arrows",
+    "Reds",
+    "RAFAT",
+    "Adour",
+    "Hawker Siddeley Hawk"
+  ],
+  "article": {
+    "overview": [
+      "The Hawk T1 is a British two-seat advanced jet trainer designed by Hawker Siddeley and flown by the Royal Air Force since 1976. It is the original RAF version of the Hawk family, and it has been the aircraft of the Red Arrows display team since the 1980 season. {{ref:raf-t1}} {{ref:wiki}}",
+      "The RAF ordered 175 Hawk T1s in March 1972. The first flew on 21 August 1974, and the type trained RAF and Royal Navy fast-jet pilots for more than 40 years until the last training units stood down on 31 March 2022. By January 2025, 26 remained, all assigned to the Red Arrows, and the Ministry of Defence plans to retire them in 2030. {{ref:wiki}} {{ref:aviationist-2025}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Hawk began with Air Staff Target 362, issued in 1964 for a replacement for the Folland Gnat trainer. Hawker Siddeley started studies in 1968 for a simpler aircraft, which became the HS.1182. The RAF selected it on 1 October 1971 and signed a contract for 175 aircraft in March 1972. {{ref:wiki}}",
+          "Hawker Siddeley built no separate prototype. The first production-standard aircraft, XX154, flew from Dunsfold on 21 August 1974 with the company's chief test pilot, Duncan Simpson, at the controls, reaching 20,000 ft on a 53-minute flight. {{ref:dunsfold}} XX154 stayed with the Ministry of Defence as a test aircraft, finishing its career with the Empire Test Pilots' School at Boscombe Down in December 2018. {{ref:flyer}} Export sales began with the Hawk 50, which first flew on 17 May 1976, and more than 900 Hawks have since gone to 18 operators, among them the US Navy through its T-45 Goshawk derivative, selected in 1981. {{ref:dunsfold}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The T1 has a low-mounted wing spanning 9.39 m (30 ft 10 in), an aluminium alloy fuselage and tandem cockpits for the student and instructor. Both crew sit on Martin-Baker Mk 10B zero-zero ejection seats. Its single Rolls-Royce/Turbomeca Adour Mk151 turbofan gives 5,200 lb of thrust without an afterburner. {{ref:wiki}} {{ref:raf-t1}} {{ref:raf-redarrows}}",
+          "The airframe is stressed to +9 g, but the RAF cleared it to +7.5 g and -4 g in service. The RAF quotes a ceiling of 48,000 ft and a range of 1,000 nautical miles, and gives Mach 1.2 as a dive limit rather than a level-flight speed. {{ref:wiki}} {{ref:raf-t1}} In level flight the T1 tops out at about 645 mph, and it weighs 8,040 lb empty. {{ref:bcar}}"
+        ]
+      },
+      {
+        "heading": "Training & Weapons Service",
+        "paragraphs": [
+          "No. 4 Flying Training School at RAF Valley received the first two Hawks on 4 November 1976, and the Central Flying School was the first unit fully equipped with the type. {{ref:raf-history}} From 1983 to 1986, 89 aircraft were converted to T1A standard with wiring for two AIM-9L Sidewinders and a centreline Aden gun pod. The T1A replaced the Hunter at the Tactical Weapons Units and gave the RAF a reserve of short-range interceptors for defending its airfields. {{ref:wiki}}",
+          "In the 1990s and 2000s, 80 T1s and T1As received new centre and rear fuselages to extend their lives. The Royal Navy took 12 ex-RAF aircraft, flying them from Culdrose with the Fleet Requirements and Air Direction Unit from 1994 and then with 736 Naval Air Squadron from 2013 to simulate attacks on warships. {{ref:wiki}} No. 100 Squadron at RAF Leeming flew its T1s in the aggressor role for other crews to train against. {{ref:forcesnews}} In October 2017 the RAF and Royal Navy still had 75 T1s alongside 28 T2s. {{ref:wiki}} The Hawk T2 took over advanced flying training from 2012, and on 31 March 2022 both No. 100 Squadron at RAF Leeming and 736 Naval Air Squadron retired their T1s, leaving the Red Arrows as the only operator. {{ref:raf-t1}} {{ref:aviationist-2025}}"
+        ]
+      },
+      {
+        "heading": "The Red Arrows",
+        "paragraphs": [
+          "The Red Arrows received their first Hawk on 17 August 1979, replacing the Folland Gnat, and had nine by 15 November that year. They flew their first Hawk display season in 1980. {{ref:redarrows-wiki}} The team's aircraft have slightly uprated engines and a smoke system in place of the gun pod: diesel, some of it dyed red or blue, is pumped into the jet exhaust at 10 gallons a minute, giving each aircraft about seven minutes of smoke. {{ref:raf-t1}} {{ref:redarrows-wiki}}",
+          "The team flew its Hawks from RAF Kemble until 1983 and then from RAF Scampton, before moving to RAF Waddington on 13 October 2022. {{ref:redarrows-wiki}} The Union flag design on the tail fins appeared in 2015. On 1 July 1999, Red Arrows Hawk XX308 flew in formation with Concorde over Edinburgh to mark the opening of the Scottish Parliament. {{ref:raf-t1}} {{ref:nms}}"
+        ]
+      },
+      {
+        "heading": "Accidents & Safety Reforms",
+        "paragraphs": [
+          "The Red Arrows have lost several Hawks without loss of life. Squadron Leader Steve Johnson ejected after hitting a yacht mast at Brighton on 17 May 1980, Flight Lieutenant P.D. Lees was rescued off Sidmouth after an engine rotor blade failure on 31 August 1984, and two pilots ejected after a collision near Welton in November 1987. {{ref:redarrows-wiki}} On 20 August 2011 Flight Lieutenant Jon Egging was killed when Hawk T1A XX179 crashed near Bournemouth Airport after a display. The service inquiry concluded that he had most likely been impaired by g-forces during the break into the landing circuit, and it found the team had no clearly defined procedure for that manoeuvre. The team was cleared to fly again on 25 August and returned to public displays on 2 September 2011. The RAF later changed the team's command structure, limited pilots' workload and issued better g-protection equipment. {{ref:egging}}",
+          "On 8 November 2011 Flight Lieutenant Sean Cunningham died at RAF Scampton when the ejection seat of XX177 fired while the aircraft was on the ground and its main parachute failed to open. The safety pin for the seat firing handle had been refitted in an unsafe position four days earlier, and an over-tightened shackle bolt stopped the main parachute deploying. Martin-Baker pleaded guilty to a health and safety offence and was fined £1.1 million in February 2018. {{ref:cunningham}} On 20 March 2018 a Red Arrows Hawk crashed at RAF Valley while practising a simulated engine failure. The pilot, Flight Lieutenant David Stark, ejected, but Corporal Jonathan Bayliss, an engineer in the rear seat, was killed. {{ref:forces-valley}} The service inquiry found the aircraft had been flown too low to recover, and it named pilot fatigue, a distracting radio call and shortages of engineering and safety staff as contributing factors. {{ref:dailypost}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "In January 2025 the RAF had 26 Hawk T1s, all with the Red Arrows: 14 in the active fleet and 12 in deep maintenance or storage. The active aircraft had used an average of 83.42 percent of their fatigue life and the stored ones 73.43 percent, and defence minister Maria Eagle told Parliament the type had limited capacity to fly beyond 2030. {{ref:aviationist-2025}} In March 2022 the Ministry of Defence signed an 11-year, £695 million support contract with BAE Systems and Rolls-Royce covering both the Hawk T2 fleet and the Red Arrows' T1s. {{ref:raf-695m}}",
+          "Spare Adour Mk151 engines are scarce, and the RAF has been moving serviceable engines between aircraft to keep enough jets flying. {{ref:warsight}} {{ref:gbnews}} For the 2026 season the team started flying most displays with seven aircraft instead of nine, keeping the full nine-ship formation for major events. {{ref:aviationist-2026}} {{ref:gbnews}} On 8 August 2026 the Ministry of Defence issued a request for information for a Jet Training System to replace both the Hawk T2 and the Red Arrows' T1s. Candidates include the T-7 Red Hawk, the M-346, the T-50 and the Hurjet. {{ref:aviationist-rfi}} The government has set aside £860 million to keep both Hawk fleets flying safely until replacements arrive, and £360 million towards buying them. {{ref:forces-replace}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "raf-t1",
+      "name": "Hawk T1",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/aircraft/hawk-t1/"
+    },
+    {
+      "id": "wiki",
+      "name": "BAE Systems Hawk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BAE_Systems_Hawk"
+    },
+    {
+      "id": "aviationist-2025",
+      "name": "UK Ministry of Defence Faces Questions Over Future of Red Arrows Hawk T1s",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2025/01/18/red-arrows-hawk-t1-future/"
+    },
+    {
+      "id": "dunsfold",
+      "name": "Hawk",
+      "publisher": "Dunsfold Airfield History Society",
+      "url": "https://dunsfoldairfield.org/hawk/"
+    },
+    {
+      "id": "flyer",
+      "name": "Original Hawk airlifted to Boscombe Down museum",
+      "publisher": "FLYER",
+      "url": "https://flyer.co.uk/original-hawk-airlifted-to-boscombe-down-museum/"
+    },
+    {
+      "id": "raf-redarrows",
+      "name": "Red Arrows",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/display-teams/red-arrows/"
+    },
+    {
+      "id": "bcar",
+      "name": "BAe Hawk",
+      "publisher": "BCAR",
+      "url": "http://www.bcar.org.uk/bae-hawk"
+    },
+    {
+      "id": "raf-history",
+      "name": "Hawk swoops into service",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/what-we-do/our-history/hawk-swoops-into-service/"
+    },
+    {
+      "id": "redarrows-wiki",
+      "name": "Red Arrows",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Red_Arrows"
+    },
+    {
+      "id": "nms",
+      "name": "An introduction to Red Arrows Hawk",
+      "publisher": "National Museums Scotland",
+      "url": "https://www.nms.ac.uk/discover-catalogue/an-introduction-to-red-arrows-hawk"
+    },
+    {
+      "id": "egging",
+      "name": "Death of Jon Egging",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Jon_Egging"
+    },
+    {
+      "id": "cunningham",
+      "name": "Death of Sean Cunningham",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Sean_Cunningham"
+    },
+    {
+      "id": "forces-valley",
+      "name": "Red Arrows engineer died after aircraft became 'ball of flames', inquest hears",
+      "publisher": "Forces News",
+      "url": "https://www.forcesnews.com/news/red-arrows-engineer-died-after-aircraft-became-ball-flames-inquest-hears"
+    },
+    {
+      "id": "dailypost",
+      "name": "Inquiry into Red Arrows airman RAF Valley death releases findings into what caused crash",
+      "publisher": "North Wales Live",
+      "url": "https://www.dailypost.co.uk/news/north-wales-news/inquiry-red-arrows-airman-died-17065695"
+    },
+    {
+      "id": "raf-695m",
+      "name": "MOD invests £695 million in Hawk training jets and Red Arrows",
+      "publisher": "Royal Air Force",
+      "url": "https://www.raf.mod.uk/news/articles/mod-invests-695-million-in-hawk-training-jets-and-red-arrows/"
+    },
+    {
+      "id": "warsight",
+      "name": "A new quiver of Arrows: examining the RAF's Hawk replacement requirement",
+      "publisher": "Warsight",
+      "url": "https://warsight.com/2026/06/13/examining-the-raf-hawk-replacement/"
+    },
+    {
+      "id": "gbnews",
+      "name": "Red Arrows now flying with reduced numbers amid 'ageing engines'",
+      "publisher": "GB News",
+      "url": "https://www.gbnews.com/news/red-arrows-reduced-numbers-ageing-engines-hawk-t1"
+    },
+    {
+      "id": "aviationist-2026",
+      "name": "Ageing Hawk T1s Force Red Arrows Down to Seven Jet Formation for Most Displays",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/05/24/red-arrows-seven-jet-formation/"
+    },
+    {
+      "id": "aviationist-rfi",
+      "name": "UK Releases RFI for New Jet Trainer and Red Arrows Aircraft",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/08/08/uk-releases-rfi-for-new-jet-trainer/"
+    },
+    {
+      "id": "forcesnews",
+      "name": "Hawk T1 and T2: All you need to know",
+      "publisher": "Forces News",
+      "url": "https://www.forcesnews.com/news/hawk-t1-and-t2-all-you-need-know"
+    },
+    {
+      "id": "forces-replace",
+      "name": "Replacing the Red Arrows' jet: What could follow the outgoing iconic Hawk?",
+      "publisher": "Forces News",
+      "url": "https://www.forcesnews.com/services/raf/replacing-red-arrow-what-could-follow-hawk-jet"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Project to replace Red Arrows Hawk jets officially kicks off",
+      "url": "https://ukdefencejournal.org.uk/project-to-replace-red-arrows-hawk-jets-officially-kicks-off/"
+    },
+    {
+      "name": "Service inquiry report into the accident involving Red Arrows Hawk T Mk1 XX179 on 20 August 2011",
+      "url": "https://www.gov.uk/government/publications/service-inquiry-report-into-the-accident-involving-red-arrows-hawk-t-mk1-xx179-on-20-august-2011"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1980-05-17",
+      "title": "Red Arrows Hawk hits a yacht mast off Brighton",
+      "tag": "Display accident",
+      "summary": "In the team's first Hawk season, Squadron Leader Steve Johnson's aircraft struck a yacht's mast during a display at Brighton. He ejected safely.",
+      "source": "https://en.wikipedia.org/wiki/Red_Arrows"
+    },
+    {
+      "date": "1988-01-22",
+      "title": "Fatal crash during practice at RAF Scampton",
+      "tag": "Training crash",
+      "summary": "Flight Lieutenant Neil MacLachlan was killed when his Red Arrows Hawk hit the ground while he was practising a roll-back manoeuvre at RAF Scampton.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Red_Arrows"
+    },
+    {
+      "date": "2010-03-23",
+      "title": "Mid-air collision during training in Crete",
+      "tag": "Mid-air collision",
+      "summary": "Two Red Arrows Hawks collided during synchro-pair practice in Crete. Flight Lieutenant Mike Ling ejected with a dislocated shoulder, and Flight Lieutenant David Montenegro landed his damaged aircraft.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Red_Arrows"
+    },
+    {
+      "date": "2011-08-20",
+      "title": "Death of Flight Lieutenant Jon Egging near Bournemouth",
+      "tag": "Fatal crash (g-induced impairment)",
+      "summary": "Hawk T1A XX179 crashed near Throop, Dorset, after a display at the Bournemouth Air Festival. The service inquiry found the most likely cause was g-induced impairment of the pilot during the break into the circuit.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Death_of_Jon_Egging"
+    },
+    {
+      "date": "2011-11-08",
+      "title": "Ejection seat fires on the ground at RAF Scampton",
+      "tag": "Ejection seat failure",
+      "summary": "The seat in Hawk XX177 fired while the aircraft was stationary, and its main parachute did not deploy, killing Flight Lieutenant Sean Cunningham. A wrongly refitted safety pin and an over-tightened shackle bolt were found to be the causes, and Martin-Baker was fined £1.1 million in 2018.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Death_of_Sean_Cunningham"
+    },
+    {
+      "date": "2018-03-20",
+      "title": "Crash at RAF Valley during a simulated engine failure",
+      "tag": "Training crash",
+      "summary": "A Red Arrows Hawk stalled and crashed near the runway at RAF Valley while practising a simulated engine failure. The pilot ejected, but Corporal Jonathan Bayliss, an engineer in the rear seat, was killed. The inquiry cited pilot fatigue and distraction.",
+      "fatalities": 1,
+      "source": "https://www.forcesnews.com/news/red-arrows-engineer-died-after-aircraft-became-ball-flames-inquest-hears"
+    },
+    {
+      "date": "2022-03-31",
+      "title": "Hawk T1 retired from training",
+      "tag": "Retirement",
+      "summary": "No. 100 Squadron at RAF Leeming and the Royal Navy's 736 Naval Air Squadron retired their Hawk T1s, leaving the Red Arrows as the type's only operator.",
+      "source": "https://www.raf.mod.uk/aircraft/hawk-t1/"
+    },
+    {
+      "date": "2022-08-28",
+      "title": "Bird strike smashes a canopy at the Rhyl Air Show",
+      "tag": "Bird strike",
+      "summary": "A bird broke the canopy of Squadron Leader Gregor Ogston's Red Arrows Hawk during the Rhyl Air Show. He landed unhurt.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Red_Arrows"
+    }
+  ],
+  "survivors": {
+    "intro": "Many Hawk T1s are now preserved in UK museums. These are three whose histories have been individually confirmed.",
+    "airframes": [
+      {
+        "serial": "XX154",
+        "location": "Boscombe Down Aviation Collection, Old Sarum, Wiltshire, United Kingdom",
+        "note": "The first Hawk to fly, on 21 August 1974. It stayed in test use at MoD Boscombe Down until December 2018 and is displayed in its Empire Test Pilots' School markings."
+      },
+      {
+        "serial": "XX308",
+        "location": "National Museum of Flight, East Fortune, Scotland, United Kingdom",
+        "note": "Built in 1980 and flown by the Red Arrows from 1985 to 2012, including a formation flight with Concorde over Edinburgh on 1 July 1999. Displayed next to Concorde G-BOAA."
+      },
+      {
+        "serial": "XX260",
+        "location": "Ulster Aviation Society, Lisburn, Northern Ireland, United Kingdom",
+        "note": "Flew with the Red Arrows from 1983 to 1986 and in 1991-1992. The RAF gave it to the society in 2023."
+      }
+    ]
+  }
+}

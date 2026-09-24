@@ -1,0 +1,357 @@
+{
+  "name": "Lightning",
+  "fullName": "English Electric Lightning",
+  "manufacturer": "English Electric (later British Aircraft Corporation)",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Supersonic Interceptor",
+  "tagline": "The English Electric Lightning is a British single-seat supersonic interceptor and the RAF's first truly supersonic fighter, able to reach Mach 2. It defended UK airspace for the RAF from 1960 to 1988, climbing at around 20,000 ft a minute on two Rolls-Royce Avon engines mounted one above the other.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The two Avon engines are stacked one above the other and staggered, which gave the thrust of two engines for roughly the drag of one and a half mounted side by side.",
+    "In 1984 Flight Lieutenant Mike Hale zoom-climbed Lightning F.3 XR749 to 88,000 ft after intercepting a U-2 at the height its crews had thought was safe.",
+    "On 22 July 1966 an engineer, Walter Holden, accidentally took off in Lightning F.1 XM135 during ground runs, with no helmet and the canopy off, and landed it at the third attempt.",
+    "Internal fuel was only 700 gallons, and a short endurance was the Lightning's best-known weakness; astronaut Deke Slayton said it had 'no range at all'.",
+    "The last Lightning flight in UK skies was on 21 January 1993, when XS904 finished Tornado F3 radar trials for British Aerospace."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Lightning F.6, the final RAF fighter version. The RAF kept the true ceiling secret and described it only as 'in excess of 60,000 ft'; the 54,000 ft shown is the published service ceiling, and zoom climbs reached 88,000 ft.",
+    "maxSpeed": {
+      "mph": 1300,
+      "text": "1,130 kn (1,300 mph / 2,092 km/h)"
+    },
+    "range": {
+      "miles": 850,
+      "text": "850 mi (1,370 km)"
+    },
+    "serviceCeiling": {
+      "ft": 54000,
+      "text": "54,000 ft (16,460 m)"
+    },
+    "rateOfClimb": "20,000 ft/min (100 m/s)",
+    "wingspan": {
+      "ft": 34,
+      "text": "34 ft 10 in (10.62 m)"
+    },
+    "length": {
+      "ft": 55,
+      "text": "55 ft 3 in (16.84 m)"
+    },
+    "height": {
+      "ft": 19,
+      "text": "19 ft 7 in (5.97 m)"
+    },
+    "weight": "empty: 31,068 lb (14,092 kg); MTOW: 45,750 lb (20,752 kg)",
+    "engines": "Two Rolls-Royce Avon 301R afterburning turbojets, 12,530 lbf (55.7 kN) dry and 16,000 lbf (71.2 kN) with reheat each, stacked vertically",
+    "armament": "F.6: two 30 mm ADEN cannon in the front of the ventral pack and two Red Top or Firestreak air-to-air missiles. Earlier F.1/F.2 marks had two nose-mounted ADEN cannon",
+    "crew": "1 (2 side by side in the T.4 and T.5 trainers)",
+    "capacity": "None - single-seat interceptor",
+    "firstFlight": {
+      "date": "1954-08-04",
+      "year": 1954
+    },
+    "serviceEntryDate": "1960-07-11",
+    "retiredDate": "1988-04-30",
+    "numberBuilt": 337,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no official per-aircraft price for RAF Lightnings has been published",
+      "inflationText": null
+    },
+    "combatLosses": "No RAF Lightning was lost in combat. One Royal Saudi Air Force F.53 was shot down by ground fire over South Yemen on 3 May 1970; the pilot ejected and was rescued."
+  },
+  "variants": [
+    {
+      "code": "P.1A / P.1B",
+      "desc": "The prototypes. Two P.1As, starting with WG760, proved the swept-wing, stacked-engine layout from 1954 but were limited to Mach 1.51. The three P.1Bs added reheated Avon R24R engines, a redesigned nose with a conical inlet centre body and radar, and on 25 November 1958 XA847 became the first British aircraft to reach Mach 2."
+    },
+    {
+      "code": "F.1 / F.1A / F.2 / F.2A",
+      "desc": "The early production fighters: 19 F.1s, 28 F.1As with a refuelling probe, and 44 F.2s, 31 of which were rebuilt as F.2As with the large F.6-style ventral tank. They carried two nose ADEN cannon and Firestreak missiles, and the F.2As served in West Germany with Nos 19 and 92 Squadrons until 1977."
+    },
+    {
+      "code": "F.3 / F.3A",
+      "desc": "The F.3 introduced the Avon 301R, a larger square-topped fin and the AI.23B radar with Red Top missiles, which allowed head-on attacks. The nose guns were deleted to save weight. Seventy were built, followed by 16 F.3As with a longer-range wing and bigger ventral tank, most of which were later brought up to F.6 standard."
+    },
+    {
+      "code": "F.6",
+      "desc": "The definitive RAF version: 39 built new and more converted from F.3s and F.3As. It had a revised wing, a 610-gallon ventral tank and provision for two 260-gallon overwing ferry tanks. Two ADEN cannon returned in the front of the ventral pack, cutting its capacity to 535 gallons, and F.6s with Nos 5 and 11 Squadrons were the last RAF Lightnings."
+    },
+    {
+      "code": "T.4 / T.5",
+      "desc": "Two-seat trainers with the instructor and student side by side, used by the Lightning conversion units. The T.4 was based on the F.1A and the T.5 on the F.3, with 22 of each built. Two T.5s, XS451 and XS452, later flew with the civil operator Thunder City in South Africa."
+    },
+    {
+      "code": "F.52 / F.53 / T.54 / T.55",
+      "desc": "Export versions for Saudi Arabia and Kuwait. The F.52 and T.54 were ex-RAF F.2s and T.4s supplied to Saudi Arabia in 1966. The F.53 was a multirole F.6 able to carry bombs and rockets: 46 were built, 34 for Saudi Arabia and 12 for Kuwait, along with eight T.55 two-seaters."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1960",
+      "fleetSize": "All RAF production from F.1 to F.6 plus T.4/T.5 trainers, flown by nine front-line squadrons and conversion units",
+      "homeBase": "RAF Coltishall, Leuchars, Binbrook, Gütersloh, Akrotiri and Tengah"
+    },
+    {
+      "name": "Royal Saudi Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "1966",
+      "fleetSize": "About 40 single-seat fighters and 6-8 trainers (34 F.53, 6 T.55, plus ex-RAF F.52 and T.54 aircraft)",
+      "homeBase": "Tabuk (No. 2 Squadron) and other Saudi bases"
+    },
+    {
+      "name": "Kuwait Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "1968",
+      "fleetSize": "14 (12 F.53K, 2 T.55K)",
+      "homeBase": "Kuwait"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "LTNG",
+    "howToFind": "No Lightning is airworthy, so none will show on Flightradar24. The nearest thing is the Lightning Preservation Group's engine-running XS904 at Bruntingthorpe, Leicestershire, which holds occasional public events."
+  },
+  "lastUpdated": "2026-09-24",
+  "changelog": [
+    {
+      "date": "2026-09-24",
+      "change": "Entry created - full article, specifications, variants, operators, survivors and incident log written from Wikipedia, RAF Museum, museum and preservation group sources.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "English Electric P.1",
+    "BAC Lightning",
+    "Lightning F.6",
+    "Lightning F.3",
+    "stacked engines",
+    "Mach 2",
+    "Binbrook",
+    "QRA"
+  ],
+  "article": {
+    "overview": [
+      "The English Electric Lightning is a British single-seat supersonic interceptor built for the Royal Air Force. It first flew as the P.1A on 4 August 1954, entered front-line service with No. 74 Squadron on 11 July 1960, and was the RAF's first truly supersonic fighter. {{ref:wiki}} {{ref:rafmuseum}}",
+      "English Electric and its successor, the British Aircraft Corporation, built 337 Lightnings including prototypes, for the RAF and for Saudi Arabia and Kuwait. The RAF retired its last Lightnings from No. 11 Squadron at Binbrook on 30 April 1988, after 28 years of front-line service. {{ref:wiki}} {{ref:rafmuseum}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Lightning began with specification ER.103, issued in January 1949 for a research aircraft able to reach Mach 1.5 at 50,000 ft. W.E.W. Petter, who had joined English Electric from Westland, had already proposed a supersonic fighter in November 1948, and the company called the design the P.1. Specification F.23/49 then widened the requirement to include fighter manoeuvring. During 1949 the wing sweep went from 40 to 60 degrees, and wind tunnel tests led the team under Frederick Page to move the tailplane below the wing. A contract signed on 1 April 1950 covered two flying prototypes and a static test airframe, all hand-built at Samlesbury. {{ref:wiki}}",
+          "The Ministry of Supply commissioned the Short SB.5 research aircraft in 1950 to test the P.1's sweep angle and tail position, and its flights from 1954 confirmed English Electric's layout. Roland Beamont flew the first P.1A, WG760, from Boscombe Down on 4 August 1954 and went supersonic on its third flight a week later. The P.1B followed on 4 April 1957, and on 25 November 1958 P.1B XA847 became the first British aircraft to reach Mach 2, a month after France's Mirage III had done so on 24 October. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Lightning's two Rolls-Royce Avon turbojets sit one above the other in the fuselage, staggered front to back. This arrangement gave the thrust of two engines with about 25 percent less drag than a side-by-side pair. On the F.6, each Avon 301R produced 16,000 lbf with reheat, enough for a climb rate of about 20,000 ft a minute and a climb to 36,000 ft in under three minutes. The price was fuel: the thin 60-degree wing left room for only 700 gallons internally, and later marks added a large ventral tank and overwing ferry tanks. {{ref:wiki}} {{ref:skytamer}}",
+          "The aircraft relied on electronics to an unusual extent. A turbine driven by engine bleed air in the rear fuselage powered the electrical system, and the Ferranti AI.23 monopulse radar guided the Firestreak and later Red Top missiles. The stacked engines made maintenance hard: fluid leaking from the upper engine was a recurring fire hazard, and an engine change took four hours even in ideal conditions. Engine casings reached 600°C, so the surrounding structure was protected with a heat-reflecting paint containing gold, and the narrow main tyres, inflated to 330-350 psi, wore quickly in crosswind landings. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Into Service & the 1957 White Paper",
+        "paragraphs": [
+          "Duncan Sandys's Defence White Paper of March 1957 argued that missiles would soon replace manned fighters, and the more advanced F.155 interceptor was cancelled on 29 March 1957. The Lightning survived because it was already close to service. Three pre-production aircraft reached RAF Coltishall on 23 December 1959, and No. 74 Squadron took the first front-line F.1s on 11 July 1960. {{ref:wiki}}",
+          "Early serviceability was poor, and at first the RAF managed only 20 flying hours per aircraft per month against the 40 expected. Within six months No. 74 Squadron had raised that to 100 hours. In the early 1960s Nos 19 and 92 Squadrons moved to RAF Gütersloh in West Germany for low-level air defence, staying until Phantom FGR2s replaced them in 1977. No. 56 Squadron went to RAF Akrotiri in Cyprus and No. 74 Squadron to RAF Tengah in Singapore in 1967. No. 74 Squadron's Tigers became the first display team to fly Mach 2 aircraft. No. 56 Squadron's Firebirds followed in 1963. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Performance & Interceptions",
+        "paragraphs": [
+          "The RAF kept the Lightning's ceiling secret, quoting only 'in excess of 60,000 ft'. In September 1962 Fighter Command ran interception trials against U-2 spy planes and made successful intercepts at up to 65,000 ft. In 1984 Flight Lieutenant Mike Hale intercepted a U-2 at a height its crews had thought safe and then zoom-climbed F.3 XR749 to 88,000 ft. In April 1985, during NATO trials against Concorde, the same aircraft was the only Lightning to overtake the airliner. In 1972 a Lightning was also sent to shoot down a pilotless Harrier over West Germany before it could stray across the East German border. {{ref:wiki}}",
+          "Pilots who flew it were generous about its handling. Beamont said nothing else at the time matched its stability and docile handling across the whole flight envelope. Deke Slayton, who flew it on a 1958 USAF evaluation before becoming a Mercury astronaut, compared it to the handling of an F-86 with the performance of an F-104, but said it had no range at all. Lightnings on quick reaction alert intercepted Soviet Tu-95 bombers approaching UK airspace. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Export Service",
+        "paragraphs": [
+          "Saudi Arabia ordered Lightnings in December 1965. An interim deal code-named Magic Carpet delivered four ex-RAF F.2s and two T.4s in July 1966, and the main batch of 34 F.53s and 6 T.55s arrived under Operation Magic Palm between July 1968 and August 1969. During the 1969-1970 border dispute with South Yemen, No. 6 Squadron flew ground-attack missions with rockets and bombs, and F.53 53-697 was shot down by ground fire on 3 May 1970. Its pilot ejected and was rescued. {{ref:wiki}}",
+          "The Saudi Lightnings gave up ground attack when Northrop F-5Es arrived from 1971, and No. 6 Squadron converted to the F-15 in 1982. In 1985 Saudi Arabia traded its 22 flyable Lightnings back to British Aerospace as part of its Tornado purchase. They returned to Warton in January 1986 and were offered to Austria and Nigeria, but neither bought them. Kuwait ordered 12 F.53Ks and 2 T.55Ks in December 1966, but without the maintenance support the Saudis bought, serviceability stayed poor. Mirage F1s replaced them in 1977, and many of the stored airframes were destroyed during the Iraqi invasion in August 1990. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Safety Record & Retirement",
+        "paragraphs": [
+          "The Lightning had a high accident rate. The first loss came on 1 October 1959, when the fin of the T.4 prototype XL628 collapsed over the Irish Sea; its pilot ejected and spent 28 hours in the water before drifting ashore. {{ref:accidents}} Engine fires, hydraulic failures and canopy losses were among the leading causes of later losses, and in the early 1970s the RAF was losing roughly one Lightning a month. {{ref:caygill}} By the 1980s the AI.23 radar could search only a 40-degree arc and could not track while scanning, and plans to fit AIM-9L Sidewinders were never funded. {{ref:wiki}}",
+          "Phantoms, with much longer range, and Tornado F3s, with far larger weapon loads and more advanced avionics, took over the Lightning's squadrons between 1974 and 1988. No. 5 Squadron disbanded on 31 December 1987 and No. 11 Squadron on 30 April 1988, and on 30 June 1988 two aircraft left Binbrook for Cranfield. {{ref:wiki}} British Aerospace kept XS904 flying on Tornado F3 radar trials until 21 January 1993, the last Lightning flight in UK skies. {{ref:xs904}} Thunder City in Cape Town flew two T.5s as civil aircraft, but XS451 crashed at the Overberg airshow on 14 November 2009, killing its pilot, and by 2022 XS452 was stored and up for sale. {{ref:accidents}} {{ref:survivors}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "English Electric Lightning",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/English_Electric_Lightning"
+    },
+    {
+      "id": "rafmuseum",
+      "name": "British Aircraft Corporation Lightning F6",
+      "publisher": "RAF Museum",
+      "url": "https://www.rafmuseum.org.uk/research/collections/british-aircraft-corporation-lightning-f6/"
+    },
+    {
+      "id": "skytamer",
+      "name": "English Electric Lightning F.Mk.6",
+      "publisher": "Skytamer",
+      "url": "https://www.skytamer.com/English_Electric_Lightning_F.6.html"
+    },
+    {
+      "id": "accidents",
+      "name": "List of accidents and incidents involving the English Electric Lightning",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_English_Electric_Lightning"
+    },
+    {
+      "id": "caygill",
+      "name": "Lightning Eject: The Dubious Safety Record of Britain's Only Supersonic Fighter (review of Peter Caygill's book)",
+      "publisher": "Speed Readers",
+      "url": "https://speedreaders.info/10552-lightning-eject-dubious-safety-record-britains-only-supersonic-fighter/"
+    },
+    {
+      "id": "xs904",
+      "name": "English Electric Lightning - Survivor XS904",
+      "publisher": "Thunder & Lightnings",
+      "url": "https://www.thunder-and-lightnings.co.uk/lightning/survivor.php?id=222"
+    },
+    {
+      "id": "survivors",
+      "name": "English Electric Lightning - Survivors",
+      "publisher": "Thunder & Lightnings",
+      "url": "https://www.thunder-and-lightnings.co.uk/lightning/survivors.php"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "The Lightning Preservation Group",
+      "url": "https://www.lightnings.org.uk/the-lgp-story/"
+    },
+    {
+      "name": "English Electric Lightning F.6 XS903 - Yorkshire Air Museum",
+      "url": "https://yorkshireairmuseum.org/english-electric-lightning-f6/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1958-11-25",
+      "title": "First British aircraft to reach Mach 2",
+      "tag": "Record",
+      "summary": "P.1B XA847 reached Mach 2, the first British aircraft to do so and the second Western European type after the Mirage III.",
+      "source": "https://en.wikipedia.org/wiki/English_Electric_Lightning"
+    },
+    {
+      "date": "1959-10-01",
+      "title": "First loss: T.4 prototype's fin collapses",
+      "tag": "Structural failure",
+      "summary": "The fin of T.4 prototype XL628 collapsed over the Irish Sea. The test pilot ejected and drifted ashore after 28 hours.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_English_Electric_Lightning"
+    },
+    {
+      "date": "1963-07-18",
+      "title": "Spin during a display near RAF Wittering",
+      "tag": "Display crash",
+      "summary": "No. 111 Squadron's F.1A XM186 was abandoned in a spin during an aerobatic display near RAF Wittering. The pilot was killed.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_English_Electric_Lightning"
+    },
+    {
+      "date": "1966-07-22",
+      "title": "Engineer takes off by accident in XM135",
+      "tag": "Inadvertent takeoff",
+      "summary": "During ground runs, engineer Walter Holden accidentally selected reheat and took off in F.1 XM135 with no helmet and the canopy off. He landed at the third attempt, and the aircraft is now at IWM Duxford.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_English_Electric_Lightning"
+    },
+    {
+      "date": "1970-05-03",
+      "title": "Saudi F.53 shot down over South Yemen",
+      "tag": "Shot down",
+      "summary": "Royal Saudi Air Force F.53 53-697 was hit by ground fire on a reconnaissance sortie during the border dispute with South Yemen. The pilot ejected and was rescued.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/English_Electric_Lightning"
+    },
+    {
+      "date": "1970-07-27",
+      "title": "Crash on takeoff at RAF Tengah, Singapore",
+      "tag": "Takeoff crash",
+      "summary": "F.6 XS930 spun into the ground on takeoff from RAF Tengah. The pilot and two people on the ground were killed.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_English_Electric_Lightning"
+    },
+    {
+      "date": "1970-09-08",
+      "title": "USAF exchange pilot lost off Flamborough Head",
+      "tag": "Fatal crash",
+      "summary": "F.6 XS894 crashed six miles north-north-east of Flamborough Head, Yorkshire, killing USAF exchange pilot Captain William Schaffner.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_English_Electric_Lightning"
+    },
+    {
+      "date": "1988-04-30",
+      "title": "RAF retires the Lightning",
+      "tag": "Retirement",
+      "summary": "No. 11 Squadron at RAF Binbrook disbanded, ending 28 years of Lightning service with the RAF.",
+      "source": "https://en.wikipedia.org/wiki/English_Electric_Lightning"
+    },
+    {
+      "date": "1993-01-21",
+      "title": "Last Lightning flight in UK skies",
+      "tag": "Final flight",
+      "summary": "XS904 made its final flight after Tornado F3 radar development work with British Aerospace.",
+      "source": "https://www.thunder-and-lightnings.co.uk/lightning/survivor.php?id=222"
+    },
+    {
+      "date": "2009-11-14",
+      "title": "Thunder City T.5 crashes at Overberg airshow",
+      "tag": "Airshow crash",
+      "summary": "T.5 XS451 (ZU-BEX) crashed during the Overberg airshow in South Africa after an in-flight fire caused both hydraulic systems to fail. Pilot Dave Stock was killed when the canopy failed to release during ejection.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_English_Electric_Lightning"
+    }
+  ],
+  "survivors": {
+    "intro": "No Lightning is airworthy today, but many survive in museums, and a few are kept able to run their engines and taxi. These airframes have been individually confirmed.",
+    "airframes": [
+      {
+        "serial": "WG760",
+        "location": "RAF Museum Cosford (stored), Shropshire, United Kingdom",
+        "note": "The first P.1A prototype, flown by Roland Beamont on 4 August 1954."
+      },
+      {
+        "serial": "XM135",
+        "location": "Imperial War Museum Duxford, Cambridgeshire, United Kingdom",
+        "note": "F.1 flown by accident by engineer Walter Holden on 22 July 1966."
+      },
+      {
+        "serial": "XN776",
+        "location": "National Museum of Flight, East Fortune, Scotland, United Kingdom",
+        "note": "F.2A, one of the 31 F.2s rebuilt with the larger ventral tank."
+      },
+      {
+        "serial": "XS903",
+        "location": "Yorkshire Air Museum, Elvington, United Kingdom",
+        "note": "F.6 first flown on 17 August 1966; served with Nos 5 and 11 Squadrons and was flown into Elvington for preservation on 18 May 1988."
+      },
+      {
+        "serial": "XS904",
+        "location": "Lightning Preservation Group, Bruntingthorpe, Leicestershire, United Kingdom",
+        "note": "Made the last Lightning flight in UK skies on 21 January 1993. Kept in running condition, with public engine runs held as recently as November 2022."
+      }
+    ]
+  }
+}

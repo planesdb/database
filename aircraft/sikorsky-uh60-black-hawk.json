@@ -1,0 +1,359 @@
+{
+  "name": "UH-60 Black Hawk",
+  "fullName": "Sikorsky UH-60 Black Hawk",
+  "manufacturer": "Sikorsky (Lockheed Martin)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Utility Helicopter",
+  "tagline": "The Sikorsky UH-60 Black Hawk is an American twin-engine, four-blade utility helicopter built for the U.S. Army, which has flown it since 1979 as its standard troop and cargo transport. More than 5,000 have been built, and by 2024 the Black Hawk was in service with 35 countries.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The Black Hawk was shaped long and low so it could be carried inside a C-130 Hercules, one of the Army's original requirements.",
+    "In February 1991 Black Hawks took part in the largest air assault in U.S. Army history, involving more than 300 helicopters.",
+    "The secret helicopters used in the May 2011 raid that killed Osama bin Laden were heavily modified H-60s; one crash-landed and was destroyed by the assault team, revealing extra tail rotor blades and other noise-reduction features.",
+    "On 29 January 2025 an Army UH-60L collided with a regional jet over the Potomac River in Washington, killing all 67 people aboard both aircraft.",
+    "The Army plans to keep the UH-60M in service well beyond 2050, more than 75 years after the first prototype flew."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the UH-60M. Max speed is the maximum continuous airspeed; cruise speed and rate of climb are Sikorsky's figures at a gross weight of 16,800 lb. Published service ceilings vary from 15,180 ft to 19,000 ft; the lower figure is shown. The service entry date is padded to 1 June 1979, as sources give only the month.",
+    "maxSpeed": {
+      "mph": 180,
+      "text": "156 kn (180 mph / 289 km/h)"
+    },
+    "cruiseSpeed": "176 mph (283 km/h) at 16,800 lb gross weight",
+    "range": {
+      "miles": 318,
+      "text": "318 mi (511 km, 276 nmi) on internal fuel, no reserve"
+    },
+    "serviceCeiling": {
+      "ft": 15180,
+      "text": "15,180 ft (4,627 m)"
+    },
+    "rateOfClimb": "1,646 ft/min (8.4 m/s) vertical, at 16,800 lb",
+    "mainRotorDiameter": {
+      "ft": 53.67,
+      "text": "53 ft 8 in (16.36 m)"
+    },
+    "length": {
+      "ft": 50.58,
+      "text": "50 ft 7 in (15.43 m) fuselage; 64 ft 10 in (19.76 m) rotors turning"
+    },
+    "height": {
+      "ft": 16.83,
+      "text": "16 ft 10 in (5.13 m)"
+    },
+    "weight": "empty: 12,500 lb (5,670 kg); max gross weight: 22,000 lb (9,979 kg)",
+    "rotorBlades": "4 main, 4 tail",
+    "engines": "2 x General Electric T700-GE-701D turboshafts, 1,994 shp (1,487 kW) each for 10 minutes, 1,716 shp (1,280 kW) maximum continuous",
+    "armament": "Two 7.62 mm M240H machine guns, one in each cabin window; M134 miniguns optional",
+    "crew": "4 (2 pilots and 2 crew chiefs/gunners); minimum flight crew of 2 pilots",
+    "capacity": "11 combat troops with equipment, or 2,600 lb (1,200 kg) of internal cargo",
+    "externalLoad": "9,000 lb (4,100 kg) external sling load (UH-60L/M)",
+    "firstFlight": {
+      "date": "1974-10-17",
+      "year": 1974
+    },
+    "serviceEntryDate": "1979-06-01",
+    "retiredDate": null,
+    "numberBuilt": 5000,
+    "unitCost": {
+      "usd": 14654000,
+      "text": "~$14.7M (average per aircraft in the Army's September 2026 order for 16 UH-60Ms)"
+    },
+    "combatLosses": "Two UH-60s were shot down on 27 February 1991 during the Gulf War, and two MH-60s were brought down by RPG fire in Mogadishu on 3 October 1993. A modified H-60 crash-landed and was destroyed by its own crew at Abbottabad in 2011. No overall combat loss figure has been published."
+  },
+  "variants": [
+    {
+      "code": "UH-60A",
+      "desc": "The original production model, which entered Army service with the 101st Airborne Division in June 1979. It had two General Electric T700 turboshafts, four-blade main and tail rotors and a cabin for 11 equipped troops. The UTTAS requirement stressed reliability, survivability and low life-cycle cost, and the airframe had to fit inside a C-130 Hercules."
+    },
+    {
+      "code": "UH-60L",
+      "desc": "Ordered by the Army in 1987, the UH-60L added the more powerful T700-GE-701C engines and an improved gearbox, raising the external sling load to 9,000 lb. About 800 were still in the Army's inventory in January 2025. Northrop Grumman's UH-60V upgrade gives L models the UH-60M's glass cockpit displays."
+    },
+    {
+      "code": "UH-60M / HH-60M",
+      "desc": "The current production model. It first flew on 17 September 2003, and the first of 22 initial aircraft were delivered in July 2006. It has T700-GE-701D engines of 1,994 shp, wider-chord composite main rotor blades, a digital four-screen cockpit and dual digital flight control computers. The HH-60M is the medical evacuation version, with 281 delivered by 2020."
+    },
+    {
+      "code": "MH-60 special operations",
+      "desc": "Special operations versions flown by the Army's 160th Special Operations Aviation Regiment. The MH-60L Direct Action Penetrator is configured as a gunship. Highly modified, low-noise H-60s carried the assault team on the 2 May 2011 raid on Osama bin Laden's compound in Abbottabad, Pakistan, where one crash-landed and was destroyed."
+    },
+    {
+      "code": "HH-60 Pave Hawk / SH-60 Seahawk / MH-60 Jayhawk",
+      "desc": "Versions for other U.S. services. The Air Force's HH-60G Pave Hawk is a combat search-and-rescue helicopter with a unit cost of $10.2 million. The Navy's SH-60 Seahawk family covers anti-submarine and utility roles at sea, and the Coast Guard's MH-60 Jayhawk flies search and rescue. All share the Black Hawk's basic airframe, rotor system and T700 engines."
+    },
+    {
+      "code": "S-70 exports",
+      "desc": "Export Black Hawks carry Sikorsky's S-70 model number. Mitsubishi builds the UH-60J and UH-60JA under licence in Japan, Australia bought 39 S-70A-9s in 1986 and 1987, and Colombia flies the AH-60L Arpia gunship. Sikorsky's Polish subsidiary, PZL Mielec, builds the S-70i, and Poland ordered about 32 in 2023."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1979",
+      "fleetSize": "931 UH-60M and about 800 UH-60L in January 2025",
+      "homeBase": "Army aviation units worldwide"
+    },
+    {
+      "name": "Australian Army",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1988",
+      "fleetSize": "39 S-70A-9 (retired 2021, five lost); 40 UH-60M ordered in 2023",
+      "homeBase": "Australia"
+    },
+    {
+      "name": "Mexican Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2010s",
+      "fleetSize": "18 UH-60M approved for sale in 2014",
+      "homeBase": "Mexico"
+    },
+    {
+      "name": "Polish Armed Forces",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2020s",
+      "fleetSize": "About 32 locally built S-70i ordered in 2023",
+      "homeBase": "Poland"
+    },
+    {
+      "name": "Other operators",
+      "role": "Export Operators",
+      "status": "In Service",
+      "since": "1980s",
+      "fleetSize": "35 countries in total as of 2024, including the U.S. Air Force (HH-60 Pave Hawk), Navy and Coast Guard derivatives, Japan (licence-built UH-60J/JA), Colombia, Israel, Austria, Brazil, Croatia, Greece and Ukraine's intelligence directorate",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "H60",
+    "howToFind": "Army and National Guard Black Hawks often fly without broadcasting a position, but some appear on Flightradar24 under military callsigns. Export and civil-registered S-70s are generally easier to spot."
+  },
+  "lastUpdated": "2026-09-24",
+  "changelog": [
+    {
+      "date": "2026-09-24",
+      "change": "Entry created - full article, specifications, variants, operators and incident log written from U.S. Army, NTSB, Sikorsky archive, Wikipedia and defence press sources.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "UH-60M",
+    "UH-60L",
+    "S-70",
+    "S-70i",
+    "HH-60",
+    "MH-60",
+    "UTTAS",
+    "Sikorsky H-60"
+  ],
+  "article": {
+    "overview": [
+      "The Sikorsky UH-60 Black Hawk is an American four-blade, twin-engine utility helicopter built for the U.S. Army. It replaced the Bell UH-1 Iroquois as the Army's main tactical transport after entering service with the 101st Airborne Division in June 1979. {{ref:wiki}}",
+      "More than 5,000 H-60s had been built by January 2023, and the Black Hawk was in service with 35 countries by 2024. The U.S. Army's fleet has flown over 15 million hours, and the service plans to keep its UH-60Ms flying well beyond 2050. {{ref:wiki}} {{ref:army-2025}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the UTTAS Competition",
+        "paragraphs": [
+          "The Army released its request for proposals for the Utility Tactical Transport Aircraft System (UTTAS) in January 1972, looking for a replacement for the UH-1. It asked for better reliability, survivability and lower life-cycle costs than the Huey, which led to twin engines with improved hot-and-high performance and a modular design. The helicopter also had to fit inside a C-130 Hercules, which gave the Black Hawk its long, low fuselage. {{ref:wiki}}",
+          "Sikorsky's YUH-60A first flew on 17 October 1974 and competed in a fly-off against the Boeing Vertol YUH-61A. The Army chose the Sikorsky design for production in December 1976, and the UH-60A entered service with the 101st Airborne Division in June 1979. It is named after the Sauk leader Black Hawk. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Black Hawk has four-blade main and tail rotors and two General Electric T700 turboshafts. Its cabin holds 11 troops with their equipment or 2,600 lb of cargo, and the L and M models can lift 9,000 lb on a sling. The Army ordered the UH-60L in 1987 with more powerful T700-GE-701C engines and an improved gearbox, and Northrop Grumman's UH-60V upgrade later gave L models a glass cockpit. {{ref:wiki}}",
+          "The UH-60M first flew on 17 September 2003 at West Palm Beach, Florida, and deliveries began on 31 July 2006. Its T700-GE-701D engines each produce 1,994 shp, its composite main rotor blades have a chord 1.74 in wider than the originals, and the cockpit has four digital multi-function displays with dual digital flight control computers. By the end of 2020, Sikorsky's Stratford plant had delivered 831 UH-60Ms and 281 HH-60M medical evacuation helicopters. At a gross weight of 16,800 lb the UH-60M cruises at 153 knots and climbs vertically at 1,646 ft a minute, its useful load is 6,882 lb, and it can hover at 23,500 lb with an external load. {{ref:sikorsky}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The U.S. military first used the UH-60 in combat during the 1983 invasion of Grenada, and again in the 1989 invasion of Panama. In the 1991 Gulf War, Black Hawks took part in the largest air assault in Army history, with more than 300 helicopters, and two UH-60s were shot down on 27 February 1991. {{ref:wiki}} On 3 October 1993, in the Battle of Mogadishu, RPG-7 hits brought down two MH-60s of the 160th Special Operations Aviation Regiment. Super Six-One, flown by Chief Warrant Officer Cliff Wolcott, was hit about 40 minutes into the operation, and Super Six-Four was hit later that afternoon. Both of Super Six-One's pilots were killed. Super Six-Four's pilot, Michael Durant, was captured, and 18 Americans died in the battle. Delta Force snipers Gary Gordon and Randy Shughart were killed defending Durant's crash site and received the first Medals of Honor awarded since Vietnam, and Mark Bowden's 1999 book Black Hawk Down and the 2001 film made the battle widely known. {{ref:mogadishu}}",
+          "Black Hawks also served through the wars in Afghanistan and Iraq. On 2 May 2011, highly modified low-noise H-60s carried the assault team into Osama bin Laden's compound in Abbottabad, Pakistan. One crash-landed during the raid and was destroyed by the team, and the wreckage showed extra tail rotor blades and other noise-reduction changes. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Variants & Exports",
+        "paragraphs": [
+          "The H-60 airframe has been adapted for every branch of the U.S. military. The Army's 160th Special Operations Aviation Regiment flies MH-60L special operations models, including the Direct Action Penetrator gunship. The Air Force flies the HH-60G Pave Hawk for combat search and rescue, at a unit cost of $10.2 million, against $5.9 million for the Army's UH-60L. The Navy's SH-60 Seahawk family and the Coast Guard's MH-60 Jayhawk are derived from the same design. {{ref:wiki}}",
+          "Export aircraft carry Sikorsky's S-70 designation. Australia ordered 39 S-70A-9s in 1986 and 1987, retired them in 2021 after five had been lost, and ordered 40 UH-60Ms in 2023. Mitsubishi builds UH-60J and UH-60JA variants for Japan under licence, the United States approved 18 UH-60Ms for Mexico in 2014, and Sikorsky's Polish subsidiary PZL Mielec builds the S-70i, of which Poland ordered about 32 in 2023. Newer UH-60M export customers include Austria, Brazil, Croatia and Greece. {{ref:armyrec-spec}} In February 2023 Ukraine's military intelligence directorate released video of at least two UH-60s in Ukrainian markings. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Accidents & Safety",
+        "paragraphs": [
+          "On 14 April 1994 two U.S. Air Force F-15s misidentified two Army UH-60s over northern Iraq as Iraqi Mi-24 Hind helicopters and shot both down during Operation Provide Comfort. All 26 people aboard were killed, including American, British, French, Turkish and Kurdish personnel. Investigations found failures in identification procedures, IFF equipment, communication between units and the F-15 pilots' helicopter recognition training. {{ref:provide-comfort}} On 29 March 2023 two HH-60 Black Hawks of the 101st Airborne Division collided during a training mission near Fort Campbell, Kentucky, killing all nine soldiers aboard. {{ref:campbell}}",
+          "On 29 January 2025 an Army UH-60L collided with American Airlines Flight 5342, a CRJ700 operated by PSA Airlines, over the Potomac River in Washington. The helicopter, callsign PAT25 from the 12th Aviation Battalion at Fort Belvoir, was flying an annual night-vision goggle check ride on a route limited to 200 ft, and its radio altimeter read 278 ft at impact. All 64 people on the airliner and the three soldiers on the helicopter were killed. On 31 January the FAA restricted helicopter routes 1 and 4 near the airport to emergency flights only. {{ref:potomac}} At a board meeting on 27 January 2026 the NTSB adopted 74 findings and 50 safety recommendations, blaming systemic failures that included FAA helicopter route design, weak safety oversight, missing collision-avoidance technology and gaps in Army safety management. NTSB chairwoman Jennifer Homendy said the conditions for the accident had been in place long before the night of the collision. {{ref:ntsb}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "In January 2025 the Army had 931 UH-60Ms and about 800 UH-60Ls. {{ref:armyrecognition}} The tenth multiyear production contract, announced in 2022, was worth about $2.3 billion for 120 Army aircraft, with options for 135 more, and runs until 2027. At that time the Army's H-60M procurement objective was 1,375 aircraft. {{ref:army-2022}} In September 2026 the Army ordered 16 more UH-60Ms for about $234 million for delivery by mid-2028, and Sikorsky has said the next agreement could cover up to 150 helicopters. {{ref:armyrecognition}} {{ref:zona}}",
+          "The Army picked Bell's V-280 Valor tiltrotor in December 2022 for its Future Long-Range Assault Aircraft programme, the Army's long-term successor to the Black Hawk, which is planned to enter service by 2030. {{ref:wiki}} {{ref:zona}} In December 2025 the Army asked industry for proposals for a UH-60M Modernization and Sustainment Program to keep the helicopter flying well beyond 2050, and in January 2025 Sikorsky ran 3,000 shp GE T901 engines on a UH-60M for the first time. {{ref:army-2025}} {{ref:armyrecognition}} Sikorsky has also been developing autonomous flight for the type: an optionally piloted Black Hawk first flew on 11 March 2014, and on 5 February 2022 a UH-60A fitted with Sikorsky's MATRIX system flew for 30 minutes over Fort Campbell with nobody aboard, under DARPA's ALIAS programme. {{ref:wiki}} {{ref:darpa}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Sikorsky UH-60 Black Hawk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk"
+    },
+    {
+      "id": "army-2025",
+      "name": "Army Seeks Industry Input on Black Hawk Modernization and Sustainment Program",
+      "publisher": "U.S. Army",
+      "url": "https://www.army.mil/article/289724/army_seeks_industry_input_on_black_hawk_modernization_and_sustainment_program"
+    },
+    {
+      "id": "sikorsky",
+      "name": "Sikorsky S-70A: UH-60M Black Hawk Family",
+      "publisher": "Igor I. Sikorsky Historical Archives",
+      "url": "https://sikorskyarchives.com/home/sikorsky-product-history/helicopter-innovation-era/sikorsky-s-70a-uh-60m-black-hawk-family/"
+    },
+    {
+      "id": "mogadishu",
+      "name": "Battle of Mogadishu (1993)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mogadishu_(1993)"
+    },
+    {
+      "id": "provide-comfort",
+      "name": "1994 Black Hawk shootdown incident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1994_Black_Hawk_shootdown_incident"
+    },
+    {
+      "id": "ntsb",
+      "name": "Systemic Failures Led to Midair Collision Over Potomac River in Washington",
+      "publisher": "NTSB",
+      "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20260127.aspx"
+    },
+    {
+      "id": "armyrecognition",
+      "name": "US Army orders 16 new UH-60M Black Hawk helicopters from Sikorsky in $234 million deal",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/us-army-sikorsky-uh-60m-black-hawk-contract-september-2026"
+    },
+    {
+      "id": "army-2022",
+      "name": "Army Signs Multiyear Production Contract For Black Hawk Helicopters",
+      "publisher": "U.S. Army",
+      "url": "https://www.army.mil/article/257955/army_signs_multiyear_production_contract_for_black_hawk_helicopters"
+    },
+    {
+      "id": "zona",
+      "name": "The U.S. Army orders the production of more UH-60M Black Hawk helicopters for $234 million",
+      "publisher": "Zona Militar",
+      "url": "https://www.zona-militar.com/en/2026/09/21/the-u-s-army-orders-the-production-of-more-uh-60m-black-hawk-helicopters-for-234-million/"
+    },
+    {
+      "id": "campbell",
+      "name": "2023 Fort Campbell mid-air collision",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2023_Fort_Campbell_mid-air_collision"
+    },
+    {
+      "id": "darpa",
+      "name": "ALIAS equipped Black Hawk helicopter completes first uninhabited flight",
+      "publisher": "DARPA",
+      "url": "https://www.darpa.mil/news/2022/alias-flight"
+    },
+    {
+      "id": "armyrec-spec",
+      "name": "UH-60M Black Hawk",
+      "publisher": "Army Recognition",
+      "url": "https://www.armyrecognition.com/military-products/air/helicopters/transport-helicopters/uh-60m-black-hawk"
+    },
+    {
+      "id": "potomac",
+      "name": "2025 Potomac River mid-air collision",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_Potomac_River_mid-air_collision"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "NTSB Aircraft Accident Report: Midair Collision over the Potomac River",
+      "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AIR2602.pdf"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1974-10-17",
+      "title": "First flight of the YUH-60A",
+      "tag": "First flight",
+      "summary": "Sikorsky's YUH-60A prototype flew for the first time, ahead of the UTTAS fly-off against the Boeing Vertol YUH-61A.",
+      "source": "https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk"
+    },
+    {
+      "date": "1991-02-27",
+      "title": "Two UH-60s shot down in the Gulf War",
+      "tag": "Shot down",
+      "summary": "Two Army Black Hawks, 89-26214 and 78-23015, were shot down on 27 February 1991.",
+      "source": "https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk"
+    },
+    {
+      "date": "1993-10-03",
+      "title": "Two MH-60s shot down in Mogadishu",
+      "tag": "Shot down",
+      "summary": "Super Six-One and Super Six-Four were brought down by RPG-7 fire during the Battle of Mogadishu. Both pilots of Super Six-One were killed and Michael Durant, pilot of Super Six-Four, was captured. Eighteen Americans died in the battle.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Mogadishu_(1993)"
+    },
+    {
+      "date": "1994-04-14",
+      "title": "Friendly-fire shootdown over northern Iraq",
+      "tag": "Friendly fire",
+      "summary": "Two U.S. Air Force F-15s mistook two Army UH-60s for Iraqi Mi-24s and shot both down during Operation Provide Comfort, killing all 26 people aboard.",
+      "fatalities": 26,
+      "source": "https://en.wikipedia.org/wiki/1994_Black_Hawk_shootdown_incident"
+    },
+    {
+      "date": "2011-05-02",
+      "title": "Modified H-60 lost in the Abbottabad raid",
+      "tag": "Crash landing",
+      "summary": "A highly modified, low-noise H-60 crash-landed inside Osama bin Laden's compound during the raid and was destroyed by the assault team before it left.",
+      "source": "https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk"
+    },
+    {
+      "date": "2022-02-05",
+      "title": "First Black Hawk flight with nobody aboard",
+      "tag": "Milestone",
+      "summary": "A UH-60A fitted with Sikorsky's MATRIX autonomy system flew for 30 minutes over Fort Campbell, Kentucky, with no crew, as part of DARPA's ALIAS programme.",
+      "source": "https://www.darpa.mil/news/2022/alias-flight"
+    },
+    {
+      "date": "2023-03-29",
+      "title": "Two HH-60s collide near Fort Campbell",
+      "tag": "Mid-air collision",
+      "summary": "Two 101st Airborne Division HH-60 Black Hawks collided during a training mission in Trigg County, Kentucky, killing all nine soldiers aboard.",
+      "fatalities": 9,
+      "source": "https://en.wikipedia.org/wiki/2023_Fort_Campbell_mid-air_collision"
+    },
+    {
+      "date": "2025-01-29",
+      "title": "Potomac River mid-air collision",
+      "tag": "Mid-air collision",
+      "summary": "An Army UH-60L collided with PSA Airlines' CRJ700 operating American Airlines Flight 5342 over the Potomac River in Washington. The helicopter, callsign PAT25 from the 12th Aviation Battalion at Fort Belvoir, was flying an annual night-vision goggle check ride on a route limited to 200 ft, and its radio altimeter read 278 ft at impact. All 64 people on the airliner and the three soldiers on the helicopter were killed. On 31 January the FAA restricted helicopter routes 1 and 4 near the airport to emergency flights only. {{ref:potomac}} The NTSB blamed systemic failures by the FAA and the Army.",
+      "fatalities": 67,
+      "source": "https://www.ntsb.gov/news/press-releases/Pages/NR20260127.aspx"
+    }
+  ]
+}
