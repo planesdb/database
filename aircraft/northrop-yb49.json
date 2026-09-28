@@ -1,0 +1,286 @@
+{
+  "name": "YB-49",
+  "fullName": "Northrop YB-49",
+  "manufacturer": "Northrop Aircraft",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Jet Flying-Wing Bomber Prototype",
+  "tagline": "The Northrop YB-49 is an American eight-jet flying-wing bomber prototype, converted from two YB-35 piston-engined airframes for the U.S. Air Force. It first flew on 21 October 1947, but one of the two broke up in flight in June 1948, killing Capt. Glen Edwards and four others, and the programme was cancelled in 1950.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Edwards Air Force Base is named after Capt. Glen Edwards, co-pilot of the YB-49 that crashed on 5 June 1948.",
+    "On 9 February 1949 a YB-49 flew from Muroc to Andrews Air Force Base near Washington, D.C. in 4 hours 25 minutes.",
+    "In bombing tests it tended to 'hunt' in yaw, which degraded accuracy and forced very long bomb runs.",
+    "On one flight a YB-49 stayed above 40,000 ft for 6.5 hours.",
+    "Its 172 ft wingspan is the same as that of the Northrop B-2 Spirit.",
+    "In 1979 Jack Northrop said the Flying Wing contracts were cancelled because his company refused to merge with Convair."
+  ],
+  "specifications": {
+    "specificationsNote": "Speed, range, ceiling and maximum weight are from the National Museum of the U.S. Air Force; the range is with a 10,000 lb bombload. Wikipedia gives 493 mph, a 365 mph cruise, a 45,700 ft ceiling and a 193,938 lb maximum takeoff weight. The empty weight is Wikipedia's figure.",
+    "maxSpeed": {
+      "mph": 495,
+      "text": "~430 kn (~495 mph / 797 km/h)"
+    },
+    "cruiseSpeed": "~420 mph (676 km/h)",
+    "range": {
+      "miles": 4000,
+      "text": "4,000 mi (6,437 km)"
+    },
+    "serviceCeiling": {
+      "ft": 42000,
+      "text": "42,000 ft (12,802 m)"
+    },
+    "wingspan": {
+      "ft": 172,
+      "text": "172 ft (52.43 m)"
+    },
+    "length": {
+      "ft": 53,
+      "text": "53 ft 1 in (16.18 m)"
+    },
+    "height": {
+      "ft": 15,
+      "text": "15 ft 2 in (4.62 m)"
+    },
+    "weight": "empty: 88,442 lb (40,117 kg); MTOW: ~213,500 lb (96,842 kg)",
+    "engines": "8 × Allison J35 turbojets, 4,000 lbf thrust each",
+    "crew": "6",
+    "capacity": "Provision for a relief crew and two more gunners",
+    "armament": "Up to 16,000 lb (7,257 kg) of bombs; four .50 in machine guns in a rotating tail cone were specified",
+    "firstFlight": {
+      "date": "1947-10-21",
+      "year": 1947
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1951-04-26",
+    "numberBuilt": 3,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the YB-49s were conversions of existing YB-35 airframes, and the RB-49A production order was cancelled",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "YB-49 (42-102367)",
+      "desc": "The first conversion, flown by Max Stanley from Hawthorne to Muroc on 21 October 1947. It replaced the YB-35's four radials with eight Allison J35 turbojets and added four small vertical fins and air dams on the wings. It flew from Muroc to Andrews Air Force Base in 4 hours 25 minutes on 9 February 1949 and was destroyed in a taxi accident on 15 March 1950."
+    },
+    {
+      "code": "YB-49 (42-102368)",
+      "desc": "The second conversion, first flown on 13 January 1948. On 5 June 1948, during stall recovery tests on its 25th flight, its outer wing panels tore off and it crashed about 10 miles northwest of Muroc. All five aboard were killed, including the pilot, Maj. Daniel Forbes Jr., and the co-pilot, Capt. Glen Edwards."
+    },
+    {
+      "code": "RB-49A (cancelled)",
+      "desc": "The reconnaissance version the Air Force ordered into production in June 1948, the same month the second YB-49 crashed. The programme was cancelled on 15 March 1950, and two months later Air Force Secretary Stuart Symington cancelled all remaining Flying Wing contracts and ordered the surviving airframes destroyed."
+    },
+    {
+      "code": "YRB-49A",
+      "desc": "A YB-35 airframe converted for reconnaissance with six Allison J35-A-19 turbojets of 5,000 lbf each, two of them in underwing pods. It first flew on 4 May 1950 and made 13 flights before testing ended on 26 April 1951. It was scrapped on 1 December 1953."
+    },
+    {
+      "code": "YB-49B (not completed)",
+      "desc": "Seven more YB-35 airframes were earmarked for conversion to jet power as YB-49Bs. The conversions were never finished, and the airframes went when Stuart Symington ordered the remaining Flying Wings destroyed after the 1950 cancellation. No YB-49 or YB-49B survives."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Development & Test Operator",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "2 YB-49, 1 YRB-49A",
+      "homeBase": "Muroc (Edwards from 1949), California"
+    },
+    {
+      "name": "Northrop Aircraft",
+      "role": "Manufacturer & Flight Test",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "3 conversions",
+      "homeBase": "Hawthorne, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Not trackable. Both YB-49s were destroyed, one in a 1948 crash and one in a 1950 taxi accident, and the YRB-49A was scrapped in 1953, so none survives. Edwards Air Force Base, where the programme was flown, is named after the co-pilot killed in the 1948 crash."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, the National Museum of the U.S. Air Force, Edwards Air Force Base history, Air & Space Forces Magazine and This Day in Aviation.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "B-49",
+    "RB-49A",
+    "YRB-49A",
+    "flying wing",
+    "Northrop Flying Wing",
+    "Glen Edwards",
+    "Jack Northrop"
+  ],
+  "article": {
+    "overview": [
+      "The Northrop YB-49 is an American eight-jet flying-wing bomber prototype, converted by Northrop from two YB-35 piston-engined airframes for the U.S. Air Force. The first YB-49 flew on 21 October 1947. One of the two broke up in flight on 5 June 1948, killing all five aboard, and the other was destroyed in a taxi accident in March 1950, the month the programme was cancelled. {{ref:nmusaf-yb49}} {{ref:wiki-yb49}}",
+      "A third YB-35 airframe flew as the six-jet YRB-49A reconnaissance aircraft in 1950 and 1951 and was scrapped in 1953, so none survives. Flight test data from the YB-49 later informed Northrop's B-2 Spirit, which has the same 172 ft wingspan. {{ref:wiki-yb49}}"
+    ],
+    "sections": [
+      {
+        "heading": "Jet Conversion",
+        "paragraphs": [
+          "In June 1945 the Army Air Forces approved replacing the four Pratt & Whitney R-4360 radials and contra-rotating propellers of two YB-35s with eight Allison TG-180 turbojets, later designated J35. The conversion took two years. Northrop added four small vertical fins, two on each wing, and air dams on the wing surfaces. {{ref:nmusaf-yb49}}",
+          "Chief test pilot Max Stanley flew the first YB-49, 42-102367, from Hawthorne to Muroc on 21 October 1947, a 34-minute flight. The second, 42-102368, followed on 13 January 1948. Jet power raised the top speed to about 495 mph and the ceiling to 42,000 ft, against 391 mph and 39,700 ft for the piston-engined YB-35, but range with a 10,000 lb bombload was 4,000 miles, against 7,500 miles for the YB-35. {{ref:tdia-flying-wing}} {{ref:nmusaf-yb49}} {{ref:wiki-yb35}}"
+        ]
+      },
+      {
+        "heading": "Design & Bombing Trials",
+        "paragraphs": [
+          "The YB-49 kept the YB-35's 172 ft (52.43 m) span, 53 ft 1 in (16.18 m) length and 4,000 sq ft (370 sq m) wing, and stood 15 ft 2 in (4.62 m) high. Each J35 gave 4,000 lbf of thrust. The aircraft weighed 88,442 lb (40,117 kg) empty and about 213,500 lb (96,842 kg) at maximum weight, carried a crew of six with room for a relief crew and two more gunners, and could lift 16,000 lb (7,257 kg) of bombs. {{ref:nmusaf-yb49}} {{ref:wiki-yb49}}",
+          "On one flight a YB-49 stayed above 40,000 ft for 6.5 hours, but the switch to jets roughly halved the effective range of the original long-range design. In effect it became a medium-range bomber. Bombing was its other weakness. In target tests it tended to 'hunt' in yaw after turns and in disturbed air, which degraded accuracy, and bomb runs had to be very long to let the directional oscillations die down. Northrop tried an autopilot with yaw damping to correct it. Robert Cardenas was among the Air Force pilots who flew the type alongside Northrop's chief test pilot, Max Stanley. {{ref:wiki-yb49}}"
+        ]
+      },
+      {
+        "heading": "The June 1948 Crash",
+        "paragraphs": [
+          "On 5 June 1948 the second YB-49 went out of control on its 25th test flight and crashed about 10 miles northwest of Muroc Air Force Base. It was performing stall recovery tests when its outer wing panels tore off. All five aboard were killed: the pilot, Maj. Daniel Forbes Jr., the co-pilot, Capt. Glen Edwards, 1st Lt. Edward Swindell and the civilian engineers Charles LaFountain and Clare Lesser. {{ref:edwards-history}} {{ref:tdia-flying-wing}}",
+          "Edwards had flown 50 combat missions in A-20s in North Africa and, as a test pilot at Muroc, had flown the XB-42 across the United States at 433.6 mph in 1945. Muroc was renamed Edwards Air Force Base in his honour in December 1949, and Topeka Air Force Base became Forbes Air Force Base after the pilot. {{ref:afmag-edwards}} {{ref:tdia-flying-wing}}"
+        ]
+      },
+      {
+        "heading": "Transcontinental Flight & the RB-49A",
+        "paragraphs": [
+          "In June 1948 the Air Force ordered the type into production as the RB-49A reconnaissance aircraft, and in September it contracted for 30 of them. In January 1949 an Air Materiel Command telegram halted all work on the order except testing. On 9 February 1949 the first YB-49 flew from Muroc to Andrews Air Force Base near Washington, D.C. in 4 hours 25 minutes and was shown at an air show there. President Truman is reported to have said 'This looks pretty damn good to me. I think we ought to buy some', and he ordered a flypast along Pennsylvania Avenue at rooftop level. {{ref:wiki-yb49}} {{ref:afmag-northrop}}",
+          "On 15 March 1950 the first YB-49 was destroyed during a high-speed taxi test when its nose gear began to vibrate severely and collapsed, and the aircraft broke in two and burned. The reconnaissance programme was formally cancelled the same day. The one YRB-49A, a YB-35 airframe with six J35s including two in underwing pods, first flew on 4 May 1950, and its testing ended on 26 April 1951 after 13 flights. It was scrapped on 1 December 1953. {{ref:nmusaf-yb49}} {{ref:wiki-yb49}}"
+        ]
+      },
+      {
+        "heading": "Cancellation & the Symington Dispute",
+        "paragraphs": [
+          "Two months after the RB-49A was cancelled, Air Force Secretary Stuart Symington cancelled all remaining Flying Wing contracts without explanation. In a 1979 videotaped interview Jack Northrop said the contracts had been cancelled because his company refused to merge with Convair, and recalled Symington telling him: 'You'll be goddamned sorry if you don't.' Symington became president of Convair soon after leaving government. The flying wings also had well-documented design problems, and Convair's competing B-36 had strong support from the Air Force and the Texas congressional delegation, who wanted work for its Fort Worth factory. {{ref:wiki-yb49}} {{ref:wiki-jack-northrop}} {{ref:wiki-yb35}}",
+          "Bud Baker's research, summarised by Air & Space Forces Magazine, found problems with Northrop's account: the July 1948 meeting had been requested by Northrop, there had never been a flyoff against the B-36, and the contract at stake was for 30 reconnaissance aircraft rather than bombers. Symington denied making threats. He said the postwar industry had tremendous overcapacity, that a board of senior officers had reviewed the cancellations, and that North American, not Northrop, took the biggest losses in the cuts. The historian Richard Hallion noted that the B-36 could carry the 10,000 lb atomic bomb of the time and the YB-49 could not. {{ref:afmag-northrop}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The flying-wing bomber stayed dormant for about 40 years, until the Northrop B-2 Spirit, whose designers drew on YB-49 flight test data and which has the same 172 ft span. Ben Rich of Lockheed later said both the Lockheed and Northrop teams in the Advanced Technology Bomber competition had arrived at flying-wing shapes independently. {{ref:nmusaf-yb49}} {{ref:wiki-yb49}} {{ref:afmag-northrop}}",
+          "None of the Flying Wing bombers survives: after the cancellation the remaining airframes were cut up and melted down with portable smelters. Jack Northrop was cleared to see the B-2 design shortly before his death in February 1981 and wrote: 'Now I know why God has kept me alive for 25 years.' {{ref:nmusaf-yb49}} {{ref:wiki-yb49}} {{ref:wiki-jack-northrop}} {{ref:afmag-northrop}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nmusaf-yb49",
+      "name": "Northrop YB-49 fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858861/northrop-yb-49/"
+    },
+    {
+      "id": "wiki-yb49",
+      "name": "Northrop YB-49",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YB-49"
+    },
+    {
+      "id": "tdia-flying-wing",
+      "name": "Flying Wing (tag archive)",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/tag/flying-wing/"
+    },
+    {
+      "id": "wiki-yb35",
+      "name": "Northrop YB-35",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YB-35"
+    },
+    {
+      "id": "edwards-history",
+      "name": "This week in Edwards history",
+      "publisher": "Edwards Air Force Base",
+      "url": "https://www.edwards.af.mil/News/Article/1203091/this-week-in-edwards-history/"
+    },
+    {
+      "id": "afmag-edwards",
+      "name": "Namesakes: Glen Edwards",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/namesakes-glen-edwards/"
+    },
+    {
+      "id": "afmag-northrop",
+      "name": "Jack Northrop and the Flying Wing",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/jack-northrop-and-the-flying-wing/"
+    },
+    {
+      "id": "wiki-jack-northrop",
+      "name": "Jack Northrop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_Northrop"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Northrop YB-49 - National Museum of the U.S. Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858861/northrop-yb-49/"
+    },
+    {
+      "name": "Northrop YB-49 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YB-49"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1947-10-21",
+      "title": "YB-49 first flight",
+      "tag": "First flight",
+      "summary": "Max Stanley flew the first YB-49, 42-102367, from Hawthorne to Muroc in 34 minutes, after a two-year conversion from a YB-35.",
+      "source": "https://www.thisdayinaviation.com/tag/flying-wing/"
+    },
+    {
+      "date": "1948-06-05",
+      "title": "Second YB-49 breaks up during stall tests",
+      "tag": "Structural failure",
+      "summary": "42-102368 went out of control on its 25th flight and crashed about 10 miles northwest of Muroc after its outer wing panels tore off during stall recovery tests. Maj. Daniel Forbes Jr., Capt. Glen Edwards, 1st Lt. Edward Swindell and two civilian engineers were killed. Muroc was renamed Edwards Air Force Base in December 1949.",
+      "fatalities": 5,
+      "source": "https://www.edwards.af.mil/News/Article/1203091/this-week-in-edwards-history/"
+    },
+    {
+      "date": "1949-02-09",
+      "title": "Muroc to Andrews in 4 hours 25 minutes",
+      "tag": "Record flight",
+      "summary": "The first YB-49 flew from California to Andrews Air Force Base near Washington, D.C., after which President Truman ordered a rooftop-level flypast of Pennsylvania Avenue.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_YB-49"
+    },
+    {
+      "date": "1950-03-15",
+      "title": "First YB-49 destroyed in taxi accident",
+      "tag": "Ground accident",
+      "summary": "During a high-speed taxi test the nose landing gear began to vibrate severely and collapsed. The aircraft broke in two and was destroyed by fire, and the RB-49A programme was cancelled the same day.",
+      "source": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858861/northrop-yb-49/"
+    },
+    {
+      "date": "1950-05-04",
+      "title": "YRB-49A first flight",
+      "tag": "First flight",
+      "summary": "The six-jet reconnaissance conversion of a YB-35 flew for the first time. It made 13 flights before testing ended on 26 April 1951.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_YB-49"
+    },
+    {
+      "date": "1953-12-01",
+      "title": "YRB-49A scrapped",
+      "tag": "Retirement",
+      "summary": "The only YRB-49A was scrapped. With both YB-49s already destroyed and the piston-engined aircraft scrapped in 1949, no airframe from the programme remained.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_YB-49"
+    }
+  ]
+}

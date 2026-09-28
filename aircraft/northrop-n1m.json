@@ -1,0 +1,254 @@
+{
+  "name": "N-1M",
+  "fullName": "Northrop N-1M",
+  "manufacturer": "Northrop Aircraft",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Experimental Flying Wing",
+  "tagline": "The Northrop N-1M is an American single-seat, twin-engine experimental flying wing built by Northrop in 1939-40 to prove Jack Northrop's all-wing concept. Nicknamed the 'Jeep', it first flew on 3 July 1940 and was the first entirely all-wing aircraft designed, built and flown in the United States.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Its first flight on 3 July 1940 was unplanned: it bounced into the air during a high-speed taxi run at Baker Dry Lake.",
+    "Ground crews could change its sweep, dihedral, wingtip angle and centre of gravity between flights.",
+    "Its original 65 hp Lycoming engines left it overweight and underpowered, and they were replaced by 120 hp Franklins.",
+    "It made more than 200 flights before Northrop handed it over as a museum piece in November 1943.",
+    "The wing was built mostly of glued, laminated wood and the aircraft was painted yellow."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are from Wikipedia. The National Air and Space Museum gives rounder figures of 38 ft span, 17 ft length, 5 ft height and 4,000 lb gross weight. No cruise speed or empty weight has been published for the N-1M.",
+    "maxSpeed": {
+      "mph": 200,
+      "text": "174 kn (200 mph / 322 km/h)"
+    },
+    "cruiseSpeed": "Not published",
+    "range": {
+      "miles": 300,
+      "text": "300 mi (483 km)"
+    },
+    "serviceCeiling": {
+      "ft": 4000,
+      "text": "4,000 ft (1,219 m)"
+    },
+    "wingspan": {
+      "ft": 39,
+      "text": "38 ft 8 in (11.79 m)"
+    },
+    "length": {
+      "ft": 18,
+      "text": "17 ft 11 in (5.46 m)"
+    },
+    "height": {
+      "ft": 5,
+      "text": "4 ft 11 in (1.50 m)"
+    },
+    "weight": "empty: not published; MTOW: 3,900 lb (1,769 kg)",
+    "engines": "2 × Franklin 6AC264F2 six-cylinder piston engines, 120 hp each (originally 2 × 65 hp Lycoming O-145)",
+    "crew": "1 (pilot)",
+    "capacity": "None - single-seat research aircraft",
+    "firstFlight": {
+      "date": "1940-07-03",
+      "year": 1940
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1943-11-08",
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - a one-off research aircraft built by Northrop, and no cost was ever published",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "N-1M (Lycoming O-145)",
+      "desc": "The aircraft as first flown in July 1940, with two 65 hp Lycoming O-145 four-cylinder engines. In this form it was overweight and underpowered and at first could fly no higher than about five feet. Vance Breese and then Moye Stephens tested it, and Stephens had made about 30 flights by the end of 1941."
+    },
+    {
+      "code": "N-1M (Franklin 6AC264F2)",
+      "desc": "The same airframe re-engined during testing with two 120 hp Franklin 6AC264F2 six-cylinder engines. With changes to the elevon trailing edges proposed by Theodore von Kármán and adjustments to its wing settings, it went on to make more than 200 flights in all. This is the configuration the Smithsonian restored it to between 1979 and 1983."
+    },
+    {
+      "code": "N-9M (follow-on)",
+      "desc": "Not a variant of the N-1M but its direct successor: four one-third-scale flying models of the XB-35 bomber, built of wood, laminated plywood and welded steel tube with two 290 hp Menasco engines. The first flew on 27 December 1942. One crashed in 1943, killing its pilot, and the last, the N-9MB, flew at air shows until it crashed in 2019."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Northrop Aircraft",
+      "role": "Manufacturer & Test Operator",
+      "status": "Retired",
+      "since": "1940",
+      "fleetSize": "1",
+      "homeBase": "Hawthorne, California"
+    },
+    {
+      "name": "United States Army Air Forces",
+      "role": "Museum Piece (not flown)",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "1",
+      "homeBase": "Freeman Field, Indiana and Park Ridge, Illinois (storage)"
+    }
+  ],
+  "survivors": {
+    "intro": "The only N-1M built survives. It passed to the Smithsonian after 1950 and was restored between May 1979 and March 1983.",
+    "airframes": [
+      {
+        "name": "N-1M 'Jeep'",
+        "location": "Smithsonian National Air and Space Museum - Steven F. Udvar-Hazy Center",
+        "place": "Chantilly, Virginia, United States",
+        "url": "https://airandspace.si.edu/collection-objects/northrop-n-1m/nasm_A19600302000",
+        "note": "The sole example, restored at the Paul Garber Facility to the configuration in which it last flew, in its yellow finish.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Not trackable. The only N-1M last flew in the early 1940s and is now a static exhibit, so it never appears on a live tracker. It can be seen at the Smithsonian's Steven F. Udvar-Hazy Center in Chantilly, Virginia."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia and the Smithsonian National Air and Space Museum.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Jeep",
+    "Northrop Jeep",
+    "N1M",
+    "flying wing",
+    "Jack Northrop",
+    "all-wing"
+  ],
+  "article": {
+    "overview": [
+      "The Northrop N-1M is an American single-seat, twin-engine experimental flying wing, built by Northrop Aircraft as a testbed for Jack Northrop's all-wing designs. Nicknamed the 'Jeep', it first flew on 3 July 1940 at Baker Dry Lake, California. It was the first entirely all-wing aircraft designed, built and flown in the United States. {{ref:wiki-n1m}} {{ref:nasm-n1m}}",
+      "The N-1M made more than 200 flights, and its results fed into the N-9M scale test aircraft and the full-size XB-35 bomber. Northrop handed it to the Army Air Forces as a museum piece in November 1943. After restoration between 1979 and 1983 it is on display at the Smithsonian's Steven F. Udvar-Hazy Center. {{ref:nasm-n1m}} {{ref:wiki-jack-northrop}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins",
+        "paragraphs": [
+          "Jack Northrop's interest in the flying wing went back to 1929, when his Avion Corporation built an all-metal monoplane with its engine inside the wing structure, the first step towards an all-wing design. He had to sell that company in 1930. By 1939 his earlier Northrop Corporation had become a Douglas subsidiary, and he set up a new, independent company in Hawthorne, California, where he concentrated on the flying wing. {{ref:wiki-jack-northrop}}",
+          "Northrop believed an aircraft with no fuselage or tail would be more aerodynamically efficient than a conventional one. The N-1M was built in 1939 and 1940 as a flying testbed to show that a practical flying wing could be made to work The reduced-scale design tested in 1940 eventually led to the full-size XB-35 bomber. {{ref:nasm-n1m}} {{ref:wiki-n1m}} {{ref:wiki-jack-northrop}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The wing was built mostly of specially laminated layers of glued wood and covered in thin plywood, joined to a centre section of tubular steel, and the aircraft was painted yellow. It spanned 38 ft 8 in (11.79 m) with a wing area of 350 sq ft, was 17 ft 11 in (5.46 m) long and 4 ft 11 in (1.50 m) high, and weighed 3,900 lb (1,769 kg) at gross weight. Its published top speed is 200 mph, with a range of 300 miles and a ceiling of 4,000 ft. {{ref:wiki-n1m}} {{ref:nasm-n1m}}",
+          "The N-1M was built to be reconfigured, so that different layouts could be flown without building a new aircraft. Technicians could change its centre of gravity, the dihedral and sweep of the wing, and the position of the wingtips. It first flew with two 65 hp Lycoming O-145 four-cylinder engines. They proved too weak, and during testing Northrop replaced them with two 120 hp Franklin 6AC264F2 six-cylinder engines. {{ref:nasm-n1m}} {{ref:wiki-n1m}}"
+        ]
+      },
+      {
+        "heading": "Flight Testing",
+        "paragraphs": [
+          "Vance Breese made the first flight on 3 July 1940 at Baker Dry Lake, when the N-1M bounced into the air unexpectedly during a high-speed taxi run. In its first form it was overweight and underpowered and could fly no higher than about five feet. Breese then left to join the team developing the North American B-25 bomber, and Moye Stephens took over the test flying. {{ref:wiki-n1m}} {{ref:nasm-n1m}}",
+          "Stephens had made about 30 flights by the end of 1941, and by November that year he had found a rolling oscillation, a form of Dutch roll, which was managed by changing the wing settings. Theodore von Kármán proposed changes to the trailing edges of the elevons to solve the early control problems. John Myers replaced Stephens in May 1942, and the N-1M went on to make more than 200 flights. {{ref:nasm-n1m}} {{ref:wiki-n1m}}"
+        ]
+      },
+      {
+        "heading": "From Testbed to Bomber",
+        "paragraphs": [
+          "On 22 November 1941, with the N-1M still flying, the Army Air Forces signed a development contract with Northrop for a full-size flying-wing bomber, the XB-35. To test that design at smaller scale, Northrop built four N-9Ms, one-third-scale models of the XB-35 made of wood, laminated plywood and welded steel tube and powered by two 290 hp Menasco engines. The first flew on 27 December 1942 with John Myers at the controls. {{ref:wiki-yb35}} {{ref:wiki-n9m}}",
+          "The first N-9M crashed near Muroc on 19 May 1943 after about 22.5 flying hours, killing its pilot, Max Constant, who could not recover from a spin. The last of the four, the N-9MB, was restored by the Planes of Fame Air Museum in Chino, California and flown at air shows from 1993 until it crashed at Norco, California on 22 April 2019, killing the pilot, David Vopat. The full-size XB-35 first flew in 1946 and its jet-powered derivative, the YB-49, in 1947. {{ref:wiki-n9m}} {{ref:wiki-yb35}} {{ref:wiki-yb49}}"
+        ]
+      },
+      {
+        "heading": "Preservation",
+        "paragraphs": [
+          "Northrop formally transferred the N-1M to the Army Air Forces on 8 November 1943 as a museum piece for the planned Army Air Forces Museum. It was stored at Freeman Field, Indiana and later at Park Ridge, Illinois, and passed to the Smithsonian after the Korean War began in 1950. {{ref:nasm-n1m}}",
+          "Restoration at the Smithsonian's Paul Garber Facility began in May 1979 and was completed in March 1983, returning the aircraft to the configuration in which it last flew. The N-1M is displayed at the National Air and Space Museum's Steven F. Udvar-Hazy Center in Chantilly, Virginia. {{ref:nasm-n1m}} {{ref:wiki-n1m}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-n1m",
+      "name": "Northrop N-1M",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_N-1M"
+    },
+    {
+      "id": "nasm-n1m",
+      "name": "Northrop N-1M",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/northrop-n-1m/nasm_A19600302000"
+    },
+    {
+      "id": "wiki-jack-northrop",
+      "name": "Jack Northrop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_Northrop"
+    },
+    {
+      "id": "wiki-yb35",
+      "name": "Northrop YB-35",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YB-35"
+    },
+    {
+      "id": "wiki-n9m",
+      "name": "Northrop N-9M",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_N-9M"
+    },
+    {
+      "id": "wiki-yb49",
+      "name": "Northrop YB-49",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YB-49"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Northrop N-1M - National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/northrop-n-1m/nasm_A19600302000"
+    },
+    {
+      "name": "Northrop N-1M - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_N-1M"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1940-07-03",
+      "title": "Unplanned first flight at Baker Dry Lake",
+      "tag": "First flight",
+      "summary": "Vance Breese was carrying out a high-speed taxi run when the N-1M bounced into the air. It was the aircraft's first flight. With its original 65 hp Lycoming engines it was overweight and underpowered.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_N-1M"
+    },
+    {
+      "date": "1942-05-01",
+      "title": "John Myers takes over test flying",
+      "tag": "Test programme",
+      "summary": "Myers replaced Moye Stephens, who had made about 30 flights by the end of 1941 and found a rolling oscillation that was corrected by adjusting the wing. The N-1M eventually made more than 200 flights.",
+      "source": "https://airandspace.si.edu/collection-objects/northrop-n-1m/nasm_A19600302000"
+    },
+    {
+      "date": "1943-11-08",
+      "title": "Transferred to the Army Air Forces as a museum piece",
+      "tag": "Retirement",
+      "summary": "Northrop formally handed the N-1M to the Army Air Forces for its planned museum. It was stored at Freeman Field, Indiana and Park Ridge, Illinois before passing to the Smithsonian after 1950.",
+      "source": "https://airandspace.si.edu/collection-objects/northrop-n-1m/nasm_A19600302000"
+    },
+    {
+      "date": "1983-03-01",
+      "title": "Smithsonian restoration completed",
+      "tag": "Preservation",
+      "summary": "Work at the Paul Garber Facility, begun in May 1979, returned the N-1M to the configuration in which it last flew. It is now displayed at the Steven F. Udvar-Hazy Center.",
+      "source": "https://airandspace.si.edu/collection-objects/northrop-n-1m/nasm_A19600302000"
+    }
+  ]
+}

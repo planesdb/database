@@ -26,7 +26,7 @@
       "mph": 188,
       "text": "163 kn (188 mph / 302 km/h)"
     },
-    "cruiseSpeed": "143 mph (230 km/h) maximum cruise, 124 knots true",
+    "cruiseSpeed": "143 mph (230 km/h)",
     "range": {
       "miles": 737,
       "text": "737 mi (1,185 km, 640 nmi)"
@@ -59,8 +59,8 @@
     "retiredDate": null,
     "numberBuilt": 44000,
     "unitCost": {
-      "usd": null,
-      "text": "Not publicly disclosed - Textron Aviation does not publish a current list price for the 172S. A basic 172G listed at $12,450 in 1966, and the diesel 172JT-A launched at $435,000 in 2014",
+      "usd": 480000,
+      "text": "$480,000 in 2026 for a base model",
       "inflationText": null
     }
   },
@@ -100,7 +100,7 @@
       "role": "Flight Schools, Flying Clubs & Private Owners",
       "status": "In Service",
       "since": "1956",
-      "fleetSize": "More than 44,000 built by 2015, including 2,254 Reims-built F172s; 191 new 172S Skyhawks delivered in 2025",
+      "fleetSize": "44,000+ built by 2015",
       "homeBase": "Flight schools, clubs, private owners and patrol operators worldwide"
     },
     {
@@ -108,7 +108,7 @@
       "role": "Primary Trainer (T-41A / T-41C)",
       "status": "In Service",
       "since": "1965",
-      "fleetSize": "237 T-41As ordered in 1964 plus 52 T-41Cs for the Air Force Academy; four T-41s still in use at the Academy",
+      "fleetSize": "237 T-41A + 52 T-41C; 4 still at USAFA",
       "homeBase": "U.S. Air Force Academy, Colorado; T-41A training began at Big Spring, Texas"
     },
     {
@@ -116,7 +116,7 @@
       "role": "Surveillance, Escort & Training (historical)",
       "status": "Retired",
       "since": "1972",
-      "fleetSize": "9 Reims FR172H Rockets, flown for 47 years and 63,578 hours until October 2019",
+      "fleetSize": "9 FR172H (1972-2019)",
       "homeBase": "Ireland"
     },
     {
@@ -124,7 +124,7 @@
       "role": "Trainer (historical)",
       "status": "Retired",
       "since": "1969",
-      "fleetSize": "8 Cessna 172Ks, delivered in 1969 and retired in 1972",
+      "fleetSize": "8 172K (1969-1972)",
       "homeBase": "Singapore"
     },
     {
@@ -132,7 +132,7 @@
       "role": "Trainer & Utility",
       "status": "In Service",
       "since": "2007",
-      "fleetSize": "4 Cessna 172S delivered through U.S. Foreign Military Sales in February 2022, after a donated 172F in 2007 and a 172N in 2008",
+      "fleetSize": "4 172S (2022) + 2 earlier",
       "homeBase": "Philippine Navy aviation units"
     },
     {
@@ -140,8 +140,8 @@
       "role": "Trainers & Liaison (current and former)",
       "status": "In Service",
       "since": "1964",
-      "fleetSize": "The U.S. Army's 255 T-41Bs, 299 T-41Ds exported to air arms including Argentina, Colombia, Greece, Indonesia, Pakistan, the Philippines, South Korea and Turkey, and civil-standard 172s with the Royal Saudi Air Force (16 Reims-built), Ecuador, Bolivia, Guatemala and Madagascar",
-      "homeBase": "Military flying schools in the Americas, Europe, the Middle East and Asia"
+      "fleetSize": "255 T-41B (US Army), 299 T-41D exported, others",
+      "homeBase": "Air arms including Argentina, Bolivia, Colombia, Ecuador, Greece, Guatemala, Indonesia, Madagascar, Pakistan, the Philippines, Saudi Arabia (16 Reims-built), South Korea and Turkey"
     }
   ],
   "flightradar24": {
@@ -288,7 +288,6 @@
       "title": "Hacienda endurance flight begins",
       "tag": "Record flight",
       "summary": "Robert Timm and John Cook took off from McCarran Field, Las Vegas in the 172 N9172B and stayed airborne until 7 February 1959, a flight of 64 days, 22 hours, 19 minutes and 5 seconds covering about 150,000 miles. It raised money for the Damon Runyon Cancer Fund, and the aircraft is now displayed at Harry Reid International Airport.",
-      "fatalities": 0,
       "source": "https://en.wikipedia.org/wiki/Cessna_172"
     },
     {

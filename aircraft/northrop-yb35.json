@@ -1,0 +1,265 @@
+{
+  "name": "YB-35",
+  "fullName": "Northrop YB-35",
+  "manufacturer": "Northrop Aircraft",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Flying-Wing Heavy Bomber Prototype",
+  "tagline": "The Northrop YB-35 is an American four-engine, piston-powered flying-wing heavy bomber developed for the U.S. Army Air Forces in the 1940s. The XB-35 prototype first flew on 25 June 1946, but propeller and gearbox failures crippled the test programme, and every airframe had been scrapped or converted to jet power by 1949.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Its 172 ft (52.4 m) wingspan is the same as that of the Northrop B-2 Spirit.",
+    "The first XB-35 was grounded after 19 flights because of propeller vibration and gearbox failures, and the second after eight.",
+    "Only one of the 13 YB-35s ordered ever flew with piston engines, and it was scrapped on 20 July 1949.",
+    "Martin was to have built 200 B-35s, but the Army Air Forces cancelled that production contract before the war ended.",
+    "The design called for 20 .50 in machine guns in six turrets and a tail stinger, and a bombload of up to 52,200 lb.",
+    "An automotive-engine power unit fitted because of electrical problems restricted test flying to below 15,000 ft."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the XB-35/YB-35 with piston engines, from Wikipedia. This Day in Aviation gives a 51,200 lb maximum bombload and an 8,150-mile range with a relief crew aboard. The 391 mph top speed is at 35,000 ft. Fifteen airframes were ordered (two XB-35s and 13 YB-35s), not all of them completed, and only three flew with piston engines.",
+    "maxSpeed": {
+      "mph": 391,
+      "text": "340 kn (391 mph / 629 km/h)"
+    },
+    "cruiseSpeed": "240 mph (386 km/h)",
+    "range": {
+      "miles": 7500,
+      "text": "7,500 mi (12,070 km)"
+    },
+    "serviceCeiling": {
+      "ft": 39700,
+      "text": "39,700 ft (12,100 m)"
+    },
+    "wingspan": {
+      "ft": 172,
+      "text": "172 ft (52.43 m)"
+    },
+    "length": {
+      "ft": 53,
+      "text": "53 ft 1 in (16.18 m)"
+    },
+    "height": {
+      "ft": 20,
+      "text": "20 ft 3.5 in (6.18 m)"
+    },
+    "weight": "empty: 91,000 lb (41,277 kg); MTOW: 209,000 lb (94,801 kg)",
+    "engines": "4 × Pratt & Whitney R-4360 Wasp Major 28-cylinder radials, 3,000 hp each, driving pusher propellers",
+    "crew": "9",
+    "capacity": "Up to 52,200 lb (23,678 kg) of bombs",
+    "armament": "20 × .50 in M3 Browning machine guns in six turrets and a tail stinger (specified); up to 52,200 lb (23,678 kg) of bombs",
+    "firstFlight": {
+      "date": "1946-06-25",
+      "year": 1946
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1949",
+    "numberBuilt": 15,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price was published for the XB-35 and YB-35 test aircraft, and the B-35 never reached production",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "N-9M",
+      "desc": "Four one-third-scale flying models built to test the XB-35 layout and train pilots, made of wood, laminated plywood and welded steel tube with two 290 hp Menasco engines. The first flew on 27 December 1942 and crashed on 19 May 1943, killing Max Constant. The last, the N-9MB, flew at air shows from 1993 until it crashed in April 2019."
+    },
+    {
+      "code": "XB-35",
+      "desc": "Two full-size prototypes ordered on 22 November 1941 and 2 January 1942. The first, 42-13603, flew on 25 June 1946 with contra-rotating pusher propellers. Gearbox failures and drive-shaft vibration grounded it after 19 flights and the second after eight, and both were refitted with single-rotation four-blade propellers before being scrapped in August 1949."
+    },
+    {
+      "code": "YB-35",
+      "desc": "Thirteen service-test airframes ordered to follow the XB-35s. Only the first flew as a piston bomber, on 15 May 1948, and it was scrapped on 20 July 1949; the unfinished second airframe followed a month later. The other 11 were earmarked for conversion to jet power or as engine testbeds, most of which were never completed."
+    },
+    {
+      "code": "YB-49 / YRB-49A",
+      "desc": "Jet conversions of YB-35 airframes. Two became YB-49s with eight Allison J35 turbojets, approved in June 1945 and first flown on 21 October 1947. A third became the six-jet YRB-49A reconnaissance aircraft, which first flew on 4 May 1950, made 13 flights and was scrapped on 1 December 1953. The YB-49 has its own entry."
+    },
+    {
+      "code": "YB-49B / EB-35B (not completed)",
+      "desc": "Two conversion schemes that never flew. Seven YB-35 airframes were earmarked to become YB-49B jet bombers, but the work was never finished. The EB-35B was to have tested two T37 turboprops in a YB-35 airframe; it was cancelled and the engine programme passed to General Electric."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Development & Test Operator (USAAF until 1947)",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "2 XB-35, 13 YB-35 ordered",
+      "homeBase": "Muroc, California"
+    },
+    {
+      "name": "Northrop Aircraft",
+      "role": "Manufacturer & Flight Test",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "3 flown with piston engines",
+      "homeBase": "Hawthorne, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Not trackable. No XB-35 or YB-35 survives: the piston-engined aircraft were scrapped in 1949 and the last jet conversion in 1953. The closest surviving relative is the smaller Northrop N-1M research wing at the Smithsonian's Udvar-Hazy Center in Virginia."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, This Day in Aviation and the National Museum of the U.S. Air Force.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "XB-35",
+    "B-35",
+    "Northrop Flying Wing",
+    "flying wing",
+    "N-9M",
+    "Jack Northrop"
+  ],
+  "article": {
+    "overview": [
+      "The Northrop YB-35 is an American four-engine, piston-powered flying-wing heavy bomber developed by Northrop for the U.S. Army Air Forces during and after the Second World War. It had no fuselage or tail, and its crew, engines, fuel and bombs were all carried within a 172 ft (52.43 m) wing. The XB-35 prototype first flew on 25 June 1946, and the first YB-35 service-test aircraft on 15 May 1948. {{ref:wiki-yb35}} {{ref:tdia-xb35}}",
+      "Two XB-35s and 13 YB-35 airframes were ordered. Repeated failures of the contra-rotating propellers and their gearboxes kept the piston-engined aircraft grounded for much of the test programme, and only three ever flew in that form. The Air Force cancelled the programme, several airframes were converted to jet power as the YB-49 and YRB-49A, and none survives. {{ref:wiki-yb35}} {{ref:wiki-yb49}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the 1941 Contract",
+        "paragraphs": [
+          "Jack Northrop had worked towards a flying wing since 1929, when his Avion Corporation built an all-metal monoplane with its engine inside the wing. In 1939 he founded an independent company in Hawthorne, California and concentrated on the flying wing, and its small N-1M research aircraft first flew in July 1940. On 22 November 1941 the Army Air Forces signed a development contract for a full-size flying-wing bomber, the XB-35, and took up its option on a second prototype on 2 January 1942. {{ref:wiki-jack-northrop}} {{ref:wiki-yb35}}",
+          "The requirement called for a bomber that could carry 10,000 lb of bombs on a 10,000-mile round trip, with a top speed of 450 mph, a cruising speed of 275 mph and a 45,000 ft ceiling. The first XB-35 was due in November 1943 and the second in April 1944. To test the layout first, Northrop built four one-third-scale N-9Ms. The first flew on 27 December 1942 and crashed near Muroc on 19 May 1943, killing its pilot, Max Constant. {{ref:wiki-yb35}} {{ref:wiki-n9m}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The B-35 spanned 172 ft (52.43 m) but was only 53 ft 1 in (16.18 m) long, with a wing area of 4,000 sq ft (370 sq m) and a wing 85.5 in thick at the root. Four 28-cylinder Pratt & Whitney R-4360 Wasp Major radials, each giving 3,000 hp for takeoff, were mounted in the wing and drove pusher propellers at the trailing edge through drive shafts and gearboxes. Each engine originally turned a pair of contra-rotating propellers. {{ref:wiki-yb35}} {{ref:tdia-xb35}} {{ref:afmag-northrop}}",
+          "The crew of nine sat in a cabin built into the wing, which ended in a tail cone projecting from the trailing edge. The cone held remote sighting stations for the three gunners and folding bunks for off-duty crew on long missions. Bombs were carried in six small bays, three in each wing section, with roll-away doors. That arrangement kept the bombload at up to 52,200 lb (23,678 kg), but it ruled out large bombs, including the early atomic bombs, unless the bays were redesigned. Internal fuel was 10,000 US gal, or 18,000 US gal with auxiliary tanks in the bomb bays, and production aircraft were to carry 20 .50 in machine guns or 20 mm cannon in six turrets, four of them in the tail cone. The published maximum speed is 391 mph at 35,000 ft, with a 240 mph cruise and a range of 7,500 miles. {{ref:wiki-yb35}} {{ref:tdia-xb35}}"
+        ]
+      },
+      {
+        "heading": "Propeller Failures & Flight Testing",
+        "paragraphs": [
+          "Max Stanley flew the first XB-35, 42-13603, from Hawthorne to Muroc Dry Lake on 25 June 1946, three years late and 400 percent over budget. The contra-rotating propellers soon became the programme's main problem: they caused constant heavy drive-shaft vibration, and the government-supplied gearboxes failed often. Northrop grounded the first XB-35 after 19 flights and the second after eight. {{ref:tdia-xb35}} {{ref:afmag-northrop}} {{ref:wiki-yb35}}",
+          "Both were refitted with single-rotation, four-blade Hamilton Standard propellers, which reduced speed and performance. Other faults followed. The electrical system supplied by the Army Air Forces was inadequate, so Northrop fitted an auxiliary power unit driven by an automotive engine, and that unit restricted test flying to below 15,000 ft. The exhaust system was hard to maintain, and engine metal fatigue appeared after two years. The first YB-35 flew on 15 May 1948 and proved airworthy over several test flights, but it was then parked for more than a year, and no other YB-35 flew with piston engines. {{ref:wiki-yb35}}"
+        ]
+      },
+      {
+        "heading": "Production Plans & Cancellation",
+        "paragraphs": [
+          "The Glenn L. Martin Company agreed to mass-produce 200 B-35s, but so many of its engineers had been drafted by 1944 that Martin pushed the first delivery back to 1947. With no chance of the bomber being ready during the war, the Army Air Forces cancelled the production contract in May 1944 but kept the prototypes for testing. By the late 1940s the programme had other problems: technical difficulties, piston engines that were becoming obsolete, delays, cost overruns and a Northrop company stretched across too many projects. {{ref:wiki-yb35}} {{ref:afmag-northrop}}",
+          "The Air Force ended the programme, and the first YB-35 was scrapped on 20 July 1949. The second XB-35 and the unfinished second YB-35 followed on 19 August and the first XB-35 on 23 August. In a 1979 interview Jack Northrop said Air Force Secretary Stuart Symington had tried to force a merger with Convair, then controlled by the Atlas Corporation, on terms Northrop considered grossly unfair, and had cancelled the flying-wing programmes when he refused. Symington became president of Convair shortly after leaving government. Against that, the B-35 had well-documented design problems, while the Air Force and the Texas congressional delegation wanted a production programme for Convair's Fort Worth factory, where the rival B-36 was built. Northrop received the production contract for the F-89 Scorpion fighter as compensation. {{ref:wiki-yb35}} {{ref:wiki-yb49}}"
+        ]
+      },
+      {
+        "heading": "Jet Conversions & Legacy",
+        "paragraphs": [
+          "In June 1945 the Army Air Forces approved converting two YB-35s to eight Allison J35 turbojets, and they flew from October 1947 as the YB-49. Seven more airframes were earmarked as YB-49Bs but never completed. One became the six-jet YRB-49A reconnaissance aircraft, which made 13 flights and was scrapped on 1 December 1953, and a planned EB-35B testbed for two T37 turboprops was cancelled. {{ref:nmusaf-yb49}} {{ref:wiki-yb35}}",
+          "No B-35 survives. The all-wing layout returned about 40 years later in the Northrop B-2 Spirit, which has the same 172 ft span. Shortly before his death in February 1981, Jack Northrop was cleared to see the B-2 design and hold a scale model of it, and wrote: 'Now I know why God has kept me alive for 25 years.' {{ref:nmusaf-yb49}} {{ref:wiki-yb49}} {{ref:wiki-jack-northrop}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-yb35",
+      "name": "Northrop YB-35",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YB-35"
+    },
+    {
+      "id": "tdia-xb35",
+      "name": "25 June 1946 - Northrop XB-35",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/25-june-1946/"
+    },
+    {
+      "id": "wiki-yb49",
+      "name": "Northrop YB-49",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YB-49"
+    },
+    {
+      "id": "wiki-jack-northrop",
+      "name": "Jack Northrop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_Northrop"
+    },
+    {
+      "id": "wiki-n9m",
+      "name": "Northrop N-9M",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_N-9M"
+    },
+    {
+      "id": "afmag-northrop",
+      "name": "Jack Northrop and the Flying Wing",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/jack-northrop-and-the-flying-wing/"
+    },
+    {
+      "id": "nmusaf-yb49",
+      "name": "Northrop YB-49 fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858861/northrop-yb-49/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Northrop YB-35 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_YB-35"
+    },
+    {
+      "name": "25 June 1946 - This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/25-june-1946/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1941-11-22",
+      "title": "XB-35 development contract signed",
+      "tag": "Programme milestone",
+      "summary": "The Army Air Forces contracted Northrop to build a full-size flying-wing bomber, taking up its option on a second prototype on 2 January 1942. The first XB-35 was due in November 1943.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_YB-35"
+    },
+    {
+      "date": "1943-05-19",
+      "title": "First N-9M scale model crashes near Muroc",
+      "tag": "Loss of control",
+      "summary": "The first of four one-third-scale N-9M test aircraft crashed after about 22.5 flying hours. The pilot, Max Constant, could not recover from a spin and was killed.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Northrop_N-9M"
+    },
+    {
+      "date": "1946-06-25",
+      "title": "XB-35 first flight",
+      "tag": "First flight",
+      "summary": "Max Stanley flew the first XB-35, 42-13603, from Northrop's Hawthorne factory to Muroc Army Air Field. Propeller and gearbox problems grounded it after 19 flights.",
+      "source": "https://www.thisdayinaviation.com/25-june-1946/"
+    },
+    {
+      "date": "1948-05-15",
+      "title": "YB-35 first flight",
+      "tag": "First flight",
+      "summary": "The first YB-35 service-test aircraft flew. It was the only one of the 13 YB-35 airframes to fly with piston engines.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_YB-35"
+    },
+    {
+      "date": "1949-07-20",
+      "title": "The only flying YB-35 is scrapped",
+      "tag": "Retirement",
+      "summary": "The first YB-35 was scrapped, followed on 19 August 1949 by the second XB-35 and the unfinished second YB-35, and on 23 August by the first XB-35.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_YB-35"
+    }
+  ]
+}

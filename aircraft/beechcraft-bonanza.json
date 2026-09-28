@@ -26,7 +26,7 @@
       "mph": 236,
       "text": "205 kn (236 mph / 380 km/h)"
     },
-    "cruiseSpeed": "200 mph (322 km/h) maximum cruise, 174 knots true",
+    "cruiseSpeed": "200 mph (322 km/h)",
     "range": {
       "miles": 1059,
       "text": "1,059 mi (1,704 km, 920 nmi)"
@@ -96,7 +96,7 @@
       "role": "Private, Business & Training Operators",
       "status": "In Service",
       "since": "1947",
-      "fleetSize": "18,552 built by the end of 2025; Turner Airlines and Central Airlines flew Bonanzas on feeder routes in 1949-50, and the Dutch Government Flying School had 16 F33Cs",
+      "fleetSize": "18,552 built by end of 2025",
       "homeBase": "Private and business owners worldwide"
     },
     {
@@ -104,7 +104,7 @@
       "role": "Pave Eagle Signal Relay (historical)",
       "status": "Retired",
       "since": "1968",
-      "fleetSize": "6 YQU-22A prototypes and 27 QU-22Bs; six QU-22Bs were lost in combat",
+      "fleetSize": "6 YQU-22A + 27 QU-22B",
       "homeBase": "Southeast Asia, Pave Eagle programme"
     },
     {
@@ -112,8 +112,8 @@
       "role": "Trainers & Liaison (current and former)",
       "status": "In Service",
       "since": "1949",
-      "fleetSize": "Iran 49 (10 F33A, 39 F33C), Spain 54 (25 F33A, 29 F33C), Mexico 10 F33C, Indonesia 4 G36, Israel A36 'Hofit', the Royal Thai Navy 3 Model 35s, and single aircraft in Haiti, Ivory Coast, Nicaragua and Portugal",
-      "homeBase": "Air arms in the Middle East, Europe, the Americas and Asia"
+      "fleetSize": "124+ across 10 air arms",
+      "homeBase": "Iran (49), Spain (54), Mexico (10), Indonesia (4 G36), Thailand (3), Israel (A36 Hofit), plus single aircraft in Haiti, Ivory Coast, Nicaragua and Portugal"
     }
   ],
   "flightradar24": {
@@ -255,7 +255,6 @@
       "title": "Waikiki Beech flies nonstop Honolulu to Teterboro",
       "tag": "Record flight",
       "summary": "William Odom flew the long-range Bonanza N80040 nonstop from Honolulu to Teterboro, New Jersey, landing on 8 March after 36 hours 1 minute. He covered 5,273 miles as flown at an average of 146.3 mph, and the aircraft is now in the National Air and Space Museum.",
-      "fatalities": 0,
       "source": "https://airandspace.si.edu/collection-objects/beechcraft-35-bonanza/nasm_A19500080000"
     },
     {
@@ -279,7 +278,6 @@
       "title": "Matt Guthmiller's solo round-the-world flight",
       "tag": "Record flight",
       "summary": "The 19-year-old MIT student left in a 1981 A36 and returned on 14 July 2014 after about 30,500 miles, 23 stops and 15 countries, becoming the youngest person to fly solo around the world.",
-      "fatalities": 0,
       "source": "https://en.wikipedia.org/wiki/Beechcraft_Bonanza"
     },
     {
