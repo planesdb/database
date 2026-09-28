@@ -58,8 +58,8 @@
     "retiredDate": null,
     "numberBuilt": 175,
     "unitCost": {
-      "usd": null,
-      "text": "Not publicly disclosed - no per-aircraft price for the RAF's March 1972 order of 175 Hawk T1s has been published",
+      "usd": 3.82,
+      "text": "£2.89m ($3.82) in 1980, todays cost £12m ($15.86)",
       "inflationText": null
     }
   },

@@ -19,7 +19,8 @@
     "It gets it's nickname 'The Bone' from the B-ONE phonetic pronunciation",
     "The B1 Lancer made it's military combat debut in Iraq during Operation Desert Fox in December 1998",
     "It is the US Air Forces sole carrier of the Long-Range Anti-Ship Missile (LRASM)",
-    "Maintenance hours for the B1 are a significant drawback for the USAF, with previous comments from engineers suggesting it takes 40+ hours of maintenance per 1 hour of flight"
+    "Maintenance hours for the B1 are a significant drawback for the USAF, with previous comments from engineers suggesting it takes 40+ hours of maintenance per 1 hour of flight",
+    "It uses a forward-looking radar system to enable automated terrain-following flight at extremely low altitudes, typically between 200 and 500 feet, while travelling at high subsonic speeds."
   ],
   "specifications": {
     "specificationsNote": "Specs are based on the B-1B variant - the most common and widely used variant",
@@ -113,6 +114,11 @@
     {
       "date": "2026-09-09",
       "change": "Replaced placeholder Further Reading block with real sources; corrected USAF fleet size to the post-2021 figure of 45; added the Air National Guard as a former operator.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-27",
+      "change": "Added a new Quick Fact that was discovered on Reddit.",
       "author": "planesdb"
     }
   ],
