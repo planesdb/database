@@ -1,0 +1,335 @@
+{
+  "name": "172 Skyhawk",
+  "fullName": "Cessna 172 Skyhawk",
+  "manufacturer": "Cessna (Textron Aviation)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Four-Seat Light Aircraft & Trainer",
+  "tagline": "The Cessna 172 Skyhawk is an American four-seat, single-engine, high-wing light aircraft built by Cessna since 1956. More than 44,000 had been built by 2015, more than any other aircraft, and the 172S is still in production in Independence, Kansas.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "More 172s have been built than any other aircraft, with over 44,000 completed by 2015.",
+    "From December 1958 to February 1959 Robert Timm and John Cook kept a 172 named Hacienda airborne for 64 days, 22 hours and 19 minutes.",
+    "Cessna built no 172s at all between 1986 and 1996, when product liability costs halted production.",
+    "In 1987 the German pilot Mathias Rust flew a rented Reims-built 172 from Helsinki to Moscow and landed beside Red Square.",
+    "The model letters skip 172O, which Cessna left out to avoid confusion with the number zero.",
+    "The 160 hp Lycoming O-320-H2AD fitted to the 172N proved unreliable, and Cessna replaced it on the 172P in 1981."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the current 172S Skyhawk SP, as published by Textron Aviation. Max speed is the maximum limit (never-exceed) speed of 163 knots indicated, not a level-flight top speed; the published maximum cruise speed is 124 knots. Early 172s had a 145 hp Continental engine and a lower gross weight.",
+    "maxSpeed": {
+      "mph": 188,
+      "text": "163 kn (188 mph / 302 km/h)"
+    },
+    "cruiseSpeed": "143 mph (230 km/h) maximum cruise, 124 knots true",
+    "range": {
+      "miles": 737,
+      "text": "737 mi (1,185 km, 640 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 14000,
+      "text": "14,000 ft (4,267 m)"
+    },
+    "wingspan": {
+      "ft": 36,
+      "text": "36 ft 1 in (11.00 m)"
+    },
+    "length": {
+      "ft": 27,
+      "text": "27 ft 2 in (8.28 m)"
+    },
+    "height": {
+      "ft": 9,
+      "text": "8 ft 11 in (2.72 m)"
+    },
+    "weight": "empty: 1,680 lb (762 kg); MTOW: 2,550 lb (1,157 kg)",
+    "engines": "One Lycoming IO-360-L2A fuel-injected four-cylinder horizontally opposed piston engine, 180 hp, driving a two-blade fixed-pitch McCauley propeller",
+    "crew": "1 pilot",
+    "capacity": "3 passengers (4 occupants in total), plus 120 lb (54 kg) of baggage",
+    "firstFlight": {
+      "date": "1955-06-12",
+      "year": 1955
+    },
+    "serviceEntryDate": "1955-11-04",
+    "retiredDate": null,
+    "numberBuilt": 44000,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Textron Aviation does not publish a current list price for the 172S. A basic 172G listed at $12,450 in 1966, and the diesel 172JT-A launched at $435,000 in 2014",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "172 to 172H (1956-1967)",
+      "desc": "The Continental-powered models. The original 172 used a 145 hp O-300 and sold 3,757 in four years. The 172A of 1960 introduced the swept tailfin, the 172B of 1961 the Skyhawk name, the 172D of 1963 the wraparound 'Omni-Vision' rear window and the 172F of 1965 electric flaps. The 172H of 1967 was the best seller of the group at 2,021 built."
+    },
+    {
+      "code": "172I to 172P (1968-1986)",
+      "desc": "The Lycoming models. The 172I of 1968 introduced the 150 hp O-320-E2D, the 172M of 1973 a drooped 'Camber-Lift' wing leading edge and 6,826 sales, and the 172N of 1977 a 160 hp O-320-H2AD that proved unreliable. The 172P of 1981 replaced it with the O-320-D2J and raised gross weight to 2,400 lb before production stopped in 1986."
+    },
+    {
+      "code": "172Q Cutlass",
+      "desc": "A 1983-84 model that paired the standard 172 airframe with a 180 hp Lycoming O-360-A4N and raised gross weight to 2,550 lb (1,157 kg). Sources give either 389 or 391 built, and a better-equipped Cutlass II was also offered. It shared its name with the 172RG Cutlass RG, a separate model with retractable landing gear."
+    },
+    {
+      "code": "172R / 172S Skyhawk SP (1996 onward)",
+      "desc": "The models built at Independence, Kansas after production restarted. The 172R of 1996 was the first with a fuel-injected engine, a Lycoming IO-360-L2A derated to 160 hp, and added 26g energy-absorbing seats and more soundproofing. The 172S of 1998 runs the same engine at 180 hp with a 2,550 lb gross weight, later gained the Garmin G1000 as standard, and is the only 172 still built."
+    },
+    {
+      "code": "Reims F172 / FR172",
+      "desc": "Built under licence by Reims Aviation in France from 1963 to 1986, following the American model letters from the F172D to the F172P. A total of 2,254 F172s were completed, the largest batch being 610 F172Ms. The FR172 Reims Rocket was a separate model, and the Irish Air Corps flew nine FR172Hs from 1972 to 2019. Mathias Rust's aircraft was an F172P."
+    },
+    {
+      "code": "T-41 Mescalero",
+      "desc": "The military trainer derived from the 172F. The U.S. Air Force ordered 237 T-41As in 1964 to screen student pilots before jet training, the U.S. Army bought 255 T-41Bs, the Air Force Academy 52 T-41Cs, and 299 T-41Ds went to other countries under U.S. military aid. Production totalled 836 between 1964 and 1996, and four T-41s still fly at the Academy."
+    },
+    {
+      "code": "172JT-A Turbo Skyhawk JT-A",
+      "desc": "A diesel version with a 155 hp Continental CD-155 burning Jet-A, launched in July 2014 at $435,000 and certified by the FAA and EASA in June 2017. Cessna dropped it in May 2018 after poor sales, as it cost about twice as much as a diesel conversion of an existing 172. The engine is still offered by Continental as a conversion for older aircraft."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Civil operators worldwide",
+      "role": "Flight Schools, Flying Clubs & Private Owners",
+      "status": "In Service",
+      "since": "1956",
+      "fleetSize": "More than 44,000 built by 2015, including 2,254 Reims-built F172s; 191 new 172S Skyhawks delivered in 2025",
+      "homeBase": "Flight schools, clubs, private owners and patrol operators worldwide"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Primary Trainer (T-41A / T-41C)",
+      "status": "In Service",
+      "since": "1965",
+      "fleetSize": "237 T-41As ordered in 1964 plus 52 T-41Cs for the Air Force Academy; four T-41s still in use at the Academy",
+      "homeBase": "U.S. Air Force Academy, Colorado; T-41A training began at Big Spring, Texas"
+    },
+    {
+      "name": "Irish Air Corps",
+      "role": "Surveillance, Escort & Training (historical)",
+      "status": "Retired",
+      "since": "1972",
+      "fleetSize": "9 Reims FR172H Rockets, flown for 47 years and 63,578 hours until October 2019",
+      "homeBase": "Ireland"
+    },
+    {
+      "name": "Republic of Singapore Air Force",
+      "role": "Trainer (historical)",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "8 Cessna 172Ks, delivered in 1969 and retired in 1972",
+      "homeBase": "Singapore"
+    },
+    {
+      "name": "Philippine Navy",
+      "role": "Trainer & Utility",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "4 Cessna 172S delivered through U.S. Foreign Military Sales in February 2022, after a donated 172F in 2007 and a 172N in 2008",
+      "homeBase": "Philippine Navy aviation units"
+    },
+    {
+      "name": "Other military operators",
+      "role": "Trainers & Liaison (current and former)",
+      "status": "In Service",
+      "since": "1964",
+      "fleetSize": "The U.S. Army's 255 T-41Bs, 299 T-41Ds exported to air arms including Argentina, Colombia, Greece, Indonesia, Pakistan, the Philippines, South Korea and Turkey, and civil-standard 172s with the Royal Saudi Air Force (16 Reims-built), Ecuador, Bolivia, Guatemala and Madagascar",
+      "homeBase": "Military flying schools in the Americas, Europe, the Middle East and Asia"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "C172",
+    "howToFind": "Filter by type code C172. The 172 is the most common light aircraft on the map, and the densest traffic is around flight-training airfields in daylight, where aircraft fly circuits and short local training flights."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, Textron Aviation, the FAA type certificate and accident records, GAMA shipment data and the Irish Defence Forces.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Skyhawk",
+    "Cessna Skyhawk",
+    "C172",
+    "172S",
+    "Skyhawk SP",
+    "T-41 Mescalero",
+    "Reims F172",
+    "Reims Rocket"
+  ],
+  "article": {
+    "overview": [
+      "The Cessna 172 Skyhawk is an American four-seat, single-engine, high-wing light aircraft built by the Cessna Aircraft Company, now part of Textron Aviation. It was developed from the tailwheel Cessna 170, first flew on 12 June 1955 and was type-certificated on 4 November 1955 as a 1956 model. {{ref:wiki-c172}} {{ref:faa-tcds-3a12}}",
+      "More than 44,000 had been built by 2015, more than any other aircraft. Cessna stopped building it in 1986 because of product liability costs and restarted in 1996 at Independence, Kansas, where the current 172S is still made. It is used for flight training, private flying and aerial patrol work, and the U.S. Air Force and Army flew it as the T-41 Mescalero primary trainer. {{ref:wiki-c172}} {{ref:wiki-t41}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Early Sales",
+        "paragraphs": [
+          "The 172 began as a Cessna 170B with its tailwheel replaced by a fixed tricycle undercarriage, which Cessna sold as 'Land-O-Matic' gear. The prototype was a converted 170C with a 145 hp Continental O-300-A engine, larger elevators and a more angular tailfin, and the production aircraft kept that engine. {{ref:wiki-c172}}",
+          "Over 1,400 were built in 1956, the first full year of production, and 3,757 of the original model left the factory before the 172A introduced a swept tailfin in 1960. The 172B of 1961 had a shorter undercarriage and brought in the Skyhawk name, at first used only for a deluxe version with extra equipment. By 1966 a basic 172G listed at $12,450 and a Skyhawk at $13,300. {{ref:wiki-c172}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The basic layout of four seats, a high wing, one engine and fixed tricycle gear has changed little since 1956. On the current 172S the wing spans 36 ft 1 in (11.0 m) with an area of 174 sq ft (16.2 sq m) and a modified NACA 2412 aerofoil, and the cabin is 40 in (1.0 m) wide. A fuel-injected 180 hp Lycoming IO-360-L2A drives a two-blade, fixed-pitch McCauley propeller. {{ref:txtav-skyhawk}} {{ref:wiki-c172}}",
+          "Textron quotes a maximum cruise speed of 124 knots, a range of 640 nm (1,185 km) and a stall speed of 48 knots. Takeoff distance is 1,630 ft (497 m), of which 960 ft (293 m) is ground roll, and the aircraft climbs at up to 730 ft a minute and lands in 1,335 ft (407 m). The useful load is 878 lb (398 kg), but with the 53 US gal (201 L) of usable fuel aboard only 560 lb (254 kg) remains for people and baggage. {{ref:txtav-skyhawk}}"
+        ]
+      },
+      {
+        "heading": "Model Changes Through 1986",
+        "paragraphs": [
+          "Cessna revised the 172 almost every model year. The 172C of 1962 added glassfibre wingtips, a key starter and an optional autopilot, the 172D of 1963 cut down the rear fuselage for the wraparound 'Omni-Vision' rear window, and the 172E of 1964 replaced fuses with circuit breakers. Electric flaps came with the 172F of 1965 and a 150 hp Lycoming O-320-E2D with the 172I of 1968. The 172M, built from 1973 to 1976, gained a drooped 'Camber-Lift' leading edge and sold 6,826, more than any other single model. Cessna skipped the letter O to avoid confusion with zero. {{ref:wiki-c172}}",
+          "The 172N of 1977 used a 160 hp Lycoming O-320-H2AD designed to run on 100-octane fuel, and a 28-volt electrical system followed in 1978. That engine proved unreliable, and the 172P of 1981 replaced it with the O-320-D2J, raised gross weight to 2,400 lb (1,089 kg) and offered 62 US gal wet wings. The 172Q Cutlass of 1983 and 1984 used a 180 hp O-360 at 2,550 lb, but only about 390 were built before Cessna stopped all 172 production in 1986. {{ref:wiki-c172}}"
+        ]
+      },
+      {
+        "heading": "Military Service",
+        "paragraphs": [
+          "In 1964 the U.S. Air Force ordered 237 T-41A Mescaleros, based on the 172F, so that student pilots could be screened on a light aircraft before moving to the T-37 jet trainer. Training began at Big Spring, Texas, in August 1965. The Army bought 255 T-41Bs, the Air Force Academy 52 T-41Cs, and 299 T-41Ds went abroad under U.S. military aid, for 836 in all by 1996. The Philippine Air Force received 20 second-hand T-41Ds from South Korea in 2008. The Slingsby T-3A Firefly replaced most Air Force T-41s between 1993 and 1995, though four still fly at the Academy. {{ref:wiki-t41}}",
+          "Other air arms bought standard 172s. Colombia ordered new aircraft to replace its T-41s, with deliveries from June 2021. Singapore flew eight 172Ks from 1969 to 1972, the Royal Saudi Air Force took 16 Reims-built aircraft, and the Philippine Navy received four 172S Skyhawks through U.S. Foreign Military Sales in February 2022. The Irish Air Corps took delivery of nine Reims FR172H Rockets on 4 October 1972 and used them for reconnaissance, prisoner and explosives escorts, inshore maritime patrols and wildlife surveys. They logged 63,578 hours before being stood down on 4 October 2019, replaced by three Pilatus PC-12s. {{ref:wiki-c172}} {{ref:irish-defence-forces}}"
+        ]
+      },
+      {
+        "heading": "Notable Flights & Accidents",
+        "paragraphs": [
+          "From 4 December 1958 to 7 February 1959 Robert Timm and John Cook kept the 172 N9172B, named Hacienda, in the air for 64 days, 22 hours, 19 minutes and 5 seconds, covering about 150,000 miles to raise money for the Damon Runyon Cancer Fund. The aircraft is displayed at Harry Reid International Airport in Las Vegas, where the flight began and ended. On 28 May 1987 the 18-year-old German pilot Mathias Rust flew a rented Reims F172P, D-ECJB, from Helsinki-Malmi through Soviet air defences and landed on a bridge beside Red Square. The Soviet defence minister Sergei Sokolov and the air defence commander Alexander Koldunov were both dismissed. {{ref:wiki-c172}} {{ref:wiki-rust}}",
+          "On 25 September 1978 a 172 on an instrument training flight from Montgomery Field collided with Pacific Southwest Airlines Flight 182, a Boeing 727, over San Diego. All 135 aboard the 727, both people in the Cessna and seven people on the ground were killed. The NTSB found that the 727 crew lost sight of the Cessna and did not tell air traffic control, and the FAA responded with radar service areas around busy airports that later became Class B airspace. On 31 August 1969 the boxer Rocky Marciano and two others died when a 172, flown by a pilot with little experience of night or bad-weather flying, struck a tree near Newton, Iowa. On 16 August 2015 a 172M approaching Brown Field Municipal Airport, California collided with a Sabreliner jet, killing all five people aboard the two aircraft; the NTSB attributed it to an air traffic control error and recommended scenario-based training for controllers. {{ref:faa-psa182}} {{ref:wiki-newton}} {{ref:wiki-c172}}"
+        ]
+      },
+      {
+        "heading": "The Modern Skyhawk",
+        "paragraphs": [
+          "Production restarted in 1996 at Independence, Kansas with the 172R, the first 172 with a fuel-injected engine: a Lycoming IO-360-L2A derated to 160 hp. It also had a new interior, more soundproofing and 26g energy-absorbing seats. The 180 hp 172S Skyhawk SP followed in 1998 and was later sold with the Garmin G1000 glass cockpit and leather seats as standard. {{ref:wiki-c172}}",
+          "Two attempts at a diesel Skyhawk failed. The 172TD, announced in October 2007 with a 155 hp Thielert Centurion 2.0 burning Jet-A, was cancelled in July 2013 after Thielert's bankruptcy. The 172JT-A with a Continental CD-155 was launched in July 2014 at $435,000, promising 131 knots, 3 US gal an hour less fuel and a range of 885 nm, 38 percent more than the avgas 172S. It was certified in June 2017, but Cessna dropped it in May 2018 because it cost about twice as much as a diesel conversion and sold poorly. An electric 172 built with Bye Energy began taxi tests on 22 July 2011 but did not go into production. The avgas-burning 172S is still built, and Textron delivered 191 in 2025. {{ref:wiki-c172}} {{ref:gama-2025}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-c172",
+      "name": "Cessna 172",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cessna_172"
+    },
+    {
+      "id": "faa-tcds-3a12",
+      "name": "Type Certificate Data Sheet No. 3A12 (Cessna 172)",
+      "publisher": "Federal Aviation Administration (copy hosted by AeroElectric Connection)",
+      "url": "http://www.aeroelectric.com/Reference_Docs/Cessna/cessna-misc/C172_FAA_typecert_3A12.pdf"
+    },
+    {
+      "id": "wiki-t41",
+      "name": "Cessna T-41 Mescalero",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cessna_T-41_Mescalero"
+    },
+    {
+      "id": "txtav-skyhawk",
+      "name": "Cessna Skyhawk - Specifications",
+      "publisher": "Textron Aviation",
+      "url": "https://cessna.txtav.com/en/piston/cessna-skyhawk"
+    },
+    {
+      "id": "irish-defence-forces",
+      "name": "Irish Air Corps Stand Down Reims Rocket Fleet After 47 Years",
+      "publisher": "Irish Defence Forces",
+      "url": "https://www.military.ie/en/news-and-events/news-archive/2019/irish-air-corps-stand-down-reims-rocket-fleet-after-47-years/"
+    },
+    {
+      "id": "wiki-rust",
+      "name": "Mathias Rust",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mathias_Rust"
+    },
+    {
+      "id": "faa-psa182",
+      "name": "Boeing 727-214 and Cessna 172 (PSA Flight 182) - Lessons Learned",
+      "publisher": "Federal Aviation Administration",
+      "url": "https://www.faa.gov/lessons_learned/transport_airplane/accidents/N533PS"
+    },
+    {
+      "id": "wiki-newton",
+      "name": "1969 Newton Cessna 172 crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1969_Newton_Cessna_172_crash"
+    },
+    {
+      "id": "gama-2025",
+      "name": "General Aviation Aircraft Shipment Report, 2025 Year-End",
+      "publisher": "General Aviation Manufacturers Association",
+      "url": "https://gama.aero/wp-content/uploads/2025ShipmentReport_02-18-2026.pdf"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Cessna Skyhawk - Textron Aviation",
+      "url": "https://cessna.txtav.com/en/piston/cessna-skyhawk"
+    },
+    {
+      "name": "Cessna 172 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cessna_172"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1958-12-04",
+      "title": "Hacienda endurance flight begins",
+      "tag": "Record flight",
+      "summary": "Robert Timm and John Cook took off from McCarran Field, Las Vegas in the 172 N9172B and stayed airborne until 7 February 1959, a flight of 64 days, 22 hours, 19 minutes and 5 seconds covering about 150,000 miles. It raised money for the Damon Runyon Cancer Fund, and the aircraft is now displayed at Harry Reid International Airport.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Cessna_172"
+    },
+    {
+      "date": "1969-08-31",
+      "title": "Rocky Marciano killed near Newton, Iowa",
+      "tag": "Loss of control",
+      "summary": "172 N3149X, flying from Chicago Midway to Des Moines, diverted towards Newton to avoid a building storm. The pilot, who had little experience of night or bad-weather flying, entered low cloud, lost control and struck a tree. The former heavyweight champion Rocky Marciano, the pilot and one other passenger were killed, and the aircraft was short of fuel.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/1969_Newton_Cessna_172_crash"
+    },
+    {
+      "date": "1978-09-25",
+      "title": "Mid-air collision with PSA Flight 182 over San Diego",
+      "tag": "Mid-air collision",
+      "summary": "A 172 flying practice instrument approaches at Lindbergh Field collided with a Pacific Southwest Airlines Boeing 727 on approach. All 135 aboard the 727 and both Cessna occupants died, along with seven people on the ground. The NTSB blamed the 727 crew for losing sight of the Cessna without telling controllers, and the FAA introduced radar service areas that became Class B airspace.",
+      "fatalities": 144,
+      "source": "https://www.faa.gov/lessons_learned/transport_airplane/accidents/N533PS"
+    },
+    {
+      "date": "1987-05-28",
+      "title": "Mathias Rust lands beside Red Square",
+      "tag": "Airspace violation",
+      "summary": "The 18-year-old German pilot flew a rented Reims F172P, D-ECJB, from Helsinki-Malmi through Soviet airspace and landed on the Bolshoy Moskvoretsky Bridge next to Red Square. The Soviet defence minister and the air defence commander were dismissed. Rust was sentenced to four years in a labour camp and pardoned after 14 months, and the aircraft is now in the German Museum of Technology in Berlin.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Mathias_Rust"
+    },
+    {
+      "date": "2015-08-16",
+      "title": "Mid-air collision with a Sabreliner at Brown Field",
+      "tag": "Mid-air collision",
+      "summary": "Cessna 172M N1285U collided with a North American Sabreliner, N442RM, on approach to Brown Field Municipal Airport, California, killing all five people on the two aircraft. The accident was attributed to an air traffic control error, and the NTSB recommended scenario-based training for controllers.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Cessna_172"
+    },
+    {
+      "date": "2024-03-05",
+      "title": "Training 172 collides with Safarilink Dash 8 over Nairobi",
+      "tag": "Mid-air collision",
+      "summary": "A 99 Flying School Cessna 172M, 5Y-NNJ, collided with a Safarilink de Havilland Canada Dash 8 over Nairobi National Park. The instructor and student in the Cessna were killed, and the Dash 8 landed safely with 44 people aboard.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Cessna_172"
+    }
+  ]
+}

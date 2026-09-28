@@ -1,0 +1,293 @@
+{
+  "name": "Bonanza",
+  "fullName": "Beechcraft Bonanza",
+  "manufacturer": "Beechcraft (Textron Aviation)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "High-Performance Personal Aircraft",
+  "tagline": "The Beechcraft Bonanza is an American low-wing, all-metal, single-engine light aircraft with retractable landing gear, built by Beechcraft since 1947. By the end of 2025 18,552 had been built, and in November 2025 Textron Aviation announced that production of the last model, the G36, would end once existing orders were filled.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "In March 1949 William Odom flew the Bonanza Waikiki Beech nonstop from Honolulu to Teterboro, New Jersey, 5,273 miles in 36 hours 1 minute.",
+    "The original V-tail uses two 'ruddervators' that do the work of a separate rudder and elevators.",
+    "Buddy Holly, Ritchie Valens and J.P. Richardson were killed in a Model 35 Bonanza near Clear Lake, Iowa on 3 February 1959.",
+    "Twenty-seven QU-22B Bonanzas relayed sensor signals over the Ho Chi Minh Trail during the Vietnam War, and six were lost in combat.",
+    "NTSB records from 1962 to 2007 show about three V-tail structural failures a year, against eleven in total for the conventional-tail models.",
+    "Beechcraft and its successors built 18,552 Bonanzas between 1947 and the end of 2025."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the G36, the final production model, as published by Textron Aviation. Max speed is the maximum limit (never-exceed) speed of 205 knots indicated, not a level-flight top speed; the published maximum cruise speed is 174 knots. The original 1947 Model 35 seated four and had a 165 hp engine.",
+    "maxSpeed": {
+      "mph": 236,
+      "text": "205 kn (236 mph / 380 km/h)"
+    },
+    "cruiseSpeed": "200 mph (322 km/h) maximum cruise, 174 knots true",
+    "range": {
+      "miles": 1059,
+      "text": "1,059 mi (1,704 km, 920 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 17500,
+      "text": "17,500 ft (5,334 m)"
+    },
+    "wingspan": {
+      "ft": 34,
+      "text": "33 ft 6 in (10.21 m)"
+    },
+    "length": {
+      "ft": 28,
+      "text": "27 ft 6 in (8.38 m)"
+    },
+    "height": {
+      "ft": 9,
+      "text": "8 ft 7 in (2.62 m)"
+    },
+    "weight": "empty: 2,605 lb (1,182 kg); MTOW: 3,805 lb (1,726 kg)",
+    "engines": "One Continental IO-550-B fuel-injected six-cylinder horizontally opposed piston engine, 300 hp, driving a three-blade Hartzell constant-speed propeller",
+    "crew": "1 pilot",
+    "capacity": "Up to 5 passengers (6 occupants in total), plus 70 lb (32 kg) of baggage",
+    "firstFlight": {
+      "date": "1945-12-22",
+      "year": 1945
+    },
+    "serviceEntryDate": "1947-03-25",
+    "retiredDate": null,
+    "numberBuilt": 18552,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Textron Aviation does not publish a list price for the G36, and announced in November 2025 that production would end once existing orders were filled",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "Model 35 to D35 (1947-1953)",
+      "desc": "The first V-tail generation. The four-seat Model 35 of 1947-48 had a 165 hp Continental E-185, and about 1,500 were built. The A35 of 1949 added a higher takeoff weight, tubular wing spars and nosewheel steering (701 built), the B35 of 1950 an E-185-8 engine (480), the C35 185 hp (719), and the D35 of 1953 a further weight increase (298)."
+    },
+    {
+      "code": "E35 to V35B (to 1982)",
+      "desc": "The later V-tail models, which grew steadily in power and weight. The S35 of 1964 took the 285 hp Continental IO-520-B, the V35 of 1966 added a one-piece windscreen (873 built), and the V35B, built from 1970 to 1982, was the last V-tail model at 1,335 aircraft, seven of them turbocharged. It moved to a 24-volt electrical system in 1978."
+    },
+    {
+      "code": "Model 33 Debonair / F33A / F33C",
+      "desc": "The conventional-tail Bonanza, introduced in 1960 as the cheaper Debonair and renamed Bonanza in the mid-1960s. From the E33 of 1968 it was offered with 225 hp or 285 hp engines. The F33A, built from 1970 to 1994 with a 285 hp IO-520-B, reached 1,502 aircraft, and the F33C was sold to air forces in Iran, Spain, Mexico and elsewhere."
+    },
+    {
+      "code": "Model 36 / A36 / B36TC",
+      "desc": "The stretched six-seat line. The Model 36 of 1968 lengthened the fuselage by 10 in (25 cm), and 184 were built in two years. The A36, built from 1970 to 2005, added a better interior and reached 2,128 aircraft, taking a 300 hp Continental IO-550-BB from 1984. The turbocharged B36TC of 1982 to 2002 had a longer-span wing, and 116 were built."
+    },
+    {
+      "code": "G36",
+      "desc": "The final production model, introduced in 2006 as an A36 with a Garmin G1000 glass cockpit. It seats six, has a 300 hp Continental IO-550-B and a three-blade Hartzell propeller, and Textron quotes a 174-knot maximum cruise and a 920 nm range. Deliveries had fallen to single figures a year before Textron announced the end of production in November 2025."
+    },
+    {
+      "code": "YQU-22A / QU-22B",
+      "desc": "Pave Eagle signal-relay aircraft for the Vietnam War. Six YQU-22A prototypes based on the Model 33 were combat-tested in 1968, and two were lost. Beech then built 27 QU-22Bs from the Model 36, with Baron wings and a turbocharged engine chosen to cut noise, 13 in 1969 and 14 in 1970. Six were lost in combat and two Air Force pilots were killed."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Civil operators worldwide",
+      "role": "Private, Business & Training Operators",
+      "status": "In Service",
+      "since": "1947",
+      "fleetSize": "18,552 built by the end of 2025; Turner Airlines and Central Airlines flew Bonanzas on feeder routes in 1949-50, and the Dutch Government Flying School had 16 F33Cs",
+      "homeBase": "Private and business owners worldwide"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Pave Eagle Signal Relay (historical)",
+      "status": "Retired",
+      "since": "1968",
+      "fleetSize": "6 YQU-22A prototypes and 27 QU-22Bs; six QU-22Bs were lost in combat",
+      "homeBase": "Southeast Asia, Pave Eagle programme"
+    },
+    {
+      "name": "Other military operators",
+      "role": "Trainers & Liaison (current and former)",
+      "status": "In Service",
+      "since": "1949",
+      "fleetSize": "Iran 49 (10 F33A, 39 F33C), Spain 54 (25 F33A, 29 F33C), Mexico 10 F33C, Indonesia 4 G36, Israel A36 'Hofit', the Royal Thai Navy 3 Model 35s, and single aircraft in Haiti, Ivory Coast, Nicaragua and Portugal",
+      "homeBase": "Air arms in the Middle East, Europe, the Americas and Asia"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "BE36",
+    "howToFind": "Filter by BE36 for the six-seat Model 36 family, BE35 for the V-tail Model 35 and BE33 for the conventional-tail Model 33. Bonanzas are mostly used for point-to-point travel rather than training circuits, so look for them on cross-country routes between general aviation airports, particularly in the United States."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, Textron Aviation, the National Air and Space Museum, AOPA, AeroTime and GAMA shipment data.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Beech Bonanza",
+    "V-tail Bonanza",
+    "Model 35",
+    "Debonair",
+    "F33A",
+    "A36",
+    "G36",
+    "QU-22B",
+    "Waikiki Beech"
+  ],
+  "article": {
+    "overview": [
+      "The Beechcraft Bonanza is an American low-wing, all-metal, single-engine light aircraft with retractable tricycle landing gear, designed by a team under Ralph Harmon at Beech Aircraft. The prototype first flew on 22 December 1945, and the V-tailed Model 35 was certificated on 25 March 1947 and entered production that year. {{ref:wiki-bonanza}}",
+      "Three families followed: the V-tail Model 35, built until 1982, the conventional-tail Model 33 from 1960, and the longer Model 36 from 1968. By the end of 2025 18,552 had been built without a break in production since 1947. In November 2025 Textron Aviation announced that it would stop building the G36 once existing orders were filled and move its investment to the Beechcraft Denali turboprop. {{ref:wiki-bonanza}} {{ref:aopa-halt}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Beech Aircraft introduced the Model 35 Bonanza at the end of the Second World War. Most light aircraft were then still built of wood and fabric, and Ralph Harmon's team produced an all-aluminium low-wing design with retractable tricycle gear and a horizontally opposed six-cylinder engine, the 165 hp Continental E-185 on the first production aircraft. {{ref:wiki-bonanza}}",
+          "The four-seat Model 35 had a V-tail with two 'ruddervators' that combined the work of rudder and elevators, which needed fewer parts and weighed less than a conventional tail. About 1,500 of the first model were built in 1947 and 1948. The A35 of 1949 added a higher takeoff weight, tubular wing spars and nosewheel steering, and the C35 of 1950 moved up to 185 hp. In 1949 and 1950 Turner Airlines and Central Airlines flew Bonanzas on commercial feeder services. {{ref:wiki-bonanza}} {{ref:nasm-bonanza}}"
+        ]
+      },
+      {
+        "heading": "Record Flights & the 1959 Crash",
+        "paragraphs": [
+          "The fourth production Bonanza, N80040, was fitted with extra tanks raising its fuel from 40 to 268 US gallons for long-distance flights by William Odom. On 12 January 1949 he set out from Honolulu for the east coast but bad weather over Nevada forced him to turn back to Oakland after 22 hours 6 minutes, having covered 2,407 miles on the great circle. From 6 to 8 March he flew nonstop from Honolulu to Teterboro, New Jersey: 4,957 miles on the great circle and 5,273 miles as flown, in 36 hours 1 minute at an average of 146.3 mph. The fuel and oil cost less than $75. {{ref:nasm-bonanza}} {{ref:wiki-bonanza}}",
+          "From 7 October 1951 to 27 January 1952 Congressman Peter Mack flew the same aircraft, renamed Friendship Flame, around the world from Springfield, Illinois, visiting 45 cities in 31 countries over about 33,000 miles. It then went to the National Air and Space Museum carrying both names. In 2014 Matt Guthmiller, a 19-year-old MIT student, flew a 1981 A36 around the world in 170 flight hours with 23 stops and became the youngest person to fly solo around the world. The best-known Bonanza accident came on 3 February 1959, when a Model 35 crashed soon after a night takeoff from Mason City, Iowa, killing the 21-year-old pilot Roger Peterson with Buddy Holly, Ritchie Valens and J.P. Richardson. Peterson had failed an instrument flight check in 1958 and was not qualified to fly at night, and the Civil Aeronautics Board blamed his decision to take off into conditions that needed instrument flying. {{ref:nasm-bonanza}} {{ref:wiki-bonanza}} {{ref:wiki-daymusic}}"
+        ]
+      },
+      {
+        "heading": "Model Development",
+        "paragraphs": [
+          "The V-tail line ran for 35 years and grew steadily heavier and more powerful. The S35 of 1964 took the 285 hp Continental IO-520-B, the V35 of 1966 added a one-piece windscreen, and the V35B, built from 1970 to 1982, was the last V-tail model at 1,335 aircraft. The Model 33 Debonair arrived in 1960 as a cheaper Bonanza with a conventional tail and was renamed Bonanza in the mid-1960s, and its F33A, built from 1970 to 1994 with the 285 hp IO-520-B, reached 1,502 aircraft. {{ref:wiki-bonanza}}",
+          "The Model 36 of 1968 stretched the fuselage by 10 in (25 cm). The A36 that followed was built from 1970 to 2005, reached 2,128 aircraft and took a 300 hp Continental IO-550-BB from 1984, while the turbocharged B36TC of 1982 to 2002 had a longer-span wing and sold 116. The G36 of 2006 replaced the A36's instruments with a Garmin G1000 glass cockpit and became the only model in production. {{ref:wiki-bonanza}}"
+        ]
+      },
+      {
+        "heading": "Military Service",
+        "paragraphs": [
+          "The Bonanza was the basis for the Beech T-34 Mentor, which became the U.S. Air Force's principal primary trainer in the 1950s and later served the U.S. Navy. The Bonanza itself went to war in Vietnam under the Pave Eagle programme. Six YQU-22A prototypes based on the Model 33 were tested in combat in 1968, and two were lost along with a civilian test pilot. {{ref:wiki-bonanza}}",
+          "Beech then built 27 QU-22Bs from the Model 36, using Baron wings and a turbocharged engine chosen to reduce noise, 13 in 1969 and 14 in 1970. They flew over the Ho Chi Minh Trail relaying signals from electronic sensors on the ground. Six were lost in combat and two Air Force pilots were killed. Other air forces bought the F33 series: Iran took 39 F33Cs and 10 F33As, Spain 29 F33Cs and 25 F33As, and Mexico 10 F33Cs, while Israel flew the A36 under the name Hofit. {{ref:wiki-bonanza}}"
+        ]
+      },
+      {
+        "heading": "The V-Tail Controversy",
+        "paragraphs": [
+          "The V-tail Bonanza came under FAA scrutiny in the mid-1980s after a series of in-flight breakups. Wind tunnel and flight tests by the Department of Transportation and the FAA showed that the tail did not meet certification standards under some conditions, and an airworthiness directive required it to be strengthened with a reinforcement kit at the root of the V-tail. In-flight breakups fell sharply once the kit was fitted. {{ref:wiki-bonanza}} {{ref:aopa-safety-1994}}",
+          "An analysis of NTSB records from 1962 to 2007 found an average of three V-tail structural failures a year, against eleven in total for the conventional-tail Models 33 and 36 over the same 45 years. AOPA pointed to the V-tail's narrow centre-of-gravity range, loss of control in cloud with an aft centre of gravity, and flutter from control surfaces left unbalanced after painting or repair. The magnesium ruddervator skins also corrode, sometimes grounding an aircraft for good, and the American Bonanza Society offered a $500,000 reward for a replacement design. Crashes by overconfident, wealthy amateur pilots earned the type the nickname 'forked-tail doctor killer', although AOPA's study of accidents from 1982 to 1989 found a slightly lower accident rate than for other types. {{ref:wiki-bonanza}} {{ref:aopa-safety-1994}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The G36 seats six in a cabin 42 in (1.07 m) wide and is powered by a 300 hp Continental IO-550-B driving a three-blade Hartzell constant-speed propeller. Textron quotes a maximum cruise speed of 174 knots, a range of 920 nm (1,704 km) and a service ceiling of 17,500 ft (5,334 m), with a maximum climb rate of 1,120 ft a minute and a takeoff distance of 2,180 ft (664 m). Maximum takeoff weight is 3,805 lb (1,726 kg), and with the 74 US gal (280 L) of usable fuel aboard, 769 lb (349 kg) of its 1,213 lb (550 kg) useful load is left for people and baggage. {{ref:txtav-g36}}",
+          "Sales had fallen long before the end was announced. GAMA figures show 13 Bonanzas delivered in 2017, none in 2021, three in 2022 and five in 2024, and AeroTime attributed the decline to competition from composite aircraft built by Cirrus and Diamond. In November 2025 Textron Aviation said it would end G36 and Baron G58 production once current orders were filled, to concentrate on the Beechcraft Denali turboprop. Six G36s were delivered in 2025, and Textron told the American Bonanza Society that parts and engineering support would continue for the existing fleet. {{ref:aopa-halt}} {{ref:aerotime-end}} {{ref:gama-2025}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-bonanza",
+      "name": "Beechcraft Bonanza",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beechcraft_Bonanza"
+    },
+    {
+      "id": "aopa-halt",
+      "name": "Textron halts Bonanza, Baron lines",
+      "publisher": "AOPA",
+      "url": "https://www.aopa.org/news-and-media/all-news/2025/november/21/textron-halts-bonanza-baron-lines"
+    },
+    {
+      "id": "nasm-bonanza",
+      "name": "Beechcraft 35 Bonanza (Waikiki Beech)",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/beechcraft-35-bonanza/nasm_A19500080000"
+    },
+    {
+      "id": "aopa-safety-1994",
+      "name": "Bonanza Safety Review",
+      "publisher": "AOPA Pilot",
+      "url": "https://www.aopa.org/news-and-media/all-news/1994/february/pilot/bonanza-safety-review"
+    },
+    {
+      "id": "txtav-g36",
+      "name": "Beechcraft Bonanza G36 - Specifications",
+      "publisher": "Textron Aviation",
+      "url": "https://beechcraft.txtav.com/en/bonanza-g36"
+    },
+    {
+      "id": "aerotime-end",
+      "name": "Textron ends Beechcraft Bonanza, Baron production",
+      "publisher": "AeroTime",
+      "url": "https://www.aerotime.aero/articles/textron-ends-bonanza-baron-production"
+    },
+    {
+      "id": "gama-2025",
+      "name": "General Aviation Aircraft Shipment Report, 2025 Year-End",
+      "publisher": "General Aviation Manufacturers Association",
+      "url": "https://gama.aero/wp-content/uploads/2025ShipmentReport_02-18-2026.pdf"
+    },
+    {
+      "id": "wiki-daymusic",
+      "name": "The Day the Music Died",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Day_the_Music_Died"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Beechcraft Bonanza - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beechcraft_Bonanza"
+    },
+    {
+      "name": "A Year of Anniversaries for Record-Setter Bill Odom and the Beechcraft 35 Bonanza - National Air and Space Museum",
+      "url": "https://airandspace.si.edu/stories/editorial/year-anniversaries-record-setter-bill-odom-and-beechcraft-35-bonanza"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1949-03-06",
+      "title": "Waikiki Beech flies nonstop Honolulu to Teterboro",
+      "tag": "Record flight",
+      "summary": "William Odom flew the long-range Bonanza N80040 nonstop from Honolulu to Teterboro, New Jersey, landing on 8 March after 36 hours 1 minute. He covered 5,273 miles as flown at an average of 146.3 mph, and the aircraft is now in the National Air and Space Museum.",
+      "fatalities": 0,
+      "source": "https://airandspace.si.edu/collection-objects/beechcraft-35-bonanza/nasm_A19500080000"
+    },
+    {
+      "date": "1959-02-03",
+      "title": "Buddy Holly, Ritchie Valens and The Big Bopper killed",
+      "tag": "Loss of control",
+      "summary": "Model 35 Bonanza N3794N crashed near Clear Lake, Iowa shortly after a night departure from Mason City in light snow, killing the pilot Roger Peterson and all three musicians. The Civil Aeronautics Board blamed the pilot's decision to fly in conditions that needed instrument flying, which he was not qualified for, with a poor weather briefing and his unfamiliarity with the aircraft's attitude instrument as contributing factors.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/The_Day_the_Music_Died"
+    },
+    {
+      "date": "1982-03-19",
+      "title": "Randy Rhoads killed in tour bus collision",
+      "tag": "Collision with obstacle",
+      "summary": "A Bonanza F35 carrying Ozzy Osbourne's guitarist Randy Rhoads clipped the band's tour bus with a wing and crashed into a tree. Rhoads, the pilot Andrew Aycock and the make-up artist Rachel Youngblood were killed.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Beechcraft_Bonanza"
+    },
+    {
+      "date": "2014-05-31",
+      "title": "Matt Guthmiller's solo round-the-world flight",
+      "tag": "Record flight",
+      "summary": "The 19-year-old MIT student left in a 1981 A36 and returned on 14 July 2014 after about 30,500 miles, 23 stops and 15 countries, becoming the youngest person to fly solo around the world.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Beechcraft_Bonanza"
+    },
+    {
+      "date": "2025-11-20",
+      "title": "Textron announces the end of Bonanza production",
+      "tag": "Programme milestone",
+      "summary": "Textron Aviation said it would end production of the Bonanza G36 and Baron G58 once current orders were filled, after more than 18,000 Bonanzas had been delivered, to focus on the Beechcraft Denali turboprop.",
+      "source": "https://www.aopa.org/news-and-media/all-news/2025/november/21/textron-halts-bonanza-baron-lines"
+    }
+  ]
+}
