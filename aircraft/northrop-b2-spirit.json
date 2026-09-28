@@ -23,7 +23,9 @@
     "It has no vertical tail at all: yaw is controlled by split 'drag rudder' surfaces near the wingtips that crack open into the airflow.",
     "The 2008 crash of 'Spirit of Kansas' on Guam - caused by moisture in three air-data sensors - was the most expensive aviation accident in history (~$1.4B). Both pilots ejected safely.",
     "In June 2025, seven B-2s flew a 37-hour round trip from Missouri to drop fourteen 30,000 lb GBU-57 bunker-busters on Iran's Fordow and Natanz nuclear sites - the weapon's first ever operational use.",
-    "The whole fleet lives in climate-controlled hangars at one base (Whiteman AFB, Missouri) - the radar-absorbing skin is so maintenance-sensitive that the B-2 long deployed with portable shelters."
+    "The whole fleet lives in climate-controlled hangars at one base (Whiteman AFB, Missouri) - the radar-absorbing skin is so maintenance-sensitive that the B-2 long deployed with portable shelters.",
+    "To bring the B-2 to life, Northrop Grumman had to invent all components from scratch. That list included tools, a software laboratory, composite materials, special test equipment, and 3-D modeling and computer systems. Related manufacturing processes were also created.",
+    "The B-2 saw its first operational use during Operation Allied Force. Two B-2s flew more than 31 hours from Whiteman Air Force Base in Missouri to Kosovo. They attacked multiple targets, then flew directly back. The B-2s flew less than 1 percent of the total missions, yet destroyed 33 percent of the targets during the first eight weeks of conflict."
   ],
   "specifications": {
     "specificationsNote": "",
@@ -67,7 +69,7 @@
     "unitCost": {
       "usd": 2130000000,
       "text": "~$2.13B per unit in 2026, $737M when production started in 1997",
-      "inflationText": "≈$4.2B in 2026 dollars (program unit cost)"
+      "inflationText": ""
     }
   },
   "variants": [
@@ -330,6 +332,10 @@
     {
       "name": "Damaged B-2 Won't Be Repaired, Fleet To Shrink To 19 Jets - TWZ",
       "url": "https://www.twz.com/air/damaged-b-2-wont-be-repaired-fleet-to-shrink-to-19-jets"
+    },
+    {
+      "name": "10 Cool Facts about the B-2",
+      "url": "https://www.northropgrumman.com/what-we-do/aircraft/b-2-stealth-bomber/10-cool-facts"
     }
   ],
   "changelog": [
@@ -361,6 +367,11 @@
     {
       "date": "2026-09-09",
       "change": "Recorded the permanent loss of the fire-damaged airframe that reduced the fleet to 19, and attached the two previously uncited references.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-09-28",
+      "change": "Added new facts, new reading material, and updated cost for 2026 inflation so it better represents on Aircraft of the Week.",
       "author": "planesdb"
     }
   ],
