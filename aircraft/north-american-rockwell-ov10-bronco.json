@@ -1,0 +1,370 @@
+{
+  "name": "OV-10 Bronco",
+  "fullName": "North American Rockwell OV-10 Bronco",
+  "manufacturer": "North American Rockwell",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Light Attack & Observation Aircraft",
+  "tagline": "The North American Rockwell OV-10 Bronco is an American two-seat, twin-turboprop, twin-boom light attack and observation aircraft built for the U.S. Marine Corps, Air Force and Navy. It first flew on 16 July 1965, 360 were built, and it flew forward air control and armed reconnaissance missions from Vietnam to the fight against ISIS in 2015.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The rear fuselage could carry 3,200 lb of cargo, five combat troops, or two stretchers and a medical attendant.",
+    "81 OV-10s were lost in the Vietnam War: 64 USAF, 10 Marine Corps and 7 Navy.",
+    "The Navy's VAL-4 'Black Ponies' flew armed OV-10s in support of SEALs and river boats from January 1969 to April 1972.",
+    "In 2015 two OV-10G+ Broncos flew more than 120 combat sorties against ISIS in 82 days.",
+    "Its low speed and lack of modern countermeasures left it vulnerable in the 1991 Gulf War, where two Marine Corps OV-10s were shot down.",
+    "CalFire still flies OV-10s to lead its firefighting air tankers over the drop zone."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the OV-10A from the National Museum of the U.S. Air Force and Hurlburt Field, with empty weight from Wikipedia. Wikipedia gives the OV-10A 250 knots, a 30,000 ft ceiling and a 198 nm combat radius; the OV-10D had 1,040 shp engines. The unit cost is the Air Force's published $480,000, which gives no year; it has been CPI-adjusted from 1968, when OV-10As were being delivered. Only the month of the first combat deployment (July 1968) is published.",
+    "maxSpeed": {
+      "mph": 281,
+      "text": "244 kn (281 mph / 452 km/h)"
+    },
+    "cruiseSpeed": "223 mph (359 km/h)",
+    "range": {
+      "miles": 1240,
+      "text": "1,240 mi (1,996 km)"
+    },
+    "serviceCeiling": {
+      "ft": 26000,
+      "text": "26,000 ft (7,925 m)"
+    },
+    "wingspan": {
+      "ft": 40,
+      "text": "40 ft (12.19 m)"
+    },
+    "length": {
+      "ft": 42,
+      "text": "41 ft 7 in (12.67 m)"
+    },
+    "height": {
+      "ft": 15,
+      "text": "15 ft 1 in (4.60 m)"
+    },
+    "weight": "empty: 6,893 lb (3,127 kg); MTOW: 14,444 lb (6,552 kg)",
+    "engines": "2 × Garrett-AiResearch T76 turboprops, 715 shp each",
+    "crew": "2",
+    "capacity": "3,200 lb cargo, 5 troops, or 2 stretchers and an attendant",
+    "armament": "4 × 7.62 mm M60C machine guns in the sponsons; up to 3,600 lb of rockets, bombs, gun pods or missiles",
+    "combatLosses": "81 in Vietnam (64 USAF, 10 USMC, 7 USN); USMC losses in the 1991 Gulf War",
+    "firstFlight": {
+      "date": "1965-07-16",
+      "year": 1965
+    },
+    "serviceEntryDate": "1968-07-01",
+    "retiredDate": "2024-12-28",
+    "numberBuilt": 360,
+    "unitCost": {
+      "usd": 4620000,
+      "text": "$4.6M in 2026 dollars (CPI-adjusted)",
+      "inflationText": "Originally $480,000 (1960s)"
+    }
+  },
+  "variants": [
+    {
+      "code": "YOV-10A / OV-10A",
+      "desc": "The prototypes, first flown on 16 July 1965 with 600 shp T76 engines and later 715 shp units, and the main production model, 271 built. The Air Force took 157 as forward air controllers and the Marine Corps 114. The first production aircraft flew in August 1967, and OV-10A production ended in April 1969."
+    },
+    {
+      "code": "OV-10B / OV-10B(Z)",
+      "desc": "Target-towing versions built for West Germany. The OV-10B(Z) added a J85 turbojet to the two turboprops."
+    },
+    {
+      "code": "OV-10C / E / F",
+      "desc": "Export versions of the OV-10A: 32 OV-10Cs for Thailand, most of them later donated to the Philippines in 2004, 16 OV-10Es for Venezuela, and 16 OV-10Fs bought by Indonesia in 1976. Venezuelan OV-10Es took part in the failed coup attempt of 27 November 1992, in which four were lost."
+    },
+    {
+      "code": "OV-10D",
+      "desc": "The Marine Corps' Night Observation System version, 17 converted from OV-10As, with 1,040 shp engines and night-vision sensors. It flew in the 1991 Gulf War, where VMO-2 flew 286 combat missions. The Marine Corps retired its last Broncos in 1995."
+    },
+    {
+      "code": "OV-10G+",
+      "desc": "Two ex-NASA and State Department aircraft upgraded for the Combat Dragon II experiment. With $20 million allocated in 2012, they deployed from May 2015 and flew more than 120 combat sorties over 82 days against ISIS."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Forward Air Control",
+      "status": "Retired",
+      "since": "1968",
+      "fleetSize": "157",
+      "homeBase": "504th Tactical Air Support Group, Bien Hoa, South Vietnam; retired August 1991"
+    },
+    {
+      "name": "United States Marine Corps",
+      "role": "Observation & Light Attack",
+      "status": "Retired",
+      "since": "1968",
+      "fleetSize": "114",
+      "homeBase": "VMO-1 and VMO-2; retired 1995"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Light Attack (VAL-4 Black Ponies)",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "1 squadron",
+      "homeBase": "South Vietnam; January 1969 to April 1972"
+    },
+    {
+      "name": "Philippine Air Force",
+      "role": "Light Attack",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "41 (24 + 9 OV-10A, 8 OV-10C)",
+      "homeBase": "Philippines; withdrawn 28 December 2024"
+    },
+    {
+      "name": "Royal Thai Air Force",
+      "role": "Light Attack",
+      "status": "Retired",
+      "since": "Early 1970s",
+      "fleetSize": "32 OV-10C",
+      "homeBase": "Thailand; most passed to the Philippines in 2004"
+    },
+    {
+      "name": "Colombian Air Force",
+      "role": "Light Attack",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "12",
+      "homeBase": "Colombia; retired November 2015"
+    },
+    {
+      "name": "German Air Force",
+      "role": "Target Towing",
+      "status": "Retired",
+      "since": "Cold War",
+      "fleetSize": "OV-10B / OV-10B(Z)",
+      "homeBase": "West Germany"
+    },
+    {
+      "name": "Other military operators",
+      "role": "Light Attack (historical)",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "38+ across 3 air arms",
+      "homeBase": "Indonesia (16 OV-10F, grounded 2007), Venezuela (16 OV-10E), Morocco (6 ex-USMC)"
+    },
+    {
+      "name": "CalFire",
+      "role": "Air Attack (firefighting)",
+      "status": "In Service",
+      "since": "1993",
+      "fleetSize": "19 acquired in 1993",
+      "homeBase": "California"
+    }
+  ],
+  "survivors": {
+    "intro": "Broncos are displayed at museums across the United States and abroad, and the OV-10 Squadron at Chino, California, is returning ex-Marine OV-10Ds to flying condition.",
+    "airframes": [
+      {
+        "name": "OV-10A (Southeast Asia markings)",
+        "location": "National Museum of the United States Air Force - Southeast Asia War Gallery",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196062/north-american-rockwell-ov-10a-bronco/",
+        "note": "Arrived in October 1991 and displayed in its original Southeast Asia service markings.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "155493",
+        "name": "OV-10D",
+        "location": "OV-10 Squadron",
+        "place": "Chino, California, United States",
+        "url": "https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco",
+        "note": "The first of seven OV-10Ds being restored by the group; it returned to flight in July 2019.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "BRON",
+    "howToFind": "The most reliable place to see OV-10s in the air is California during fire season, where CalFire's air attack Broncos fly ahead of the tankers. Restored OV-10Ds from Chino also appear at air shows."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from the National Museum of the U.S. Air Force, Hurlburt Field, the Naval History and Heritage Command, Wikipedia and The Aviation Geek Club.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Bronco",
+    "OV10",
+    "OV-10A",
+    "OV-10D",
+    "Black Ponies",
+    "VAL-4",
+    "LARA",
+    "forward air control",
+    "Combat Dragon II"
+  ],
+  "article": {
+    "overview": [
+      "The North American Rockwell OV-10 Bronco is an American two-seat, twin-turboprop light attack and observation aircraft with a twin-boom layout, built by North American Rockwell for the U.S. Marine Corps, Air Force and Navy. It was designed to a tri-service requirement conceived by the Marine Corps, and the YOV-10A prototype first flew on 16 July 1965. {{ref:wiki-ov10}} {{ref:nmusaf-ov10}}",
+      "Between 1965 and 1986, 360 were built. The Bronco flew forward air control and armed reconnaissance in Vietnam, where 81 were lost, and served the Marine Corps in the 1991 Gulf War. The United States retired it in the 1990s, but it flew combat again against ISIS in 2015 and served the Philippine Air Force until 28 December 2024. {{ref:wiki-ov10}} {{ref:hurlburt-ov10}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the LARA Requirement",
+        "paragraphs": [
+          "In 1963 the U.S. services issued a requirement for a Light Armed Reconnaissance Aircraft (LARA), a light attack and observation type for counter-insurgency work that the Marine Corps, Air Force and Navy could all use. Eleven proposals were submitted in March 1963, and in August 1964 North American Aviation's NA-300 was selected. {{ref:wiki-ov10}} {{ref:nmusaf-ov10}} {{ref:nhhc-ov10}}",
+          "The YOV-10A prototype first flew on 16 July 1965 with 600 shp Garrett T76 turboprops, later replaced by 715 shp versions. The first production order was placed in 1966, the first production OV-10A flew in August 1967, and production of the A model ended in April 1969. In all 360 Broncos were built from 1965 to 1986. {{ref:wiki-ov10}} {{ref:hurlburt-ov10}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Bronco's two crew sat on ejection seats in a central fuselage between two tail booms. Stub sponsons on the fuselage carried four 7.62 mm M60C machine guns and hardpoints, and the aircraft could carry up to 3,600 lb of rockets, bombs, gun pods or missiles. {{ref:wiki-ov10}} {{ref:nmusaf-ov10}}",
+          "The rear of the fuselage was a small cargo bay that held 3,200 lb of cargo, five combat troops, or two stretchers and a medical attendant. The OV-10A spans 40 ft (12.19 m), is 41 ft 7 in (12.67 m) long and weighs 14,444 lb at maximum weight. It was built for short take-off and landing from rough strips, needing a take-off run of 740 ft, and the Air Force gives it a top speed of 281 mph and a range of 1,240 miles. {{ref:nmusaf-ov10}} {{ref:wiki-ov10}}"
+        ]
+      },
+      {
+        "heading": "Vietnam War",
+        "paragraphs": [
+          "The first Air Force OV-10As for combat arrived in Vietnam in July 1968, and 157 were delivered to the Air Force in all, mainly for forward air control with units such as the 504th Tactical Air Support Group at Bien Hoa. They also flew observation, helicopter escort, armed reconnaissance, gunfire spotting and utility missions. The Marine Corps' first Broncos, for VMO-2, arrived at Da Nang on 6 July 1968, and the Corps took 114 in all. {{ref:nmusaf-ov10}} {{ref:hurlburt-ov10}} {{ref:wiki-vmo2}}",
+          "From 1971 the 23rd Tactical Air Support Squadron flew Pave Nail OV-10As fitted with a Pave Spot laser designator and night equipment, marking targets on the Ho Chi Minh Trail for laser-guided bombs dropped by F-4 Phantoms; they reverted to standard OV-10As after 1974. The Navy formed Light Attack Squadron Four (VAL-4), the 'Black Ponies', in January 1969 and flew it until April 1972, interdicting enemy supply lines and supporting Marines, SEALs and river boats. The war cost 81 Broncos: 64 Air Force, 10 Marine Corps and 7 Navy. {{ref:nhhc-ov10}} {{ref:wiki-ov10}}"
+        ]
+      },
+      {
+        "heading": "Later U.S. Service & the Gulf War",
+        "paragraphs": [
+          "In the late 1980s the Air Force began replacing its Broncos with the OA-37B and OA-10A, and its last two OV-10 squadrons retired the type in 1991. The Marine Corps kept two observation squadrons, each with nine OV-10As and nine OV-10Ds. It had 17 OV-10As converted to OV-10Ds with the Night Observation System and 1,040 shp engines, and took its Broncos to the Gulf War; its units arrived in Saudi Arabia on 17 January 1991. VMO-2 flew 286 combat missions and 900 hours there. {{ref:hurlburt-ov10}} {{ref:wiki-ov10}} {{ref:wiki-vmo2}}",
+          "The Bronco's low speed, low-altitude work and lack of modern countermeasures made it vulnerable. On 25 February 1991 an Iraqi surface-to-air missile shot down OV-10A 155424 of VMO-1; the observer, Capt. David Spellacy, was killed, and the pilot, Maj. Joseph Small, was captured and released on 6 March. It was the last Marine Corps combat loss of a Bronco. The Corps retired the type in 1995, with VMO-1 and VMO-2 the last squadrons. {{ref:tagc-ov10}} {{ref:wiki-ov10}} {{ref:nhhc-ov10}}"
+        ]
+      },
+      {
+        "heading": "Export & Civil Operators",
+        "paragraphs": [
+          "Thailand bought 32 new OV-10Cs in the early 1970s for counter-insurgency work, and its Broncos reportedly won most Thai bombing competitions until the F-5E arrived; most were passed to the Philippines in 2004. The Philippine Air Force had received 24 OV-10As in 1991 and nine more later, and used them in combat as late as 1 June 2017, when they bombed Maute group positions in the Battle of Marawi, before retiring the type on 28 December 2024 in favour of the Embraer Super Tucano. Colombia flew 12 ex-USAF OV-10As in counter-insurgency operations from 1991 to November 2015, losing at least one in combat, and Indonesia grounded its 16 OV-10Fs after a fatal accident on 23 July 2007. Morocco took six ex-Marine aircraft in 1981 and one was shot down in 1985. {{ref:wiki-ov10}}",
+          "Venezuelan OV-10Es took part in the failed coup attempt of 27 November 1992, in which four Broncos were lost, two of them shot down by F-16s. In civil hands, the Bureau of Land Management flew seven for firefighting until 1999, NASA used the third prototype for low-speed research in the 1970s, and in 1993 CalFire acquired six surviving BLM aircraft and 13 former Marine Corps OV-10As to replace its Cessna O-2s as air attack aircraft, leading its air tankers over the drop zone. {{ref:wiki-ov10}}"
+        ]
+      },
+      {
+        "heading": "Combat Dragon II & Current Status",
+        "paragraphs": [
+          "In 2012, $20 million was allocated to an experimental Bronco unit. Two OV-10G+ aircraft, taken from NASA and State Department stocks, deployed in May 2015 and flew more than 120 combat sorties over 82 days against ISIS in Iraq, providing close air support for special forces. The Air Force judged the experiment a success but said regular reactivation was unlikely because of the overhead costs. Boeing had proposed a modernised OV-10X with a glass cockpit, sensors and smart weapons in 2009, but it was not built. {{ref:wiki-ov10}}",
+          "The Philippine Air Force retired the last military Broncos at the end of 2024, while CalFire continues to fly OV-10s. NASA kept one at Langley for low-speed and wake research as late as 2009, along with three ex-State Department aircraft from drug-eradication work. The OV-10 Squadron at Chino, California, is restoring seven ex-Marine OV-10Ds, and the first, 155493, returned to flight in July 2019. {{ref:wiki-ov10}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-ov10",
+      "name": "North American Rockwell OV-10 Bronco",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco"
+    },
+    {
+      "id": "nmusaf-ov10",
+      "name": "North American Rockwell OV-10A Bronco fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196062/north-american-rockwell-ov-10a-bronco/"
+    },
+    {
+      "id": "hurlburt-ov10",
+      "name": "OV-10 Bronco fact sheet",
+      "publisher": "Hurlburt Field (U.S. Air Force)",
+      "url": "https://www.hurlburt.af.mil/About-Us/Fact-Sheets/Fact-Sheets/article/204576/ov-10-bronco/"
+    },
+    {
+      "id": "nhhc-ov10",
+      "name": "OV-10 Bronco",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/aircraft-us/aircraft-usn-o/ov10-bronco.html"
+    },
+    {
+      "id": "wiki-vmo2",
+      "name": "VMO-2",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/VMO-2"
+    },
+    {
+      "id": "tagc-ov10",
+      "name": "This OV-10A has been the last USMC combat loss of a Bronco",
+      "publisher": "The Aviation Geek Club",
+      "url": "https://theaviationgeekclub.com/this-ov-10a-has-been-the-last-usmc-combat-loss-of-a-bronco/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "North American Rockwell OV-10A Bronco - National Museum of the U.S. Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196062/north-american-rockwell-ov-10a-bronco/"
+    },
+    {
+      "name": "OV-10 Bronco - Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/aircraft-us/aircraft-usn-o/ov10-bronco.html"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1965-07-16",
+      "title": "YOV-10A first flight",
+      "tag": "First flight",
+      "summary": "The first prototype flew with 600 shp Garrett T76 turboprops, 11 months after North American's NA-300 won the LARA competition.",
+      "source": "https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco"
+    },
+    {
+      "date": "1968-07-06",
+      "title": "First Marine Broncos arrive at Da Nang",
+      "tag": "Combat debut",
+      "summary": "VMO-2 received its first OV-10s in Vietnam. The first Air Force OV-10As for combat arrived the same month.",
+      "source": "https://en.wikipedia.org/wiki/VMO-2"
+    },
+    {
+      "date": "1969-01-03",
+      "title": "Navy forms VAL-4 Black Ponies",
+      "tag": "Programme milestone",
+      "summary": "The Navy's only OV-10 attack squadron formed to support riverine forces and SEALs. It flew until April 1972 and lost seven Broncos.",
+      "source": "https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco"
+    },
+    {
+      "date": "1991-02-25",
+      "title": "VMO-1 OV-10A shot down over Kuwait",
+      "tag": "Shot down",
+      "summary": "OV-10A 155424 was hit by an Iraqi surface-to-air missile. Capt. David Spellacy was killed and Maj. Joseph Small was captured, then released on 6 March 1991. It was the last Marine Corps combat loss of a Bronco.",
+      "fatalities": 1,
+      "source": "https://theaviationgeekclub.com/this-ov-10a-has-been-the-last-usmc-combat-loss-of-a-bronco/"
+    },
+    {
+      "date": "1992-11-27",
+      "title": "Venezuelan Broncos in failed coup attempt",
+      "tag": "Shot down",
+      "summary": "Rebel OV-10Es took part in the coup attempt; four Broncos were lost, two of them shot down by Venezuelan F-16s.",
+      "source": "https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco"
+    },
+    {
+      "date": "2007-07-23",
+      "title": "Indonesian OV-10F fleet grounded",
+      "tag": "Fatal accident",
+      "summary": "Indonesia grounded its OV-10Fs after a fatal accident, and replaced them with Embraer Super Tucanos in 2012.",
+      "source": "https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco"
+    },
+    {
+      "date": "2015-05-01",
+      "title": "Combat Dragon II deploys against ISIS",
+      "tag": "Combat deployment",
+      "summary": "Two OV-10G+ Broncos began a deployment in which they flew more than 120 combat sorties over 82 days.",
+      "source": "https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco"
+    },
+    {
+      "date": "2024-12-28",
+      "title": "Philippine Air Force retires the Bronco",
+      "tag": "Retirement",
+      "summary": "The last military operator withdrew its OV-10s from service, replacing them with the Embraer Super Tucano.",
+      "source": "https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco"
+    }
+  ]
+}

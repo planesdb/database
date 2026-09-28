@@ -1,0 +1,344 @@
+{
+  "name": "P-38 Lightning",
+  "fullName": "Lockheed P-38 Lightning",
+  "manufacturer": "Lockheed",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Twin-Engine Fighter & Reconnaissance Aircraft",
+  "tagline": "The Lockheed P-38 Lightning is an American single-seat, twin-engine, twin-boom fighter built by Lockheed for the U.S. Army Air Forces in the Second World War. It was the first American fighter to exceed 400 mph in level flight, and 10,037 were built between 1941 and 1945.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "It was the first American fighter to fly faster than 400 mph in level flight.",
+    "Richard Bong, America's top-scoring ace, shot down all 40 of his victories in P-38s.",
+    "On 18 April 1943 P-38Gs flew 435 miles at 10 to 50 ft above the sea to intercept and shoot down Admiral Yamamoto's transport.",
+    "In steep dives near Mach 0.68 its nose tucked under and the controls locked, a compressibility problem only fixed by dive flaps in 1944.",
+    "Antoine de Saint-Exupéry, author of The Little Prince, disappeared over the Mediterranean in an F-5B reconnaissance Lightning on 31 July 1944.",
+    "Glacier Girl was dug out from under the Greenland ice cap in 1992, 50 years after landing there, and flew again on 26 October 2002."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the P-38L, the most-built version, from the Army Air Corps Museum and The Museum of Flight. The Museum of Flight gives 1,475 hp per engine and the Hill Aerospace Museum 1,425 hp for earlier models; the Smithsonian counts 10,038 built against Wikipedia's 10,037. The unit cost is the Hill Aerospace Museum's average P-38 cost for 1944, adjusted with US CPI. Only the month of service entry (July 1941) is published.",
+    "maxSpeed": {
+      "mph": 414,
+      "text": "360 kn (414 mph / 666 km/h)"
+    },
+    "cruiseSpeed": "275 mph (443 km/h)",
+    "range": {
+      "miles": 1300,
+      "text": "1,300 mi (2,092 km)"
+    },
+    "serviceCeiling": {
+      "ft": 44000,
+      "text": "44,000 ft (13,411 m)"
+    },
+    "wingspan": {
+      "ft": 52,
+      "text": "52 ft (15.85 m)"
+    },
+    "length": {
+      "ft": 38,
+      "text": "37 ft 10 in (11.53 m)"
+    },
+    "height": {
+      "ft": 13,
+      "text": "12 ft 10 in (3.91 m)"
+    },
+    "weight": "empty: 12,780 lb (5,797 kg); MTOW: 21,600 lb (9,798 kg)",
+    "engines": "2 × Allison V-1710-111/113 turbosupercharged V12s, 1,600 hp each, with counter-rotating propellers",
+    "crew": "1",
+    "capacity": "None - single-seat fighter",
+    "armament": "1 × 20 mm Hispano M2 cannon and 4 × .50 in M2 Browning machine guns in the nose; up to 3,200 lb of bombs or rockets",
+    "combatLosses": "1.3 percent loss rate across 130,000 sorties in Europe; one P-38 lost on the Yamamoto mission",
+    "firstFlight": {
+      "date": "1939-01-27",
+      "year": 1939
+    },
+    "serviceEntryDate": "1941-07-01",
+    "retiredDate": "1965",
+    "numberBuilt": 10037,
+    "unitCost": {
+      "usd": 1849000,
+      "text": "$1.8M in 2026 dollars (1944 average, CPI-adjusted)",
+      "inflationText": "Originally $97,147 (1944)"
+    }
+  },
+  "variants": [
+    {
+      "code": "XP-38 / YP-38",
+      "desc": "The prototype and service-test aircraft. The XP-38 first flew on 27 January 1939 and was destroyed in a crash landing at the end of a record transcontinental attempt on 11 February 1939. Lockheed's contract price for it was $163,000 against an actual cost of $761,000. Thirteen YP-38s followed at $134,284 each."
+    },
+    {
+      "code": "P-38E / F / G / H",
+      "desc": "The early combat models. The P-38E (210 built) revised the armament, the P-38F (527) was the first fully combat-capable version, the P-38G (1,082) brought improved engines and flew the Yamamoto mission, and the P-38H (601) added an automatic cooling system. Engine cooling on the G and H caused problems in the cold, damp air over Europe."
+    },
+    {
+      "code": "P-38J / P-38L",
+      "desc": "The definitive fighters. The P-38J (2,970 built) introduced new cooling and electrical systems, and the final 210 received dive flaps in spring 1944 to cure the compressibility problem. The P-38L (3,810 built by Lockheed) had improved engines and rocket pylons, and the Smithsonian credits it with better than 420 mph between 25,000 and 30,000 ft."
+    },
+    {
+      "code": "F-4 / F-5 (reconnaissance)",
+      "desc": "Unarmed photo-reconnaissance versions with cameras in place of the nose guns: over 100 F-4s based on the P-38E, 180 F-5As from the P-38G, 200 F-5Bs from the P-38J, and 123 F-5Cs and 705 F-5Es converted from P-38Js and Ls. Antoine de Saint-Exupéry was lost in an F-5B on 31 July 1944."
+    },
+    {
+      "code": "P-38M and trainers",
+      "desc": "The P-38M was a two-seat night fighter, 75 of them converted from P-38Ls; one flew for the CIA in the 1954 Guatemalan coup. The USAAF also used 147 RP-322 trainers, which lacked counter-rotating propellers, and the Royal Air Force tested three Lightning Is in 1942 before cancelling all but three of its 143."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "~10,000 built for USAAF",
+      "homeBase": "Pacific, Mediterranean and European theatres"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Postwar Fighter & Reconnaissance",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "100 (60 P-38L, 40 F-5)",
+      "homeBase": "Italy; phased out in 1956"
+    },
+    {
+      "name": "Honduran Air Force",
+      "role": "Postwar Fighter",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "12",
+      "homeBase": "Honduras; used in the 1957 Nicaragua border dispute, retired 1965"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Evaluation (Lightning I)",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "3 tested (143 ordered)",
+      "homeBase": "Swaythling, England"
+    },
+    {
+      "name": "Other operators",
+      "role": "Reconnaissance & Fighter (historical)",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "26+ across four air arms",
+      "homeBase": "Free French Air Force (F-5), RAAF (3 F-4s, 1942), China (15), Dominican Republic (6 F-5, 2 P-38)"
+    }
+  ],
+  "survivors": {
+    "intro": "26 P-38s survive, 10 of them airworthy. They include a Greenland ice-cap recovery and a Smithsonian aircraft that Richard Bong flew in 1945.",
+    "airframes": [
+      {
+        "serial": "41-7630",
+        "name": "Glacier Girl",
+        "location": "Lewis Air Legends",
+        "place": "San Antonio, Texas, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_P-38_Lightnings",
+        "note": "A P-38F abandoned on the Greenland ice cap during a ferry flight to Britain, recovered in 1992 and flown again on 26 October 2002. Airworthy.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "42-67762",
+        "name": "P-38J-10-LO",
+        "location": "Smithsonian National Air and Space Museum - Steven F. Udvar-Hazy Center",
+        "place": "Chantilly, Virginia, United States",
+        "url": "https://airandspace.si.edu/collection-objects/lockheed-p-38j-10-lo-lightning/nasm_A19600295000",
+        "note": "Accepted on 6 November 1943 and converted to a two-seat instrument trainer. Richard Bong flew it at Wright Field on 16 April 1945, when its right engine failed.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-53232",
+        "name": "P-38L",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_P-38_Lightnings",
+        "note": "Static display.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-53254",
+        "name": "White Lightnin'",
+        "location": "The Flying Bulls",
+        "place": "Salzburg, Austria",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_P-38_Lightnings",
+        "note": "Airworthy P-38L flown at air shows in Europe.",
+        "countryCode": "at",
+        "country": "Austria"
+      },
+      {
+        "serial": "42-67638",
+        "location": "Hill Aerospace Museum",
+        "place": "Hill AFB, Utah, United States",
+        "url": "https://www.aerospaceutah.org/museum/our-collections/aircraft-collection/p-38-lightning/",
+        "note": "Flew with the 54th Fighter Squadron in the Aleutians, crash-landed on Buldir Island on 2 February 1945, and was recovered in 1994.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "P38",
+    "howToFind": "Around ten P-38s are airworthy, mostly in the United States, with The Flying Bulls' White Lightnin' in Austria. Most do not show on the map outside the summer air show season; look near warbird museums such as Chino, California, or at major shows like Oshkosh."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, the Smithsonian National Air and Space Museum, The Museum of Flight, the Hill Aerospace Museum and the Army Air Corps Museum.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Lightning",
+    "P38",
+    "F-5 Lightning",
+    "fork-tailed devil",
+    "Glacier Girl",
+    "Richard Bong",
+    "Yamamoto",
+    "twin-boom"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed P-38 Lightning is an American single-seat, twin-engine fighter built by Lockheed for the U.S. Army Air Forces. Its pilot sat in a central nacelle between two booms that carried the engines and tail. It was the first American fighter to exceed 400 mph in level flight, and the only American fighter in production for the whole of the country's involvement in the Second World War. {{ref:wiki-p38}} {{ref:nasm-p38}}",
+      "Lockheed built 10,037 between 1941 and 1945. In the Pacific its pilots shot down more Japanese aircraft than those of any other Army Air Forces type, and the two top-scoring American aces, Richard Bong and Thomas McGuire, both flew it. The USAAF retired it in 1949; Honduras flew the last military examples until 1965. {{ref:wiki-p38}} {{ref:nasm-p38}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Specification X-608",
+        "paragraphs": [
+          "The P-38 answered Circular Proposal X-608 of 1937, an Army Air Corps call for a twin-engined, high-altitude interceptor. Lockheed's team under Hall Hibbard and Clarence 'Kelly' Johnson had conceived the layout in 1936, and the Air Corps authorised construction in June 1937. The contract price for the prototype was $163,000; Lockheed's actual cost was $761,000. {{ref:wiki-p38}} {{ref:nasm-p38}}",
+          "Benjamin Kelsey first flew the XP-38 on 27 January 1939. On 11 February he flew it from California towards New York in a record attempt, covering the distance in 7 hours 2 minutes of flying time and reaching 420 mph, but carburettor icing forced a crash landing short of Mitchel Field that destroyed the prototype. The Air Corps still ordered 13 YP-38s, at $134,284 each. Britain ordered 667 in March 1940, and Lockheed's own name for the type, Atalanta, was dropped in favour of the British name, Lightning. {{ref:wiki-p38}}"
+        ]
+      },
+      {
+        "heading": "Design, Compressibility & Cooling",
+        "paragraphs": [
+          "Two Allison V-1710 V12s, turbosupercharged and 'handed' so that the propellers turned in opposite directions, cancelled out engine torque. Early engines gave 1,000 hp each; the P-38J's were rated at 1,600 hp. The airframe used flush-riveted aluminium and extensive stainless steel, and its wing, scaled up, later went onto the Lockheed Constellation airliner. {{ref:wiki-p38}} {{ref:nasm-p38}} The P-38's worst problem was compressibility. In steep dives approaching Mach 0.68 the nose tucked under and the controls locked. Lockheed's fix was a set of dive flaps outboard of the engine nacelles, which extended 35 degrees in 1.5 seconds, but only the final 210 P-38Js received them on the production line, in spring 1944. Two hundred retrofit kits bound for Europe were lost in March 1944 when an RAF fighter mistakenly shot down the C-54 carrying them. {{ref:wiki-p38}} {{ref:nasm-p38}}",
+          "With no propeller in front of the pilot, the guns could be grouped in the nose: a 20 mm Hispano cannon with 150 rounds and four .50 in Browning machine guns with 500 rounds each, firing about 4,000 rounds a minute together and able to hit targets reliably at up to 1,000 yards. The layout had a serious drawback on take-off. If one engine failed, torque and propeller effects produced a yaw and roll the pilot could not control, and pilots had to be taught to reduce power on the good engine and bring it back gradually. {{ref:wiki-p38}} Buffeting where the wing met the central nacelle, caused by a 40 percent rise in local airspeed, was cured with fillets between the wing, cockpit and engine nacelles. Engine cooling on the P-38G and H was inadequate in the cold, damp conditions over Europe, and it was only improved on the J and L. {{ref:wiki-p38}}"
+        ]
+      },
+      {
+        "heading": "Combat History: The Pacific",
+        "paragraphs": [
+          "P-38s began operating over the Aleutian Islands on 29 May 1942, and on 9 August two P-38Es of the 343rd Fighter Group shot down two Kawanishi H6K flying boats, the first Japanese aircraft destroyed by Lightnings. Its range and twin-engine reliability suited the long overwater flights of the Pacific. On 18 April 1943 P-38Gs of the 70th and 339th Fighter Squadrons flew 435 miles from Guadalcanal at 10 to 50 ft above the sea to intercept Admiral Isoroku Yamamoto near Bougainville. They destroyed two Mitsubishi G4M bombers, including Yamamoto's, for the loss of one P-38, and Rex Barber was credited with the kill. {{ref:nasm-p38}} {{ref:wiki-p38}}",
+          "P-38 pilots were credited with more than 1,800 Japanese aircraft, and more than 100 became aces. Richard Bong scored 40 victories, Thomas McGuire 38 and Charles MacDonald 27. McGuire was killed in a P-38 crash in January 1945, and Bong died testing a P-80 jet on 6 August 1945. By the end of the war P-38Ls flying from Dutch New Guinea could fly 950 miles, fight for 15 minutes and return. {{ref:wiki-p38}} {{ref:nasm-p38}}"
+        ]
+      },
+      {
+        "heading": "Combat History: Europe & the Mediterranean",
+        "paragraphs": [
+          "The first Luftwaffe aircraft destroyed by the USAAF fell to P-38Fs flying from Iceland on 14 August 1942, when Elza Shahan and Joseph Shaffer shot down a Focke-Wulf Fw 200 Condor. Lightnings went into action over North Africa on 11 November 1942, and on 5 April 1943, 26 P-38Fs of the 82nd Fighter Group claimed 31 enemy aircraft; Life magazine later attributed the nickname 'fork-tailed devil' to a German prisoner, though the attribution is doubtful. On 10 June 1944, 96 P-38Js of the 1st and 82nd Fighter Groups attacked the oil refineries at Ploiesti, 46 of them diving from 7,000 ft to below 3,000 ft to drop 1,000 lb bombs. Eleven Lightnings were lost, and the 82nd received a Presidential Unit Citation. {{ref:wiki-p38}}",
+          "The 55th Fighter Group brought P-38Hs to the Eighth Air Force in England in September 1943, followed by the 20th, 364th and 479th. In Europe P-38s flew 130,000 sorties with an overall loss rate of 1.3 percent, but the cooling problems of the G and H models told there, and by September 1944 all but one Lightning group in the theatre had converted to the P-51 Mustang. Its twin-boom shape made it hard to mistake for an enemy aircraft, and General Jimmy Doolittle flew one over the Normandy invasion, calling it 'the sweetest-flying plane in the sky'. The 370th and 474th Fighter Groups kept flying P-38s as fighter-bombers from England and France into 1945. {{ref:wiki-p38}}"
+        ]
+      },
+      {
+        "heading": "Photo Reconnaissance",
+        "paragraphs": [
+          "About 1,200 Lightnings, roughly one in nine built, were assigned to reconnaissance as unarmed F-4s and F-5s, with cameras in place of the nose guns. The Eighth Air Force went on flying F-5 reconnaissance missions after it withdrew its P-38 fighters in September 1944. {{ref:wiki-p38}}",
+          "Three F-4s served with the Royal Australian Air Force from September 1942, and Free French pilots flew F-5s. Antoine de Saint-Exupéry, the author of The Little Prince, disappeared over the Mediterranean in an F-5B on 31 July 1944. {{ref:wiki-p38}}"
+        ]
+      },
+      {
+        "heading": "Postwar Service & Legacy",
+        "paragraphs": [
+          "When the war ended, orders for 1,887 more P-38s were cancelled, and the USAAF retired the type in 1949. Italy received 100 under an April 1946 agreement, 60 P-38Ls and 40 F-5s, and phased them out in 1956. Honduras flew 12 in its 1957 border dispute with Nicaragua and kept them until 1965, China retained 15, and the Dominican Republic had six F-5s and two P-38s at San Isidro in 1947. A CIA P-38M dropped napalm on the freighter SS Springfjord during the 1954 Guatemalan coup. {{ref:wiki-p38}}",
+          "Twenty-six P-38s survive, ten of them airworthy. The best known is Glacier Girl, a P-38F left on the Greenland ice cap during a ferry flight to Britain in 1942, recovered from beneath the ice in 1992 and flown again on 26 October 2002. The Smithsonian's P-38J is the aircraft Bong was flying at Wright Field on 16 April 1945 when its right engine failed. {{ref:wiki-p38-survivors}} {{ref:nasm-p38}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-p38",
+      "name": "Lockheed P-38 Lightning",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+    },
+    {
+      "id": "nasm-p38",
+      "name": "Lockheed P-38J-10-LO Lightning",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/lockheed-p-38j-10-lo-lightning/nasm_A19600295000"
+    },
+    {
+      "id": "wiki-p38-survivors",
+      "name": "List of surviving Lockheed P-38 Lightnings",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_P-38_Lightnings"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Lockheed P-38J-10-LO Lightning - National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/lockheed-p-38j-10-lo-lightning/nasm_A19600295000"
+    },
+    {
+      "name": "List of surviving Lockheed P-38 Lightnings - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_P-38_Lightnings"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1939-01-27",
+      "title": "XP-38 first flight",
+      "tag": "First flight",
+      "summary": "Benjamin Kelsey flew the prototype for the first time, less than four weeks after it was delivered on 1 January 1939.",
+      "source": "https://airandspace.si.edu/collection-objects/lockheed-p-38j-10-lo-lightning/nasm_A19600295000"
+    },
+    {
+      "date": "1939-02-11",
+      "title": "Prototype destroyed after transcontinental dash",
+      "tag": "Carburettor icing",
+      "summary": "Kelsey flew the XP-38 across the United States in 7 hours 2 minutes of flying time, reaching 420 mph, but carburettor icing forced a crash landing near Mitchel Field, New York, that destroyed the aircraft.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+    },
+    {
+      "date": "1943-04-18",
+      "title": "Operation Vengeance: Yamamoto shot down",
+      "tag": "Combat mission",
+      "summary": "P-38Gs of the 70th and 339th Fighter Squadrons flew 435 miles at wave-top height from Guadalcanal and shot down two G4M bombers near Bougainville, killing Admiral Isoroku Yamamoto. One P-38 was lost.",
+      "source": "https://airandspace.si.edu/collection-objects/lockheed-p-38j-10-lo-lightning/nasm_A19600295000"
+    },
+    {
+      "date": "1944-07-31",
+      "title": "Antoine de Saint-Exupéry lost in an F-5B",
+      "tag": "Loss in flight",
+      "summary": "The French author disappeared over the Mediterranean while flying an F-5B reconnaissance Lightning.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+    },
+    {
+      "date": "1945-02-02",
+      "title": "P-38 crash-lands on Buldir Island, Aleutians",
+      "tag": "Forced landing",
+      "summary": "42-67638 of the 54th Fighter Squadron crash-landed on Buldir Island. It stayed there until 1994 and is now restored at the Hill Aerospace Museum.",
+      "source": "https://www.aerospaceutah.org/museum/our-collections/aircraft-collection/p-38-lightning/"
+    },
+    {
+      "date": "1954-06-27",
+      "title": "CIA P-38M attacks the SS Springfjord",
+      "tag": "Covert operation",
+      "summary": "During the Guatemalan coup a CIA-operated P-38M dropped napalm on the freighter SS Springfjord.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+    },
+    {
+      "date": "2002-10-26",
+      "title": "Glacier Girl flies again",
+      "tag": "Restoration",
+      "summary": "P-38F 41-7630, recovered in 1992 from beneath the Greenland ice cap where it had landed in 1942, made its first flight after restoration.",
+      "source": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_P-38_Lightnings"
+    }
+  ]
+}

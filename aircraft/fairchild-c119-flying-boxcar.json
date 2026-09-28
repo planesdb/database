@@ -1,0 +1,398 @@
+{
+  "name": "C-119 Flying Boxcar",
+  "fullName": "Fairchild C-119 Flying Boxcar",
+  "manufacturer": "Fairchild Aircraft",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Twin-Boom Military Transport & Gunship",
+  "tagline": "The Fairchild C-119 Flying Boxcar is an American twin-engine, twin-boom military transport developed from the C-82 Packet for the U.S. Air Force. 1,183 were built, and it dropped bridge sections at the Chosin Reservoir in 1950, made the first mid-air catch of a capsule returning from space in 1960, and flew as the AC-119 gunship in Vietnam.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "On 19 August 1960 C-119J 51-8037 made the world's first mid-air recovery of a capsule returning from space, snagging Discoverer XIV's parachute at 8,000 ft near Hawaii.",
+    "In December 1950 eight C-119s parachuted portable bridge sections to UN troops trapped at the Chosin Reservoir so they could cross a destroyed gap and reach Hungnam.",
+    "Fifty-two were converted into AC-119G Shadow and AC-119K Stinger gunships for the Vietnam War.",
+    "Two American pilots, James McGovern and Wallace Buford, were killed flying a CIA-supplied C-119 over Dien Bien Phu in 1954.",
+    "The U.S. airtanker fleet of C-119s was permanently grounded in 1987 over safety concerns.",
+    "Kaiser-Frazer, better known for cars, assembled 71 C-119s at Willow Run in 1952 and 1953."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the C-119G, the last major production model, mainly from the Air Mobility Command Museum. Published figures differ: Wikipedia gives a 200 mph cruise and a 1,770-mile range with 5,500 lb of cargo, and the Air Force Museum a 29,670 ft ceiling for the C-119J. The unit cost is the Hill Aerospace Museum's approximate figure, which gives no year; it has been CPI-adjusted from 1953, the middle of production. Only the month of service entry (December 1949) is published.",
+    "maxSpeed": {
+      "mph": 296,
+      "text": "257 kn (296 mph / 476 km/h)"
+    },
+    "cruiseSpeed": "200 mph (322 km/h)",
+    "range": {
+      "miles": 2280,
+      "text": "2,280 mi (3,669 km)"
+    },
+    "serviceCeiling": {
+      "ft": 23900,
+      "text": "23,900 ft (7,285 m)"
+    },
+    "wingspan": {
+      "ft": 109,
+      "text": "109 ft 3 in (33.30 m)"
+    },
+    "length": {
+      "ft": 87,
+      "text": "86 ft 6 in (26.37 m)"
+    },
+    "height": {
+      "ft": 27,
+      "text": "26 ft 6 in (8.08 m)"
+    },
+    "weight": "empty: 40,000 lb (18,144 kg); MTOW: 74,000 lb (33,566 kg)",
+    "engines": "2 × Wright R-3350-85 Duplex Cyclone 18-cylinder radials, 3,500 hp each",
+    "crew": "5",
+    "capacity": "62 troops, 35 stretchers or 30,000 lb (13,608 kg) of cargo",
+    "armament": "None on transports; AC-119K: 4 × 7.62 mm miniguns and 2 × 20 mm M61 cannon",
+    "combatLosses": "Losses in Korea, Indochina and Vietnam are not published as a single total",
+    "firstFlight": {
+      "date": "1947-11-17",
+      "year": 1947
+    },
+    "serviceEntryDate": "1949-12-01",
+    "retiredDate": "1995",
+    "numberBuilt": 1183,
+    "unitCost": {
+      "usd": 7528000,
+      "text": "$7.5M in 2026 dollars (approx., CPI-adjusted)",
+      "inflationText": "Originally ~$600,000 (1950s)"
+    }
+  },
+  "variants": [
+    {
+      "code": "XC-82B / C-119B",
+      "desc": "The prototype, a converted C-82 Packet first flown in November 1947, and the first production model, 55 built. Compared with the C-82 the cockpit moved forward to sit flush with the nose, the fuselage was longer and wider for more usable cargo space, and new engines gave 60 percent more power. Deliveries began in December 1949."
+    },
+    {
+      "code": "C-119C / C-119F",
+      "desc": "The main Korean War production models: 303 C-119Cs and 256 C-119Fs, 71 of the latter assembled by Kaiser-Frazer at Willow Run in 1952 and 1953 with Wright R-3350 engines in place of Fairchild's Pratt & Whitney R-4360s. The Navy and Marine Corps equivalents were 39 R4Q-1s and 58 R4Q-2s."
+    },
+    {
+      "code": "C-119G",
+      "desc": "The last major production model and the most numerous, with 480 built, powered by Wright R-3350 Duplex Cyclones. Royal Canadian Air Force aircraft were G models, and several later became civil firefighting tankers with operators such as Hawkins and Powers of Wyoming."
+    },
+    {
+      "code": "C-119J / C-119K / C-119L",
+      "desc": "Later conversions. Sixty-two aircraft became C-119Js, which could open the rear of the hold in flight; one of them, 51-8037, lowered recovery gear through it to catch the Discoverer XIV capsule on 19 August 1960. Five further conversions became C-119Ks and 22 became C-119Ls."
+    },
+    {
+      "code": "AC-119G Shadow / AC-119K Stinger",
+      "desc": "Vietnam War gunships. Twenty-six AC-119Gs carried four 7.62 mm miniguns, and 26 AC-119Ks added two 20 mm M61 Vulcan cannon and underwing turbojet engines. They were used to support ground forces in Southeast Asia."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Primary Operator (transport, gunship, capsule recovery)",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "Most of 1,183 built",
+      "homeBase": "United States, Korea, Europe and Southeast Asia"
+    },
+    {
+      "name": "Republic of China Air Force",
+      "role": "Transport",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "114",
+      "homeBase": "Taiwan; the last military operator, retired in the mid-1990s"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "Transport",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "79",
+      "homeBase": "India"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Transport",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "40+",
+      "homeBase": "Italy"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Transport",
+      "status": "Retired",
+      "since": "1954",
+      "fleetSize": "35",
+      "homeBase": "Canada"
+    },
+    {
+      "name": "Belgian Air Force",
+      "role": "Transport",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "40",
+      "homeBase": "Belgium; one lost to mortar fire in 1963"
+    },
+    {
+      "name": "Other military operators",
+      "role": "Transport (historical)",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "~150+ across 9 air arms",
+      "homeBase": "South Vietnam (91), Morocco (12), Brazil (11), Ethiopia (8), Norway (8), Jordan (4), plus Spain; US Navy and Marine Corps R4Qs until 1974"
+    },
+    {
+      "name": "Civil operators",
+      "role": "Firefighting & Utility",
+      "status": "In Service",
+      "since": "Postwar",
+      "fleetSize": "2 airworthy",
+      "homeBase": "Two C-119Fs privately owned at Eagle River, Alaska; US airtankers grounded in 1987"
+    }
+  ],
+  "survivors": {
+    "intro": "Several C-119s are preserved in US museums, including the aircraft that caught the first capsule returned from space, and two ex-Navy C-119Fs remain airworthy in Alaska.",
+    "airframes": [
+      {
+        "serial": "51-8037",
+        "name": "C-119J (Discoverer XIV catch)",
+        "location": "National Museum of the United States Air Force - Space Gallery",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197556/fairchild-c-119j-flying-boxcar/",
+        "note": "Made the world's first mid-air recovery of an object returning from space on 19 August 1960.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "22118 (RCAF)",
+        "location": "Air Mobility Command Museum",
+        "place": "Dover AFB, Delaware, United States",
+        "url": "https://www.amcmuseum.org/at-the-museum/aircraft/c-119g-flying-boxcar/",
+        "note": "Ex-Royal Canadian Air Force C-119G that later became a firefighting tanker; arrived at the museum in October 1991.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "22107 (RCAF)",
+        "name": "State of Utah",
+        "location": "Hill Aerospace Museum",
+        "place": "Hill AFB, Utah, United States",
+        "url": "https://www.aerospaceutah.org/museum/our-collections/aircraft-collection/c-119-flying-boxcar/",
+        "note": "Delivered to the RCAF in December 1954, then flown by the firefighting company Hawkins and Powers before the museum acquired it in November 1985.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "53-3144",
+        "name": "C-119G",
+        "location": "Hurlburt Field Air Park",
+        "place": "Hurlburt Field, Florida, United States",
+        "url": "https://www.hurlburt.af.mil/About-Us/Fact-Sheets/Fact-Sheets/Article/204594/ac-119-shadow/",
+        "note": "Received by the Air Force on 23 April 1954, sold to a private owner in 1975 and installed in the air park in June 1988.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "131673 and 131695",
+        "name": "C-119F (airworthy)",
+        "location": "Private owner",
+        "place": "Eagle River, Alaska, United States",
+        "url": "https://en.wikipedia.org/wiki/Fairchild_C-119_Flying_Boxcar",
+        "note": "The last two airworthy C-119s, former Navy aircraft used in Alaska for work such as hauling building materials.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "C119",
+    "howToFind": "Only two C-119s are airworthy, both privately owned near Eagle River, Alaska, and they fly rarely. Seeing one in the air is a matter of luck; the museum examples at Dayton, Dover and Hill AFB are the reliable way to see the type."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, the National Museum of the U.S. Air Force, the Air Mobility Command Museum and the Hill Aerospace Museum.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Flying Boxcar",
+    "C119",
+    "R4Q",
+    "AC-119",
+    "Shadow",
+    "Stinger",
+    "Packet",
+    "Discoverer XIV",
+    "Chosin"
+  ],
+  "article": {
+    "overview": [
+      "The Fairchild C-119 Flying Boxcar is an American twin-engine, twin-boom military transport built by Fairchild for the U.S. Air Force, developed from the Second World War C-82 Packet. The prototype first flew in November 1947 and deliveries began in December 1949. Its cargo hold sat in a central fuselage pod between the two tail booms. {{ref:wiki-c119}} {{ref:amc-c119}}",
+      "Fairchild and Kaiser-Frazer built 1,183. The C-119 carried troops and supplies in the Korean War, flew CIA supply drops over Dien Bien Phu in 1954, caught the first capsule returned from space in 1960 and served as the AC-119 gunship in Vietnam. The last U.S. military examples left service in 1974, and Taiwan retired the last military C-119s in the 1990s. {{ref:wiki-c119}} {{ref:nmusaf-c119j}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the C-82 Packet",
+        "paragraphs": [
+          "The C-119 began as a development of Fairchild's C-82 Packet, a twin-boom transport whose XC-82 prototype had first flown on 10 September 1944; C-82 production ended in September 1948. The prototype, designated XC-82B, first flew in November 1947; the Air Mobility Command Museum gives the date as 17 November. Production deliveries began in December 1949. {{ref:wiki-c119}} {{ref:amc-c119}}",
+          "Fairchild moved the cockpit forward so that it sat flush with the nose instead of above the cargo compartment, which improved the pilots' view and lengthened the usable hold. The fuselage was also wider and stronger, and the new engines gave 60 percent more power than the C-82's. The C-82 had 2,100 hp Pratt & Whitney R-2800s and weighed 32,500 lb empty; the C-119B had 3,500 hp R-4360s, weighed 39,800 lb empty and climbed at 1,010 ft a minute against the Packet's 950. {{ref:wiki-c119}} {{ref:hurlburt-ac119}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The C-119G spans 109 ft 3 in (33.30 m) and is 86 ft 6 in (26.37 m) long. It weighs about 40,000 lb empty and 74,000 lb at maximum take-off weight, and its crew of five was a pilot, co-pilot, navigator, flight engineer and loadmaster. The hold takes 62 troops, 35 stretchers or 30,000 lb of cargo. {{ref:amc-c119}} {{ref:wiki-c119}}",
+          "Fairchild-built aircraft used 3,500 hp Pratt & Whitney R-4360-20W Wasp Majors; the 71 aircraft assembled by Kaiser-Frazer at Willow Run, Michigan, in 1952 and 1953, and the later C-119G, used the Wright R-3350 Duplex Cyclone. Fairchild disliked the Kaiser sub-contract and tried through political channels to stop it. The Air Mobility Command Museum gives the C-119G a top speed of 296 mph and a ceiling of 23,900 ft. {{ref:wiki-c119}} {{ref:amc-c119}} {{ref:hill-c119}}"
+        ]
+      },
+      {
+        "heading": "Korea & Indochina",
+        "paragraphs": [
+          "Four C-119s were sent to the Far East Air Forces for service trials in July 1950, and the type served in Korea for the rest of the war with the 314th Troop Carrier Group. In December 1950, when Chinese forces destroyed the crossing points on the route out of the Chosin Reservoir, eight C-119s of the 314th Troop Carrier Group parachuted eight portable bridge sections, each 16 ft long and weighing 2,900 lb, to the trapped UN troops, allowing them to reach the port of Hungnam. {{ref:wiki-c119}} {{ref:nmusaf-c119j}}",
+          "From 1953 C-119s supplied by the CIA and flown by American pilots dropped supplies to the French garrison besieged at Dien Bien Phu. In early June 1954 pilots James B. McGovern Jr. and Wallace A. Buford were making an artillery drop when Viet Minh anti-aircraft fire crippled their C-119; it flew another 75 miles into Laos before it crashed, and both were killed. {{ref:wiki-c119}}"
+        ]
+      },
+      {
+        "heading": "Gunship III: Shadow & Stinger",
+        "paragraphs": [
+          "With too few C-130s available for conversion, the Air Force turned to the C-119 for its third generation of side-firing gunships, the AC-119G, intended to supersede the AC-47. Training began with the 4413th Combat Crew Training Squadron at Lockbourne AFB, Ohio, on 1 March 1968, the reserve 71st Air Commando Squadron was called to active duty on 12 May 1968, and the 18th Special Operations Squadron was activated on 25 January 1969. Twenty-six AC-119G Shadows carried four 7.62 mm miniguns, a 20-kilowatt illuminator and ceramic armour, and entered combat in January 1969. {{ref:nmusaf-gunship3}} {{ref:hurlburt-ac119}} {{ref:wiki-c119}}",
+          "The 26 AC-119K Stingers added two 20 mm M61 cannon, sensors similar to the larger AC-130's and two General Electric J85 turbojets of 2,850 lbf under the wings. They flew their first combat mission in November 1969 and were used mainly to destroy trucks on the Ho Chi Minh Trail and for close air support during major enemy offensives. As the war ended the Air Force handed its AC-119Gs, from 1970, and then its AC-119Ks to the South Vietnamese Air Force. {{ref:nmusaf-gunship3}} {{ref:hurlburt-ac119}} {{ref:wiki-c119}}"
+        ]
+      },
+      {
+        "heading": "Satellite Recovery & Accidents",
+        "paragraphs": [
+          "Sixty-two aircraft were converted to C-119Js, with a rear door that could be opened in flight. On 19 August 1960 C-119J 51-8037 lowered recovery gear from the open door and snagged the parachute of the Discoverer XIV film capsule at 8,000 ft near Hawaii, the world's first mid-air recovery of an object returning from space. C-119s of the 6593rd Test Squadron at Hickam Air Force Base went on to make several more aerial recoveries of film-return capsules, and 51-8037 is now in the Space Gallery at the National Museum of the U.S. Air Force. {{ref:nmusaf-c119j}} {{ref:amc-c119}} {{ref:wiki-c119}}",
+          "On 7 November 1952 a C-119 crashed into Mount Silverthrone, killing 19, and eight days later another was lost during Exercise Warm Wind with 20 aboard. On 10 August 1955 a mid-air collision near Edelweiler, West Germany, killed 66. On 27 March 1958 a C-119 collided with a C-124, killing 18. A Belgian C-119 was hit by mortar fire on 26 June 1963 with the loss of 38 lives, and on 5 June 1965 a C-119 flying from Homestead, Florida, to Grand Turk disappeared with nine aboard. {{ref:wiki-c119}}"
+        ]
+      },
+      {
+        "heading": "Export Service & Retirement",
+        "paragraphs": [
+          "Many C-119s went to allied air forces: 141 were funded for Belgium, Italy and India under the Mutual Defense Assistance Program, and more than 400 were transferred to 11 other nations. The Republic of China Air Force had 114, South Vietnam 91, India 79, Belgium 40, Italy more than 40 and the Royal Canadian Air Force 35, with smaller fleets in Morocco, Brazil, Ethiopia, Norway, Jordan and Spain. India's aircraft included 'Jet-Pak' conversions with a 3,400 lbf Westinghouse J34 turbojet. U.S. Navy reserve squadrons ended American military use in 1974, and Taiwan was the last military operator. {{ref:wiki-c119}}",
+          "Retired C-119s became firefighting tankers with operators such as Hawkins and Powers, until the U.S. airtanker fleet was permanently grounded in 1987 over safety concerns. Others carried loads such as building materials in Alaska, where two ex-Navy C-119Fs remain airworthy. Ex-RCAF C-119s also appeared in films: 22111, now at the Hagerstown Aviation Museum, in Always (1989), and 22130 in Flight of the Phoenix (2004). {{ref:wiki-c119}} {{ref:hill-c119}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-c119",
+      "name": "Fairchild C-119 Flying Boxcar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fairchild_C-119_Flying_Boxcar"
+    },
+    {
+      "id": "amc-c119",
+      "name": "C-119G Flying Boxcar",
+      "publisher": "Air Mobility Command Museum",
+      "url": "https://www.amcmuseum.org/at-the-museum/aircraft/c-119g-flying-boxcar/"
+    },
+    {
+      "id": "nmusaf-c119j",
+      "name": "Fairchild C-119J Flying Boxcar fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197556/fairchild-c-119j-flying-boxcar/"
+    },
+    {
+      "id": "hurlburt-ac119",
+      "name": "AC-119 Shadow fact sheet",
+      "publisher": "Hurlburt Field (U.S. Air Force)",
+      "url": "https://www.hurlburt.af.mil/About-Us/Fact-Sheets/Fact-Sheets/Article/204594/ac-119-shadow/"
+    },
+    {
+      "id": "hill-c119",
+      "name": "Fairchild C-119G Flying Boxcar",
+      "publisher": "Hill Aerospace Museum",
+      "url": "https://www.aerospaceutah.org/museum/our-collections/aircraft-collection/c-119-flying-boxcar/"
+    },
+    {
+      "id": "nmusaf-gunship3",
+      "name": "Gunship III: Shadows and Stingers",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195862/gunship-iii-shadows-and-stingers/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Fairchild C-119J Flying Boxcar - National Museum of the U.S. Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197556/fairchild-c-119j-flying-boxcar/"
+    },
+    {
+      "name": "Fairchild C-119 Flying Boxcar - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fairchild_C-119_Flying_Boxcar"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1947-11-17",
+      "title": "XC-82B prototype first flight",
+      "tag": "First flight",
+      "summary": "The converted C-82 that became the C-119 prototype flew for the first time.",
+      "source": "https://www.amcmuseum.org/at-the-museum/aircraft/c-119g-flying-boxcar/"
+    },
+    {
+      "date": "1950-12-01",
+      "title": "Bridge sections dropped at the Chosin Reservoir",
+      "tag": "Combat airdrop",
+      "summary": "Eight C-119s of the 314th Troop Carrier Group parachuted portable bridge sections to UN forces trapped at the Chosin Reservoir, letting them cross a destroyed gap and reach Hungnam.",
+      "source": "https://en.wikipedia.org/wiki/Fairchild_C-119_Flying_Boxcar"
+    },
+    {
+      "date": "1952-11-07",
+      "title": "Crash on Mount Silverthrone, Alaska",
+      "tag": "Controlled flight into terrain",
+      "summary": "A C-119 crashed into Mount Silverthrone, killing all 19 aboard.",
+      "fatalities": 19,
+      "source": "https://en.wikipedia.org/wiki/Fairchild_C-119_Flying_Boxcar"
+    },
+    {
+      "date": "1955-08-10",
+      "title": "Mid-air collision near Edelweiler, West Germany",
+      "tag": "Mid-air collision",
+      "summary": "A mid-air collision near Edelweiler killed 66 people.",
+      "fatalities": 66,
+      "source": "https://en.wikipedia.org/wiki/Fairchild_C-119_Flying_Boxcar"
+    },
+    {
+      "date": "1958-03-27",
+      "title": "Collision with a C-124 Globemaster II",
+      "tag": "Mid-air collision",
+      "summary": "A C-119 and a C-124 collided in flight, killing 18.",
+      "fatalities": 18,
+      "source": "https://en.wikipedia.org/wiki/Fairchild_C-119_Flying_Boxcar"
+    },
+    {
+      "date": "1960-08-19",
+      "title": "First mid-air recovery of a capsule from space",
+      "tag": "Record",
+      "summary": "C-119J 51-8037 snagged the parachute of the Discoverer XIV film capsule at 8,000 ft near Hawaii, the first mid-air recovery of an object returning from space.",
+      "source": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197556/fairchild-c-119j-flying-boxcar/"
+    },
+    {
+      "date": "1963-06-26",
+      "title": "Belgian C-119 hit by mortar fire",
+      "tag": "Hostile fire",
+      "summary": "A Belgian Air Force C-119 was struck by a mortar round, killing 38.",
+      "fatalities": 38,
+      "source": "https://en.wikipedia.org/wiki/Fairchild_C-119_Flying_Boxcar"
+    },
+    {
+      "date": "1965-06-05",
+      "title": "C-119 disappears en route to Grand Turk",
+      "tag": "Disappearance",
+      "summary": "A C-119 flying from Homestead, Florida, to Grand Turk vanished with nine people aboard.",
+      "fatalities": 9,
+      "source": "https://en.wikipedia.org/wiki/Fairchild_C-119_Flying_Boxcar"
+    }
+  ]
+}
