@@ -1,0 +1,262 @@
+{
+  "name": "V-173 Flying Pancake",
+  "fullName": "Vought V-173",
+  "manufacturer": "Chance Vought (United Aircraft)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Experimental Low-Aspect-Ratio Research Aircraft",
+  "tagline": "The Vought V-173 is an American single-seat, twin-engine experimental aircraft with an almost circular wing, built by Chance Vought for the U.S. Navy to test Charles Zimmerman's low-aspect-ratio designs. Nicknamed the 'Flying Pancake', it first flew on 23 November 1942 and could lift off in about 200 ft in still air.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "It could lift off in about 200 ft in still air, or with no ground run at all into a 25-knot headwind.",
+    "Its landing speed was about 22 mph, and it sat on the ground at a 22-degree nose-up angle.",
+    "Charles Lindbergh flew it during testing and found it surprisingly controllable.",
+    "Its unusual shape prompted reports of UFO sightings from people living near the Connecticut test area.",
+    "Two 80 hp engines drove propellers 16 ft 6 in across, mounted at the wingtips.",
+    "The restoration fabric was sewn on by hand, with about 81,000 stitches across the whole aircraft."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are from Wikipedia and a Vought data sheet. Wikipedia lists 2,258 lb as the gross weight, while the Vought sheet gives it as the empty weight with a 3,050 lb gross weight; the Vought figures are used here. No range, ceiling or cruise speed has been published. The Smithsonian quotes a 139-hour test programme; Wikipedia gives 131.8 hours.",
+    "maxSpeed": {
+      "mph": 138,
+      "text": "120 kn (138 mph / 222 km/h)"
+    },
+    "cruiseSpeed": "Not published",
+    "range": {
+      "miles": null,
+      "text": "Not published"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Not published"
+    },
+    "wingspan": {
+      "ft": 23,
+      "text": "23 ft 4 in (7.11 m)"
+    },
+    "length": {
+      "ft": 27,
+      "text": "26 ft 8 in (8.13 m)"
+    },
+    "height": {
+      "ft": 15,
+      "text": "14 ft 9 in (4.50 m)"
+    },
+    "weight": "empty: 2,258 lb (1,024 kg); MTOW: 3,050 lb (1,383 kg)",
+    "engines": "2 × Continental A-80 piston engines, 80 hp each, driving wingtip propellers",
+    "crew": "1 (pilot)",
+    "capacity": "None - single-seat research aircraft",
+    "firstFlight": {
+      "date": "1942-11-23",
+      "year": 1942
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1947-03-31",
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no contract value for the one-off V-173 has been published, officially or on enthusiast forums",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "V-173 (Corsair propellers)",
+      "desc": "The aircraft as first flown on 23 November 1942 by Boone Guyton, fitted with propellers taken from the F4U Corsair. The layout followed Zimmerman's idea that propellers turning at the wingtips would reduce the drag caused by disturbed airflow at the tips of a conventional wing. It was built largely of wood and fabric, with a symmetrical NACA 0015 aerofoil section."
+    },
+    {
+      "code": "V-173 (16 ft 6 in propellers)",
+      "desc": "The same airframe re-fitted with specially modified three-blade propellers 16 ft 6 in across. Over its test career the V-173 made about 190 flights and 131.8 hours in the air, survived several forced landings including a nose-over on a beach without serious damage, and was flown by Charles Lindbergh. It last flew on 31 March 1947."
+    },
+    {
+      "code": "XF5U-1 Flying Flapjack (follow-on)",
+      "desc": "The Navy's intended combat version: an all-metal fighter about five times heavier, with Pratt & Whitney R-2000 engines and retractable landing gear. Two were ordered. The Navy cancelled the programme in 1947, when it switched its fighter plans to jet engines, before the XF5U-1 had made a real flight, and the surviving airframes were destroyed after January 1949."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Navy",
+      "role": "Sponsor & Research Operator",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "1",
+      "homeBase": "Connecticut"
+    },
+    {
+      "name": "Chance Vought",
+      "role": "Manufacturer & Flight Test",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "1",
+      "homeBase": "Connecticut"
+    }
+  ],
+  "survivors": {
+    "intro": "The only V-173 built survives. The Navy transferred it to the Smithsonian in September 1960, and retired Vought employees restored it between 2003 and 2011.",
+    "airframes": [
+      {
+        "name": "V-173 'Flying Pancake'",
+        "location": "Frontiers of Flight Museum (on loan from the Smithsonian)",
+        "place": "Love Field, Dallas, Texas, United States",
+        "url": "https://affiliations.si.edu/satisfy-your-museum-day-hunger-with-a-flying-pancake/vought-v-173-flying-pancake-at-frontiers-of-flight-museum/",
+        "note": "Unveiled on 15 April 2012 after an eight-year restoration at Vought's Grand Prairie site. The cockpit wear left by Guyton, Burroughs and Lindbergh was kept.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Not trackable. The V-173 last flew in March 1947 and is now a static exhibit. It can be seen at the Frontiers of Flight Museum at Love Field, Dallas, where it is on loan from the Smithsonian."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, the Smithsonian National Air and Space Museum, Air & Space Magazine and a Vought data sheet.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Flying Pancake",
+    "V173",
+    "Vought",
+    "Charles Zimmerman",
+    "discoidal wing",
+    "XF5U"
+  ],
+  "article": {
+    "overview": [
+      "The Vought V-173 is an American single-seat, twin-engine experimental aircraft built by Chance Vought for the U.S. Navy to test the low-aspect-ratio, almost circular wing designed by Charles H. Zimmerman. Nicknamed the 'Flying Pancake', it first flew on 23 November 1942 with Boone Guyton at the controls. {{ref:wiki-v173}} {{ref:nasm-v173-restoration}}",
+      "It made about 190 flights before its last on 31 March 1947, and it led to the larger XF5U-1 fighter, which the Navy cancelled in 1947. The Smithsonian took the V-173 in 1960, and after an eight-year restoration by retired Vought employees it went on show at the Frontiers of Flight Museum in Dallas in 2012. {{ref:wiki-v173}} {{ref:airspace-v173}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Zimmerman argued that the drag created by disturbed airflow at the tips of a conventional wing could be reduced by placing the propellers at the wingtips. A wing of very low aspect ratio built on that principle would let an aircraft fly at very low speeds. In 1935 he won a NACA grant to develop a compact short take-off and landing aircraft, but NACA declined to fund further work, and he took the idea to private industry. {{ref:nasm-v173}} {{ref:nasm-v173-restoration}} {{ref:planepilot-v173}}",
+          "Vought became interested and built a quarter-scale model. The Navy reviewed the data in 1939, and on 4 May 1940 it placed a contract for one full-size aircraft, the V-173. Wind tunnel tests followed in 1940 and 1941. {{ref:nasm-v173}} {{ref:wiki-v173}} {{ref:vought-v173-sheet}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The V-173 was built largely of wood and fabric around a wing 23 ft 4 in (7.11 m) across, with an area of 427 sq ft and a symmetrical NACA 0015 aerofoil. It was 26 ft 8 in (8.13 m) long and sat on its landing gear at a 22-degree nose-up angle, so that it stood 14 ft 9 in (4.50 m) high. {{ref:wiki-v173}} {{ref:airspace-v173}}",
+          "Pitch and roll were controlled by 'airivators', all-flying surfaces that worked as both elevators and ailerons and were a forerunner of the modern elevon. Two 80 hp Continental A-80 engines drove the wingtip propellers. The first set came from the F4U Corsair; they were later replaced by specially modified three-blade propellers 16 ft 6 in across. Vought gave an empty weight of 2,258 lb and a gross weight of 3,050 lb, which put wing loading at about 5 lb per sq ft. The top speed was 138 mph, and the aircraft took seven minutes to climb to 5,000 ft. {{ref:wiki-v173}} {{ref:vought-v173-sheet}} {{ref:airspace-v173}} {{ref:planepilot-v173}}"
+        ]
+      },
+      {
+        "heading": "Flight Testing",
+        "paragraphs": [
+          "Boone Guyton made the first flight on 23 November 1942. The early flights showed that the lateral controls were too heavy and that drivetrain vibration was high, and landing flaps were later added to deal with problems in ground effect. Richard Burroughs and Charles Lindbergh also flew the aircraft. Lindbergh found it surprisingly controllable. The V-173 could lift off in about 200 ft in still air, or without any ground run into a 25-knot headwind, and it landed at about 22 mph. {{ref:nasm-v173-restoration}} {{ref:wiki-v173}} {{ref:vought-v173-sheet}} {{ref:planepilot-v173}}",
+          "It made about 190 flights and logged about 131.8 hours. It survived several forced landings, including one on a beach in which it nosed over, without serious damage or injury to the pilot. Its shape led people living near the Connecticut test area to report UFO sightings. The last flight was on 31 March 1947. {{ref:wiki-v173}} {{ref:nasm-v173}}"
+        ]
+      },
+      {
+        "heading": "The XF5U-1 Flying Flapjack",
+        "paragraphs": [
+          "The Navy ordered two enlarged, all-metal versions as the XF5U-1 fighter. The XF5U-1 was about five times heavier than the V-173, with Pratt & Whitney R-2000 engines and retractable landing gear. {{ref:airspace-v173}} {{ref:wiki-v173}}",
+          "The XF5U-1 was completed but never made a real flight. The Navy cancelled the programme in early 1947, before a first flight, after deciding to move its fighters to jet engines, and the surviving XF5U-1 airframes were destroyed after January 1949. {{ref:nasm-v173}} {{ref:airspace-v173}}"
+        ]
+      },
+      {
+        "heading": "Preservation",
+        "paragraphs": [
+          "The Navy's Bureau of Weapons transferred the V-173 to the Smithsonian in September 1960. It was moved to Dallas in 2004, and from 2003 to 2011 retired Vought employees restored it at the company's Grand Prairie site. Replacing the fabric covering alone took about 81,000 hand stitches, and the restorers kept the wear marks left in the cockpit by Guyton, Burroughs and Lindbergh. {{ref:nasm-v173-restoration}} {{ref:airspace-v173}}",
+          "The finished aircraft was rolled out on 10 February 2012 and moved by flatbed truck to the Frontiers of Flight Museum at Love Field, Dallas, in March. It was unveiled there on 15 April 2012, on loan from the National Air and Space Museum for at least ten years. {{ref:nasm-v173-restoration}} {{ref:airspace-v173}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-v173",
+      "name": "Vought V-173",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vought_V-173"
+    },
+    {
+      "id": "nasm-v173-restoration",
+      "name": "Vought Aircraft Heritage Foundation Retirees Finish Vought V-173 \"Flying Pancake\" Following 8-Year Restoration Effort",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/stories/editorial/vought-aircraft-heritage-foundation-retirees-finish-vought-v-173-flying-pancake"
+    },
+    {
+      "id": "airspace-v173",
+      "name": "Why There Will Never Be Another Flying Pancake",
+      "publisher": "Air & Space Magazine (Smithsonian)",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/restoration-vought-v-173-7990846/"
+    },
+    {
+      "id": "nasm-v173",
+      "name": "Vought V-173 \"Flying Pancake\"",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://www.si.edu/object/vought-v-173-flying-pancake:nasm_A19610120000"
+    },
+    {
+      "id": "planepilot-v173",
+      "name": "V-173 Flying Pancake: The Amazing STOL \"Flying Saucer\"",
+      "publisher": "Plane & Pilot",
+      "url": "https://planeandpilotmag.com/v-173-flying-pancake-the-amazing-stol-flying-saucer/"
+    },
+    {
+      "id": "vought-v173-sheet",
+      "name": "Model V-173 Flying Pancake data sheet",
+      "publisher": "Vought Aircraft Heritage Foundation (via Aviators Database)",
+      "url": "https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flying-Pancake.pdf"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Vought V-173 - Smithsonian National Air and Space Museum",
+      "url": "https://www.si.edu/object/vought-v-173-flying-pancake:nasm_A19610120000"
+    },
+    {
+      "name": "Vought V-173 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vought_V-173"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1940-05-04",
+      "title": "Navy orders one V-173",
+      "tag": "Programme milestone",
+      "summary": "The U.S. Navy placed a contract for one full-size V-173 after reviewing Vought's quarter-scale model data. Wind tunnel testing followed in 1940 and 1941.",
+      "source": "https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flying-Pancake.pdf"
+    },
+    {
+      "date": "1942-11-23",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "Boone Guyton flew the V-173 for the first time. It went on to make about 190 flights and survived several forced landings, including a nose-over on a beach, without serious damage.",
+      "source": "https://en.wikipedia.org/wiki/Vought_V-173"
+    },
+    {
+      "date": "1947-03-31",
+      "title": "Last flight",
+      "tag": "Retirement",
+      "summary": "The V-173 made its final flight. The Navy cancelled the follow-on XF5U-1 fighter the same year.",
+      "source": "https://en.wikipedia.org/wiki/Vought_V-173"
+    },
+    {
+      "date": "1960-09-01",
+      "title": "Transferred to the Smithsonian",
+      "tag": "Preservation",
+      "summary": "The Navy's Bureau of Weapons handed the V-173 to the National Air Museum, now the National Air and Space Museum.",
+      "source": "https://airandspace.si.edu/stories/editorial/vought-aircraft-heritage-foundation-retirees-finish-vought-v-173-flying-pancake"
+    },
+    {
+      "date": "2012-04-15",
+      "title": "Unveiled at the Frontiers of Flight Museum",
+      "tag": "Preservation",
+      "summary": "After an eight-year restoration by retired Vought employees, the V-173 went on display at Love Field, Dallas, on loan from the Smithsonian for at least ten years.",
+      "source": "https://airandspace.si.edu/stories/editorial/vought-aircraft-heritage-foundation-retirees-finish-vought-v-173-flying-pancake"
+    }
+  ]
+}

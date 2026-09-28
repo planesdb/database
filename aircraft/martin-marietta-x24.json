@@ -1,0 +1,309 @@
+{
+  "name": "X-24",
+  "fullName": "Martin Marietta X-24",
+  "manufacturer": "Martin Marietta",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Rocket-Powered Lifting Body Research Aircraft",
+  "tagline": "The Martin Marietta X-24 is an American single-seat, rocket-powered lifting body research aircraft flown by the U.S. Air Force and NASA from 1969 to 1975. One airframe flew as the teardrop-shaped X-24A and was rebuilt as the flat-bottomed X-24B, which reached 1,164 mph and made two landings on the main concrete runway at Edwards.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The same airframe flew as two different shapes: the teardrop X-24A and, after a rebuild, the 'flying flatiron' X-24B.",
+    "A B-52 carried it aloft and dropped it at about 45,000 ft before the pilot lit the rocket.",
+    "A typical X-24A flight lasted under eight minutes: a 2.5-minute rocket burn and a 5-minute glide to landing.",
+    "John Manke and Mike Love landed the X-24B on the concrete runway at Edwards, showing that accurate unpowered landings by a reentry vehicle were practical.",
+    "Martin offered NASA pilot Milt Thompson $20,000 to fly its jet-powered SV-5J trainer; he declined, and it never flew.",
+    "NASA reused the X-24A shape for the X-38 space station crew return vehicle because its aerodynamic data was already complete."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the X-24B, the airframe's final form, from Wikipedia and the National Museum of the U.S. Air Force. The X-24A was just over 24 ft long, nearly 14 ft wide and weighed 6,270 lb without propellants. The museum rates the XLR11 at 9,800 lbf on the X-24B and 8,000 lbf on the X-24A. As an air-launched rocket glider it had no meaningful range or cruise speed.",
+    "maxSpeed": {
+      "mph": 1164,
+      "text": "1,012 kn (1,164 mph / 1,873 km/h)"
+    },
+    "cruiseSpeed": "Not applicable - air-launched rocket glider",
+    "range": {
+      "miles": null,
+      "text": "Not applicable - air-launched glider"
+    },
+    "serviceCeiling": {
+      "ft": 74100,
+      "text": "74,100 ft (22,586 m)"
+    },
+    "wingspan": {
+      "ft": 19,
+      "text": "19 ft 2 in (5.84 m)"
+    },
+    "length": {
+      "ft": 38,
+      "text": "37 ft 6 in (11.43 m)"
+    },
+    "height": {
+      "ft": 10,
+      "text": "10 ft 4 in (3.15 m)"
+    },
+    "weight": "empty: 7,800 lb (3,538 kg); MTOW: 13,800 lb (6,260 kg)",
+    "engines": "1 × Reaction Motors XLR11 rocket, 8,000 lbf, plus optional landing rockets",
+    "crew": "1 (pilot)",
+    "capacity": "None - single-seat research aircraft",
+    "firstFlight": {
+      "date": "1969-04-17",
+      "year": 1969
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1975-09-23",
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no cost has been published for the X-24A or its X-24B rebuild, officially or on enthusiast sites",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "X-23A PRIME (SV-5D)",
+      "desc": "The uncrewed forerunner: three small lifting bodies launched on Atlas SLV-3 rockets on 21 December 1966, 5 March 1967 and 19 April 1967 to test manoeuvring reentry. The first was lost when its parachute failed, the second sank before recovery after testing 654 miles of cross-range, and the third was recovered and is displayed at the National Museum of the U.S. Air Force."
+    },
+    {
+      "code": "X-24A (SV-5P)",
+      "desc": "The piloted version of the SV-5 shape, a short, fat teardrop with three fins, just over 24 ft long. Dropped from a B-52, it made 28 flights between 17 April 1969 and 4 June 1971, 10 glides and 18 powered, flown by Jerauld Gentry, John Manke and Cecil Powell. It reached Mach 1.6 (1,036 mph) and 71,400 ft."
+    },
+    {
+      "code": "SV-5J",
+      "desc": "Two jet-powered versions of the X-24A shape that Martin designed and built on its own initiative as pilot trainers. Neither flew: NASA's Milt Thompson turned down Martin's offer of $20,000 to take one up. One was donated to the Air Force Museum in 1971 and painted to represent the X-24A, since the real X-24A was rebuilt as the X-24B in 1972."
+    },
+    {
+      "code": "X-24B",
+      "desc": "The X-24A airframe rebuilt in 1972 under joint NASA and Air Force funding, with a longer, pointed nose, a flat bottom and a double-delta planform that earned the nickname 'flying flatiron'. It made 36 flights from 1 August 1973 to 23 September 1975, 12 glides and 24 powered, reached Mach 1.75 (1,164 mph) and 74,100 ft, and made two runway landings."
+    },
+    {
+      "code": "X-24C (proposed)",
+      "desc": "A family of follow-on designs proposed between 1972 and 1978 for hypersonic research, including Lockheed Skunk Works' L-301, which was designed for Mach 8 with scramjet engines. None was built."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Research Operator (Flight Test Center)",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "1 airframe (X-24A, then X-24B)",
+      "homeBase": "Edwards AFB, California"
+    },
+    {
+      "name": "NASA",
+      "role": "Research Operator (Flight Research Center)",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "1 airframe (joint with USAF)",
+      "homeBase": "NASA Flight Research Center, Edwards, California"
+    }
+  ],
+  "survivors": {
+    "intro": "The single X-24 airframe survives in its X-24B form. Because the X-24A no longer exists as such, the same museum shows an unflown SV-5J trainer painted as the X-24A.",
+    "airframes": [
+      {
+        "name": "X-24B",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195762/martin-x-24b/",
+        "note": "The only X-24 airframe, as rebuilt in 1972. It flew 36 times as the X-24B, including two landings on the concrete runway at Edwards.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "name": "SV-5J (displayed as X-24A)",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195755/martin-x-24a/",
+        "note": "An unflown jet-powered trainer of the same shape, donated in 1971 and modified to represent the X-24A.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Not trackable. The X-24B last flew on 23 September 1975 and is a static exhibit at the National Museum of the U.S. Air Force near Dayton, Ohio, alongside an SV-5J painted as the X-24A."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from NASA, the National Museum of the U.S. Air Force, Wikipedia and The High Frontier.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "X-24A",
+    "X-24B",
+    "SV-5P",
+    "SV-5J",
+    "lifting body",
+    "flying flatiron",
+    "PILOT",
+    "X-23 PRIME",
+    "Edwards"
+  ],
+  "article": {
+    "overview": [
+      "The Martin Marietta X-24 is an American single-seat, rocket-powered lifting body research aircraft, built by Martin Marietta and flown by the U.S. Air Force and NASA at Edwards, California. A lifting body has no conventional wings and gets its lift from the shape of the fuselage. The X-24A first flew as a glider on 17 April 1969. {{ref:wiki-x24}} {{ref:nasa-lifting-bodies}}",
+      "In 1972 the airframe was rebuilt as the X-24B, which flew until 23 September 1975, reached 1,164 mph and 74,100 ft, and made two precise landings on the main concrete runway at Edwards. Those flights helped show that the Space Shuttle could land without power, and the X-24A's shape was later reused for NASA's X-38. {{ref:nasa-lifting-bodies}} {{ref:nmusaf-x24b}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & PRIME",
+        "paragraphs": [
+          "The X-24 came out of the Air Force's PILOT programme, run jointly with NASA from 1963 to 1975, and Martin's SV-5 lifting body shape. It was one of six piloted lifting bodies flown at NASA's Flight Research Center at Edwards over those years, alongside the M2-F1, M2-F2, M2-F3 and HL-10. The shape was first tested without a pilot as the SV-5D, or X-23A PRIME, a small vehicle launched on Atlas SLV-3 rockets to study manoeuvring reentry from orbit. {{ref:wiki-x24}} {{ref:wiki-x23}}",
+          "Three PRIME vehicles flew, on 21 December 1966, 5 March 1967 and 19 April 1967. The first crashed into the Pacific when its recovery parachute failed, and the second, after testing 654 miles of cross-range, sank before it could be recovered. The third was recovered in condition to fly again and is now at the National Museum of the U.S. Air Force. The piloted SV-5P version of the shape became the X-24A. {{ref:wiki-x23}} {{ref:wiki-x24}}"
+        ]
+      },
+      {
+        "heading": "The X-24A",
+        "paragraphs": [
+          "The X-24A was a short, fat teardrop with three fins: a vertical centre fin and two outer fins canted slightly outward. It was just over 24 ft long and nearly 14 ft wide and weighed 6,270 lb without propellants. A NASA B-52 carried it to altitude and dropped it, after which the pilot fired a Reaction Motors XLR11 rocket of 8,000 lbf and then glided back to land. A typical flight lasted under eight minutes, with a 2.5-minute burn and a 5-minute glide. {{ref:wiki-x24}} {{ref:nasa-lifting-bodies}} {{ref:nmusaf-x24a}}",
+          "Air Force Maj. Jerauld Gentry made the first glide flight on 17 April 1969 and the first powered flight on 19 March 1970. The X-24A made 28 flights, 10 glides and 18 powered, until 4 June 1971; Gentry flew 13, John Manke 12 and Cecil Powell 3. John Manke reached its best figures, Mach 1.6 (1,036 mph) and 71,400 ft. {{ref:nasa-lifting-bodies}} {{ref:wiki-x24}} {{ref:nasa-lifting-page}}"
+        ]
+      },
+      {
+        "heading": "SV-5J Trainers",
+        "paragraphs": [
+          "Martin designed and built two SV-5Js on its own initiative, jet-powered versions of the same shape intended to train pilots. Neither flew. Martin offered NASA research pilot Milt Thompson $20,000 to make a test flight in one, and he declined. {{ref:wiki-x24}} {{ref:highfrontier-x24}}",
+          "One SV-5J was donated to the Air Force Museum in 1971 and modified to represent the X-24A, whose own airframe was rebuilt as the X-24B the following year. That SV-5J is still on display in Dayton, painted as the X-24A. {{ref:nmusaf-x24a}}"
+        ]
+      },
+      {
+        "heading": "Rebuilding as the X-24B",
+        "paragraphs": [
+          "Talks between NASA's Flight Research Center and the Air Force Flight Test Center produced an agreement to fund and operate a new programme jointly, and in 1972 the X-24A was rebuilt as the X-24B. The rebuild added a longer nose and flattened the bottom to increase lift and range. The result had a rounded top, a flat bottom and a double-delta planform ending in a pointed nose, which led to the nickname 'flying flatiron'. {{ref:highfrontier-x24}} {{ref:nmusaf-x24b}} {{ref:nasa-lifting-bodies}}",
+          "The X-24B was 37 ft 6 in (11.43 m) long with a span of 19 ft 2 in (5.84 m), and weighed 7,800 lb empty and 13,800 lb fully fuelled. The B-52 launched it at 45,000 ft, and under power it climbed to between 60,000 and 70,000 ft and accelerated to over 1,000 mph. The Air Force museum rates its XLR11 at 9,800 lbf, with optional 500 lbf landing rockets. {{ref:wiki-x24}} {{ref:nmusaf-x24b}}"
+        ]
+      },
+      {
+        "heading": "X-24B Flights & the Runway Landings",
+        "paragraphs": [
+          "John Manke made the X-24B's first glide flight on 1 August 1973 and its first powered flight on 15 November 1973. It made 36 flights, 12 glides and 24 powered. Mike Love reached its top speed of Mach 1.75 (1,164 mph) on 25 October 1974, and Manke its highest altitude, 74,100 ft, on 22 May 1975. Manke flew 16 of them and Mike Love 12, with two each by Bill Dana, Einar Enevoldson, Tom McMurtry and Dick Scobee. Dana flew the last, on 23 September 1975, which was also the last rocket-powered lifting body flight. {{ref:nasa-lifting-bodies}} {{ref:wiki-x24}} {{ref:nasa-lifting-page}}",
+          "Most lifting body flights ended on the dry lakebeds around Edwards. Manke and Love made two precise landings on the main concrete runway instead, showing that accurate unpowered landings by a reentry vehicle were practical. {{ref:nasa-lifting-bodies}} {{ref:nmusaf-x24b}} {{ref:wiki-x24}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The lifting body flights demonstrated that pilots could manoeuvre and safely land wingless vehicles designed to return from space, and the X-24A and X-24B showed that a vehicle like the Space Shuttle could land without power. Between 1972 and 1978 several X-24C follow-ons were proposed for hypersonic research, including Lockheed's L-301, designed for Mach 8 with scramjets, but none was built. {{ref:nasa-lifting-bodies}} {{ref:wiki-x24}}",
+          "The X-24A shape returned on NASA's X-38 crew return vehicle for the International Space Station, chosen because its aerodynamic database was already complete, which reduced costs. The X-24B itself is displayed at the National Museum of the U.S. Air Force. {{ref:nasa-lifting-bodies}} {{ref:wiki-x24}} {{ref:nmusaf-x24b}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-x24",
+      "name": "Martin Marietta X-24",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Martin_Marietta_X-24"
+    },
+    {
+      "id": "nasa-lifting-bodies",
+      "name": "Lifting Bodies fact sheet (FS-011-DFRC)",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/09/171367main_fs-011-dfrc.pdf"
+    },
+    {
+      "id": "nmusaf-x24b",
+      "name": "Martin X-24B fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195762/martin-x-24b/"
+    },
+    {
+      "id": "wiki-x23",
+      "name": "Martin X-23 PRIME",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Martin_X-23_PRIME"
+    },
+    {
+      "id": "nmusaf-x24a",
+      "name": "Martin X-24A fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195755/martin-x-24a/"
+    },
+    {
+      "id": "nasa-lifting-page",
+      "name": "Lifting Bodies",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/aeronautics/nasa-aircraft/lifting-bodies/"
+    },
+    {
+      "id": "highfrontier-x24",
+      "name": "Flying Without Wings: The Martin SV-5/X-24 Lifting Bodies",
+      "publisher": "The High Frontier",
+      "url": "https://thehighfrontier.blog/2017/05/16/flying-without-wings-the-martin-sv-5x-24-lifting-bodies/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Lifting Bodies - NASA",
+      "url": "https://www.nasa.gov/aeronautics/nasa-aircraft/lifting-bodies/"
+    },
+    {
+      "name": "Martin X-24B - National Museum of the U.S. Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195762/martin-x-24b/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1969-04-17",
+      "title": "X-24A first glide flight",
+      "tag": "First flight",
+      "summary": "Air Force Maj. Jerauld Gentry flew the X-24A for the first time after it was dropped from a NASA B-52.",
+      "source": "https://www.nasa.gov/wp-content/uploads/2021/09/171367main_fs-011-dfrc.pdf"
+    },
+    {
+      "date": "1970-03-19",
+      "title": "X-24A first powered flight",
+      "tag": "First flight",
+      "summary": "Gentry made the first flight under XLR11 rocket power. The X-24A went on to reach Mach 1.6 and 71,400 ft.",
+      "source": "https://www.nasa.gov/wp-content/uploads/2021/09/171367main_fs-011-dfrc.pdf"
+    },
+    {
+      "date": "1971-06-04",
+      "title": "Last X-24A flight",
+      "tag": "Programme milestone",
+      "summary": "John Manke flew the X-24A's 28th and final flight. The airframe was rebuilt as the X-24B in 1972.",
+      "source": "https://www.nasa.gov/wp-content/uploads/2021/09/171367main_fs-011-dfrc.pdf"
+    },
+    {
+      "date": "1973-08-01",
+      "title": "X-24B first glide flight",
+      "tag": "First flight",
+      "summary": "John Manke flew the rebuilt airframe for the first time. Its first powered flight followed on 15 November 1973.",
+      "source": "https://www.nasa.gov/wp-content/uploads/2021/09/171367main_fs-011-dfrc.pdf"
+    },
+    {
+      "date": "1974-10-25",
+      "title": "X-24B reaches 1,164 mph",
+      "tag": "Speed record",
+      "summary": "Mike Love flew the X-24B to Mach 1.75 (1,164 mph), its fastest flight.",
+      "source": "https://www.nasa.gov/aeronautics/nasa-aircraft/lifting-bodies/"
+    },
+    {
+      "date": "1975-05-22",
+      "title": "X-24B reaches 74,100 ft",
+      "tag": "Altitude record",
+      "summary": "John Manke flew the X-24B to its highest altitude, 74,100 ft.",
+      "source": "https://www.nasa.gov/aeronautics/nasa-aircraft/lifting-bodies/"
+    },
+    {
+      "date": "1975-09-23",
+      "title": "Final X-24B flight",
+      "tag": "Retirement",
+      "summary": "Bill Dana flew the X-24B's 36th and last flight, the final rocket-powered lifting body mission. The aircraft now belongs to the National Museum of the U.S. Air Force.",
+      "source": "https://www.nasa.gov/wp-content/uploads/2021/09/171367main_fs-011-dfrc.pdf"
+    }
+  ]
+}

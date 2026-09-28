@@ -1,0 +1,289 @@
+{
+  "name": "VZ-9 Avrocar",
+  "fullName": "Avro Canada VZ-9 Avrocar",
+  "manufacturer": "Avro Canada",
+  "originCountry": {
+    "name": "Canada",
+    "code": "ca"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Experimental VTOL Flying Saucer",
+  "tagline": "The Avro Canada VZ-9 Avrocar is a Canadian two-seat, disc-shaped vertical take-off and landing research aircraft, built by Avro Canada for the U.S. Army and U.S. Air Force. Two were built, and in testing from 1959 to 1961 neither could fly more than about 3 ft above the ground or faster than 35 mph.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Estimates promised 300 mph and a 10,000 ft ceiling; in testing it managed 35 mph and about 3 ft.",
+    "Above about 3 ft it went into an uncontrollable pitch and roll wobble that its engineers called 'hubcapping'.",
+    "Three small turbojets drove a single 124-blade 'turborotor' at the centre of the disc.",
+    "Test pilot Peter Cope flew it with the canopy open because the canopy iced up.",
+    "The whole programme cost about $10 million over ten years before it was cancelled in December 1961.",
+    "Both Avrocars survive, one at the National Museum of the U.S. Air Force and one at the U.S. Army Transportation Museum."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are from the National Museum of the U.S. Air Force, with range and maximum takeoff weight from Wikipedia. Wikipedia gives 660 lbf of thrust per engine, a 3,000 lb empty weight and a thickness of 3.5 ft, against the museum's 927 lbf, 4,620 lb and 4 ft 10 in height. Speed, range and ceiling are what the Avrocar achieved, not the design estimates. The cost is the published total of just over $10 million for the whole programme and both prototypes (Air & Space Magazine; Lindenbaum and Blake), adjusted from 1961, its final year; much of it was spent earlier, so the true figure in today's money is higher.",
+    "maxSpeed": {
+      "mph": 35,
+      "text": "30 kn (35 mph / 56 km/h)"
+    },
+    "cruiseSpeed": "Not achieved - it never flew out of ground effect",
+    "range": {
+      "miles": 79,
+      "text": "79 mi (127 km)"
+    },
+    "serviceCeiling": {
+      "ft": 3,
+      "text": "~3 ft (0.9 m), in ground effect"
+    },
+    "wingspan": {
+      "ft": 18,
+      "text": "18 ft (5.49 m) diameter"
+    },
+    "length": {
+      "ft": 18,
+      "text": "18 ft (5.49 m) diameter"
+    },
+    "height": {
+      "ft": 5,
+      "text": "4 ft 10 in (1.47 m)"
+    },
+    "weight": "empty: 4,620 lb (2,096 kg); MTOW: 5,560 lb (2,522 kg)",
+    "engines": "3 × Continental J69-T-9 turbojets, 927 lbf each, driving a 124-blade central turborotor",
+    "crew": "2",
+    "capacity": "None carried - research vehicle",
+    "firstFlight": {
+      "date": "1959-11-12",
+      "year": 1959
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1961",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": 112000000,
+      "text": "$112M in 2026 dollars (whole programme, CPI-adjusted)",
+      "inflationText": "Originally $10M+ programme total (1954-61)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Project Y / Omega (studies)",
+      "desc": "The Special Projects Group's early designs under John Frost, who joined Avro Canada in June 1947. The Canadian Defence Research Board funded the work with a CAN$400,000 contract in 1952, a wooden mock-up was finished in 1953, and images of the 'Omega' design leaked to the Toronto Star on 11 February 1953. Development was projected to cost $200 million in 1952 dollars."
+    },
+    {
+      "code": "Project 1794 / WS-606A",
+      "desc": "The U.S. Air Force programme for a supersonic vertical take-off fighter-bomber based on Frost's disc. The Air Force awarded $750,000 in 1955, Avro added $2.5 million of its own money in 1956, and in March 1957 the work became Weapons System 606A."
+    },
+    {
+      "code": "VZ-9AV Avrocar (58-7055)",
+      "desc": "The first prototype, rolled out in May 1959 and tested on a static hover rig from 9 June to 7 October 1959. It went to the NASA Ames 40 by 80 ft wind tunnel in April 1960, where the tests showed too little control for high-speed flight. It is now displayed at the National Museum of the U.S. Air Force."
+    },
+    {
+      "code": "VZ-9AV Avrocar (59-4975)",
+      "desc": "The second prototype, completed in August 1959 and paid for with an extra $1.77 million from March 1959. It made the tethered and free flights, first hovering on 29 September 1959, and logged about 75 hours. It was shown in Montreal at the 1968 Man and His World exhibition and is now held by the U.S. Army Transportation Museum."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army",
+      "role": "Joint Sponsor (reconnaissance & transport)",
+      "status": "Retired",
+      "since": "1958",
+      "fleetSize": "2 (joint with USAF)",
+      "homeBase": "Avro Canada; NASA Ames, California"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Joint Sponsor (WS-606A)",
+      "status": "Retired",
+      "since": "1958",
+      "fleetSize": "2 (joint with Army)",
+      "homeBase": "Avro Canada; NASA Ames, California"
+    },
+    {
+      "name": "Avro Canada",
+      "role": "Manufacturer & Flight Test",
+      "status": "Retired",
+      "since": "1959",
+      "fleetSize": "2",
+      "homeBase": "Canada"
+    }
+  ],
+  "survivors": {
+    "intro": "Both Avrocars survive. The first is on display at the National Museum of the U.S. Air Force; the second is held, dismantled, by the U.S. Army Transportation Museum.",
+    "airframes": [
+      {
+        "serial": "58-7055",
+        "name": "Avrocar No. 1",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/avro-canada-vz-9av-avrocar/",
+        "note": "Acquired by the museum in 2007, put on display after restoration in June 2008 and moved to the Research and Development Gallery in 2016.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "59-4975",
+        "name": "Avrocar No. 2",
+        "location": "U.S. Army Transportation Museum",
+        "place": "Fort Eustis, Virginia, United States",
+        "url": "https://transportation.army.mil/history/studies/flying_saucer.html",
+        "note": "The prototype that made the free flights. Shown at Man and His World in Montreal in 1968, and now stored in pieces awaiting restoration.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Not trackable. Neither Avrocar has flown since 1961. The first prototype is on display in the Research and Development Gallery at the National Museum of the U.S. Air Force near Dayton, Ohio."
+  },
+  "lastUpdated": "2026-09-28",
+  "changelog": [
+    {
+      "date": "2026-09-28",
+      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from Wikipedia, the National Museum of the U.S. Air Force, U.S. Army Transportation Corps history and Air & Space Magazine.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Avrocar",
+    "VZ-9AV",
+    "flying saucer",
+    "Project 1794",
+    "WS-606A",
+    "Project Y",
+    "John Frost",
+    "Coanda effect",
+    "hubcapping"
+  ],
+  "article": {
+    "overview": [
+      "The Avro Canada VZ-9 Avrocar is a Canadian two-seat, disc-shaped vertical take-off and landing research aircraft, built by Avro Canada for a joint U.S. Army and U.S. Air Force programme. Designed by John Frost's Special Projects Group, it used three turbojets to drive a central fan and relied on the Coanda effect to direct the airflow for lift and thrust. {{ref:wiki-avrocar}} {{ref:nmusaf-avrocar}}",
+      "Two were built in 1959. Neither could fly more than about 3 ft above the ground without an uncontrollable wobble, and the fastest speed reached was 35 mph. The Pentagon cancelled the programme in December 1961 after spending about $10 million over ten years. Both aircraft survive in U.S. museums. {{ref:nmusaf-avrocar}} {{ref:airspace-avrocar}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Project Y",
+        "paragraphs": [
+          "John Frost joined Avro Canada in June 1947 and set up its Special Projects Group, which worked on a series of disc-shaped designs known internally as Project Y. The Canadian Defence Research Board funded the work with a CAN$400,000 contract in 1952, and a wooden mock-up was finished in 1953. On 11 February 1953 images of the 'Omega' design leaked to the Toronto Star. {{ref:wiki-avrocar}}",
+          "Canada dropped the project when it became too expensive, after a 1952 projection put development at $200 million. U.S. defence experts visited Avro in late 1953, and in 1955 the U.S. Air Force awarded a $750,000 contract. Avro put in $2.5 million of its own money in 1956, and in March 1957 the Air Force programme became Weapons System 606A, aimed at a supersonic vertical take-off fighter-bomber. {{ref:wiki-avrocar}} {{ref:army-avrocar}} {{ref:airspace-avrocar}}"
+        ]
+      },
+      {
+        "heading": "The Army Joins",
+        "paragraphs": [
+          "In 1958 the U.S. Army and Air Force took over the project together. Their goals were different: the Air Force still wanted a supersonic fighter-bomber, while the Army wanted a subsonic, all-terrain craft for carrying troops and reconnaissance. The Army's formal requirement was modest, a ten-minute hover in ground effect and a 25-mile range with a 1,000 lb payload, although one Army general reportedly expected the Avrocar to replace the helicopter. A joint-services contract for $2 million followed in 1959, and in March 1959 a further $1.77 million paid for a second prototype. {{ref:army-avrocar}} {{ref:wiki-avrocar}} {{ref:lindenbaum-avrocar}}",
+          "The Avrocar was 18 ft (5.49 m) across and carried two crew in separate cockpits. Estimates for the design promised a top speed of 300 mph, a 10,000 ft ceiling and a range of 995 miles. {{ref:wiki-avrocar}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Three Continental J69-T-9 turbojets, rated at 927 lbf each by the Air Force museum, drove a 124-blade 'turborotor' at the centre of the disc. The design relied on the Coanda effect to turn that airflow for both lift and thrust. The Air Force museum gives an empty weight of 4,620 lb and a height of 4 ft 10 in. {{ref:nmusaf-avrocar}} {{ref:wiki-avrocar}}",
+          "The design lost much of its thrust in practice. The hot jet exhaust mixed with the cold intake air and produced turbulent flow that would not stay attached to the duct walls, costing about 30 percent of the thrust. Without it the Avrocar could not hover out of ground effect as the requirement demanded. On the static rig it produced only 3,150 lb of lift out of ground effect, against a zero-fuel weight of 4,285 lb. The first control system used two rings of spoilers at the rim nozzle; control inputs made the aircraft lose height instead of changing direction, and in January 1960 a flat 'focusing ring' under the disc replaced it. {{ref:airspace-avrocar}} {{ref:lindenbaum-avrocar}}"
+        ]
+      },
+      {
+        "heading": "Flight Testing & Hubcapping",
+        "paragraphs": [
+          "The first Avrocar was rolled out in May 1959 and tested on a static hover rig from 9 June to 7 October 1959. The second was finished in August. On 29 September 1959, with Avro test pilot W.D. 'Spud' Potocki at the controls, the first tethered hover attempt ended in an uncontrollable oscillation that the engineers called 'hubcapping'. The first free flight followed on 12 November 1959. Testing stopped on 5 December after five flights and 18.5 hours and resumed in January 1960 with a modified control system. {{ref:wiki-avrocar}}",
+          "Above about 3 ft the Avrocar went into uncontrollable pitch and roll motions. Tests of the first aircraft in NASA Ames' 40 by 80 ft wind tunnel from April 1960 showed it had too little control for high-speed flight and was aerodynamically unstable. At a USAF evaluation on 4 April 1960 it reached 30 knots, and it took five seconds to turn 90 degrees to the left but eleven to the right. A modified version with exit vanes and a T-tail was tested at Ames in April 1961; it had enough control to transition to about 100 knots but remained unstable in pitch, and the tail proved ineffective in the downwash from the fan. At the final evaluation on 9 June 1961 it reached 20 knots. Peter Cope, Walter Hodgson of the Air Force and NASA's Fred Drinkwater also flew it, and Cope made four flights with the canopy open because it iced up. {{ref:army-avrocar}} {{ref:wiki-avrocar}} {{ref:airspace-avrocar}} {{ref:lindenbaum-avrocar}}"
+        ]
+      },
+      {
+        "heading": "Cancellation & Survivors",
+        "paragraphs": [
+          "Funding ran out in March 1961, and the programme was cancelled in December 1961. The Avrocar's best results were a top speed of 35 mph, a range of 79 miles and flight at about 3 ft, against the 300 mph, 995 miles and 10,000 ft of the estimates. The second aircraft had logged about 75 hours. Bernard Lindenbaum and William Blake, writing the programme's history with the Air Force programme manager Dan Murray, concluded that too many novel ideas had been tried at once: the turborotor, pneumatic controls, the ducting of jet exhaust through the rotor and a three-axis sidestick. {{ref:wiki-avrocar}} {{ref:nmusaf-avrocar}} {{ref:lindenbaum-avrocar}}",
+          "Both prototypes survive. The first, 58-7055, was acquired by the National Museum of the U.S. Air Force in 2007, put on display after restoration in June 2008 and moved to the Research and Development Gallery in 2016. The second, 59-4975, was shown at the 1968 Man and His World exhibition in Montreal and is held in pieces by the U.S. Army Transportation Museum at Fort Eustis, Virginia. {{ref:wiki-avrocar}} {{ref:army-avrocar}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-avrocar",
+      "name": "Avro Canada VZ-9 Avrocar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+    },
+    {
+      "id": "nmusaf-avrocar",
+      "name": "Avro Canada VZ-9AV Avrocar fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/avro-canada-vz-9av-avrocar/"
+    },
+    {
+      "id": "airspace-avrocar",
+      "name": "The Pentagon's Flying Saucer Problem",
+      "publisher": "Air & Space Magazine (Smithsonian)",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/the-pentagons-flying-saucer-problem-4613827/"
+    },
+    {
+      "id": "army-avrocar",
+      "name": "The Flying Saucer (Avrocar)",
+      "publisher": "U.S. Army Transportation Corps History",
+      "url": "https://transportation.army.mil/history/studies/flying_saucer.html"
+    },
+    {
+      "id": "lindenbaum-avrocar",
+      "name": "The VZ-9 \"Avrocar\" (Bernard Lindenbaum and William Blake)",
+      "publisher": "Bernard Lindenbaum and William Blake (copy hosted by Robert C. Mason)",
+      "url": "https://www.robertcmason.com/textdocs/avro-car-VZ9.pdf"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Avro Canada VZ-9AV Avrocar - National Museum of the U.S. Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/avro-canada-vz-9av-avrocar/"
+    },
+    {
+      "name": "The Pentagon's Flying Saucer Problem - Air & Space Magazine",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/the-pentagons-flying-saucer-problem-4613827/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1953-02-11",
+      "title": "Avro's disc design leaks to the Toronto Star",
+      "tag": "Programme milestone",
+      "summary": "Images of the 'Omega' design from Avro Canada's secret Project Y were published, a year after the Canadian Defence Research Board began funding the work.",
+      "source": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+    },
+    {
+      "date": "1959-09-29",
+      "title": "First tethered hover ends in 'hubcapping'",
+      "tag": "Loss of control",
+      "summary": "With Spud Potocki at the controls, the first tethered hover attempt went into an uncontrollable oscillation. The engineers named the pitch and roll wobble 'hubcapping'.",
+      "source": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+    },
+    {
+      "date": "1959-11-12",
+      "title": "First free flight",
+      "tag": "First flight",
+      "summary": "The Avrocar flew untethered for the first time. Testing stopped on 5 December 1959 after five flights and 18.5 hours so the control system could be modified.",
+      "source": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+    },
+    {
+      "date": "1961-06-09",
+      "title": "USAF and NASA evaluation reaches 20 knots",
+      "tag": "Test milestone",
+      "summary": "The second USAF and NASA evaluation, with a new control design, took the Avrocar to 20 knots. It still could not climb out of ground effect.",
+      "source": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+    },
+    {
+      "date": "1961-12-01",
+      "title": "Programme cancelled",
+      "tag": "Cancellation",
+      "summary": "After funding ran out in March 1961, the Pentagon cancelled the Avrocar in December 1961, about $10 million and ten years after the work began.",
+      "source": "https://www.smithsonianmag.com/air-space-magazine/the-pentagons-flying-saucer-problem-4613827/"
+    },
+    {
+      "date": "2008-06-01",
+      "title": "Restored Avrocar goes on display",
+      "tag": "Preservation",
+      "summary": "The first prototype, 58-7055, went on display at the National Museum of the U.S. Air Force after restoration. It moved to the Research and Development Gallery in 2016.",
+      "source": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+    }
+  ]
+}
