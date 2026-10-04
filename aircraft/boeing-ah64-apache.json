@@ -341,12 +341,12 @@
   "changelog": [
     {
       "date": "2026-07-11",
-      "change": "Entry created as a gold-standard test of the new helicopter template: full spec block, article, references, timeline and survivors sourced from Boeing's official AH-64E specifications page and current 2026 reporting on the Strait of Hormuz incident.",
+      "change": "Entry created - specs, article, sources, timeline and survivors, using Boeing's AH-64E specifications and 2026 reporting on the Strait of Hormuz incident.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Tightened up the overview - a clearer opening and less padding in the sections. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {

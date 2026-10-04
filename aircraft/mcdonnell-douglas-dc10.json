@@ -1,0 +1,522 @@
+{
+  "name": "DC-10",
+  "fullName": "McDonnell Douglas DC-10",
+  "manufacturer": "McDonnell Douglas",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Wide-Body Trijet Airliner",
+  "tagline": "The McDonnell Douglas DC-10 is a wide-body trijet airliner with its third engine at the base of the fin, built from 1970 to 1989. It outsold the rival Lockheed TriStar, but fatal accidents in the 1970s damaged its reputation, and today only a handful of tankers, freighters and a flying eye hospital still fly.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "United's 1968 order for 30 DC-10s was worth $465 million, about $15.5 million per aircraft.",
+    "US DC-10s have been grounded twice: from 6 June to 13 July 1979 after the Chicago crash, and from November 2025 to May 2026 after a UPS MD-11 accident.",
+    "Biman's farewell DC-10 pleasure flights from Birmingham in February 2014, the last passenger flights by the type, sold only 152 of 319 seats.",
+    "10 Tanker Air Carrier's DC-10 firefighting tankers carry 9,400 US gal of water or retardant and first fought a fire in July 2006.",
+    "The Orbis Flying Eye Hospital, N330AU, was built in 1981 as a passenger-cargo combi and donated to the charity by FedEx.",
+    "Until FedEx's MD-10 conversion removed the need, every DC-10 required a three-person flight crew including a flight engineer."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the DC-10-30, the long-range model, from Wikipedia. The maximum speed shown is the maximum operating Mach number (Mach 0.88); the empty weight is the operating empty weight. The domestic DC-10-10 had a 155 ft 4 in wingspan, 40,000 lbf CF6-6 engines and a 3,500 nmi range. No DC-10s are listed for sale on the used market, so the unit cost is Wikipedia's 1972 figure, CPI-adjusted; United's 1968 launch order worked out at $15.5M per aircraft.",
+    "maxSpeed": {
+      "mph": 584,
+      "text": "507 kn (584 mph / 940 km/h)"
+    },
+    "cruiseSpeed": "544 mph (876 km/h) at Mach 0.82",
+    "range": {
+      "miles": 5984,
+      "text": "5,980 mi (9,600 km, 5,200 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 42000,
+      "text": "42,000 ft (12,800 m)"
+    },
+    "wingspan": {
+      "ft": 165.3,
+      "text": "165 ft 4 in (50.4 m)"
+    },
+    "length": {
+      "ft": 181.6,
+      "text": "181 ft 7 in (55.4 m)"
+    },
+    "height": {
+      "ft": 57.6,
+      "text": "57 ft 7 in (17.6 m)"
+    },
+    "weight": "empty: 266,191 lb (120,742 kg); MTOW: 555,000 lb (251,744 kg)",
+    "engines": "Three General Electric CF6-50C high-bypass turbofans, 51,000 lbf (226.9 kN) each; the DC-10-40 used Pratt & Whitney JT9D turbofans of up to 53,000 lbf (235.7 kN)",
+    "crew": "3 (captain, first officer, flight engineer); 2 in MD-10 conversions",
+    "capacity": "270 passengers in a typical two-class layout (48 business, 222 economy), 399 maximum; 26 LD3 containers below deck; maximum payload 101,809 lb (46,180 kg)",
+    "firstFlight": {
+      "date": "1970-08-29",
+      "year": 1970
+    },
+    "serviceEntryDate": "1971-08-05",
+    "retiredDate": null,
+    "numberBuilt": 446,
+    "unitCost": {
+      "usd": 160300000,
+      "text": "$160M in 2026 dollars (CPI-adjusted, 1972 unit cost)",
+      "inflationText": "Originally $20M (1972)"
+    }
+  },
+  "variants": [
+    {
+      "code": "DC-10-10 / -10CF",
+      "desc": "The original domestic version, with three 40,000 lbf CF6-6 engines, a 155 ft 4 in wingspan, a 430,000 lb maximum takeoff weight and a range of about 3,500 nmi. 122 were built for airlines such as American, United and Delta, plus nine -10CF convertible passenger-freighters for Continental and United. Many later became FedEx freighters, and FedEx retired the last of them, as MD-10-10Fs, in June 2021."
+    },
+    {
+      "code": "DC-10-15",
+      "desc": "A hot-and-high version of the domestic airframe for high-altitude Mexican airports. Seven were built between 1981 and 1983, five for Mexicana and two for Aeromexico, by which time orders for the DC-10 had fallen sharply after the 1979 grounding. Few new DC-10s of any model were built after it, and the last was delivered to Nigeria Airways in July 1989."
+    },
+    {
+      "code": "DC-10-30 / -30CF / -30ER / -30F",
+      "desc": "The long-range intercontinental model, with a 165 ft 4 in wingspan, CF6-50C engines of 51,000 lbf, a 555,000 lb maximum takeoff weight and a 5,200 nmi range. 163 were built from 1972 to 1988, many for European airlines, plus 27 -30CF convertibles, 10 -30F freighters for FedEx from 1984, and six -30ERs with an extra fuel tank in the hold."
+    },
+    {
+      "code": "DC-10-40",
+      "desc": "The Pratt & Whitney-powered version, with three JT9D turbofans of up to 53,000 lbf and a range of about 5,100 nmi. Only two airlines bought it: Northwest Airlines took 22 and Japan Airlines took 20, including its domestic -40D, for 42 in all. Its fuselage is slightly longer than the -30's, at 182 ft 3 in."
+    },
+    {
+      "code": "KC-10A Extender / KDC-10",
+      "desc": "The KC-10A is a tanker-transport derivative of the DC-10-30, and the U.S. Air Force took 60. It first flew on 12 July 1980, entered service on 1 March 1981, carried 356,000 lb of fuel and could refuel through a boom or a drogue. Its final sortie was on 26 September 2024. The Netherlands had two airline DC-10-30s converted into KDC-10s, now flown by Omega."
+    },
+    {
+      "code": "MD-10",
+      "desc": "A FedEx conversion programme launched in September 1996 that gave DC-10 freighters the two-pilot Advanced Common Flightdeck of the MD-11, removing the flight engineer's station. The first MD-10 flew on 14 April 1999, and 89 aircraft were converted. FedEx flew its last MD-10 revenue flights at the end of 2022; Orbis and a few cargo airlines still fly the type."
+    }
+  ],
+  "operators": [
+    {
+      "name": "American Airlines",
+      "role": "Launch Operator",
+      "status": "Retired",
+      "since": "1971",
+      "fleetSize": "66 (55 DC-10-10, 11 DC-10-30)",
+      "homeBase": "Dallas/Fort Worth International Airport - Texas"
+    },
+    {
+      "name": "United Airlines",
+      "role": "Launch Customer",
+      "status": "Retired",
+      "since": "1971",
+      "fleetSize": "50",
+      "homeBase": "Chicago O'Hare International Airport - Illinois"
+    },
+    {
+      "name": "Continental Airlines",
+      "role": "Passenger & Cargo Operator",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "47",
+      "homeBase": "Houston, Texas"
+    },
+    {
+      "name": "Northwest Airlines",
+      "role": "Largest DC-10-40 Operator",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "46 (21 DC-10-30, 3 DC-10-30ER, 22 DC-10-40)",
+      "homeBase": "Minneapolis-Saint Paul International Airport - Minnesota"
+    },
+    {
+      "name": "FedEx Express",
+      "role": "Largest Cargo Operator",
+      "status": "Retired",
+      "since": "1980s",
+      "fleetSize": "113 DC-10s, 89 of them converted to MD-10s; last revenue flights 29-31 December 2022",
+      "homeBase": "Memphis International Airport - Tennessee"
+    },
+    {
+      "name": "Japan Airlines",
+      "role": "DC-10-40 Operator",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "20 DC-10-40, including domestic -40Ds",
+      "homeBase": "Tokyo, Japan"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "KC-10A Tanker Operator",
+      "status": "Retired",
+      "since": "1981",
+      "fleetSize": "60 KC-10A Extenders",
+      "homeBase": "Air Mobility Command; final sortie 26 September 2024"
+    },
+    {
+      "name": "Royal Netherlands Air Force",
+      "role": "KDC-10 Tanker Operator",
+      "status": "Retired",
+      "since": "1995",
+      "fleetSize": "2 KDC-10s converted from airline DC-10-30s",
+      "homeBase": "Netherlands; last aircraft retired October 2021"
+    },
+    {
+      "name": "Biman Bangladesh Airlines",
+      "role": "Last Passenger Operator",
+      "status": "Retired",
+      "since": "1980s",
+      "fleetSize": "Flew the last scheduled DC-10 passenger service with S2-ACR on 20 February 2014",
+      "homeBase": "Hazrat Shahjalal International Airport, Dhaka - Bangladesh"
+    },
+    {
+      "name": "10 Tanker Air Carrier",
+      "role": "Aerial Firefighting",
+      "status": "In Service",
+      "since": "2006",
+      "fleetSize": "4 DC-10-30 air tankers (Tankers 910, 911, 912 and 914)",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Omega Aerial Refueling Services",
+      "role": "Contract Air Refuelling",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Ex-Dutch KDC-10s N235UL and N264DE plus KDC-10 N974VV; 2 active in November 2025",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Orbis International",
+      "role": "Flying Eye Hospital",
+      "status": "In Service",
+      "since": "2010",
+      "fleetSize": "1 MD-10-30F (N330AU); an earlier DC-10-10, N220AU, retired in 2016",
+      "homeBase": "Flies worldwide"
+    },
+    {
+      "name": "Cargo Three",
+      "role": "Cargo Operator",
+      "status": "In Service",
+      "since": "2025",
+      "fleetSize": "1 MD-10-30F (HP-1755CTW), with 2 more on order",
+      "homeBase": "Panama"
+    },
+    {
+      "name": "Transportes Aéreos Bolivianos",
+      "role": "Cargo Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "1 MD-10-30F (December 2024)",
+      "homeBase": "Bolivia"
+    },
+    {
+      "name": "Other passenger airlines worldwide",
+      "role": "Passenger Operators",
+      "status": "Retired",
+      "since": "1971",
+      "fleetSize": "Including Garuda 28, Pan Am 16, National 16, Varig 15, Delta 15, Swissair 14, Lufthansa 13, Western 13, Iberia 12, SAS 12, KLM 11, Laker 11, British Caledonian 10, Air New Zealand 8 and Alitalia 8",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "DC10",
+    "howToFind": "The ICAO code DC10 covers the DC-10, MD-10, KC-10 and KDC-10. Filtering by DC10 or searching the registrations N612AX, N17085, N522AX and N603AX (10 Tanker), N974VV, N235UL and N264DE (Omega) and N330AU (Orbis) finds the few still flying. The firefighting tankers are busiest in the western US fire season."
+  },
+  "lastUpdated": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Added the DC-10 - history, variants, operators past and present, and the accident record including the 1979 grounding.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "DC10",
+    "DC-10-10",
+    "DC-10-30",
+    "DC-10-40",
+    "MD-10",
+    "KC-10",
+    "KDC-10",
+    "trijet",
+    "Douglas",
+    "wide-body",
+    "Orbis",
+    "air tanker"
+  ],
+  "article": {
+    "overview": [
+      "The McDonnell Douglas DC-10 is an American wide-body trijet airliner, with one engine under each wing and a third at the base of the fin. McDonnell Douglas built 446 between 1970 and 1989: 386 for airlines and 60 KC-10A tanker-transports for the U.S. Air Force. {{ref:wiki-dc10}} {{ref:boeing-products}}",
+      "The DC-10 entered service with American Airlines on 5 August 1971 and outsold its direct rival, the Lockheed L-1011 TriStar. Its first decade included several fatal accidents, two of them caused by a cargo door that could appear locked when it was not, and the 1979 Chicago crash led the FAA to withdraw its type certificate. The last scheduled passenger flight was in February 2014, but a few firefighting tankers, refuelling tankers, freighters and the Orbis flying eye hospital still fly. {{ref:wiki-dc10}} {{ref:wan-biman}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the TriStar Race",
+        "paragraphs": [
+          "In 1966 American Airlines asked manufacturers for a wide-body airliner smaller than the Boeing 747 that could fly long routes from shorter runways; at first it wanted a twin. Lockheed was designing a similar aircraft, the L-1011, and McDonnell Douglas sped up its own work in response. On 19 February 1968 American's president, George Spater, and James S. McDonnell announced that American would buy the DC-10, with a launch order for 25. United followed with 30 firm orders and 30 options, worth $465 million, or about $15.5 million per aircraft. {{ref:wiki-dc10}} {{ref:time-1968}}",
+          "The first DC-10 flew on 29 August 1970, the type was certified on 29 July 1971, and American flew the first revenue service, from Los Angeles to Chicago, on 5 August 1971. United began DC-10 flights later that month. The TriStar had first flown in November 1970, but Rolls-Royce's receivership in February 1971 halted its programme, and the DC-10 reached the market a year ahead. Lockheed built 250 TriStars, never made a profit on them, and left the civil airliner business. {{ref:wiki-dc10}} {{ref:wiki-l1011}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The DC-10's fuselage is 19 ft 9 in (6.02 m) wide, with room for 270 passengers in a typical two-class layout or up to 399 in high density, plus 26 LD3 containers below the floor. Two engines hang under the wings and the third sits at the base of the fin. The long-range DC-10-30 has three General Electric CF6-50C turbofans of 51,000 lbf each, a 555,000 lb maximum takeoff weight and a 5,200 nmi range; the original domestic DC-10-10 used 40,000 lbf CF6-6 engines and flew 3,500 nmi. {{ref:wiki-dc10}}",
+          "Several design choices later proved dangerous. The cargo doors opened outward and could appear locked when they were not. The cabin floor could not withstand a sudden decompression of the hold below it, yet flight-control cables ran through it. All three hydraulic systems ran close together beneath the tail engine with no backup flight controls, and the leading-edge slats could retract if their hydraulic lines were cut. Convair, which built the fuselage, was not allowed to take its concerns to the regulator. The DC-10 also needed a flight engineer, and its fuel consumption was high. {{ref:wiki-dc10}}"
+        ]
+      },
+      {
+        "heading": "The Cargo Door & Turkish 981",
+        "paragraphs": [
+          "On 12 June 1972 the aft cargo door of American Airlines Flight 96 blew out at 11,750 ft over Windsor, Ontario. The cabin floor collapsed and damaged control cables, but the crew landed safely. No airworthiness directive followed. Instead the FAA's head, John Shaffer, and McDonnell Douglas reached a 'gentlemen's agreement' to deal with the door. {{ref:wiki-dc10}}",
+          "On 3 March 1974 the same failure brought down Turkish Airlines Flight 981, a DC-10-10 flying from Paris Orly to London. The aft door blew open, the floor collapsed, and the aircraft crashed in the Ermenonville forest, killing all 346 people aboard. The door's locking pins had been filed down and a support plate had not been fitted. It was the deadliest single-aircraft accident with no survivors. A mandatory airworthiness directive followed, and there were no further cargo-door accidents. {{ref:wiki-thy981}}"
+        ]
+      },
+      {
+        "heading": "American 191 & the 1979 Grounding",
+        "paragraphs": [
+          "On 25 May 1979 the left engine and pylon of American Airlines Flight 191, a DC-10-10, separated on take-off from Chicago O'Hare. The pylon cut the hydraulic lines to the slats, which retracted on one wing only, and the aircraft crashed near the airport. All 271 aboard and two people on the ground were killed, the deadliest aviation accident in United States history. The cause was American's maintenance method of removing the engine and pylon together with a forklift, which had damaged the pylon. {{ref:wiki-aa191}}",
+          "The FAA withdrew the DC-10's type certificate on 6 June 1979, grounding the type in the United States until 13 July, and fined American that November. On 31 October Western Airlines Flight 2605 landed on a closed runway at Mexico City, killing 73. On 28 November Air New Zealand Flight 901 flew into Mount Erebus in Antarctica, killing all 257 aboard, after its navigation coordinates had been changed without the crew being told; the Mahon Royal Commission blamed the airline. By 1980 orders had fallen sharply, because of the aircraft's reputation and its fuel economy. McDonnell Douglas announced that production would end in August 1983 for lack of orders, but it continued at a low rate until 1989. {{ref:wiki-aa191}} {{ref:wiki-dc10}} {{ref:wiki-nz901}}"
+        ]
+      },
+      {
+        "heading": "Sioux City, UTA 772 & the Concorde Crash",
+        "paragraphs": [
+          "On 19 July 1989 the fan disk in the tail engine of United Airlines Flight 232, a DC-10-10, failed, and the debris cut all three hydraulic systems. Capt. Al Haynes's crew, helped by Dennis Fitch, brought the aircraft to a crash landing at Sioux City, Iowa; 184 of the 296 aboard survived and 112 died. Hydraulic fuses were then fitted to the No. 3 system. On 19 September 1989 a suitcase bomb destroyed UTA Flight 772 over the Ténéré desert in Niger, killing all 170 aboard, and six Libyans were convicted in their absence in 1999. {{ref:wiki-ua232}} {{ref:wiki-uta772}}",
+          "On 25 July 2000 a Continental Airlines DC-10 taking off from Paris Charles de Gaulle shed a titanium wear strip about 17 in long. Air France Flight 4590, a Concorde that took off from the same runway about five minutes later, ran over it, burst a tyre and ruptured a fuel tank, and 113 people died in the crash. Across its life the DC-10 family has had 55 accidents and incidents, with 32 hull losses and 1,261 occupant deaths. {{ref:wiki-af4590}} {{ref:wiki-dc10}}"
+        ]
+      },
+      {
+        "heading": "Freighters, Tankers & Current Status",
+        "paragraphs": [
+          "The last DC-10 was delivered to Nigeria Airways in July 1989. Its successor, the MD-11, was essentially a stretched DC-10-30, and 200 were built. From 1996 FedEx had 89 of its DC-10s converted into MD-10 freighters with a two-pilot glass cockpit shared with the MD-11; the first flew on 14 April 1999. FedEx retired its last MD-10-10F in June 2021 and flew its last MD-10-30F revenue flights at the end of 2022. The Air Force's KC-10A fleet flew its final sortie on 26 September 2024. {{ref:wiki-dc10}} {{ref:fi-dc10}} {{ref:cha-fedex}} {{ref:cha-fedex-end}} {{ref:wiki-kc10}}",
+          "Biman Bangladesh Airlines flew the last scheduled DC-10 passenger service on 20 February 2014, from Dhaka to Birmingham. The aircraft still flying include four DC-10-30 firefighting tankers with 10 Tanker Air Carrier, each carrying 9,400 US gal of retardant, Omega's KDC-10 tankers, the Orbis Flying Eye Hospital and single MD-10 freighters in Panama and Bolivia. Orbis's current aircraft, N330AU, replaced an earlier DC-10-10 that retired in 2016 and is now at the Pima Air & Space Museum. On 14 November 2025, after a UPS MD-11 crash at Louisville, the FAA grounded US DC-10s with an emergency airworthiness directive. It lifted the order on 11 May 2026 after approving Boeing's inspection programme for fatigue cracks in the aft pylon lugs. {{ref:wan-biman}} {{ref:aerialfire}} {{ref:wiki-tanker}} {{ref:orbis}} {{ref:cha-ead}} {{ref:wiki-dc10}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-dc10",
+      "name": "McDonnell Douglas DC-10",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-10"
+    },
+    {
+      "id": "boeing-products",
+      "name": "Boeing Products (historical product summary)",
+      "publisher": "Boeing",
+      "url": "https://www.boeing.com/content/dam/boeing/v2/company/history/pdf/Boeing_Products.pdf"
+    },
+    {
+      "id": "wan-biman",
+      "name": "Biman Bangladesh Airlines operates the last McDonnell Douglas DC-10 passenger flight",
+      "publisher": "World Airline News",
+      "url": "https://worldairlinenews.com/2014/02/20/biman-bangladesh-airlines-operates-the-last-mcdonnell-douglas-dc-10-passenger-flight/"
+    },
+    {
+      "id": "time-1968",
+      "name": "Aviation: Back in the Fight",
+      "publisher": "Time",
+      "url": "https://time.com/archive/6635375/aviation-back-in-the-fight/"
+    },
+    {
+      "id": "wiki-l1011",
+      "name": "Lockheed L-1011 TriStar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_L-1011_TriStar"
+    },
+    {
+      "id": "wiki-thy981",
+      "name": "Turkish Airlines Flight 981",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_981"
+    },
+    {
+      "id": "wiki-aa191",
+      "name": "American Airlines Flight 191",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Airlines_Flight_191"
+    },
+    {
+      "id": "wiki-nz901",
+      "name": "Air New Zealand Flight 901",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_New_Zealand_Flight_901"
+    },
+    {
+      "id": "wiki-ua232",
+      "name": "United Airlines Flight 232",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_Airlines_Flight_232"
+    },
+    {
+      "id": "wiki-uta772",
+      "name": "UTA Flight 772",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/UTA_Flight_772"
+    },
+    {
+      "id": "wiki-af4590",
+      "name": "Air France Flight 4590",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_France_Flight_4590"
+    },
+    {
+      "id": "fi-dc10",
+      "name": "McDonnell Douglas DC-10/MD-10 - Archived Report",
+      "publisher": "Forecast International",
+      "url": "https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=1187"
+    },
+    {
+      "id": "cha-fedex",
+      "name": "FedEx Express retires world's last MD-10-10F",
+      "publisher": "ch-aviation",
+      "url": "https://www.ch-aviation.com/news/104581-fedex-express-retires-worlds-last-md-10-10f"
+    },
+    {
+      "id": "cha-fedex-end",
+      "name": "FedEx Express ends MD-10 operations",
+      "publisher": "ch-aviation",
+      "url": "https://www.ch-aviation.com/news/123216-fedex-express-ends-md-10-operations"
+    },
+    {
+      "id": "wiki-kc10",
+      "name": "McDonnell Douglas KC-10 Extender",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_KC-10_Extender"
+    },
+    {
+      "id": "aerialfire",
+      "name": "Commercial Veterans: Firefighting Giants",
+      "publisher": "Aerial Fire Magazine",
+      "url": "https://aerialfiremag.com/2026/05/01/commercial-veterans-firefighting-giants/"
+    },
+    {
+      "id": "wiki-tanker",
+      "name": "DC-10 Air Tanker",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DC-10_Air_Tanker"
+    },
+    {
+      "id": "orbis",
+      "name": "10 Facts About the Flying Eye Hospital",
+      "publisher": "Orbis International",
+      "url": "https://www.orbis.org/en/news/2020/10-facts-flying-eye-hospital"
+    },
+    {
+      "id": "cha-ead",
+      "name": "US FAA expands emergency airworthiness directive to DC-10s",
+      "publisher": "ch-aviation",
+      "url": "https://www.ch-aviation.com/news/160808-us-faa-expands-emergency-airworthiness-directive-to-dc-10s"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "List of McDonnell Douglas DC-10 operators - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_McDonnell_Douglas_DC-10_operators"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1970-08-29",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "The first DC-10 flew 18 months after American Airlines announced its launch order. The type was certified on 29 July 1971.",
+      "source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-10"
+    },
+    {
+      "date": "1971-08-05",
+      "title": "Entry into service with American Airlines",
+      "tag": "Service entry",
+      "summary": "American flew the first DC-10 revenue service, from Los Angeles to Chicago. United followed later the same month.",
+      "source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-10"
+    },
+    {
+      "date": "1972-06-12",
+      "title": "American Airlines Flight 96",
+      "tag": "Cargo door failure",
+      "summary": "The aft cargo door blew out at 11,750 ft over Windsor, Ontario, collapsing part of the cabin floor and damaging control cables. The crew landed safely.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-10"
+    },
+    {
+      "date": "1974-03-03",
+      "title": "Turkish Airlines Flight 981",
+      "tag": "Cargo door failure",
+      "summary": "A DC-10-10 lost its aft cargo door after take-off from Paris Orly and crashed in the Ermenonville forest. All 346 aboard were killed.",
+      "fatalities": 346,
+      "source": "https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_981"
+    },
+    {
+      "date": "1979-05-25",
+      "title": "American Airlines Flight 191",
+      "tag": "Engine separation",
+      "summary": "The left engine and pylon separated on take-off from Chicago O'Hare after improper maintenance. All 271 aboard and two people on the ground were killed.",
+      "fatalities": 273,
+      "source": "https://en.wikipedia.org/wiki/American_Airlines_Flight_191"
+    },
+    {
+      "date": "1979-06-06",
+      "title": "FAA withdraws the type certificate",
+      "tag": "Grounding",
+      "summary": "The FAA withdrew the DC-10's type certificate after the Chicago crash, grounding the type in the United States until 13 July 1979.",
+      "source": "https://en.wikipedia.org/wiki/American_Airlines_Flight_191"
+    },
+    {
+      "date": "1979-10-31",
+      "title": "Western Airlines Flight 2605",
+      "tag": "Runway accident",
+      "summary": "The aircraft landed on a closed runway at Mexico City. 72 of the 88 aboard and one person on the ground were killed.",
+      "fatalities": 73,
+      "source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-10"
+    },
+    {
+      "date": "1979-11-28",
+      "title": "Air New Zealand Flight 901",
+      "tag": "Controlled flight into terrain",
+      "summary": "A DC-10-30 on an Antarctic sightseeing flight flew into Mount Erebus after its navigation coordinates were changed without the crew's knowledge. All 257 aboard were killed.",
+      "fatalities": 257,
+      "source": "https://en.wikipedia.org/wiki/Air_New_Zealand_Flight_901"
+    },
+    {
+      "date": "1989-07-19",
+      "title": "United Airlines Flight 232",
+      "tag": "Engine failure",
+      "summary": "An uncontained tail-engine failure cut all three hydraulic systems, and the crew crash-landed at Sioux City, Iowa. 112 of the 296 aboard died and 184 survived.",
+      "fatalities": 112,
+      "source": "https://en.wikipedia.org/wiki/United_Airlines_Flight_232"
+    },
+    {
+      "date": "1989-09-19",
+      "title": "UTA Flight 772",
+      "tag": "Bombing",
+      "summary": "A suitcase bomb destroyed the aircraft over the Ténéré desert in Niger on a flight from Brazzaville to Paris. All 170 aboard were killed.",
+      "fatalities": 170,
+      "source": "https://en.wikipedia.org/wiki/UTA_Flight_772"
+    },
+    {
+      "date": "2000-07-25",
+      "title": "Continental DC-10 debris causes the Concorde crash",
+      "tag": "Runway debris",
+      "summary": "A titanium strip shed by a departing Continental DC-10 burst a tyre on Air France Flight 4590, a Concorde, which crashed shortly after take-off, killing 113. The DC-10 itself landed safely.",
+      "source": "https://en.wikipedia.org/wiki/Air_France_Flight_4590"
+    },
+    {
+      "date": "2014-02-20",
+      "title": "Last scheduled passenger flight",
+      "tag": "Retirement",
+      "summary": "Biman Bangladesh Airlines DC-10-30 S2-ACR flew from Dhaka to Birmingham via Kuwait, the last scheduled DC-10 passenger service.",
+      "source": "https://worldairlinenews.com/2014/02/20/biman-bangladesh-airlines-operates-the-last-mcdonnell-douglas-dc-10-passenger-flight/"
+    },
+    {
+      "date": "2024-09-26",
+      "title": "Final KC-10 sortie",
+      "tag": "Retirement",
+      "summary": "KC-10A 79-1948 flew the type's last U.S. Air Force sortie, to the boneyard at Davis-Monthan AFB.",
+      "source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_KC-10_Extender"
+    },
+    {
+      "date": "2025-11-14",
+      "title": "FAA grounds US DC-10s",
+      "tag": "Grounding",
+      "summary": "After the UPS MD-11 crash at Louisville, the FAA extended its emergency airworthiness directive to the DC-10. It was lifted on 11 May 2026 once an inspection programme for the aft pylon lugs was approved.",
+      "source": "https://www.ch-aviation.com/news/160808-us-faa-expands-emergency-airworthiness-directive-to-dc-10s"
+    }
+  ]
+}

@@ -239,32 +239,32 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and 2025-26 fleet-size estimates.",
+      "change": "Expanded the article with full sources and a timeline, and updated it with 2025-26 fleet-size estimates.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-11",
-      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "change": "Renamed the last article section to 'Current Status & Outlook', since the aircraft is still in service.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "change": "Updated the overview layout and refreshed the news links.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "change": "Rewrote the opening of the overview so it says what the aircraft is straight away. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Cut some padding from the article sections. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-09-09",
-      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "change": "Added sources to a few statements that didn't have one.",
       "author": "planesdb"
     }
   ],

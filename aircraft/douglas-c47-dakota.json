@@ -333,37 +333,37 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "change": "Expanded the article with full sources and a timeline.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-11",
-      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "change": "Renamed the last article section to 'Current Status & Outlook', since the aircraft is still in service.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-17",
-      "change": "Temporarily merged into the DC-3 entry (id douglas-dc3) as a variant rather than a standalone entry.",
+      "change": "Temporarily merged into the DC-3 entry as a variant.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-22",
-      "change": "Restored as its own dedicated, military-focused entry per user request, split back out from the DC-3 civilian entry. Re-added the 'survivors' field (verified preserved airframes: 'That's All, Brother' and BBMF Dakota ZA947), added an 'armament' spec line and a sourced 'combatLossesDisplay' note per the military template, and restored the 'Combat History' section heading.",
+      "change": "Split back out from the DC-3 as its own military entry. Added the surviving aircraft ('That's All, Brother' and BBMF Dakota ZA947), armament and combat losses, and put back the Combat History section.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Tightened up the overview - a clearer opening and less padding in the sections. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "change": "Updated the news links with current stories.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Fixed hero photo credit mismatch - the previously-declared photographer credit belonged to a different, no-longer-displayed photo. Replaced with a generic Wikimedia Commons credit since the exact photographer for the current photo could not be independently verified this pass.",
+      "change": "Changed the main photo credit to Wikimedia Commons, as the original photographer couldn't be confirmed.",
       "author": "d4nny6"
     },
     {

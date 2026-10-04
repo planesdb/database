@@ -337,42 +337,42 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and current production/Ukraine status from Lockheed Martin's June 2026 figures.",
+      "change": "Expanded the article with full sources and a timeline, and updated it with the latest production/Ukraine status from Lockheed Martin's June 2026 figures.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-11",
-      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "change": "Renamed the last article section to 'Current Status & Outlook', since the aircraft is still in service.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "change": "Updated the overview layout and refreshed the news links.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "change": "Rewrote the opening of the overview so it says what the aircraft is straight away. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Cut some padding from the article sections. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-09-09",
-      "change": "Rebuilt the operators roster from the full operators list - broke the single \"25+ allied air forces\" row into the nine largest operators with real delivered and in-service figures, corrected the USAF fleet to the 2023 figure of 841, and named the remaining export customers. Attached two previously uncited references.",
+      "change": "Rebuilt the operators - split the single \"25+ allied air forces\" row into the nine largest operators with real delivered and in-service figures, corrected the USAF fleet to 841 (2023), and named the remaining export customers. Added two missing sources.",
       "author": "planesdb"
     },
     {
       "date": "2026-09-22",
-      "change": "Updated the Accidents & Incidents tab with the two F-16 crashes in the past week: the Texas Air National Guard jet lost near Traverse City, Michigan on 17 September, and the 52nd Fighter Wing jet lost at Spangdahlem Air Base, Germany on 22 September. Both pilots ejected.",
+      "change": "Added the two F-16 crashes this week to the accidents tab: the Texas Air National Guard jet lost near Traverse City, Michigan on 17 September, and the 52nd Fighter Wing jet lost at Spangdahlem, Germany on 22 September. Both pilots ejected.",
       "author": "planesdb"
     },
     {
       "date": "2026-09-22",
-      "change": "Rewrote the tagline, quickFacts and Overview article to read more naturally (removed stock phrases, set-up sentences, dash-heavy constructions and unsupported superlatives). Facts and citations unchanged.",
+      "change": "Rewrote the tagline, quick facts and overview so they read better. Facts and sources unchanged.",
       "author": "planesdb"
     }
   ],

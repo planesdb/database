@@ -1,0 +1,572 @@
+{
+  "name": "F-111 Aardvark",
+  "fullName": "General Dynamics F-111 Aardvark",
+  "manufacturer": "General Dynamics",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets",
+    "bombers"
+  ],
+  "role": "Variable-Sweep Strike Aircraft",
+  "tagline": "The General Dynamics F-111 Aardvark is a two-seat, twin-engine strike aircraft and the first production aircraft with variable-sweep wings, afterburning turbofans and automatic terrain-following radar. The U.S. Air Force flew it from 1967 to 1998, in Vietnam, over Libya and in the Gulf War, and the Royal Australian Air Force kept it until December 2010.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The name Aardvark was used unofficially from 1969 and only made official when the Air Force retired the F-111F on 27 July 1996.",
+    "The two crew sat side by side in a cockpit that separated from the aircraft as an escape capsule.",
+    "The F-111 family's only air-to-air victory went to an unarmed EF-111A, whose crew manoeuvred an Iraqi Mirage F1 into the ground on 17 January 1991.",
+    "Only four of the 18 F-111Fs that pressed on to Libya in Operation El Dorado Canyon dropped their bombs on target.",
+    "The F-111 made up 9 percent of Tactical Air Command's fleet but used 25 percent of its maintenance budget.",
+    "On 17 September 1992 Capt. Jerry Lindh and Maj. Michael McGuire stayed with their crippled F-111E to steer it away from villages near RAF Upper Heyford, and both were killed."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the F-111A, from the National Museum of the U.S. Air Force, with empty weight from Wikipedia. Later versions differ: the F-111F had 25,100 lbf TF30-P-100 engines and a 2,971-mile range, and the RAAF's F-111C had a 70 ft wingspan and a 110,002 lb maximum takeoff weight. Totals built are given as 562, 563 or 566; 563 is Wikipedia's figure. Wikipedia gives the service entry date as 18 July 1967 and the first delivery as 17 July. The unit cost is the 1965 estimate of about $6M reported by Wikipedia, CPI-adjusted from 1965; RAAF F-111Cs were priced at US$5.21M each in 1963. The retirement date is the RAAF's final flight; the USAF retired its last F-111F in 1996 and its last EF-111A in 1998.",
+    "maxSpeed": {
+      "mph": 1452,
+      "text": "1,262 kn (1,452 mph / 2,337 km/h)"
+    },
+    "cruiseSpeed": "685 mph (1,102 km/h)",
+    "range": {
+      "miles": 3632,
+      "text": "3,632 mi (5,845 km)"
+    },
+    "serviceCeiling": {
+      "ft": 57000,
+      "text": "57,000 ft (17,370 m)"
+    },
+    "wingspan": {
+      "ft": 63,
+      "text": "63 ft (19.2 m) spread; 32 ft (9.75 m) fully swept"
+    },
+    "length": {
+      "ft": 73.5,
+      "text": "73 ft 6 in (22.4 m)"
+    },
+    "height": {
+      "ft": 17,
+      "text": "17 ft 0 in (5.2 m)"
+    },
+    "weight": "empty: 45,200 lb (20,500 kg); MTOW: 92,657 lb (42,029 kg)",
+    "engines": "Two Pratt & Whitney TF30-P-3 afterburning turbofans, 12,000 lbf (53 kN) dry and 18,500 lbf (82 kN) with afterburner each",
+    "armament": "Optional M61A1 20 mm cannon with 2,084 rounds in the internal bay; up to 24 conventional or nuclear weapons in the bay and on underwing pylons; AGM-69 SRAM on the FB-111A; GBU-12, GBU-15 and GBU-28 laser-guided bombs on the F-111F",
+    "crew": "2 (pilot and weapon systems officer, side by side in an escape capsule)",
+    "capacity": "Internal bay for two 750 lb M117 bombs or one nuclear bomb, plus underwing pylons; the F-111C was rated for 31,500 lb (14,300 kg) of ordnance",
+    "firstFlight": {
+      "date": "1964-12-21",
+      "year": 1964
+    },
+    "serviceEntryDate": "1967-07-18",
+    "retiredDate": "2010-12-03",
+    "numberBuilt": 563,
+    "unitCost": {
+      "usd": 63800000,
+      "text": "$63.8M in 2026 dollars (CPI-adjusted, 1965 estimate)",
+      "inflationText": "Originally ~$6M (1965 estimate)"
+    },
+    "combatLosses": "Six combat losses in more than 4,000 Vietnam missions, plus three F-111As lost during the 1968 Combat Lancer deployment; F-111F 70-2389 lost over Libya on 15 April 1986; EF-111A 66-0023 crashed while evading a threat over Iraq on 13 February 1991."
+  },
+  "variants": [
+    {
+      "code": "F-111A",
+      "desc": "The first production version for the Air Force, with TF30-P-3 engines of 18,500 lbf and Mark I avionics. 159 were built, including 30 pre-production aircraft. It entered service with the 474th Tactical Fighter Wing at Nellis AFB in 1967 and flew the Combat Lancer and Linebacker II deployments to Thailand. 42 were later converted into EF-111As, and 4 went to Australia in 1982."
+    },
+    {
+      "code": "F-111B",
+      "desc": "The Navy fleet-defence fighter, built with Grumman for carrier operations and first flown on 18 May 1965. Seven were built, but the aircraft was badly overweight, and Congress refused production funding in May 1968; work stopped that July. Its AWG-9 radar, AIM-54 Phoenix missiles and TF30 engines were carried over into the Grumman F-14 Tomcat."
+    },
+    {
+      "code": "F-111C / RF-111C",
+      "desc": "The Royal Australian Air Force version, with a longer 70 ft wing and a 110,002 lb maximum takeoff weight. Australia ordered 24 in October 1963 for US$125 million, but the aircraft did not reach Amberley until 1973. Four were converted into RF-111C reconnaissance aircraft, the first at Fort Worth in 1978-79, and the F-111C stayed in RAAF service until December 2010."
+    },
+    {
+      "code": "F-111D / F-111E",
+      "desc": "Two parallel Air Force versions. The 94 F-111Es were delivered from 1969 to 1971 and served with the 20th Tactical Fighter Wing at RAF Upper Heyford, and 18 deployed to the Gulf War. The 96 F-111Ds had the advanced Mark II digital avionics, which proved so troublesome that finished aircraft were parked at Fort Worth for years; they flew with the 27th Tactical Fighter Wing at Cannon AFB."
+    },
+    {
+      "code": "F-111F",
+      "desc": "The final and most capable strike version, of which 106 were built between 1970 and 1976. It had TF30-P-100 engines of 25,100 lbf and Mark IIB avionics, and gained the Pave Tack laser targeting pod in the early 1980s. F-111Fs from RAF Lakenheath flew the 1986 Libya raid, and 66 deployed to the Gulf War, where they dropped about 80 percent of the laser-guided bombs."
+    },
+    {
+      "code": "FB-111A / F-111G",
+      "desc": "The Strategic Air Command bomber, with TF30-P-7 engines of 20,350 lbf, a 119,250 lb maximum takeoff weight and up to six AGM-69 SRAM missiles. 76 were built, cut from 263 planned, and served with the 509th Bomb Wing and 340th Bomb Group until 1991. From 1989, 34 were converted into F-111G tactical aircraft, and Australia bought 15 of them."
+    },
+    {
+      "code": "EF-111A Raven",
+      "desc": "An unarmed electronic warfare conversion of the F-111A, known to crews as the Spark-Vark, built by General Dynamics and Grumman. 42 were converted, the first flying on 10 March 1977, and they were delivered from 1981 to 1985. EF-111As escorted the 1986 Libya raid and scored the family's only air-to-air victory in 1991. The last retired in 1998."
+    },
+    {
+      "code": "F-111K (cancelled)",
+      "desc": "A version for the Royal Air Force, ordered after the TSR-2 was cancelled in April 1965. Britain ordered 50, but cancelled them in early 1968 as costs rose from about £2.1 million each at 1965 prices to about £3 million. Two airframes, XV884 and XV885, were in assembly; the USAF declined them, and F-111K components were used in the FB-111A programme."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force (474th Tactical Fighter Wing)",
+      "role": "First Operational Wing (F-111A)",
+      "status": "Retired",
+      "since": "1967",
+      "fleetSize": "F-111A, 159 built",
+      "homeBase": "Nellis AFB, Nevada"
+    },
+    {
+      "name": "United States Air Force (48th Tactical Fighter Wing)",
+      "role": "F-111F Strike Wing",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "F-111F, 106 built; 24 launched for the 1986 Libya raid",
+      "homeBase": "RAF Lakenheath, England (492nd-495th Tactical Fighter Squadrons)"
+    },
+    {
+      "name": "United States Air Force (20th Tactical Fighter Wing)",
+      "role": "F-111E Strike Wing",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "F-111E, 94 built",
+      "homeBase": "RAF Upper Heyford, England (55th, 77th and 79th Tactical Fighter Squadrons)"
+    },
+    {
+      "name": "United States Air Force (27th Tactical Fighter Wing)",
+      "role": "F-111D Wing",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "F-111D, 96 built",
+      "homeBase": "Cannon AFB, New Mexico"
+    },
+    {
+      "name": "United States Air Force (Strategic Air Command)",
+      "role": "FB-111A Strategic Bomber",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "76 FB-111As; retired 1991",
+      "homeBase": "509th Bomb Wing, Pease AFB, New Hampshire; 340th Bomb Group, Carswell AFB, Texas"
+    },
+    {
+      "name": "United States Air Force (electronic combat squadrons)",
+      "role": "EF-111A Electronic Warfare",
+      "status": "Retired",
+      "since": "1981",
+      "fleetSize": "42 EF-111A Ravens; last unit inactivated 19 June 1998",
+      "homeBase": "388th and 390th ECS, Mountain Home AFB, Idaho; later 429th ECS, Cannon AFB, New Mexico"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Strike & Reconnaissance",
+      "status": "Retired",
+      "since": "1973",
+      "fleetSize": "43 in total: 24 F-111C (4 converted to RF-111C), 4 ex-USAF F-111A and 15 F-111G; retired 3 December 2010",
+      "homeBase": "RAAF Base Amberley, Queensland (No. 1 and No. 6 Squadrons, No. 82 Wing)"
+    },
+    {
+      "name": "United States Navy",
+      "role": "F-111B Test Programme",
+      "status": "Retired",
+      "since": "1965",
+      "fleetSize": "7 F-111Bs built; programme cancelled in 1968",
+      "homeBase": "Test programme only"
+    }
+  ],
+  "survivors": {
+    "intro": "Many F-111s are preserved in the United States, the UK and Australia, where 13 RAAF aircraft were kept when the rest of the fleet was buried. They include the first F-111 built and the only surviving RF-111C that flew missions over East Timor.",
+    "airframes": [
+      {
+        "serial": "A8-134",
+        "name": "RF-111C",
+        "location": "Australian War Memorial - Treloar Technology Centre",
+        "place": "Mitchell, Canberra, Australia",
+        "url": "https://www.awm.gov.au/collection/C2668232",
+        "note": "First flew on 18 November 1968 and was delivered on 8 June 1973. The only surviving RF-111C to have flown reconnaissance missions over East Timor in 1999.",
+        "featured": true,
+        "countryCode": "au",
+        "country": "Australia"
+      },
+      {
+        "serial": "67-0067",
+        "name": "F-111A",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196049/general-dynamics-f-111a-aardvark/",
+        "note": "Displayed alongside an F-111F flown by the 48th Tactical Fighter Wing in Desert Storm and EF-111A 66-0057.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "63-9766",
+        "name": "F-111A",
+        "location": "Air Force Flight Test Museum",
+        "place": "Edwards AFB, California, United States",
+        "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-111_Aardvark",
+        "note": "The first F-111 built, which made the type's first flight on 21 December 1964.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "67-0120",
+        "name": "F-111E",
+        "location": "IWM Duxford",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "url": "https://www.iwm.org.uk/history/f-111-aardvark-the-flying-pig",
+        "note": "Arrived at Duxford in 1993, as the 20th Tactical Fighter Wing was leaving RAF Upper Heyford.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "74-0177",
+        "name": "F-111F",
+        "location": "RAF Museum Cosford",
+        "place": "Cosford, Shropshire, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-111_Aardvark",
+        "note": "An F-111F of the type flown from RAF Lakenheath.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "68-0033",
+        "name": "F-111E",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "url": "https://pimaair.org/museum-aircraft/general-dynamics-f-111e/",
+        "note": "F-111E on display at Pima.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "A8-126",
+        "name": "RF-111C",
+        "location": "RAAF Amberley Aviation Heritage Centre",
+        "place": "RAAF Base Amberley, Queensland, Australia",
+        "url": "https://www.warbirdsonline.com.au/2016/02/22/raaf-amberley-aviation-heritage-centre-collection/",
+        "note": "The first RF-111C conversion, carried out at Fort Worth between October 1978 and April 1979.",
+        "countryCode": "au",
+        "country": "Australia"
+      },
+      {
+        "serial": "A8-130",
+        "name": "F-111C",
+        "location": "Pearl Harbor Aviation Museum",
+        "place": "Ford Island, Honolulu, Hawaii, United States",
+        "url": "https://www.pearlharboraviationmuseum.org/blog/general-dynamics-f-111-aardvark-pig/",
+        "note": "Former RAAF F-111C that arrived in Hawaii in September 2013.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No F-111 has flown since the RAAF's final flights in December 2010, so the type will not appear on Flightradar24. Preserved examples can be seen at Dayton, Duxford, Cosford, Tucson, Canberra and Amberley."
+  },
+  "lastUpdated": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Added the F-111 Aardvark - USAF and RAAF service, all the main variants, survivors and accident history.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Aardvark",
+    "F111",
+    "F-111F",
+    "F-111C",
+    "FB-111A",
+    "EF-111A Raven",
+    "Spark-Vark",
+    "Pig",
+    "TFX",
+    "swing wing",
+    "variable sweep",
+    "El Dorado Canyon"
+  ],
+  "article": {
+    "overview": [
+      "The General Dynamics F-111 Aardvark is a retired American two-seat, twin-engine strike aircraft built by General Dynamics at Fort Worth, Texas. It was the first production aircraft with variable-sweep wings, afterburning turbofans and automatic terrain-following radar, which could fly it hands-off as low as 200 ft. The U.S. Air Force flew attack, strategic bomber and electronic warfare versions, and the Royal Australian Air Force flew it until 2010. {{ref:wiki-f111}} {{ref:nmusaf-f111a}}",
+      "The F-111 first flew on 21 December 1964, and 563 were built before production ended in 1976. It began as the TFX, Defense Secretary Robert McNamara's plan for one aircraft to serve both the Air Force and the Navy, and its development brought cost growth, a cancelled Navy version and a 1969 wing failure that grounded the fleet. It later flew in Vietnam, struck Libya in 1986 and was credited with destroying more than 1,500 Iraqi tanks and armoured vehicles in 1991. The name Aardvark, long used unofficially, became official when the Air Force retired the F-111F on 27 July 1996. {{ref:wiki-f111}} {{ref:afit}} {{ref:gs-pgw}}"
+    ],
+    "sections": [
+      {
+        "heading": "The TFX Programme",
+        "paragraphs": [
+          "Robert McNamara became Secretary of Defense in January 1961, began studies on 14 February and in June ordered the TFX programme, which was to produce a single design for both the Air Force and the Navy. The evaluation boards preferred Boeing's design from January 1962, but in November McNamara chose General Dynamics because its two versions shared more parts; Boeing's shared less than half their major structure. Congress investigated the award, but the contract was signed on 21 December 1962. Grumman became General Dynamics' partner in November 1963. {{ref:wiki-f111}} {{ref:afit}}",
+          "The first F-111A rolled out on 15 October 1964 and flew from Carswell AFB on 21 December, a 22-minute flight cut short by a flap fault. Compressor stalls in the TF30 engines took two intake redesigns, Triple Plow I in 1967 and Triple Plow II in 1968, to cure. Costs rose: the unit cost estimate went from $4.5 million to $6 million in 1965, and the 1,726 aircraft planned in 1962 shrank to fewer than 600. The first production aircraft was delivered to Nellis AFB on 17 July 1967, and the 428th Tactical Fighter Squadron reached initial operational capability on 28 April 1968. {{ref:wiki-f111}} {{ref:afit}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The F-111's wings sweep from 16 to 72.5 degrees, spanning 63 ft spread and 32 ft fully swept. The two crew sit side by side in a cockpit that separates from the aircraft as an escape capsule. The F-111A's TF30-P-3 turbofans gave 18,500 lb of thrust each with afterburner and a top speed of 1,452 mph at altitude, and the later F-111F, with 25,100 lb TF30-P-100s, could reach Mach 1.2 at sea level. {{ref:nmusaf-f111f}} {{ref:nmusaf-f111a}} {{ref:wiki-f111}}",
+          "Automatic terrain-following radar flew the aircraft hands-off as low as 200 ft. The internal bay held two 750 lb M117 bombs, one nuclear bomb or an M61A1 cannon with 2,084 rounds, and underwing pylons carried the rest of a load of up to 24 weapons. The F-111F carried the AN/APQ-144 attack radar and AN/APQ-146 terrain-following radar, and gained the AN/AVQ-26 Pave Tack laser targeting pod in the early 1980s. The FB-111A bomber could carry six AGM-69 SRAM missiles, four under the wings and two inside. {{ref:wiki-f111}} {{ref:nmusaf-f111f}}"
+        ]
+      },
+      {
+        "heading": "Combat Lancer, the Wing Box & the F-111B",
+        "paragraphs": [
+          "Six F-111As of the 428th Tactical Fighter Squadron deployed to Takhli, Thailand, on 25 March 1968 under Combat Lancer. They flew 55 night missions by November but lost three aircraft. 66-0022 crashed in the Phu Phan mountains on 28 March, killing Maj. Henry MacCann and Capt. Dennis Graham, and 66-0024 disappeared on 22 April. The cause of one loss, a failed control-valve rod in the horizontal stabiliser, was found on 42 other aircraft. {{ref:tdia-lancer}} {{ref:wiki-f111}} {{ref:asn-660022}}",
+          "A wing carry-through box failed in fatigue testing in August 1968 after fewer than 600 hours, and on 22 December 1969 F-111A 67-0049 lost a wing over the Nellis ranges, killing Maj. Thomas Mack and Maj. James Anthony. The fleet was grounded the same day until 31 July 1970, and every F-111 then went through a cold-proof test at -40 degrees F, loading the wing to +7.33 g and -2.4 g, which found 11 major flaws. The Navy's F-111B, first flown on 18 May 1965, was badly overweight; Congress refused production funds in May 1968, and work stopped that July. Its AWG-9 radar, AIM-54 Phoenix missiles and TF30 engines went into the F-14 Tomcat. {{ref:afit}} {{ref:asn-670049}} {{ref:wiki-f111}} {{ref:wiki-f111b}}"
+        ]
+      },
+      {
+        "heading": "Vietnam, Strategic Air Command & Libya",
+        "paragraphs": [
+          "F-111As returned to Takhli in September 1972 and flew 154 low-level missions during Linebacker II, and North Vietnam called them 'Whispering Death'. In all, F-111s flew more than 4,000 combat missions in Vietnam with six combat losses. Strategic Air Command received 76 FB-111A bombers, cut from 263 planned, from 1969, and flew them with the 509th Bomb Wing at Pease AFB and the 340th Bomb Group at Carswell AFB until 1991. {{ref:wiki-f111}} {{ref:nmusaf-f111a}}",
+          "In England, F-111Es of the 20th Tactical Fighter Wing flew from RAF Upper Heyford and F-111Fs of the 48th from RAF Lakenheath. On 14 April 1986, in Operation El Dorado Canyon, 24 F-111Fs left Lakenheath for Libya, and 18 continued after the first refuelling on a 6,400-mile round trip of 13 hours with EF-111As in support. Only four of the 18 dropped their bombs on target, and F-111F 70-2389, call sign Karma 52, was lost with Capt. Fernando Ribas-Dominicci and Capt. Paul Lorence. Ribas-Dominicci's remains were returned in 1989; Lorence was never found. {{ref:wiki-f111}} {{ref:afm-edc}} {{ref:wiki-ribas}}"
+        ]
+      },
+      {
+        "heading": "Desert Storm & the EF-111A Raven",
+        "paragraphs": [
+          "The Air Force sent 66 F-111Fs and 18 F-111Es to the 1991 Gulf War. The F-111Fs flew more than 2,400 sorties, dropped about 80 percent of the war's laser-guided bombs and were credited with more than 1,500 tanks and armoured vehicles. In 'tank plinking' sorties each carried four GBU-12s, and on the night of 9 February 40 F-111Fs destroyed more than 100 armoured vehicles. The F-111F was the only aircraft to drop the GBU-15 and GBU-28 in the war. {{ref:wiki-f111}} {{ref:gs-pgw}} {{ref:afm-tp}}",
+          "Forty-two F-111As were converted into EF-111A Raven jamming aircraft, the first flying on 10 March 1977. On 17 January 1991 Capt. James Denton and Capt. Brent Brandon manoeuvred their unarmed EF-111A so that an Iraqi Mirage F1 flew into the ground, the only air-to-air victory by any F-111. On 13 February EF-111A 66-0023 crashed while evading a threat, killing Capt. Douglas Bradt and Capt. Paul Eichenlaub. The Air Force retired the F-111F on 27 July 1996 and the EF-111A in 1998, handing the jamming role to the Navy's EA-6B. {{ref:wiki-ef111}} {{ref:pigz}} {{ref:gs-f111}} {{ref:fas-ef111}}"
+        ]
+      },
+      {
+        "heading": "Australian Service & Retirement",
+        "paragraphs": [
+          "Australia ordered 24 F-111Cs on 24 October 1963 for US$125 million, but delivery was delayed until 1973, when the aircraft reached RAAF Amberley for No. 1 and No. 6 Squadrons. The RAAF added four ex-USAF F-111As in 1982 and 15 F-111Gs in the 1990s, for 43 aircraft in all, and converted four F-111Cs into RF-111C reconnaissance aircraft. Australian F-111s flew reconnaissance over East Timor in 1999 and sank the ship Pong Su with two GBU-10 bombs on 23 March 2006. They also became known at air shows for their 'dump and burn' displays. Australian crews called the aircraft the 'Pig'. {{ref:wiki-f111c}} {{ref:aa-2010}}",
+          "By the end of RAAF service the F-111 needed 187 maintenance man-hours per flight hour. RAAF workers repairing its fuel tanks in deseal/reseal programmes between 1973 and 2000 suffered health problems, and about 400 had reported them by 1999; the government made ex gratia payments in 2005 and committed $55 million over four years in 2010. The final RAAF flight was on 3 December 2010, and A8-125, the first aircraft delivered, was the last to land. In November 2011, 23 retired airframes were buried at Swanbank, Queensland. Eight RAAF F-111s were lost in accidents, killing ten crew. {{ref:c1a}} {{ref:dva}} {{ref:aa-2010}} {{ref:wiki-f111c}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f111",
+      "name": "General Dynamics F-111 Aardvark",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-111_Aardvark"
+    },
+    {
+      "id": "nmusaf-f111a",
+      "name": "General Dynamics F-111A Aardvark",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196049/general-dynamics-f-111a-aardvark/"
+    },
+    {
+      "id": "afit",
+      "name": "F-111 Systems Engineering Case Study",
+      "publisher": "Air Force Institute of Technology",
+      "url": "https://scholar.afit.edu/cgi/viewcontent.cgi?article=1029&context=docs"
+    },
+    {
+      "id": "gs-pgw",
+      "name": "F-111 in the Persian Gulf War",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/f-111-pgw.htm"
+    },
+    {
+      "id": "nmusaf-f111f",
+      "name": "General Dynamics F-111F Aardvark",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195859/general-dynamics-f-111f-aardvark/"
+    },
+    {
+      "id": "tdia-lancer",
+      "name": "Combat Lancer",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/tag/combat-lancer/"
+    },
+    {
+      "id": "asn-660022",
+      "name": "General Dynamics F-111A 66-0022, 28 March 1968",
+      "publisher": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/wikibase/60452"
+    },
+    {
+      "id": "asn-670049",
+      "name": "General Dynamics F-111A 67-0049, 22 December 1969",
+      "publisher": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/wikibase/60449"
+    },
+    {
+      "id": "wiki-f111b",
+      "name": "General Dynamics F-111B",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-111B"
+    },
+    {
+      "id": "afm-edc",
+      "name": "El Dorado Canyon",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0399canyon/"
+    },
+    {
+      "id": "wiki-ribas",
+      "name": "Fernando L. Ribas-Dominicci",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fernando_L._Ribas-Dominicci"
+    },
+    {
+      "id": "afm-tp",
+      "name": "Tank Plinking",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/1093plinking/"
+    },
+    {
+      "id": "wiki-ef111",
+      "name": "General Dynamics-Grumman EF-111A Raven",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Dynamics%E2%80%93Grumman_EF-111A_Raven"
+    },
+    {
+      "id": "pigz",
+      "name": "F-111 Combat Losses",
+      "publisher": "f-111.net (via pigzbum.com)",
+      "url": "https://pigzbum.com/wp-content/uploads/2025/08/F-111-Combat-Losses.pdf"
+    },
+    {
+      "id": "gs-f111",
+      "name": "F-111",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/f-111.htm"
+    },
+    {
+      "id": "fas-ef111",
+      "name": "EF-111A Ravens make final return from Southwest Asia",
+      "publisher": "Federation of American Scientists",
+      "url": "https://man.fas.org/dod-101/sys/ac/docs/n19980410_980482.html"
+    },
+    {
+      "id": "wiki-f111c",
+      "name": "General Dynamics F-111C",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-111C"
+    },
+    {
+      "id": "aa-2010",
+      "name": "F-111 flies into history",
+      "publisher": "Australian Aviation",
+      "url": "https://australianaviation.com.au/2010/12/f-111-flies-into-history/"
+    },
+    {
+      "id": "c1a",
+      "name": "Australia's Big Stick",
+      "publisher": "Code One Magazine",
+      "url": "https://www.codeonemagazine.com/article.html?item_id=186"
+    },
+    {
+      "id": "dva",
+      "name": "History of the F-111",
+      "publisher": "Department of Veterans' Affairs (Australia)",
+      "url": "https://www.dva.gov.au/get-support/financial-support/compensation-claims/claims-f-111-workers/research-f-111-work/history-f-111"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "General Dynamics F-111K - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-111K"
+    },
+    {
+      "name": "List of General Dynamics F-111 aircraft operated by the Royal Australian Air Force - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_General_Dynamics_F-111_aircraft_operated_by_the_Royal_Australian_Air_Force"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1964-12-21",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "The first F-111A flew from Carswell AFB, Texas, for 22 minutes; the flight was cut short by a flap fault.",
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-111_Aardvark"
+    },
+    {
+      "date": "1968-03-28",
+      "title": "Combat Lancer loss in Thailand",
+      "tag": "Crash",
+      "summary": "F-111A 66-0022 crashed in the Phu Phan mountains three days after the type deployed to Takhli. Maj. Henry MacCann and Capt. Dennis Graham were killed; the wreck was found in 1989.",
+      "fatalities": 2,
+      "source": "https://aviation-safety.net/wikibase/60452"
+    },
+    {
+      "date": "1969-12-22",
+      "title": "Wing failure at Nellis grounds the fleet",
+      "tag": "Structural failure",
+      "summary": "F-111A 67-0049 lost a wing over the Nellis ranges, killing Maj. Thomas Mack and Maj. James Anthony. The fleet was grounded until 31 July 1970.",
+      "fatalities": 2,
+      "source": "https://aviation-safety.net/wikibase/60449"
+    },
+    {
+      "date": "1986-04-15",
+      "title": "Karma 52 lost over Libya",
+      "tag": "Combat loss",
+      "summary": "F-111F 70-2389 was lost during the El Dorado Canyon strike on Tripoli. Capt. Fernando Ribas-Dominicci and Capt. Paul Lorence were killed.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Fernando_L._Ribas-Dominicci"
+    },
+    {
+      "date": "1991-01-17",
+      "title": "EF-111A forces a Mirage F1 into the ground",
+      "tag": "Air-to-air victory",
+      "summary": "Capt. James Denton and Capt. Brent Brandon manoeuvred their unarmed EF-111A so that an Iraqi Mirage F1 flew into the ground, the only air-to-air victory by an F-111.",
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics%E2%80%93Grumman_EF-111A_Raven"
+    },
+    {
+      "date": "1991-02-09",
+      "title": "Tank plinking",
+      "tag": "Combat mission",
+      "summary": "40 F-111Fs carrying laser-guided GBU-12s destroyed more than 100 Iraqi armoured vehicles in one night.",
+      "source": "https://www.globalsecurity.org/military/systems/aircraft/f-111-pgw.htm"
+    },
+    {
+      "date": "1991-02-13",
+      "title": "EF-111A lost over Iraq",
+      "tag": "Combat loss",
+      "summary": "EF-111A 66-0023, Ratchet 75, crashed while manoeuvring away from a threat. Capt. Douglas Bradt and Capt. Paul Eichenlaub were killed.",
+      "fatalities": 2,
+      "source": "https://pigzbum.com/wp-content/uploads/2025/08/F-111-Combat-Losses.pdf"
+    },
+    {
+      "date": "1992-09-17",
+      "title": "F-111E crash near RAF Upper Heyford",
+      "tag": "Hydraulic failure",
+      "summary": "F-111E 68-0052 suffered a total hydraulic failure. Capt. Jerry Lindh and Maj. Michael McGuire stayed aboard to steer it away from nearby villages and were killed.",
+      "fatalities": 2,
+      "source": "https://www.usafe.af.mil/News/Article-Display/Article/253337/village-remembers-honors-bravery-of-airmen/"
+    },
+    {
+      "date": "1993-09-13",
+      "title": "RAAF F-111C crash near Guyra",
+      "tag": "Crash",
+      "summary": "F-111C A8-127 crashed near Guyra, New South Wales, killing Flt Lt McNess and Flt Lt Cairns-Cowan.",
+      "fatalities": 2,
+      "source": "https://aviation-safety.net/wikibase/46539"
+    },
+    {
+      "date": "1996-07-27",
+      "title": "USAF retires the F-111F",
+      "tag": "Retirement",
+      "summary": "The Air Force retired its last F-111Fs and officially adopted the name Aardvark at the ceremony.",
+      "source": "https://www.globalsecurity.org/military/systems/aircraft/f-111.htm"
+    },
+    {
+      "date": "1998-03-30",
+      "title": "Last EF-111A combat mission",
+      "tag": "Retirement",
+      "summary": "EF-111As flew their last combat mission over Southwest Asia and handed the jamming role to the EA-6B the next day. The 429th Electronic Combat Squadron was inactivated on 19 June 1998.",
+      "source": "https://man.fas.org/dod-101/sys/ac/docs/n19980410_980482.html"
+    },
+    {
+      "date": "2006-03-23",
+      "title": "RAAF F-111s sink the Pong Su",
+      "tag": "Live strike",
+      "summary": "RAAF F-111s sank the ship Pong Su with two GBU-10 laser-guided bombs.",
+      "source": "https://en.wikipedia.org/wiki/General_Dynamics_F-111C"
+    },
+    {
+      "date": "2010-12-03",
+      "title": "Final RAAF flight",
+      "tag": "Retirement",
+      "summary": "Six F-111s flew the RAAF's farewell formation at Amberley. A8-125, the first aircraft delivered to Australia, was the last to land, ending F-111 service worldwide.",
+      "source": "https://australianaviation.com.au/2010/12/f-111-flies-into-history/"
+    },
+    {
+      "date": "2011-11-21",
+      "title": "Retired RAAF airframes buried",
+      "tag": "Disposal",
+      "summary": "23 retired F-111C and F-111G airframes were buried at the Swanbank landfill in Queensland over four days.",
+      "source": "https://australianaviation.com.au/2011/11/f-111s-down-in-the-dump/"
+    }
+  ]
+}

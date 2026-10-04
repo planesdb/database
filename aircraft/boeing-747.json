@@ -154,17 +154,12 @@
   "changelog": [
     {
       "date": "2026-07-17",
-      "change": "New entry added: full gold-standard article, timeline, references and specs for the Boeing 747.",
+      "change": "New entry created.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
-      "author": "d4nny6"
-    },
-    {
-      "date": "2026-07-31",
-      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "change": "Updated the news links with current stories.",
       "author": "d4nny6"
     }
   ],

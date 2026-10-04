@@ -1,0 +1,325 @@
+{
+  "name": "YFQ-48A Talon Blue",
+  "fullName": "Northrop Grumman YFQ-48A Talon Blue",
+  "manufacturer": "Northrop Grumman / Scaled Composites",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "drones"
+  ],
+  "role": "Collaborative Combat Aircraft (Prototype)",
+  "tagline": "The Northrop Grumman YFQ-48A Talon Blue is an uncrewed, autonomous collaborative combat aircraft prototype, built by Scaled Composites as a company-funded rival to the Air Force's YFQ-42A and YFQ-44A. It made its first flight, entirely under autonomous control, at Mojave on 3 October 2026.",
+  "status": "In Development",
+  "inProduction": false,
+  "quickFacts": [
+    "The name Talon refers back to the Northrop T-38 Talon trainer.",
+    "Aviation Week first reported the project as Lotus in October 2025, and Northrop renamed it Talon when it unveiled the aircraft that December.",
+    "Its first flight on 3 October 2026 was fully autonomous, from taxi through take-off and manoeuvres to landing.",
+    "The all-composite airframe is about 1,000 lb lighter than Northrop's losing Increment 1 design and has half as many parts.",
+    "Northrop has published no speed, range, weight or price for the YFQ-48A, and the aircraft has no production contract."
+  ],
+  "specifications": {
+    "specificationsNote": "\"??\" means the figure has not been published. Northrop Grumman has released no dimensions, weights or performance figures for the YFQ-48A. Aviation Week reports that the aircraft reached 233 knots and just over 10,000 ft on its first flight; these were test points, not limits. Aviation Week names the engine as the PW545, while Pratt & Whitney says only that it is from the PW500 family. One aircraft, N444LX, is publicly known.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "??"
+    },
+    "cruiseSpeed": "??",
+    "range": {
+      "miles": null,
+      "text": "??"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "??"
+    },
+    "wingspan": {
+      "ft": null,
+      "text": "??"
+    },
+    "length": {
+      "ft": null,
+      "text": "??"
+    },
+    "height": {
+      "ft": null,
+      "text": "??"
+    },
+    "weight": "??",
+    "engines": "1 x Pratt & Whitney Canada PW500-series turbofan (reported as the PW545); thrust not published",
+    "armament": "Integrated internal weapons bay; no weapons have been announced",
+    "crew": "None onboard - autonomous",
+    "capacity": "Internal weapons bay; payload not published",
+    "firstFlight": {
+      "date": "2026-10-03",
+      "year": 2026
+    },
+    "serviceEntryDate": "Not yet in service",
+    "retiredDate": null,
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Northrop Grumman has funded the aircraft itself and has not published a price",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "YFQ-48A Talon Blue",
+      "desc": "The combat-aircraft prototype of Project Talon, reworked from Northrop's losing CCA Increment 1 design and built by Scaled Composites at Mojave. It has a lambda wing, canted twin tails, a dorsal intake and an internal weapons bay, and is powered by a single PW500-series turbofan. The one known aircraft, registered N444LX, first flew autonomously on 3 October 2026."
+    },
+    {
+      "code": "Talon IQ (Model 437)",
+      "desc": "The autonomy testbed half of Project Talon, formerly called Beacon. It is a Scaled Composites Model 437 Vanguard, a 41 ft-span jet with a 3,400 lbf PW535 engine that first flew on 29 August 2024, running Northrop's Prism autonomy software. On 2 April 2026 it flew combat air patrol manoeuvres using Shield AI's Hivemind and switched to Prism mid-flight."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Northrop Grumman",
+      "role": "Developer & Test Operator",
+      "status": "In Service",
+      "since": "2025",
+      "fleetSize": "1 prototype (N444LX)",
+      "homeBase": "Mojave Air & Space Port, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The YFQ-48A has no ICAO type code. The one known aircraft is civil-registered as N444LX and flies from the Mojave Air & Space Port in California, so searching that registration is the only way to look for it. Northrop has not said whether it broadcasts ADS-B during test flights."
+  },
+  "lastUpdated": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "New entry for Northrop's YFQ-48A Talon Blue, up to its first flight at Mojave on 3 October 2026.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Talon Blue",
+    "YFQ-48",
+    "YFQ48A",
+    "Project Talon",
+    "Project Lotus",
+    "Talon IQ",
+    "CCA",
+    "collaborative combat aircraft",
+    "loyal wingman",
+    "Scaled Composites",
+    "N444LX"
+  ],
+  "article": {
+    "overview": [
+      "The Northrop Grumman YFQ-48A Talon Blue is an American uncrewed collaborative combat aircraft (CCA) prototype, designed by Northrop Grumman and built by its subsidiary Scaled Composites at Mojave, California. It is meant to fly as an autonomous wingman alongside crewed fighters such as the F-35A and F-47, and Northrop has paid for its development itself. {{ref:asf-designation}} {{ref:dn-cca}} {{ref:ng-firstflight}}",
+      "Northrop unveiled the aircraft as Project Talon on 3 December 2025, the U.S. Air Force designated it YFQ-48A on 22 December, and the name Talon Blue followed in February 2026. It made its first flight, autonomous from taxi to landing, at the Mojave Air & Space Port on 3 October 2026. The designation came without a production contract, and Northrop has released no dimensions, performance figures or price. {{ref:asf-talon}} {{ref:asf-designation}} {{ref:ng-name}} {{ref:ng-firstflight}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the CCA Competition",
+        "paragraphs": [
+          "The Air Force's CCA programme buys uncrewed jets to fly in teams with crewed fighters, carrying out strike, reconnaissance, jamming and decoy missions. In April 2024 it chose General Atomics and Anduril to build Increment 1 aircraft, which became the YFQ-42A and YFQ-44A, and Northrop's own Increment 1 design lost. Northrop then reworked that design with company funds. Aviation Week first reported the effort as Project Lotus in October 2025, and Northrop renamed it Project Talon when it showed the aircraft to a small group of reporters at Scaled Composites on 3 December 2025. {{ref:dn-cca}} {{ref:asf-talon}} {{ref:wiki-yfq48}}",
+          "At the unveiling Northrop said Talon had not been designed specifically for Increment 2, the programme's next phase, and declined to say whether the reworked design would have won Increment 1. The Air Force designated the aircraft YFQ-48A on 22 December 2025, the third CCA to receive a designation after the YFQ-42A and YFQ-44A. Brig. Gen. Jason Voorheis linked the decision to keeping competition in the programme. {{ref:asf-talon}} {{ref:twz-emerges}} {{ref:asf-designation}} {{ref:dn-cca}}"
+        ]
+      },
+      {
+        "heading": "Name & Designation",
+        "paragraphs": [
+          "The name Talon refers back to the Northrop T-38 Talon trainer. Northrop has not explained the Blue: The War Zone suggested it points to Tacit Blue, the company's stealth technology demonstrator, and Northrop's Tom Jones said only that the name had a cool sound to it. Northrop announced the name on 23 February 2026 and at the same time renamed its Beacon autonomy testbed Talon IQ, although Aviation Week has reported that the aircraft was rebranded Talon Blue as early as November 2025. {{ref:twz-name}} {{ref:ng-name}} {{ref:avweek-ff}}",
+          "In the YFQ-48A designation, Y marks a prototype, F a fighter and Q an uncrewed aircraft. The number 48 is out of sequence in the Q-series, which had not reached it when the designation was issued. Designation-Systems.net, which tracks US military designations, recorded in February 2026 that no details of the aircraft's characteristics had been released. {{ref:asf-designation}} {{ref:dsys-q48}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Talon Blue has a lambda wing, canted twin tails, a trapezoidal intake on top of the fuselage and a chined nose, all shaped for low radar observability. The wide-track main landing gear retracts inward and comes from an existing aircraft that Northrop has not named. Northrop describes an integrated internal weapons bay. Northrop and Scaled Composites split the design and build work roughly evenly. {{ref:twz-emerges}} {{ref:aviationist-ff}} {{ref:ng-firstflight}}",
+          "Against Northrop's Increment 1 design, the all-composite airframe is about 1,000 lb lighter, has 50 percent fewer parts and is 30 percent quicker to build. The aircraft went from concept to standing on its own wheels in about 15 months, and from design to flight-ready in less than two years. It has a single Pratt & Whitney Canada PW500-series turbofan, from a family of business-jet engines with more than 24.5 million flight hours; Aviation Week identifies it as the PW545. Pratt & Whitney paid for its own testing to widen the engine's operating limits for CCA use. Neither company has published thrust, weight, range or speed. {{ref:asf-talon}} {{ref:dn-cca}} {{ref:rtx-engine}} {{ref:avweek-ff}}"
+        ]
+      },
+      {
+        "heading": "Project Talon & Talon IQ",
+        "paragraphs": [
+          "Talon Blue is the combat-aircraft half of Project Talon, Northrop's company-funded autonomy portfolio. The other half is Talon IQ, a testbed formerly called Beacon, built on the Scaled Composites Model 437 Vanguard and running Northrop's Prism autonomy software. Northrop offers Talon IQ to the government as a reference architecture for testing autonomy software from different suppliers. {{ref:ng-firstflight}} {{ref:twz-name}}",
+          "The Model 437, developed from Scaled's earlier Model 401, first flew at Mojave on 29 August 2024, 21 months after design work started. It spans 41 ft, has a 3,400 lbf PW535 engine and a gross weight of 10,000 lb, and Scaled proposed building production versions for $5-6 million each. On 2 April 2026 Talon IQ flew combat air patrol and target-engagement manoeuvres under Shield AI's Hivemind software, then handed control to Prism during the same flight. {{ref:wiki-437}} {{ref:avtoday-iq}}"
+        ]
+      },
+      {
+        "heading": "Testing & First Flight",
+        "paragraphs": [
+          "Pratt & Whitney announced on 17 April 2026 that the engine had been integrated into the aircraft. Ground testing at Mojave ran for at least a month, and on 18 May The Aviationist reported that autonomous taxi tests were complete. At the unveiling Northrop had planned to fly about nine months later; the first flight came about ten months later. {{ref:rtx-engine}} {{ref:aviationist-taxi}} {{ref:asf-talon}}",
+          "The first flight took place at the Mojave Air & Space Port on 3 October 2026. The aircraft taxied, took off, manoeuvred and landed under its own control. Registered N444LX, which The War Zone reports corresponds to Scaled's Model 444, it flew a racetrack pattern and reached 233 knots and just over 10,000 ft. {{ref:ng-firstflight}} {{ref:twz-flown}} {{ref:avweek-ff}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The YFQ-48A is a company-funded prototype with no production contract or confirmed customer. Northrop reported interest from U.S. services and foreign buyers when it unveiled the aircraft. The Navy gave Northrop one of four CCA conceptual design contracts on 5 September 2025, alongside General Atomics, Boeing and Anduril, with Lockheed Martin contracted for the common control system, but Northrop has not linked Talon Blue to that work and no naval version has been announced. {{ref:twz-emerges}} {{ref:usni-navy}}",
+          "Increment 1 aircraft were expected to cost around $30 million each, and in December 2025 Air Force Secretary Troy Meink suggested aiming for substantially less, perhaps half. The Air Force gave Increment 2 concept-refinement contracts to nine unnamed companies that month, so whether Northrop is among them is not public. In June 2026 the service said more than 20 companies were eligible for the Increment 2 design phase, with reported cost targets of $25-30 million for higher-end aircraft and $5-10 million for attritable ones. Its fiscal 2027 budget request included $1.1 billion for CCA production and about $1.4 billion for research and development. {{ref:asf-talon}} {{ref:avtoday-inc2}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "asf-designation",
+      "name": "Air Force Designates Northrop's New CCA the YFQ-48A",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/air-force-designates-northrop-new-cca-yfq-48a/"
+    },
+    {
+      "id": "dn-cca",
+      "name": "US Air Force eyes autonomous Northrop Grumman drone for CCA program",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/air/2026/01/02/us-air-force-eyes-autonomous-northrop-grumman-drone-for-cca-program/"
+    },
+    {
+      "id": "ng-firstflight",
+      "name": "Northrop Grumman Advances Autonomous Airpower with First Talon Blue Flight",
+      "publisher": "Northrop Grumman",
+      "url": "https://news.northropgrumman.com/autonomous-systems/northrop-grumman-advances-autonomous-airpower-with-first-talon-blue-flight"
+    },
+    {
+      "id": "asf-talon",
+      "name": "Northrop Grumman unveils Project Talon CCA",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/northrop-grumman-project-talon-cca/"
+    },
+    {
+      "id": "ng-name",
+      "name": "What You Need to Know About Northrop Grumman's YFQ-48A Talon Blue",
+      "publisher": "Northrop Grumman",
+      "url": "https://news.northropgrumman.com/autonomous-systems/what-you-need-to-know-about-northrop-grummans-yfq-48a-talon-blue-autonomous-wingman-for-the-us-air-force"
+    },
+    {
+      "id": "wiki-yfq48",
+      "name": "Northrop Grumman YFQ-48 Talon Blue",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_Grumman_YFQ-48_Talon_Blue"
+    },
+    {
+      "id": "twz-emerges",
+      "name": "Talon Emerges From The Shadows",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/news-features/talon-emerges-from-the-shadows"
+    },
+    {
+      "id": "dsys-q48",
+      "name": "Q-48",
+      "publisher": "Designation-Systems.net",
+      "url": "https://www.designation-systems.net/dusrm/app2/q-48.html"
+    },
+    {
+      "id": "aviationist-ff",
+      "name": "Northrop Grumman's YFQ-48 Flies for the First Time",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/10/03/northrop-grummans-yfq-48-flies-for-the-first-time/"
+    },
+    {
+      "id": "rtx-engine",
+      "name": "RTX's Pratt & Whitney engine powers Northrop Grumman's YFQ-48A Talon Blue",
+      "publisher": "RTX",
+      "url": "https://www.rtx.com/news/news-center/2026/04/17/rtxs-pratt-whitney-engine-powers-northrop-grummans-yfq-48a-talon-blue-autonom"
+    },
+    {
+      "id": "avweek-ff",
+      "name": "Northrop Completes First Flight Of Self-Funded CCA Demonstrator",
+      "publisher": "Aviation Week",
+      "url": "https://aviationweek.com/defense/northrop-completes-first-flight-self-funded-cca-demonstrator"
+    },
+    {
+      "id": "twz-name",
+      "name": "Talon Blue Is The New Name For Northrop Grumman's YFQ-48A Fighter Drone",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/news-features/talon-blue-is-the-new-name-for-northrop-grummans-yfq-48a-fighter-drone"
+    },
+    {
+      "id": "wiki-437",
+      "name": "Scaled Composites 437",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scaled_Composites_437"
+    },
+    {
+      "id": "avtoday-iq",
+      "name": "With an Eye to CCA Increment 2, Talon IQ Conducts Test Flight",
+      "publisher": "Avionics International",
+      "url": "https://www.aviationtoday.com/2026/04/02/with-an-eye-to-cca-increment-2-talon-iq-conducts-test-flight/"
+    },
+    {
+      "id": "aviationist-taxi",
+      "name": "YFQ-48A Talon Blue Completes Autonomous Taxi Tests",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2026/05/18/yfq-48a-talon-blue-completes-autonomous-taxi-tests/"
+    },
+    {
+      "id": "twz-flown",
+      "name": "Northrop Grumman's Talon Blue Collaborative Combat Aircraft Has Flown",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/northrop-grummans-talon-blue-collaborative-combat-aircraft-has-flown"
+    },
+    {
+      "id": "usni-navy",
+      "name": "Navy Contracts 5 Companies to Develop Armed Unmanned Carrier Aircraft",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/2025/09/05/navy-contracts-5-companies-to-develop-armed-unmanned-carrier-aircraft"
+    },
+    {
+      "id": "avtoday-inc2",
+      "name": "More Than 20 Companies in the Running for CCA Increment 2, Air Force Says",
+      "publisher": "Avionics International",
+      "url": "https://www.aviationtoday.com/2026/06/18/more-than-20-companies-in-the-running-for-cca-increment-2-air-force-says/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2025-12-03",
+      "title": "Project Talon unveiled",
+      "tag": "Unveiling",
+      "summary": "Northrop Grumman showed the aircraft to a small group of reporters at Scaled Composites in Mojave and said it planned to fly it about nine months later.",
+      "source": "https://www.airandspaceforces.com/northrop-grumman-project-talon-cca/"
+    },
+    {
+      "date": "2025-12-22",
+      "title": "Designated YFQ-48A",
+      "tag": "Designation",
+      "summary": "The Air Force gave the aircraft the designation YFQ-48A, the third collaborative combat aircraft to be designated, without a production contract.",
+      "source": "https://www.airandspaceforces.com/air-force-designates-northrop-new-cca-yfq-48a/"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "Named Talon Blue",
+      "tag": "Naming",
+      "summary": "Northrop announced the name Talon Blue for the YFQ-48A and renamed its Beacon autonomy testbed Talon IQ.",
+      "source": "https://news.northropgrumman.com/autonomous-systems/what-you-need-to-know-about-northrop-grummans-yfq-48a-talon-blue-autonomous-wingman-for-the-us-air-force"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Talon IQ switches autonomy software in flight",
+      "tag": "Test milestone",
+      "summary": "The Model 437-based testbed flew combat air patrol and target-engagement manoeuvres under Shield AI's Hivemind, then switched to Northrop's Prism software mid-flight.",
+      "source": "https://www.aviationtoday.com/2026/04/02/with-an-eye-to-cca-increment-2-talon-iq-conducts-test-flight/"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Engine integration announced",
+      "tag": "Test milestone",
+      "summary": "Pratt & Whitney announced that its PW500-family turbofan had been integrated into the YFQ-48A.",
+      "source": "https://www.rtx.com/news/news-center/2026/04/17/rtxs-pratt-whitney-engine-powers-northrop-grummans-yfq-48a-talon-blue-autonom"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "Autonomous taxi tests completed",
+      "tag": "Test milestone",
+      "summary": "The aircraft completed autonomous taxi tests after at least a month of ground testing.",
+      "source": "https://theaviationist.com/2026/05/18/yfq-48a-talon-blue-completes-autonomous-taxi-tests/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "N444LX made a fully autonomous first flight from the Mojave Air & Space Port, flying a racetrack pattern and reaching 233 knots and just over 10,000 ft.",
+      "source": "https://news.northropgrumman.com/autonomous-systems/northrop-grumman-advances-autonomous-airpower-with-first-talon-blue-flight"
+    }
+  ]
+}

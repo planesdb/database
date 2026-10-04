@@ -331,22 +331,22 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and current SR-72 successor status.",
+      "change": "Expanded the article with full sources and a timeline, and updated it with the latest SR-72 successor status.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Tightened up the overview - a clearer opening and less padding in the sections. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Added a survivors section - this type has well-documented preserved/airworthy examples but the field was previously missing, an inconsistency versus similar WWII/Cold War-era entries elsewhere in the database.",
+      "change": "Added a list of surviving aircraft.",
       "author": "d4nny6"
     },
     {
       "date": "2026-09-09",
-      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "change": "Added sources to a few statements that didn't have one.",
       "author": "planesdb"
     }
   ],

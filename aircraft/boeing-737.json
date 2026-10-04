@@ -78,8 +78,8 @@
   },
   "lastUpdated": "2026-09-09",
   "changelog": [
-    { "date": "2026-09-05", "change": "Entry created - full article, specifications, variants and incident log written from Boeing, NTSB, FAA and named aviation-press sources.", "author": "planesdb" },
-    { "date": "2026-09-09", "change": "Replaced the placeholder fleetSize of \"0\" on the retired Lufthansa row with the real total of 155 aircraft across all variants.", "author": "planesdb" }
+    { "date": "2026-09-05", "change": "New entry for the Boeing 737 - history, specs, variants and accident record. Sources: Boeing, NTSB, FAA and named aviation-press sources.", "author": "planesdb" },
+    { "date": "2026-09-09", "change": "Corrected Lufthansa's fleet to its real total of 155 aircraft across all variants (was showing 0).", "author": "planesdb" }
   ],
   "tags": ["737", "boeing 737", "737 max", "737-800", "max 8", "narrow body", "single aisle", "commercial airliner", "mcas", "next generation", "civilian"],
   "article": {

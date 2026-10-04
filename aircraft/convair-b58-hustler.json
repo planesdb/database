@@ -1,0 +1,470 @@
+{
+  "name": "B-58 Hustler",
+  "fullName": "Convair B-58 Hustler",
+  "manufacturer": "Convair",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Supersonic Strategic Bomber",
+  "tagline": "The Convair B-58 Hustler was the U.S. Air Force's first operational supersonic bomber, a Mach 2 delta-wing aircraft that carried its nuclear weapon and extra fuel in a pod under the fuselage. It set 19 world speed and altitude records, but high running costs and a poor accident record ended its service in 1970, ten years after it entered it.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The pilot of the 12 January 1961 closed-circuit record flight, Maj. Henry Deutschendorf Sr., was the father of the singer John Denver.",
+    "The Operation Heat Rise flight from Los Angeles to New York and back on 5 March 1962 led to more than 10,000 claims for windows broken by its sonic booms.",
+    "The B-58's escape capsules were tested with live bears and chimpanzees, and on 21 March 1962 a bear named Yogi was ejected at 35,000 ft and Mach 1.3 and landed unhurt.",
+    "Crews called its recorded voice warning system, voiced by Joan Elms, 'Sexy Sally'.",
+    "The B-58 cost $1,440 per flying hour to maintain, against $1,025 for the B-52, and 26 of the 116 built were lost in accidents."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the B-58A. Speed, range, ceiling and dimensions are from the National Museum of the U.S. Air Force; empty and maximum takeoff weights, cruise speed and engine thrust are from Wikipedia. Published figures vary: Wikipedia gives 1,319 mph, a 4,700-mile range, a 63,400 ft ceiling and a 29 ft 11 in height, and the Pima Air & Space Museum and SAC Museum give 1,385 mph and J79s of 15,600 lb thrust. The unit cost is Wikipedia's figure from Knaack's Post-World War II Bombers, which gives no year; it has been CPI-adjusted from 1961, the middle of the delivery run.",
+    "maxSpeed": {
+      "mph": 1325,
+      "text": "1,151 kn (1,325 mph / 2,132 km/h)"
+    },
+    "cruiseSpeed": "610 mph (980 km/h)",
+    "range": {
+      "miles": 4400,
+      "text": "4,400 mi (7,080 km)"
+    },
+    "serviceCeiling": {
+      "ft": 64800,
+      "text": "64,800 ft (19,750 m)"
+    },
+    "wingspan": {
+      "ft": 56.8,
+      "text": "56 ft 10 in (17.3 m)"
+    },
+    "length": {
+      "ft": 96.8,
+      "text": "96 ft 10 in (29.5 m)"
+    },
+    "height": {
+      "ft": 31.4,
+      "text": "31 ft 5 in (9.6 m)"
+    },
+    "weight": "empty: 55,560 lb (25,202 kg); MTOW: 176,890 lb (80,236 kg)",
+    "engines": "Four General Electric J79-GE-5A afterburning turbojets, 10,400 lbf (46 kN) dry and 15,000 lbf (67 kN) with afterburner each",
+    "armament": "One 20 mm T171 (M61) rotary cannon with 1,200 rounds in a radar-aimed tail barbette; one Mark 39 or B53 nuclear weapon in the under-fuselage pod, later joined by four B43 or B61 weapons on wing-root pylons, up to 19,450 lb (8,820 kg) in total",
+    "crew": "3 (pilot, radar navigator/bombardier, defensive systems operator) in separate tandem cockpits",
+    "capacity": "One under-fuselage pod (MB-1C, later the two-component TCP or the LA-331 reconnaissance pod) plus four wing-root hardpoints; up to five nuclear weapons",
+    "firstFlight": {
+      "date": "1956-11-11",
+      "year": 1956
+    },
+    "serviceEntryDate": "1960-03-15",
+    "retiredDate": "1970-01-16",
+    "numberBuilt": 116,
+    "unitCost": {
+      "usd": 139400000,
+      "text": "$139M in 2026 dollars (CPI-adjusted)",
+      "inflationText": "Originally $12.44M (early 1960s)"
+    },
+    "combatLosses": "None. The B-58 flew one combat sortie, a reconnaissance flight over Cuba on 30 October 1962. 26 of the 116 built were lost in accidents."
+  },
+  "variants": [
+    {
+      "code": "XB-58 / YB-58A",
+      "desc": "The two XB-58 prototypes and 11 YB-58A pre-production aircraft made up most of the 30-aircraft test fleet. The first prototype, 55-660, flew on 11 November 1956 and went supersonic on 30 December. Most YB-58As were later brought up to B-58A standard or rebuilt as trainers, and one became the NB-58A, a test bed for the General Electric J93 engine of the XB-70 Valkyrie."
+    },
+    {
+      "code": "B-58A",
+      "desc": "The production bomber, of which 86 were built for SAC's 43rd and 305th Bomb Wings. It had four J79-GE-5 engines, the Sperry AN/ASQ-42 navigation and bombing system with a star tracker and Doppler radar, and a radar-aimed 20 mm tail gun. Later modifications added four wing-root pylons for B43 or B61 bombs and Stanley escape capsules in place of the ejection seats."
+    },
+    {
+      "code": "TB-58A",
+      "desc": "Eight YB-58As converted into trainers, with a second pilot station in the navigator's position. Four went to each of the two bomb wings. New B-58 pilots first converted on the two-seat TF-102A Delta Dagger and then moved to the TB-58A. Two survive: 55-0663 at the Grissom Air Museum in Indiana and 55-0668, the only B-58 to fly a combat sortie, at Little Rock AFB."
+    },
+    {
+      "code": "RB-58A",
+      "desc": "Seventeen aircraft built as RB-58As to carry a ventral reconnaissance pod in place of the weapons pod. Several were used in the test programme and lost in accidents between 1959 and 1965, including 58-1012 in a fuel fire at Carswell AFB in May 1959. The bomber fleet later also carried the LA-331 photo-reconnaissance pod."
+    },
+    {
+      "code": "B-58B / B-58C (not built)",
+      "desc": "The B-58B was a larger development with J79-GE-9 engines, a longer fuselage for more fuel, canards and conventional weapons. A prototype, 60-1109, was ordered and a buy of 185 planned before budget cuts cancelled it. The B-58C was proposed as a cheaper alternative to the XB-70, with J58 engines of 32,500 lbf for speeds close to Mach 3, and was cancelled early in 1961."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force (43rd Bomb Wing)",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1960",
+      "fleetSize": "36 at first, later 45 including 4 TB-58A trainers",
+      "homeBase": "Carswell AFB, Texas (1960-1964); Little Rock AFB, Arkansas (1964-1970)"
+    },
+    {
+      "name": "United States Air Force (305th Bomb Wing)",
+      "role": "Second Bomb Wing & Crew Training",
+      "status": "Retired",
+      "since": "1961",
+      "fleetSize": "Not published separately; SAC's two B-58 wings held 78 aircraft between them",
+      "homeBase": "Bunker Hill AFB (renamed Grissom AFB in 1968), Indiana (1961-1970)"
+    },
+    {
+      "name": "United States Air Force (Air Force Flight Test Center)",
+      "role": "Test & Evaluation",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "Part of the 30-aircraft test and pre-production fleet",
+      "homeBase": "Edwards AFB, California (1956-1958); Convair, Fort Worth, Texas"
+    }
+  ],
+  "survivors": {
+    "intro": "Eight B-58s survive, all in the United States. They include the Operation Heat Rise and Greased Lightning record aircraft and the only B-58 to fly a combat sortie.",
+    "airframes": [
+      {
+        "serial": "59-2458",
+        "name": "Cowtown Hustler",
+        "location": "National Museum of the United States Air Force - Cold War Gallery",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196439/convair-b-58a-hustler/",
+        "note": "Flew Los Angeles to New York and back in 4 hours 41 minutes on 5 March 1962 (Operation Heat Rise), winning the Bendix and Mackay Trophies.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "61-2059",
+        "name": "Greased Lightning",
+        "location": "Strategic Air Command & Aerospace Museum",
+        "place": "Ashland, Nebraska, United States",
+        "url": "https://www.sacmuseum.org/visit/exhibit/b-58a-hustler/",
+        "note": "Flew non-stop from Tokyo to London in 8 hours 35 minutes on 16 October 1963 with five aerial refuellings.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "61-2080",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "url": "https://pimaair.org/museum-aircraft/convair-b-58a/",
+        "note": "The last B-58 delivered, displayed in 1969 markings of the 305th Bomb Wing at Grissom AFB.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "55-0668",
+        "name": "Wild Child II / Peeping Tom",
+        "location": "Heritage Park, Little Rock AFB",
+        "place": "Jacksonville, Arkansas, United States",
+        "url": "https://www.littlerock.af.mil/News/Article-Display/Article/764450/history-fast-fact-jan-16/",
+        "note": "TB-58A. Flew a reconnaissance sortie over Cuba on 30 October 1962, the only B-58 combat mission. Damaged by Hurricane Ike at Galveston in 2008, moved to Little Rock in 2012 and dedicated there on 3 May 2013.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "55-0663",
+        "location": "Grissom Air Museum",
+        "place": "Grissom ARB, Peru, Indiana, United States",
+        "url": "https://vintageaviationnews.com/aviation-museum-news/b-58-hustler-hut-project-at-the-grissom-air-museum.html",
+        "note": "TB-58A built as YB-58A, the oldest surviving B-58. Made the first supersonic pod drop on 20 September 1957. Moved indoors on 2 February 2026 into the new Capt. Manuel Cervantes Building, due to open in autumn 2027.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "59-2437",
+        "name": "Firefly II / Rigley's Baby",
+        "location": "Port San Antonio (former Kelly AFB)",
+        "place": "San Antonio, Texas, United States",
+        "url": "https://www.portsanantonio.us/B-58",
+        "note": "Grounded after a main gear strut failure on landing at Little Rock on 16 July 1968. On display at Kelly since 1991; flipped by a tornado on 15 April 1994 and repaired.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "55-0666",
+        "location": "Castle Air Museum",
+        "place": "Atwater, California, United States",
+        "url": "https://vintageaviationnews.com/warbird-articles/hustlin-hustlers-the-surviving-examples-of-the-convair-b-58-hustler.html",
+        "note": "YB-58A that set an 11 hour 15 minute endurance record on 16 August 1962. Displayed at Chanute AFB, Illinois, from 1967 to 2015, painted as 61-2059, and under restoration at Castle since 2016.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "55-0665",
+        "name": "Snoopy",
+        "location": "Edwards AFB photo range",
+        "place": "Edwards AFB, California, United States",
+        "url": "https://vintageaviationnews.com/warbird-articles/hustlin-hustlers-the-surviving-examples-of-the-convair-b-58-hustler.html",
+        "note": "YB-58A used from 1960 to 1963 to test the Hughes AN/ASG-18 radar and AIM-47 missile for the XF-108 and YF-12. Survives as a derelict hulk, not on public display.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No B-58 has flown since January 1970, so the type will not appear on Flightradar24. The best places to see one are the National Museum of the U.S. Air Force in Dayton, the SAC museum near Omaha and the Pima Air & Space Museum in Tucson."
+  },
+  "lastUpdated": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Added the B-58 Hustler, with its record flights, all eight surviving airframes and the accident history.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Hustler",
+    "B58",
+    "B-58A",
+    "TB-58A",
+    "Cowtown Hustler",
+    "Greased Lightning",
+    "Operation Heat Rise",
+    "supersonic bomber",
+    "delta wing",
+    "Strategic Air Command"
+  ],
+  "article": {
+    "overview": [
+      "The Convair B-58 Hustler is a retired American supersonic strategic bomber, built by Convair at Fort Worth, Texas, for the U.S. Air Force's Strategic Air Command. It was the Air Force's first operational supersonic bomber: a three-seat delta-wing aircraft with four General Electric J79 engines, capable of Mach 2, that carried its nuclear weapon and much of its fuel in a pod under the fuselage. {{ref:nmusaf-b58}} {{ref:wiki-b58}}",
+      "The first aircraft flew on 11 November 1956, and 116 were built, including 30 test and pre-production aircraft. Two SAC bomb wings flew the type from 1960 until January 1970, and in that time it set 19 world speed and altitude records and won five major aviation trophies. It was also expensive to run and lost 26 aircraft in accidents, and in December 1965 Defense Secretary Robert McNamara ordered the fleet retired. {{ref:nmusaf-b58}} {{ref:gs-b58}} {{ref:afmag-2009}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Selection",
+        "paragraphs": [
+          "The B-58 started with the Air Research and Development Command's Generalized Bomber Study (GEBO II) of February 1949, which examined supersonic bomber designs. Convair answered in January 1951 with proposal FZP-110, a two-seat delta powered by three General Electric J53 engines. A revised design in December 1951 dropped the tail-mounted engine, gave the remaining engines more thrust and added a third crew member. {{ref:wiki-b58}}",
+          "The Air Force rated Convair's design the best in August 1952. In December it was chosen to meet the SAB-51 and SAR-51 requirements and designated B-58, and the contract followed in February 1953. The first prototype, 55-660, flew on 11 November 1956 and went supersonic on 30 December. The first 30 aircraft were kept for a flight-test programme that lasted until April 1959. Air Force acceptances peaked at 30 in fiscal 1961 and 33 in fiscal 1962, and the last three aircraft were delivered on 26 October 1962. {{ref:wiki-b58}} {{ref:gs-b58}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The B-58 has a 60-degree delta wing only about 3.5 percent as thick as it is deep at the root. It was one of the first aircraft built largely from bonded honeycomb sandwich panels, and its structure came to just 13.8 percent of its gross weight. The four J79 turbojets hung in separate nacelles under the wing, with moving conical spikes in the intakes. The three crew sat in tandem cockpits: the pilot, the radar navigator-bombardier and the defensive systems operator, who controlled the radar-aimed 20 mm T171 rotary cannon in the tail. Navigation and bombing used the Sperry AN/ASQ-42 system, which combined a KS-39 star tracker with AN/APN-113 Doppler radar and was about ten times more accurate than any earlier bombing system. Recorded voice warnings of system failures were spoken by Joan Elms. {{ref:wiki-b58}}",
+          "There was no internal bomb bay. The original MB-1C pod held one nuclear weapon plus fuel, and after fuel leaks it was replaced by the two-component pod (TCP), whose lower fuel tank could be dropped separately from the upper weapon section. Four wing-root pylons for B43 or B61 bombs were added later, for a maximum of five nuclear weapons. From late 1962 the ejection seats, which the Air Force considered extremely dangerous at B-58 speeds, were replaced by Stanley Aircraft escape capsules usable at up to 70,000 ft and Mach 2. The pilot's capsule contained the flight controls, and each capsule could float as a life raft. Bears and chimpanzees were ejected in test capsules before the system was qualified in 1963. {{ref:wiki-b58}} {{ref:nmusaf-capsule}}"
+        ]
+      },
+      {
+        "heading": "Service with Strategic Air Command",
+        "paragraphs": [
+          "The 43rd Bomb Wing at Carswell AFB, Texas, received the first fully operational B-58 on 15 March 1960, and the type was declared operational on 1 August. The wing ran the B-58 combat crew school until July 1961 and moved to Little Rock AFB, Arkansas, in September 1964. The 305th Bomb Wing at Bunker Hill AFB, Indiana, received its first aircraft on 11 May 1961 and took over crew training from 1965. SAC was limited to these two wings, and both were operationally ready by August 1962. New pilots converted on the TF-102A Delta Dagger before moving to the TB-58A trainer, four of which went to each wing. {{ref:wiki-43rd}} {{ref:wiki-305th}} {{ref:gs-b58}} {{ref:wiki-b58}}",
+          "In September 1960 a single B-58 won both the high-level and low-level radar bombing categories at SAC's bombing competition at Bergstrom AFB. The 43rd Bomb Wing stood alert through the Cuban Missile Crisis, and on 30 October 1962 aircraft 55-0668 flew a reconnaissance sortie over Cuba, the only combat mission ever flown by a B-58. Surface-to-air missiles such as the SA-2 then pushed SAC towards low-level penetration, a role the B-58 had not been built for: it could not fly supersonic at low altitude, and its range fell further. In September 1961 a Carswell aircraft with an onboard fire and a failed left main gear stayed airborne through the night, refuelling eight times, before landing safely at Edwards AFB. {{ref:wiki-b58}} {{ref:wiki-43rd}}"
+        ]
+      },
+      {
+        "heading": "Records & Trophies",
+        "paragraphs": [
+          "On 12 January 1961 Maj. Henry Deutschendorf, Capt. William Polhemus and Capt. Raymond Wagener flew 59-2442 around a 2,000 km closed circuit at 1,061.8 mph, setting three FAI records. Two days later 59-2441 averaged 1,284.7 mph over a 1,000 km circuit for three more records and the Thompson Trophy. On 10 May 1961 59-2451, 'The Firefly', averaged 1,302 mph for 30 minutes 43 seconds, the first flight to hold more than 2,000 km/h for half an hour, and won the Blériot Trophy. On 26 May the same aircraft flew New York to Paris in 3 hours 14 minutes 45 seconds, winning the Harmon and Mackay Trophies. {{ref:tdia-2000km}} {{ref:tdia-b58}} {{ref:tdia-paris}}",
+          "On 5 March 1962, in Operation Heat Rise, 59-2458 'Cowtown Hustler' flew from Los Angeles to New York and back in 4 hours 41 minutes 15 seconds, an average of 1,045 mph, with skin temperatures reaching about 125 degrees C against a 115-degree limit. The flight won the Bendix and Mackay Trophies, and its sonic booms led to more than 10,000 claims for broken windows. On 14 September 1962 Maj. Fitzhugh Fulton took 59-2456 to 85,360 ft with a 5,000 kg payload. On 16 October 1963, in Operation Greased Lightning, 61-2059 flew non-stop from Tokyo to London in 8 hours 35 minutes with five aerial refuellings. {{ref:tdia-b58}} {{ref:nmusaf-heatrise}} {{ref:tdia-altitude}} {{ref:tdia-greased}}"
+        ]
+      },
+      {
+        "heading": "Cost, Losses & Retirement",
+        "paragraphs": [
+          "The B-58 was expensive to buy and to fly. Each aircraft cost about $12.44 million, the programme had cost around $3 billion by fiscal 1961, and maintenance came to $1,440 per flying hour against $1,025 for the B-52 and $361 for the B-47. Two B-58 wings with 78 aircraft cost as much as six B-52 wings with 90. Gen. Curtis LeMay thought it too small, too costly to keep combat-ready and too dependent on tankers, and it carried a smaller weapons load over a shorter range than the B-52. {{ref:wiki-b58}} {{ref:gs-b58}}",
+          "It was also demanding to fly. Above 17 degrees angle of attack it could pitch up and spin, fuel moving in the tanks could shift the centre of gravity suddenly, and landing speeds were high, with a drag chute needed on every landing. Take-off rotation came at about 203 knots at a weight of 150,000 lb. Of the 116 built, 26 were lost in accidents, more than half of them during flight testing, including 59-2451 at the 1961 Paris Air Show and 59-2443 at the 1965 show. McNamara set a phase-out date of June 1970, and the last four aircraft flew to storage at Davis-Monthan AFB on 16 January 1970. The FB-111A took over the role, and nearly all the stored B-58s were sold to Southwestern Alloys for scrap in 1977. {{ref:wiki-b58}} {{ref:afmag-2009}} {{ref:gs-b58}} {{ref:lrafb-retire}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nmusaf-b58",
+      "name": "Convair B-58A Hustler",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196439/convair-b-58a-hustler/"
+    },
+    {
+      "id": "wiki-b58",
+      "name": "Convair B-58 Hustler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Convair_B-58_Hustler"
+    },
+    {
+      "id": "gs-b58",
+      "name": "B-58 Hustler",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/systems/b-58-fc.htm"
+    },
+    {
+      "id": "afmag-2009",
+      "name": "Airpower Classics: B-58 Hustler (May 2009)",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/PDF/MagazineArchive/Magazine%20Documents/2009/May%202009/0509classics.pdf"
+    },
+    {
+      "id": "nmusaf-capsule",
+      "name": "B-58 Escape Capsule",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195843/b-58-escape-capsule/"
+    },
+    {
+      "id": "wiki-43rd",
+      "name": "43rd Airlift Wing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/43rd_Airlift_Wing"
+    },
+    {
+      "id": "wiki-305th",
+      "name": "305th Air Mobility Wing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/305th_Air_Mobility_Wing"
+    },
+    {
+      "id": "tdia-2000km",
+      "name": "World Record for Speed Over a Closed Circuit of 2,000 Kilometers",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/tag/world-record-for-speed-over-a-closed-circuit-of-2000-kilometers/"
+    },
+    {
+      "id": "tdia-b58",
+      "name": "Convair B-58A Hustler",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/tag/convair-b-58a-hustler/"
+    },
+    {
+      "id": "tdia-paris",
+      "name": "26 May 1961",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/26-may-1961/"
+    },
+    {
+      "id": "nmusaf-heatrise",
+      "name": "Operation Heat Rise",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858889/operation-heat-rise/"
+    },
+    {
+      "id": "tdia-altitude",
+      "name": "14 September 1962",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/14-september-1962/"
+    },
+    {
+      "id": "tdia-greased",
+      "name": "16 October 1963",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/16-october-1963/"
+    },
+    {
+      "id": "lrafb-retire",
+      "name": "History Fast Fact: Jan. 16",
+      "publisher": "Little Rock Air Force Base",
+      "url": "https://www.littlerock.af.mil/News/Article-Display/Article/764450/history-fast-fact-jan-16/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Convair B-58A Hustler - Pima Air & Space Museum",
+      "url": "https://pimaair.org/museum-aircraft/convair-b-58a/"
+    },
+    {
+      "name": "Hustlin' Hustlers: The Surviving Examples of the Convair B-58 Hustler - Vintage Aviation News",
+      "url": "https://vintageaviationnews.com/warbird-articles/hustlin-hustlers-the-surviving-examples-of-the-convair-b-58-hustler.html"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1956-11-11",
+      "title": "XB-58 first flight",
+      "tag": "First flight",
+      "summary": "The first prototype, 55-660, flew from Convair's Fort Worth plant. It went supersonic seven weeks later, on 30 December.",
+      "source": "https://en.wikipedia.org/wiki/Convair_B-58_Hustler"
+    },
+    {
+      "date": "1959-11-07",
+      "title": "55-0664 breaks up on test flight",
+      "tag": "In-flight breakup",
+      "summary": "A test aircraft broke up at high altitude near Lawton, Oklahoma. Both crew aboard were killed.",
+      "fatalities": 2,
+      "source": "https://asn.flightsafety.org/wikibase/154891"
+    },
+    {
+      "date": "1961-01-12",
+      "title": "2,000 km closed-circuit speed records",
+      "tag": "Record",
+      "summary": "59-2442, flown by Maj. Henry Deutschendorf's crew, averaged 1,061.8 mph over two laps of a 1,000 km course between Edwards AFB and Yuma, setting three FAI records.",
+      "source": "https://www.thisdayinaviation.com/tag/world-record-for-speed-over-a-closed-circuit-of-2000-kilometers/"
+    },
+    {
+      "date": "1961-05-26",
+      "title": "New York to Paris in 3 hours 15 minutes",
+      "tag": "Record",
+      "summary": "59-2451 'The Firefly' flew New York to Paris at an average of 1,089 mph, winning the Harmon and Mackay Trophies, and was flown on to the Paris Air Show.",
+      "source": "https://www.thisdayinaviation.com/26-may-1961/"
+    },
+    {
+      "date": "1961-06-03",
+      "title": "'The Firefly' crashes at the Paris Air Show",
+      "tag": "Display crash",
+      "summary": "Eight days after its transatlantic record, 59-2451 crashed near Le Bourget during low-level aerobatics. Maj. Elmer Murphy, Maj. Eugene Moses and 1st Lt. David Dickerson were killed.",
+      "fatalities": 3,
+      "source": "https://asn.flightsafety.org/wikibase/59733"
+    },
+    {
+      "date": "1962-03-05",
+      "title": "Operation Heat Rise",
+      "tag": "Record",
+      "summary": "59-2458 'Cowtown Hustler' flew Los Angeles to New York and back in 4 hours 41 minutes 15 seconds, winning the Bendix and Mackay Trophies.",
+      "source": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858889/operation-heat-rise/"
+    },
+    {
+      "date": "1962-03-05",
+      "title": "59-2459 crashes on take-off at Carswell",
+      "tag": "Flight-control failure",
+      "summary": "On the day of Heat Rise, a B-58A suffered a flight-control failure on take-off from Carswell AFB, Texas. All three crew were killed.",
+      "fatalities": 3,
+      "source": "https://asn.flightsafety.org/wikibase/154904"
+    },
+    {
+      "date": "1962-09-14",
+      "title": "Altitude record with 5,000 kg payload",
+      "tag": "Record",
+      "summary": "Maj. Fitzhugh Fulton flew 59-2456 to 85,360 ft from Edwards AFB, setting FAI altitude records with 2,000 kg and 5,000 kg payloads.",
+      "source": "https://www.thisdayinaviation.com/14-september-1962/"
+    },
+    {
+      "date": "1962-10-30",
+      "title": "Only combat sortie, over Cuba",
+      "tag": "Combat mission",
+      "summary": "During the Cuban Missile Crisis, 55-0668 flew a reconnaissance sortie over Cuba, the only combat mission flown by a B-58.",
+      "source": "https://en.wikipedia.org/wiki/Convair_B-58_Hustler"
+    },
+    {
+      "date": "1963-10-16",
+      "title": "Operation Greased Lightning",
+      "tag": "Record",
+      "summary": "61-2059 of the 305th Bomb Wing flew non-stop from Tokyo to London in 8 hours 35 minutes 20 seconds, refuelling in flight five times.",
+      "source": "https://www.thisdayinaviation.com/16-october-1963/"
+    },
+    {
+      "date": "1964-12-08",
+      "title": "Ground accident and fire at Bunker Hill",
+      "tag": "Ground accident",
+      "summary": "60-1116 slid off an icy runway while taxiing at Bunker Hill AFB, Indiana, and burned with five nuclear weapons aboard, causing radioactive contamination. Capt. Manuel Cervantes Jr. was killed.",
+      "fatalities": 1,
+      "source": "https://asn.flightsafety.org/wikibase/154905"
+    },
+    {
+      "date": "1965-06-15",
+      "title": "Landing crash at the Paris Air Show",
+      "tag": "Landing accident",
+      "summary": "59-2443 undershot the runway at Le Bourget while landing overweight. Lt. Col. Charles Tubbs was killed and the other two crew were injured.",
+      "fatalities": 1,
+      "source": "https://asn.flightsafety.org/wikibase/154902"
+    },
+    {
+      "date": "1969-04-03",
+      "title": "Pod failure tears off a wing",
+      "tag": "Structural failure",
+      "summary": "The front latch of 61-2073's weapons pod failed near Rokeby, Nebraska. The pod's nose dropped and the left wing came off, but all three crew ejected safely.",
+      "fatalities": 0,
+      "source": "https://asn.flightsafety.org/wikibase/154910"
+    },
+    {
+      "date": "1970-01-16",
+      "title": "Last B-58s retired",
+      "tag": "Retirement",
+      "summary": "Two aircraft from the 43rd Bomb Wing and two from the 305th flew to storage at Davis-Monthan AFB, ending B-58 service.",
+      "source": "https://www.littlerock.af.mil/News/Article-Display/Article/764450/history-fast-fact-jan-16/"
+    }
+  ]
+}

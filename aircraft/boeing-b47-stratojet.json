@@ -1,0 +1,554 @@
+{
+  "name": "B-47 Stratojet",
+  "fullName": "Boeing B-47 Stratojet",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers",
+    "spy-planes"
+  ],
+  "role": "Medium Strategic Jet Bomber",
+  "tagline": "The Boeing B-47 Stratojet is a six-engine jet bomber with a thin 35-degree swept wing, and was the backbone of Strategic Air Command in the 1950s. Boeing, Douglas and Lockheed built more than 2,000, and by 1958 SAC flew 1,367 of them in 28 bomb wings.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Its bicycle landing gear left the B-47 sitting at its take-off angle, so it could not rotate on take-off.",
+    "The B-47 was the first mass-produced aircraft with anti-skid brakes.",
+    "A 7,600 lb Mark 15 bomb jettisoned from a B-47 after a mid-air collision in 1958 has never been found in Wassaw Sound, Georgia.",
+    "Capt. John Lappo was court-martialled for flying his B-47 under the Mackinac Bridge on 24 April 1959.",
+    "At high altitude only about 5 knots separated the B-47's maximum Mach number from its stall speed, the margin known as the coffin corner.",
+    "Crashes destroyed 203 B-47s, about one in ten built, and killed 464 people."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the B-47E. Speed, cruise, range and ceiling are from Air Force Magazine, the Museum of Flight and the Pima Air & Space Museum; dimensions, weights and engines are from Wikipedia. Published figures vary widely: the SAC Museum and Castle Air Museum give a 650 mph top speed, several museums a length of 109 ft 10 in, and maximum weights range from 200,000 lb to 230,000 lb. Totals built range from 2,032 (Air Force Magazine, by manufacturer) to 2,042 (Wikipedia). The unit cost is GlobalSecurity's B-47E flyaway figure, which gives no year; it has been CPI-adjusted from 1954, the middle of B-47E production. Only the month of service entry (June 1951) is published. The retirement date is the last SAC bomber; reconnaissance, weather and Navy aircraft flew until 1969 and 1977.",
+    "maxSpeed": {
+      "mph": 606,
+      "text": "527 kn (606 mph / 975 km/h)"
+    },
+    "cruiseSpeed": "557 mph (896 km/h)",
+    "range": {
+      "miles": 4000,
+      "text": "4,000 mi (6,440 km)"
+    },
+    "serviceCeiling": {
+      "ft": 40500,
+      "text": "40,500 ft (12,345 m)"
+    },
+    "wingspan": {
+      "ft": 116,
+      "text": "116 ft 0 in (35.4 m)"
+    },
+    "length": {
+      "ft": 107.1,
+      "text": "107 ft 1 in (32.6 m)"
+    },
+    "height": {
+      "ft": 28,
+      "text": "28 ft 0 in (8.5 m)"
+    },
+    "weight": "empty: 80,000 lb (36,287 kg); MTOW: 221,000 lb (100,244 kg)",
+    "engines": "Six General Electric J47-GE-25 turbojets, 5,970 lbf (26.6 kN) each, later J47-GE-25A with water-methanol injection giving 7,200 lbf (32 kN); up to 33 rocket bottles for take-off",
+    "armament": "Two radar-aimed 20 mm M24A1 cannon in the tail (twin .50 cal guns on earlier models)",
+    "crew": "3 (pilot, co-pilot, navigator/bombardier); 6 in the RB-47H",
+    "capacity": "Up to 25,000 lb (11,340 kg) of conventional or nuclear bombs in an internal bay",
+    "firstFlight": {
+      "date": "1947-12-17",
+      "year": 1947
+    },
+    "serviceEntryDate": "1951-06-01",
+    "retiredDate": "1966-02-11",
+    "numberBuilt": 2032,
+    "unitCost": {
+      "usd": 23700000,
+      "text": "$23.7M in 2026 dollars (CPI-adjusted)",
+      "inflationText": "Originally $1.9M (mid-1950s)"
+    },
+    "combatLosses": "One RB-47H shot down by a Soviet MiG-19 over the Barents Sea on 1 July 1960, and a B-47 reconnaissance aircraft lost to MiGs off Kamchatka on 17 April 1955. 203 B-47s were lost in crashes."
+  },
+  "variants": [
+    {
+      "code": "XB-47 / B-47A",
+      "desc": "Two XB-47 prototypes, the first flown on 17 December 1947 with six J35 engines of 3,750 lb thrust, and ten B-47A pre-production aircraft. The 306th Bomb Wing used its B-47As as trainers from May 1951, and they were not considered combat-ready. The second XB-47, 46-0066, survives at the Air Force Flight Test Museum at Edwards AFB."
+    },
+    {
+      "code": "B-47B",
+      "desc": "The first version to enter operational service, with the 306th Bomb Wing in July 1951. 399 were built, including 8 assembled by Lockheed and 10 by Douglas, and they carried twin .50 cal tail guns. Many were later rebuilt as TB-47B trainers, 91 became YRB-47B reconnaissance aircraft, and one was loaned to Canada as the CL-52 engine test bed."
+    },
+    {
+      "code": "B-47E",
+      "desc": "The definitive bomber and the most-built version: 1,341 were produced, 691 by Boeing, 386 by Lockheed and 264 by Douglas. It had J47-GE-25 engines with water-methanol injection, two radar-aimed 20 mm tail cannon and up to 25,000 lb of bombs. After the 1958 wing failures most were strengthened under the Milk Bottle programme, and the last SAC bombers retired in February 1966."
+    },
+    {
+      "code": "RB-47E / RB-47K",
+      "desc": "The photographic reconnaissance versions. 240 RB-47Es were built, and 16 of them flew the HOMERUN overflights of the Soviet Arctic from Thule in 1956. The 15 RB-47Ks added weather reconnaissance with dropsondes and served until 1963. Fourteen RB-47Es were later converted into QB-47E target drones in 1959 and 1960."
+    },
+    {
+      "code": "RB-47H / ERB-47H",
+      "desc": "Electronic intelligence versions with three electronic warfare officers, known as Ravens, in a capsule in the bomb bay, flying 12 to 14-hour missions from bases such as Incirlik and Yokota. 32 were built new, plus 3 ERB-47Hs with two Ravens. RB-47H 53-4281 was shot down over the Barents Sea in 1960, and the RC-135 replaced the type in December 1967."
+    },
+    {
+      "code": "EB-47E / EB-47L / WB-47E",
+      "desc": "Conversions of B-47Es for other roles. About 40 EB-47Es became jamming aircraft, carrying 16 jammers in a bomb-bay cradle or, in Phase V, a capsule with 13 tunable jammers and two operators. 36 EB-47Ls were communications relays from 1961 to 1965, and 34 WB-47Es, converted by Lockheed, flew weather reconnaissance until October 1969. The US Navy flew EB-47Es until 1977."
+    },
+    {
+      "code": "XB-47D / YB-47J (test aircraft)",
+      "desc": "Test conversions for engines and systems. Two XB-47Ds were fitted with Wright YT49 turboprops and the first flew on 26 August 1955. One YB-47J tested the MA-2 bombing-navigation system planned for the B-52. Other one-off test designations included the JB-47E, used as a fly-by-wire test bed, and the NB-47E engine test bed now at Pueblo, Colorado."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force (Strategic Air Command bomb wings)",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1951",
+      "fleetSize": "1,367 bombers in 28 wings at the 1958 peak, 45 aircraft per wing",
+      "homeBase": "First: 306th Bomb Wing, MacDill AFB, Florida; last: 98th Bomb Wing, Lincoln AFB, Nebraska (February 1966)"
+    },
+    {
+      "name": "United States Air Force (Strategic reconnaissance wings)",
+      "role": "Reconnaissance & Electronic Intelligence",
+      "status": "Retired",
+      "since": "1952",
+      "fleetSize": "176 RB-47s in 1958",
+      "homeBase": "55th Strategic Reconnaissance Wing, Forbes AFB, Kansas; also the 26th and 91st Wings. Last RB-47H retired 29 December 1967"
+    },
+    {
+      "name": "United States Air Force (Weather reconnaissance squadrons)",
+      "role": "Weather Reconnaissance",
+      "status": "Retired",
+      "since": "1963",
+      "fleetSize": "34 WB-47Es",
+      "homeBase": "53rd WRS (Hunter AFB, then Ramey AFB), 55th WRS (McClellan AFB), 57th WRS (Hickam AFB); last mission 29 October 1969"
+    },
+    {
+      "name": "United States Air Force (Combat crew training wings)",
+      "role": "Crew Training",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "Flew TB-47B trainers and B-47s; at least 66 TB-47Bs were converted",
+      "homeBase": "McConnell AFB, Kansas; Pinecastle AFB, Florida"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Electronic Warfare Training",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "2 EB-47Es with the Fleet Electronic Warfare Support Group; last flight 20 December 1977",
+      "homeBase": "Fleet Electronic Warfare Support Group"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Engine Test Bed (CL-52)",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "1 B-47B (51-2059) on loan as RCAF 059X, the only foreign use of the type",
+      "homeBase": "Canadair, Montreal - engine trials for the Orenda Iroquois"
+    }
+  ],
+  "survivors": {
+    "intro": "Twenty-two B-47s survive, none of them airworthy. They include the second prototype, an RB-47H of the Cold War reconnaissance force, and the aircraft that made the last B-47 flight in 1986.",
+    "airframes": [
+      {
+        "serial": "53-4299",
+        "name": "RB-47H",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196900/boeing-rb-47h-stratojet/",
+        "note": "Delivered in October 1955 and flew with the 55th Strategic Reconnaissance Wing from 1955 to 1966, including from Incirlik and Yokota. Displayed from 2003 in 1960 markings.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "46-0066",
+        "name": "XB-47",
+        "location": "Air Force Flight Test Museum",
+        "place": "Edwards AFB, California, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Boeing_B-47_Stratojets",
+        "note": "The second prototype. Displayed for many years at Chanute AFB, Illinois, and moved to Edwards in September 2016.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "52-0166",
+        "location": "Castle Air Museum",
+        "place": "Atwater, California, United States",
+        "url": "https://castleairmuseum.org/collections/boeing-b-47e-stratojet/",
+        "note": "Built by Douglas at Tulsa in 1952 and later used as a radar target at China Lake. Made the last flight by any B-47, to Castle AFB, on 17 June 1986.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "51-7066",
+        "location": "The Museum of Flight",
+        "place": "Seattle, Washington, United States",
+        "url": "https://www.museumofflight.org/exhibits-and-events/aircraft/boeing-wb-47e-stratojet",
+        "note": "Built at Wichita in 1951 and flew with SAC from 1953 to 1963. As a WB-47E it flew the last weather reconnaissance mission on 29 October 1969. Restored as a B-47E; on loan from the National Naval Aviation Museum.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "52-1412",
+        "location": "Strategic Air Command & Aerospace Museum",
+        "place": "Ashland, Nebraska, United States",
+        "url": "https://www.sacmuseum.org/visit/exhibit/b-47e-stratojet/",
+        "note": "EB-47E built by Douglas at Tulsa and delivered on 5 May 1955.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "53-2135",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "url": "https://pimaair.org/museum-aircraft/boeing-eb-47e/",
+        "note": "EB-47E displayed in the markings of the 376th Bomb Wing at Lockbourne AFB in 1964.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "53-2275",
+        "name": "Betty-Boop",
+        "location": "March Field Air Museum",
+        "place": "Riverside, California, United States",
+        "url": "https://www.marchfield.org/b-47e-stratojet/",
+        "note": "Delivered on 14 February 1955 and served at Guam, March, Davis-Monthan and Forbes before retiring in August 1964. Became a Navy target drone and was recovered from China Lake in 1988.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "53-2280",
+        "location": "National Museum of Nuclear Science & History",
+        "place": "Albuquerque, New Mexico, United States",
+        "url": "https://www.nuclearmuseum.org/visit/exhibits/operation-preservation/b-47e-stratojet-restoration",
+        "note": "JB-47E built at Wichita and used as a fly-by-wire test bed. At the museum since August 2013 and restored in 2018 for about $110,000.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "51-2315",
+        "location": "Grissom Air Museum",
+        "place": "Peru, Indiana, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Boeing_B-47_Stratojets",
+        "note": "B-47B that broke its back in a hard landing at Bunker Hill AFB.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "53-4296",
+        "name": "RB-47H",
+        "location": "Air Force Armament Museum",
+        "place": "Eglin AFB, Valparaiso, Florida, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Boeing_B-47_Stratojets",
+        "note": "The last SAC B-47 of any kind, flown to Davis-Monthan AFB on 29 December 1967.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No B-47 has flown since 17 June 1986, so the type will not appear on Flightradar24. Survivors are on display at museums across the United States, including Dayton, Seattle, Tucson, Ashland and Atwater."
+  },
+  "lastUpdated": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Added the B-47 Stratojet, including the reconnaissance versions, ten of the surviving airframes and the nuclear weapon incidents.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Stratojet",
+    "B47",
+    "B-47E",
+    "RB-47H",
+    "EB-47",
+    "WB-47",
+    "swept wing",
+    "Strategic Air Command",
+    "Project HOMERUN",
+    "Milk Bottle"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing B-47 Stratojet is a retired American six-engine jet bomber built for the U.S. Air Force's Strategic Air Command. Its thin 35-degree swept wing and engines in underwing pods, based on German wartime research, were carried into the KC-135 and Boeing 707 and influenced later jet airliners. {{ref:af97}} {{ref:wiki-b47}}",
+      "The XB-47 first flew on 17 December 1947. Boeing, Douglas and Lockheed built 2,032 between them, and in 1958 SAC had 1,367 B-47 bombers in 28 wings plus 176 RB-47s. The bombers left SAC in February 1966, but reconnaissance, weather and electronic warfare versions flew on, and the US Navy flew EB-47Es until 1977. About 10 percent of all B-47s were lost in crashes. {{ref:af97}} {{ref:af13}} {{ref:wiki-b47}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the Swept Wing",
+        "paragraphs": [
+          "In June 1943 the U.S. Army Air Forces asked manufacturers for multi-jet bomber designs, and on 17 November 1944 it issued a formal requirement for a 550 mph bomber with a 45,000 ft ceiling. In May 1945 Boeing's George Schairer, a member of the von Kármán mission, saw German swept-wing research near Braunschweig and wired the company to stop the bomber design. Schairer already knew of R.T. Jones's work on swept wings, and Vic Ganzer settled on a sweep of about 35 degrees. {{ref:af97}} {{ref:wiki-b47}}",
+          "The first XB-47, 46-065, flew on 17 December 1947 from Boeing Field to Moses Lake AFB in 52 minutes, with Robert Robbins and Scott Osler at the controls and six J35 engines of 3,750 lb thrust. Osler was killed on 11 May 1949 when the canopy came off in flight. On 8 February 1949 an XB-47 flew from Moses Lake to Andrews AFB, 2,198 miles in 3 hours 46 minutes, at an average of more than 607 mph. {{ref:tdia47}} {{ref:tdia-xb47}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The B-47 has a thin, shoulder-mounted swept wing that flexed enough for the tips to move through about 17 ft. Its six General Electric J47 turbojets hang in twin pods inboard and single pods outboard, which also act as weights against wing flutter. The main landing gear is a bicycle arrangement under the fuselage with outriggers on the inboard pods, so the aircraft sat at its take-off angle and could not rotate. Pilot and co-pilot sat in tandem under a bubble canopy, with the navigator-bombardier in the nose. {{ref:wiki-b47}} {{ref:af07}}",
+          "Landing was the most difficult part of flying it. The B-47 approached at about 180 knots, and its engines were so slow to accelerate that pilots streamed a 16 ft approach chute so they could keep the engines at higher power. A 32 ft ribbon chute and anti-skid brakes, which the B-47 was the first mass-produced aircraft to have, stopped it on the ground. The wing could twist enough to reverse the ailerons above 425 knots indicated airspeed, and at altitude only about 5 knots separated maximum Mach from the stall. Heavy take-offs used water-methanol injection and up to 33 rocket bottles. {{ref:wiki-b47}} {{ref:af13}}"
+        ]
+      },
+      {
+        "heading": "Service with Strategic Air Command",
+        "paragraphs": [
+          "The 306th Bomb Wing at MacDill AFB, Florida, received B-47As for training in May 1951 and the first operational B-47Bs in July. Between 1951 and 1957 SAC's B-47 force grew from 12 aircraft to 1,285, and from one medium bomb wing to 28, each with 45 aircraft. The last B-47E, 53-6244, was delivered on 18 February 1957. The three-man crew did work that took ten men on a B-29, on missions of up to 24 hours refuelled by KC-97 tankers. {{ref:wiki-b47-units}} {{ref:af13}} {{ref:gs-b47e}} {{ref:wiki-b47}}",
+          "From 1 October 1957 a third of the force stood on ground alert, and under Reflex Action B-47 crews rotated to overseas bases for 90 days at a time. Wings practised minimum-interval take-offs, launching aircraft 15 seconds apart. In 1958, low-level 'pop-up' and LABS toss-bombing manoeuvres exposed fatigue in the wing. On 13 March two B-47s broke up on the same day from failures in the lower wing skin at the same point, and six broke apart on low-level missions in March and April. The Milk Bottle programme, named after the wing-root pins it replaced, had reinforced 1,622 aircraft by January 1959. {{ref:af13}} {{ref:wiki-b47}}"
+        ]
+      },
+      {
+        "heading": "Reconnaissance & Electronic Warfare",
+        "paragraphs": [
+          "On 15 October 1952 an RB-47B flown by Col. Donald Hillman, Maj. Lester Gunter and Maj. Edward Timmins made the first B-47 overflight of the Soviet Union from Eielson AFB, Alaska, about 800 of its 3,500 miles over Soviet territory. On 8 May 1954 Capt. Harold Austin's RB-47E photographed Murmansk and Arkhangelsk and was attacked by six MiGs, which damaged the left wing and a fuel tank, before it returned to RAF Fairford. In Project HOMERUN, from 21 March to 10 May 1956, 16 RB-47Es and five RB-47Hs flew 156 sorties from Thule, Greenland, without loss. {{ref:afm-overfly}} {{ref:wiki-homerun}}",
+          "The RB-47H carried three electronic warfare officers, known as Ravens, in a capsule in the bomb bay on missions of 12 to 14 hours. On 1 July 1960 a MiG-19 shot down RB-47H 53-4281 over the Barents Sea. Four crew died, and Capt. Bruce Olmstead and Capt. John McKone were held in the Soviet Union until January 1961. The EB-47E Phase IV jammer carried 16 jammers in a bomb-bay cradle, and 36 EB-47Ls served as communications relays from 1961. The RC-135 replaced the RB-47H in December 1967. {{ref:nmusaf-rb47h}} {{ref:wiki-rb47-1960}} {{ref:wiki-b47}}"
+        ]
+      },
+      {
+        "heading": "Accidents & Nuclear Incidents",
+        "paragraphs": [
+          "Crashes destroyed 203 B-47s, about 10 percent of production, and killed 464 people. In 1957 alone there were 24 crashes and 63 deaths, and in 1958 there were 25 crashes and 58 deaths. A loss of power on take-off could yaw the aircraft into a stall, refuelling from KC-97 tankers was difficult, and many pilots were inexperienced. On 26 February 1965 a B-47 collided with a KC-135 tanker about 700 miles east of Maine, killing eight men across the two aircraft. On 24 April 1959 Capt. John Lappo deliberately flew his B-47 under the Mackinac Bridge in Michigan and was court-martialled. {{ref:af13}} {{ref:wiki-b47}}",
+          "Several accidents involved nuclear weapons. On 10 March 1956 B-47E 52-0534 disappeared over the Mediterranean with two nuclear capsules aboard, and nothing was found. On 27 July 1956 a 307th Bomb Wing B-47 crashed into a weapons store at RAF Lakenheath holding three Mark 6 bombs without nuclear cores; their explosives did not detonate. On 5 February 1958 B-47B 51-2349 collided with an F-86 and jettisoned a 7,600 lb Mark 15 bomb into Wassaw Sound off Georgia, where it has never been found. On 11 March 1958 a Mark 6 without its core fell from a B-47 onto Mars Bluff, South Carolina, and its explosive left a crater about 70 ft wide and injured six people. {{ref:wiki-1956}} {{ref:wiki-lakenheath}} {{ref:wiki-tybee}} {{ref:wiki-marsbluff}}"
+        ]
+      },
+      {
+        "heading": "Retirement & Legacy",
+        "paragraphs": [
+          "The B-52 began taking over nuclear alert from about 1959, and the last two SAC B-47 bombers went to storage at Davis-Monthan AFB on 11 February 1966. WB-47Es flew weather reconnaissance until 29 October 1969, and the US Navy's Fleet Electronic Warfare Support Group flew EB-47Es until 20 December 1977. The last B-47 flight of all came on 17 June 1986, when 52-0166, a former radar target, flew 43 minutes from China Lake to Castle AFB for display. {{ref:wiki-b47}} {{ref:gs-b47e}} {{ref:mof-wb47}} {{ref:tdia86}}",
+          "Through the Dash 80 prototype, the B-47's swept wing and podded engines were carried into the KC-135 and Boeing 707. Canada borrowed one B-47B in 1956 as the CL-52 test bed for the Orenda Iroquois engine, the only foreign use of the type, and Australia was offered 24 B-47Es in 1963 and declined. Twenty-two B-47s survive, none airworthy, including the second XB-47 at Edwards AFB and RB-47H 53-4299 at the National Museum of the USAF. {{ref:af97}} {{ref:wiki-b47}} {{ref:wiki-b47-survivors}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "af97",
+      "name": "The Long Reach of the Stratojet",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/1297stratojet/"
+    },
+    {
+      "id": "wiki-b47",
+      "name": "Boeing B-47 Stratojet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_B-47_Stratojet"
+    },
+    {
+      "id": "af13",
+      "name": "The B-47's Deadly Dominance",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0213b47/"
+    },
+    {
+      "id": "tdia47",
+      "name": "17 December 1947",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/17-december-1947/"
+    },
+    {
+      "id": "tdia-xb47",
+      "name": "Boeing XB-47 Stratojet",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/tag/boeing-xb-47-stratojet/"
+    },
+    {
+      "id": "af07",
+      "name": "Airpower Classics: B-47 Stratojet (August 2007)",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/PDF/MagazineArchive/Magazine%20Documents/2007/August%202007/0807classics.pdf"
+    },
+    {
+      "id": "wiki-b47-units",
+      "name": "List of B-47 units of the United States Air Force",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_B-47_units_of_the_United_States_Air_Force"
+    },
+    {
+      "id": "gs-b47e",
+      "name": "B-47E Stratojet",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/systems/b-47e.htm"
+    },
+    {
+      "id": "afm-overfly",
+      "name": "Overflight",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0601overfly/"
+    },
+    {
+      "id": "wiki-homerun",
+      "name": "Project HOMERUN",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Project_HOMERUN"
+    },
+    {
+      "id": "nmusaf-rb47h",
+      "name": "Boeing RB-47H Stratojet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196900/boeing-rb-47h-stratojet/"
+    },
+    {
+      "id": "wiki-rb47-1960",
+      "name": "1960 RB-47 shootdown incident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident"
+    },
+    {
+      "id": "wiki-1956",
+      "name": "1956 B-47 disappearance",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1956_B-47_disappearance"
+    },
+    {
+      "id": "wiki-lakenheath",
+      "name": "RAF Lakenheath nuclear weapons accidents",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RAF_Lakenheath_nuclear_weapons_accidents"
+    },
+    {
+      "id": "wiki-tybee",
+      "name": "1958 Tybee Island mid-air collision",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1958_Tybee_Island_mid-air_collision"
+    },
+    {
+      "id": "wiki-marsbluff",
+      "name": "1958 Mars Bluff B-47 nuclear weapon loss incident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1958_Mars_Bluff_B-47_nuclear_weapon_loss_incident"
+    },
+    {
+      "id": "mof-wb47",
+      "name": "Boeing WB-47E Stratojet",
+      "publisher": "The Museum of Flight",
+      "url": "https://www.museumofflight.org/exhibits-and-events/aircraft/boeing-wb-47e-stratojet"
+    },
+    {
+      "id": "tdia86",
+      "name": "17 June 1986",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/17-june-1986/"
+    },
+    {
+      "id": "wiki-b47-survivors",
+      "name": "List of surviving Boeing B-47 Stratojets",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Boeing_B-47_Stratojets"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing B-47E Stratojet - Castle Air Museum",
+      "url": "https://castleairmuseum.org/collections/boeing-b-47e-stratojet/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1947-12-17",
+      "title": "XB-47 first flight",
+      "tag": "First flight",
+      "summary": "Robert Robbins and Scott Osler flew the first prototype, 46-065, from Boeing Field to Moses Lake AFB in 52 minutes.",
+      "source": "https://www.thisdayinaviation.com/17-december-1947/"
+    },
+    {
+      "date": "1949-02-08",
+      "title": "Transcontinental speed flight",
+      "tag": "Record",
+      "summary": "An XB-47 flew 2,198 miles from Moses Lake AFB to Andrews AFB in 3 hours 46 minutes, an average of more than 607 mph.",
+      "source": "https://www.thisdayinaviation.com/tag/boeing-xb-47-stratojet/"
+    },
+    {
+      "date": "1949-05-11",
+      "title": "Test pilot Scott Osler killed",
+      "tag": "Test accident",
+      "summary": "The canopy of an XB-47 came off in flight, killing Scott Osler, one of the two pilots on the type's first flight.",
+      "fatalities": 1,
+      "source": "https://www.thisdayinaviation.com/17-december-1947/"
+    },
+    {
+      "date": "1952-10-15",
+      "title": "First B-47 overflight of the Soviet Union",
+      "tag": "Reconnaissance",
+      "summary": "An RB-47B from Eielson AFB flew nearly 8 hours and about 3,500 miles, 800 of them over Soviet territory.",
+      "source": "https://www.airandspaceforces.com/article/0601overfly/"
+    },
+    {
+      "date": "1954-05-08",
+      "title": "RB-47E attacked by MiGs over the Kola Peninsula",
+      "tag": "Interception",
+      "summary": "Capt. Harold Austin's RB-47E was attacked by six MiGs over Murmansk and Arkhangelsk, damaging its left wing and a fuel tank, but returned to RAF Fairford.",
+      "source": "https://www.airandspaceforces.com/article/0601overfly/"
+    },
+    {
+      "date": "1956-03-10",
+      "title": "B-47E disappears over the Mediterranean",
+      "tag": "Broken Arrow",
+      "summary": "B-47E 52-0534, flying from MacDill AFB to Ben Guerir in Morocco with two nuclear capsules, vanished during air refuelling. No trace of the aircraft, crew or weapons was found.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/1956_B-47_disappearance"
+    },
+    {
+      "date": "1956-03-21",
+      "title": "Project HOMERUN begins",
+      "tag": "Reconnaissance",
+      "summary": "RB-47Es and RB-47Hs from Thule, Greenland, began 156 sorties over the Soviet Arctic, which ran until 10 May without a loss.",
+      "source": "https://en.wikipedia.org/wiki/Project_HOMERUN"
+    },
+    {
+      "date": "1956-07-27",
+      "title": "B-47 crashes into weapons store at RAF Lakenheath",
+      "tag": "Broken Arrow",
+      "summary": "A 307th Bomb Wing B-47 crashed into a storage igloo holding three Mark 6 bombs without nuclear cores. The explosives did not detonate; all four crew were killed.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/RAF_Lakenheath_nuclear_weapons_accidents"
+    },
+    {
+      "date": "1958-02-05",
+      "title": "Tybee Island mid-air collision",
+      "tag": "Broken Arrow",
+      "summary": "B-47B 51-2349 collided with an F-86L, and the crew jettisoned a 7,600 lb Mark 15 bomb into Wassaw Sound. The F-86 pilot ejected, and the bomb has never been found.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/1958_Tybee_Island_mid-air_collision"
+    },
+    {
+      "date": "1958-03-11",
+      "title": "Mark 6 bomb falls on Mars Bluff",
+      "tag": "Broken Arrow",
+      "summary": "A Mark 6 without its nuclear core fell from a Hunter AFB B-47 onto Mars Bluff, South Carolina. Its explosive left a crater about 70 ft wide and injured six people.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/1958_Mars_Bluff_B-47_nuclear_weapon_loss_incident"
+    },
+    {
+      "date": "1958-03-13",
+      "title": "Two B-47s break up on the same day",
+      "tag": "Structural failure",
+      "summary": "Two B-47s suffered lower wing skin failures at the same point, one breaking up over Tulsa. The losses led to the Milk Bottle reinforcement programme.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_B-47_Stratojet"
+    },
+    {
+      "date": "1960-07-01",
+      "title": "RB-47H shot down over the Barents Sea",
+      "tag": "Shot down",
+      "summary": "A MiG-19 flown by Capt. Vasily Polyakov shot down RB-47H 53-4281 of the 55th Strategic Reconnaissance Wing. Four crew were killed; the two survivors were held in the Soviet Union until January 1961.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident"
+    },
+    {
+      "date": "1966-02-11",
+      "title": "Last SAC B-47 bombers retired",
+      "tag": "Retirement",
+      "summary": "The last two B-47 bombers of Strategic Air Command were flown to storage at Davis-Monthan AFB.",
+      "source": "https://www.globalsecurity.org/wmd/systems/b-47e.htm"
+    },
+    {
+      "date": "1986-06-17",
+      "title": "Final B-47 flight",
+      "tag": "Retirement",
+      "summary": "B-47E 52-0166, recovered from use as a radar target, flew 43 minutes from China Lake to Castle AFB for display.",
+      "source": "https://www.thisdayinaviation.com/17-june-1986/"
+    }
+  ]
+}

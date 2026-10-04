@@ -223,37 +223,12 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
-      "author": "d4nny6"
-    },
-    {
-      "date": "2026-07-31",
-      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
-      "author": "d4nny6"
-    },
-    {
-      "date": "2026-07-31",
-      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
-      "author": "d4nny6"
-    },
-    {
-      "date": "2026-07-31",
-      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
-      "author": "d4nny6"
-    },
-    {
-      "date": "2026-07-31",
-      "change": "Fixed a hero-image bug: an extra untitled photo in the hero/ folder was alphabetically outranking the documented hero photo, so the page was showing the wrong image under the right photo's credit (\"Imer, CC BY-SA 3.0\"). Removed the conflicting file (it remains available in the gallery) so the correctly-credited photo displays again.",
+      "change": "Entry created.",
       "author": "d4nny6"
     },
     {
       "date": "2026-09-09",
-      "change": "Added the Avro-to-NASA Space Task Group brain drain to the Legacy section and attached the two previously uncited references.",
-      "author": "planesdb"
-    },
-    {
-      "date": "2026-09-09",
-      "change": "Status changed from \"Retired\" to the new \"Cancelled\" value - the Arrow never entered service, and \"Retired\" was a workaround for a status the site did not previously offer.",
+      "change": "Status changed from 'Retired' to 'Cancelled', as the Arrow never entered service.",
       "author": "planesdb"
     }
   ],

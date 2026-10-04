@@ -265,32 +265,32 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "change": "Expanded the article with full sources and a timeline.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-11",
-      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "change": "Renamed the last article section to 'Current Status & Outlook', since the aircraft is still in service.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "change": "Updated the news links with current stories.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Removed the trial wikipediaSummary field (and the \"Wikipedia Article\" tab it triggered) - it was the only entry in the database carrying this experimental field, creating a one-off inconsistency versus all other 55 entries which don't have this tab. The feature can be reintroduced database-wide later if desired.",
+      "change": "Removed the trial Wikipedia Article tab - no other entry had it, so it may come back across the whole database later.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Fixed the same hero-image conflict as the Avro Arrow entry above - an extra untitled photo in the hero/ folder was overriding the documented, correctly-credited hero photo. Removed the conflicting file (it was already duplicated in the gallery) so the right photo/credit pairing displays again.",
+      "change": "Fixed the main photo, which was being replaced by a duplicate of a gallery image with the wrong credit.",
       "author": "d4nny6"
     },
     {
       "date": "2026-09-09",
-      "change": "Attached previously uncited references to the sentences that rest on them.",
+      "change": "Added sources to a few statements that didn't have one.",
       "author": "planesdb"
     }
   ],

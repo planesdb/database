@@ -11,7 +11,7 @@
     "bombers"
   ],
   "role": "Long-Range Strategic Bomber / Missile Carrier",
-  "tagline": "The swept-wing, contra-rotating-turboprop icon still flying seven decades on. Its enormous contra-rotating turboprops let it cruise at near-jet speeds while achieving intercontinental range on a fraction of a jet bomber's fuel burn.",
+  "tagline": "The Tupolev Tu-95 Bear is a Soviet-designed turboprop strategic bomber that first flew in 1952 and remains in Russian service as the Tu-95MS cruise-missile carrier. Its four NK-12 engines drive contra-rotating propellers on a swept wing, giving it an unrefuelled range of about 15,000 km.",
   "status": "In Service",
   "inProduction": false,
   "history": "Tupolev developed the Tu-95 in the early 1950s after Soviet engineers concluded that contemporary jet engines could not yet give a heavy bomber the intercontinental range Stalin demanded, settling instead on four huge Kuznetsov NK-12 turboprops driving contra-rotating propellers - a compromise that produced a bomber nearly as fast as early jets but with far greater range. The prototype first flew on 12 November 1952, and the type entered service with Soviet Long-Range Aviation in 1956. Progressively updated through the Tu-95K, Tu-95M and, from the 1980s, the extensively modernised Tu-95MS cruise-missile carrier, the aircraft became the standard NATO reference point for Soviet-era 'Bear' intercepts, was adapted into the Tu-142 maritime patrol/anti-submarine variant and the Tu-126 airborne early warning platform, and even spawned the civilian Tu-114 airliner. Production ran until 1993, with total output exceeding 500 airframes across all variants, but Russia has kept a modernised fleet of Tu-95MS bombers in front-line service well past its Cold War contemporaries' retirement. Tu-95MS aircraft have launched Kh-101/Kh-555 cruise missiles against Ukraine throughout the 2022-2026 war, and NATO and US/Canadian fighters continue to intercept Bear patrols near Alaska, the Norwegian Sea and Japan on a near-routine basis. In June 2025, Ukraine's long-range drone raid known as Operation Spiderweb smuggled first-person-view drones deep into Russia in modified trucks and struck multiple air bases, destroying or damaging several irreplaceable Tu-95 airframes - a stark reminder that, six decades after it entered service, Russia can no longer build more of them.",
@@ -24,7 +24,7 @@
     "cruiseSpeed": "440 mph (710 km/h)",
     "range": {
       "miles": 9320,
-      "text": "9,320 mi (15,000 km) unrefuelled; extendable with aerial refuelling"
+      "text": "9,320 mi (15,000 km)"
     },
     "serviceCeiling": {
       "ft": 45000,
@@ -61,28 +61,32 @@
   },
   "variants": [
     {
-      "code": "Tu-95M",
-      "desc": "Early production strategic bomber variant with uprated engines, carrying free-fall nuclear and conventional bombs."
+      "code": "Tu-95 / Tu-95M",
+      "desc": "The original free-fall bomber. 31 Tu-95s and 19 Tu-95Ms were built at Kuibyshev between 1955 and 1958; the Tu-95M had uprated NK-12M engines, and the basic Tu-95 was the only version never fitted with a nose refuelling probe. Surviving early aircraft were converted into Tu-95U trainers, all now retired, and one became the Tu-95V that dropped the Tsar Bomba in 1961."
     },
     {
-      "code": "Tu-95K/K-22",
-      "desc": "Missile-carrier variants armed with the large Kh-20 and later Kh-22 stand-off missiles for anti-ship and strategic strike roles."
+      "code": "Tu-95K / Tu-95K-22",
+      "desc": "The first missile-carrying versions. The Tu-95K became operational in September 1959 with the Kh-20 stand-off missile, which reached 600 km in its Kh-20M form, and was upgraded to Tu-95KM standard in the mid-1960s. Later, older Bears were rebuilt as Tu-95K-22s to carry the Kh-22 missile, and the conversion was formally accepted in 1987."
     },
     {
-      "code": "Tu-95MS",
-      "desc": "Extensively modernised cruise-missile carrier, based on the Tu-142 airframe, and the backbone of today's active Tu-95 fleet."
+      "code": "Tu-95RTs",
+      "desc": "A maritime reconnaissance and targeting version that located ships for Soviet submarines. It first flew on 21 September 1962 and entered service in May 1966, and 40 were built; 37 remained in mid-1991, and the type was retired in 1993-94. Two Tu-95RTs crashed in 1971, in the Barents Sea in January and near Vologda in September, killing all 23 crew aboard."
+    },
+    {
+      "code": "Tu-95MS / Tu-95MSM",
+      "desc": "The current version, a new-build cruise-missile carrier on the Tu-142 airframe, first flown in September 1979 and built from 1981 to early 1992. The 32 Tu-95MS6s carry six Kh-55-family missiles on a rotary launcher, and the 56 Tu-95MS16s add underwing pylons for ten more. The modernised Tu-95MSM, with a Novella NV1.021 radar, first flew at the end of 2019."
     },
     {
       "code": "Tu-142",
-      "desc": "Long-range maritime patrol and anti-submarine derivative with a lengthened fuselage and revised systems."
+      "desc": "A long-range maritime patrol and anti-submarine derivative, first flown on 18 July 1968 and operational from December 1972. 100 were built until 1994, about 18 at Kuibyshev and the rest at Taganrog, including 43 Tu-142MKs. About 29 still serve with Russian Naval Aviation. India flew eight from 1988 until 29 March 2017, when the P-8I replaced them."
     },
     {
       "code": "Tu-126",
-      "desc": "Airborne early warning and control derivative built on the Tu-95/Tu-114 airframe."
+      "desc": "An airborne early warning aircraft derived from the Tu-114 airliner and carrying the Liana radar. It first flew on 23 January 1962, and eight production aircraft plus the prototype were built between 1965 and 1968. Based at Siauliai in Lithuania, the Tu-126 served from 1965 until 1984, when the Beriev A-50 replaced it."
     },
     {
       "code": "Tu-114",
-      "desc": "Civilian airliner derivative that briefly served as the world's fastest and largest passenger aircraft in the late 1950s/1960s."
+      "desc": "An airliner derived from the Tu-95, seating 170 passengers as standard and up to 224. It first flew on 15 November 1957, and 32 were built until 1963. Aeroflot flew it from 24 April 1961 until 1976 on routes including Havana, Montreal, New Delhi and Tokyo. On 24 March 1960 it set the propeller speed record of 871.38 km/h over 1,000 km, which still stands."
     }
   ],
   "operators": [
@@ -108,7 +112,7 @@
     "icaoTypeCode": "TU95",
     "howToFind": "Tu-95s do not broadcast civil ADS-B, so Flightradar24 never shows them directly; their movements instead surface indirectly through the NATO, US and Canadian fighters (F-35s, F-16s, F-22s, Typhoons) scrambled to intercept and shadow them near Alaska, the Barents/Norwegian Sea, and Japan, which occasionally do appear on trackers during training or intercept sorties."
   },
-  "lastUpdated": "2026-07-31",
+  "lastUpdated": "2026-10-04",
   "newsSourceFeeds": [
     {
       "name": "The War Zone",
@@ -158,53 +162,59 @@
     "military"
   ],
   "quickFacts": [
-    "The Tu-95 is probably the loudest combat aircraft ever built - its propeller tips go supersonic, and submerged submarines have reportedly detected it flying overhead.",
-    "A modified Tu-95 dropped the Tsar Bomba in 1961 - the most powerful nuclear weapon ever detonated - and barely escaped its own blast wave.",
-    "Like the B-52, it first flew in 1952 and is still in front-line service - the only propeller bomber left on Earth doing strategic missions.",
-    "NATO interceptor crews have photographed Bear tail gunners waving at them for 60 years - it still carries a manned tail gun.",
-    "In June 2025, Ukraine's Operation Spiderweb smuggled drone-launching trucks deep into Russia and destroyed or damaged a significant share of the irreplaceable Tu-95MS fleet on the ground - production ended in 1993, so every loss is permanent.",
-    "Its four engines are the most powerful turboprops ever made - 15,000 hp each, driving contra-rotating propellers."
+    "The Tu-114 airliner derived from the Tu-95 set a speed record for propeller aircraft of 871.38 km/h in March 1960 that still stands.",
+    "The Tu-95V that dropped the Tsar Bomba in 1961 was 39 km away when it detonated, and the shock wave still pushed the bomber down 800 m.",
+    "The NK-12 is the most powerful turboprop engine to enter service, and its propeller tips turn faster than the speed of sound.",
+    "The Tu-95 still carries a tail gunner, with twin 23 mm cannon.",
+    "There are no ejection seats: the forward crew escape through the nose-wheel bay on a powered conveyor belt.",
+    "Tu-95MS production ended in 1992 and the Kuibyshev line was dismantled in 1995, so Bears lost to Ukrainian drone strikes cannot be replaced."
   ],
   "article": {
     "overview": [
-      "The Tupolev Tu-95, NATO reporting name Bear, is a Soviet-designed, swept-wing turboprop strategic bomber built by Tupolev. It first flew in 1952 and entered service in 1956; it remains the only swept-wing turboprop bomber ever mass-produced and the fastest propeller aircraft in history.{{ref:wiki-tu95}}",
-      "Its four Kuznetsov NK-12 engines drive contra-rotating propellers whose tips exceed the speed of sound, producing a distinctive drone audible for miles. Since 2022 Russia has used Tu-95MS bombers to launch cruise missiles against Ukraine; a Ukrainian drone raid in June 2025, Operation Spiderweb, destroyed or damaged around a dozen of the irreplaceable fleet.{{ref:wiki-tu95}}{{ref:wiki-spiderweb}}"
+      "The Tupolev Tu-95 (NATO reporting name Bear) is a Soviet four-engine turboprop strategic bomber and missile carrier, designed by Tupolev and flown today by Russia's Long-Range Aviation. It is the only propeller-driven aircraft with swept wings built in large numbers, and the only turboprop strategic bomber still in operational use. {{ref:wiki-tu95}}",
+      "The first prototype flew on 12 November 1952, the bomber entered service in 1956, and more than 500 aircraft of the Tu-95 family were built before production ended in the early 1990s. The current Tu-95MS cruise-missile carrier has fired missiles at targets in Syria and Ukraine. Ukrainian drone attacks since 2025 have destroyed several of the remaining aircraft, and on 29 September 2026 a Tu-95MS crashed in the Amur region, killing six of its seven crew. {{ref:wiki-tu95}} {{ref:tass-2026}}"
     ],
     "sections": [
       {
-        "heading": "Origins & Concept",
+        "heading": "Origins & Development",
         "paragraphs": [
-          "Stalin's 1950 requirement was brutal in its simplicity: carry a nuclear weapon 8,000 kilometres - to America - and come home. Jet engines of the day drank too much for the range; straight-winged turboprops were too slow to survive. Andrei Tupolev's answer broke the deadlock by combining what nobody had combined: a jet bomber's 35-degree swept wing with turboprop economy.{{ref:wiki-tu95}}",
-          "That required an engine that didn't exist. The Kuznetsov NK-12 - developed with the 'assistance' of interned German engine teams - remains the most powerful turboprop ever built at up to 15,000 shaft horsepower, each driving two four-bladed contra-rotating propellers. Four of them gave the Bear jet-adjacent speed at piston-era fuel burn, and a sound signature all its own.{{ref:wiki-nk12}}"
-        ]
-      },
-      {
-        "heading": "Development",
-        "paragraphs": [
-          "The prototype flew in November 1952 (its second prototype crashed fatally, nearly killing the program), and the Tu-95 entered service in 1956. The airframe immediately proved to be one of history's great multi-tools: maritime reconnaissance Bears shadowed every NATO fleet exercise for decades, the Tu-142 sub-hunter version served three navies, and a passenger derivative (Tu-114) held airliner speed records while a modified Bear dropped Tsar Bomba, the largest weapon ever detonated.{{ref:wiki-tu95}}",
-          "The definitive Tu-95MS - a new-build missile carrier on the Tu-142's improved airframe - was produced into the early 1990s, armed with long-range cruise missiles that transformed the Bear from penetrating bomber to stand-off launcher: the role it still flies.{{ref:wiki-tu95}}"
-        ]
-      },
-      {
-        "heading": "Service History",
-        "paragraphs": [
-          "For NATO pilots, intercepting Bears became the Cold War's most photographed ritual: the huge silver aircraft probing air-defence zones from Alaska to Scotland to Japan, tail gunners waving at escorting fighters wingtip-to-wingtip. The patrols paused in 1992, then resumed under Putin in 2007 - the same airframes, often the same routes, a third generation of interceptor pilots rising to meet them.{{ref:wiki-tu95}}",
-          "Its first shots in anger came astonishingly late: in November 2015, sixty-three years after first flight, Tu-95MS bombers launched cruise missiles at targets in Syria. Since February 2022 the Bear has been a workhorse of Russia's long-range strikes against Ukraine, lobbing Kh-101 cruise missiles from deep inside Russian airspace, hundreds of launches shaping the war's air campaign.{{ref:wiki-tu95}}",
-          "Ukraine reached back. On 1 June 2025, Operation Spiderweb smuggled drone-laden trucks beside airbases across Russia and destroyed or damaged roughly a dozen strategic aircraft - including seven or more Tu-95MS - in the worst Russian bomber losses since WWII. With production tooling long gone, every Bear lost is a Bear that cannot be replaced; survivors dispersed to bases as far as the Pacific, adding hours to every mission.{{ref:wiki-spiderweb}}{{ref:mil-spiderweb}}"
+          "In 1950 the Soviet government issued a requirement for a bomber with an unrefuelled range of 8,000 km. The jet engines of the time used too much fuel to meet it, so Tupolev combined a swept wing with turboprop engines. The Kuznetsov NK-12 was developed for the aircraft by a team of former Junkers engineers held in the Soviet Union, led by Ferdinand Brandner, from the wartime Junkers Jumo 022. The first NK-12 produced 12,500 hp, and the later NK-12MA reached about 15,000 hp. {{ref:wiki-tu95}} {{ref:wiki-nk12}}",
+          "The first prototype, the Tu-95/I, flew on 12 November 1952 with test pilot Alexey Perelet. On 11 May 1953 it crashed near Noginsk after a propeller gearbox failed, killing Perelet. Series production began in January 1956 and the bomber entered Long-Range Aviation service that year; 31 Tu-95s and 19 Tu-95Ms were built at Kuibyshev between 1955 and 1958. {{ref:wiki-tu95}} {{ref:wiki-perelet}} {{ref:gs-mods}}"
         ]
       },
       {
         "heading": "Design & Engineering",
         "paragraphs": [
-          "The Bear's persistence is engineering pragmatism. Turboprops sip fuel where jets gulp it, giving 15,000 km range without tankers; the swept wing keeps cruise near 550 mph, absurd for propellers; and the airframe's low stress and metal simplicity make 70-year-old aircraft maintainable in ways more exotic bombers aren't.{{ref:wiki-tu95}}",
-          "Its crews pay the classic Soviet price: the Bear is notoriously loud and spartan inside, and its escape system - crew sliding out via a ventral hatch and moving belt, no upward ejection - reflects design priorities from another century. The aircraft has outlived the doctrine, the country and most of the men that built it.{{ref:wiki-tu95}}"
+          "The Tu-95 has a 35-degree swept wing and four NK-12 turboprops, each driving two four-bladed contra-rotating propellers 5.6 m across. The NK-12MP of the Tu-95MS produces 14,795 hp, and the NK-12 is the most powerful turboprop to enter service. The propeller tips turn faster than sound, which makes the Tu-95 one of the loudest military aircraft. The Tu-95MS has a top speed of 925 km/h, cruises at 710 km/h and can fly 15,000 km without refuelling. It has a wing area of 310 square metres, carries 67,200 kg of fuel and has a maximum take-off weight of 188,000 kg. {{ref:wiki-tu95}} {{ref:wiki-nk12}}",
+          "The Tu-95MS has a crew of six or seven, including a tail gunner with two 23 mm GSh-23 cannon. The Tu-95MS6 carries six Kh-55-family cruise missiles on a rotary launcher in the bomb bay, and the Tu-95MS16 adds underwing pylons for ten more; the aircraft can also carry eight Kh-101 or Kh-102 missiles. There are no ejection seats. In an emergency the forward crew leave through the nose-wheel bay, carried down by a powered conveyor belt with the landing gear lowered. {{ref:wiki-tu95}} {{ref:wiki-kh55}} {{ref:migflug-tu95}}"
+        ]
+      },
+      {
+        "heading": "Cold War Service & the Tsar Bomba",
+        "paragraphs": [
+          "The Tu-95 grew into a family of aircraft. The Tu-95K carried the Kh-20 stand-off missile from 1959, and the Tu-95RTs flew maritime reconnaissance and targeting for submarines from 1966. The Tu-142 anti-submarine aircraft, of which 100 were built, served Soviet and Russian naval aviation and the Indian Navy, and the Tu-126 carried an early-warning radar from 1965 to 1984. The Tu-114 airliner set a speed record for propeller aircraft of 871.38 km/h on 24 March 1960 that still stands, and Aeroflot flew it from 1961 to 1976. {{ref:gs-variants}} {{ref:wiki-tu142}} {{ref:wiki-tu126}} {{ref:wiki-tu114}}",
+          "On 30 October 1961 a specially modified Tu-95V flown by Maj. Andrei Durnovtsev dropped the Tsar Bomba, the most powerful nuclear weapon ever detonated, from 10,500 m. The bomber was 39 km away when the bomb went off at about 4,200 m. The shock wave reached it 115 km away and pushed it down 800 m, and it landed safely. Through the Cold War, Bears flying near NATO airspace from Alaska to Scotland and Japan were routinely intercepted and photographed by Western fighters. {{ref:wiki-tsar}} {{ref:wiki-tu95}}"
+        ]
+      },
+      {
+        "heading": "The Tu-95MS & Post-Soviet Service",
+        "paragraphs": [
+          "The Tu-95MS, the version in service today, is a new-build cruise-missile carrier based on the Tu-142 airframe. It first flew in September 1979. Production began at Taganrog in 1981, moved to Kuibyshev in 1983 and ended in early 1992, with 32 Tu-95MS6s and 56 Tu-95MS16s built. Russia suspended long-range bomber patrols in 1992, and on 17 August 2007 President Vladimir Putin announced that they would resume; 14 strategic bombers flew that day. {{ref:wiki-tu95}} {{ref:gs-mods}} {{ref:ria-2007}}",
+          "The Tu-95MS first saw combat on 17 November 2015, when Tu-95MS and Tu-160 bombers fired 34 cruise missiles at 14 targets in Syria, the Tu-95s using the Kh-555. A year later, on 17 November 2016, the Tu-95MS fired Kh-101 missiles for the first time, again at Syria. Since 24 February 2022 Tu-95MS bombers have fired cruise missiles at Ukraine, including a strike on Vinnytsia on 6 March 2022 and Kh-101s launched at Kyiv on 26 June 2022. Ukraine has struck back at the bomber bases, and a drone attack on Engels-2 on 5 December 2022 damaged two Tu-95s. {{ref:wiki-kh55}} {{ref:b2d-kh101}} {{ref:wiki-tu95}}"
+        ]
+      },
+      {
+        "heading": "Losses to Ukrainian Attacks",
+        "paragraphs": [
+          "On 1 June 2025, in Operation Spiderweb, Ukraine's SBU launched 117 drones from trucks driven close to Russian air bases, including Olenya in the Arctic and Belaya in Siberia. Independent satellite analysis found seven or eight Tu-95s destroyed at those two bases; NBC News confirmed at least five, and NATO officials estimated 10 to 13 aircraft of all types destroyed, against Ukraine's claim of 41 hit. Russia then moved bombers to Ukrainka in the Far East. {{ref:wiki-spiderweb}} {{ref:mil-spiderweb}} {{ref:nbc-spiderweb}} {{ref:euronews-2026}}",
+          "On the night of 16 to 17 July 2026 Ukrainian drones flew about 800 km to Engels-2 and destroyed a Tu-95MS, which satellite images showed severed in half. On 28 August a second Tu-95MS at Engels-2 lost about a third of its right wing. Tu-95MS production ended in 1992 and the Kuibyshev line was dismantled in 1995, so none of these aircraft can be replaced. {{ref:kyivpost-engels}} {{ref:euromaidan-aug}} {{ref:migflug-tu95}} {{ref:nsj-bear}}"
         ]
       },
       {
         "heading": "Current Status & Outlook",
         "paragraphs": [
-          "The Bear and the B-52 are aviation's great parallel lives: 1950s strategic bombers that buried every announced successor and now plan service lives approaching a century - the Tu-95 officially intended to serve toward 2040 alongside the endlessly delayed PAK DA replacement. Whether the shrunken post-Spiderweb fleet gets there is now one of Russian air power's defining questions.{{ref:nsj-bear}}",
-          "Its cultural footprint is secure regardless: the silhouette in a thousand intercept photos, the drone submariners heard through the sea, the aircraft that turned 'Bear hunt' into a NATO verb. Aviation has produced faster and deadlier bombers; it has never produced a more recognisable one.{{ref:wiki-tu95}}"
+          "On 29 September 2026 a Tu-95MS crashed on a training flight near the village of Krasnoyarovo in Russia's Amur region, about 30 km north of Ukrainka air base. Six of the seven crew were killed, and the seventh was taken to hospital. The Russian Defence Ministry said the aircraft carried no weapons and sent a commission to the site. It has not given a cause; unconfirmed reports mention an engine fire. Two earlier Tu-95MS accidents in 2015, a take-off fire at Ukrainka on 8 June and a triple engine failure in icing near Khabarovsk on 14 July, each killed two crew. Earlier losses include a Tu-95RT near Uzyn, Ukraine, on 26 August 1965, which killed six, and two Tu-95RTs in 1971 that killed 23 crew between them. {{ref:tass-2026}} {{ref:moscowtimes-2026}} {{ref:baaa-tu95}}",
+          "In 2020 Russia had 55 Tu-95MS, based at Engels-2, Ukrainka and Dyagilevo, and 51 in December 2025: 29 Tu-95MS and 22 upgraded Tu-95MSM. Ukrainian defence intelligence estimated about 38 combat-ready Tu-95MS and Tu-95MSM in late August 2026, falling to about 36 after the August strike and the September crash. The modernised Tu-95MSM, with a Novella radar, first flew at the end of 2019. Russia plans to keep the Tu-95 in service until at least 2040, but its intended replacement, the PAK DA, had no completed prototype reported as of June 2025. Rostec last said in August 2023 that the programme was on schedule, and earlier plans for state tests in February 2026 and production in 2027 have not been met. {{ref:wiki-tu95}} {{ref:migflug-tu95}} {{ref:united24}} {{ref:wiki-pakda}}"
         ]
       }
     ]
@@ -217,10 +227,76 @@
       "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-95"
     },
     {
+      "id": "tass-2026",
+      "name": "Tu-95 aircraft crashes in Amur region during training flight",
+      "publisher": "TASS",
+      "url": "https://tass.com/emergencies/2194577"
+    },
+    {
       "id": "wiki-nk12",
       "name": "Kuznetsov NK-12",
       "publisher": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Kuznetsov_NK-12"
+    },
+    {
+      "id": "wiki-perelet",
+      "name": "Aleksey Perelet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aleksey_Perelet"
+    },
+    {
+      "id": "gs-mods",
+      "name": "Tu-95 Bear Modifications",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/world/russia/tu-95-mods.htm"
+    },
+    {
+      "id": "wiki-kh55",
+      "name": "Kh-55",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kh-55"
+    },
+    {
+      "id": "migflug-tu95",
+      "name": "Tu-95 Bear",
+      "publisher": "MiGFlug",
+      "url": "https://migflug.com/aircraft/tu-95-bear/"
+    },
+    {
+      "id": "gs-variants",
+      "name": "Tu-95 Bear Variants",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/world/russia/tu-95-variants.htm"
+    },
+    {
+      "id": "wiki-tu142",
+      "name": "Tupolev Tu-142",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-142"
+    },
+    {
+      "id": "wiki-tu126",
+      "name": "Tupolev Tu-126",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-126"
+    },
+    {
+      "id": "wiki-tu114",
+      "name": "Tupolev Tu-114",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-114"
+    },
+    {
+      "id": "wiki-tsar",
+      "name": "Tsar Bomba",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsar_Bomba"
+    },
+    {
+      "id": "ria-2007",
+      "name": "Russia resumes strategic bomber patrols (RIA Novosti, 17 August 2007)",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2007/russia-070817-rianovosti01.htm"
     },
     {
       "id": "wiki-spiderweb",
@@ -235,10 +311,64 @@
       "url": "https://militarnyi.com/en/news/spiderweb-operation-how-many-tu-95ms-tu-22m3-and-a-50s-destroyed-at-russian-airbases/"
     },
     {
+      "id": "euronews-2026",
+      "name": "Russian nuclear-capable Tu-95 crashes in Far East, killing six crew members",
+      "publisher": "Euronews",
+      "url": "https://www.euronews.com/2026/09/29/russian-nuclear-capable-tu-95-crashes-in-far-east-killing-six-crew-members"
+    },
+    {
+      "id": "kyivpost-engels",
+      "name": "Ukraine destroys Tu-95 strategic bomber at Engels-2",
+      "publisher": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/80630"
+    },
+    {
+      "id": "euromaidan-aug",
+      "name": "Ukraine struck Tu-95 at base; satellite image shows third of right wing gone",
+      "publisher": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/28/ukraine-struck-tu-95-at-base-russia-launches-its-cruise-missiles-on-ukraines-civilians-satellite-image-shows-third-of-right-wing-gone/"
+    },
+    {
       "id": "nsj-bear",
       "name": "Russia Cannot Replace Its Tu-95 Bear Bombers",
       "publisher": "National Security Journal",
       "url": "https://nationalsecurityjournal.org/russia-cannot-replace-its-tu-95-bear-bombers-and-ukraine-has-destroyed-about-a-dozen-of-them/"
+    },
+    {
+      "id": "moscowtimes-2026",
+      "name": "At least 6 crew members confirmed dead after military plane crashes in Amur region",
+      "publisher": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/29/at-least-6-crew-members-confirmed-dead-after-military-plane-crashes-in-amur-region-a93819"
+    },
+    {
+      "id": "baaa-tu95",
+      "name": "Tupolev Tu-95 accidents",
+      "publisher": "Bureau of Aircraft Accidents Archives",
+      "url": "https://www.baaa-acro.com/aircraft/tupolev-tu-95"
+    },
+    {
+      "id": "united24",
+      "name": "Another Tu-95 is gone, and Russia can't build new ones",
+      "publisher": "United24 Media",
+      "url": "https://united24media.com/war-in-ukraine/another-tu-95-is-gone-and-russia-cant-build-new-ones-heres-how-many-may-be-left-22989"
+    },
+    {
+      "id": "wiki-pakda",
+      "name": "PAK DA",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PAK_DA"
+    },
+    {
+      "id": "nbc-spiderweb",
+      "name": "Satellite images show damage from Ukraine's Spiderweb drone attack",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-spiderweb-drone-attack-russia-kyiv-moscow-osint-satellite-rcna211381"
+    },
+    {
+      "id": "b2d-kh101",
+      "name": "The Kh-101 and Syria: Maturing the Long-Range Precision Strike Capabilities of Russia's Aerospace Forces",
+      "publisher": "Balloons to Drones",
+      "url": "https://balloonstodrones.com/2017/10/18/the-kh-101-and-syria-maturing-the-long-range-precision-strike-capabilities-of-russias-aerospace-forces/"
     }
   ],
   "furtherReading": [
@@ -261,73 +391,99 @@
   ],
   "changelog": [
     {
-      "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references, full timeline, and the post-Spiderweb fleet situation.",
-      "author": "d4nny6"
-    },
-    {
-      "date": "2026-07-11",
-      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
-      "author": "d4nny6"
-    },
-    {
       "date": "2026-07-31",
-      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Updated the news links with current stories.",
       "author": "d4nny6"
     },
     {
-      "date": "2026-07-31",
-      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
-      "author": "d4nny6"
+      "date": "2026-10-04",
+      "change": "Updated wording throughout, added reference to the recent crash that killed 6 people",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [
     {
-      "date": "1971-01-15",
-      "title": "Crash into the Barents Sea",
-      "summary": "A Tu-95 reported an engine fire that was extinguished but then lost control and crashed into the Barents Sea; a propeller blade failure causing decompression is suspected. Twelve crew were killed.",
-      "fatalities": 12,
+      "date": "1953-05-11",
+      "title": "First prototype crashes",
       "tag": "Mechanical failure",
-      "source": "https://www.baaa-acro.com/aircraft/tupolev-tu-95"
+      "summary": "The Tu-95/I prototype crashed near Noginsk after a propeller gearbox failed, about six months into flight testing. Test pilot Alexey Perelet was among those killed; sources give three or four deaths.",
+      "source": "https://en.wikipedia.org/wiki/Aleksey_Perelet"
+    },
+    {
+      "date": "1961-10-30",
+      "title": "Tu-95V drops the Tsar Bomba",
+      "tag": "Nuclear test",
+      "summary": "Maj. Andrei Durnovtsev's Tu-95V dropped the most powerful nuclear weapon ever detonated from 10,500 m. The shock wave pushed the bomber down 800 m, and it landed safely.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Tsar_Bomba"
+    },
+    {
+      "date": "1971-01-15",
+      "title": "Tu-95RTs lost in the Barents Sea",
+      "tag": "Mechanical failure",
+      "summary": "The crew reported an engine fire, then lost control and crashed into the sea off Bear Island; a propeller blade may have penetrated the fuselage. All 12 crew were killed.",
+      "fatalities": 12,
+      "source": "https://www.baaa-acro.com/crash/crash-tupolev-tu-95rts-barents-sea-12-killed"
     },
     {
       "date": "1971-09-03",
-      "title": "Night CFIT on approach",
-      "summary": "During a night approach to an alternate airfield in fog, the crew descended below a safe altitude and struck trees short of the runway, killing eleven crew.",
-      "fatalities": 11,
+      "title": "Tu-95RTs hits trees near Vologda",
       "tag": "Weather/CFIT",
-      "source": "https://www.baaa-acro.com/aircraft/tupolev-tu-95"
+      "summary": "On a night approach to Fedotovo-Kipelovo in fog below minimums, after the crew ignored an order to divert, the aircraft struck trees short of the runway. All 11 crew were killed.",
+      "fatalities": 11,
+      "source": "https://www.baaa-acro.com/crash/crash-tupolev-tu-95rts-russia-11-killed"
     },
     {
       "date": "2015-06-08",
-      "title": "Takeoff fire at Ukrainka air base",
-      "summary": "During takeoff at Ukrainka Air Base, a Tu-95MS's left engine caught fire and exploded, causing the bomber to veer off the runway and burn. Nine crew were injured and two later died of their wounds.",
-      "fatalities": 2,
+      "title": "Take-off fire at Ukrainka",
       "tag": "Mechanical failure",
+      "summary": "A Tu-95MS's left engine caught fire and exploded during take-off at Ukrainka air base, and the bomber ran off the runway and burned. Two crew died, and the fleet was grounded until early July.",
+      "fatalities": 2,
       "source": "https://www.baaa-acro.com/crash/crash-tupolev-tu-95ms-ukrainka-afb-2-killed"
     },
     {
       "date": "2015-07-14",
-      "title": "Fleet grounded after two crashes in six weeks",
-      "tag": "Grounding",
-      "summary": "Two Tu-95 losses inside six weeks, one of them killing two crew, forced Russia to ground the fleet while ageing engines and components were inspected - a public sign of the strain of keeping 1960s airframes on combat duty.",
+      "title": "Tu-95MS crash near Khabarovsk",
+      "tag": "Mechanical failure",
+      "summary": "Tu-95MS RF-94204 lost three engines in icing near Litovko, Khabarovsk Krai. All seven crew bailed out at 3,500 m, and two of them died.",
       "fatalities": 2,
-      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-95"
+      "source": "https://www.baaa-acro.com/crash/crash-tupolev-tu-95ms-near-litovko-2-killed"
+    },
+    {
+      "date": "2015-11-17",
+      "title": "First combat use, over Syria",
+      "tag": "Combat debut",
+      "summary": "Tu-95MS and Tu-160 bombers fired 34 cruise missiles at 14 targets in Syria, the Tu-95s using Kh-555 missiles.",
+      "source": "https://en.wikipedia.org/wiki/Kh-55"
     },
     {
       "date": "2025-06-01",
       "title": "Operation Spiderweb drone attack",
       "tag": "Ground attack",
-      "summary": "Ukrainian intelligence launched 117 small drones from trucks smuggled up to Russian airbases as far away as Siberia. Independent imagery confirmed several Tu-95MS destroyed or damaged at Belaya and Olenya - irreplaceable losses, as the type has been out of production since 1993.",
-      "fatalities": 0,
+      "summary": "Ukraine's SBU launched 117 drones from trucks driven close to Russian air bases. Independent satellite analysis found seven or eight Tu-95s destroyed at Olenya and Belaya.",
       "source": "https://en.wikipedia.org/wiki/Operation_Spiderweb"
     },
     {
       "date": "2026-07-17",
-      "title": "Drone strike on Engels-2 airbase",
-      "summary": "Ukraine's SBU said long-range drones struck Engels-2 airbase in Russia's Saratov region, tearing the tail section off a parked Tu-95. Satellite imagery later showed the aircraft severed in half.",
-      "tag": "Combat loss (ground attack)",
+      "title": "Tu-95MS destroyed at Engels-2",
+      "tag": "Destroyed on the ground",
+      "summary": "Ukrainian drones flew about 800 km to Engels-2 airbase in the Saratov region. Satellite imagery showed a Tu-95MS severed in half.",
       "source": "https://www.kyivpost.com/post/80630"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Second Tu-95MS hit at Engels-2",
+      "tag": "Ground attack",
+      "summary": "A Ukrainian strike on Engels-2 removed about a third of a Tu-95MS's right wing, according to satellite imagery.",
+      "source": "https://euromaidanpress.com/2026/08/28/ukraine-struck-tu-95-at-base-russia-launches-its-cruise-missiles-on-ukraines-civilians-satellite-image-shows-third-of-right-wing-gone/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Tu-95MS crash in the Amur region",
+      "tag": "Crash",
+      "summary": "A Tu-95MS from Ukrainka air base crashed on a training flight near the village of Krasnoyarovo, about 30 km north of the base. Six of the seven crew were killed and one was taken to hospital. The Russian Defence Ministry said no weapons were aboard and has not given a cause.",
+      "fatalities": 6,
+      "source": "https://tass.com/emergencies/2194577"
     }
   ]
 }

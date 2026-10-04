@@ -125,12 +125,12 @@
   "changelog": [
     {
       "date": "2026-09-08",
-      "change": "Entry created - full article, specifications, variants and incident log written from Embraer, Wikipedia, FlightGlobal, Breaking Defense, Defense News, Aviation Safety Network and named Brazilian aviation press.",
+      "change": "Added the Embraer KC-390 Millennium, with history, specs, variants and accident record. Sources: Embraer, Wikipedia, FlightGlobal, Breaking Defense, Defense News, Aviation Safety Network and named Brazilian aviation press.",
       "author": "planesdb"
     },
     {
       "date": "2026-09-08",
-      "change": "Operators: corrected Hungarian Air Force fleetSize from 3 to the real figure of 2, which completed Hungary's full contracted fleet in November 2025 (Hungary was the first C-390 export customer to do so).",
+      "change": "Corrected the Hungarian Air Force fleet from 3 to 2, the full order it completed in November 2025 as the first C-390 export customer to do so.",
       "author": "planesdb"
     }
   ],

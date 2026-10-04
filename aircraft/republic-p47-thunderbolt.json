@@ -45,7 +45,7 @@
       "mph": 433,
       "text": "376 kn (433 mph / 697 km/h)"
     },
-    "cruiseSpeed": "260 mph (418 km/h)",
+    "cruiseSpeed": "350 mph (418 km/h)",
     "range": {
       "miles": 1030,
       "text": "1,030 mi (1,658 km, 895 nmi)"
@@ -251,7 +251,12 @@
   "changelog": [
     {
       "date": "2026-09-05",
-      "change": "Entry created - full article, specifications, variants, incident log and survivor list written from National Museum of the USAF and Smithsonian NASM fact sheets, Imperial War Museum and American Air Museum records, the National WWII Museum, HistoryOfWar.org and Wikipedia.",
+      "change": "Added the Republic P-47 Thunderbolt - history, specs, variants, accident record and survivors. Sources: National Museum of the USAF and Smithsonian NASM fact sheets, Imperial War Museum and American Air Museum records, the National WWII Museum, HistoryOfWar.org and Wikipedia.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-10-04",
+      "change": "Updated cruise speed stat based on additional research.",
       "author": "planesdb"
     }
   ],

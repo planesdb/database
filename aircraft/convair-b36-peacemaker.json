@@ -1,0 +1,448 @@
+{
+  "name": "B-36 Peacemaker",
+  "fullName": "Convair B-36 Peacemaker",
+  "manufacturer": "Convair",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers",
+    "spy-planes"
+  ],
+  "role": "Intercontinental Strategic Bomber",
+  "tagline": "The Convair B-36 Peacemaker was Strategic Air Command's main nuclear bomber from 1948 until the B-52 replaced it, and the largest mass-produced piston-engined aircraft ever built. Its 230 ft wingspan is the longest of any combat aircraft, and six pusher radials plus four jet engines gave it a range of up to 10,000 miles.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The B-36's 230 ft wingspan is the longest of any combat aircraft, and wider than the C-5 Galaxy's.",
+    "Crew moved between the front and rear compartments by lying on a wheeled trolley and pulling it by rope through a pressurised tunnel over the bomb bays.",
+    "Each engine service meant changing 336 spark plugs, 56 per engine, which fouled with lead from the 145-octane fuel.",
+    "It was the only aircraft able to carry the 43,600 lb T-12 Cloudmaker bomb.",
+    "When a Mark 17 nuclear bomb fell out of a B-36 near Kirtland AFB on 22 May 1957, only its conventional explosive detonated, and the only casualty was a cow.",
+    "Six of the nine men killed when B-36D 44-92071 hit the Franklin Mountains in December 1953 had survived a B-36 bail-out over England ten months earlier."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the B-36J. Speed, range and ceiling are from the National Museum of the U.S. Air Force; dimensions, weights and engine ratings are from Wikipedia. Published figures vary: Wikipedia gives a 43,600 ft ceiling and a 3,985-mile combat range, and the SAC Museum a 158,843 lb empty weight. Counts of the number built range from 383 to 388; 384 is Wikipedia's production table. The unit cost is Air Force Magazine's figure of about $3.6M, which gives no year; it has been CPI-adjusted from 1950, the middle of production. Only the month of service entry is confirmed by most sources; the date shown is the Federation of American Scientists' date for the first operational delivery.",
+    "maxSpeed": {
+      "mph": 435,
+      "text": "378 kn (435 mph / 700 km/h)"
+    },
+    "cruiseSpeed": "230 mph (370 km/h)",
+    "range": {
+      "miles": 10000,
+      "text": "10,000 mi (16,000 km)"
+    },
+    "serviceCeiling": {
+      "ft": 45700,
+      "text": "45,700 ft (13,930 m)"
+    },
+    "wingspan": {
+      "ft": 230,
+      "text": "230 ft 0 in (70.1 m)"
+    },
+    "length": {
+      "ft": 162.1,
+      "text": "162 ft 1 in (49.4 m)"
+    },
+    "height": {
+      "ft": 46.8,
+      "text": "46 ft 9 in (14.25 m)"
+    },
+    "weight": "empty: 166,165 lb (75,371 kg); MTOW: 410,000 lb (185,973 kg)",
+    "engines": "Six Pratt & Whitney R-4360-53 Wasp Major 28-cylinder radials, 3,800 hp each, driving pusher propellers, plus four General Electric J47-GE-19 turbojets of 5,200 lbf (23 kN) each",
+    "armament": "Up to 16 x 20 mm M24 cannon in eight turrets; after the 1954 Featherweight III programme, only the twin 20 mm tail turret",
+    "crew": "13 (15 in early versions; up to 22 in RB-36 reconnaissance aircraft)",
+    "capacity": "Up to 86,000 lb (39,000 kg) of bombs in four bays with weight restrictions, 72,000 lb (33,000 kg) normally; could carry the 42,000 lb Mark 17 and 43,600 lb T-12",
+    "firstFlight": {
+      "date": "1946-08-08",
+      "year": 1946
+    },
+    "serviceEntryDate": "1948-06-26",
+    "retiredDate": "1959-02-12",
+    "numberBuilt": 384,
+    "unitCost": {
+      "usd": 50000000,
+      "text": "$50M in 2026 dollars (CPI-adjusted)",
+      "inflationText": "Originally ~$3.6M (c. 1950)"
+    },
+    "combatLosses": "None. The B-36 never flew a bombing mission in combat. 32 were written off in accidents between 1949 and 1957."
+  },
+  "variants": [
+    {
+      "code": "XB-36 / YB-36 / B-36A",
+      "desc": "The unarmed XB-36 prototype first flew on 8 August 1946 with 3,000 hp R-4360-25 engines and single-wheel main gear. The YB-36 added a raised cockpit and four-wheel bogies, and became an RB-36E. The 22 B-36As were also unarmed and used mainly for crew training; all but one were later converted into RB-36E reconnaissance aircraft."
+    },
+    {
+      "code": "B-36B / B-36D",
+      "desc": "The B-36B was the first combat-ready version, with 3,500 hp R-4360-41 engines and sixteen 20 mm cannon in eight turrets. The B-36D added four J47 turbojets in underwing pods, giving the 'six turnin', four burnin'' layout. 22 B-36Ds were built new and 64 B-36Bs were converted to the same standard, and 39 B-36Bs were for a time designated RB-36B."
+    },
+    {
+      "code": "RB-36D / RB-36E / GRB-36D",
+      "desc": "The RB-36D was the first strategic reconnaissance version, with a crew of up to 22, cut to 19 after the Featherweight programme. It first flew on 18 December 1949; 24 were built or converted. The RB-36E was the same conversion applied to the YB-36 and 21 B-36As, and ten aircraft became GRB-36D carriers for the FICON parasite-fighter project."
+    },
+    {
+      "code": "B-36F / RB-36F",
+      "desc": "The first version with the 3,800 hp R-4360-53 engine, which every later B-36 also used. 34 bombers and 24 RB-36F reconnaissance aircraft were built. One RB-36F, JRB-36F 49-2707, was the carrier for the FICON trials and the later Tom-Tom project, in which RF-84F fighters coupled to the bomber's wingtips."
+    },
+    {
+      "code": "B-36H / RB-36H / NB-36H",
+      "desc": "The most-built version, with an improved flight deck: 83 bombers and 73 RB-36H reconnaissance aircraft, the last delivered in September 1953. One B-36H damaged in the 1952 Carswell tornado became the NB-36H, which carried a working 1-megawatt reactor on 47 flights between 1955 and 1957. The only surviving RB-36H is at the Castle Air Museum."
+    },
+    {
+      "code": "B-36J",
+      "desc": "The final production version, with stronger landing gear and extra fuel. 33 were built, and the last 14 were completed as Featherweight III aircraft with only the tail turret, a smaller crew and a 410,000 lb gross weight. The last B-36 built, 52-2827, was accepted on 14 August 1954 and is now displayed at the Pima Air & Space Museum."
+    },
+    {
+      "code": "XC-99 / YB-60",
+      "desc": "Two derivatives that did not enter production. The XC-99 was a double-deck cargo version that first flew on 24 November 1947 and could carry 400 troops or 100,000 lb; one was built and it flew until 1957. The YB-60 was an all-jet, swept-wing B-36 with eight J57 engines that reached 508 mph, but testing ended in January 1953 after 66 flight hours, and both airframes were scrapped in 1954."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force (7th Bomb Wing)",
+      "role": "First Operational Wing",
+      "status": "Retired",
+      "since": "1948",
+      "fleetSize": "38 by December 1950",
+      "homeBase": "Carswell AFB, Fort Worth, Texas (1948-1958)"
+    },
+    {
+      "name": "United States Air Force (11th Bomb Wing)",
+      "role": "Bomb Wing",
+      "status": "Retired",
+      "since": "1948",
+      "fleetSize": "Not published by wing",
+      "homeBase": "Carswell AFB, Fort Worth, Texas (1948-1957)"
+    },
+    {
+      "name": "United States Air Force (28th Strategic Reconnaissance Wing)",
+      "role": "Strategic Reconnaissance",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "Received the first RB-36D on 3 June 1950; RB-36s flew with five reconnaissance wings",
+      "homeBase": "Ellsworth AFB, Rapid City, South Dakota"
+    },
+    {
+      "name": "United States Air Force (99th Strategic Reconnaissance Wing)",
+      "role": "Reconnaissance & FICON Operations",
+      "status": "Retired",
+      "since": "1951",
+      "fleetSize": "Flew the GRB-36D FICON carriers, 10 of which were converted, with RF-84K fighters in 1955-1956",
+      "homeBase": "Fairchild AFB, Washington (1951-1956)"
+    },
+    {
+      "name": "United States Air Force (other Strategic Air Command wings)",
+      "role": "Bomb & Reconnaissance Wings",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "384 B-36s and RB-36s were built for eleven SAC wings: also the 6th, 42nd, 92nd and 95th Bomb Wings and the 5th, 9th and 72nd Strategic Reconnaissance Wings",
+      "homeBase": "Walker AFB, New Mexico; Loring AFB, Maine; Fairchild AFB, Washington; Biggs AFB, Texas; Travis AFB, California; Ramey AFB, Puerto Rico"
+    }
+  ],
+  "survivors": {
+    "intro": "Four complete B-36s survive, all in the United States. They include the last B-36 built and the aircraft that made the type's final flight.",
+    "airframes": [
+      {
+        "serial": "52-2220",
+        "location": "National Museum of the United States Air Force - Cold War Gallery",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197636/convair-b-36j-peacemaker/",
+        "note": "Served with the 11th, 42nd and 95th Bomb Wings. Made the last flight by any B-36, from Davis-Monthan AFB to Wright-Patterson on 30 April 1959.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "52-2827",
+        "name": "City of Fort Worth",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "url": "https://pimaair.org/museum-aircraft/convair-b-36j/",
+        "note": "The last B-36 built, accepted on 14 August 1954. Made the last operational B-36 flight, to Fort Worth, on 12 February 1959, and was restored there before moving to Pima. Still owned by the National Museum of the USAF.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "52-2217",
+        "location": "Strategic Air Command & Aerospace Museum",
+        "place": "Ashland, Nebraska, United States",
+        "url": "https://www.sacmuseum.org/visit/exhibit/b-36j-peacemaker/",
+        "note": "Delivered on 22 December 1953 and flew with the 7th, 42nd and 95th Bomb Wings. Diverted from the scrapyard to Offutt AFB in April 1959.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "51-13730",
+        "location": "Castle Air Museum",
+        "place": "Atwater, California, United States",
+        "url": "https://castleairmuseum.org/collections/convair-rb-36h-peacemaker/",
+        "note": "The only surviving RB-36H. Served with the 28th Strategic Reconnaissance Wing, was displayed at Chanute AFB from 1957 to 1991, then moved to Castle in 167 pieces on 11 rail cars and rededicated in May 1994.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No B-36 has flown since 30 April 1959, so the type will not appear on Flightradar24. The four survivors are on display in Dayton, Ohio; Ashland, Nebraska; Atwater, California; and Tucson, Arizona."
+  },
+  "lastUpdated": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Added the B-36 Peacemaker - specs, variants, the SAC wings that flew it, the four survivors and the accident history.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Peacemaker",
+    "B36",
+    "B-36J",
+    "RB-36",
+    "NB-36H",
+    "six turnin four burnin",
+    "FICON",
+    "Revolt of the Admirals",
+    "Strategic Air Command",
+    "Convair"
+  ],
+  "article": {
+    "overview": [
+      "The Convair B-36 Peacemaker is a retired American strategic bomber built by Convair at Fort Worth, Texas, for the U.S. Air Force. It is the largest mass-produced piston-engined aircraft ever built, and its 230 ft wingspan is the longest of any combat aircraft. Six pusher radial engines, later joined by four jet engines, gave it a range of up to 10,000 miles. {{ref:wiki-b36}} {{ref:nmusaf-b36}}",
+      "The XB-36 first flew on 8 August 1946, and 384 were built before production ended in August 1954. From 1948 until the B-52 replaced it, the B-36 was Strategic Air Command's main nuclear bomber, and more than a third of the fleet flew as RB-36 reconnaissance aircraft. It never dropped a bomb in combat, and the last operational flight was on 12 February 1959. {{ref:wiki-b36}} {{ref:fas-b36}} {{ref:nmusaf-b36}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "On 11 April 1941 the U.S. Army Air Corps asked for a bomber with a 450 mph top speed, a 45,000 ft ceiling and a 12,000-mile range, able to strike Europe from North America. A revised requirement of 19 August called for a 10,000-mile range and a 4,000-mile radius with 10,000 lb of bombs. Consolidated won the contract on 16 October 1941. The design was first called the B-35 and renumbered to avoid confusion with Northrop's YB-35 flying wing. {{ref:wiki-b36}} {{ref:sac-b36}}",
+          "Wartime priorities slowed the work. The mockup was inspected on 20 July 1942, moving the project from San Diego to Fort Worth cost several months, and changing from a twin to a single tail saved 3,850 lb but added 120 days. A letter of intent for 100 aircraft followed on 23 July 1943. The XB-36 was unveiled on 20 August 1945 and first flew on 8 August 1946, with Beryl Erickson and Gus Green at the controls. Its single-wheel main gear limited it to three airfields until four-wheel bogies replaced it. {{ref:wiki-b36}} {{ref:afm97}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The B-36 has six Pratt & Whitney R-4360 Wasp Major 28-cylinder radials driving 19 ft pusher propellers behind a wing up to 7.5 ft thick. From the B-36D, four General Electric J47 turbojets in underwing pods added thrust, giving the slogan 'six turnin', four burnin''. Crew could crawl inside the wing to reach the engines in flight at lower altitudes. The B-36J's radials gave 3,800 hp each, and its four bomb bays could take up to 86,000 lb with weight restrictions, more than four times the B-29's maximum load. {{ref:wiki-b36}} {{ref:nmusaf-b36}}",
+          "The forward and rear crew compartments were linked by a pressurised tunnel through the bomb bays, which crew travelled lying on a wheeled trolley pulled along by rope. The rear compartment had six bunks and a galley. Training missions often lasted 40 hours, and later aircraft carried a crew of 13. Defensive armament was sixteen 20 mm cannon in eight turrets until the Featherweight programme of 1954 removed six turrets and many crew comforts to save weight; the last 14 B-36Js were built with only the tail guns. {{ref:wiki-b36}} {{ref:nmusaf-bear}}"
+        ]
+      },
+      {
+        "heading": "The Revolt of the Admirals",
+        "paragraphs": [
+          "The B-36 was at the centre of a 1949 dispute between the Air Force and the Navy over which service would deliver nuclear weapons. On 23 April 1949 Defense Secretary Louis Johnson, a former Convair board member, cancelled the Navy's supercarrier USS United States, and Navy Secretary John L. Sullivan resigned in protest. An anonymous document written by Cedric R. Worth circulated that April, calling the B-36 a 'billion-dollar blunder' and alleging conflicts of interest. {{ref:wiki-roa}} {{ref:wiki-b36}}",
+          "The House Armed Services Committee held hearings from 9 to 25 August and from 6 to 19 October 1949. The Air Force kept the B-36, and the Chief of Naval Operations, Admiral Louis Denfeld, was removed on 27 October. By then the bomber had shown its reach: on 7 December 1948 a B-36B flew a non-stop simulated bombing mission to Hawaii and back, more than 8,000 miles in over 35 hours, and in 1949 a B-36 carried two 42,000 lb bombs at Muroc. {{ref:wiki-roa}} {{ref:wiki-7bw}} {{ref:afm59}}"
+        ]
+      },
+      {
+        "heading": "Service with Strategic Air Command",
+        "paragraphs": [
+          "The 7th Bomb Wing at Carswell AFB, Texas, received its first B-36s in June 1948 and had 38 by December 1950, and the 11th Bomb Wing at Carswell followed in December 1948. SAC eventually flew the type in eleven bomb and strategic reconnaissance wings, at bases including Fairchild, Travis, Ellsworth, Loring, Biggs, Walker and Ramey in Puerto Rico. In January 1951 B-36s deployed to England for the first time, to RAF Lakenheath. Until the B-52 arrived, the B-36 was SAC's main nuclear delivery aircraft and the only bomber assigned the Mark 14, 17 and 24 weapons; the 42,000 lb Mark 17 filled two bomb bays. {{ref:wiki-7bw}} {{ref:wiki-b36}}",
+          "More than a third of all B-36s were reconnaissance aircraft. The RB-36D first flew on 18 December 1949, and RB-36s flew from RAF Sculthorpe along the Soviet Arctic, including over Novaya Zemlya, and from Yokota in Japan over the Soviet Far East and Manchuria. In the FICON project, ten GRB-36D carriers launched and recovered RF-84K reconnaissance fighters from their bomb bays, serving with the 99th Strategic Reconnaissance Wing at Fairchild and the 91st Strategic Reconnaissance Squadron at Larson in 1955 and 1956. The last FICON flight was on 27 April 1956. {{ref:wiki-b36}} {{ref:wiki-ficon}}"
+        ]
+      },
+      {
+        "heading": "Operating Problems & the NB-36H",
+        "paragraphs": [
+          "The B-36 was hard to maintain. Each service meant replacing 336 spark plugs, which fouled with lead from the 145-octane fuel, and the aircraft was too big for most hangars, so ground crews worked outdoors in temperatures from -60 to 100 degrees F. In the pusher layout the carburettors iced up, causing rich mixtures and engine fires, which crews summed up as 'two turnin', two burnin', two smokin', two chokin', and two more unaccounted for'. Carburettor icing caused the engine failures that brought down B-36B 44-92075 off British Columbia on 13 February 1950 while it carried a Mark 4 bomb without its nuclear core. {{ref:wiki-b36}} {{ref:wiki-bc50}}",
+          "A tornado at Carswell on 1 September 1952 damaged 83 B-36s, 82 of which were repaired by May 1953. One damaged B-36H, 51-5712, became the NB-36H, which carried a 1-megawatt air-cooled reactor weighing 35,000 lb and a crew of five. It made 47 flights from 17 September 1955 to March 1957, with the reactor running for 89 of its 215 flight hours, while a B-50 flew alongside. The X-6 nuclear-powered bomber it was meant to lead to was never built, and the Aircraft Nuclear Propulsion programme was cancelled in March 1961. {{ref:sss-tornado}} {{ref:wiki-nb36h}}"
+        ]
+      },
+      {
+        "heading": "Retirement & Legacy",
+        "paragraphs": [
+          "The first B-52 reached SAC on 29 June 1955. The 7th Bomb Wing began converting to the B-52 on 1 February 1958 and retired its last B-36 on 30 May. Scrapping by Mar-Pak at Davis-Monthan AFB had begun in February 1956, and by December 1958 only 22 B-36s were operational. B-36J 52-2827, the last built, made the last operational flight on 12 February 1959, to Fort Worth, and 52-2220 made the final B-36 flight on 30 April 1959, to the Air Force Museum at Wright-Patterson AFB. {{ref:fas-b36}} {{ref:wiki-7bw}} {{ref:wiki-b36}} {{ref:nmusaf-b36}}",
+          "Between 1949 and 1957, 32 B-36s were written off. The worst accident was the crash of RB-36H 51-13722 near Ellsworth AFB on 27 August 1954, which killed 26. On 18 March 1953 RB-36H 51-13721 hit a ridge in Newfoundland, killing all 23 aboard, including Brig. Gen. Richard Ellsworth, after whom the base was renamed. On 22 May 1957 a Mark 17 fell through the bomb-bay doors of a B-36 approaching Kirtland AFB; only its conventional explosive detonated, leaving a crater 25 ft wide. Four complete B-36s survive, at Dayton, Ashland, Atwater and Tucson. {{ref:wiki-b36}} {{ref:asn-b36}} {{ref:ahf}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-b36",
+      "name": "Convair B-36 Peacemaker",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker"
+    },
+    {
+      "id": "nmusaf-b36",
+      "name": "Convair B-36J Peacemaker",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197636/convair-b-36j-peacemaker/"
+    },
+    {
+      "id": "fas-b36",
+      "name": "B-36 Peacemaker",
+      "publisher": "Federation of American Scientists",
+      "url": "https://nuke.fas.org/guide/usa/bomber/b-36.htm"
+    },
+    {
+      "id": "sac-b36",
+      "name": "B-36J Peacemaker",
+      "publisher": "Strategic Air Command & Aerospace Museum",
+      "url": "https://www.sacmuseum.org/visit/exhibit/b-36j-peacemaker/"
+    },
+    {
+      "id": "afm97",
+      "name": "Airpower Classics: B-36 Peacemaker (February 1997)",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/PDF/MagazineArchive/Magazine%20Documents/1997/February%201997/0297classics.pdf"
+    },
+    {
+      "id": "nmusaf-bear",
+      "name": "Keeping the Bear at Bay",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197648/keeping-the-bear-at-bay/"
+    },
+    {
+      "id": "wiki-roa",
+      "name": "Revolt of the Admirals",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Admirals"
+    },
+    {
+      "id": "wiki-7bw",
+      "name": "7th Bomb Wing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/7th_Bomb_Wing"
+    },
+    {
+      "id": "afm59",
+      "name": "The B-36 (May 1959)",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0559b36/"
+    },
+    {
+      "id": "wiki-ficon",
+      "name": "FICON project",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FICON_project"
+    },
+    {
+      "id": "wiki-bc50",
+      "name": "1950 British Columbia B-36 crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1950_British_Columbia_B-36_crash"
+    },
+    {
+      "id": "sss-tornado",
+      "name": "Today in History, September 1, 1952: Tornadoes Sweep Across Carswell AFB",
+      "publisher": "Super Sabre Society",
+      "url": "https://supersabresociety.com/this_time_in_history/today-in-history-september-1-1952-tornadoes-sweep-across-carswell-afb-83-planes-damaged/"
+    },
+    {
+      "id": "wiki-nb36h",
+      "name": "Convair NB-36H",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Convair_NB-36H"
+    },
+    {
+      "id": "asn-b36",
+      "name": "Convair B-36 occurrences",
+      "publisher": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/asndb/type/b36"
+    },
+    {
+      "id": "ahf",
+      "name": "Broken Arrow Accidents",
+      "publisher": "Atomic Heritage Foundation",
+      "url": "https://ahf.nuclearmuseum.org/ahf/history/broken-arrow-accidents/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Peacemakers in Peace: The Final Surviving Examples of the Convair B-36 - Vintage Aviation News",
+      "url": "https://vintageaviationnews.com/warbird-articles/peacemakers-in-peace-the-final-surviving-examples-of-the-convair-b-36-peacemaker.html"
+    },
+    {
+      "name": "Convair B-36 Peacemaker variants - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker_variants"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1946-08-08",
+      "title": "XB-36 first flight",
+      "tag": "First flight",
+      "summary": "Beryl Erickson and Gus Green flew the XB-36 from Fort Worth, five years after the original 1941 requirement.",
+      "source": "https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker"
+    },
+    {
+      "date": "1948-12-07",
+      "title": "Non-stop simulated bombing mission to Hawaii",
+      "tag": "Record",
+      "summary": "A 7th Bomb Wing B-36B flew from Carswell AFB to Hawaii and back without landing, more than 8,000 miles in over 35 hours.",
+      "source": "https://en.wikipedia.org/wiki/7th_Bomb_Wing"
+    },
+    {
+      "date": "1950-02-13",
+      "title": "B-36B lost off British Columbia with a Mark 4 bomb",
+      "tag": "Broken Arrow",
+      "summary": "Carburettor icing caused engine failures on 44-92075, flying from Eielson AFB to Carswell. The Mark 4 bomb, without its nuclear core, was dropped and its explosive detonated over the sea; the crew bailed out near Princess Royal Island and the aircraft hit Mount Kologet. 5 of the 17 aboard died.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/1950_British_Columbia_B-36_crash"
+    },
+    {
+      "date": "1951-05-06",
+      "title": "B-36D crash at Kirtland AFB",
+      "tag": "Landing accident",
+      "summary": "7th Bomb Wing B-36D 49-2660 crashed while landing in high winds at Kirtland AFB, New Mexico. 23 of the 25 aboard were killed.",
+      "fatalities": 23,
+      "source": "https://aviation-safety.net/wikibase/59313"
+    },
+    {
+      "date": "1952-09-01",
+      "title": "Tornado strikes Carswell AFB",
+      "tag": "Ground damage",
+      "summary": "A tornado damaged 83 B-36s at Carswell and the neighbouring Convair plant. 82 were repaired by May 1953, and one became the NB-36H. Nobody was injured.",
+      "fatalities": 0,
+      "source": "https://supersabresociety.com/this_time_in_history/today-in-history-september-1-1952-tornadoes-sweep-across-carswell-afb-83-planes-damaged/"
+    },
+    {
+      "date": "1953-03-18",
+      "title": "RB-36H crash in Newfoundland",
+      "tag": "Controlled flight into terrain",
+      "summary": "RB-36H 51-13721 hit a ridge at Burgoyne's Cove, killing all 23 aboard, including Brig. Gen. Richard Ellsworth.",
+      "fatalities": 23,
+      "source": "https://aviation-safety.net/wikibase/178829"
+    },
+    {
+      "date": "1954-08-27",
+      "title": "RB-36H crash near Ellsworth AFB",
+      "tag": "Crash",
+      "summary": "RB-36H 51-13722 of the 28th Strategic Reconnaissance Wing crashed 2 miles northwest of Ellsworth AFB, killing 26, the highest toll in any B-36 accident.",
+      "fatalities": 26,
+      "source": "https://aviation-safety.net/asndb/type/b36"
+    },
+    {
+      "date": "1955-09-17",
+      "title": "NB-36H first flight",
+      "tag": "Test milestone",
+      "summary": "The B-36 converted to carry a working nuclear reactor made the first of 47 test flights, which ran until March 1957.",
+      "source": "https://en.wikipedia.org/wiki/Convair_NB-36H"
+    },
+    {
+      "date": "1957-05-22",
+      "title": "Mark 17 dropped near Kirtland AFB",
+      "tag": "Broken Arrow",
+      "summary": "A Mark 17 nuclear bomb fell through the bomb-bay doors of a B-36 approaching Kirtland AFB. The nuclear core was stored separately, and only the conventional explosive detonated.",
+      "fatalities": 0,
+      "source": "https://ahf.nuclearmuseum.org/ahf/history/broken-arrow-accidents/"
+    },
+    {
+      "date": "1959-02-12",
+      "title": "Last operational flight",
+      "tag": "Retirement",
+      "summary": "B-36J 52-2827, the last B-36 built, flew from Biggs AFB to Amon Carter Field, Fort Worth, for display.",
+      "source": "https://pimaair.org/museum-aircraft/convair-b-36j/"
+    },
+    {
+      "date": "1959-04-30",
+      "title": "Final B-36 flight",
+      "tag": "Retirement",
+      "summary": "B-36J 52-2220 flew from Davis-Monthan AFB to Wright-Patterson AFB for the Air Force Museum, the last flight by any B-36.",
+      "source": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197636/convair-b-36j-peacemaker/"
+    }
+  ]
+}

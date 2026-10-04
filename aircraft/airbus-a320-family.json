@@ -143,12 +143,12 @@
   "changelog": [
     {
       "date": "2026-09-08",
-      "change": "Entry created - full article, specifications, variants and incident log written from Airbus, Wikipedia, FlightGlobal, EASA and named aviation-press sources.",
+      "change": "New entry for the Airbus A320 Family - history, specs, variants and accident record. Sources: Airbus, Wikipedia, FlightGlobal, EASA and named aviation-press sources.",
       "author": "planesdb"
     },
     {
       "date": "2026-09-08",
-      "change": "Operators: replaced the initial four-row list with a properly researched roster - corrected fleet figures for American, IndiGo, easyJet and Air France against current 2026 data, added China Eastern Airlines (the type's second-largest operator, previously omitted), and added a combined row for the wider 375+ operator base with its real aggregate fleet size, per the project's operators-research standard.",
+      "change": "Operators: replaced the original four-row list with a fuller roster - corrected fleet figures for American, IndiGo, easyJet and Air France against current 2026 data, added China Eastern Airlines (the second-largest operator, previously missing), and added a combined row for the other 375+ operators with their total fleet size.",
       "author": "planesdb"
     }
   ],

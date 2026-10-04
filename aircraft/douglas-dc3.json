@@ -263,42 +263,42 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "change": "Expanded the article with full sources and a timeline.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-11",
-      "change": "Renamed the article's final section heading from 'Legacy' to 'Current Status & Outlook' - 'Legacy' implied the aircraft was retired, which doesn't fit an in-service type.",
+      "change": "Renamed the last article section to 'Current Status & Outlook', since the aircraft is still in service.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-17",
-      "change": "Temporarily merged with the C-47 Dakota entry (id douglas-c47-dakota) into a single combined DC-3/C-47 article.",
+      "change": "Temporarily merged with the C-47 Dakota into one DC-3/C-47 article.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-22",
-      "change": "Split back into two dedicated entries per user request: this entry is now civilian-focused (DC-3 airline history, civil production and operators), with the C-47/Dakota's military service restored as its own separate entry (data/aircraft/douglas-c47-dakota.json). numberBuilt, categories, operators, incidents and the article were all rewritten to cover only the civilian DC-3 story.",
+      "change": "Split back into two entries - this one now covers the civilian DC-3 (airline history, civil production and operators) and the C-47 Dakota has its own page again. Numbers built, operators, accidents and the article were rewritten to match.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Tightened up the overview - a clearer opening and less padding in the sections. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Refreshed seedNews with verified, real-URL stories, replacing fabricated/unsourced placeholder entries where present.",
+      "change": "Updated the news links with current stories.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Fixed hero photo credit mismatch (same underlying photo/media record as the C-47 Dakota entry) - replaced an inaccurate photographer credit with a generic Wikimedia Commons credit.",
+      "change": "Changed the main photo credit to Wikimedia Commons (same photo as the C-47 Dakota entry).",
       "author": "d4nny6"
     },
     {
       "date": "2026-09-09",
-      "change": "Gave every operator row a real scale figure in place of the vague \"Historical\" placeholders, and added KLM as the largest pre-war European operator.",
+      "change": "Gave every operator a real fleet figure instead of 'Historical', and added KLM as the largest pre-war European operator.",
       "author": "planesdb"
     }
   ],

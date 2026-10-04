@@ -136,12 +136,12 @@
   "changelog": [
     {
       "date": "2026-09-08",
-      "change": "Entry created - full article, specifications, variants, survivors and incident log written from Wikipedia, FAS, Aviationist, TWZ, 19FortyFive and named aviation-press sources.",
+      "change": "Grumman F-14 Tomcat added - history, specs, variants, survivors and accident record. Sources: Wikipedia, FAS, Aviationist, TWZ, 19FortyFive and named aviation-press sources.",
       "author": "planesdb"
     },
     {
       "date": "2026-09-08",
-      "change": "Operators: corrected US Navy fleetSize from a placeholder 0 to its real total-delivered figure (632, per USNI), per the project's operators-research standard.",
+      "change": "Operators: corrected the US Navy fleet size from 0 to the total delivered, 632 aircraft (per USNI).",
       "author": "planesdb"
     }
   ],

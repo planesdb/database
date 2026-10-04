@@ -349,12 +349,12 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry brought into the changelog system during the July 2026 database-wide consistency pass; gold-standard content previously established.",
+      "change": "Changelog started - the entry itself was written earlier.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Applied house style to the Overview article: set article.style to \"plain\", rewrote the lede to the Wikipedia-style definitional standard (type/manufacturer/operator first, facts only, no narrative framing), and trimmed narrative \"waffle\" from section-body prose per the \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Tightened up the overview - a clearer opening and less padding in the sections. Facts and sources unchanged.",
       "author": "d4nny6"
     }
   ],

@@ -288,27 +288,27 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "change": "Expanded the article with full sources and a timeline.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "change": "Updated the overview layout and refreshed the news links.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "change": "Rewrote the opening of the overview so it says what the aircraft is straight away. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Cut some padding from the article sections. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-09-09",
-      "change": "Rebuilt the operators roster from the full operators list - added the Taiwanese, Japanese, Spanish, South Korean and Australian fleets, gave every row a real delivered figure, and folded the remaining ~30 export customers into a combined row. Attached a previously uncited reference.",
+      "change": "Rebuilt the operators roster from the full operators list - added the Taiwanese, Japanese, Spanish, South Korean and Australian fleets, gave every row a real delivered figure, and folded the remaining ~30 export customers into a combined row. Added a missing source.",
       "author": "planesdb"
     }
   ],

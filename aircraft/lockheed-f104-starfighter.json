@@ -1,0 +1,604 @@
+{
+  "name": "F-104 Starfighter",
+  "fullName": "Lockheed F-104 Starfighter",
+  "manufacturer": "Lockheed",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Interceptor & Fighter-Bomber",
+  "tagline": "The Lockheed F-104 Starfighter is a single-seat, single-engine Mach 2 fighter designed by Kelly Johnson's Skunk Works, and the first aircraft to hold the world speed, altitude and time-to-climb records at the same time. 2,578 were built, most of them under licence for NATO air forces, and its accident record in West Germany became a national scandal.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "On 14 December 1959 Capt. Joe Jordan took an F-104C to 103,389 ft, the first aircraft to climb past 100,000 ft under its own power.",
+    "Lockheed marketed it as the 'missile with a man in it'.",
+    "The F-104 was the first aircraft fitted with the M61 Vulcan rotary cannon.",
+    "Early F-104s had a downward-firing ejection seat, which was linked to 21 pilot deaths before it was replaced.",
+    "West Germany lost 292 of its 916 Starfighters between 1961 and 1989, and 116 pilots were killed.",
+    "Darryl Greenamyer's 'Red Baron', an F-104 built from scrap parts over 13 years, set a 3 km speed record of 988.26 mph in 1977 that still stands."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the F-104G, the most-built version, mainly from Wikipedia's specification table and This Day in Aviation. The cruise speed is the National Museum of the U.S. Air Force's figure for the F-104C. Sources differ: afterburning thrust is given as 15,600 or 15,800 lbf, the ceiling as 50,000 or 58,000 ft, and the span as 21 ft 9 in to 22 ft depending on whether tip stores are counted. The unit cost is the F-104G flyaway figure from GlobalSecurity, which gives no year; it has been CPI-adjusted from 1962, the middle of F-104G production. The retirement date is the Italian Air Force's withdrawal of the last military Starfighters.",
+    "maxSpeed": {
+      "mph": 1328,
+      "text": "1,154 kn (1,328 mph / 2,137 km/h)"
+    },
+    "cruiseSpeed": "575 mph (925 km/h) (F-104C)",
+    "range": {
+      "miles": 1630,
+      "text": "1,630 mi (2,623 km, 1,420 nmi) ferry; 420 mi (670 km) combat radius"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft (15,240 m)"
+    },
+    "wingspan": {
+      "ft": 21.75,
+      "text": "21 ft 9 in (6.63 m)"
+    },
+    "length": {
+      "ft": 54.7,
+      "text": "54 ft 8 in (16.66 m)"
+    },
+    "height": {
+      "ft": 13.5,
+      "text": "13 ft 6 in (4.11 m)"
+    },
+    "weight": "empty: 14,000 lb (6,350 kg); MTOW: 29,027 lb (13,166 kg)",
+    "engines": "1 x General Electric J79-GE-11A afterburning turbojet, 10,000 lbf (44.5 kN) dry and 15,800 lbf (70.3 kN) with afterburner",
+    "armament": "One 20 mm M61 Vulcan rotary cannon with 725 rounds; up to four AIM-9 Sidewinder missiles; bombs, rockets or a single nuclear weapon on centreline and underwing pylons",
+    "crew": "1 (2 in the F-104B, F-104D, TF-104G and CF-104D trainers)",
+    "capacity": "Up to 4,000 lb (1,800 kg) of external stores",
+    "firstFlight": {
+      "date": "1954-03-04",
+      "year": 1954
+    },
+    "serviceEntryDate": "1958-02-26",
+    "retiredDate": "2004-10-31",
+    "numberBuilt": 2578,
+    "unitCost": {
+      "usd": 15750000,
+      "text": "$15.8M in 2026 dollars (CPI-adjusted)",
+      "inflationText": "Originally $1.42M (F-104G, early 1960s)"
+    },
+    "combatLosses": "In Vietnam the USAF lost 14 F-104s to all causes in 5,206 sorties between 1965 and 1967, including one shot down by a Chinese J-6 on 20 September 1965. Pakistan lost at least two to Indian MiG-21s in December 1971, and Taiwan lost one aircraft, whose pilot went missing, in the air battle of 13 January 1967."
+  },
+  "variants": [
+    {
+      "code": "XF-104 / YF-104A",
+      "desc": "Two XF-104 prototypes with the Wright J65 engine, the first flown by Tony LeVier on 4 March 1954; both were later lost in test accidents, in 1955 and 1957. The 17 YF-104A pre-production aircraft introduced the General Electric J79 and first flew on 17 February 1956. YF-104As set the 1958 world altitude and speed records."
+    },
+    {
+      "code": "F-104A / F-104B / NF-104A",
+      "desc": "The first production interceptor for Air Defense Command: 153 single-seat F-104As and 26 two-seat F-104Bs. Orders were cut from 722 after early engine and gun problems, and most went to the Air National Guard within a year. Three F-104As became rocket-boosted NF-104As with a 6,000 lbf Rocketdyne motor, reaching 120,800 ft in December 1963."
+    },
+    {
+      "code": "F-104C / F-104D",
+      "desc": "The Tactical Air Command fighter-bomber version: 77 F-104Cs and 21 two-seat F-104Ds were built. The 479th Tactical Fighter Wing at George AFB flew them from 1958, and F-104Cs served in Vietnam from 1965 to 1967. An F-104C set the 103,389 ft altitude record in December 1959."
+    },
+    {
+      "code": "F-104G / RF-104G / TF-104G",
+      "desc": "The multi-role 'Super Starfighter' developed for West Germany, with a strengthened airframe, larger tail, NASARR radar and the first operational inertial navigation system. 1,122 F-104Gs, 189 RF-104G reconnaissance aircraft and 220 TF-104G trainers were built, mostly by European consortia in Germany, the Netherlands, Belgium and Italy, for NATO air forces and Taiwan."
+    },
+    {
+      "code": "CF-104 / CF-104D",
+      "desc": "The Canadian version, built by Canadair with an Orenda-built J79 and used mainly for low-level nuclear strike and reconnaissance in Europe. 200 single-seat CF-104s and 38 two-seat CF-104Ds were built, entering service in March 1962. Canada had 110 serious accidents and lost 37 pilots over 25 years, and surplus aircraft went to Norway and Denmark."
+    },
+    {
+      "code": "F-104J / F-104DJ",
+      "desc": "The Japanese interceptor version, chosen after heavy lobbying by Lockheed. Of the 210 F-104Js, Lockheed built 3, Mitsubishi assembled 29 from components and built the other 178, and 20 F-104DJ trainers followed. They served from October 1962 to 1986 with only three lost, and 36 were later passed to Taiwan."
+    },
+    {
+      "code": "F-104S / ASA / ASA-M",
+      "desc": "The last and most powerful version, built by Fiat and Aeritalia for Italy and Turkey with the J79-GE-19 engine, nine hardpoints and AIM-7 Sparrow missiles. It first flew on 22 December 1966. Italy upgraded 147 to F-104S-ASA standard from 1985 and 64 more aircraft to ASA-M standard from 1998, and these were the last Starfighters in military service, retired in October 2004."
+    }
+  ],
+  "operators": [
+    {
+      "name": "German Air Force",
+      "role": "Largest Operator (with the Navy's Marineflieger)",
+      "status": "Retired",
+      "since": "1960",
+      "fleetSize": "916 (749 F/RF-104G, 137 TF-104G, 30 F-104F); 292 lost",
+      "homeBase": "Bases across West Germany; operational until 16 October 1987, test flying until 22 May 1991"
+    },
+    {
+      "name": "Turkish Air Force",
+      "role": "Fighter & Strike",
+      "status": "Retired",
+      "since": "1963",
+      "fleetSize": "More than 400, including 40 F-104S",
+      "homeBase": "Retired 1995"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Interceptor & Strike",
+      "status": "Retired",
+      "since": "1963",
+      "fleetSize": "360, including 205 F-104S; 137 lost",
+      "homeBase": "Last unit 10 Gruppo, 9 Stormo, Grazzanise; retired October 2004"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Interceptor & Fighter-Bomber",
+      "status": "Retired",
+      "since": "1958",
+      "fleetSize": "296 procured",
+      "homeBase": "Hamilton AFB (83rd FIS) and George AFB (479th TFW), California; Air National Guard until 1975; German-owned trainers at Luke AFB until 1983"
+    },
+    {
+      "name": "Republic of China Air Force",
+      "role": "Interceptor",
+      "status": "Retired",
+      "since": "1960",
+      "fleetSize": "244 delivered according to Joe Baugher; Wikipedia gives 282",
+      "homeBase": "Taiwan; retired 1997-1998"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Nuclear Strike & Reconnaissance",
+      "status": "Retired",
+      "since": "1962",
+      "fleetSize": "238 (200 CF-104, 38 CF-104D)",
+      "homeBase": "Bases in West Germany and Canada; retired 1986-87"
+    },
+    {
+      "name": "Japan Air Self-Defense Force",
+      "role": "Interceptor",
+      "status": "Retired",
+      "since": "1962",
+      "fleetSize": "230 (210 F-104J, 20 F-104DJ)",
+      "homeBase": "Japan; retired 1986"
+    },
+    {
+      "name": "Hellenic Air Force",
+      "role": "Fighter & Strike",
+      "status": "Retired",
+      "since": "1964",
+      "fleetSize": "146",
+      "homeBase": "Greece; retired March 1993"
+    },
+    {
+      "name": "Royal Netherlands Air Force",
+      "role": "Fighter & Strike",
+      "status": "Retired",
+      "since": "1960s",
+      "fleetSize": "138; many later passed to Turkey",
+      "homeBase": "Netherlands"
+    },
+    {
+      "name": "Belgian Air Force",
+      "role": "Fighter & Strike",
+      "status": "Retired",
+      "since": "1963",
+      "fleetSize": "113 (101 F-104G, 12 TF-104G); 41 lost",
+      "homeBase": "Belgium; 14 February 1963 to 19 September 1983"
+    },
+    {
+      "name": "Other air forces",
+      "role": "Fighter & Interceptor",
+      "status": "Retired",
+      "since": "1960s",
+      "fleetSize": "Royal Danish Air Force 51, Royal Norwegian Air Force 41, Royal Jordanian Air Force 33, Spanish Air Force 21 (no accident losses), Pakistan Air Force about 16",
+      "homeBase": "Denmark (Aalborg, 1964-1986), Norway (Bodo, to 1982), Jordan (1967-1977), Spain (1965-1972), Pakistan (No. 9 Squadron, to 1972)"
+    },
+    {
+      "name": "NASA",
+      "role": "Research & Chase Aircraft",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "11 to 12 aircraft, including three purpose-built F-104Ns; more than 18,000 flights",
+      "homeBase": "Dryden Flight Research Center, Edwards AFB, California; last flight 31 January 1994"
+    },
+    {
+      "name": "Starfighters Space",
+      "role": "Civil Flight Operations & Air Launch",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "7 to 8 privately owned F-104s, including restored Italian F-104S MM6734 (N993SF)",
+      "homeBase": "Kennedy Space Center, Florida"
+    }
+  ],
+  "survivors": {
+    "intro": "Hundreds of F-104s survive, more than 100 of them in Italy alone. A handful still fly in private hands in the United States and Norway.",
+    "airframes": [
+      {
+        "serial": "55-2961",
+        "name": "NASA 818",
+        "location": "Smithsonian National Air and Space Museum",
+        "place": "Washington, D.C., United States",
+        "url": "https://si.edu/object/lockheed-f-104a-starfighter:nasm_A19761017000",
+        "note": "YF-104A/F-104A acquired by NACA on 23 August 1956. Flew 1,439 research flights over 19 years, with pilots including Neil Armstrong, until 18 November 1975.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "56-0914",
+        "name": "F-104C",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/article/198067/lockheed-f-104c-starfighter/",
+        "note": "Flown by the winner of the 1962 William Tell weapons competition; at the museum since August 1975, alongside F-104A 56-0754.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "56-0934",
+        "name": "F-104C",
+        "location": "The Museum of Flight",
+        "place": "Seattle, Washington, United States",
+        "url": "https://www.museumofflight.org/exhibits-and-events/aircraft/lockheed-f-104c-starfighter",
+        "note": "Displayed in NASA markings, on loan from the National Museum of the USAF.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "56-0756",
+        "name": "NF-104A",
+        "location": "Nevada County Air Park",
+        "place": "Grass Valley, California, United States",
+        "url": "https://en.wikipedia.org/wiki/Lockheed_NF-104A",
+        "note": "One of three rocket-boosted astronaut trainers; its rocket motor exploded in June 1971. A second NF-104A, 56-0760, stands on a pole outside the Test Pilot School at Edwards AFB.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "MM6734 (N993SF)",
+        "name": "F-104S-ASA/M",
+        "location": "Starfighters Space",
+        "place": "Kennedy Space Center, Florida, United States",
+        "url": "https://theaviationist.com/2023/05/01/almost-20-years-since-its-last-flight-former-italian-air-force-f-104s-asa-m-flies-again-in-florida/",
+        "note": "Delivered to Italy in 1970 and stored at Pratica di Mare from 2005. Restored and flown again on 27 April 2023. Airworthy.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "12700",
+        "name": "F-104A",
+        "location": "Canada Aviation and Space Museum",
+        "place": "Ottawa, Ontario, Canada",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_F-104_Starfighters",
+        "note": "Set a Canadian altitude record of 100,110 ft on 14 December 1967.",
+        "countryCode": "ca",
+        "country": "Canada"
+      },
+      {
+        "serial": "20+37",
+        "name": "F-104G",
+        "location": "Luftwaffenmuseum (German Air Force Museum)",
+        "place": "Berlin, Germany",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_F-104_Starfighters",
+        "note": "Former Luftwaffe F-104G at the German Air Force museum.",
+        "countryCode": "de",
+        "country": "Germany"
+      },
+      {
+        "serial": "D-8022",
+        "name": "F-104G",
+        "location": "Nationaal Militair Museum",
+        "place": "Soesterberg, Netherlands",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_F-104_Starfighters",
+        "note": "F-104G on display at the Dutch national military museum.",
+        "countryCode": "nl",
+        "country": "Netherlands"
+      },
+      {
+        "serial": "R-756",
+        "name": "F-104G",
+        "location": "Midland Air Museum",
+        "place": "Coventry, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_F-104_Starfighters",
+        "note": "F-104G on display in the UK.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "76-8706",
+        "name": "F-104J",
+        "location": "Hasegawa Corporation headquarters",
+        "place": "Yaizu, Japan",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_F-104_Starfighters",
+        "note": "Mounted on the roof of the model-kit maker's head office.",
+        "countryCode": "jp",
+        "country": "Japan"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "F104",
+    "howToFind": "The few airworthy F-104s are privately owned. Starfighters Space flies from Kennedy Space Center in Florida, using registrations such as N104RB, N104RN and N993SF, and Norway's CF-104D flies as LN-STF. Searching those registrations is the best way to catch one."
+  },
+  "lastUpdated": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Added the F-104 Starfighter - records, NATO and Asian service, the German losses, variants, the full list of air forces and a selection of survivors.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Starfighter",
+    "F104",
+    "F-104G",
+    "F-104S",
+    "CF-104",
+    "Widowmaker",
+    "Zipper",
+    "missile with a man in it",
+    "Kelly Johnson",
+    "Skunk Works"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed F-104 Starfighter is an American single-seat, single-engine supersonic interceptor and fighter-bomber, designed by Clarence 'Kelly' Johnson at Lockheed's Skunk Works. It was built for speed and climb, with a very small, thin wing and a General Electric J79 engine, and it was the first aircraft to hold the world speed, altitude and time-to-climb records at the same time. {{ref:wiki-f104}} {{ref:nmusaf-f104c}}",
+      "The XF-104 first flew on 4 March 1954, and 2,578 were built, most of them under licence in Europe, Canada and Japan. The US Air Force flew the type only briefly, but 14 other countries operated it, and Italy retired the last military Starfighters in October 2004. Its accident rate, above all in West Germany, where 292 of 916 aircraft were lost, made it one of the most controversial fighters of the Cold War. {{ref:wiki-f104}} {{ref:wiki-f104-ops}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "In November 1951 Kelly Johnson visited Korea to interview American fighter pilots, who were facing the MiG-15 and asked for a small, simple aircraft with high performance. Johnson studied more than 100 layouts, ranging from 8,000 to 50,000 lb, and settled on a 12,000 lb design. Lockheed presented the concept to the Air Force on 5 November 1952, ahead of rival proposals from Republic, North American and Northrop, and won a contract for two prototypes on 12 March 1953. {{ref:wiki-f104}} {{ref:baugher-xf104}}",
+          "Tony LeVier flew the first XF-104, powered by a Wright J65, on 4 March 1954. Both prototypes were later lost, one during gun trials on 14 April 1955 and the other to tail flutter on 11 July 1957, and both pilots ejected. The 17 YF-104As that followed introduced the J79 engine and first flew on 17 February 1956. The first production F-104A was delivered on 28 January 1958, and the 83rd Fighter-Interceptor Squadron at Hamilton AFB became operational on 26 February. {{ref:wiki-f104}} {{ref:baugher-xf104}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The F-104's straight, unswept wing has a thickness of just 3.36 percent of its chord. It spans less than 22 ft, has a leading-edge sweep of 26 degrees and is mounted with 10 degrees of anhedral. To keep landing speeds manageable, engine air was blown over the flaps, which cut landing speed by more than 30 knots. The horizontal tail sits on top of the fin as a T-tail to limit inertia coupling at high speed. {{ref:wiki-f104}}",
+          "The F-104 was the first aircraft armed with the 20 mm M61 Vulcan rotary cannon. Early aircraft had a downward-firing Stanley C-1 ejection seat, linked to 21 pilot deaths, which was replaced by the upward-firing Lockheed C-2 and later, on export aircraft, by the Martin-Baker Mk.7 zero-zero seat. The J79 was a recurring problem: four F-104s were lost to engine failures in Vietnam between January and May 1967 alone. The F-104G for NATO added a strengthened airframe, a larger tail, Autonetics NASARR radar and the Litton LN-3, the first inertial navigation system in operational service. {{ref:wiki-f104}} {{ref:gs-f104g}}"
+        ]
+      },
+      {
+        "heading": "Records & US Service",
+        "paragraphs": [
+          "On 7 May 1958 Maj. Howard Johnson took a YF-104A to 91,243 ft, and on 16 May Capt. Walter Irwin set a world speed record of 1,404 mph over a course at Edwards AFB. In December 1958 two F-104A pilots set seven time-to-climb records, reaching 25,000 m in 266 seconds, and on 14 December 1959 Capt. Joe Jordan flew an F-104C to 103,389 ft, the first aircraft to pass 100,000 ft under its own power. Jacqueline Cochran later flew a TF-104G at 1,429.3 mph on 11 May 1964. {{ref:wiki-f104}} {{ref:ifs-records}} {{ref:tdia-1959}}",
+          "Air Defense Command's F-104As were grounded within three months of entering service because of J79 and gun problems, and orders fell from 722 to 170; most went to the Air National Guard within a year. F-104s deployed to Taiwan during the 1958 Taiwan Strait crisis and to Europe during the 1961 Berlin crisis. In Vietnam, F-104Cs flew 5,206 sorties between April 1965 and July 1967, mostly escort and patrol, without an air-to-air kill and with 14 aircraft lost to all causes, before F-4s replaced them. On 20 September 1965 Capt. Philip Smith was shot down by a Chinese J-6 and two more F-104s collided while searching for him, and two were lost to SA-2 missiles on 1 August 1966. {{ref:wiki-f104}}"
+        ]
+      },
+      {
+        "heading": "The F-104G & NATO",
+        "paragraphs": [
+          "West Germany chose the F-104 in October 1958, and the F-104G became the basis of the largest international manufacturing programme of its time. Four European groups built it: 210 in southern Germany, 350 by a northern German and Dutch group, 189 in Belgium and 200 in Italy, while Canadair built 200 CF-104s and 110 F-104Gs and Mitsubishi built the F-104J. BMW, FN and Alfa Romeo built 1,225 J79 engines under licence. In Germany alone the Luftwaffe and Navy took 916 aircraft and flew them from 1960 until 1987, with test flying until 22 May 1991. {{ref:wiki-f104}} {{ref:wiki-f104-ops}}",
+          "The sale was tied to one of Lockheed's bribery scandals. The US Senate's Church Committee found in 1975-76 that Lockheed had paid $22 million in bribes abroad. Prince Bernhard of the Netherlands took about $1.1 million to favour the F-104 over the Mirage 5 and resigned as Inspector-General of the armed forces on 26 August 1976. A lobbyist alleged that German defence minister Franz Josef Strauss received at least $10 million, but this was never corroborated and Strauss sued for slander. {{ref:wiki-bribery}}"
+        ]
+      },
+      {
+        "heading": "Safety Record",
+        "paragraphs": [
+          "West Germany lost 292 of its 916 F-104s between 1961 and 1989, and 116 pilots were killed. On 19 June 1962 four F-104Gs of an aerobatic team crashed together near Norvenich, killing all four pilots, and in 1965 there were 27 accidents and 17 deaths. The press called the aircraft the 'Witwenmacher', or widowmaker. Air Force chief Werner Panitzki was dismissed on 25 August 1966 after calling the purchase purely political, and Johannes Steinhoff replaced him. In the United States the lawyer Melvin Belli later won $7 million for German 'Starfighter widows'. A shortage of about 10,000 trained mechanics contributed to the losses. {{ref:de-affaere}} {{ref:wiki-f104}}",
+          "Other operators had similar problems. Italy lost 137 of its 360 aircraft, and Canada recorded 110 serious accidents and 37 pilot deaths over 25 years of low-level flying. Spain lost none of its 21 aircraft in 17,000 hours, and Japan lost only three of 230. In the United States, Capt. Iven Kincheloe was killed at Edwards AFB on 26 July 1958 after ejecting from an F-104A at low level with the downward seat, and on 8 June 1966 a NASA F-104N flown by Joe Walker collided with the second XB-70 Valkyrie, killing Walker and the XB-70's co-pilot, Maj. Carl Cross. {{ref:wiki-f104-ops}} {{ref:wiki-cf104}} {{ref:wiki-kincheloe}} {{ref:nasa-xb70}}"
+        ]
+      },
+      {
+        "heading": "Wars Abroad, Retirement & Civil Flying",
+        "paragraphs": [
+          "Pakistan's No. 9 Squadron flew F-104s in the wars with India in 1965 and 1971. Pakistan claimed a Mystere IV and a Canberra in 1965, while in December 1971 Indian MiG-21s shot down Sqn Ldr Mervyn Middlecoat and Flt Lt Samad Changezi, and Pakistan retired the type in 1972. On 13 January 1967 Taiwanese F-104Gs shot down two Chinese MiG-19s near Kinmen, with one F-104 pilot missing; it was the only combat of Taiwan's Starfighter fleet, which served until 1997-98. {{ref:wiki-f104}} {{ref:wiki-middlecoat}} {{ref:taipei-times}} {{ref:baugher-taiwan}}",
+          "Italy's Aeritalia-built F-104S, with a more powerful J79 and Sparrow missiles, first flew on 22 December 1966. After the ASA and ASA-M upgrades it remained in service until October 2004, the last military Starfighters anywhere. The Florida company Starfighters Space, founded in 1995 and based at Kennedy Space Center, flies seven or eight ex-military F-104s and in 2023 returned an Italian F-104S-ASA/M, MM6734, to the air after 18 years in storage. NASA flew 11 or 12 Starfighters for more than 18,000 research and chase flights, the last on 31 January 1994. {{ref:wiki-f104s}} {{ref:wiki-f104-ops}} {{ref:aviationist-f104s}} {{ref:starfighters-space}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f104",
+      "name": "Lockheed F-104 Starfighter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_F-104_Starfighter"
+    },
+    {
+      "id": "nmusaf-f104c",
+      "name": "Lockheed F-104C Starfighter",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/article/198067/lockheed-f-104c-starfighter/"
+    },
+    {
+      "id": "wiki-f104-ops",
+      "name": "List of Lockheed F-104 Starfighter operators",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Lockheed_F-104_Starfighter_operators"
+    },
+    {
+      "id": "baugher-xf104",
+      "name": "Lockheed XF-104 Starfighter",
+      "publisher": "Joe Baugher",
+      "url": "https://www.joebaugher.com/usaf_fighters/f104_1.html"
+    },
+    {
+      "id": "gs-f104g",
+      "name": "F-104G Starfighter",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/f-104g.htm"
+    },
+    {
+      "id": "ifs-records",
+      "name": "F-104 Records",
+      "publisher": "International F-104 Society",
+      "url": "https://www.i-f-s.nl/f-104-records/"
+    },
+    {
+      "id": "tdia-1959",
+      "name": "14 December 1959",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/14-december-1959/"
+    },
+    {
+      "id": "wiki-bribery",
+      "name": "Lockheed bribery scandals",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_bribery_scandals"
+    },
+    {
+      "id": "de-affaere",
+      "name": "Starfighter-Affäre",
+      "publisher": "Wikipedia (German)",
+      "url": "https://de.wikipedia.org/wiki/Starfighter-Affäre"
+    },
+    {
+      "id": "wiki-cf104",
+      "name": "Canadair CF-104 Starfighter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Canadair_CF-104_Starfighter"
+    },
+    {
+      "id": "wiki-kincheloe",
+      "name": "Iven Carl Kincheloe Jr.",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iven_Carl_Kincheloe_Jr."
+    },
+    {
+      "id": "nasa-xb70",
+      "name": "June 8, 1966",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/image-article/june-8-1966/"
+    },
+    {
+      "id": "wiki-middlecoat",
+      "name": "Mervyn Middlecoat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mervyn_Middlecoat"
+    },
+    {
+      "id": "taipei-times",
+      "name": "Taiwan in Time (8 January 2023)",
+      "publisher": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/feat/archives/2023/01/08/2003792188"
+    },
+    {
+      "id": "baugher-taiwan",
+      "name": "Lockheed F-104 Starfighter with Taiwan",
+      "publisher": "Joe Baugher",
+      "url": "https://www.joebaugher.com/usaf_fighters/f104_26.html"
+    },
+    {
+      "id": "wiki-f104s",
+      "name": "Aeritalia F-104S Starfighter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aeritalia_F-104S_Starfighter"
+    },
+    {
+      "id": "aviationist-f104s",
+      "name": "Almost 20 years since its last flight, former Italian Air Force F-104S-ASA/M flies again in Florida",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2023/05/01/almost-20-years-since-its-last-flight-former-italian-air-force-f-104s-asa-m-flies-again-in-florida/"
+    },
+    {
+      "id": "starfighters-space",
+      "name": "Company",
+      "publisher": "Starfighters Space",
+      "url": "https://starfightersspace.com/company/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "List of surviving Lockheed F-104 Starfighters - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Lockheed_F-104_Starfighters"
+    },
+    {
+      "name": "List of Lockheed F-104 Starfighter variants - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Lockheed_F-104_Starfighter_variants"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1954-03-04",
+      "title": "XF-104 first flight",
+      "tag": "First flight",
+      "summary": "Tony LeVier flew the first prototype, powered by a Wright J65, at Edwards AFB.",
+      "source": "https://www.joebaugher.com/usaf_fighters/f104_1.html"
+    },
+    {
+      "date": "1958-05-16",
+      "title": "World speed record",
+      "tag": "Record",
+      "summary": "Capt. Walter Irwin flew YF-104A 55-2969 at 1,404 mph over a course at Edwards AFB, nine days after a YF-104A had set a world altitude record of 91,243 ft.",
+      "source": "https://www.i-f-s.nl/f-104-records/"
+    },
+    {
+      "date": "1958-07-26",
+      "title": "Iven Kincheloe killed at Edwards",
+      "tag": "Ejection failure",
+      "summary": "The X-2 altitude record holder and selected X-15 pilot ejected from F-104A 56-0772 at low level with the downward-firing seat and was killed.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Iven_Carl_Kincheloe_Jr."
+    },
+    {
+      "date": "1959-12-14",
+      "title": "First aircraft past 100,000 ft",
+      "tag": "Record",
+      "summary": "Capt. Joe Jordan took F-104C 56-0885 to 103,389 ft, the first aircraft to pass 100,000 ft under its own power, and won the Harmon Trophy.",
+      "source": "https://www.thisdayinaviation.com/14-december-1959/"
+    },
+    {
+      "date": "1962-06-19",
+      "title": "Four-ship formation crash near Norvenich",
+      "tag": "Formation crash",
+      "summary": "Four Luftwaffe F-104Gs of an aerobatic formation crashed together while practising, killing all four pilots.",
+      "fatalities": 4,
+      "source": "https://de.wikipedia.org/wiki/Starfighter-Affäre"
+    },
+    {
+      "date": "1963-12-10",
+      "title": "Chuck Yeager ejects from the NF-104A",
+      "tag": "Loss of control",
+      "summary": "After peaking at 108,700 ft, NF-104A 56-0762 entered a flat spin. Yeager ejected at 8,500 ft, the first emergency ejection in a full pressure suit, and survived.",
+      "fatalities": 0,
+      "source": "https://www.check-six.com/Crash_Sites/NF-104A_crash_site.htm"
+    },
+    {
+      "date": "1965-09-20",
+      "title": "F-104C shot down by a Chinese J-6",
+      "tag": "Shot down",
+      "summary": "Capt. Philip E. Smith was shot down by a Chinese J-6, and two more F-104s collided while searching for him.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_F-104_Starfighter"
+    },
+    {
+      "date": "1966-06-08",
+      "title": "NASA F-104N collides with the XB-70",
+      "tag": "Mid-air collision",
+      "summary": "During a photo formation flight, Joe Walker's F-104N was caught in the XB-70's wingtip vortex and struck it. Walker and XB-70 co-pilot Maj. Carl Cross were killed.",
+      "fatalities": 2,
+      "source": "https://www.nasa.gov/image-article/june-8-1966/"
+    },
+    {
+      "date": "1966-08-25",
+      "title": "German Air Force chief dismissed",
+      "tag": "Starfighter crisis",
+      "summary": "Lt Gen Werner Panitzki was dismissed after calling the F-104 purchase purely political, at the height of West Germany's Starfighter crisis.",
+      "source": "https://de.wikipedia.org/wiki/Starfighter-Affäre"
+    },
+    {
+      "date": "1967-01-13",
+      "title": "Taiwanese F-104s shoot down two MiG-19s",
+      "tag": "Air combat",
+      "summary": "Two ROCAF F-104G pilots each shot down a Chinese MiG-19 near Kinmen; a third F-104 pilot, Maj. Yang Ching-tsung, went missing.",
+      "source": "https://www.taipeitimes.com/News/feat/archives/2023/01/08/2003792188"
+    },
+    {
+      "date": "1977-10-24",
+      "title": "Red Baron 3 km speed record",
+      "tag": "Record",
+      "summary": "Darryl Greenamyer flew his home-built RB-104 at 988.26 mph near Tonopah, Nevada, an FAI record that still stands.",
+      "source": "https://en.wikipedia.org/wiki/N104RB_Red_Baron"
+    },
+    {
+      "date": "2004-10-31",
+      "title": "Last military Starfighters retired",
+      "tag": "Retirement",
+      "summary": "The Italian Air Force withdrew its last F-104S-ASA/Ms from 9 Stormo at Grazzanise, ending 46 years of military service.",
+      "source": "https://en.wikipedia.org/wiki/Aeritalia_F-104S_Starfighter"
+    },
+    {
+      "date": "2023-04-27",
+      "title": "Italian F-104S flies again in Florida",
+      "tag": "Restoration",
+      "summary": "F-104S-ASA/M MM6734, stored since 2005, flew again at Kennedy Space Center after restoration by Starfighters Space.",
+      "source": "https://theaviationist.com/2023/05/01/almost-20-years-since-its-last-flight-former-italian-air-force-f-104s-asa-m-flies-again-in-florida/"
+    }
+  ]
+}

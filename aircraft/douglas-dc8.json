@@ -186,12 +186,12 @@
   "changelog": [
     {
       "date": "2026-09-09",
-      "change": "Entry created - full article, specifications, variants and incident log written from Wikipedia, FlightGlobal, NASA, The War Zone, AirlineGeeks and other named aviation-press sources, prompted by the 8 September 2026 runway excursion at Kinshasa.",
+      "change": "Added the DC-8, including the September 2026 runway accident at Kinshasa. Sources: Wikipedia, FlightGlobal, NASA, The War Zone, AirlineGeeks and other aviation press.",
       "author": "planesdb"
     },
     {
       "date": "2026-09-09",
-      "change": "Removed the section callout - Overview articles are prose only.",
+      "change": "Removed the highlighted box from the article.",
       "author": "planesdb"
     }
   ],

@@ -179,12 +179,12 @@
   "changelog": [
     {
       "date": "2026-09-10",
-      "change": "Entry created - full article, specifications, variants, operator roster and incident log written from NAVAIR, Wikipedia, the US Navy news office and The Defense Post.",
+      "change": "Added the Grumman E-2 Hawkeye, with history, specs, variants, operators and accident record. Sources: NAVAIR, Wikipedia, the US Navy news office and The Defense Post.",
       "author": "planesdb"
     },
     {
       "date": "2026-09-12",
-      "change": "Broadened from the E-2D Advanced Hawkeye to the whole Grumman E-2 Hawkeye line and renamed the entry accordingly. Rewrote the article around the four generations, corrected first flight, service entry and number built to family-wide figures, added the US Coast Guard and US Customs Service as historical operators, added a survivors list of 14 preserved airframes, and added the early-programme and carrier-attrition events to the incident log.",
+      "change": "Widened the entry from the E-2D to the whole E-2 Hawkeye family and renamed it. The article now covers all four generations, first flight, service entry and numbers built are family-wide, the US Coast Guard and US Customs Service were added as past operators, and 14 surviving aircraft and early accidents were added.",
       "author": "planesdb"
     }
   ],

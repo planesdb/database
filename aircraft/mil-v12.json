@@ -1,0 +1,301 @@
+{
+  "name": "V-12 Homer",
+  "fullName": "Mil V-12 (Mi-12)",
+  "manufacturer": "Mil Design Bureau",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters",
+    "cargo"
+  ],
+  "role": "Heavy-Lift Helicopter (Prototype)",
+  "tagline": "The Mil V-12 is a Soviet heavy-lift helicopter prototype with two side-by-side rotors on the tips of a wing, and at 105,000 kg the largest helicopter ever built. It still holds the helicopter record for lifting 40,204.5 kg to 2,255 m, set in 1969, but the programme was cancelled in 1974 after two prototypes.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "With a maximum take-off weight of 105,000 kg, the V-12 is the largest helicopter ever built.",
+    "On 6 August 1969 it lifted 40,204.5 kg to 2,255 m, a helicopter record that still stands.",
+    "Each wingtip carries a complete Mil Mi-6 rotor and transmission, with two engines beneath it.",
+    "Its first attempt to fly, on 27 June 1967, ended in a hard landing when vibrations of the cockpit floor fed back into the controls.",
+    "It never entered service: the Soviet Air Force refused to accept it for trials once the missile-transport role it was built for was no longer needed."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are from Wikipedia and This Day in Aviation. \"??\" means no figure has been published for hover ceiling, rate of climb or disc loading. Engine ratings differ between sources: 6,500 shp each (Wikipedia and Russian sources) or 5,500 shp (Air Vectors, helis.com). The date shown is the first successful flight; a first attempt on 27 June 1967 ended in a hard landing. No programme or unit cost has been published.",
+    "maxSpeed": {
+      "mph": 162,
+      "text": "141 kn (162 mph / 260 km/h)"
+    },
+    "cruiseSpeed": "149 mph (240 km/h)",
+    "range": {
+      "miles": 311,
+      "text": "311 mi (500 km, 270 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 11480,
+      "text": "11,480 ft (3,500 m)"
+    },
+    "hoverCeiling": "??",
+    "rateOfClimb": "??",
+    "wingspan": {
+      "ft": null,
+      "text": null
+    },
+    "mainRotorDiameter": {
+      "ft": 114.8,
+      "text": "114 ft 10 in (35 m) each; 219 ft 10 in (67 m) across both rotors"
+    },
+    "tailRotorDiameter": {
+      "ft": null,
+      "text": "None - two side-by-side main rotors"
+    },
+    "length": {
+      "ft": 121.4,
+      "text": "121 ft 5 in (37 m) fuselage"
+    },
+    "height": {
+      "ft": 41,
+      "text": "41 ft 0 in (12.5 m)"
+    },
+    "weight": "empty: 152,339 lb (69,100 kg); MTOW: 231,485 lb (105,000 kg)",
+    "rotorBlades": "2 x 5-blade main rotors, no tail rotor",
+    "discLoading": "??",
+    "engines": "4 x Soloviev D-25VF turboshafts, 6,500 shp (4,800 kW) each, mounted in pairs beneath each rotor gearbox",
+    "crew": "6 (pilot, co-pilot, flight engineer, electrician, navigator, radio operator)",
+    "capacity": "88,185 lb (40,000 kg) maximum payload or 196 passengers, in a hold 92 ft 4 in (28.15 m) long and 14 ft 5 in (4.4 m) wide and high",
+    "externalLoad": "12,125 lb (5,500 kg) external sling load",
+    "firstFlight": {
+      "date": "1968-07-10",
+      "year": 1968
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1974",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no programme or unit cost was ever published for the two prototypes",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "V-12 prototypes",
+      "desc": "The two prototypes, both carrying the registration SSSR-21142. The first made the failed 1967 attempt, first flew on 10 July 1968, set all eight FAI records in 1969 and flew to the 1971 Paris Air Show. The second waited about a year for engines and first flew in March 1973. Each used four D-25VF engines and two Mi-6 rotor systems."
+    },
+    {
+      "code": "Mi-12 (planned production)",
+      "desc": "The designation reserved for the production version, which was meant to carry 20 to 25 tonnes of strategic missile components to remote sites. The V-12 was recommended for production in October 1970, but the Soviet Air Force declined to put it through state acceptance trials, and no Mi-12 was ever built. Development of the whole family stopped in 1974."
+    },
+    {
+      "code": "Mi-12M (project)",
+      "desc": "A proposed development with two 20,000 hp Soloviev D-30V engines in place of the four D-25VFs, driving six-blade rotors. It was to carry 20 tonnes over 500 km or 40 tonnes over 200 km, but was cancelled at the mock-up stage together with the V-12. The Mil Mi-26, first flown in 1977, later took on the heavy-lift role."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Mil Design Bureau",
+      "role": "Developer & Test Operator",
+      "status": "Retired",
+      "since": "1967",
+      "fleetSize": "2 prototypes",
+      "homeBase": "Mil factory at Panki and flight test facility at Lyubertsy, Moscow region"
+    }
+  ],
+  "survivors": {
+    "intro": "Both prototypes are on display near Moscow, although a few sources say the first was later destroyed in a landing accident.",
+    "airframes": [
+      {
+        "serial": "SSSR-21142 (first prototype)",
+        "location": "Mil Moscow Helicopter Plant",
+        "place": "Panki-Tomilino, Moscow Oblast, Russia",
+        "url": "https://en.wikipedia.org/wiki/Mil_V-12",
+        "note": "The record-setting aircraft that flew to the 1971 Paris Air Show. Kept outdoors at the factory where it was built.",
+        "featured": true,
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "SSSR-21142 (second prototype)",
+        "location": "Central Air Force Museum",
+        "place": "Monino, Moscow Oblast, Russia",
+        "url": "https://en.wikipedia.org/wiki/Central_Air_Force_Museum",
+        "note": "First flew in March 1973 and was later donated to the museum, about 50 km east of Moscow.",
+        "countryCode": "ru",
+        "country": "Russia"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The V-12 has not flown since the programme ended in 1974, so it will not appear on Flightradar24. The second prototype can be seen at the Central Air Force Museum at Monino, near Moscow."
+  },
+  "lastUpdated": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "New entry for the Mil V-12, the biggest helicopter ever built, with its 1969 lifting records and where both prototypes ended up.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Homer",
+    "Mi-12",
+    "V12",
+    "Mil",
+    "largest helicopter",
+    "heavy lift",
+    "transverse rotors",
+    "Soviet helicopter",
+    "Monino"
+  ],
+  "article": {
+    "overview": [
+      "The Mil V-12 (NATO reporting name Homer) is a Soviet heavy-lift helicopter prototype designed by the Mil design bureau, with two rotors mounted side by side on the tips of a wing. With a maximum take-off weight of 105,000 kg, it is the largest helicopter ever built, and Guinness World Records lists it as such. {{ref:wiki-v12}} {{ref:guinness}}",
+      "Two prototypes were built. After a failed first attempt in 1967, the V-12 first flew on 10 July 1968, and in 1969 it set eight world records, including lifting 40,204.5 kg to 2,255 m, a helicopter record that still stands. It was shown at the 1971 Paris Air Show, but the Soviet Air Force no longer needed it, and all development stopped in 1974. The production version would have been called the Mi-12. {{ref:wiki-v12}} {{ref:tdia-v12}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Requirement",
+        "paragraphs": [
+          "Mil began design studies in 1959 for a helicopter able to lift 20 to 25 tonnes, so that strategic ballistic missiles could be moved to remote launch sites. Its cargo hold was sized to match that of the Antonov An-22 transport. Official approval followed in 1961 (some sources say 1962), and construction began in 1965. {{ref:wiki-v12}} {{ref:helis-v12}} {{ref:migflug-v12}}",
+          "The bureau was led by Mikhail Mil, who died in January 1970, before the V-12's public debut. In October 1970 the V-12 was recommended for production, but around the same time the Soviet Air Force declined to put it through state acceptance trials, because the rapid deployment of heavy strategic missiles was no longer needed. {{ref:migflug-v12}} {{ref:aviadejavu}} {{ref:wiki-v12}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The V-12 reused the dynamic system of the Mil Mi-6: each wingtip carries a complete Mi-6 transmission and rotor, with two Soloviev D-25VF turboshafts beneath each gearbox, and the four engines together produce about 26,000 hp. The two five-blade rotors are 35 m across and overlap by about 3 m, giving a total span of 67 m and a disc area of 1,924 square metres. They are carried on inverse-tapered wings about 30 m across, narrowest at the tips where the rotor downwash is strongest. {{ref:wiki-v12}} {{ref:av-v12}} {{ref:tdia-v12}}",
+          "The fuselage is 37 m long and holds a cargo bay 28.15 m long and 4.4 m wide and high, with a maximum payload of 40,000 kg inside or 5,500 kg on a sling. Six crew flew it: pilot, co-pilot, flight engineer, electrician, navigator and radio operator. The V-12 weighs 69,100 kg empty and 105,000 kg fully loaded, reaches 260 km/h and has a range of about 500 km. {{ref:wiki-v12}} {{ref:tdia-v12}}"
+        ]
+      },
+      {
+        "heading": "Testing & First Flight",
+        "paragraphs": [
+          "The first attempt to fly, on 27 June 1967, ended almost at once. Vibrations of the cockpit floor fed back into the control column when the pilot applied roll, and the oscillations grew until one set of main wheels hit the ground hard, bursting a tyre and bending a wheel hub. Nobody was hurt. One Russian account blames a control system that was not rigid enough. {{ref:wiki-v12}} {{ref:av-v12}} {{ref:aviadejavu}} {{ref:www1-v12}}",
+          "The first prototype, registered SSSR-21142, flew on 10 July 1968 from the Mil factory pad at Panki to the bureau's test facility at Lyubertsy, with Vasily Kolochenko at the controls. The second prototype, also marked SSSR-21142, waited about a year in the workshop for engines and did not fly until March 1973, again from Panki to Lyubertsy. {{ref:wiki-v12}} {{ref:migflug-v12}}"
+        ]
+      },
+      {
+        "heading": "World Records & the Paris Air Show",
+        "paragraphs": [
+          "On 22 February 1969 Kolochenko's crew, with Vlassov, Juravlev, Bartchenkov, Ribalko and Krutchkov, lifted 31,030 kg to 2,951 m, setting five FAI records. On 6 August 1969, flying near Podmoskovnoe, they lifted 40,204.5 kg to 2,255 m for three more. The altitude records with payloads of 30,000, 35,000 and 40,000 kg have never been beaten by another helicopter, and the American Helicopter Society awarded the V-12 its Sikorsky Prize. {{ref:wiki-v12}} {{ref:tdia-v12}} {{ref:migflug-v12}}",
+          "The V-12 was formally announced in March 1969. In May and June 1971 the first prototype flew across Europe, over the Baltic and North Seas in bad weather and through Groningen in the Netherlands, to the 29th Paris Air Show at Le Bourget, where it was displayed as exhibit H-833 and made a strong impression on Western observers. {{ref:helis-v12}} {{ref:wiki-v12}} {{ref:migflug-v12}} {{ref:www1-v12}} {{ref:av-v12}}"
+        ]
+      },
+      {
+        "heading": "Cancellation & Legacy",
+        "paragraphs": [
+          "Development stopped in 1974. Changes to how Soviet intercontinental missiles were based, the failure of the missile projects the V-12 was meant to carry and the risk of delaying the Mil Mi-26 all counted against it, and progress in Soviet engines meant a smaller helicopter could do the job. The Mi-26, which first flew on 14 December 1977, took over the heavy-lift role with a maximum take-off weight of 56,000 kg. A planned Mi-12M with two 20,000 hp Soloviev D-30V engines and six-blade rotors was cancelled at the mock-up stage. {{ref:secretprojects}} {{ref:av-v12}} {{ref:wiki-mi26}} {{ref:wiki-v12}}",
+          "Both prototypes survive near Moscow. The first, which set the records, stands at the Mil Moscow Helicopter Plant at Panki-Tomilino, and the second was donated to the Central Air Force Museum at Monino. Its makers and the Soviet authorities considered the V-12 too big and too difficult to manoeuvre to be practical, but its maximum take-off weight is nearly double that of the Mi-26, the largest helicopter built since. {{ref:wiki-v12}} {{ref:aerospaceweb}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-v12",
+      "name": "Mil V-12",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mil_V-12"
+    },
+    {
+      "id": "guinness",
+      "name": "Largest helicopter",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/63105-largest-helicopter"
+    },
+    {
+      "id": "tdia-v12",
+      "name": "Mil Mi-12",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/tag/mil-mi-12/"
+    },
+    {
+      "id": "helis-v12",
+      "name": "Mil V-12",
+      "publisher": "helis.com",
+      "url": "https://www.helis.com/database/model/45/"
+    },
+    {
+      "id": "migflug-v12",
+      "name": "Mil V-12 (Mi-12): the largest helicopter ever built",
+      "publisher": "MiGFlug",
+      "url": "https://migflug.com/afterburner/mil-v-12-mi-12-largest-helicopter-ever-built-record/"
+    },
+    {
+      "id": "aviadejavu",
+      "name": "Mil V-12",
+      "publisher": "Aviadejavu (Russian)",
+      "url": "https://aviadejavu.ru/Site/Crafts/Craft28281.htm"
+    },
+    {
+      "id": "av-v12",
+      "name": "Mil Mi-6, Mi-10 and V-12",
+      "publisher": "Air Vectors",
+      "url": "https://www.airvectors.net/avhvmil.html"
+    },
+    {
+      "id": "www1-v12",
+      "name": "Sky giant: the story of the V-12, the largest helicopter in the world",
+      "publisher": "WWW1.ru",
+      "url": "https://www1.ru/en/articles/2025/06/27/nebesnyi-gigant-istoriia-v-12-samogo-bolsogo-vertoleta-v-mire.html"
+    },
+    {
+      "id": "secretprojects",
+      "name": "Mil V-12 / Mi-12 Homer",
+      "publisher": "Secret Projects Forum",
+      "url": "https://www.secretprojects.co.uk/threads/mil-v-12-mil-12-homer.5082/"
+    },
+    {
+      "id": "wiki-mi26",
+      "name": "Mil Mi-26",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-26"
+    },
+    {
+      "id": "aerospaceweb",
+      "name": "Largest helicopter",
+      "publisher": "Aerospaceweb.org",
+      "url": "https://aerospaceweb.org/question/helicopters/q0284.shtml"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Mil Mi-12M - Secret Projects Forum",
+      "url": "https://www.secretprojects.co.uk/threads/mil-mi-12m-helicopter.8877/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1967-06-27",
+      "title": "Failed first flight attempt",
+      "tag": "Hard landing",
+      "summary": "Control oscillations caused by cockpit-floor vibration ended the first attempt almost immediately. One set of main wheels hit the ground hard, bursting a tyre and bending a wheel hub. Nobody was hurt.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Mil_V-12"
+    },
+    {
+      "date": "1968-07-10",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "Vasily Kolochenko flew the first prototype from the Mil factory pad at Panki to the test facility at Lyubertsy.",
+      "source": "https://en.wikipedia.org/wiki/Mil_V-12"
+    },
+    {
+      "date": "1969-02-22",
+      "title": "31,030 kg lifted to 2,951 m",
+      "tag": "Record",
+      "summary": "Kolochenko's crew set five FAI records in one flight, including the altitude record with a 30,000 kg payload, which still stands.",
+      "source": "https://en.wikipedia.org/wiki/Mil_V-12"
+    },
+    {
+      "date": "1969-08-06",
+      "title": "40,204.5 kg lifted to 2,255 m",
+      "tag": "Record",
+      "summary": "The V-12 set three more FAI records, including altitude with 35,000 kg and 40,000 kg payloads, which no other helicopter has beaten.",
+      "source": "https://www.thisdayinaviation.com/tag/world-record-for-altitude-with-a-35000-kilogram-payload/"
+    }
+  ]
+}

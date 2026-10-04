@@ -533,7 +533,7 @@
     },
     {
       "date": "2026-06-27",
-      "change": "Deep-dive Overview article added with numbered references and expanded development history.",
+      "change": "Added the full article with sources and more on its development.",
       "author": "d4nny6"
     },
     {
@@ -543,17 +543,17 @@
     },
     {
       "date": "2026-07-04",
-      "change": "Validation pass: specs, dates and source links re-checked against current references.",
+      "change": "Re-checked the specs, dates and source links.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current (Oct 2025-Apr 2026) sightings and exercise coverage.",
+      "change": "Updated the overview layout and added recent news on sightings and exercises from October 2025 to April 2026.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Trimmed status field to the standard \"Retired\" value (was a long free-text string causing an oversized status badge). The 2008 retirement date and continued adversary test flying are already covered by retiredDate and quickFacts.",
+      "change": "Simplified the status to 'Retired'. The 2008 retirement and the test flying that carries on are covered in the quick facts.",
       "author": "d4nny6"
     }
   ],

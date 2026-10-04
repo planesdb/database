@@ -1,0 +1,337 @@
+{
+  "name": "RQ-3 DarkStar",
+  "fullName": "Lockheed Martin / Boeing RQ-3 DarkStar",
+  "manufacturer": "Lockheed Martin / Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "drones",
+    "spy-planes"
+  ],
+  "role": "Stealth Reconnaissance Drone (Prototype)",
+  "tagline": "The Lockheed Martin RQ-3 DarkStar is a stealthy, fully autonomous reconnaissance drone built by the Skunk Works and Boeing in the mid-1990s to fly over defended airspace. Only two of the four built ever flew, and the programme was cancelled in January 1999.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "The DarkStar was designed to take off, fly its mission and land without any human input.",
+    "The first aircraft crashed on only its second flight, on 22 April 1996, pitching up to near vertical just after take-off.",
+    "The target price was no more than $10 million per aircraft in 1994 dollars.",
+    "It could carry a radar or a camera, but never both at once.",
+    "The fictional hypersonic jet in Top Gun: Maverick borrowed its name from the Skunk Works' 1990s drone.",
+    "Between them the two flying aircraft made only seven flights before the programme was cancelled."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are from Wikipedia and the National Museum of the U.S. Air Force. Sources differ: gross weight is given as 8,500 or 8,600 lb, height as 3 ft 6 in to 5 ft, and Jane's gives a 65,000 ft ceiling and 12-hour endurance against the 45,000 ft and 8 hours in official releases. The top speed shown is Air Force Magazine's maximum of 250 knots. The unit cost is the programme's target flyaway price of $10M in fiscal 1994 dollars, CPI-adjusted from 1994; no actual unit or programme cost was published.",
+    "maxSpeed": {
+      "mph": 288,
+      "text": "250 kn (288 mph / 464 km/h)"
+    },
+    "cruiseSpeed": "About 288 mph (464 km/h)",
+    "range": {
+      "miles": 575,
+      "text": "575 mi (925 km, 500 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 45000,
+      "text": "45,000 ft (13,700 m)"
+    },
+    "wingspan": {
+      "ft": 69,
+      "text": "69 ft 0 in (21.0 m)"
+    },
+    "length": {
+      "ft": 15,
+      "text": "15 ft 0 in (4.6 m)"
+    },
+    "height": {
+      "ft": 3.5,
+      "text": "3 ft 6 in (1.1 m)"
+    },
+    "weight": "empty: 4,360 lb (1,978 kg); MTOW: 8,500 lb (3,856 kg)",
+    "engines": "1 x Williams-Rolls FJ44-1A turbofan, 1,900 lbf (8.5 kN)",
+    "crew": "None - fully autonomous",
+    "capacity": "1,000 lb (450 kg) of sensors: a synthetic aperture radar or an electro-optical camera, not both",
+    "firstFlight": {
+      "date": "1996-03-29",
+      "year": 1996
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1999-01-28",
+    "numberBuilt": 4,
+    "unitCost": {
+      "usd": 22600000,
+      "text": "$22.6M in 2026 dollars (CPI-adjusted target price)",
+      "inflationText": "Target $10M (FY1994)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Tier III Minus (first aircraft)",
+      "desc": "The first DarkStar, rolled out at Palmdale on 1 June 1995 under the Tier III Minus name. Software problems pushed its first flight from October 1995 to 29 March 1996, and it was destroyed on its second flight on 22 April 1996, when it pitched up and stalled just after take-off at Edwards AFB. Incorrect aerodynamic modelling in its flight control laws was blamed."
+    },
+    {
+      "code": "RQ-3A",
+      "desc": "The redesigned aircraft, designated RQ-3A in January 1997, with new landing gear and rewritten flight control software. The second airframe flew five times between 29 June 1998 and 9 January 1999 and is now at the National Museum of the USAF. Two more were built but never flew; they went to the Museum of Flight in Seattle and the Smithsonian."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Defense Advanced Research Projects Agency",
+      "role": "Programme Manager",
+      "status": "Retired",
+      "since": "1994",
+      "fleetSize": "4 aircraft built, 2 flown",
+      "homeBase": "Run jointly with the Defense Airborne Reconnaissance Office"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Flight Testing",
+      "status": "Retired",
+      "since": "1996",
+      "fleetSize": "2 aircraft flown",
+      "homeBase": "Air Force Flight Test Center, Edwards AFB, California"
+    }
+  ],
+  "survivors": {
+    "intro": "Three of the four DarkStars survive, all in US museums. Only one of them has flown.",
+    "airframes": [
+      {
+        "serial": "Air vehicle 2",
+        "name": "RQ-3A",
+        "location": "National Museum of the United States Air Force - Research & Development Gallery",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195774/lockheed-martin-rq-3-darkstar/",
+        "note": "The second aircraft, modified for better stability after the 1996 crash. Flew five times in 1998-99 and arrived at the museum in December 1999. The only surviving DarkStar to have flown.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Air vehicle 3",
+        "name": "RQ-3A",
+        "location": "The Museum of Flight - Great Gallery",
+        "place": "Seattle, Washington, United States",
+        "url": "https://www.museumofflight.org/exhibits-and-events/aircraft/lockheed-martin-rq-3a-dark-star",
+        "note": "Never flown. On loan from the National Museum of the USAF.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Air vehicle 4",
+        "name": "RQ-3A",
+        "location": "Smithsonian National Air and Space Museum",
+        "place": "Washington, D.C., United States",
+        "url": "https://airandspace.si.edu/collection-objects/lockheed-martin-boeing-rq-3a-dark-star/nasm_A20070230000",
+        "note": "Never flown, with its intake and exhaust sealed for security reasons. Transferred from the National Museum of the USAF and not on display.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The DarkStar last flew in January 1999 and will not appear on Flightradar24. The flown example is on display at the National Museum of the US Air Force in Dayton, Ohio, and an unflown one at the Museum of Flight in Seattle."
+  },
+  "lastUpdated": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Added the RQ-3 DarkStar - the 1996 crash, the second aircraft's flights, why it was cancelled and the three museum survivors.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "DarkStar",
+    "Dark Star",
+    "RQ3",
+    "RQ-3A",
+    "Tier III Minus",
+    "Skunk Works",
+    "stealth drone",
+    "UAV",
+    "HAE UAV",
+    "Top Gun Maverick"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed Martin RQ-3 DarkStar is an American stealthy, high-altitude reconnaissance drone built by Lockheed Martin's Skunk Works and Boeing for a programme run by the Advanced Research Projects Agency (ARPA). Known during development as Tier III Minus, it was designed to fly fully autonomously over defended airspace, where the larger Global Hawk was not meant to go. {{ref:wiki-rq3}} {{ref:dod95}}",
+      "The DarkStar was rolled out on 1 June 1995 and first flew on 29 March 1996, but the first aircraft crashed on its second flight. A redesigned second aircraft flew five times between June 1998 and January 1999, and the Defense Department cancelled the programme in January 1999 over stability, cost and performance. Four airframes were built, and three survive in museums. {{ref:wiki-rq3}} {{ref:nmusaf-rq3}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & the Tier III Minus Programme",
+        "paragraphs": [
+          "The DarkStar was one of a pair of high-altitude endurance drones. The Tier II Plus, which became the RQ-4 Global Hawk, was optimised for range and endurance in low- to moderate-threat areas, while Tier III Minus traded range for stealth so it could work over defended territory. Both were to take off, fly and land on their own, with their tasks changeable in flight. ARPA ran Tier III Minus development, with funding from ARPA and the Defense Airborne Reconnaissance Office, and it was the first project run under ARPA's 'Section 845' authority to develop prototype weapons. {{ref:dod95}} {{ref:fas-darkstar}}",
+          "Lockheed Martin received the demonstration contract in June 1994, with Boeing as a 50 percent partner. The Skunk Works designed the body and handled final assembly, Boeing built the wing, Williams International supplied the engine, Northrop Grumman the radar, Recon/Optical the camera and Raytheon E-Systems the ground station. Lockheed Martin Missiles & Space at Sunnyvale completed the prime team. The second phase of the programme covered two Global Hawks and four DarkStars, and the target price was no more than $10 million per aircraft in fiscal 1994 dollars. {{ref:dod98}} {{ref:dsys-rq3}} {{ref:fas-darkstar}} {{ref:heber97}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The DarkStar is a tailless aircraft with a flat, rounded fuselage only 15 ft long, described at the time as a clamshell or a plate with wings, and a long, narrow wing spanning 69 ft. A single Williams-Rolls FJ44-1A turbofan of 1,900 lbf gave a speed of about 288 mph. It was designed to stay more than 8 hours over a target 500 nautical miles from its base at more than 45,000 ft, and weighed 8,500 lb at take-off. {{ref:wiki-rq3}} {{ref:nmusaf-rq3}} {{ref:pbs-uav}} {{ref:afm96}}",
+          "It carried 1,000 lb of sensors: either a low-probability-of-intercept synthetic aperture radar or an electro-optical camera, never both. Air Force Magazine reported that the Westinghouse radar came from the cancelled A-12 programme and could search 1,600 square nautical miles an hour. Imagery went out by satellite at 1.5 megabits per second, enough for still images rather than real-time video. The aircraft could take off, fly to the target, operate its sensors, send imagery, return and land without human intervention, and could be controlled by satellite from anywhere. {{ref:fas-darkstar}} {{ref:afm96}} {{ref:nmusaf-rq3}}"
+        ]
+      },
+      {
+        "heading": "First Flight & the 1996 Crash",
+        "paragraphs": [
+          "After the rollout at Palmdale on 1 June 1995, software problems pushed the first flight from October 1995 to 29 March 1996. On its second flight, on 22 April 1996, the first aircraft began to oscillate during the take-off roll at Edwards AFB. The motion continued after rotation and steadied briefly at about 30 ft, then the DarkStar pitched up to near vertical, stalled and crashed beside the runway. {{ref:dod95}} {{ref:dsys-rq3}} {{ref:fg-crash}}",
+          "Investigators traced the crash to incorrect aerodynamic modelling in the flight control laws. About 10 months went into finding the cause, and the second aircraft was given new landing gear, redesigned flight control software and many other subsystem changes, checked through intensive simulation. A revised programme plan was approved on 22 December 1996, and the aircraft was designated RQ-3A in January 1997. {{ref:fas-darkstar}} {{ref:heber97}} {{ref:dod98}} {{ref:dsys-rq3}}"
+        ]
+      },
+      {
+        "heading": "Return to Flight & Cancellation",
+        "paragraphs": [
+          "Taxi tests resumed in March 1998, and on 29 June 1998 the second aircraft took off from Edwards at 06:14 and flew for 44 minutes, reaching about 5,000 ft, entirely under autonomous control using differential GPS. Management was due to pass to the Air Force's Aeronautical Systems Center at Wright-Patterson AFB for a military utility assessment in 1999. The aircraft made five flights in all, the last on 9 January 1999. {{ref:dod98}} {{ref:gs-darkstar}}",
+          "The Defense Department cancelled the programme on 28 January 1999, judging that the DarkStar was not aerodynamically stable and was not meeting its cost and performance targets. Budget pressure also counted against it. Given the trade-off between stealth and range, the Air Force preferred the Global Hawk, which could also carry radar and camera together. DarkStar was meant to penetrate defences, while Global Hawk stood off and watched from outside them. {{ref:wiki-rq3}} {{ref:fas-darkstar}} {{ref:fg-99}}"
+        ]
+      },
+      {
+        "heading": "Legacy & Surviving Airframes",
+        "paragraphs": [
+          "In July 2003 Aviation Week reported that a DarkStar derivative had been used in the invasion of Iraq, a claim that has never been independently confirmed. The War Zone has written that the technology moved into classified programmes and that a similar concept became operational as the RQ-170 Sentinel. In 2022 the Skunk Works reused the name for the fictional hypersonic jet in Top Gun: Maverick, because DarkStar was already part of its history. The Museum of Flight credits DarkStar technology with helping later drone designs. {{ref:wiki-rq3}} {{ref:twz-maverick}} {{ref:mof-rq3}}",
+          "Three of the four airframes survive. The second aircraft, the only survivor to have flown, has been at the National Museum of the US Air Force since December 1999. The third, never flown, is on loan to the Museum of Flight in Seattle, and the fourth, also unflown and with its intake and exhaust sealed for security reasons, belongs to the Smithsonian National Air and Space Museum and is not on display. {{ref:nmusaf-rq3}} {{ref:mof-rq3}} {{ref:nasm-rq3}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-rq3",
+      "name": "Lockheed Martin RQ-3 DarkStar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_RQ-3_DarkStar"
+    },
+    {
+      "id": "dod95",
+      "name": "DarkStar Unmanned Aerial Vehicle Rollout (News Release 293-95)",
+      "publisher": "U.S. Department of Defense (via FAS)",
+      "url": "https://irp.fas.org/news/1995/b060195_bt293-95.html"
+    },
+    {
+      "id": "nmusaf-rq3",
+      "name": "Lockheed Martin RQ-3 DarkStar",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195774/lockheed-martin-rq-3-darkstar/"
+    },
+    {
+      "id": "fas-darkstar",
+      "name": "DarkStar Tier III Minus",
+      "publisher": "Federation of American Scientists",
+      "url": "https://irp.fas.org/program/collect/darkstar.htm"
+    },
+    {
+      "id": "dsys-rq3",
+      "name": "Lockheed Martin/Boeing RQ-3 DarkStar",
+      "publisher": "Designation-Systems.net",
+      "url": "https://www.designation-systems.net/dusrm/app2/q-3.html"
+    },
+    {
+      "id": "heber97",
+      "name": "Testimony of Charles E. Heber Jr., DARPA HAE UAV Program Office, 9 April 1997",
+      "publisher": "U.S. Senate Armed Services Committee (via GlobalSecurity)",
+      "url": "https://www.globalsecurity.org/intell/library/congress/1997_hr/s970409h.htm"
+    },
+    {
+      "id": "pbs-uav",
+      "name": "Spies That Fly: DarkStar",
+      "publisher": "PBS NOVA",
+      "url": "https://www.pbs.org/wgbh/nova/spiesfly/uavs_17.html"
+    },
+    {
+      "id": "afm96",
+      "name": "DarkStar and its Friends",
+      "publisher": "Air & Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/article/0796darkstar/"
+    },
+    {
+      "id": "fg-crash",
+      "name": "Investigators probe DarkStar accident",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/investigators-probe-darkstar-accident/9636.article"
+    },
+    {
+      "id": "dod98",
+      "name": "DarkStar Returns to Flight",
+      "publisher": "U.S. Department of Defense (via GlobalSecurity)",
+      "url": "https://www.globalsecurity.org/intell/library/news/1998/06/b06291998_bt327-98.html"
+    },
+    {
+      "id": "gs-darkstar",
+      "name": "DarkStar",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/intell/systems/darkstar.htm"
+    },
+    {
+      "id": "fg-99",
+      "name": "Global Hawk looks to a wider role as DarkStar burns out",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/global-hawk-looks-to-a-wider-role-as-darkstar-burns-out/25064.article"
+    },
+    {
+      "id": "twz-maverick",
+      "name": "Skunk Works Helped Create The Darkstar Jet For Top Gun: Maverick",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/skunk-works-helped-create-the-darkstar-jet-for-top-gun-maverick"
+    },
+    {
+      "id": "mof-rq3",
+      "name": "Lockheed Martin RQ-3A Dark Star",
+      "publisher": "The Museum of Flight",
+      "url": "https://www.museumofflight.org/exhibits-and-events/aircraft/lockheed-martin-rq-3a-dark-star"
+    },
+    {
+      "id": "nasm-rq3",
+      "name": "Lockheed Martin/Boeing RQ-3A Dark Star",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/lockheed-martin-boeing-rq-3a-dark-star/nasm_A20070230000"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1995-06-01",
+      "title": "Rollout at Palmdale",
+      "tag": "Rollout",
+      "summary": "The first DarkStar was unveiled at a Lockheed Martin Skunk Works ceremony in Palmdale, California.",
+      "source": "https://irp.fas.org/news/1995/b060195_bt293-95.html"
+    },
+    {
+      "date": "1996-03-29",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "The first aircraft flew from Edwards AFB, five months later than planned because of software problems.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_Martin_RQ-3_DarkStar"
+    },
+    {
+      "date": "1996-04-22",
+      "title": "First aircraft crashes on take-off",
+      "tag": "Loss of control",
+      "summary": "On its second flight, the DarkStar oscillated during the take-off roll, pitched up to near vertical at about 30 ft, stalled and crashed beside the runway at Edwards. Incorrect aerodynamic modelling in the flight control laws was blamed.",
+      "source": "https://www.flightglobal.com/investigators-probe-darkstar-accident/9636.article"
+    },
+    {
+      "date": "1998-06-29",
+      "title": "Second aircraft returns to flight",
+      "tag": "Test milestone",
+      "summary": "The redesigned RQ-3A flew for 44 minutes from Edwards, reaching about 5,000 ft under fully autonomous control.",
+      "source": "https://www.globalsecurity.org/intell/library/news/1998/06/b06291998_bt327-98.html"
+    },
+    {
+      "date": "1999-01-09",
+      "title": "Last flight",
+      "tag": "Test milestone",
+      "summary": "The second aircraft made its fifth and final flight.",
+      "source": "https://www.globalsecurity.org/intell/systems/darkstar.htm"
+    },
+    {
+      "date": "1999-01-28",
+      "title": "Programme cancelled",
+      "tag": "Cancellation",
+      "summary": "The Defense Department ended the DarkStar programme over aerodynamic stability, cost and performance, and kept the Global Hawk.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_Martin_RQ-3_DarkStar"
+    }
+  ]
+}

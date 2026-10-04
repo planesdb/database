@@ -326,37 +326,37 @@
   "changelog": [
     {
       "date": "2026-07-10",
-      "change": "Entry upgraded to gold standard: deep-dive article with references and full timeline.",
+      "change": "Expanded the article with full sources and a timeline.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Adopted the canonical \"plain\" Overview article style; refreshed seedNews with current, verified, real-URL stories (replacing fabricated/unsourced placeholder entries where present).",
+      "change": "Updated the overview layout and refreshed the news links.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Rewrote the Overview lede to the Wikipedia-style, definition-first house standard (states type/manufacturer/operator before context) - facts and citations preserved.",
+      "change": "Rewrote the opening of the overview so it says what the aircraft is straight away. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Trimmed narrative \"waffle\" (editorializing transitions, poetic codas, redundant editorial restatement, dramatic one-line beats) from section-body prose per the house-style \"Section prose\" rule - facts and citations unchanged.",
+      "change": "Cut some padding from the article sections. Facts and sources unchanged.",
       "author": "d4nny6"
     },
     {
       "date": "2026-07-31",
-      "change": "Trimmed status field to the standard \"Retired\" value (was a long free-text string causing an oversized status badge). The US/UK retirement nuance is already covered by retiredDate.",
+      "change": "Simplified the status to 'Retired'. The separate US and UK retirement dates are still shown.",
       "author": "d4nny6"
     },
     {
       "date": "2026-09-06",
-      "change": "Added the 5 September 2026 Tanagra (Athens Flying Week) display crash to Accidents & Incidents - a Hellenic Air Force F-4E was lost with both crew killed; cause under official investigation.",
+      "change": "Added the 5 September 2026 display crash at Tanagra (Athens Flying Week) to the accidents tab - a Hellenic Air Force F-4E lost with both crew killed. Cause under investigation.",
       "author": "planesdb"
     },
     {
       "date": "2026-09-09",
-      "change": "Rebuilt the operators roster - replaced the three lumped rows and their placeholder fleetSize values of \"0\" with eleven rows carrying real delivered figures and retirement dates for every major operator. Attached two previously uncited references.",
+      "change": "Rebuilt the operators - eleven rows with real delivered figures and retirement dates for every major operator, in place of three lumped rows showing 0. Added two missing sources.",
       "author": "planesdb"
     }
   ],
