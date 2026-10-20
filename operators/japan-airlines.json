@@ -1,0 +1,19 @@
+{
+  "id": "japan-airlines",
+  "slug": "japan-airlines",
+  "name": "Japan Airlines",
+  "shortName": "JL",
+  "type": "commercial",
+  "country": { "name": "Japan", "code": "jp" },
+  "founded": "1951-08-01",
+  "foundedDisplay": "1 August 1951",
+  "headquarters": "Shinagawa, Tokyo, Japan",
+  "logo": null,
+  "website": "https://www.jal.com",
+  "tagline": "Japan's flag carrier, founded in 1951, which went through bankruptcy protection in 2010 and was relisted on the Tokyo Stock Exchange in 2012.",
+  "bio": [
+    "Japan Airlines was founded on 1 August 1951 and is based in Shinagawa, Tokyo, flying from Haneda and Narita.",
+    "It joined oneworld on 1 April 2007. JAL applied for protection under Japan's Corporate Rehabilitation Law on 19 January 2010 and completed a new listing on the Tokyo Stock Exchange on 19 September 2012. Its main routes are flown with the Airbus A350 and the Boeing 787 and 777."
+  ],
+  "matchPattern": "japan air ?lines|\\bjal\\b"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "icelandair",
+  "slug": "icelandair",
+  "name": "Icelandair",
+  "shortName": "FI",
+  "type": "commercial",
+  "country": { "name": "Iceland", "code": "is" },
+  "founded": "1937-06-03",
+  "foundedDisplay": "3 June 1937",
+  "headquarters": "Hafnarfjörður, Iceland",
+  "logo": null,
+  "website": "https://www.icelandair.com",
+  "tagline": "Iceland's flag carrier, formed by the 1973 merger of Flugfélag Íslands and Loftleiðir, and known for its free stopover between North America and Europe.",
+  "bio": [
+    "Icelandair traces its history to Flugfélag Akureyrar, founded in Akureyri on 3 June 1937 and renamed Flugfélag Íslands in 1940. The other half of the company, Loftleiðir, was formed in 1944 and in 1953 began a low-fare North Atlantic service that sat outside IATA fares and rules, a forerunner of the later low-cost carriers.",
+    "The Icelandic government pushed the two airlines to merge, and they did so in 1973 under the holding company Flugleiðir. They became a single airline in 1979 and took the Icelandair name. Since the 1960s, passengers flying between North America and Europe have been able to stop over in Iceland for up to seven days at no extra fare. Most flights run through Keflavík, with a fleet of Boeing 737 MAX, 757 and 767 and Airbus A321LR aircraft."
+  ],
+  "matchPattern": "icelandair|iceland air|flugleidir|flugleiðir|loftleidir|loftleiðir"
+}

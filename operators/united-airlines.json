@@ -1,0 +1,19 @@
+{
+  "id": "united-airlines",
+  "slug": "united-airlines",
+  "name": "United Airlines",
+  "shortName": "UA",
+  "type": "commercial",
+  "country": { "name": "United States", "code": "us" },
+  "founded": "1926-04-06",
+  "foundedDisplay": "6 April 1926",
+  "headquarters": "Willis Tower, Chicago, Illinois, United States",
+  "logo": null,
+  "website": "https://www.united.com",
+  "tagline": "A Chicago-based US airline and one of the largest in the world, tracing its history to the Varney Air Lines airmail service of 1926.",
+  "bio": [
+    "United traces its history to Varney Air Lines, which began carrying airmail on 6 April 1926. United Air Lines itself was formed on 28 March 1931 as a subsidiary of United Aircraft and Transport Corporation.",
+    "It is based in the Willis Tower in Chicago and runs hubs at Chicago O'Hare, Denver, Houston, Los Angeles, Newark, San Francisco, Washington Dulles and Guam. United was one of the five founding members of Star Alliance in 1997 and merged with Continental Airlines in 2010. All of its widebodies are Boeing, mainly the 767, 777 and 787, alongside Airbus A320 family and Boeing 737 aircraft on narrowbody routes."
+  ],
+  "matchPattern": "united air ?lines"
+}

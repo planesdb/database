@@ -1,0 +1,19 @@
+{
+  "id": "finnair",
+  "slug": "finnair",
+  "name": "Finnair",
+  "shortName": "AY",
+  "type": "commercial",
+  "country": { "name": "Finland", "code": "fi" },
+  "founded": "1923-11-01",
+  "foundedDisplay": "1 November 1923",
+  "headquarters": "Vantaa, Finland",
+  "logo": null,
+  "website": "https://www.finnair.com",
+  "tagline": "Finland's flag carrier and one of the oldest airlines in continuous operation, flying between Europe and Asia through Helsinki.",
+  "bio": [
+    "Finnair was founded as Aero O/Y in 1923 and flew its first service, from Helsinki to Tallinn on a Junkers F.13 seaplane, on 20 March 1924. It is based at Helsinki Airport in Vantaa, and the Finnish state holds just over half of its shares.",
+    "Finnair joined oneworld in 1999. When Russian airspace closed in February 2022, most of its Europe to Asia flights were disrupted, and it responded by flying Helsinki to Tokyo Narita over the North Pole, as it had first done in 1983. The long-haul fleet is the Airbus A350 and A330, with A320 family aircraft, Embraer E190s and ATR 72s on shorter routes."
+  ],
+  "matchPattern": "finnair|aero o/?y"
+}

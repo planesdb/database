@@ -1,0 +1,19 @@
+{
+  "id": "pan-am",
+  "slug": "pan-am",
+  "name": "Pan Am",
+  "shortName": "PA",
+  "type": "commercial",
+  "country": { "name": "United States", "code": "us" },
+  "founded": "1927-03-14",
+  "foundedDisplay": "14 March 1927",
+  "headquarters": "New York City, United States",
+  "logo": null,
+  "website": null,
+  "tagline": "The US airline that began scheduled transatlantic jet service in 1958 and launched the Boeing 747 in 1970, before ceasing operations in 1991.",
+  "bio": [
+    "Pan American Airways was founded as a shell company on 14 March 1927 and flew its first service, from Key West to Havana, on 19 October 1927 using a chartered Fairchild FC-2 floatplane. The merged company operated under the Pan American Airways name from 23 June 1928.",
+    "Pan Am began the first scheduled transatlantic jet service on 26 October 1958, flying a Boeing 707 from New York to Paris with a fuel stop at Gander. It ordered 25 Boeing 747s in April 1966 and began 747 service on 21 January 1970. In 1968 it flew 150 jets to 86 countries. Pan Am Flight 103 was bombed over Lockerbie, Scotland, on 21 December 1988, killing 270 people, and the airline ceased operations on 4 December 1991."
+  ],
+  "matchPattern": "pan am\\b|pan american"
+}

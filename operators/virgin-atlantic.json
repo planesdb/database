@@ -1,0 +1,19 @@
+{
+  "id": "virgin-atlantic",
+  "slug": "virgin-atlantic",
+  "name": "Virgin Atlantic",
+  "shortName": "VS",
+  "type": "commercial",
+  "country": { "name": "United Kingdom", "code": "gb" },
+  "founded": "1984-06-22",
+  "foundedDisplay": "22 June 1984",
+  "headquarters": "Crawley, West Sussex, United Kingdom",
+  "logo": null,
+  "website": "https://www.virginatlantic.com",
+  "tagline": "A British long-haul airline that began flying in 1984, part-owned by Delta and based at London Heathrow.",
+  "bio": [
+    "Virgin Atlantic began flying on 22 June 1984 with a leased Boeing 747-200, G-VIRG \"Maiden Voyager\", from London Gatwick to Newark. It was first conceived by Randolph Fields and Alan Hellary as British Atlantic Airways, and Fields later sold his shares to Richard Branson.",
+    "Virgin Group owns 51 percent of the holding company and Delta Air Lines owns 49 percent, after Delta bought Singapore Airlines' stake in a deal completed on 24 June 2013. The airline joined SkyTeam on 2 March 2023 and flies from Heathrow and Manchester with Airbus A330 and A350-1000 and Boeing 787-9 aircraft. Its Boeing 747-400s were retired early during the COVID-19 pandemic."
+  ],
+  "matchPattern": "virgin atlantic"
+}

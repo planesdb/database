@@ -1,0 +1,19 @@
+{
+  "id": "ryanair",
+  "slug": "ryanair",
+  "name": "Ryanair",
+  "shortName": "FR",
+  "type": "commercial",
+  "country": { "name": "Ireland", "code": "ie" },
+  "founded": "1984-11-28",
+  "foundedDisplay": "28 November 1984",
+  "headquarters": "Swords, County Dublin, Ireland",
+  "logo": null,
+  "website": "https://www.ryanair.com",
+  "tagline": "Ireland's low-cost airline and the largest in Europe, flying an almost entirely Boeing 737 fleet.",
+  "bio": [
+    "Ryanair was founded on 28 November 1984 by Christopher and Tony Ryan and flew its first service, from Waterford to London Gatwick on a 15-seat Embraer EMB 110 Bandeirante, on 8 July 1985. Michael O'Leary became chief executive in January 1994 and took the Group CEO role in August 2019.",
+    "Ryanair is based in Swords, County Dublin. It is the largest airline in Europe by scheduled passengers carried, fleet size and total flights, and its fleet is almost all Boeing 737, mostly 737-800s plus the 737 MAX 8-200, a version Boeing developed for Ryanair with extra seats."
+  ],
+  "matchPattern": "ryanair"
+}

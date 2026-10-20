@@ -1,0 +1,19 @@
+{
+  "id": "american-airlines",
+  "slug": "american-airlines",
+  "name": "American Airlines",
+  "shortName": "AA",
+  "type": "commercial",
+  "country": { "name": "United States", "code": "us" },
+  "founded": "1926-04-15",
+  "foundedDisplay": "15 April 1926",
+  "headquarters": "Fort Worth, Texas, United States",
+  "logo": null,
+  "website": "https://www.aa.com",
+  "tagline": "A Fort Worth-based US airline and one of the largest in the world, formed in 1930 from more than 80 small carriers.",
+  "bio": [
+    "American's earliest predecessor, Robertson Aircraft Corporation, began flying mail on 15 April 1926. More than 80 small airlines were brought together in 1930 as American Airways, which became American Airlines in 1934 and began passenger service in June 1936.",
+    "American moved its headquarters from New York to Fort Worth, Texas, in 1979, and Dallas/Fort Worth is the largest of its ten hubs. It merged with US Airways in 2013 and kept the American name. It is a founding member of oneworld and flies a mixed fleet of Boeing 737, 777 and 787 and Airbus A320 family aircraft."
+  ],
+  "matchPattern": "american airlines|american airways"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "turkish-airlines",
+  "slug": "turkish-airlines",
+  "name": "Turkish Airlines",
+  "shortName": "TK",
+  "type": "commercial",
+  "country": { "name": "Turkey", "code": "tr" },
+  "founded": "1933-05-20",
+  "foundedDisplay": "20 May 1933",
+  "headquarters": "Istanbul, Turkey",
+  "logo": null,
+  "website": "https://www.turkishairlines.com",
+  "tagline": "Turkey's flag carrier, founded in 1933, and the airline with flights to more countries than any other.",
+  "bio": [
+    "Turkish Airlines was founded on 20 May 1933 as Turkish State Airlines, starting out as a department of the Ministry of National Defense. It was renamed the General Directorate of State Airlines in 1935.",
+    "It joined Star Alliance on 1 April 2008 and flies from Istanbul Airport, with Istanbul Sabiha Gökçen as a secondary hub. In December 2024 it received a Guinness World Record for connecting 131 countries, more than any other airline. The fleet includes the Airbus A330 and A350 and the Boeing 737, 777 and 787."
+  ],
+  "matchPattern": "turkish airlines|turkish state airlines|\\bthy\\b"
+}

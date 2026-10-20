@@ -1,0 +1,19 @@
+{
+  "id": "etihad-airways",
+  "slug": "etihad-airways",
+  "name": "Etihad Airways",
+  "shortName": "EY",
+  "type": "commercial",
+  "country": { "name": "United Arab Emirates", "code": "ae" },
+  "founded": "2003-07-11",
+  "foundedDisplay": "11 July 2003",
+  "headquarters": "Khalifa City, Abu Dhabi, United Arab Emirates",
+  "logo": null,
+  "website": "https://www.etihad.com",
+  "tagline": "Abu Dhabi's national airline, set up by decree in 2003 and one of the UAE's two flag carriers alongside Emirates.",
+  "bio": [
+    "Etihad was established by an Abu Dhabi decree in July 2003 and flew its first commercial service, to Beirut, on 12 November 2003. It is based at Zayed International Airport in Abu Dhabi and posted its first full-year net profit, US$14 million, in 2011.",
+    "Through the 2010s Etihad bought minority stakes in other airlines, including Air Berlin, Alitalia, Air Serbia and Virgin Australia, and it had sold or left all of them by the end of 2023. Air Berlin filed for insolvency in August 2017 after Etihad withdrew its financial support. The fleet is built around the Airbus A320 family, A350-1000 and A380 and the Boeing 777 and 787, and its A380s returned to service from 2023 after being grounded during COVID-19."
+  ],
+  "matchPattern": "etihad"
+}

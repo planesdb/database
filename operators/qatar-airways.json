@@ -1,0 +1,19 @@
+{
+  "id": "qatar-airways",
+  "slug": "qatar-airways",
+  "name": "Qatar Airways",
+  "shortName": "QR",
+  "type": "commercial",
+  "country": { "name": "Qatar", "code": "qa" },
+  "founded": "1993-11-22",
+  "foundedDisplay": "22 November 1993",
+  "headquarters": "Doha, Qatar",
+  "logo": null,
+  "website": "https://www.qatarairways.com",
+  "tagline": "The national airline of Qatar, set up by the government in 1993 and based at Hamad International Airport in Doha.",
+  "bio": [
+    "Qatar Airways was established by the government of Qatar on 22 November 1993 and began operating on 20 January 1994. Its first destination was Amman, in May 1994, and flights to London started in 1997.",
+    "It joined oneworld on 29 October 2013 and moved from Doha International Airport to the new Hamad International Airport on 27 May 2014. The fleet includes the Airbus A320, A330, A350 and A380 and the Boeing 737 MAX, 777 and 787."
+  ],
+  "matchPattern": "qatar airways"
+}

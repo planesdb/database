@@ -1,0 +1,19 @@
+{
+  "id": "klm",
+  "slug": "klm",
+  "name": "KLM",
+  "shortName": "KL",
+  "type": "commercial",
+  "country": { "name": "Netherlands", "code": "nl" },
+  "founded": "1919-10-07",
+  "foundedDisplay": "7 October 1919",
+  "headquarters": "Amstelveen, Netherlands",
+  "logo": null,
+  "website": "https://www.klm.com",
+  "tagline": "The Netherlands' flag carrier and the oldest airline still flying under its original name, part of Air France-KLM since 2004.",
+  "bio": [
+    "KLM was founded on 7 October 1919 by eight Dutch businessmen, with Albert Plesman as its first director. Its first flight, on 17 May 1920, ran from Croydon to Amsterdam in a leased de Havilland DH-16. A Fokker F.VII flew an experimental service to Batavia in the Dutch East Indies on 1 October 1924, and scheduled flights on the route started in September 1929.",
+    "KLM merged with Air France in 2004 to form the Air France-KLM holding company, and both airlines kept their own brands. It joined SkyTeam in September 2004 and flies from Amsterdam Schiphol, with Boeing 777 and 787, Airbus A330 and A321neo aircraft and Embraer E-Jets operated through KLM Cityhopper."
+  ],
+  "matchPattern": "\\bklm\\b"
+}

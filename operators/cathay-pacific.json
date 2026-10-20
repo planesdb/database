@@ -1,0 +1,19 @@
+{
+  "id": "cathay-pacific",
+  "slug": "cathay-pacific",
+  "name": "Cathay Pacific",
+  "shortName": "CX",
+  "type": "commercial",
+  "country": { "name": "Hong Kong", "code": "hk" },
+  "founded": "1946-09-24",
+  "foundedDisplay": "24 September 1946",
+  "headquarters": "Hong Kong International Airport, Hong Kong",
+  "logo": null,
+  "website": "https://www.cathaypacific.com",
+  "tagline": "Hong Kong's flag carrier, founded in 1946 and a co-founder of oneworld.",
+  "bio": [
+    "Cathay Pacific was founded in Hong Kong on 24 September 1946 by Sydney de Kantzow, an Australian, and Roy Farrell, an American.",
+    "It co-founded oneworld on 21 September 1998 alongside American Airlines, British Airways, Canadian Airlines and Qantas. Based at Hong Kong International Airport, it flies the Airbus A321neo, A330 and A350 and the Boeing 777, and its Cathay Cargo arm operates Boeing 747-400ERF and 747-8F freighters."
+  ],
+  "matchPattern": "cathay"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "southwest-airlines",
+  "slug": "southwest-airlines",
+  "name": "Southwest Airlines",
+  "shortName": "WN",
+  "type": "commercial",
+  "country": { "name": "United States", "code": "us" },
+  "founded": "1967-03-09",
+  "foundedDisplay": "9 March 1967",
+  "headquarters": "Dallas, Texas, United States",
+  "logo": null,
+  "website": "https://www.southwest.com",
+  "tagline": "A Dallas-based low-cost airline that flies only the Boeing 737 and is the largest operator of the type.",
+  "bio": [
+    "Southwest was founded on 9 March 1967 as Air Southwest and began flying under the Southwest name on 18 June 1971. It is based at Love Field in Dallas.",
+    "It runs a point-to-point network rather than traditional hubs, with a single cabin class and no full meals, and operating one aircraft type keeps training and spare-parts costs down. The airline ended its two free checked bags on 28 May 2025 and moved from open to assigned seating from 27 January 2026. Its fleet is all Boeing 737, with more than 400 737 MAX on order."
+  ],
+  "matchPattern": "southwest airlines"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "swiss-international-air-lines",
+  "slug": "swiss-international-air-lines",
+  "name": "Swiss International Air Lines",
+  "shortName": "LX",
+  "type": "commercial",
+  "country": { "name": "Switzerland", "code": "ch" },
+  "founded": "2002-03-31",
+  "foundedDisplay": "31 March 2002",
+  "headquarters": "Kloten, near Zurich, Switzerland",
+  "logo": null,
+  "website": "https://www.swiss.com",
+  "tagline": "Switzerland's flag carrier, started in 2002 from the remains of Swissair and now part of the Lufthansa Group.",
+  "bio": [
+    "Swiss International Air Lines began flying on 31 March 2002, after the bankruptcy of Swissair. It was built around Crossair, Swissair's regional subsidiary, which was renamed Swiss.",
+    "Lufthansa announced its plan to take over Swiss on 22 March 2005 and completed the purchase on 1 July 2007. Swiss joined Star Alliance on 1 April 2006. It flies from Zurich and Geneva with Airbus A220, A320 family, A330 and A350 aircraft and Boeing 777-300ERs."
+  ],
+  "matchPattern": "^swiss$|swiss international|swiss air ?lines|swissair"
+}
