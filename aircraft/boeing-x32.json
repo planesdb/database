@@ -1,0 +1,289 @@
+{
+  "name": "X-32",
+  "fullName": "Boeing X-32 Joint Strike Fighter",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Joint Strike Fighter Concept Demonstrator",
+  "tagline": "The Boeing X-32 is a single-engine stealth fighter concept demonstrator that Boeing built to compete for the US Joint Strike Fighter contract. Two were flown between 2000 and 2001, and on 26 October 2001 the Pentagon chose Lockheed Martin's X-35, which became the F-35 Lightning II.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "The X-32A finished its flight programme on 3 February 2001 after 66 flights and 50.4 flight hours, two months ahead of the six planned.",
+    "On 24 June 2001 the X-32B became the first JSF demonstrator to transition from conventional flight to a hover.",
+    "Royal Navy Lt Cdr Paul Stone made a vertical landing in the X-32B on 5 July 2001, the first UK pilot to do so, and flew its 78th and final flight on 28 July.",
+    "The wing was a one-piece carbon-fibre composite delta with room for 20,000 lb (9,000 kg) of fuel.",
+    "Boeing and Lockheed Martin each received $750 million to build their demonstrators and were not allowed to spend their own money on development.",
+    "The X-32B could not show STOVL and supersonic flight in one configuration, because parts of its delta wing had to be removed for the vertical-landing tests."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the X-32A and X-32B concept demonstrators. Wikipedia's text gives a 9.15 m wing span while its specification table lists 36 ft (10.97 m); the table figure is used here. Both Wikipedia and the Air Force museum quote about 50,000 lbf of afterburning thrust and Mach 1.2, and no speed in mph or knots has been published. Range is the 850 nmi figure Wikipedia lists for the USAF requirement (the museum says about 950 miles), with 750 nmi for the Navy and 600 nmi for the Marine Corps and Royal Navy. The demonstrators carried no weapons.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "Not published in knots or mph - quoted as Mach 1.2"
+    },
+    "cruiseSpeed": "Not publicly disclosed",
+    "range": {
+      "miles": 978,
+      "text": "~978 mi (~1,574 km, ~850 nmi) for the USAF requirement"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Not publicly disclosed"
+    },
+    "wingspan": {
+      "ft": 36,
+      "text": "36 ft 0 in (10.97 m)"
+    },
+    "length": {
+      "ft": 45,
+      "text": "45 ft 0 in (13.72 m)"
+    },
+    "height": {
+      "ft": 17.32,
+      "text": "17 ft 3.8 in (5.28 m)"
+    },
+    "weight": "empty: 24,030 lb (10,900 kg); MTOW: 38,000 lb (17,200 kg)",
+    "engines": "1 x Pratt & Whitney F119-derived afterburning turbofan, about 50,000 lbf (222 kN) with afterburner (PW-614C on the X-32A; PW-614S with a butterfly valve and thrust-vectoring nozzles on the X-32B)",
+    "armament": "None carried on the demonstrators. The planned production aircraft was to have a 20 mm M61A2 or 27 mm Mauser BK-27 cannon and six internal AMRAAMs, or two AMRAAMs and two 2,000 lb guided bombs",
+    "crew": "1 (pilot)",
+    "capacity": "None on the demonstrators; the planned production aircraft was to carry about 15,000 lb (6,800 kg) of external stores",
+    "firstFlight": {
+      "date": "2000-09-18",
+      "year": 2000
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "2001-07-28",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Boeing received $750M to build its demonstrators and run the flight programme, and no per-aircraft price was published",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "X-32A",
+      "desc": "The conventional takeoff and landing demonstrator, flown with the Pratt & Whitney F119-PW-614C. It first flew on 18 September 2000 from Palmdale to Edwards AFB and finished testing on 3 February 2001 after 66 flights and 50.4 hours with six pilots. It is displayed at the National Museum of the United States Air Force after a restoration completed in December 2023."
+    },
+    {
+      "code": "X-32B",
+      "desc": "The short takeoff and vertical landing demonstrator, built about three months after the X-32A and finished about six weeks after it. It used direct lift, with the F119-PW-614S vectoring its main exhaust. It first flew on 29 March 2001, hovered on 24 June, landed vertically from 27 June and made 78 flights. It is displayed at the Patuxent River Naval Air Museum."
+    },
+    {
+      "code": "F-32 production design (proposed)",
+      "desc": "Boeing drew up a conventional canted twin tail after the Navy refined its manoeuvrability and payload requirements eight months into construction and the delta wing fell short. The tail came too late to fit to the demonstrators and was meant for production aircraft. It was never built after Lockheed Martin's X-35 won on 26 October 2001, against an estimated production run of 3,000 to 5,000 JSFs."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Boeing",
+      "role": "Developer and Test Operator",
+      "status": "Retired",
+      "since": "2000",
+      "fleetSize": "2 built (X-32A made 66 flights, X-32B made 78)",
+      "homeBase": "Palmdale, California"
+    },
+    {
+      "name": "US Department of Defense (Joint Strike Fighter programme)",
+      "role": "Customer and Government Test Pilots",
+      "status": "Retired",
+      "since": "2001",
+      "fleetSize": "2 evaluated; US Marine Corps and Royal Navy pilots flew the X-32B",
+      "homeBase": "NAS Patuxent River, Maryland; Edwards AFB, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The X-32 last flew on 28 July 2001, so it cannot appear on Flightradar24. The X-32A is displayed at the National Museum of the United States Air Force near Dayton, Ohio, and the X-32B is displayed outdoors at the Patuxent River Naval Air Museum in Maryland."
+  },
+  "lastUpdated": "2026-10-14",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Added the Boeing X-32 - the Joint Strike Fighter competition, both demonstrators' flight programmes, why it lost to the X-35 and where the two aircraft are now.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "X-32",
+    "X32",
+    "Boeing",
+    "Joint Strike Fighter",
+    "JSF",
+    "X-35",
+    "F-35",
+    "STOVL",
+    "X-32A",
+    "X-32B",
+    "direct lift",
+    "concept demonstrator",
+    "F-32"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing X-32 is a single-seat, single-engine concept demonstrator that Boeing built for the US Joint Strike Fighter competition. Two were built: the X-32A for conventional takeoff and landing and the X-32B for short takeoff and vertical landing. They flew 66 and 78 times between 18 September 2000 and 28 July 2001, and on 26 October 2001 the Department of Defense chose Lockheed Martin's X-35 instead. {{ref:wiki-x32}} {{ref:boeing-supersonic}}",
+      "Boeing's design used a one-piece carbon-fibre composite delta wing and a large chin inlet, and it lifted the X-32B by vectoring the main engine exhaust downwards. Lockheed Martin chose a shaft-driven lift fan instead, and its X-35 became the F-35 Lightning II. Both X-32s survive, one at the National Museum of the United States Air Force and the other at the Patuxent River Naval Air Museum in Maryland. {{ref:wiki-x32}} {{ref:twz-x32}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "DARPA started the Common Affordable Lightweight Fighter project in 1993, and Congress ordered it merged with the Joint Advanced Strike Technology project in 1994. The combined effort was renamed the Joint Strike Fighter programme in 1995. On 16 November 1996 Boeing and Lockheed Martin each received a contract to build two concept demonstration aircraft, with $750 million apiece and a bar on spending their own money on development. {{ref:wiki-x32}}",
+          "The demonstrators had to show conventional takeoff and landing, carrier operation and short takeoff with vertical landing. Boeing's strategy was to cut manufacturing and life-cycle costs by keeping the differences between the three versions small, and the production run for the winner was estimated at 3,000 to 5,000 aircraft. {{ref:wiki-x32}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The wing was a large one-piece carbon-fibre composite delta with a 55-degree leading-edge sweep and room for 20,000 lb (9,000 kg) of fuel, and it was a fabrication challenge. Boeing's direct-lift STOVL system vectored the engine's main exhaust through nozzles, which put the engine behind the cockpit, moved the centre of gravity forward and called for a large chin inlet. That inlet exposed the compressor blades to radar, which variable baffles could reduce. {{ref:wiki-x32}}",
+          "The X-32A flew with a Pratt & Whitney F119-PW-614C and the X-32B with the F119-PW-614S, which added a butterfly valve and thrust-vectoring nozzles. Eight months into construction the Navy refined its manoeuvrability and payload requirements, and the delta wing fell short of them. Boeing designed a conventional canted twin tail, but it was too late to fit to the demonstrators. {{ref:wiki-x32}}"
+        ]
+      },
+      {
+        "heading": "Flight Test",
+        "paragraphs": [
+          "Both aircraft were unveiled at Palmdale, California, on 14 December 1999 before 5,500 people. Fred Knox flew the X-32A on its first flight on 18 September 2000, from Palmdale to Edwards AFB, lifting off at about 150 knots after a 2,200 ft roll. A minor hydraulic leak cut the flight to 20 minutes against a planned 30 to 40, but it reached 10,000 ft, 200 knots and 13 degrees angle of attack with about 80 percent of the planned test points completed. The X-32A finished its programme on 3 February 2001 after 66 flights and 50.4 flight hours with six pilots. {{ref:wiki-x32}} {{ref:boeing-hover}}",
+          "The X-32B first flew on 29 March 2001 on a 50-minute flight from Palmdale to Edwards, and it reached NAS Patuxent River on 11 May. On 24 June, on its 44th flight, Boeing's lead STOVL test pilot Dennis O'Donoghue, a former Harrier pilot, transitioned to a hover 200 ft above the ground. The day's hovers added up to eight minutes, the longest lasting 2 minutes 42 seconds. First vertical landings followed on 27 June, US Marine Corps Maj Jeff Karnes landed vertically on 3 July, and Royal Navy Lt Cdr Paul Stone did so on 5 July. Supersonic flights began on 17 July, and Stone flew the 78th and final flight on 28 July 2001. {{ref:boeing-hover}} {{ref:boeing-supersonic}}"
+        ]
+      },
+      {
+        "heading": "Selection & Aftermath",
+        "paragraphs": [
+          "The Department of Defense announced on 26 October 2001 that Lockheed Martin's X-35 had won. Wikipedia attributes the loss to the delta wing missing the refined Navy targets, to Boeing showing STOVL and supersonic flight in separate configurations (the X-32's delta wing needed parts removed for STOVL, while the X-35 could transition in flight), and to the greater lift, payload and range of Lockheed's lift fan. The winner-takes-all rule held despite lawmakers' push to keep the loser as a subcontractor. {{ref:wiki-x32}}",
+          "Boeing considers the X-32 a strategic investment, and technologies from it were adopted in the F/A-18E/F Super Hornet and other studies. The X-32A went to the National Museum of the United States Air Force in 2005, deteriorated while it stood outdoors, and was restored over about three months from late summer 2023. It moved to the Research & Development Gallery near the YF-23 on 31 May 2024. The X-32B went to the Patuxent River Naval Air Museum in 2005 and is displayed outdoors. {{ref:wiki-x32}} {{ref:twz-x32}} {{ref:nmusaf-x32a}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-x32",
+      "name": "Boeing X-32",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_X-32"
+    },
+    {
+      "id": "boeing-hover",
+      "name": "Boeing JSF X-32B Demonstrator Completes First Hover",
+      "publisher": "Boeing",
+      "url": "https://boeing.mediaroom.com/2001-06-25-Boeing-JSF-X-32B-Demonstrator-Completes-First-Hover"
+    },
+    {
+      "id": "boeing-supersonic",
+      "name": "Boeing JSF X-32B Completes Testing with Supersonic Flights",
+      "publisher": "Boeing",
+      "url": "https://boeing.mediaroom.com/2001-07-30-Boeing-JSF-X-32B-Completes-Testing-with-Supersonic-Flights"
+    },
+    {
+      "id": "nmusaf-x32a",
+      "name": "Boeing X-32A fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198058/boeing-x-32a/"
+    },
+    {
+      "id": "twz-x32",
+      "name": "X-32's Swan Makeover Before And After",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/x-32s-swan-makeover-before-and-after"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing X-32A - National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198058/boeing-x-32a/"
+    },
+    {
+      "name": "X-32's Swan Makeover Before And After - The War Zone",
+      "url": "https://www.twz.com/x-32s-swan-makeover-before-and-after"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1999-12-14",
+      "title": "X-32A and X-32B unveiled",
+      "tag": "Milestone",
+      "summary": "Boeing showed both demonstrators at Palmdale, California, before 5,500 people.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_X-32"
+    },
+    {
+      "date": "2000-09-18",
+      "title": "X-32A first flight",
+      "tag": "Minor fault",
+      "summary": "Fred Knox flew the X-32A from Palmdale to Edwards AFB. A minor hydraulic leak cut the flight to 20 minutes, against a planned 30 to 40.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_X-32"
+    },
+    {
+      "date": "2001-02-03",
+      "title": "X-32A completes flight testing",
+      "tag": "Milestone",
+      "summary": "The X-32A finished its programme after 66 flights and 50.4 flight hours with six pilots, two months ahead of the six planned.",
+      "source": "https://boeing.mediaroom.com/2001-06-25-Boeing-JSF-X-32B-Demonstrator-Completes-First-Hover"
+    },
+    {
+      "date": "2001-03-29",
+      "title": "X-32B first flight",
+      "tag": "Milestone",
+      "summary": "The X-32B made a 50-minute flight from Palmdale to Edwards AFB.",
+      "source": "https://boeing.mediaroom.com/2001-07-30-Boeing-JSF-X-32B-Completes-Testing-with-Supersonic-Flights"
+    },
+    {
+      "date": "2001-06-24",
+      "title": "First hover",
+      "tag": "Milestone",
+      "summary": "Dennis O'Donoghue took the X-32B from wing-borne flight to a hover 200 ft above the ground, the first JSF demonstrator to make that transition.",
+      "source": "https://boeing.mediaroom.com/2001-06-25-Boeing-JSF-X-32B-Demonstrator-Completes-First-Hover"
+    },
+    {
+      "date": "2001-07-28",
+      "title": "Final flight",
+      "tag": "Milestone",
+      "summary": "Royal Navy Lt Cdr Paul Stone flew the X-32B's 78th and last flight, including a series of supersonic runs.",
+      "source": "https://boeing.mediaroom.com/2001-07-30-Boeing-JSF-X-32B-Completes-Testing-with-Supersonic-Flights"
+    },
+    {
+      "date": "2001-10-26",
+      "title": "Lockheed Martin X-35 chosen",
+      "tag": "Competition loss",
+      "summary": "The Department of Defense announced that the X-35 had won the Joint Strike Fighter competition, ending the X-32 programme.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_X-32"
+    },
+    {
+      "date": "2024-05-31",
+      "title": "Restored X-32A goes on display",
+      "tag": "Milestone",
+      "summary": "The National Museum of the United States Air Force moved the restored X-32A to its Research & Development Gallery near the YF-23.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_X-32"
+    }
+  ],
+  "survivors": {
+    "intro": "Both X-32s survive. Neither carries a published serial number.",
+    "airframes": [
+      {
+        "serial": "None published",
+        "name": "X-32A",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "note": "Transferred in 2005, restored in late 2023 and displayed in the Research & Development Gallery from 31 May 2024.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "None published",
+        "name": "X-32B",
+        "location": "Patuxent River Naval Air Museum",
+        "place": "Lexington Park, Maryland, United States",
+        "note": "Transferred in 2005 and displayed outdoors beside NAS Patuxent River, where the STOVL tests were flown.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "name": "UH-1 Iroquois",
+  "fullName": "Bell UH-1 Iroquois (Huey)",
+  "manufacturer": "Bell Helicopter",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Utility Helicopter",
+  "tagline": "The Bell UH-1 Iroquois, known as the Huey, is a single-rotor utility helicopter built by Bell for the U.S. Army and the first turbine-powered helicopter in U.S. military service. More than 16,000 have been built since 1960, and about 7,000 served in Vietnam.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "The Huey was the first turbine-powered helicopter in U.S. military service, and more than 16,000 have been built.",
+    "The nickname comes from the original HU-1 designation, which became UH-1 in September 1962. Bell cast the name 'Huey' onto the anti-torque pedals.",
+    "About 7,013 UH-1s served in Vietnam and 3,305 were destroyed. 1,151 pilots and 1,231 other crew members were killed.",
+    "During the 1972 Easter Offensive, TOW-armed Hueys hit 151 of the 162 missiles they fired.",
+    "The UH-1H is the most-produced variant, with 5,435 built.",
+    "The U.S. Army flew its last UH-1 in late 2016, while the U.S. Air Force's UH-1N is still guarding missile sites and is only now being replaced by the MH-139."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the UH-1H, the most-produced variant. The Huey family runs from the single-engine 1950s Model 204 to the twin-engine UH-1N and UH-1Y, so figures differ widely between versions. The transmission limits the T53-L-13 to 1,100 shp. Service entry is shown as 1959, as the sources give only the year.",
+    "maxSpeed": {
+      "mph": 127,
+      "text": "110 kn (127 mph / 204 km/h)"
+    },
+    "range": {
+      "miles": 318,
+      "text": "318 mi (511 km, 276 nmi) at sea level with maximum fuel and no reserves"
+    },
+    "serviceCeiling": {
+      "ft": 12600,
+      "text": "12,600 ft (3,840 m)"
+    },
+    "rateOfClimb": "1,600 ft/min (8.1 m/s) at sea level",
+    "mainRotorDiameter": {
+      "ft": 48,
+      "text": "48 ft (14.63 m)"
+    },
+    "length": {
+      "ft": 57.8,
+      "text": "57 ft 9.6 in (17.62 m), rotors turning"
+    },
+    "height": {
+      "ft": 14.46,
+      "text": "14 ft 5.5 in (4.41 m), tail rotor turning"
+    },
+    "weight": "empty: 5,210 lb (2,363 kg); MTOW: 9,500 lb (4,309 kg)",
+    "rotorBlades": "2 main, 2 tail",
+    "engines": "1 x Lycoming T53-L-13 turboshaft, 1,400 shp (1,044 kW), limited by the transmission to 1,100 shp (820 kW)",
+    "armament": "None in the base utility role. Gunship versions carried rockets and machine guns, and TOW missiles were fitted in 1972.",
+    "crew": "1 to 4",
+    "capacity": "3,880 lb (1,760 kg), equal to 11 to 14 troops, or six stretchers and an attendant, or the equivalent in cargo",
+    "firstFlight": {
+      "date": "1956-10-20",
+      "year": 1956
+    },
+    "serviceEntryDate": "1959",
+    "retiredDate": null,
+    "numberBuilt": 16000,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price was found in the sources checked",
+      "inflationText": null
+    },
+    "combatLosses": "Of about 7,013 UH-1s that served in Vietnam, 3,305 were destroyed. 1,151 pilots and 1,231 other crew members were killed, not counting South Vietnamese losses."
+  },
+  "variants": [
+    {
+      "code": "HU-1A / UH-1A / UH-1B / UH-1C (Model 204)",
+      "desc": "The original short-cabin Hueys. The HU-1A entered service in 1959 with 182 built, the UH-1B followed with a larger cabin and 1,014 built, and the UH-1C became a gunship with a 1,100 shp T53-L-11 engine and a new rotor. 767 UH-1Cs were built."
+    },
+    {
+      "code": "UH-1D / UH-1H (Model 205)",
+      "desc": "The stretched troop carrier, first flown on 16 August 1961. 2,008 UH-1Ds were built, then 5,435 UH-1Hs with the 1,400 shp T53-L-13. The UH-1H became the most-produced Huey, and Dornier in Germany built 352 UH-1Ds between 1967 and 1981."
+    },
+    {
+      "code": "UH-1E / UH-1F",
+      "desc": "Two service-specific versions. The UH-1E was the U.S. Marine Corps model, with all-aluminium construction and 192 built. The UH-1F was the U.S. Air Force version with a 1,325 shp General Electric T58 engine, 120 built, and was flown on the 26 November 1968 mission that earned Lt. James Fleming the Medal of Honor."
+    },
+    {
+      "code": "UH-1N Twin Huey",
+      "desc": "A twin-engine Model 212 version with Pratt & Whitney Canada PT6T engines. The U.S. Air Force uses it to support ICBM sites and move security personnel, and the Marine Corps retired its last UH-1N in 2014. Boeing and Leonardo's MH-139 won the replacement competition on 24 September 2018."
+    },
+    {
+      "code": "UH-1Y Venom",
+      "desc": "The Marine Corps H-1 upgrade, begun with a 1996 contract. It has a lengthened cabin, a four-blade rotor and two General Electric T700 engines, first flew in 2001 and entered service in 2008."
+    },
+    {
+      "code": "Licence-built Hueys",
+      "desc": "Dornier built 352 UH-1Ds in Germany, and Agusta in Italy built AB 204 and 205 versions. Fuji and Subaru in Japan built HU-1Bs and UH-1Hs and 130 UH-1Js from 1993, and AIDC in Taiwan built UH-1Hs."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1959",
+      "fleetSize": "Thousands built across every version, with 7,013 UH-1s serving in Vietnam; the last was retired in late 2016",
+      "homeBase": "Fort Rucker, Alabama (training); Vietnam (combat)"
+    },
+    {
+      "name": "United States Marine Corps",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "1960s",
+      "fleetSize": "UH-1E, UH-1N (last retired 2014) and UH-1Y versions",
+      "homeBase": "Marine Corps air stations"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "1960s",
+      "fleetSize": "UH-1F, then the UH-1N, still in service as MH-139 production ramps up",
+      "homeBase": "Missile wings and ICBM support bases"
+    },
+    {
+      "name": "Japan Ground Self-Defense Force",
+      "role": "Licence-Built Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Fuji and Subaru built HU-1Bs and UH-1Hs, then 130 UH-1Js from 1993",
+      "homeBase": "Japan"
+    },
+    {
+      "name": "Germany",
+      "role": "Licence-Built Operator",
+      "status": "Retired",
+      "since": "1967",
+      "fleetSize": "352 UH-1Ds built by Dornier between 1967 and 1981; the last was withdrawn on 12 April 2021",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "Other operators worldwide",
+      "role": "Export Customers",
+      "status": "In Service",
+      "since": "1960s",
+      "fleetSize": "Dozens of countries, including Canada, Argentina, El Salvador, Spain, Italy, Australia (RAAF until 1989, Army until 2007), New Zealand (retired 2015), the Philippines, Thailand, Taiwan, Pakistan and Israel (withdrew 2002); combined total not published",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "UH1",
+    "howToFind": "Most military Hueys fly without broadcasting a position, so sightings on Flightradar24 are patchy. Filter for type UH1 and look for civil-registered or foreign-operated aircraft."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "Added the Bell UH-1 Huey - history, Vietnam record, the main variants, operators and the Twilight Zone accident.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Huey",
+    "UH-1",
+    "UH-1H",
+    "UH-1N",
+    "UH-1Y",
+    "Iroquois",
+    "Bell 204",
+    "Bell 205",
+    "Bell 212",
+    "Twin Huey",
+    "Vietnam",
+    "Slick",
+    "Dustoff",
+    "XH-40",
+    "HU-1"
+  ],
+  "article": {
+    "overview": [
+      "The Bell UH-1 Iroquois, known as the Huey, is a single-rotor utility helicopter built by Bell Helicopter for the U.S. Army. It was the first turbine-powered helicopter in U.S. military service, and more than 16,000 have been built since 1960. {{ref:wiki-uh1}}",
+      "About 7,013 UH-1s served in Vietnam, where they flew troop transport, medevac, search and rescue and gunship missions. The U.S. Army retired its last UH-1 in late 2016, but the Air Force UH-1N and Marine Corps UH-1Y are still flying. {{ref:wiki-uh1}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Army set a requirement in 1952 for a medevac, instrument trainer and general utility helicopter. Bell's Model 204 was one of about twenty designs submitted, and on 23 February 1955 the Army selected it, ordering three examples as the XH-40. The first flight was on 20 October 1956 at Fort Worth, Texas. {{ref:wiki-uh1}}",
+          "The Army awarded the production contract for the HU-1A in 1959 and gave it the name Iroquois. The designation became UH-1 in September 1962 under the unified Defense Department system, but the Huey nickname from the HU-1 stuck. {{ref:wiki-uh1}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The early Model 204 Hueys had a Lycoming T53 turboshaft that grew from 700 shp in the prototype to 1,100 shp in the UH-1C and UH-1E. The longer Model 205 first flew on 16 August 1961 and led to the UH-1D and the UH-1H, which used the 1,400 shp T53-L-13. The transmission limits that engine to 1,100 shp. {{ref:wiki-uh1}}",
+          "The UH-1H has a 48 ft (14.63 m) two-blade main rotor and a maximum takeoff weight of 9,500 lb. It carries 11 to 14 troops, six stretchers and an attendant, or 3,880 lb of cargo. Later twin-engine versions, the UH-1N and UH-1Y, use two engines and in the case of the UH-1Y a four-blade rotor. {{ref:wiki-uh1}}"
+        ]
+      },
+      {
+        "heading": "Vietnam & Combat History",
+        "paragraphs": [
+          "Hueys with the 57th Medical Detachment reached South Vietnam in March 1962. In all, 7,013 UH-1s served in the war, flying air assault, cargo, medevac, search and rescue, electronic warfare and later ground attack missions. Troop transports were known as Slicks and armed versions as Hogs or Guns. {{ref:wiki-uh1}}",
+          "The war destroyed 3,305 UH-1s and killed 1,151 pilots and 1,231 other crew members, not counting South Vietnamese losses. In the 1972 Easter Offensive, TOW-armed Hueys hit 151 of the 162 missiles they fired, even though their crews had little TOW training. Hueys later served in the Rhodesian Bush War, the Falklands, Grenada, Panama and the Gulf War, where more than 400 flew about 31,000 hours. {{ref:wiki-uh1}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The Army flew its last UH-1 in late 2016 and transferred it to a state police department. The Air Force still uses the UH-1N to support ICBM sites and to carry security personnel and distinguished visitors, and Boeing and Leonardo's MH-139 won the replacement contract in September 2018. The Marines flew their last UH-1N in 2014. {{ref:wiki-uh1}}",
+          "Germany withdrew the last Dornier-built UH-1Ds on 12 April 2021, Israel withdrew its Hueys in 2002 and New Zealand retired its UH-1Hs in 2015. The Marine Corps UH-1Y entered service in 2008. {{ref:wiki-uh1}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-uh1",
+      "name": "Bell UH-1 Iroquois",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bell_UH-1_Iroquois"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Bell UH-1 Iroquois",
+      "url": "https://en.wikipedia.org/wiki/Bell_UH-1_Iroquois"
+    },
+    {
+      "name": "The United States Helicopter in Vietnam - National WWII Museum / War History Online",
+      "url": "https://warhistory.org/es/article/the-united-states-helicopter-in-vietnam-i"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1956-10-20",
+      "title": "XH-40 first flight",
+      "tag": "Milestone",
+      "summary": "The first XH-40 prototype flew at Fort Worth, Texas, starting the Huey line.",
+      "source": "https://en.wikipedia.org/wiki/Bell_UH-1_Iroquois"
+    },
+    {
+      "date": "1968-11-26",
+      "title": "Lt. James Fleming's Medal of Honor mission",
+      "tag": "Combat action",
+      "summary": "USAF Lt. James P. Fleming earned the Medal of Honor for a mission flown in a UH-1F in Vietnam.",
+      "source": "https://en.wikipedia.org/wiki/Bell_UH-1_Iroquois"
+    },
+    {
+      "date": "1982-07-23",
+      "title": "Twilight Zone filming accident",
+      "tag": "Crash on a film set",
+      "summary": "A UH-1 crashed at Indian Dunes, Valencia, California, during filming, killing actor Vic Morrow and two child actors.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Bell_UH-1_Iroquois"
+    }
+  ],
+  "survivors": {
+    "intro": "Hueys are preserved in museums worldwide; one individually documented airframe is listed here.",
+    "airframes": [
+      {
+        "serial": "Huey 091",
+        "name": "UH-1H",
+        "location": "Smithsonian National Museum of American History",
+        "place": "Washington, D.C., United States",
+        "note": "Its 2002 journey to the museum is covered in the 2004 documentary In the Shadow of the Blade.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

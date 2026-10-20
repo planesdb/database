@@ -1,0 +1,310 @@
+{
+  "name": "Nimrod",
+  "fullName": "Hawker Siddeley Nimrod",
+  "manufacturer": "Hawker Siddeley (later British Aerospace)",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes"
+  ],
+  "role": "Maritime Patrol and Anti-Submarine Aircraft",
+  "tagline": "The Hawker Siddeley Nimrod is a four-jet maritime patrol aircraft developed from the de Havilland Comet 4 airliner for the Royal Air Force. It flew from 1969 to 2011, hunted Soviet submarines, and its replacement, the MRA4, was cancelled in 2010 after £3.4 billion had been spent.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The Nimrod was derived from the de Havilland Comet 4 airliner, with the Avon turbojets replaced by Rolls-Royce Spey turbofans.",
+    "During the Falklands War, XV232 flew a 19 hour 5 minute patrol on 15 May 1982, and another Nimrod flew 8,453 miles in a single sortie, the longest flight of the war.",
+    "The MR.2 carried two US-owned B57 nuclear depth bombs until 1992, and later two British WE.177A weapons of about ten kilotons.",
+    "Five MR.2s operated from Seeb in Oman during the 1991 Gulf War and were credited with helping sink or damage sixteen Iraqi vessels.",
+    "On 2 September 2006 Nimrod XV230 exploded near Kandahar, Afghanistan, killing all 14 on board, the largest UK military loss in a single event since the Falklands War.",
+    "The MRA.4 upgrade was contracted at £2,813 million for 21 aircraft, then cut to nine and cancelled in 2010 with five built and none in service."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications follow the general figures listed for the type. The source gives crew as 13, a range of 4,501 to 5,001 nautical miles and a maximum speed of 500 kn, which is 575 mph by calculation. Production is 49 aircraft plus two prototypes converted from unfinished Comet 4C airframes; the source's variant table overlaps and does not reconcile exactly. The MRA.4 is not described here. Service entry is the arrival of XV230 at RAF St Mawgan.",
+    "maxSpeed": {
+      "mph": 575,
+      "text": "500 kn (575 mph / 926 km/h)"
+    },
+    "cruiseSpeed": "490 mph (789 km/h)",
+    "range": {
+      "miles": 5180,
+      "text": "5,180-5,755 mi (8,336-9,262 km, 4,501-5,001 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 44000,
+      "text": "44,000 ft (13,411 m)"
+    },
+    "wingspan": {
+      "ft": 114.83,
+      "text": "114 ft 10 in (35.00 m)"
+    },
+    "length": {
+      "ft": 126.75,
+      "text": "126 ft 9 in (38.63 m)"
+    },
+    "height": {
+      "ft": 31,
+      "text": "31 ft (9.4 m)"
+    },
+    "weight": "empty: 86,000 lb (39,009 kg); MTOW: 192,000 lb (87,090 kg)",
+    "engines": "4 x Rolls-Royce Spey turbofans, 12,160 lbf (54.1 kN) each",
+    "armament": "Up to 20,000 lb (9,100 kg) in the bomb bay, including torpedoes, depth bombs and, until 1992, two US-owned B57 nuclear depth bombs, later two WE.177A; Sidewinder missiles were fitted for self-defence in the Falklands",
+    "crew": "13",
+    "capacity": "13,500 lb (6,123 kg) payload; 85,840 lb (38,936 kg) of fuel",
+    "firstFlight": {
+      "date": "1967-05-23",
+      "year": 1967
+    },
+    "serviceEntryDate": "1969-10-02",
+    "retiredDate": "2011-06-28",
+    "numberBuilt": 51,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price was found for the MR.2; the MRA.4 was contracted at £2,813M for 21 aircraft in 1996",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "Nimrod MR.1 / MR.2",
+      "desc": "The main maritime patrol versions, replacing the Avro Shackleton. Their primary task was anti-submarine warfare, with anti-surface warfare, maritime surveillance and search and rescue as secondary roles. The MR.2 was withdrawn on 31 March 2010, a year earlier than planned, for financial reasons."
+    },
+    {
+      "code": "Nimrod R.1",
+      "desc": "A signals intelligence version, with four aircraft in the production table. The last R.1 flight was on 28 June 2011 from RAF Waddington, ending the Nimrod's 42 years in RAF service."
+    },
+    {
+      "code": "Nimrod AEW.3",
+      "desc": "An airborne early warning conversion of 11 aircraft with a troubled radar. The programme was cancelled in December 1986, and the RAF received Boeing E-3 Sentry aircraft instead."
+    },
+    {
+      "code": "Nimrod MRA.4",
+      "desc": "A rebuild of the MR.2 with new engines and a new wing. BAe was selected in July 1996 for 21 aircraft at £2,813 million, and orders fell to 18, 12 and finally nine. Five were completed and none entered service. The Strategic Defence and Security Review cancelled it on 19 October 2010."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "49 production aircraft plus two prototypes; the five MRA.4s never entered service",
+      "homeBase": "RAF St Mawgan, RAF Kinloss and RAF Waddington"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The Nimrod made its last flight in 2011, so it cannot appear on Flightradar24. Preserved aircraft include MR.2s at Bruntingthorpe, the Yorkshire Air Museum, Coventry and Morayvia, and R.1s at RAF Museum Cosford and East Midlands Aeropark."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "Added the Hawker Siddeley Nimrod with its Comet origins, Cold War and Falklands service, the 2006 Kandahar loss, and the cancelled MRA.4.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Nimrod",
+    "Hawker Siddeley Nimrod",
+    "MR2",
+    "MR.2",
+    "R1",
+    "AEW3",
+    "MRA4",
+    "MRA.4",
+    "Comet",
+    "maritime patrol",
+    "anti-submarine",
+    "Spey",
+    "RAF",
+    "XV230"
+  ],
+  "article": {
+    "overview": [
+      "The Hawker Siddeley Nimrod is a four-jet maritime patrol and anti-submarine aircraft built for the Royal Air Force, developed from the de Havilland Comet 4 airliner. It entered service in October 1969 and flew for the RAF until June 2011. {{ref:wiki-nimrod}} {{ref:migflug-nimrod}}",
+      "The MR.2 hunted Soviet submarines in the North Atlantic, took part in the Falklands and Gulf wars and flew intelligence missions over Afghanistan and Iraq. Its replacement, the MRA.4, was cancelled in 2010 with none in service, and the National Audit Office put the spending at £3.4 billion. {{ref:wiki-nimrod}} {{ref:migflug-nimrod}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Air Staff Requirement 381, issued on 4 June 1964, called for a replacement for the Avro Shackleton. Hawker Siddeley built the Nimrod from the Comet 4 airliner, replacing the Avon turbojets with Rolls-Royce Spey turbofans and substantially modifying the fuselage. The prototypes XV148 and XV147 were built from two unfinished Comet 4C airframes. {{ref:wiki-nimrod}}",
+          "The first flight was on 23 May 1967. The first production aircraft, XV230, entered RAF service at RAF St Mawgan on 2 October 1969. In all, 49 production aircraft were built plus two prototypes. {{ref:wiki-nimrod}} {{ref:migflug-nimrod}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Nimrod is 126 ft 9 in (38.63 m) long with a 114 ft 10 in (35.00 m) wingspan, and it weighs 192,000 lb at maximum takeoff. Four Spey turbofans of 12,160 lbf give a maximum speed of 500 kn and a cruise speed of 490 mph. {{ref:wiki-nimrod}}",
+          "Its bomb bay holds up to 20,000 lb of torpedoes, depth bombs and other stores. The MR.1 and MR.2 were built primarily for anti-submarine warfare, with anti-surface warfare, maritime surveillance and search and rescue as secondary roles. {{ref:wiki-nimrod}}"
+        ]
+      },
+      {
+        "heading": "Cold War & Falklands Service",
+        "paragraphs": [
+          "The MR.2 patrolled the North Atlantic to monitor Soviet submarines and protect Britain's ballistic missile submarines, and from 1977 it patrolled the 200-nautical-mile exclusive economic zone. It carried two US-owned B57 nuclear depth bombs until 1992 and two British WE.177A weapons of about ten kilotons. It also flew search and rescue missions, including the 1979 Fastnet race and the 1980 Alexander L. Kielland disaster. {{ref:migflug-nimrod}} {{ref:wiki-nimrod}}",
+          "Nimrods deployed to Ascension Island on 5 April 1982 and flew 111 missions in the Falklands War. XV232 flew a 19 hour 5 minute patrol on 15 May, and another aircraft flew 8,453 miles in a single sortie, the longest flight of the war. Sidewinder missiles were fitted for self-defence. {{ref:migflug-nimrod}} {{ref:wiki-nimrod}}"
+        ]
+      },
+      {
+        "heading": "Gulf War & Afghanistan",
+        "paragraphs": [
+          "Five MR.2s operated from Seeb in Oman during the 1991 Gulf War and were credited with helping to sink or damage sixteen Iraqi vessels. In Afghanistan and Iraq the Nimrod gathered intelligence and used its sensors to detect targets for coalition attacks. {{ref:migflug-nimrod}} {{ref:wiki-nimrod}}",
+          "On 2 September 2006 a fire warning sounded on XV230 over Helmand province at 11:11, and about six minutes later the aircraft exploded near Kandahar, killing all 14 on board. It was the largest UK military loss in a single event since the Falklands War. The Haddon-Cave review of 28 October 2009 found that 40 percent of the aircraft's hazards had been left open and 30 percent were unclassified. {{ref:migflug-nimrod}} {{ref:wiki-nimrod}}"
+        ]
+      },
+      {
+        "heading": "Variants & Cancellation",
+        "paragraphs": [
+          "The R.1 was a signals intelligence version, and the AEW.3 was an airborne early warning conversion whose development was troubled and which was cancelled in December 1986, leading to the RAF buying Boeing E-3 Sentry aircraft. The MR.2 was withdrawn on 31 March 2010 and the last R.1 flight was on 28 June 2011 from RAF Waddington. {{ref:wiki-nimrod}}",
+          "The MRA.4 was a rebuilt MR.2 with new engines and wings. BAe was selected in July 1996 for 21 aircraft at £2,813 million, with service planned for April 2003, but orders fell to 18, 12 and then nine. The National Audit Office reported a £789 million overrun, 114 months of delay and £3.4 billion spent. The Strategic Defence and Security Review cancelled the programme on 19 October 2010, and the completed aircraft were broken up at Woodford from 26 January 2011. {{ref:migflug-nimrod}} {{ref:wiki-nimrod}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-nimrod",
+      "name": "Hawker Siddeley Nimrod",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawker_Siddeley_Nimrod"
+    },
+    {
+      "id": "migflug-nimrod",
+      "name": "Nimrod: The Airliner That Hunted Submarines for 42 Years",
+      "publisher": "MiGFlug",
+      "url": "https://migflug.com/afterburner/hawker-siddeley-nimrod-maritime-patrol-comet-mra4/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Hawker Siddeley Nimrod",
+      "url": "https://en.wikipedia.org/wiki/Hawker_Siddeley_Nimrod"
+    },
+    {
+      "name": "Nimrod: The Airliner That Hunted Submarines for 42 Years - MiGFlug",
+      "url": "https://migflug.com/afterburner/hawker-siddeley-nimrod-maritime-patrol-comet-mra4/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1967-05-23",
+      "title": "First flight",
+      "tag": "Milestone",
+      "summary": "The Nimrod prototype, built from an unfinished Comet 4C airframe, made its first flight.",
+      "source": "https://en.wikipedia.org/wiki/Hawker_Siddeley_Nimrod"
+    },
+    {
+      "date": "1982-05-15",
+      "title": "19-hour Falklands patrol",
+      "tag": "Record",
+      "summary": "XV232 flew a patrol lasting 19 hours 5 minutes during the Falklands War, from Ascension Island.",
+      "source": "https://migflug.com/afterburner/hawker-siddeley-nimrod-maritime-patrol-comet-mra4/"
+    },
+    {
+      "date": "1995-09-02",
+      "title": "XV239 crashes into Lake Ontario",
+      "tag": "Air show crash",
+      "summary": "A Nimrod crashed into Lake Ontario during the Canadian International Air Show, killing all seven crew.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Hawker_Siddeley_Nimrod"
+    },
+    {
+      "date": "2006-09-02",
+      "title": "XV230 explodes near Kandahar",
+      "tag": "Fuel leak and fire",
+      "summary": "A fire warning sounded over Helmand province at 11:11, and about six minutes later the aircraft exploded near Kandahar, killing all 14 on board. The Haddon-Cave review followed.",
+      "fatalities": 14,
+      "source": "https://migflug.com/afterburner/hawker-siddeley-nimrod-maritime-patrol-comet-mra4/"
+    },
+    {
+      "date": "2010-10-19",
+      "title": "MRA.4 cancelled",
+      "tag": "Cancellation",
+      "summary": "The Strategic Defence and Security Review cancelled the MRA.4 programme, with five aircraft completed and none in service.",
+      "source": "https://migflug.com/afterburner/hawker-siddeley-nimrod-maritime-patrol-comet-mra4/"
+    }
+  ],
+  "survivors": {
+    "intro": "Eight Nimrods are preserved on public display in the United Kingdom.",
+    "airframes": [
+      {
+        "serial": "XV249",
+        "name": "Nimrod R.1",
+        "location": "Royal Air Force Museum Midlands",
+        "place": "Cosford, Shropshire, United Kingdom",
+        "note": "A signals intelligence R.1.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XW664",
+        "name": "Nimrod R.1",
+        "location": "East Midlands Aeropark",
+        "place": "Leicestershire, United Kingdom",
+        "note": "A signals intelligence R.1.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XV226",
+        "name": "Nimrod MR.2",
+        "location": "Bruntingthorpe Aerodrome",
+        "place": "Leicestershire, United Kingdom",
+        "note": "A maritime patrol MR.2.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XV231",
+        "name": "Nimrod MR.2",
+        "location": "Manchester Airport aviation viewing park",
+        "place": "Manchester, United Kingdom",
+        "note": "A maritime patrol MR.2.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XV232",
+        "name": "Nimrod MR.2",
+        "location": "Coventry Airport",
+        "place": "Coventry, United Kingdom",
+        "note": "The aircraft that flew the 19-hour 5-minute Falklands patrol on 15 May 1982.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XV244",
+        "name": "Nimrod MR.2",
+        "location": "Morayvia",
+        "place": "Kinloss, Moray, United Kingdom",
+        "note": "A maritime patrol MR.2.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XV250",
+        "name": "Nimrod MR.2",
+        "location": "Yorkshire Air Museum",
+        "place": "Elvington, York, United Kingdom",
+        "note": "A maritime patrol MR.2.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XV255",
+        "name": "Nimrod MR.2",
+        "location": "City of Norwich Aviation Museum",
+        "place": "Norwich, Norfolk, United Kingdom",
+        "note": "A maritime patrol MR.2.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "name": "Jaguar",
+  "fullName": "SEPECAT Jaguar",
+  "manufacturer": "SEPECAT (BAC and Breguet / Dassault)",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Tactical Strike and Reconnaissance Aircraft",
+  "tagline": "The SEPECAT Jaguar is a twin-engine, supersonic strike and reconnaissance aircraft built by an Anglo-French company for the RAF and the French Air Force. It first flew on 8 September 1968, about 573 were built, and in 2026 India is the only country still flying it.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "SEPECAT was formed in 1966 as a joint venture between BAC in Britain and Breguet in France, which Dassault took over in 1971.",
+    "The Jaguar began as a trainer: Britain wanted a supersonic jet trainer and France a cheap dual-role trainer and light attack aircraft.",
+    "RAF Jaguars flew 612 combat sorties in the 1991 Gulf War with no losses, and XZ364 'Sadman' flew 47 missions, the most of any RAF aircraft.",
+    "The RAF assigned its Jaguars to tactical nuclear strike with the WE.177 bomb, with a stockpile of 56 allocated to the force.",
+    "Nigeria withdrew its Jaguars in 1991 as an economy measure, and a second batch of 18 was cancelled.",
+    "India's order of 1978 was worth about $1 billion, covering 40 Warton-built aircraft and 120 built under licence by HAL."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are Jane's 1980-81 figures for the single-seat strike versions, so they are not specific to the later GR.3 or Indian upgrades. Production is quoted as 573 in Wikipedia and as 543 elsewhere; the gap depends on whether Indian kit assembly counts. Service entry is the 1973 French introduction; the RAF's first GR.1 joined No. 54 Squadron in 1974.",
+    "maxSpeed": {
+      "mph": 1056,
+      "text": "918 kn (1,056 mph / 1,699 km/h)"
+    },
+    "range": {
+      "miles": 506,
+      "text": "506 mi (815 km, 440 nmi) hi-lo-hi combat range; 1,182 mi (1,902 km) ferry range"
+    },
+    "serviceCeiling": {
+      "ft": 45932,
+      "text": "45,932 ft (14,000 m)"
+    },
+    "wingspan": {
+      "ft": 28.51,
+      "text": "28 ft 6 in (8.69 m)"
+    },
+    "length": {
+      "ft": 55.2,
+      "text": "55 ft 3 in (16.83 m)"
+    },
+    "height": {
+      "ft": 16.04,
+      "text": "16 ft 0.5 in (4.89 m)"
+    },
+    "weight": "empty: ~15,432 lb (~7,000 kg); MTOW: 34,613 lb (15,700 kg)",
+    "engines": "2 x Rolls-Royce Turbomeca Adour Mk.102 afterburning turbofans, 5,115 lbf (22.75 kN) dry and 7,305 lbf (32.5 kN) with afterburner each",
+    "armament": "Two 30 mm cannon (ADEN on RAF aircraft, DEFA on French aircraft); seven hardpoints with 10,000 lb (4,500 kg) capacity; WE.177 (RAF) or AN-52 (France) tactical nuclear bombs",
+    "crew": "1 (single-seat versions) or 2 (trainers)",
+    "capacity": "10,000 lb (4,500 kg) of external stores on seven hardpoints",
+    "firstFlight": {
+      "date": "1968-09-08",
+      "year": 1968
+    },
+    "serviceEntryDate": "1973",
+    "retiredDate": null,
+    "numberBuilt": 573,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price was found, only India's $1B 1978 order covering 160 aircraft",
+      "inflationText": null
+    },
+    "combatLosses": "RAF Jaguars flew 612 sorties in the 1991 Gulf War with no losses. French Jaguars lost one aircraft shot down in Chad in 1978 and another on 25 January 1984, which killed its pilot, Captain Michel Croci."
+  },
+  "variants": [
+    {
+      "code": "Jaguar A / E (France)",
+      "desc": "The French single-seat strike version (A, 160 built) and two-seat trainer (E, 40 built). The French Air Force received its first Jaguar in 1973, and the last squadron discarded its Jaguars in July 2005, replaced in the ground-attack role by the Rafale."
+    },
+    {
+      "code": "Jaguar S / GR.1 and B / T.2 (RAF)",
+      "desc": "The RAF single-seat strike version (165 GR.1s) and two-seat trainer (38 T.2s plus a prototype). The GR.1 entered service with No. 54 Squadron in 1974. About 75 became GR.1As with the Ferranti FIN1064 inertial system in 1983. The RAF took on charge 203 in total."
+    },
+    {
+      "code": "GR.3 / GR.3A / T.4",
+      "desc": "The final RAF standard, with GPS and TERPROM terrain-following navigation, and the Adour Mk.106 engine on the GR.3A. Conversions ran from 1997 to 2007. The RAF retired the type on 30 April 2007, ahead of a planned October date."
+    },
+    {
+      "code": "Jaguar M and Jaguar ACT",
+      "desc": "The Jaguar M was a naval prototype, with one built before the programme was cancelled in 1973. The Jaguar Active Control Technology was a single converted research aircraft."
+    },
+    {
+      "code": "Export versions",
+      "desc": "Ecuador took the ES and EB (10 single-seat and 2 two-seat), Nigeria the SN and BN (13 and 5), and Oman the OS and OB and later S(O) and B(O). Oman's last four were retired on 6 August 2014, and its remaining 20 were donated to India."
+    },
+    {
+      "code": "Indian Jaguar IS / IB / IM / MAX",
+      "desc": "The Indian versions, locally called Shamsher, built under licence by HAL from 1981. The IM is a maritime version. India upgraded 60 aircraft to DARIN III by 2024, and HAL unveiled the MAX upgrade in 2019. The oldest 60 are due to retire from 2028 to 2031."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Indian Air Force",
+      "role": "Sole Current Operator",
+      "status": "In Service",
+      "since": "1979",
+      "fleetSize": "74 in service per Wikipedia in 2026, though other sources put the fleet nearer 110 to 120; 160 ordered in 1978 including 120 built by HAL",
+      "homeBase": "Not published"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1974",
+      "fleetSize": "203 taken on charge; peak of six squadrons plus the OCU; retired on 30 April 2007",
+      "homeBase": "RAF Coltishall, RAF Coningsby, RAF Bruggen, RAF Laarbruch"
+    },
+    {
+      "name": "French Air and Space Force",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1973",
+      "fleetSize": "160 Jaguar As and 40 Jaguar Es; last squadron retired in July 2005",
+      "homeBase": "France"
+    },
+    {
+      "name": "Royal Air Force of Oman",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1977",
+      "fleetSize": "First deliveries in March 1977, with a second order in the 1980s; the last four retired on 6 August 2014 and 20 were donated to India",
+      "homeBase": "Oman"
+    },
+    {
+      "name": "Ecuadorian Air Force",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1977",
+      "fleetSize": "12 ordered (10 single-seat and 2 two-seat), the first delivered in January 1977",
+      "homeBase": "Ecuador"
+    },
+    {
+      "name": "Nigerian Air Force",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1984",
+      "fleetSize": "13 single-seat and 5 two-seat aircraft delivered from May 1984; withdrawn in 1991 as an economy measure",
+      "homeBase": "Nigeria"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "JAGR",
+    "howToFind": "Indian Air Force Jaguars rarely broadcast a position. The RAF and French Jaguars have retired, so Flightradar24 sightings are very unlikely outside air displays and museum events."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "New entry for the SEPECAT Jaguar, including its Anglo-French origins, the Gulf War record, the RAF and Indian service histories, and the preserved aircraft.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Jaguar",
+    "SEPECAT Jaguar",
+    "GR1",
+    "GR3",
+    "Jaguar A",
+    "Jaguar E",
+    "Shamsher",
+    "Adour",
+    "WE.177",
+    "Anglo-French",
+    "BAC",
+    "Breguet",
+    "strike aircraft",
+    "RAF",
+    "Indian Air Force"
+  ],
+  "article": {
+    "overview": [
+      "The SEPECAT Jaguar is a twin-engine, supersonic tactical strike and reconnaissance aircraft built by SEPECAT, a joint venture between BAC in Britain and Breguet in France. It first flew on 8 September 1968, production ran from 1968 to 1981 and about 573 were built. {{ref:wiki-jaguar}}",
+      "The French Air Force received its first Jaguar in 1973 and the RAF's first GR.1 joined No. 54 Squadron in 1974. France retired its Jaguars in July 2005 and the RAF in April 2007, and by 2026 India was the only operator. {{ref:wiki-jaguar}} {{ref:migflug-jaguar}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Jaguar began in the early 1960s as a British requirement for a supersonic jet trainer and a French requirement for a cheap dual-role trainer and light attack aircraft. The Anglo-French memorandum was signed in 1965 and SEPECAT formed in 1966. The design drew partly on the Breguet Br.121, and the British side contributed the wing and high-lift devices. {{ref:wiki-jaguar}} {{ref:migflug-jaguar}}",
+          "The requirements later shifted toward supersonic performance, reconnaissance, low-level strike and tactical nuclear strike. Dassault took over Breguet in 1971. Production ran from 1968 to 1981. {{ref:wiki-jaguar}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Jaguar is powered by two Adour Mk.102 turbofans of 22.75 kN dry and 32.5 kN with afterburner. It is 16.83 m long with an 8.69 m wingspan, weighs up to 15,700 kg at takeoff and reaches Mach 1.1 at sea level and Mach 1.6 at 11,000 m. Its combat range is 815 km hi-lo-hi. {{ref:wiki-jaguar}}",
+          "Armament is two 30 mm cannon and a 10,000 lb load on seven hardpoints, with nuclear capability through the WE.177 (RAF) and AN-52 (France). The first prototype, a two-seater with a production Adour engine, flew on 8 September 1968 and was lost on landing on 26 March 1970 after an engine fire. The French A prototype flew in March 1969 and the British S in October 1969. {{ref:wiki-jaguar}}"
+        ]
+      },
+      {
+        "heading": "RAF & French Service",
+        "paragraphs": [
+          "The RAF's first aircraft reached the Jaguar OCU at RAF Lossiemouth in May 1973, and the GR.1 entered service with No. 54 Squadron in 1974. The RAF ordered about 200 and took on charge 203, with a peak of six squadrons plus the OCU, based at Coltishall, Coningsby, Bruggen and Laarbruch. RAF Jaguars were declared to SACEUR in the tactical nuclear strike role with the WE.177 from the mid-1970s, with a stockpile of 56 bombs allocated. {{ref:migflug-jaguar}} {{ref:wiki-jaguar}}",
+          "France built 160 Jaguar As and 40 Jaguar Es, and its AN-52 nuclear bomb was withdrawn in September 1991. The last RAF Jaguars retired on 30 April 2007, and a QinetiQ Jaguar made the last British military flight on 20 December 2007. {{ref:wiki-jaguar}} {{ref:migflug-jaguar}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "French Jaguars made their combat debut against Polisario forces in Mauritania in December 1977. In Chad they helped halt a FROLINAT offensive in 1978, and one was shot down, and in February 1986 11 Jaguars raided Wadi Doum airfield. In the 1991 Gulf War France flew 615 combat sorties with a maximum of 28 aircraft, and the RAF flew 612 sorties with 12 aircraft and no losses. {{ref:wiki-jaguar}} {{ref:migflug-jaguar}}",
+          "Six French Jaguars flew 63 strike missions from Italy in Operation Deliberate Force over Bosnia in 1995. Indian Jaguars dropped unguided and laser-guided bombs in the Kargil conflict in 1999, and in the 2025 India-Pakistan conflict they struck Pakistani bases with Rampage missiles. {{ref:wiki-jaguar}}"
+        ]
+      },
+      {
+        "heading": "Indian Service & Outlook",
+        "paragraphs": [
+          "India ordered the Jaguar in 1978 in a deal worth $1 billion, covering 40 Warton-built aircraft and 120 licence-built by HAL. The RAF loaned 18 Jaguars from 1979, and HAL-built aircraft followed from 1981. In 2018 India cannibalised 31 French, two UK and two Omani airframes for spares, and in December 2025 it acquired 20 retired Omani Jaguars for parts. {{ref:wiki-jaguar}}",
+          "Sixty Indian aircraft had been upgraded to DARIN III by 2024, and the Indian Air Force plans to retire the oldest 60 from 2028 to 2031. In June 2026 India decided to buy nine more UK airframes. Three Indian Jaguars crashed in 2025: an IS at Panchkula on 7 March, with the pilot ejecting, an IB near Jamnagar on 2 April, killing one pilot, and an IB at Ratangarh on 9 July, killing both pilots. {{ref:wiki-jaguar}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-jaguar",
+      "name": "SEPECAT Jaguar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SEPECAT_Jaguar"
+    },
+    {
+      "id": "migflug-jaguar",
+      "name": "SEPECAT Jaguar",
+      "publisher": "MiGFlug",
+      "url": "https://migflug.com/aircraft/sepecat-jaguar/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "SEPECAT Jaguar",
+      "url": "https://en.wikipedia.org/wiki/SEPECAT_Jaguar"
+    },
+    {
+      "name": "SEPECAT Jaguar - MiGFlug",
+      "url": "https://migflug.com/aircraft/sepecat-jaguar/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1968-09-08",
+      "title": "First flight",
+      "tag": "Milestone",
+      "summary": "The first Jaguar prototype, a two-seater with a production Adour engine, made its first flight.",
+      "source": "https://en.wikipedia.org/wiki/SEPECAT_Jaguar"
+    },
+    {
+      "date": "1970-03-26",
+      "title": "First prototype lost on landing",
+      "tag": "Engine fire",
+      "summary": "The first prototype was lost on landing after an engine fire.",
+      "source": "https://en.wikipedia.org/wiki/SEPECAT_Jaguar"
+    },
+    {
+      "date": "1984-01-25",
+      "title": "French Jaguar shot down in Chad",
+      "tag": "Shot down",
+      "summary": "A French Jaguar was shot down in Chad, killing its pilot, Captain Michel Croci.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/SEPECAT_Jaguar"
+    },
+    {
+      "date": "2025-03-07",
+      "title": "Indian Jaguar IS crashes at Panchkula",
+      "tag": "Crash",
+      "summary": "An IAF Jaguar IS crashed in Panchkula district after takeoff from Ambala. The pilot ejected safely.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/SEPECAT_Jaguar"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "Indian Jaguar IB crashes near Jamnagar",
+      "tag": "Crash",
+      "summary": "An IAF Jaguar IB crashed near Jamnagar during a night training sortie, killing one pilot.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/SEPECAT_Jaguar"
+    },
+    {
+      "date": "2025-07-09",
+      "title": "Indian Jaguar IB crashes in Rajasthan",
+      "tag": "Crash",
+      "summary": "An IAF Jaguar IB trainer crashed at Ratangarh, Rajasthan, killing both pilots.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/SEPECAT_Jaguar"
+    }
+  ],
+  "survivors": {
+    "intro": "Jaguars are preserved in museums across the United Kingdom, France, Germany and the United States.",
+    "airframes": [
+      {
+        "serial": "XX108",
+        "name": "Jaguar GR1B",
+        "location": "AirSpace, Imperial War Museum Duxford",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "note": "A GR1B on display at the museum.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "A91",
+        "name": "Jaguar A",
+        "location": "Musee de l'air et de l'espace",
+        "place": "Le Bourget, France",
+        "note": "A French Gulf War veteran with surface-to-air missile damage.",
+        "countryCode": "fr",
+        "country": "France"
+      },
+      {
+        "serial": "XZ396",
+        "name": "Jaguar GR3A",
+        "location": "Pima Air and Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "note": "A GR3A in the museum collection.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "XW563",
+        "name": "Jaguar GR1 'Spirit of Coltishall'",
+        "location": "County Hall, Norfolk County Council",
+        "place": "Norwich, Norfolk, United Kingdom",
+        "note": "A former gate guardian from RAF Coltishall.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XX146",
+        "name": "Jaguar T.4",
+        "location": "Solway Aviation Museum",
+        "place": "Carlisle Airport, Cumbria, United Kingdom",
+        "note": "A two-seat T.4 trainer.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XZ383",
+        "name": "Jaguar GR1",
+        "location": "Yorkshire Air Museum",
+        "place": "Elvington, York, United Kingdom",
+        "note": "A GR1 on display at the museum.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XZ119",
+        "name": "Jaguar GR1A",
+        "location": "National Museum of Flight",
+        "place": "East Fortune, East Lothian, United Kingdom",
+        "note": "A GR1A on display at the museum.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XX741",
+        "name": "Jaguar GR1A",
+        "location": "Bentwaters Airfield",
+        "place": "Suffolk, United Kingdom",
+        "note": "Maintained in taxiable condition.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  }
+}

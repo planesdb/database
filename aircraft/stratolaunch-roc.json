@@ -1,0 +1,280 @@
+{
+  "name": "Roc",
+  "fullName": "Stratolaunch Roc (Scaled Composites Model 351)",
+  "manufacturer": "Scaled Composites",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Air-Launch Carrier Aircraft",
+  "tagline": "The Stratolaunch Roc is a twin-fuselage, six-engine carrier aircraft built by Scaled Composites in Mojave, California, and the aircraft with the largest wingspan ever flown at 385 ft. It was designed to air-launch satellite rockets and now carries reusable hypersonic test vehicles for government and commercial customers.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "Roc's 385 ft (117 m) wingspan is longer than a football field and the largest of any aircraft that has flown.",
+    "Its six Pratt & Whitney engines, flight deck, avionics and landing gear came from Boeing 747-400 donor aircraft, which supply about 250,000 lb of its takeoff weight.",
+    "Only the right fuselage has a crewed cockpit, holding the pilot, copilot and flight engineer, while the left fuselage cockpit is unmanned.",
+    "Stratolaunch abandoned its rocket programme in January 2019, cut staff from nearly 80 to 21 by April, and was put up for sale at $400 million that June.",
+    "Roc needs about 12,000 ft (3,700 m) of runway to take off, and its maximum takeoff weight is 1.3 million lb.",
+    "By May 2025 Roc had completed 24 flights, and by July 2026 Stratolaunch reported more than 10 consecutive hypersonic flights of its reusable Talon-A vehicle."
+  ],
+  "specifications": {
+    "specificationsNote": "Stratolaunch has not published a maximum speed, cruise speed, service ceiling or range for Roc, so those fields are left unfilled rather than estimated. The highest speed it has reported is 180 kn and the highest altitude 23,490 ft, both on the third flight in January 2022. The service entry date is the point in early 2023 when the tenth flight marked the start of routine operations. No official unit cost has been published: the $200 million figure comes from Seattle Business Magazine (December 2011) and The War Zone (2019), which put development and construction of the aircraft alone at no less than $200 million, and it has been converted to 2026 dollars with US CPI-U.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "Not publicly disclosed - the highest speed reported is 180 kn, on the third flight in January 2022"
+    },
+    "cruiseSpeed": "Not publicly disclosed",
+    "range": {
+      "miles": null,
+      "text": "Not publicly disclosed"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Not publicly disclosed - the highest altitude reported is 23,490 ft (7,160 m); the planned release altitude was 35,000 ft (10,700 m)"
+    },
+    "wingspan": {
+      "ft": 385,
+      "text": "385 ft 0 in (117 m)"
+    },
+    "length": {
+      "ft": 238,
+      "text": "238 ft 0 in (72.5 m)"
+    },
+    "height": {
+      "ft": 50,
+      "text": "50 ft 0 in (15.2 m)"
+    },
+    "weight": "empty: 500,000 lb (226,796 kg); MTOW: 1,300,000 lb (589,670 kg)",
+    "engines": "6 x Pratt & Whitney PW4056 turbofans, 56,750 lbf (252.4 kN) each, taken from Boeing 747-400 donor aircraft",
+    "crew": "3 (pilot, copilot and flight engineer, all in the right fuselage)",
+    "capacity": "550,000 lb (250,000 kg) external payload rating, carried beneath the centre wing section on a Mating and Integration System rated for a 490,000 lb (220 t) load",
+    "firstFlight": {
+      "date": "2019-04-13",
+      "year": 2019
+    },
+    "serviceEntryDate": "2023-04-01",
+    "retiredDate": null,
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": 298000000,
+      "text": "Reported: ~$298M (unconfirmed)",
+      "inflationText": "Reported as $200M+ (2011)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Roc (N351SL)",
+      "desc": "The only aircraft, designated Model 351 by Scaled Composites. It rolled out on 31 May 2017 and first flew on 13 April 2019 for 2 hours 29 minutes, reaching 17,000 ft and 165 kn. It has been flown in two roles, as a planned rocket carrier and, since 2022, as a carrier for hypersonic test vehicles."
+    },
+    {
+      "code": "Pegasus XL carrier (planned)",
+      "desc": "The orbital launch configuration the aircraft was built for. After Stratolaunch dropped its own rockets in January 2019, a Northrop Grumman Pegasus XL slung under the centre wing and released at about 35,000 ft was the only launch option left, with an orbital capacity of 800 lb (360 kg). The first launch was planned for 2020."
+    },
+    {
+      "code": "Talon-A carrier",
+      "desc": "The current role. Roc carries a Talon-A, a reusable, rocket-powered, autonomous vehicle that Stratolaunch designed for Mach 5 to 7, under the centre wing and releases it over the Pacific. Flight 8 on 28 October 2022 was the first captive carry of the separation test vehicle TA-0, and the first release came on 5 March 2024."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Stratolaunch",
+      "role": "Owner and Operator",
+      "status": "In Service",
+      "since": "2011",
+      "fleetSize": "1",
+      "homeBase": "Mojave Air and Space Port, California"
+    },
+    {
+      "name": "Cerberus Capital Management",
+      "role": "Owner of Stratolaunch",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "1 (through its ownership of Stratolaunch)",
+      "homeBase": "Mojave Air and Space Port, California"
+    },
+    {
+      "name": "Vulcan Inc.",
+      "role": "Original Owner",
+      "status": "Retired",
+      "since": "2011",
+      "fleetSize": "1 (owned through Stratolaunch until the 2019 sale)",
+      "homeBase": "Mojave Air and Space Port, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Flights are infrequent and are rarely announced in advance. Roc is based at Mojave Air and Space Port in California and is registered N351SL, and Talon-A releases typically take place over the Pacific Ocean off the California coast."
+  },
+  "lastUpdated": "2026-10-08",
+  "changelog": [
+    {
+      "date": "2026-10-08",
+      "change": "New entry for the Stratolaunch Roc, including its test flights and the move from satellite launches to hypersonic testing. Sources: Stratolaunch, Wikipedia, The War Zone and Space.com.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Stratolaunch",
+    "Roc",
+    "Scaled Composites",
+    "Model 351",
+    "Paul Allen",
+    "largest wingspan",
+    "Talon-A",
+    "hypersonic",
+    "air launch",
+    "Mojave",
+    "N351SL",
+    "world's largest aircraft"
+  ],
+  "article": {
+    "overview": [
+      "The Stratolaunch Roc is a twin-fuselage, six-engine carrier aircraft built by Scaled Composites for Stratolaunch Systems, with a 385 ft wingspan that is the largest of any aircraft that has flown. It was designed to carry rockets beneath its centre wing and release them at altitude, and it first flew on 13 April 2019 at Mojave, California. {{ref:wiki-stratolaunch}} {{ref:sl-roc}}",
+      "Paul Allen funded the project from 2011 and died in October 2018, six months before the first flight. Stratolaunch dropped its rocket programme in January 2019, was sold to Cerberus Capital Management later that year, and now uses Roc to air-launch Talon-A hypersonic test vehicles. By 5 May 2025 the aircraft had completed 24 flights. {{ref:wiki-stratolaunch}} {{ref:sl-talon-a2}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Paul Allen founded Stratolaunch in 2011, with his firm Vulcan Inc. set up partly to back it, and announced the project that December, with Dynetics already studying the concept since early 2011 and about 40 staff on it at the announcement. SpaceX's Falcon 9 Air was the original launch vehicle and SpaceX left about a year later. An 88,000 sq ft composite facility opened at Mojave in October 2012 after a dedicated hangar went up that May, Pegasus II was chosen in August 2013, and an all-solid-fuel design replaced the liquid option in August 2014. {{ref:wiki-stratolaunch}}",
+          "In October 2016 the plan changed again, to carrying several Northrop Grumman Pegasus XL rockets under the aircraft. By June 2016 about 300 people were working on the aircraft, and Roc rolled out on 31 May 2017, named after the mythical bird said to be able to carry off an elephant, and its development and construction were reported to have cost at least $200 million. The aircraft's job was to take a rocket to about 35,000 ft and release it, which cuts the fuel the rocket needs and lets it avoid weather at the launch site. {{ref:sbm-200m}} {{ref:twz-shutdown}} {{ref:sl-roc}} {{ref:wiki-stratolaunch}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Roc has two 238 ft fuselages, each with its own tail, joined by a 95 ft centre wing section. The fuselage centrelines are 106 ft apart and there is 24 ft of clearance beneath the centre wing for the payload. The pilot, copilot and flight engineer sit in the right fuselage, and the left cockpit is unmanned. {{ref:wiki-stratolaunch}}",
+          "Boeing 747-400 donor aircraft supplied the six Pratt & Whitney PW4056 engines, avionics, flight deck and landing gear, which together account for about 250,000 lb of takeoff weight. The wing holds six main and two auxiliary fuel tanks, and a Mating and Integration System developed by Dynetics carries up to 490,000 lb (220 t) beneath the centre section. Empty weight is 500,000 lb, gross weight without a payload is 750,000 lb, maximum takeoff weight is 1.3 million lb, and the takeoff run needs about 12,000 ft of runway. {{ref:wiki-stratolaunch}}"
+        ]
+      },
+      {
+        "heading": "Flight Test",
+        "paragraphs": [
+          "Taxi tests reached 25 knots in December 2017, 40 knots in February 2018, 78 knots in October 2018 and 110 knots on 9 January 2019. The first flight, on 13 April 2019, lasted 2 hours 29 minutes and reached 17,000 ft and 165 knots. {{ref:wiki-stratolaunch}}",
+          "The second flight followed on 29 April 2021, the third on 16 January 2022 (4 hours 23 minutes, over 23,490 ft, 180 knots) and the fourth on 24 February 2022. Flight 8, on 28 October 2022, was the first captive carry of the Talon-A separation test vehicle, TA-0. Flight 9, on 13 January 2023, ran for more than six hours at up to 22,500 ft, the longest so far and the first outside the Mojave range, and by 1 April 2023 flight 10 had marked the start of routine operations. {{ref:wiki-stratolaunch}} {{ref:space-roc9}}"
+        ]
+      },
+      {
+        "heading": "Shutdown & Sale",
+        "paragraphs": [
+          "In January 2019 Stratolaunch ended development of its launch vehicle family, including the Black Ice space plane and new rocket motors. The company's staff had fallen from nearly 80 to 21 by 1 April 2019, and Reuters reported on 31 May 2019 that Vulcan had decided to shut down the space launch unit. Vulcan's chair, Judy Allen, reportedly let Roc's first flight go ahead in her brother's honour but had already decided to close the company afterwards. The Pegasus XL launch planned for 2020 already looked unlikely, according to The War Zone, which noted that NASA had paid $56 million for a Pegasus XL launch around 2015 for a payload of under 1,000 lb, while SpaceX was offering to launch up to 50,000 lb to low Earth orbit from about $50 million. {{ref:twz-shutdown}}",
+          "On 31 May 2019 the company announced that it would cease operations and explore selling its assets, and Vulcan offered it for sale in June at $400 million. New ownership was announced on 11 October 2019, Cerberus Capital Management was named as the buyer in December, and the company refocused on high-speed flight test services. {{ref:wiki-stratolaunch}}"
+        ]
+      },
+      {
+        "heading": "Hypersonic Test Platform",
+        "paragraphs": [
+          "Stratolaunch began developing Talon-A in early 2020, a reusable, rocket-powered vehicle intended to fly at Mach 5 to 7. Roc released a Talon-A from beneath its centre wing at about 35,000 ft on 5 March 2024, and the first hypersonic flight followed in December 2024. A second flight in March 2025 exceeded the earlier speed, ended with a runway landing and an immediate payload recovery, and was announced on 5 May 2025. {{ref:wiki-stratolaunch}} {{ref:sl-talon-a2}}",
+          "Drops typically take place over the Pacific Ocean. The flights were made for the Test Resource Management Center's MACH-TB programme under a partnership with Leidos. In July 2026 Stratolaunch reported more than 10 consecutive successful hypersonic flights, flown from two carrier aircraft: Roc and a refurbished Boeing 747-400 named Spirit of Mojave. Customers are rarely named and payload details are sparse, so what Roc carries on most flights is not public. {{ref:sl-10-flights}} {{ref:space-double}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Stratolaunch describes Talon-A as the first reusable, fully autonomous, air-launched hypersonic aircraft. It carries no crew and has no human in the loop, it lands on a standard runway to be refurbished and flown again, and the same vehicle has flown more than once. In July 2026 the company listed two carrier aircraft and two Talon-A vehicles in its fleet. {{ref:sl-10-flights}}",
+          "George Rumford, director of the Test Resource Management Center, called reusable, fully recoverable hypersonic test vehicles an important milestone for MACH-TB and said lessons learned could cut turnaround from months to weeks. Stratolaunch's chief executive, Zachary Krevor, said the company was on the path to making hypersonic flight test services a reality. The company has not published a flight price, a top speed or a range for Roc, and the aircraft's reported work since 2022 has been captive carries and Talon-A releases rather than satellite launches. {{ref:sl-talon-a2}} {{ref:wiki-stratolaunch}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-stratolaunch",
+      "name": "Scaled Composites Stratolaunch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scaled_Composites_Stratolaunch"
+    },
+    {
+      "id": "sl-roc",
+      "name": "Roc",
+      "publisher": "Stratolaunch",
+      "url": "https://www.stratolaunch.com/vehicles/roc/"
+    },
+    {
+      "id": "sl-talon-a2",
+      "name": "Stratolaunch Successfully Completes Reusable Hypersonic Flight and Recovery with Talon-A2 Vehicle",
+      "publisher": "Stratolaunch",
+      "url": "https://www.stratolaunch.com/news/stratolaunch-successfully-completes-reusable-hypersonic-flight-and-recovery-with-talon-a2-vehicle/"
+    },
+    {
+      "id": "sl-10-flights",
+      "name": "Stratolaunch Achieves Major Milestone: 10+ Successful Hypersonic Flights with Reusable, Fully Autonomous Talon-A Aircraft",
+      "publisher": "Stratolaunch",
+      "url": "https://www.stratolaunch.com/news/stratolaunch-achieves-major-milestone-10-successful-hypersonic-flights-with-reusable-fully-autonomous-talon-a-aircraft/"
+    },
+    {
+      "id": "twz-shutdown",
+      "name": "Stratolaunch Reportedly Shuts Down Leaving World's Largest Plane With An Uncertain Future",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/28319/stratolaunch-reportedly-shuts-down-leaving-worlds-largest-plane-with-an-uncertain-future"
+    },
+    {
+      "id": "space-roc9",
+      "name": "World's largest plane, Stratolaunch's Roc, aces 2nd captive-carry test flight",
+      "publisher": "Space.com",
+      "url": "https://www.space.com/stratolaunch-roc-second-captive-carry-test-flight"
+    },
+    {
+      "id": "space-double",
+      "name": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
+      "publisher": "Space.com",
+      "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone"
+    },
+    {
+      "id": "sbm-200m",
+      "name": "Stratolaunch aircraft cost report, December 2011",
+      "publisher": "Seattle Business Magazine",
+      "url": "https://www.seattlebusinessmag.com/paul-allen-spend-200-million-build-worlds-largest-airplane/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Stratolaunch - Roc",
+      "url": "https://www.stratolaunch.com/vehicles/roc/"
+    },
+    {
+      "name": "Seattle Business Magazine - Stratolaunch aircraft cost report, December 2011",
+      "url": "https://www.seattlebusinessmag.com/paul-allen-spend-200-million-build-worlds-largest-airplane/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2019-04-13",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "Roc made its first flight from Mojave Air and Space Port, lasting 2 hours 29 minutes and reaching 17,000 ft and 165 knots.",
+      "source": "https://en.wikipedia.org/wiki/Scaled_Composites_Stratolaunch"
+    },
+    {
+      "date": "2019-05-31",
+      "title": "Stratolaunch announces it will wind down",
+      "tag": "Programme change",
+      "summary": "Seven weeks after the first flight, the company announced that it would cease operations and explore selling its assets. It had already ended work on its launch vehicles in January, and new owners were announced in October 2019.",
+      "source": "https://www.twz.com/28319/stratolaunch-reportedly-shuts-down-leaving-worlds-largest-plane-with-an-uncertain-future"
+    },
+    {
+      "date": "2022-10-28",
+      "title": "First Talon-A captive carry",
+      "tag": "Milestone",
+      "summary": "On flight 8 Roc carried the Talon-A separation test vehicle, TA-0, for the first time, a step towards dropping hypersonic vehicles.",
+      "source": "https://en.wikipedia.org/wiki/Scaled_Composites_Stratolaunch"
+    },
+    {
+      "date": "2023-01-13",
+      "title": "Longest flight and first outside the Mojave range",
+      "tag": "Milestone",
+      "summary": "Roc flew for more than six hours at up to 22,500 ft, its longest flight to date, carrying a Talon-A prototype on its second captive-carry flight.",
+      "source": "https://www.space.com/stratolaunch-roc-second-captive-carry-test-flight"
+    },
+    {
+      "date": "2024-03-05",
+      "title": "First Talon-A release",
+      "tag": "Milestone",
+      "summary": "Roc released a Talon-A hypersonic vehicle at about 35,000 ft, the first powered flight of the vehicle.",
+      "source": "https://en.wikipedia.org/wiki/Scaled_Composites_Stratolaunch"
+    }
+  ]
+}

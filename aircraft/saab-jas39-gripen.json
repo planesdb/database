@@ -1,0 +1,393 @@
+{
+  "name": "Gripen",
+  "fullName": "Saab JAS 39 Gripen",
+  "manufacturer": "Saab AB",
+  "originCountry": {
+    "name": "Sweden",
+    "code": "se"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Light Multirole Fighter",
+  "tagline": "The Saab JAS 39 Gripen is a single-engine, canard-delta light multirole fighter built by Saab for the Swedish Air Force. Designed to fly from short snow-covered strips and turn around in ten minutes, it is flown by six countries, Colombia has ordered 17, and Ukraine signed a letter of intent for up to 150 in 2025.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "Saab's fact sheet gives the Gripen C a minimum takeoff run of 400 m and a landing run of 500 m, with a ten-minute air-to-air turnaround and a full engine replacement in one hour.",
+    "The prototype's 1989 crash and the 1993 Stockholm Water Festival crash were both tied to the same flight-control software fault, which was fixed in 1995.",
+    "Eight Gripens deployed to the 2011 Libya no-fly zone and flew over 650 combat missions in almost 2,000 flight hours.",
+    "Ukraine and Sweden signed a letter of intent on 22 October 2025 covering up to 150 Gripen E, though long-term financing had not been settled.",
+    "Colombia signed for 17 Gripen E/F on 15 November 2025 for EUR 3.1 billion, to replace the 20 Kfirs it bought in the 1980s.",
+    "South Africa's 26 Gripens have been largely grounded since 2021, and in May 2026 only two were combat-capable."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the Gripen E, the current production version. Speed is Mach 2 at altitude, and the knots, mph and km/h figures are calculated from Mach 2 at 36,000 ft, so they carry a tilde. Empty weight and height come from press sources, not Saab. Range is the 4,000 km quoted for the Gripen E; Wikipedia gives a combat radius of 1,300 km with six air-to-air missiles and external tanks. For comparison, Saab's Gripen C fact sheet lists a length of 14.9 m, a wingspan of 8.4 m, an empty weight of 6,800 kg, an MTOW of 14,000 kg, 80.5 kN of thrust from the RM12 engine and a ferry range of 3,000 km. About 300 Gripens have been built across all versions as of 2023. The unit cost is the price Brazil paid per aircraft for 26 Gripen E/F in its 2022 order.",
+    "maxSpeed": {
+      "mph": 1319,
+      "text": "~1,146 kn (~1,319 mph / ~2,123 km/h)"
+    },
+    "cruiseSpeed": "Supercruise at Mach 1.1 with an air-to-air payload",
+    "range": {
+      "miles": 2485,
+      "text": "2,485 mi (4,000 km)"
+    },
+    "serviceCeiling": {
+      "ft": 52500,
+      "text": "52,500 ft (16,000 m)"
+    },
+    "wingspan": {
+      "ft": 28.2,
+      "text": "28 ft 3 in (8.6 m)"
+    },
+    "length": {
+      "ft": 49.87,
+      "text": "49 ft 10 in (15.2 m)"
+    },
+    "height": {
+      "ft": 14.76,
+      "text": "14 ft 9 in (4.5 m)"
+    },
+    "weight": "empty: ~17,637 lb (8,000 kg); MTOW: 36,376 lb (16,500 kg)",
+    "engines": "1 x General Electric F414G afterburning turbofan, 22,000 lbf (98 kN)",
+    "armament": "27 mm Mauser BK27 cannon (single-seat versions); ten pylon stations for IRIS-T and Meteor air-to-air missiles (AIM-9 Sidewinder and AIM-120 AMRAAM as alternatives), Taurus KEPD 350, RBS 15F ER, Brimstone, Mk 82/83/84 bombs and GBU-series guided bombs",
+    "crew": "1 (Gripen E); 2 (Gripen F)",
+    "capacity": "About 13,200 to 14,300 lb (6,000 to 6,500 kg) of external stores",
+    "firstFlight": {
+      "date": "1988-12-09",
+      "year": 1988
+    },
+    "serviceEntryDate": "1996-06-09",
+    "retiredDate": null,
+    "numberBuilt": 300,
+    "unitCost": {
+      "usd": 85000000,
+      "text": "$85M (2022 Brazilian order, per Gripen E/F)",
+      "inflationText": "Earlier JAS 39C flyaway under $30M"
+    }
+  },
+  "variants": [
+    {
+      "code": "JAS 39A / 39B",
+      "desc": "The first production version, ordered in the Batch II contract of 1992. The 39A is single-seat and the 39B two-seat, 66 cm longer and without the cannon. Both used the RM12 engine and the PS-05/A radar. The 39A reached initial operational status in 1995 and full operational status in 1997, and these were the aircraft involved in the early software-related accidents."
+    },
+    {
+      "code": "JAS 39C / 39D",
+      "desc": "The 'Turbo Gripen' of the Batch III order of 1997, made NATO-compatible for export, with an air-refuelling probe and an on-board oxygen generating system. The C is single-seat and the D two-seat. Batch III was delivered between 2002 and 2008, Meteor missile integration arrived in the MS19 upgrade completed in 2010, and the final Swedish JAS 39C was delivered in March 2015."
+    },
+    {
+      "code": "JAS 39E / 39F (Gripen NG)",
+      "desc": "The current version, ordered by Sweden in January 2013 with 60 single-seat E aircraft. It has a larger fuselage, 40 percent more internal fuel than the C, the 22,000 lbf F414G engine, a Raven ES-05 AESA radar, a SkyWard G infrared search and track sensor and ten weapon stations. The E first flew on 15 June 2017, and the F is the two-seat version."
+    },
+    {
+      "code": "Gripen Demo",
+      "desc": "A two-seat test aircraft ordered in 2007, which first flew on 27 May 2008. It carried the F414G and tested the new systems for the E and F. On 21 January 2009 it reached more than Mach 1.2 at 28,000 ft without afterburner."
+    },
+    {
+      "code": "Sea Gripen (study)",
+      "desc": "A carrier-capable version studied from 2009 and also called Gripen Maritime. The Brazilian Navy expressed interest in it, but it was never built or ordered. It is listed here as a study and is not an in-service variant."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Swedish Air Force",
+      "role": "Launch Customer and Primary Operator",
+      "status": "In Service",
+      "since": "1996",
+      "fleetSize": "204 JAS 39A-D ordered in three batches (134 in service in January 2013); 60 Gripen E on order, first delivered 20 October 2025",
+      "homeBase": "Såtenäs (F 7), Kallinge (F 17) and Luleå (F 21)"
+    },
+    {
+      "name": "Brazilian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2014 (contract signed)",
+      "fleetSize": "40 ordered (28 E and 8 F in 2014, 4 more in 2022); a November 2024 letter of intent raises the total to 45",
+      "homeBase": "Brazil"
+    },
+    {
+      "name": "Royal Thai Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2011",
+      "fleetSize": "12 Gripen C/D (6 ordered in 2008, 6 more in 2010); 4 Gripen E/F (3 E and 1 F) ordered in August 2025",
+      "homeBase": "Surat Thani"
+    },
+    {
+      "name": "Czech Air Force",
+      "role": "Lessee",
+      "status": "In Service",
+      "since": "2005",
+      "fleetSize": "14 leased ex-Swedish aircraft (12 single-seat and 2 two-seat), lease extended to 2027",
+      "homeBase": "Čáslav"
+    },
+    {
+      "name": "Hungarian Air Force",
+      "role": "Lessee and Export Operator",
+      "status": "In Service",
+      "since": "2003 (contract signed)",
+      "fleetSize": "18, being 14 from the lease-purchase programme (2 lost in 2015) plus 4 new JAS 39C that joined in 2026; 1 crashed on 24 August 2026",
+      "homeBase": "Kecskemét"
+    },
+    {
+      "name": "South African Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2008",
+      "fleetSize": "26 C/D ordered in 1999; largely grounded since 2021, with 2 combat-capable in May 2026",
+      "homeBase": "South Africa"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Military Gripens appear on Flightradar24 only when civil receivers pick up a flight, which mostly means transit and airshow flights."
+  },
+  "lastUpdated": "2026-10-14",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Added the Saab Gripen - history, the C/D and E versions, operators and orders including Colombia and the Ukraine letter of intent, and the accident record.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Saab Gripen",
+    "JAS 39",
+    "JAS 39E",
+    "Gripen E",
+    "Gripen C",
+    "Gripen NG",
+    "F-39",
+    "Swedish Air Force",
+    "Flygvapnet",
+    "canard delta",
+    "Brazil",
+    "Colombia",
+    "Ukraine",
+    "Thailand",
+    "Hungary",
+    "Czech",
+    "South Africa",
+    "Meteor",
+    "F414G"
+  ],
+  "article": {
+    "overview": [
+      "The Saab JAS 39 Gripen is a single-engine, canard-delta light multirole fighter built by Saab for the Swedish Air Force. It first flew on 9 December 1988, entered Swedish service in 1996, and about 300 have been built. Sweden, Brazil, Hungary, the Czech Republic, South Africa and Thailand fly it, and Colombia signed for 17 in November 2025. {{ref:wiki-gripen}} {{ref:aviationist-colombia}}",
+      "The Gripen was designed for dispersed operations from short, snow-covered strips of about 500 m and for ten-minute turnarounds between air-to-air sorties. Fly-by-wire controls hold its deliberately unstable airframe steady, and the current Gripen E adds a General Electric F414G engine, an AESA radar and ten weapon stations. {{ref:wiki-gripen}} {{ref:saab-c}} {{ref:keyaero}} {{ref:aviationist-colombia}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Sweden began studying a 'fighter, attack and reconnaissance' aircraft, the JAS, in 1979 to replace the Saab 35 Draken and the Saab 37 Viggen. Industrigruppen JAS was formed in 1980 as a joint venture of Saab-Scania, LM Ericsson, Svenska Radio, Volvo Flygmotor and the Swedish Defence Materiel Administration. Contracts worth SEK 25.7 billion on 30 June 1982 covered five prototypes and 30 production aircraft. {{ref:wiki-gripen}}",
+          "The Riksdag's 1982 vote was 176 to 167, and final approval followed in April 1983 on condition that the contract was fixed-price. The first aircraft was rolled out on 26 April 1987, Saab's 50th anniversary, and Stig Holmström made the 51-minute first flight on 9 December 1988. {{ref:wiki-gripen}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Gripen has a cropped delta wing and canard foreplanes, both swept 45 degrees, with the wing mounted at mid-fuselage. The airframe is inherently unstable, and a triple-redundant digital fly-by-wire system with an analogue backup holds it steady. A lightweight composite structure gives an empty weight of about three-quarters that of an F-16C. {{ref:airvectors}}",
+          "The Gripen C/D is powered by the RM12, a Swedish licence-built derivative of the General Electric F404, and carries a Mauser BK-27 27 mm cannon in single-seat versions, an X-band PS-05/A pulse-Doppler radar and a Martin-Baker Mk S10L zero-zero ejection seat. Saab's fact sheet gives a minimum takeoff distance of 400 m and a landing distance of 500 m, with a load limit of +9 g and -3 g. Air-to-air turnaround takes ten minutes and a full engine replacement one hour. {{ref:saab-c}} {{ref:airvectors}} {{ref:wiki-gripen}}"
+        ]
+      },
+      {
+        "heading": "Teething Troubles & Entry into Service",
+        "paragraphs": [
+          "The first prototype, 39-1, crashed on landing at Linköping on 2 February 1989 after pilot-induced oscillation in gusty winds, and pilot Lars Rådeström broke an elbow. A production aircraft, 39-102, crashed at the Stockholm Water Festival on 8 August 1993 after a stall during a low-altitude roll, and Rådeström ejected. The accident record ties both to a flight-control software fault that was fixed in 1995. {{ref:wiki-accidents}} {{ref:wiki-gripen}}",
+          "The Swedish Air Force introduced the JAS 39 in 1996, and the Skaraborg Wing (F 7) received it on 1 November 1997. On 20 September 1999 a JAS 39A flew through another aircraft's wake vortex in a dive over Lake Vänern, the control laws briefly stalled it, and Captain Rickard Mattsson ejected and landed safely in the lake. {{ref:wiki-gripen}} {{ref:wiki-accidents}}"
+        ]
+      },
+      {
+        "heading": "From the Gripen C to the Gripen E",
+        "paragraphs": [
+          "The Batch II order of 1992 covered the single-seat JAS 39A and the two-seat 39B, which is 66 cm longer and has no cannon. The Batch III order of 1997 covered the 'Turbo Gripen' C and D, made NATO-compatible for export, with an air-refuelling probe and an on-board oxygen generating system, and was delivered from 2002 to 2008. Meteor missile integration came with the MS19 upgrade, completed in 2010. {{ref:wiki-gripen}}",
+          "Sweden ordered 60 Gripen E in January 2013. The E has a fuselage lengthened by 370 mm aft of the wing, 40 percent more internal fuel than the C, and a 22,000 lbf F414G that gives about 20 percent more thrust than the RM12. Its Leonardo Raven ES-05 AESA radar has about 1,000 transmit-receive modules, and the SkyWard G infrared search and track sensor scans 160 by 60 degrees and tracks up to 200 targets. The E first flew on 15 June 2017, and Sweden took its first production aircraft on 20 October 2025. {{ref:wiki-gripen}} {{ref:keyaero}} {{ref:airvectors}}"
+        ]
+      },
+      {
+        "heading": "Operations & Exports",
+        "paragraphs": [
+          "Eight Gripens deployed on 2 April 2011 to enforce the UN-mandated no-fly zone over Libya. By October 2011 they had flown more than 650 combat missions and almost 2,000 flight hours and produced about 2,000 reconnaissance reports. Thailand reportedly used Gripen C/Ds on a strike mission during its July 2025 border conflict with Cambodia. {{ref:wiki-gripen}} {{ref:breaking-thailand}}",
+          "The Czech Republic leased 14 ex-Swedish aircraft from 2005 for EUR 780 million over ten years, and Hungary signed a lease on 2 February 2003. South Africa ordered 26 C/D in 1999 and took deliveries from April 2008. Brazil signed on 24 October 2014 for 28 E and 8 F worth SEK 39.3 billion, added four more in April 2022 and raised its total to 45 in a November 2024 letter of intent. Colombia signed on 15 November 2025 for 15 E and 2 F at EUR 3.1 billion, with deliveries from 2026 to 2032. {{ref:wiki-gripen}} {{ref:aviationist-colombia}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Thailand ordered four Gripen E/F, three E and one F, in August 2025 for about SEK 5.3 billion with deliveries from 2025 to 2030, after its Cambodia strike mission led Sweden's government to review the sale. Sweden and Ukraine announced a letter of intent on 22 October 2025 covering up to 150 Gripen E. Ukraine asked for 100 to 150, Sweden's prime minister said first deliveries could begin in about three years, and long-term financing was not finalised. {{ref:breaking-thailand}} {{ref:defensenews-ukraine}}",
+          "South Africa's fleet shows what weak support does to the type. The Gripens have been largely grounded since maintenance contracts expired in 2021, and in May 2026 the defence minister told parliament that R4.96 billion was needed to restore full air combat capability, with only two of the 26 aircraft combat-capable. Hungary has 18 Gripens including four new JAS 39Cs delivered in 2026, and one crashed near Szolnok on 24 August 2026 with the pilot ejecting uninjured. Sweden is upgrading its C/D aircraft under a SEK 3.5 billion contract running from 2023 to 2029, which extends their service past 2030 alongside the E. {{ref:timeslive-saaf}} {{ref:abc-hungary}} {{ref:wiki-gripen}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-gripen",
+      "name": "Saab JAS 39 Gripen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saab_JAS_39_Gripen"
+    },
+    {
+      "id": "wiki-accidents",
+      "name": "Accidents and incidents involving the JAS 39 Gripen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_JAS_39_Gripen"
+    },
+    {
+      "id": "saab-c",
+      "name": "Gripen C fact sheet",
+      "publisher": "Saab",
+      "url": "https://www.saab.com/globalassets/products/aeronautics/gripen-c-series/gripen_c_factsheet.pdf"
+    },
+    {
+      "id": "airvectors",
+      "name": "Saab Gripen",
+      "publisher": "Air Vectors",
+      "url": "https://www.airvectors.net/avgripen.html"
+    },
+    {
+      "id": "keyaero",
+      "name": "Gripen E",
+      "publisher": "Key.Aero",
+      "url": "https://key.aero/article/gripen-e"
+    },
+    {
+      "id": "aviationist-colombia",
+      "name": "Colombia Signs Gripen E/F Contract",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2025/11/16/colombia-signs-gripen-e-f-contract/"
+    },
+    {
+      "id": "breaking-thailand",
+      "name": "Saab secures $550M Gripen E/F order for Thailand",
+      "publisher": "Breaking Defense",
+      "url": "https://breakingdefense.com/2025/08/saab-secures-550m-gripen-e-f-order-for-thailand/"
+    },
+    {
+      "id": "defensenews-ukraine",
+      "name": "Ukraine gets in line for Swedish Gripen E fighter jets",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2025/10/23/ukraine-gets-in-line-for-swedish-gripen-e-fighter-jets/"
+    },
+    {
+      "id": "timeslive-saaf",
+      "name": "SA air force crisis laid bare",
+      "publisher": "TimesLIVE",
+      "url": "https://www.timeslive.co.za/news/south-africa/2026-05-08-sa-air-force-crisis-laid-bare/"
+    },
+    {
+      "id": "abc-hungary",
+      "name": "Hungarian air force Gripen jet crashes, pilot ejects safely, prime minister says",
+      "publisher": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/hungarian-air-force-gripen-jet-crashes-pilot-ejects-135896226"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Gripen C fact sheet - Saab",
+      "url": "https://www.saab.com/globalassets/products/aeronautics/gripen-c-series/gripen_c_factsheet.pdf"
+    },
+    {
+      "name": "Gripen E - Key.Aero",
+      "url": "https://key.aero/article/gripen-e"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1989-02-02",
+      "title": "Prototype crash at Linköping",
+      "tag": "Landing accident",
+      "summary": "The first prototype, 39-1, crashed on landing after pilot-induced oscillation in gusty winds, and pilot Lars Rådeström broke an elbow. The investigation later linked the problem to flight-control software.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_JAS_39_Gripen"
+    },
+    {
+      "date": "1993-08-08",
+      "title": "Stockholm Water Festival crash",
+      "tag": "Display crash",
+      "summary": "A production JAS 39A, 39-102, stalled during a slow-speed display manoeuvre over Långholmen and crashed. Rådeström ejected, one person on the ground was injured, and the same software fault as in 1989 was fixed in 1995.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_JAS_39_Gripen"
+    },
+    {
+      "date": "1999-09-20",
+      "title": "Wake vortex crash over Lake Vänern",
+      "tag": "Loss of control",
+      "summary": "A JAS 39A of the Skaraborg Wing flew through another aircraft's wake vortex in a dive, and the control laws briefly stalled it. Captain Rickard Mattsson ejected and landed safely in the lake.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_JAS_39_Gripen"
+    },
+    {
+      "date": "2005-06-01",
+      "title": "Deep stall during a dogfight exercise",
+      "tag": "Deep stall",
+      "summary": "A JAS 39A of the F 17 wing entered a deep stall after a low-speed situation, and Lt Col Axel Nilsson ejected and landed safely. The investigation noted an unclear flight manual and low flight hours.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_JAS_39_Gripen"
+    },
+    {
+      "date": "2007-04-19",
+      "title": "Involuntary ejection at Vidsel",
+      "tag": "Ejection",
+      "summary": "Captain Stefan Kaarle of the Norrbotten Wing was ejected involuntarily from a JAS 39C when g-suit movements pulled the redesigned ejection handle. He landed safely, and the investigation cited inadequate quality assurance.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_JAS_39_Gripen"
+    },
+    {
+      "date": "2011-04-02",
+      "title": "Libya no-fly zone deployment",
+      "tag": "Operation",
+      "summary": "Eight Gripens deployed for the UN-mandated no-fly zone over Libya. By October 2011 they had flown more than 650 combat missions and almost 2,000 flight hours.",
+      "source": "https://en.wikipedia.org/wiki/Saab_JAS_39_Gripen"
+    },
+    {
+      "date": "2015-05-19",
+      "title": "Hungarian JAS 39D overruns runway at Čáslav",
+      "tag": "Runway overrun",
+      "summary": "A Hungarian two-seat JAS 39D overran the runway at Čáslav Air Base in the Czech Republic and lost its nose section. Both crew ejected without injury.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_JAS_39_Gripen"
+    },
+    {
+      "date": "2015-06-10",
+      "title": "Hungarian JAS 39C belly landing at Kecskemét",
+      "tag": "Belly landing",
+      "summary": "A Hungarian single-seat JAS 39C made a belly landing at Kecskemét Air Base. Major Sándor Kádár ejected and suffered spinal injuries.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_JAS_39_Gripen"
+    },
+    {
+      "date": "2017-01-14",
+      "title": "Royal Thai Air Force Gripen crash at Hat Yai",
+      "tag": "Fatal crash",
+      "summary": "A Royal Thai Air Force Gripen from Wing 56 crashed at Hat Yai, killing Squadron Leader Dilokrit Pattavee. The investigation found no aircraft fault, and pilot spatial disorientation is suspected.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_JAS_39_Gripen"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "Hungarian Gripen crash near Szolnok",
+      "tag": "Crash",
+      "summary": "A Hungarian Air Force Gripen crashed near Szolnok and the pilot ejected without injury. Prime Minister Péter Magyar said the cause was still unknown and an investigation is under way.",
+      "fatalities": 0,
+      "source": "https://abcnews.com/International/wireStory/hungarian-air-force-gripen-jet-crashes-pilot-ejects-135896226"
+    }
+  ],
+  "survivors": {
+    "intro": "The first prototype, 39-1, was destroyed in 1989. The second prototype, 39-2, is the oldest surviving Gripen.",
+    "airframes": [
+      {
+        "serial": "39-2",
+        "name": "Gripen prototype 39-2",
+        "location": "Aeroseum, held in the Swedish Air Force Museum collection",
+        "place": "Gothenburg, Sweden",
+        "note": "The second prototype, first flown in May 1990 and equipped to test the flight-control system. It was painted black and white so it would show up on test-flight video, flew 461 hours until December 1999, and was then handed to the Swedish Air Force Museum (inventory number FVM.138984).",
+        "featured": true,
+        "countryCode": "se",
+        "country": "Sweden"
+      }
+    ]
+  }
+}

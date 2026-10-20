@@ -1,0 +1,271 @@
+{
+  "name": "XF-85 Goblin",
+  "fullName": "McDonnell XF-85 Goblin",
+  "manufacturer": "McDonnell Aircraft",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Parasite Escort Fighter",
+  "tagline": "The McDonnell XF-85 Goblin is a single-seat jet fighter built to ride inside a B-36 bomber, be lowered on a trapeze to meet attackers and be hooked back on afterward. Two prototypes flew for a total of 2 hours 19 minutes in 1948 and 1949, and the programme was cancelled on 24 October 1949.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "The two Goblins flew for a total of 2 hours 19 minutes, and Edwin Schoch was the only pilot to fly either.",
+    "No XF-85 was ever carried by a B-36. All the testing used a modified B-29 called the EB-29B Monstro.",
+    "The Goblin had no landing gear, so Schoch landed on its belly on the dry lakebed at Muroc after several failed hook-ups.",
+    "Only three free flights ended in a successful hook-up, all of them on 14 and 15 October 1948.",
+    "The 37 degree swept wings folded so that the 21 ft 1 in span aircraft could be stowed in the bomber's bomb bay.",
+    "The closer the Goblin flew to the bomber, the more power it needed to push through the compressed air between them, and the more turbulent that air became."
+  ],
+  "specifications": {
+    "specificationsNote": "Maximum speed is McDonnell's estimate of 650 mph (the National Museum of the USAF quotes 664 mph); the highest speed actually recorded was 362 mph and no speed trials were attempted. Cruise speed of 225 mph is the museum's figure. No range has been published, only an endurance of about 1 hour 20 minutes, and the 48,000 ft ceiling is also an estimate.",
+    "maxSpeed": {
+      "mph": 650,
+      "text": "~565 kn (~650 mph / ~1,046 km/h)"
+    },
+    "cruiseSpeed": "225 mph (362 km/h)",
+    "range": {
+      "miles": null,
+      "text": "Not publicly disclosed - endurance was about 1 hour 20 minutes"
+    },
+    "serviceCeiling": {
+      "ft": 48000,
+      "text": "48,000 ft (14,630 m)"
+    },
+    "wingspan": {
+      "ft": 21.08,
+      "text": "21 ft 1 in (6.43 m), wings spread"
+    },
+    "length": {
+      "ft": 14.83,
+      "text": "14 ft 10 in (4.52 m)"
+    },
+    "height": {
+      "ft": 8.25,
+      "text": "8 ft 3 in (2.51 m)"
+    },
+    "weight": "empty: 3,740 lb (1,696 kg); MTOW: 5,600 lb (2,540 kg)",
+    "engines": "1 x Westinghouse XJ34 turbojet, 3,000 lbf (13 kN)",
+    "armament": "4 x .50 cal (12.7 mm) M3 Browning machine guns",
+    "crew": "1",
+    "capacity": "112 US gal (424 L) of fuel, enough for the specified 30 minutes of combat endurance",
+    "firstFlight": {
+      "date": "1948-08-23",
+      "year": 1948
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1949",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the whole project is recorded at $3,210,664 for both aircraft and the flight tests, with no per-aircraft price",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "XF-85 (46-523)",
+      "desc": "The first prototype was damaged when it was dropped during handling for wind-tunnel testing at NASA Ames in January 1948, and it was flying again by 1949. It made one 30-minute free flight on 8 April 1949, which ended in a belly landing at Muroc after three failed attempts to hook onto the trapeze."
+    },
+    {
+      "code": "XF-85 (46-524)",
+      "desc": "The second prototype replaced the first in the Ames tests and did most of the flying. It made the first free flight on 23 August 1948 and the successful hook-ups of October 1948. Its last flight, on 18 March 1949, lasted 19 minutes and tested a redesigned nose hook and wingtip winglets."
+    },
+    {
+      "code": "P-85 (production plan)",
+      "desc": "The Army Air Forces planned 30 production P-85s, with orders for more than 100 to follow only if the prototype tests went well. Up to 10 percent of the B-36s on order were to be converted into fighter carriers holding three or four Goblins. None were built."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1948",
+      "fleetSize": "2 prototypes (46-523 and 46-524)",
+      "homeBase": "Muroc Air Test Center (now Edwards AFB), California"
+    },
+    {
+      "name": "McDonnell Aircraft",
+      "role": "Manufacturer and Flight-Test Contractor",
+      "status": "Retired",
+      "since": "1945",
+      "fleetSize": "2 built after a letter of intent signed on 9 October 1945",
+      "homeBase": "St. Louis, Missouri"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The XF-85 last flew in 1949, so it cannot appear on Flightradar24. One Goblin is displayed at the National Museum of the United States Air Force near Dayton, Ohio, and the other is at the Strategic Air Command & Aerospace Museum in Ashland, Nebraska."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "New entry for the McDonnell XF-85 Goblin, covering the B-36 parasite fighter idea, the hook-up trials with Ed Schoch and the two surviving aircraft.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "XF-85",
+    "XP-85",
+    "Goblin",
+    "McDonnell",
+    "parasite fighter",
+    "B-36",
+    "EB-29B",
+    "Monstro",
+    "FICON",
+    "Tom-Tom",
+    "Tip Tow",
+    "Bumble Bee",
+    "Schoch",
+    "experimental"
+  ],
+  "article": {
+    "overview": [
+      "The McDonnell XF-85 Goblin is a single-seat parasite fighter built by McDonnell Aircraft for the U.S. Army Air Forces, later the U.S. Air Force. It was designed to be carried inside a Convair B-36 bomber, launched on a trapeze to defend it and recovered afterward. Two prototypes were built and flown in 1948 and 1949. {{ref:nmusaf}} {{ref:wiki-xf85}}",
+      "The Goblin was 14 ft 10 in long, had no landing gear and was powered by a 3,000 lbf Westinghouse XJ34 turbojet. Pilot Edwin Schoch could release it from its carrier but struggled to hook back on in turbulent air, and the Air Force cancelled the programme on 24 October 1949. {{ref:nmusaf}} {{ref:lookback}} {{ref:wiki-xf85}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The idea came from a range problem. The B-36 mission was a 10,000-mile round trip flown at 330 mph, which took about 30 hours, and aerial refuelling was still years away, so conventional escort fighters could not stay with the bomber. The Army Air Forces issued a request for a small piston-engined fighter on 3 December 1942, and in January 1945 the MX-472 specification revised it to require a jet. {{ref:lookback}} {{ref:wiki-xf85}}",
+          "McDonnell's team, led by Herman Barkey, submitted the redesigned Model 27D on 19 March 1945 and was the only company to bid on both the original and the revised requirement. The Army Air Forces signed a letter of intent for two prototypes, serials 46-523 and 46-524, on 9 October 1945. A B-36 would normally carry one Goblin, with up to three possible because three of the four bomb bays were large enough. {{ref:lookback}} {{ref:wiki-xf85}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Goblin was 14 ft 10 in (4.52 m) long and 8 ft 3 in (2.51 m) high, with a 21 ft 1 in (6.43 m) span when its 37 degree swept wings were spread. It had no landing gear. A retractable docking hook engaged a trapeze under the carrier, and three fork-shaped stabilisers, later supplemented with extra fins, were fitted for the turbulent air near the bomber. Armament was four .50 calibre M3 Browning machine guns, and the pilot sat on a cordite-powered ejection seat. {{ref:wiki-xf85}}",
+          "The Westinghouse XJ34 turbojet gave an estimated top speed of 650 mph and a service ceiling of 48,000 ft, with an endurance of 1 hour 20 minutes on 112 US gallons of fuel. The highest speed actually recorded was 362 mph, and no speed trials were attempted. {{ref:wiki-xf85}} {{ref:nmusaf}}"
+        ]
+      },
+      {
+        "heading": "Flight Test & Hook-Up Trials",
+        "paragraphs": [
+          "The first prototype, 46-523, was dropped from a crane at about 40 ft (12 m) during handling for wind-tunnel testing at NASA Ames in January 1948, so the second, 46-524, did most of the flying. No B-36 was available, so McDonnell modified a B-29 into the EB-29B Monstro with a cutaway bomb bay and a trapeze, and a loading pit measuring 24.5 ft by 92 ft was dug at Muroc. After five captive flights, Schoch made the first free flight on 23 August 1948, releasing from 20,000 ft. {{ref:lookback}} {{ref:wiki-xf85}}",
+          "Schoch struck the trapeze on his hook-up attempts that day, shattered the canopy and landed on the dry lakebed. Testing resumed after seven weeks, and he made successful hook-ups on 14 and 15 October 1948. On 22 October the hook broke and a forced landing followed, and the last two flights, on 18 March and 8 April 1949, each ended in a belly landing after trapeze problems. {{ref:nmusaf}} {{ref:wiki-xf85}} {{ref:lookback}}"
+        ]
+      },
+      {
+        "heading": "Cancellation & Legacy",
+        "paragraphs": [
+          "McDonnell recommended suspending the recovery tests, reasoning that if an experienced test pilot could not complete a recovery then combat pilots would have little chance. The Air Force cancelled the programme on 24 October 1949, citing weak performance against contemporary jet fighters, the piloting skill needed to dock and the growing prospect of aerial refuelling for escort fighters. The project cost $3,210,664. {{ref:sac}} {{ref:wiki-xf85}}",
+          "XF-85 data fed into later parasite concepts including MX-106 Tip Tow, Tom-Tom and FICON (Fighter Conveyor). FICON used a refined trapeze and carried Republic RF-84K reconnaissance fighters under converted B-36s. Ten GRB-36Ds and 25 RF-84Ks served with Strategic Air Command in 1955 and 1956. {{ref:wiki-xf85}} {{ref:lookback}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nmusaf",
+      "name": "McDonnell XF-85 Goblin",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195800/mcdonnell-xf-85-goblin"
+    },
+    {
+      "id": "sac",
+      "name": "XF-85 Goblin",
+      "publisher": "Strategic Air Command & Aerospace Museum",
+      "url": "https://www.sacmuseum.org/visit/exhibit/xf-85-goblin/"
+    },
+    {
+      "id": "lookback",
+      "name": "Peacemaker Parasites",
+      "publisher": "U.S. Air Force",
+      "url": "https://media.defense.gov/2023/Jul/31/2003271433/-1/-1/1/LOOKBACK_PEACEMAKER%20PARASITES.PDF"
+    },
+    {
+      "id": "wiki-xf85",
+      "name": "McDonnell XF-85 Goblin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_XF-85_Goblin"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "McDonnell XF-85 Goblin",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_XF-85_Goblin"
+    },
+    {
+      "name": "McDonnell XF-85 Goblin - National Museum of the USAF",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195800/mcdonnell-xf-85-goblin"
+    },
+    {
+      "name": "XF-85 Goblin - Strategic Air Command & Aerospace Museum",
+      "url": "https://www.sacmuseum.org/visit/exhibit/xf-85-goblin/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1948-08-23",
+      "title": "First free flight ends in a belly landing",
+      "tag": "Hook-up failure",
+      "summary": "Schoch released from the EB-29B at 20,000 ft and flew for about ten minutes, then struck the trapeze on his hook-up attempts, smashing the canopy. He landed on the dry lakebed at Muroc.",
+      "fatalities": 0,
+      "source": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195800/mcdonnell-xf-85-goblin"
+    },
+    {
+      "date": "1948-10-22",
+      "title": "Hook breaks on the fifth free flight",
+      "tag": "Equipment failure",
+      "summary": "Four hook-up attempts failed, the docking hook broke, and Schoch made a forced landing at Muroc.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/McDonnell_XF-85_Goblin"
+    },
+    {
+      "date": "1949-03-18",
+      "title": "Trapeze damage and another belly landing",
+      "tag": "Hook-up failure",
+      "summary": "On the last flight of 46-524, which tested a redesigned nose hook and wingtip winglets, hook-up proved difficult and the trapeze was damaged. The Goblin landed on its belly.",
+      "fatalities": 0,
+      "source": "https://media.defense.gov/2023/Jul/31/2003271433/-1/-1/1/LOOKBACK_PEACEMAKER%20PARASITES.PDF"
+    },
+    {
+      "date": "1949-04-08",
+      "title": "Last flight of 46-523",
+      "tag": "Hook-up failure",
+      "summary": "After a 30-minute free flight and three failed hook-up attempts, Schoch made a belly landing at Muroc. It was the last flight of the programme.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/McDonnell_XF-85_Goblin"
+    },
+    {
+      "date": "1949-10-24",
+      "title": "Programme cancelled",
+      "tag": "Cancellation",
+      "summary": "The Air Force ended the XF-85 programme after seven flights and 2 hours 19 minutes of flying.",
+      "source": "https://en.wikipedia.org/wiki/McDonnell_XF-85_Goblin"
+    }
+  ],
+  "survivors": {
+    "intro": "Both prototypes survive, one in Ohio and one in Nebraska.",
+    "airframes": [
+      {
+        "serial": "46-0523",
+        "name": "XF-85 Goblin",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "note": "Transferred to the museum in 1950 and shown beside a B-36 for decades before moving to the Experimental Aircraft Hangar in 2000.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "46-0524",
+        "name": "XF-85 Goblin",
+        "location": "Strategic Air Command & Aerospace Museum",
+        "place": "Ashland, Nebraska, United States",
+        "note": "The prototype with the most flight time. It passed through the Tallmantz collection in California before Offutt AFB acquired it, and it now hangs under the wing of B-36J 52-2217.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "name": "Victor",
+  "fullName": "Handley Page Victor",
+  "manufacturer": "Handley Page",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Strategic Bomber and Aerial Tanker",
+  "tagline": "The Handley Page Victor is a four-jet strategic bomber built for the Royal Air Force, and the third and last of the V-bombers. It first flew on 24 December 1952, 86 were built, and after its bomber career it served as a tanker until 15 October 1993.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "On 1 June 1956 Victor XA917 flew at Mach 1.1, making it the largest aircraft to break the sound barrier at that time.",
+    "During prototype testing the Victor reached Mach 0.98 without handling or buffeting problems.",
+    "The B.2's Rolls-Royce Conway was at one point the most powerful non-afterburning engine outside the Soviet Union.",
+    "On the Black Buck raid in 1982 a relay of Victor tankers refuelled a single Vulcan seven times on the way out and once on the way home.",
+    "Victor K.2 tankers flew more than 3,000 hours and more than 600 air refuelling sorties from Ascension Island during the Falklands War.",
+    "The Victor left the nuclear deterrent role in 1968 after fatigue cracking worsened under the low-level flying profile."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the B.2, the main bomber version. The K.2 tanker had a clipped 117 ft wing, an empty weight of 114,050 lb, a maximum takeoff weight of 238,000 lb and 91,000 lb of fuel. Sources disagree on the K.2's ceiling (49,000 ft or 59,000 ft), range (3,500 or 4,500 miles) and top speed (the 627 mph used here is Wikipedia's figure at 36,000 ft, while the Yorkshire Air Museum gives 640 mph, Mach 0.92, at 40,000 ft). Service entry is shown as 1958, the year the B.1 joined No. 10 Squadron; the B.2 followed in October 1961.",
+    "maxSpeed": {
+      "mph": 627,
+      "text": "545 kn (627 mph / 1,009 km/h)"
+    },
+    "cruiseSpeed": "Around Mach 0.92 in service",
+    "range": {
+      "miles": 4600,
+      "text": "4,600 mi (7,400 km, 4,000 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 56000,
+      "text": "56,000 ft (17,070 m)"
+    },
+    "wingspan": {
+      "ft": 120,
+      "text": "120 ft (36.6 m)"
+    },
+    "length": {
+      "ft": 114.92,
+      "text": "114 ft 11 in (35.03 m)"
+    },
+    "height": {
+      "ft": 28.12,
+      "text": "28 ft 1.5 in (8.57 m)"
+    },
+    "weight": "empty: 98,000 lb (44,452 kg); MTOW: 223,000 lb (101,152 kg)",
+    "engines": "4 x Rolls-Royce Conway RCo.11 turbofans, 17,250 lbf (76.7 kN) each; the B.2R used RCo.17s of 20,600 lbf (91.6 kN)",
+    "armament": "Up to 35 x 1,000 lb (454 kg) conventional bombs; Blue Danube, Yellow Sun, Red Beard and US Mark 5 nuclear weapons; Blue Steel stand-off missile (B.2R)",
+    "crew": "5",
+    "capacity": "35 x 1,000 lb (454 kg) bombs, or one Blue Steel missile on the B.2R",
+    "firstFlight": {
+      "date": "1952-12-24",
+      "year": 1952
+    },
+    "serviceEntryDate": "1958",
+    "retiredDate": "1993-10-15",
+    "numberBuilt": 86,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price is on the public record",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "Victor B.1 / B.1A",
+      "desc": "The first production version, with four Armstrong Siddeley Sapphire engines of 11,050 lbf and a 110 ft wing. 50 were built. It reached No. 232 OCU at RAF Gaydon in late 1957 and No. 10 Squadron at RAF Cottesmore in April 1958, and carried Blue Danube, Yellow Sun, Red Beard and US Mark 5 weapons."
+    },
+    {
+      "code": "Victor B.2 / B.2R",
+      "desc": "The second bomber version, with Conway engines, a larger 120 ft wing and ram air turbines. 34 were built, and it entered service in October 1961. 21 were converted to B.2R standard with 20,600 lbf engines to carry the Blue Steel stand-off missile."
+    },
+    {
+      "code": "Victor B(SR).2",
+      "desc": "Nine B.2s were converted for strategic reconnaissance, with cameras and radar mapping equipment. The role replaced the bomber's nuclear task after 1968. SR.2 XM716 broke up at RAF Wyton on 29 June 1966, killing all four crew."
+    },
+    {
+      "code": "Victor K.1 / K.1A",
+      "desc": "Three-point tankers fitted with a centreline hose. They were the first Victor tanker versions, and the K.2 later took over as the main tanker, with 24 conversions from B.2 and B(SR).2 airframes."
+    },
+    {
+      "code": "Victor K.2",
+      "desc": "24 were converted from B.2 and B(SR).2 airframes, with a clipped 117 ft wing and 91,000 lb of fuel. The first flew at Woodford on 1 March 1972. K.2s refuelled Vulcans on Black Buck in 1982 and served in the 1991 Gulf War until retirement on 15 October 1993."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1958",
+      "fleetSize": "86 built, including 50 B.1s and 34 B.2s; 24 later converted to K.2 tankers",
+      "homeBase": "RAF Cottesmore (first B.1 squadron)"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The Victor last flew in 1993, so it cannot appear on Flightradar24. Preserved examples are at the Yorkshire Air Museum (XL231), RAF Museum Cosford (XH672), IWM Duxford (XH648) and Bruntingthorpe (XM715)."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "Added the Handley Page Victor - the crescent wing, the nuclear and tanker careers, Black Buck, and the four preserved aircraft.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Victor",
+    "Handley Page",
+    "Handley Page Victor",
+    "V-bomber",
+    "V Force",
+    "B.2",
+    "K.2",
+    "Blue Steel",
+    "tanker",
+    "Black Buck",
+    "crescent wing",
+    "HP.80",
+    "RAF",
+    "Cold War"
+  ],
+  "article": {
+    "overview": [
+      "The Handley Page Victor is a four-jet strategic bomber built by Handley Page for the Royal Air Force, and the third and last of the V-bombers to enter service. 86 were built, and the RAF flew the type until 15 October 1993. {{ref:wiki-victor}}",
+      "Bill Gunston called its crescent wing the most efficient high-subsonic wing on any drawing board in 1947. The nuclear deterrent passed to Polaris submarines in 1968, and the Victor then flew as a reconnaissance aircraft and a tanker. K.2 tankers refuelled Vulcans on the Black Buck raids of the 1982 Falklands War. {{ref:wiki-victor}} {{ref:migflug-victor}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Air Ministry Specification B.35/46 asked for a bomber able to carry a 10,000 lb bomb 1,500 nautical miles with no defensive guns. Gustav Lachmann and Godfrey Lee designed the crescent wing that gave the Handley Page entry its shape. {{ref:wiki-victor}}",
+          "Prototype WB771 (HP.80) first flew on 24 December 1952 with Hedley Hazelden at the controls. It crashed at Cranfield on 14 July 1954 after its tailplane detached, killing all four crew. Testing showed the Victor could reach Mach 0.98 without handling or buffeting problems, and on 1 June 1956 XA917 flew at Mach 1.1, the largest aircraft to break the sound barrier at that time. {{ref:wiki-victor}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Four turbojets are buried in the wing roots, and the Victor has a highly swept T-tail and a chin radar bulge. The B.1 used four Armstrong Siddeley Sapphire engines of 11,050 lbf each, and the B.2 switched to Rolls-Royce Conways of 17,250 lbf, rising to 20,600 lbf in the B.2R. At one point the Conway was the most powerful non-afterburning engine outside the Soviet Union. {{ref:wiki-victor}} {{ref:migflug-victor}}",
+          "The B.2 had a larger 120 ft wing than the B.1's 110 ft and added ram air turbines. It was 114 ft 11 in (35.03 m) long, weighed 223,000 lb at maximum takeoff and could carry up to 35 conventional 1,000 lb bombs. The crew of five flew without defensive guns, as the specification required. {{ref:wiki-victor}} {{ref:migflug-victor}}"
+        ]
+      },
+      {
+        "heading": "Nuclear Service",
+        "paragraphs": [
+          "The B.1 reached No. 232 OCU at RAF Gaydon in late 1957 and No. 10 Squadron at RAF Cottesmore in April 1958. It carried the Blue Danube bomb, later Yellow Sun, as well as US Mark 5 and British Red Beard weapons. {{ref:wiki-victor}}",
+          "The B.2 entered service in October 1961, and 21 were converted to B.2R standard to carry the Blue Steel stand-off missile. The Victor left the nuclear role in 1968, after fatigue cracking worsened under the low-level flying profile and Polaris submarines took over the deterrent. {{ref:wiki-victor}} {{ref:yam}}"
+        ]
+      },
+      {
+        "heading": "Reconnaissance & Tanker Service",
+        "paragraphs": [
+          "Nine aircraft were converted to B(SR).2 standard for strategic reconnaissance, with cameras and radar mapping. The tankers followed: three-point K.1 and K.1A aircraft with a centreline hose, then 24 K.2s converted from B.2 and B(SR).2 airframes, each carrying 91,000 lb of fuel. The first K.2 flew at Woodford on 1 March 1972. {{ref:wiki-victor}} {{ref:yam}} {{ref:migflug-victor}}",
+          "In the Falklands War K.2s flew more than 3,000 hours and more than 600 air refuelling sorties from Ascension Island, supporting Vulcans, Nimrods, Hercules and Harriers. On the Black Buck raid a relay of Victors refuelled the Vulcan seven times on the way out and once on the way back. The standard account gives eleven tankers, while the RAF Museum gives thirteen. Eight K.2s deployed to Bahrain for the 1991 Gulf War. {{ref:yam}} {{ref:migflug-victor}} {{ref:wiki-victor}}"
+        ]
+      },
+      {
+        "heading": "Retirement & Survivors",
+        "paragraphs": [
+          "No. 55 Squadron flew the last K.2s into retirement on 15 October 1993, 35 years after the type entered RAF service, and Lockheed Tristars and Vickers VC10s took over the tanker role. The Victor had the longest service of the V-bomber generation. {{ref:migflug-victor}} {{ref:yam}} {{ref:wiki-victor}}",
+          "Four Victors survive on public display. XH648 at IWM Duxford is the only surviving B.1, XH672 is at RAF Museum Cosford and XL231 is at the Yorkshire Air Museum, where it is kept in ground-running condition. XM715 at Bruntingthorpe is taxiable but not flightworthy. {{ref:wiki-victor}} {{ref:yam}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-victor",
+      "name": "Handley Page Victor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Handley_Page_Victor"
+    },
+    {
+      "id": "yam",
+      "name": "Handley Page Victor K.2",
+      "publisher": "Yorkshire Air Museum",
+      "url": "https://yorkshireairmuseum.org/handley-page-victor-k2/"
+    },
+    {
+      "id": "migflug-victor",
+      "name": "Handley Page Victor",
+      "publisher": "MiGFlug",
+      "url": "https://migflug.com/aircraft/handley-page-victor/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Handley Page Victor",
+      "url": "https://en.wikipedia.org/wiki/Handley_Page_Victor"
+    },
+    {
+      "name": "Handley Page Victor K.2 - Yorkshire Air Museum",
+      "url": "https://yorkshireairmuseum.org/handley-page-victor-k2/"
+    },
+    {
+      "name": "Handley Page Victor - MiGFlug",
+      "url": "https://migflug.com/aircraft/handley-page-victor/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1952-12-24",
+      "title": "First flight of WB771",
+      "tag": "Milestone",
+      "summary": "Prototype WB771, the HP.80, made its first flight with Hedley Hazelden at the controls.",
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_Victor"
+    },
+    {
+      "date": "1954-07-14",
+      "title": "Prototype WB771 crashes at Cranfield",
+      "tag": "Structural failure",
+      "summary": "The prototype's tailplane detached and it crashed at Cranfield, killing all four crew.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_Victor"
+    },
+    {
+      "date": "1956-06-01",
+      "title": "XA917 breaks the sound barrier",
+      "tag": "Record",
+      "summary": "Victor XA917 reached Mach 1.1, making it the largest aircraft to break the sound barrier at that time.",
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_Victor"
+    },
+    {
+      "date": "1958-04-16",
+      "title": "XA921 bomb bay bulkhead collapses",
+      "tag": "Structural failure",
+      "summary": "The rear bomb bay bulkhead of XA921 collapsed in flight, but the aircraft returned safely.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_Victor"
+    },
+    {
+      "date": "1959-08-20",
+      "title": "XH668 dives into the sea off Pembrokeshire",
+      "tag": "Loss of control",
+      "summary": "An A&AEE B.2 lost its pitot head and dived into the sea off Pembrokeshire. About 600,000 pieces of wreckage were recovered.",
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_Victor"
+    },
+    {
+      "date": "1966-06-29",
+      "title": "SR.2 XM716 breaks up at RAF Wyton",
+      "tag": "Structural failure",
+      "summary": "The reconnaissance Victor XM716 broke up at RAF Wyton, killing all four crew.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_Victor"
+    }
+  ],
+  "survivors": {
+    "intro": "Four Victors are on public display in the United Kingdom.",
+    "airframes": [
+      {
+        "serial": "XL231",
+        "name": "Victor K.2 'Lusty Lindy'",
+        "location": "Yorkshire Air Museum",
+        "place": "Elvington, York, United Kingdom",
+        "note": "Joined 139 Squadron on 1 February 1962 and was the prototype K.2 tanker from 23 January 1972. It served in the Falklands and Gulf wars and was flown into retirement at the museum in November 1993. It is kept in ground-running condition.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XH648",
+        "name": "Victor B.1A (K.2P)",
+        "location": "Imperial War Museum Duxford",
+        "place": "Duxford, Cambridgeshire, United Kingdom",
+        "note": "The only surviving B.1.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XH672",
+        "name": "Victor K.2 'Maid Marian'",
+        "location": "Royal Air Force Museum Midlands",
+        "place": "Cosford, Shropshire, United Kingdom",
+        "note": "A K.2 tanker preserved at Cosford.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XM715",
+        "name": "Victor K.2 'Teasin' Tina'",
+        "location": "Cold War Jets Collection",
+        "place": "Bruntingthorpe, Leicestershire, United Kingdom",
+        "note": "Taxiable, but not flightworthy.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  }
+}

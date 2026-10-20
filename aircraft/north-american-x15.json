@@ -1,0 +1,347 @@
+{
+  "name": "X-15",
+  "fullName": "North American X-15",
+  "manufacturer": "North American Aviation",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Hypersonic Research Aircraft",
+  "tagline": "The North American X-15 was a rocket-powered research aircraft flown by NASA, the US Air Force and the US Navy to study piloted flight at hypersonic speeds. It still holds the speed record for a crewed, powered aircraft at 4,520 mph (Mach 6.7) and reached 354,200 ft, 67 miles above the ground.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "William 'Pete' Knight flew the X-15A-2 to 4,520 mph (Mach 6.7) on 3 October 1967, and no crewed, powered aircraft has flown faster since.",
+    "Thirteen flights by eight pilots passed 50 miles, the height the US Air Force used to award astronaut wings, and NASA gave its own civilian wings to William Dana and, posthumously, to John McKay and Joe Walker in 2005.",
+    "The lower tail fin hung below the rear landing skids, so the pilot jettisoned it before touchdown and a parachute brought it back for reuse.",
+    "The XLR99 rocket engine cost $68 million to develop, more than five times the projected cost of the entire programme.",
+    "After Knight's Mach 6.7 flight the X-15A-2's ablative coating had burned through and parts of its skin had seen more than 2,400 degrees Fahrenheit, about twice the design limit, and the aircraft never flew again.",
+    "Pilot heart rates often ran between 145 and 185 beats per minute during X-15 flights, against 70 to 80 in other test aircraft."
+  ],
+  "specifications": {
+    "specificationsNote": "Dimensions and the 354,200 ft ceiling are for the X-15 as first built. Maximum speed is the X-15A-2's Mach 6.7 flight; the highest Mach number reached by an unmodified X-15 was 6.06. The A-2 was rebuilt with a longer fuselage and external tanks and carried more propellant. Sources differ on weights: NASA gives a launch weight of 31,275 lb, while other references give a gross weight near 33,500 lb.",
+    "maxSpeed": {
+      "mph": 4520,
+      "text": "3,928 kn (4,520 mph / 7,274 km/h)"
+    },
+    "cruiseSpeed": "N/A - the X-15 had no cruise regime; the rocket burned for 80 to 120 seconds and the rest of each flight was an unpowered glide",
+    "range": {
+      "miles": null,
+      "text": "N/A - air-launched and glided back to a dry lakebed, so no range figure applies"
+    },
+    "serviceCeiling": {
+      "ft": 354200,
+      "text": "354,200 ft (107,960 m)"
+    },
+    "wingspan": {
+      "ft": 22.33,
+      "text": "22 ft 4 in (6.81 m)"
+    },
+    "length": {
+      "ft": 49.17,
+      "text": "49 ft 2 in (14.99 m)"
+    },
+    "height": {
+      "ft": 13.08,
+      "text": "13 ft 1 in (3.99 m)"
+    },
+    "weight": "launch weight: 31,275 lb (14,186 kg); burnout weight: 12,295 lb (5,577 kg)",
+    "engines": "1 x Reaction Motors XLR99-RM-2 throttleable liquid-fuel rocket, up to 57,000 lbf (254 kN), burning anhydrous ammonia and liquid oxygen (the first 24 powered flights used two XLR11 rockets with a combined 16,380 lbf)",
+    "crew": "1 (pilot)",
+    "capacity": "None - flight-test instrumentation only, plus experiment packages on some flights",
+    "firstFlight": {
+      "date": "1959-06-08",
+      "year": 1959
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1968-10-24",
+    "numberBuilt": 3,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the three aircraft were built under a single research contract and no per-aircraft price was published",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "X-15-1 (56-6670)",
+      "desc": "The first aircraft built and the most flown, with 81 of the programme's 199 flights. On 5 December 1963 Robert Rushworth took it to Mach 6.06 at 101,000 ft on Flight 97, the highest Mach number reached by an unmodified X-15. It was dropped from the B-52 over Delamar Dry Lake, Nevada, and is displayed at the Smithsonian's National Air and Space Museum."
+    },
+    {
+      "code": "X-15-2 (56-6671)",
+      "desc": "The second aircraft made 31 flights in its original form. On 9 November 1962 John McKay crash-landed it after an engine failure and was seriously injured. North American rebuilt the airframe rather than scrapping it, and it returned to flight as the X-15A-2. Across both forms the airframe made 53 flights, 31 as the X-15-2 and 22 as the X-15A-2."
+    },
+    {
+      "code": "X-15A-2 (56-6671)",
+      "desc": "The rebuilt second aircraft, first flown in this form on 25 June 1964. It had a fuselage about 2.4 ft longer for a liquid-hydrogen ramjet experiment that was never flown, external tanks that added roughly 60 seconds of burn, and an ablative heat-resistant coating. It made 22 flights, including Knight's Mach 6.7 flight, and is displayed at the National Museum of the US Air Force."
+    },
+    {
+      "code": "X-15-3 (56-6672)",
+      "desc": "The third aircraft made 65 flights, including Flight 191 on 15 November 1967. It entered a hypersonic spin on descent and broke up at about 60,000 ft, killing Michael Adams. NASA attributes the loss to a failure in the adaptive flight control system, which blended aerodynamic and rocket controls automatically. The wreckage was spread over about 50 square miles."
+    },
+    {
+      "code": "X-15B (proposed)",
+      "desc": "An orbital version launched by a Navaho missile, discussed by the Air Force and NACA before 1958. It was cancelled when NACA became NASA and took on Project Mercury. The Air Force's Boeing X-20 Dyna-Soar became its preferred crewed orbital programme by 1959, and it too was cancelled in the early 1960s."
+    }
+  ],
+  "operators": [
+    {
+      "name": "NASA",
+      "role": "Research Operator",
+      "status": "Retired",
+      "since": "1959",
+      "fleetSize": "3 (flown with the Air Force; 5 NASA pilots made 91 flights)",
+      "homeBase": "Edwards Air Force Base, California"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Programme Partner and Aircraft Owner",
+      "status": "Retired",
+      "since": "1955",
+      "fleetSize": "3 (5 Air Force pilots made 89 flights)",
+      "homeBase": "Edwards Air Force Base, California"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Programme Partner",
+      "status": "Retired",
+      "since": "1954",
+      "fleetSize": "None owned - shared development funding and supplied 1 pilot (5 flights)",
+      "homeBase": "Edwards Air Force Base, California"
+    },
+    {
+      "name": "North American Aviation",
+      "role": "Manufacturer and Contractor Test Operator",
+      "status": "Retired",
+      "since": "1955",
+      "fleetSize": "3 built; contractor pilot Scott Crossfield made 14 flights",
+      "homeBase": "Edwards Air Force Base, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No X-15 has flown since 24 October 1968, so the type cannot appear on Flightradar24. X-15-1 hangs in the Milestones of Flight hall at the Smithsonian National Air and Space Museum in Washington, DC, and the X-15A-2 is at the National Museum of the US Air Force near Dayton, Ohio. The NB-52B 'Balls 8' that launched most flights stands outside the north gate of Edwards Air Force Base, and the NB-52A 'The High and Mighty One' is at the Pima Air and Space Museum in Tucson, Arizona."
+  },
+  "lastUpdated": "2026-10-08",
+  "changelog": [
+    {
+      "date": "2026-10-08",
+      "change": "Added the North American X-15 - history, specs, variants, operators, survivors and the accident record. Sources: NASA, Wikipedia, The Aviationist and This Day in Aviation.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "X-15",
+    "X15",
+    "NASA",
+    "hypersonic",
+    "rocket plane",
+    "Pete Knight",
+    "Neil Armstrong",
+    "Joe Walker",
+    "Mach 6.7",
+    "XLR99",
+    "X-15A-2",
+    "edge of space",
+    "astronaut wings"
+  ],
+  "article": {
+    "overview": [
+      "The North American X-15 was a rocket-powered research aircraft built by North American Aviation for NASA, the US Air Force and the US Navy to study piloted flight above Mach 5. Three were built, and they flew 199 times between 8 June 1959 and 24 October 1968, reaching 4,520 mph (Mach 6.7) and 354,200 ft. {{ref:nasa-fs052}} {{ref:wiki-x15}}",
+      "A B-52 carried each X-15 to about 45,000 ft before release, and the rocket burned for 80 to 120 seconds. Its data went into the Mercury, Gemini, Apollo and Space Shuttle programmes, and 13 flights by eight pilots passed 50 miles, the height the US Air Force used to award astronaut wings. {{ref:nasa-fs052}} {{ref:aviationist-x15}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "NACA began preliminary research into spaceflight in 1952, and in 1954 its Research Airplane Projects Panel identified the need for a new research aircraft for hypersonic speeds. The characteristics were presented to the Air Force and Navy that July, and the three agencies signed a memorandum of understanding in December 1954. A concept study by Walter Dornberger had already proposed a hypersonic research vehicle. {{ref:nasa-fs052}} {{ref:wiki-x15}}",
+          "Requests for proposals went out on 30 December 1954 for the airframe and on 4 February 1955 for the rocket engine. The Air Force selected North American Aviation in September 1955, the airframe contract followed in November, and Reaction Motors was contracted for the engines in 1956. The contract covered three aircraft, and one of them was normally under modification or repair. {{ref:wiki-x15}} {{ref:nasa-x15-results}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The X-15 was a single-seat, mid-wing monoplane with a long cylindrical fuselage and a thick wedge-shaped tail whose vertical area was 60 percent of the wing area. Side panels on the tail extended for stability and doubled as air brakes. Its outer skin was Inconel X, a nickel-chrome alloy designed for 1,200 degrees Fahrenheit, around an aluminium cabin insulated from the skin, and peak skin temperature in flight reached 1,325 degrees. {{ref:nasa-fs052}} {{ref:nasa-x15-results}} {{ref:wiki-x15}}",
+          "Above the atmosphere, hydrogen peroxide thrusters in the nose controlled pitch and yaw and thrusters on the wings controlled roll, and the X-15 was the first aircraft to use reaction controls for attitude control in space-like flight. Controls came in two forms, a three-stick setup and a single-stick MH-96 system that blended aerodynamic and rocket controls automatically. The cockpit had heated windows and a forward headrest for the high deceleration, and it was pressurised with nitrogen to 3.5 psi above 35,000 ft. The ejection seat was rated to Mach 4 and 120,000 ft and was never used. {{ref:wiki-x15}} {{ref:nasa-fs052}}"
+        ]
+      },
+      {
+        "heading": "Propulsion & Launch",
+        "paragraphs": [
+          "The XLR99 engine, rated at up to 57,000 lbf, burned anhydrous ammonia and liquid oxygen, with hydrogen peroxide driving its turbopump, and it arrived late. The first 24 powered flights used two XLR11 rockets, the type that had powered the Bell X-1, with a combined 16,380 lbf, and the XLR99 first flew on 15 November 1960. It then powered most of the remaining flights, burning about 15,000 lb of propellant in 80 seconds, and it cost $68 million to develop, more than five times the projected cost of the whole programme. {{ref:wiki-x15}} {{ref:aviationist-x15}} {{ref:nasa-fs052}}",
+          "Two modified B-52s served as carriers: NB-52A 52-003, called The High and Mighty One, and NB-52B 52-008, called The Challenger and later Balls 8, which launched most flights. The B-52 released the X-15 at about 45,000 ft and 500 mph, the rocket burned for 80 to 120 seconds, and flights lasted 8 to 12 minutes. The pilot glided back at about 200 mph to a dry lakebed, usually Rogers Dry Lake beside Edwards, on a nose wheel and two rear skids. The lower tail fin hung below the skids, so it was jettisoned before touchdown and a parachute recovered it. {{ref:wiki-x15}} {{ref:nasa-fs052}} {{ref:aviationist-x15}}"
+        ]
+      },
+      {
+        "heading": "Flight Test & Records",
+        "paragraphs": [
+          "Scott Crossfield made the first unpowered glide on 8 June 1959 and the first powered flight on 17 September 1959. Twelve pilots flew the type: five from NASA, five from the Air Force, one from the Navy and Crossfield for North American. Robert Rushworth made the most flights, 34, followed by John McKay with 29 and Joseph Walker with 25. On 22 August 1963 Walker reached 354,200 ft (67.1 miles) on Flight 91, his second flight above 100 km that summer after Flight 90 on 19 July. {{ref:nasa-fs052}} {{ref:wiki-x15}}",
+          "On 5 December 1963 Rushworth flew the unmodified X-15-1 to Mach 6.06 on Flight 97, with the right inner windshield cracking on the way. William 'Pete' Knight took the rebuilt X-15A-2 to 4,520 mph (Mach 6.7) on 3 October 1967. Inspection afterwards showed that the ablative coating had burned through and the skin had been exposed to over 2,400 degrees, and the aircraft never flew again. Thirteen flights by eight pilots passed 50 miles, all five Air Force pilots received astronaut wings, and 28 flights carried experiments that included astronomy and micrometeorite collection. {{ref:tdia-670}} {{ref:aviationist-x15}} {{ref:wiki-x15}} {{ref:nasa-fs052}}"
+        ]
+      },
+      {
+        "heading": "Accidents & Losses",
+        "paragraphs": [
+          "On 5 November 1959 Crossfield damaged the aircraft in a landing. On 9 November 1962 John McKay was seriously injured in a crash landing in X-15-2 after an engine failure, with four crushed vertebrae, and he returned to flight but retired early because of his injuries. North American rebuilt the aircraft as the X-15A-2, with a longer fuselage, external tanks and an ablative coating, and it first flew in that form on 25 June 1964. {{ref:ebsco-x15}} {{ref:nasa-fs052}} {{ref:wiki-x15}}",
+          "On 15 November 1967 Michael Adams reached 50.4 miles on Flight 191 in X-15-3, then the aircraft entered a hypersonic spin on descent. As it re-entered denser air it oscillated violently, the flight control system drove the surfaces to their limits, and the airframe broke up at about 60,000 ft under loads of 15 g vertically and 8 g laterally. Adams was the programme's only fatality and was awarded astronaut wings posthumously. NASA attributes the loss to a failure in the adaptive flight control system. {{ref:wiki-x15}} {{ref:nasa-fs052}}"
+        ]
+      },
+      {
+        "heading": "Research Results & Legacy",
+        "paragraphs": [
+          "The programme produced more than 765 research reports. Flights measured hypersonic skin friction directly and found it lower than predicted, and turbulent heating rates came in far below theory, while earlier heat-flow prediction theories proved considerably in error and were revised for hypersonic speeds. Small-scale wind-tunnel tests predicted full-scale aerodynamic forces accurately with only minor exceptions, and at Mach 6 and 25 degrees angle of attack the fuselage and side fairings supplied 70 percent of total lift. The XLR99 recorded 96 percent in-flight reliability, and a pilot-controlled simulator exposed a stability problem that was fixed with an electronic control aid and changes to the tail surfaces. {{ref:nasa-fs052}} {{ref:nasa-x15-results}}",
+          "William Dana flew the last X-15 flight on 24 October 1968. A 200th flight planned for Knight on 21 November 1968 was delayed six times by technical problems and weather, and it was cancelled on 20 December 1968. Technology from the programme was used in the Saturn launch vehicles for Apollo, Neil Armstrong made seven X-15 flights, and Joe Engle, who made 16, later commanded Space Shuttle missions. Two of the three aircraft survive, X-15-1 at the Smithsonian and the X-15A-2 at the National Museum of the US Air Force. Knight's speed is still the record for a crewed, powered aircraft, and a 1962 NASA proposal to use the B-52 and X-15 to launch Blue Scout rockets carrying satellites of up to 150 lb was never flown. {{ref:nasa-fs052}} {{ref:aviationist-x15}} {{ref:wiki-x15}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nasa-fs052",
+      "name": "X-15 Hypersonic Research Program fact sheet",
+      "publisher": "NASA Armstrong Flight Research Center",
+      "url": "https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-052-DFRC.html"
+    },
+    {
+      "id": "wiki-x15",
+      "name": "North American X-15",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_American_X-15"
+    },
+    {
+      "id": "aviationist-x15",
+      "name": "Going Hypersonic: A Look at the Record-setting X-15",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2025/12/07/look-at-the-record-setting-x-15/"
+    },
+    {
+      "id": "tdia-670",
+      "name": "X-15 56-6670",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/tag/nasa-670/"
+    },
+    {
+      "id": "nasa-x15-results",
+      "name": "X-15 Research Results",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/pdf/607076main_X15ResearchResults-ebook.pdf"
+    },
+    {
+      "id": "ebsco-x15",
+      "name": "X-15 Rocket Aircraft Program",
+      "publisher": "EBSCO Research Starters",
+      "url": "https://www.ebsco.com/research-starters/history/x-15-rocket-aircraft-program"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "X-15 Rocket Aircraft Program - EBSCO Research Starters",
+      "url": "https://www.ebsco.com/research-starters/history/x-15-rocket-aircraft-program"
+    },
+    {
+      "name": "X-15 Research Results - NASA",
+      "url": "https://www.nasa.gov/pdf/607076main_X15ResearchResults-ebook.pdf"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1959-06-08",
+      "title": "First glide flight",
+      "tag": "First flight",
+      "summary": "Scott Crossfield made the first X-15 flight, an unpowered glide after release from a B-52 mothership.",
+      "source": "https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-052-DFRC.html"
+    },
+    {
+      "date": "1959-09-17",
+      "title": "First powered flight",
+      "tag": "Milestone",
+      "summary": "Crossfield made the first rocket-powered X-15 flight, using the interim pair of XLR11 engines.",
+      "source": "https://en.wikipedia.org/wiki/North_American_X-15"
+    },
+    {
+      "date": "1959-11-05",
+      "title": "Landing damage on Crossfield's flight",
+      "tag": "Landing accident",
+      "summary": "Crossfield damaged the aircraft in a landing on 5 November 1959, the first of three mishaps in the programme.",
+      "fatalities": 0,
+      "source": "https://www.ebsco.com/research-starters/history/x-15-rocket-aircraft-program"
+    },
+    {
+      "date": "1960-11-15",
+      "title": "First flight with the XLR99",
+      "tag": "Milestone",
+      "summary": "Crossfield made the first flight with the 57,000 lbf XLR99 engine, which went on to power most of the programme's flights.",
+      "source": "https://en.wikipedia.org/wiki/North_American_X-15"
+    },
+    {
+      "date": "1962-11-09",
+      "title": "McKay crash landing in X-15-2",
+      "tag": "Crash landing",
+      "summary": "John McKay was seriously injured in a crash landing after an engine failure. X-15-2 was rebuilt as the X-15A-2, and McKay returned to flight but retired early because of his injuries.",
+      "fatalities": 0,
+      "source": "https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-052-DFRC.html"
+    },
+    {
+      "date": "1963-08-22",
+      "title": "Altitude record of 354,200 ft",
+      "tag": "Record",
+      "summary": "Joseph Walker reached 354,200 ft (67.1 miles) on Flight 91, the highest altitude flown by an X-15. It was his second flight above 100 km, after Flight 90 on 19 July 1963.",
+      "source": "https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-052-DFRC.html"
+    },
+    {
+      "date": "1963-12-05",
+      "title": "Mach 6.06 in the unmodified X-15",
+      "tag": "Record",
+      "summary": "Robert Rushworth flew X-15-1 to Mach 6.06 at 101,000 ft on Flight 97, the highest Mach number reached by an unmodified X-15. The right inner windshield cracked during the flight.",
+      "source": "https://www.thisdayinaviation.com/tag/nasa-670/"
+    },
+    {
+      "date": "1967-10-03",
+      "title": "Mach 6.7 speed record",
+      "tag": "Record",
+      "summary": "William 'Pete' Knight flew the X-15A-2 to 4,520 mph (Mach 6.7), the fastest speed ever flown by a crewed, powered aircraft. The ablative coating burned through and the aircraft never flew again.",
+      "source": "https://theaviationist.com/2025/12/07/look-at-the-record-setting-x-15/"
+    },
+    {
+      "date": "1967-11-15",
+      "title": "Flight 191 breakup",
+      "tag": "In-flight breakup",
+      "summary": "X-15-3 entered a hypersonic spin on descent and broke up at about 60,000 ft, killing pilot Michael Adams. It was the only fatal accident of the programme, and Adams was awarded astronaut wings posthumously.",
+      "fatalities": 1,
+      "source": "https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-052-DFRC.html"
+    },
+    {
+      "date": "1968-10-24",
+      "title": "Final X-15 flight",
+      "tag": "Milestone",
+      "summary": "NASA pilot William Dana flew the last of the programme's 199 flights.",
+      "source": "https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-052-DFRC.html"
+    }
+  ],
+  "survivors": {
+    "intro": "Two of the three X-15s survive. X-15-3 was destroyed in the accident that killed Michael Adams on 15 November 1967. Full-size mock-ups are also displayed at other museums.",
+    "airframes": [
+      {
+        "serial": "56-6670",
+        "name": "X-15-1",
+        "location": "Smithsonian National Air and Space Museum - Milestones of Flight",
+        "place": "Washington, DC, United States",
+        "note": "The most-flown of the three, with 81 flights, including Rushworth's Mach 6.06 flight on 5 December 1963.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "56-6671",
+        "name": "X-15A-2",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "note": "The rebuilt second aircraft, which made Knight's Mach 6.7 flight. It was retired in October 1969.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

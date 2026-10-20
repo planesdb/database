@@ -1,0 +1,217 @@
+{
+  "name": "P-75 Eagle",
+  "fullName": "Fisher P-75 Eagle",
+  "manufacturer": "Fisher Body Division, General Motors",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Interceptor and Long-Range Escort Fighter",
+  "tagline": "The Fisher P-75 Eagle is a single-seat, piston-engined fighter built by General Motors' Fisher Body Division for the U.S. Army Air Forces. It was assembled from the parts of other aircraft and first flew in 1943, but only 14 were built before a 2,500-aircraft order was cancelled in October 1944.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "The Eagle used Curtiss P-40 outer wings, a Douglas A-24 tail and Vought F4U Corsair landing gear to speed up construction.",
+    "Its Allison V-3420 engine was effectively two V-1710 engines on a common crankcase, and it sat behind the pilot and drove two contra-rotating six-bladed propellers through extension shafts.",
+    "The Army Air Forces placed a production order for 2,500 aircraft before the prototype had flown, with a clause allowing cancellation if the first P-75A was unsatisfactory.",
+    "Only 14 were built, eight XP-75 prototypes and six P-75A production-standard aircraft.",
+    "Testing found a miscalculated centre of mass, poor engine cooling, high aileron forces at speed and poor spin characteristics.",
+    "One P-75A, 44-44553, survives at the National Museum of the United States Air Force."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the P-75A. Maximum speed (433 mph at 20,000 ft) and range (2,050 mi) follow Wikipedia; the National Museum of the USAF quotes 430 mph and a projected 2,600 miles. Loaded weight is given in place of MTOW because the sources disagree on the maximum takeoff figure. The unit cost is the only price found and comes from a single popular-history article that gives no source for it; it is quoted there as about $9.4M in 2020 dollars, brought forward to 2026 using US CPI-U (258.812 for 2020, 336.940 for 2026).",
+    "maxSpeed": {
+      "mph": 433,
+      "text": "376 kn (433 mph / 697 km/h)"
+    },
+    "cruiseSpeed": "Not publicly disclosed",
+    "range": {
+      "miles": 2050,
+      "text": "2,050 mi (3,300 km)"
+    },
+    "serviceCeiling": {
+      "ft": 36400,
+      "text": "36,400 ft (11,100 m)"
+    },
+    "wingspan": {
+      "ft": 49.33,
+      "text": "49 ft 4 in (15.04 m)"
+    },
+    "length": {
+      "ft": 40.42,
+      "text": "40 ft 5 in (12.32 m)"
+    },
+    "height": {
+      "ft": 15.5,
+      "text": "15 ft 6 in (4.72 m)"
+    },
+    "weight": "empty: 11,495 lb (5,214 kg); loaded: 19,420 lb (8,809 kg)",
+    "engines": "1 x Allison V-3420-23 24-cylinder liquid-cooled engine, 2,885 hp (2,151 kW), driving two six-bladed contra-rotating propellers",
+    "armament": "10 x .50 cal (12.7 mm) machine guns (six in the wings, four in the fuselage) and two 500 lb (227 kg) bombs",
+    "crew": "1",
+    "capacity": "Two 500 lb (227 kg) bombs",
+    "firstFlight": {
+      "date": "1943-11-17",
+      "year": 1943
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1944",
+    "numberBuilt": 14,
+    "unitCost": {
+      "usd": 12200000,
+      "text": "Reported: ~$12.2M (unconfirmed)",
+      "inflationText": "Reported as ~$9.4M in 2020 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "XP-75",
+      "desc": "Eight prototypes were built. The first two flew from 17 November 1943 as high-climb interceptors with the 2,600 hp V-3420-19. Six more were ordered in mid-1943 as long-range escort fighters, and all six were in the test programme by spring 1944. The tests exposed the cooling, balance, aileron and spin problems."
+    },
+    {
+      "code": "P-75A",
+      "desc": "Six production-standard aircraft were built with a modified tail, a bubble canopy and the 2,885 hp V-3420-23. The first entered flight testing in September 1944. The order for 2,500 was cancelled on 6 October 1944, and the six aircraft were used for experimental work and V-3420 engine development."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "14 built (8 XP-75 and 6 P-75A), all used for testing",
+      "homeBase": "Test flying only - no operational units"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The P-75 flew only as a prototype and test aircraft in 1943 and 1944, so it cannot appear on Flightradar24. The one surviving P-75A is in the Research & Development Gallery at the National Museum of the United States Air Force near Dayton, Ohio."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "Added the Fisher P-75 Eagle with its borrowed parts, the test problems that sank it, specs, and the surviving P-75A at Dayton.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "P-75",
+    "XP-75",
+    "P-75A",
+    "Eagle",
+    "Fisher",
+    "General Motors",
+    "Fisher Body",
+    "Allison V-3420",
+    "contra-rotating",
+    "interceptor",
+    "escort fighter",
+    "cancelled"
+  ],
+  "article": {
+    "overview": [
+      "The Fisher P-75 Eagle is an American single-seat, piston-engined fighter built by the Fisher Body Division of General Motors for the U.S. Army Air Forces. It began in September 1942 as a high-climb interceptor, was reworked as a long-range escort, and used parts from other aircraft to speed up production. {{ref:nmusaf}} {{ref:wiki-p75}}",
+      "Eight XP-75 prototypes and six P-75A production-standard aircraft were built. The Army Air Forces cancelled the order for 2,500 aircraft on 6 October 1944, by which time the P-51 Mustang and P-47 Thunderbolt were already doing the escort job. {{ref:nmusaf}} {{ref:wiki-p75}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Army Air Forces issued a requirement in September 1942 for a fighter with an extremely high rate of climb, powered by the Allison V-3420 engine. The targets were 440 mph, a 38,000 ft ceiling, a 2,500-mile range and an initial climb of 5,600 ft per minute. In October 1942 Fisher Body received a contract for two XP-75 prototypes. {{ref:wiki-p75}} {{ref:historynet}}",
+          "In mid-1943 the need had shifted from interceptors to long-range escorts, and six more XP-75s were ordered. The Army also let a production order for 2,500 aircraft that could be cancelled if the first P-75A proved unsatisfactory. General Motors planned to build the fighter from existing components, which was meant to allow assembly in about six months. {{ref:wiki-p75}} {{ref:historynet}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The layout resembled the Bell P-39, with the engine amidships behind the pilot and extension shafts driving six-bladed contra-rotating propellers. The outer wing panels came from the Curtiss P-40 (the original design called for North American P-51 panels), the tail from the Douglas A-24 and the landing gear from the Vought F4U Corsair. {{ref:wiki-p75}} {{ref:historynet}}",
+          "The Allison V-3420 had 24 cylinders and was essentially two V-1710 engines on a common crankcase. It was rated at 2,600 hp as the V-3420-19 in the XP-75 and 2,885 hp as the V-3420-23 in the P-75A. The P-75A was 40 ft 5 in (12.32 m) long with a 49 ft 4 in (15.04 m) span, weighed 19,420 lb loaded and carried ten .50 calibre machine guns and two 500 lb bombs. {{ref:wiki-p75}} {{ref:nmusaf}}"
+        ]
+      },
+      {
+        "heading": "Flight Testing & Problems",
+        "paragraphs": [
+          "The first XP-75 flew on 17 November 1943 and the second followed shortly after, with all six long-range XP-75s in the test programme by spring 1944. Problems included a miscalculated centre of mass, an engine that underperformed, inadequate cooling, high aileron forces at high speed and poor spin characteristics. {{ref:wiki-p75}}",
+          "Fisher answered some of these with a modified tail, a new bubble canopy and the V-3420-23 engine, and the first P-75A entered flight testing in September 1944. The aircraft was described as slow and unstable, stalling and spinning in ordinary dogfighting manoeuvres, and the P-75A never completed formal performance trials. Its best speed of 433 mph at 20,000 ft fell short of the 440 mph target. {{ref:wiki-p75}} {{ref:historynet}}"
+        ]
+      },
+      {
+        "heading": "Cancellation & Survivor",
+        "paragraphs": [
+          "Production was terminated on 6 October 1944, with the Army Air Forces favouring aircraft such as the P-38 and P-51. The six completed P-75As were used for experimental work and for V-3420 engine development. {{ref:wiki-p75}}",
+          "One P-75A, 44-44553, survives at the National Museum of the United States Air Force near Dayton, Ohio. Staff found extensive airframe deterioration in 1999, which led to a full restoration, and the aircraft was moved into the museum's new fourth building on 7 October 2015. It is displayed in the Research & Development Gallery with an Allison V-3420 engine and drive train. {{ref:wiki-p75}} {{ref:nmusaf}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nmusaf",
+      "name": "Fisher P-75A Eagle",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195783/fisher-p-75a-eagle/"
+    },
+    {
+      "id": "historynet",
+      "name": "Why America's XP-75 Eagle Was a Turkey",
+      "publisher": "HistoryNet",
+      "url": "https://www.historynet.com/why-americas-xp-75-eagle-was-a-turkey/"
+    },
+    {
+      "id": "wiki-p75",
+      "name": "Fisher P-75 Eagle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fisher_P-75_Eagle"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Fisher P-75 Eagle",
+      "url": "https://en.wikipedia.org/wiki/Fisher_P-75_Eagle"
+    },
+    {
+      "name": "Fisher P-75A Eagle - National Museum of the USAF",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195783/fisher-p-75a-eagle/"
+    },
+    {
+      "name": "Why America's XP-75 Eagle Was a Turkey",
+      "url": "https://www.historynet.com/why-americas-xp-75-eagle-was-a-turkey/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1943-11-17",
+      "title": "First flight of the XP-75",
+      "tag": "Milestone",
+      "summary": "The first XP-75 made its first flight, and the second followed shortly after.",
+      "source": "https://en.wikipedia.org/wiki/Fisher_P-75_Eagle"
+    },
+    {
+      "date": "1944-10-06",
+      "title": "Production terminated",
+      "tag": "Cancellation",
+      "summary": "The Army Air Forces ended the programme and cancelled the order for 2,500 P-75As, favouring aircraft such as the P-38 and P-51.",
+      "source": "https://en.wikipedia.org/wiki/Fisher_P-75_Eagle"
+    }
+  ],
+  "survivors": {
+    "intro": "One P-75A survives.",
+    "airframes": [
+      {
+        "serial": "44-44553",
+        "name": "P-75A Eagle",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "note": "Restored after staff found extensive deterioration in 1999, and displayed with an Allison V-3420 engine and drive train.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

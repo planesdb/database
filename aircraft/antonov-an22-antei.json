@@ -1,0 +1,343 @@
+{
+  "name": "An-22 Antei",
+  "fullName": "Antonov An-22 Antei",
+  "manufacturer": "Antonov",
+  "originCountry": {
+    "name": "Ukraine",
+    "code": "ua"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Heavy Strategic Turboprop Transport",
+  "tagline": "The Antonov An-22 Antei is a four-engine turboprop strategic transport designed in Kyiv for the Soviet Air Forces, and it had the largest cargo deck of any turboprop aircraft into the 21st century. Sixty-eight were built, and the last operational example in Russia was lost in a crash on 9 December 2025.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "On 17 October 1967 an An-22 lifted 100,444.6 kg to 7,848 m, one of 41 payload, speed and altitude records the type set.",
+    "The hold had to take at least four BMD-1 airborne vehicles, against one for the An-12 it was meant to supplement.",
+    "Each of its four NK-12MA engines produced 15,000 shp and drove a pair of contra-rotating propellers, an arrangement similar to the Tu-114's.",
+    "The military ordered 100 but only 48 were flying by 1983, and by 2001 roughly 80 percent of the production run had been scrapped.",
+    "On 11 November 1992 an An-22 crashed at Tver, killing 33 people, after being loaded 20 tons over its limit with the centre of gravity too far aft.",
+    "The one preserved example, UR-64460, was landed on a short runway at Speyer, Germany, in December 1999 after only a few test approaches."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the production aircraft. Sources differ on some of them: empty weight is given as 114,000 kg by Wikipedia and 118,727 kg by the Technik Museum Speyer, and maximum takeoff weight as 250,000 kg and 225,000 kg respectively. Wikipedia gives 1967 as the year the type entered service, but the first two production aircraft were delivered to Ivanovo in 1969, which is the date used here. The retirement date is the loss of the last operational aircraft in Russia.",
+    "maxSpeed": {
+      "mph": 460,
+      "text": "400 kn (460 mph / 740 km/h)"
+    },
+    "cruiseSpeed": "360 mph (580 km/h)",
+    "range": {
+      "miles": 3100,
+      "text": "3,100 mi (5,000 km, 2,700 nmi) with maximum payload"
+    },
+    "serviceCeiling": {
+      "ft": 29900,
+      "text": "29,900 ft (9,100 m)"
+    },
+    "wingspan": {
+      "ft": 211.25,
+      "text": "211 ft 3 in (64.4 m)"
+    },
+    "length": {
+      "ft": 190,
+      "text": "190 ft 0 in (57.92 m)"
+    },
+    "height": {
+      "ft": 41.08,
+      "text": "41 ft 1 in (12.53 m)"
+    },
+    "weight": "empty: 251,327 lb (114,000 kg); MTOW: 551,156 lb (250,000 kg)",
+    "engines": "4 x Kuznetsov NK-12MA turboprops, 15,000 shp (11,000 kW) each, each driving contra-rotating eight-blade propellers",
+    "crew": "5 to 6",
+    "capacity": "176,370 lb (80,000 kg) maximum payload, in a pressurised hold about 108 ft (33 m) long with 639 cubic metres (22,600 cu ft) of volume; or four BMD-1 airborne vehicles, or 28 to 29 passengers",
+    "firstFlight": {
+      "date": "1965-02-27",
+      "year": 1965
+    },
+    "serviceEntryDate": "1969",
+    "retiredDate": "2025-12-09",
+    "numberBuilt": 68,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the aircraft were built for the Soviet state and no unit price was ever published",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "An-22 (prototype)",
+      "desc": "Three prototypes were built at Kyiv with a glazed nose for the navigator. The first rolled out on 18 August 1964 and flew on 27 February 1965 from Svyatoshino for 1 hour 6 minutes. It was shown at the 1965 Paris Air Show in Aeroflot markings, after about four months of flight testing."
+    },
+    {
+      "code": "An-22 (production)",
+      "desc": "The initial production standard, with 37 built at Tashkent. The glazed nose gave way to a radar fitted below the right wheel-well fairing, and early aircraft needed an external air-start cart. Early aircraft could also adjust tyre pressure in flight, which later builds could not."
+    },
+    {
+      "code": "An-22A",
+      "desc": "An improved standard, with 28 built at Tashkent. It added an auxiliary power unit for engine starting, modified electrics and updated radio and navigation equipment. The Soviet military never used the A designation, so aircraft of both standards are usually simply called An-22. Both standards were built at Tashkent until production ended in 1975."
+    },
+    {
+      "code": "An-22PZ",
+      "desc": "Two aircraft were converted to carry An-124 or An-225 wing sections above the fuselage, and the conversion added a third fin on the centreline. The outsize sections rode on top of the airframe rather than in the hold, and the aircraft were used to move components for Antonov's larger airlifters."
+    },
+    {
+      "code": "Unbuilt projects",
+      "desc": "An amphibious version that never went beyond a scale model, a lengthened civil airliner study for up to 724 passengers, a nuclear-powered aircraft and a ballistic-missile platform. None of them was built, and the type stayed an unarmed military and commercial freighter throughout its service."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet Air Forces (Military Transport Aviation)",
+      "role": "Original Operator",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "About 50 in the early 1970s; 100 were ordered and 48 were flying by 1983",
+      "homeBase": "Migalovo Air Base, Tver (12th Mginsk Military Transport Aviation Division)"
+    },
+    {
+      "name": "Russian Aerospace Forces",
+      "role": "Military Strategic Airlift Operator",
+      "status": "Retired",
+      "since": "1992",
+      "fleetSize": "About 45 in the mid-1990s; 6 listed with 3 airworthy by December 2018",
+      "homeBase": "Migalovo Air Base, Tver"
+    },
+    {
+      "name": "Antonov Airlines",
+      "role": "Civil Heavy-Lift Operator",
+      "status": "Retired",
+      "since": "1990s",
+      "fleetSize": "2 airframes reportedly used commercially",
+      "homeBase": "Antonov Airport, Hostomel, Ukraine; NATO SALIS flights from Leipzig/Halle"
+    },
+    {
+      "name": "Air Sofia",
+      "role": "Commercial Lessee",
+      "status": "Retired",
+      "since": "1992",
+      "fleetSize": "1 (leased for six months)",
+      "homeBase": "Bulgaria"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "AN22",
+    "howToFind": "No An-22 is flying now. The last operational aircraft in Russia crashed on 9 December 2025, and Ukraine's last airworthy example was damaged at Antonov Airport in February 2022. Older Russian Air Force flights, mainly from Migalovo near Tver, may show up under the type code AN22. The preserved aircraft, UR-64460, is on display at the Technik Museum Speyer in Germany."
+  },
+  "lastUpdated": "2026-10-08",
+  "changelog": [
+    {
+      "date": "2026-10-08",
+      "change": "Added the Antonov An-22 Antei, with its record flights, the fleet's decline and the 2025 crash. Sources: Wikipedia, GlobalSecurity, the Bureau of Aircraft Accidents Archives and AVweb.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "An-22",
+    "An22",
+    "Antei",
+    "Antheus",
+    "Antaeus",
+    "Cock",
+    "Antonov",
+    "Soviet",
+    "turboprop",
+    "heavy transport",
+    "Tashkent",
+    "NK-12",
+    "VTA"
+  ],
+  "article": {
+    "overview": [
+      "The Antonov An-22 Antei, NATO reporting name 'Cock', is a four-engine turboprop strategic transport designed by the Antonov bureau in Kyiv for the Soviet Air Forces. It was the first wide-body transport and had the largest cargo deck of any turboprop aircraft into the 21st century. Sixty-eight were built, with all production aircraft coming from the Tashkent plant. {{ref:wiki-an22}}",
+      "The type set 41 world records for speed, payload and payload to altitude, flew airlifts that ranged from relief for Peru in 1970 to the deployment to Afghanistan in 1979, and reached airfields in 89 countries. The fleet shrank fast after the Soviet collapse, and the last operational aircraft in Russia crashed on a test flight on 9 December 2025. {{ref:globalsec-an22}} {{ref:wiki-an22}} {{ref:wiki-crash}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Soviet Ministry of Defence issued the requirement in the late 1950s for a large strategic airlifter to supplement the An-8 and An-12. It had to carry ICBMs and other outsize cargo, and its hold had to take at least four BMD-1 airborne vehicles, where the An-12 took one. The design was first known as the An-20, and a wooden mock-up, internally called Model 100, was built in Kyiv in the early 1960s. {{ref:wiki-an22}}",
+          "The mock-up was shown on 12 October 1961 and a committee under Marshal N. S. Skripko finished its work that November. The first prototype rolled out on 18 August 1964 and made its first flight on 27 February 1965 from Svyatoshino, Kyiv, lasting 1 hour 6 minutes. The 1963 test schedule had slipped almost two years over unsolved technical problems, and the aircraft made its public debut at the 1965 Paris Air Show wearing Aeroflot markings. {{ref:globalsec-an22}} {{ref:wiki-an22}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "A high wing of 345 square metres, using a TsAGI S-5-16 airfoil at the root and an S-5-13 at the tip, carries four Kuznetsov NK-12MA turboprops. Each is rated at 15,000 shp and drives a pair of contra-rotating propellers, which cut noise and resembled the Tu-114's arrangement. The twin tail gave better engine-out performance and a lower hangar height limit, with anti-flutter masses on top of each fin. A pressurised forward section holds the flight deck, galley, lavatory and bunks, with the navigator in the nose, and early aircraft needed an external air-start cart where later builds had an auxiliary power unit. {{ref:wiki-an22}}",
+          "The pressurised hold is about 33 m long with 639 cubic metres of usable volume, held at 3.55 psi, and four cranes with a combined capacity of 10 tonnes load it. A pressure bulkhead at frame 14 separates the cargo attendant's compartment, which let the rear doors open in flight for airdrops. The undercarriage was built for unpaved strips and early aircraft could adjust tyre pressure in flight. Takeoff needs a run of 1,300 m and landing 800 m. Range is 3,100 miles with maximum payload or 6,800 miles with 45 tonnes aboard and full fuel. {{ref:wiki-an22}}"
+        ]
+      },
+      {
+        "heading": "Records & Production",
+        "paragraphs": [
+          "On 27 October 1966 a crew under I. E. Davydov lifted 88.103 t to 6,600 m, setting 12 records in one flight, and on 17 October 1967 the same crew lifted 100,444.6 kg to 7,848 m. M. L. Popovich's crew set 12 more records on a closed 2,000 km route in February 1973, carrying 30 to 50 t at 580 km/h. G. N. Pakilev's crew flew 40 t over 5,000 km at an average of 584.042 km/h in April 1975, the 41st record. The type could carry up to 100 t, about two and a half times the payload of the American C-141. {{ref:globalsec-an22}}",
+          "Production at Tashkent peaked at 12 aircraft in 1975. Of the 68 built, three prototypes came from Kyiv and the rest from Tashkent, which turned out 37 original An-22s and 28 An-22As. The military ordered 100, but only 48 were flying by 1983, and the larger turbofan An-124 Ruslan, which first flew in 1982, took over the heaviest airlift work. {{ref:wiki-an22}} {{ref:globalsec-an22}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "The first two production aircraft were delivered to Ivanovo in 1969, and about 50 were in service by the early 1970s. Three regiments of the 12th Mginsk Red Banner Military Transport Aviation Division at Migalovo flew only the An-22, and the 566th Solnechnogorsk regiment operated it from 1970 to 1987. One aircraft disappeared over the Atlantic near Keflavik on 18 July 1970 on a relief flight to Peru after the Ancash earthquake, with 22 people aboard. Later airlifts took military aid to Egypt and Syria in 1973, to Angola in 1975 and to Ethiopia in 1977. {{ref:wiki-an22}}",
+          "Several An-22s flew the first airborne forces into Afghanistan in 1979. In 1986 the 8th regiment delivered materials during the Chernobyl relief operation, and the 1988 Armenian earthquake airlift moved 15,000 tons of cargo and 1,000 personnel. An An-22 delivered an An-124 engine to the Farnborough Airshow in 1988, the type was a regular visitor to the Paris Air Show at Le Bourget, and in 1995 it carried Russian peacekeepers from the 98th Guards Airborne Division during the Bosnian War. {{ref:wiki-an22}}"
+        ]
+      },
+      {
+        "heading": "Decline & Retirement",
+        "paragraphs": [
+          "About 15 An-22s were at Tver in June 1999, and by 2001 roughly 80 percent of the production run had been scrapped, with many other airframes corroding in storage. Air Sofia leased one aircraft for six months in 1992, and UR-64460 went to the Technik Museum Speyer in December 1999 after a landing on a 1,000 m runway. Antonov Airlines used two airframes commercially, and UR-09307 returned to service in September 2016 for flights to Gao in Mali and for NATO's SALIS programme from Leipzig/Halle. A Target Logistics An-22 also carried US Navy fuel-support equipment from Toronto to Souda Bay, Crete, in support of Operation Iraqi Freedom. {{ref:globalsec-ops2}} {{ref:wiki-an22}} {{ref:speyer-an22}} {{ref:flugzeuginfo-speyer}}",
+          "Russia wrote off the first and second series and part of the third and fourth after 25 years of service, and an An-22 took part in the 2014 Victory Day parade on Red Square. It planned to keep flying the type until 2033 and in December 2018 listed six with the 76th Military Transport Air Squadron at Tver, three of them airworthy. Antonov's withdrawal of support after the 2022 invasion hampered maintenance, and Ukraine's last airworthy An-22 was damaged in the February 2022 Battle of Antonov Airport. In August 2024 RF-09309 was flown towards Yekaterinburg for museum display. On 9 December 2025 RF-08832, the last operational An-22, broke up in the air during a test flight after repairs and crashed into the Uvodskoye Reservoir near Ivanovo, and Russian reporting gave seven dead. The Bureau of Aircraft Accidents Archives lists nine accidents with 95 deaths, and Wikipedia counts 10 hull losses and 110 deaths as of December 2025. {{ref:wiki-an22}} {{ref:globalsec-an22}} {{ref:wiki-crash}} {{ref:avweb-crash}} {{ref:baaa-an22}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-an22",
+      "name": "Antonov An-22",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonov_An-22"
+    },
+    {
+      "id": "globalsec-an22",
+      "name": "An-22 Antei COCK",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/world/russia/an-22.htm"
+    },
+    {
+      "id": "globalsec-ops2",
+      "name": "An-22 Antei - Post Cold War",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/world/russia/an-22-ops-2.htm"
+    },
+    {
+      "id": "speyer-an22",
+      "name": "Antonov AN-22",
+      "publisher": "Technik Museum Speyer",
+      "url": "https://www.technik-museum.de/en/discover/exhibits/antonov-an-22/"
+    },
+    {
+      "id": "flugzeuginfo-speyer",
+      "name": "Technik Museum Speyer gallery",
+      "publisher": "flugzeuginfo.net",
+      "url": "https://www.flugzeuginfo.net/gallery_museum_speyer_dt.php"
+    },
+    {
+      "id": "baaa-an22",
+      "name": "Antonov 22 accidents",
+      "publisher": "Bureau of Aircraft Accidents Archives",
+      "url": "https://www.baaa-acro.com/aircraft/antonov-22"
+    },
+    {
+      "id": "wiki-crash",
+      "name": "2025 Ivanovo Antonov An-22 crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_Ivanovo_Antonov_An-22_crash"
+    },
+    {
+      "id": "avweb-crash",
+      "name": "Russian An-22 Crash Kills Crew",
+      "publisher": "AVweb",
+      "url": "https://avweb.com/aviation-news/russian-an-22-crash-kills-crew"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "GlobalSecurity - An-22 Antei COCK",
+      "url": "https://www.globalsecurity.org/military/world/russia/an-22.htm"
+    },
+    {
+      "name": "Technik Museum Speyer - Antonov AN-22",
+      "url": "https://www.technik-museum.de/en/discover/exhibits/antonov-an-22/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1967-10-17",
+      "title": "Payload record of 100,444.6 kg",
+      "tag": "Record",
+      "summary": "A crew under I. E. Davydov lifted 100,444.6 kg to 7,848 m, one of 41 world records set by the type.",
+      "source": "https://www.globalsecurity.org/military/world/russia/an-22.htm"
+    },
+    {
+      "date": "1970-07-18",
+      "title": "Lost over the Atlantic on a relief flight to Peru",
+      "tag": "Lost at sea",
+      "summary": "An An-22 carrying humanitarian aid to Lima after the Ancash earthquake disappeared over the Atlantic near Keflavik, Iceland. Radar contact was lost 47 minutes after takeoff, and all 7 passengers and 15 crew were killed.",
+      "fatalities": 22,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-22"
+    },
+    {
+      "date": "1970-12-19",
+      "title": "Propeller blade detaches before crash at Panagarh",
+      "tag": "Propeller failure",
+      "summary": "A propeller blade detached in flight, the landing gear and flaps could not be lowered, and the aircraft crashed on its landing attempt at Panagarh, India, and burned.",
+      "fatalities": 25,
+      "source": "https://www.baaa-acro.com/aircraft/antonov-22"
+    },
+    {
+      "date": "1976-12-22",
+      "title": "In-flight breakup near Seshcha",
+      "tag": "Loss of control",
+      "summary": "Incorrect rudder input in a turn caused a loss of control and an in-flight breakup near Seshcha air base.",
+      "fatalities": 7,
+      "source": "https://www.baaa-acro.com/aircraft/antonov-22"
+    },
+    {
+      "date": "1987-03-13",
+      "title": "Hard landing at Addis Ababa",
+      "tag": "Landing accident",
+      "summary": "An An-22 landed at excessive speed with a high vertical load at Addis Ababa Bole and was damaged beyond repair. All nine crew were uninjured.",
+      "fatalities": 0,
+      "source": "https://www.baaa-acro.com/aircraft/antonov-22"
+    },
+    {
+      "date": "1992-11-11",
+      "title": "Overloaded takeoff at Tver",
+      "tag": "Stall after takeoff",
+      "summary": "The aircraft was loaded about 20 tons over its limit with the centre of gravity too far aft, and it stalled after takeoff from Tver.",
+      "fatalities": 33,
+      "source": "https://www.baaa-acro.com/aircraft/antonov-22"
+    },
+    {
+      "date": "1994-01-19",
+      "title": "Control failure at Antonovo",
+      "tag": "Control failure",
+      "summary": "A probable failed aileron control rod brought down the aircraft near Antonovo. Antonov attributed the accident to icing. Three more people were seriously injured.",
+      "fatalities": 7,
+      "source": "https://www.baaa-acro.com/aircraft/antonov-22"
+    },
+    {
+      "date": "2010-12-28",
+      "title": "Positioning flight crash in Tula Oblast",
+      "tag": "Loss of control",
+      "summary": "An An-22 that had been in storage since 2001 and returned to flying condition in January 2010 crashed near Krasny Oktyabr, Tula Oblast, on a flight from Voronezh to Migalovo. Russia grounded its An-22 and Tu-95 fleets afterwards.",
+      "fatalities": 12,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-22"
+    },
+    {
+      "date": "2025-12-09",
+      "title": "Last operational An-22 breaks up on a test flight",
+      "tag": "In-flight breakup",
+      "summary": "RF-08832 broke up in the air shortly after takeoff from Ivanovo Severny on a test flight after heavy maintenance, and crashed into the Uvodskoye Reservoir. Everyone aboard was killed, reported as seven by Russian state media, and an investigation was opened.",
+      "source": "https://en.wikipedia.org/wiki/2025_Ivanovo_Antonov_An-22_crash"
+    }
+  ],
+  "survivors": {
+    "intro": "One An-22 is on public display, at the Technik Museum Speyer in Germany. RF-09309, the last Russian aircraft to fly, was reported in August 2024 to be on its way to a museum near Yekaterinburg, but it has not been confirmed as displayed.",
+    "airframes": [
+      {
+        "serial": "UR-64460",
+        "name": "No. 0103",
+        "location": "Technik Museum Speyer",
+        "place": "Speyer, Germany",
+        "url": "https://www.technik-museum.de/en/discover/exhibits/antonov-an-22/",
+        "note": "Leased to Air Sofia for six months in 1992 before being transferred to the museum. It landed at Speyer in December 1999 after only a few test approaches on a comparatively short runway, and needed structural modifications to be moved to its display spot.",
+        "featured": true,
+        "countryCode": "de",
+        "country": "Germany"
+      }
+    ]
+  }
+}

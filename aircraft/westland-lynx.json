@@ -1,0 +1,364 @@
+{
+  "name": "Lynx",
+  "fullName": "Westland Lynx",
+  "manufacturer": "Westland Helicopters",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Multi-Role Military Helicopter",
+  "tagline": "The Westland Lynx is a twin-engine, multi-role military helicopter built by Westland Helicopters at Yeovil for the British Army and Royal Navy. A modified Lynx set the absolute helicopter speed record of 400.87 km/h in 1986, and roughly 450 were built.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "On 11 August 1986 a modified Lynx, G-LYNX, flown by Trevor Egginton set the FAI absolute helicopter speed record at 400.87 km/h (249.09 mph). The record was still unbroken as of January 2022.",
+    "On 3 May 1982 a Lynx made the first combat firing of a Sea Skua missile, against the Argentine patrol boat ARA Alferez Sobral.",
+    "By 2 February 1991, Royal Navy Lynxes had launched 25 Sea Skuas in the Gulf War, and 18 of them were confirmed hits.",
+    "The Lynx is fully aerobatic and can perform loops and rolls, helped by its rigid titanium monobloc rotor head.",
+    "Its BERP (British Experimental Rotor Programme) blades improved the main rotor's efficiency and top speed.",
+    "Its successor, the AW159 Wildcat, keeps only about 5 percent of the Lynx's components."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the Army variants as listed in the source. Early Lynx used Rolls-Royce Gem engines (about 1,000 shp), and later Super Lynx 200/300 versions used LHTEC CTS800-4N engines of 1,362 shp each. Service ceiling, cruise speed and rate of climb have not been published in the sources checked, so they are left out. Service entry is shown as 1979, when the AH.1 entered Army Air Corps service; the first production aircraft flew on 11 February 1977.",
+    "maxSpeed": {
+      "mph": 201,
+      "text": "175 kn (201 mph / 324 km/h)"
+    },
+    "range": {
+      "miles": 328,
+      "text": "328 mi (528 km, 285 nmi)"
+    },
+    "mainRotorDiameter": {
+      "ft": 42,
+      "text": "42 ft (12.80 m)"
+    },
+    "length": {
+      "ft": 50,
+      "text": "50 ft (15.24 m) overall; 43 ft 9 in (13.34 m) including the tail rotor"
+    },
+    "height": {
+      "ft": 12.04,
+      "text": "12 ft 0.5 in (3.67 m)"
+    },
+    "weight": "empty: 7,225 lb (3,277 kg); MTOW: 11,750 lb (5,330 kg)",
+    "rotorBlades": "4 main",
+    "engines": "2 x LHTEC CTS800-4N turboshafts, 1,362 shp (1,016 kW) each for takeoff, or 2 x Rolls-Royce Gem 42-1, about 1,000 shp (746 kW) each",
+    "armament": "Naval: two torpedoes, four Sea Skua missiles or two depth charges. Attack: a 20 mm Oerlikon cannon, two 70 mm rocket pods and up to eight TOW anti-tank missiles. General: a 7.62 mm GPMG (AH.7, AH.9) or a 0.50 in heavy machine gun (HAS.3, HMA.8, AH.9A).",
+    "crew": "2 to 3",
+    "capacity": "8 troops, or a 3,000 lb (1,361 kg) underslung load",
+    "firstFlight": {
+      "date": "1971-03-21",
+      "year": 1971
+    },
+    "serviceEntryDate": "1979",
+    "retiredDate": "2018",
+    "numberBuilt": 450,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price was found in the sources checked",
+      "inflationText": null
+    },
+    "combatLosses": "Three Lynx were lost in the Falklands War, aboard HMS Coventry, HMS Ardent and SS Atlantic Conveyor. Later losses include a British Army AH.7 shot down by a MANPADS missile over Basra on 6 May 2006, killing five."
+  },
+  "variants": [
+    {
+      "code": "Army Lynx AH.1 / AH.5 / AH.7 / AH.9 / AH.9A",
+      "desc": "The British Army versions. 113 AH.1s were built, and the first production example flew on 11 February 1977. The AH.1 entered Army Air Corps service in 1979, and the AH.9A was the final Army version. The Army retired the type in 2018 with the disbandment of 657 Squadron AAC."
+    },
+    {
+      "code": "Navy Lynx HAS.2 / HAS.3 / HMA.8",
+      "desc": "The Royal Navy versions. 60 HAS.2s were built, entering service in 1981, followed by the HAS.3, of which 30 were new and 53 were converted. The HMA.8 was based on the Super Lynx. The Navy decommissioned the type on 23 March 2017."
+    },
+    {
+      "code": "Super Lynx Mk.88 / Mk.88A / Mk.99 / Mk.99A",
+      "desc": "Export versions with newer engines. Germany's navy ordered 19 Mk.88s, then seven new Mk.88As and 17 conversions. South Korea bought 12 Mk.99s and 13 Mk.99As. The Super Lynx 200 and 300 used LHTEC CTS800-4N engines."
+    },
+    {
+      "code": "French Navy Mk.2(FN) / Mk.4(FN)",
+      "desc": "French naval versions: 26 Mk.2(FN) and 14 Mk.4(FN). The French Navy began operating the Lynx in 1979 and formally retired it on 4 September 2020."
+    },
+    {
+      "code": "Lynx-3 and AW159 Wildcat",
+      "desc": "One Lynx-3 prototype flew in 1984, and ZE477 survives at The Helicopter Museum. The AW159 Wildcat replaced the Lynx in British service and keeps only about 5 percent of its components."
+    }
+  ],
+  "operators": [
+    {
+      "name": "British Army (Army Air Corps)",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1979",
+      "fleetSize": "113 AH.1s built, plus later versions; retired in 2018 with the disbandment of 657 Squadron AAC",
+      "homeBase": "Army Air Corps bases, UK"
+    },
+    {
+      "name": "Royal Navy (Fleet Air Arm)",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1981",
+      "fleetSize": "60 HAS.2s built, 30 new HAS.3s plus 53 conversions, and HMA.8s; decommissioned on 23 March 2017",
+      "homeBase": "Royal Naval Air Station Yeovilton"
+    },
+    {
+      "name": "French Navy",
+      "role": "Operator",
+      "status": "Retired",
+      "since": "1979",
+      "fleetSize": "26 Mk.2(FN) and 14 Mk.4(FN); formally retired on 4 September 2020",
+      "homeBase": "France"
+    },
+    {
+      "name": "German Navy",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "19 Mk.88s, then seven new Mk.88As and 17 converted",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "Republic of Korea Navy",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "12 Mk.99s and 13 Mk.99As",
+      "homeBase": "South Korea"
+    },
+    {
+      "name": "Royal Netherlands Navy",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1976",
+      "fleetSize": "24 aircraft; the final flight was on 19 September 2012",
+      "homeBase": "Netherlands"
+    },
+    {
+      "name": "Other operators worldwide",
+      "role": "Export Customers",
+      "status": "In Service",
+      "since": "1978",
+      "fleetSize": "Denmark (8 Mk.80s and 2 Mk.90s, retired 2011), Norway (6 Mk.86s, retired December 2014), Brazil (5, then 9 more), Portugal (5 Super Lynx), Oman (16 Super Lynx Mk.120), Malaysia (6 Mk.100), Thailand (4 ordered), Algeria (4 ordered), Nigeria (3 Mk.89), Qatar Police (3 Mk.28) and Argentina (2 Mk.23, grounded by an embargo)",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "LYNX",
+    "howToFind": "The British Army and Royal Navy Lynx have retired, so any Lynx on Flightradar24 belongs to an export operator or a museum. Filter for type LYNX."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "Added the Westland Lynx - the 1986 speed record, Falklands and Gulf War service, variants, operators and the museum aircraft.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Lynx",
+    "Westland Lynx",
+    "WG.13",
+    "AH.7",
+    "AH.9",
+    "HAS.3",
+    "HMA.8",
+    "Super Lynx",
+    "Sea Skua",
+    "BERP",
+    "G-LYNX",
+    "speed record",
+    "Army Air Corps",
+    "Fleet Air Arm",
+    "Wildcat"
+  ],
+  "article": {
+    "overview": [
+      "The Westland Lynx is a twin-engine, multi-role military helicopter built by Westland Helicopters at Yeovil for the British Army and Royal Navy. It began in the mid-1960s as the Westland WG.13, a replacement for the Scout and the Wasp, and about 450 were built. {{ref:wiki-lynx}}",
+      "A modified Lynx set the absolute helicopter speed record of 400.87 km/h (249.09 mph) in 1986, a mark that was still unbroken in 2022. The Royal Navy decommissioned its Lynx in 2017 and the Army in 2018, and the AW159 Wildcat replaced them. {{ref:wiki-lynx}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Westland designed the WG.13 as a replacement for the Scout and Wasp. Under the Anglo-French helicopter agreement of February 1967, Sud Aviation took 30 percent of production, though the French Army cancelled its requirement in October 1969. The first flight was on 21 March 1971. {{ref:wiki-lynx}}",
+          "The first production British Army Lynx flew on 11 February 1977, and the AH.1 entered Army Air Corps service in 1979. The Royal Navy HAS.2 followed in 1981, and the Brazilian Navy took the type into service in 1978 and the French Navy in 1979. {{ref:wiki-lynx}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Lynx has a four-blade main rotor on a rigid titanium monobloc head, and its British Experimental Rotor Programme (BERP) blades improved main rotor efficiency and top speed. It is fully aerobatic and can perform loops and rolls. Early Lynx used two Rolls-Royce Gem engines of about 1,000 shp, and the Super Lynx 200 and 300 use LHTEC CTS800-4N engines of 1,362 shp each. {{ref:wiki-lynx}}",
+          "The Army version carries eight troops or a 3,000 lb underslung load and can be armed with a 20 mm cannon, rocket pods or eight TOW missiles. Naval versions carry torpedoes, depth charges or four Sea Skua anti-ship missiles. The Army variant weighs 11,750 lb at takeoff and reaches 175 kn. {{ref:wiki-lynx}}"
+        ]
+      },
+      {
+        "heading": "Falklands, Gulf War & Records",
+        "paragraphs": [
+          "In the Falklands War in 1982, HAS.2s maintained anti-submarine patrols. On 3 May a Lynx made the first combat firing of a Sea Skua, against the Argentine patrol boat ARA Alferez Sobral. Three Lynx were lost aboard HMS Coventry, HMS Ardent and SS Atlantic Conveyor. {{ref:wiki-lynx}}",
+          "In the Gulf War in 1991, Royal Navy Lynx were central to the Battle of Bubiyan. By 2 February, 25 Sea Skuas had been launched and 18 hits confirmed, and twenty-four TOW-armed Army Lynx supported the ground advance. On 26 February, one destroyed two MTLB armoured personnel carriers and four T-55 tanks. {{ref:wiki-lynx}}"
+        ]
+      },
+      {
+        "heading": "Speed Record",
+        "paragraphs": [
+          "On 11 August 1986 a modified Lynx, G-LYNX, flown by Trevor Egginton, set the FAI absolute helicopter speed record at 400.87 km/h (249.09 mph). It broke the record held by the Soviet A-10, a modified Mi-24, and it was still unbroken in January 2022. {{ref:wiki-lynx}} {{ref:wiki-mi24}}",
+          "G-LYNX is preserved at The Helicopter Museum in Weston-super-Mare, alongside the Lynx-3 prototype ZE477. Westland's claim that the BERP blades gave about 35 percent more thrust before blade stall is disputed. {{ref:wiki-lynx}}"
+        ]
+      },
+      {
+        "heading": "Retirement & Legacy",
+        "paragraphs": [
+          "The Royal Danish Navy retired its Lynx in 2011, the Royal Netherlands Navy in 2012 and the Royal Norwegian Air Force in December 2014. The Royal Navy decommissioned the type on 23 March 2017, the British Army retired it in 2018 and the French Navy followed on 4 September 2020. {{ref:wiki-lynx}}",
+          "The AW159 Wildcat replaced the Lynx in British service but keeps only about 5 percent of its components. The deadliest Lynx crash was HAS.3GM XZ244, which broke apart near Mombasa on 14 May 1989 after a door detached, killing all nine aboard. An AH.9A crashed near Kandahar on 26 April 2014, killing five. {{ref:wiki-lynx}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-lynx",
+      "name": "Westland Lynx",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Westland_Lynx"
+    },
+    {
+      "id": "wiki-mi24",
+      "name": "Mil Mi-24",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Westland Lynx",
+      "url": "https://en.wikipedia.org/wiki/Westland_Lynx"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1982-05-03",
+      "title": "First combat Sea Skua firing",
+      "tag": "Milestone",
+      "summary": "A Royal Navy Lynx fired a Sea Skua missile at the Argentine patrol boat ARA Alferez Sobral, the first combat firing of the missile.",
+      "source": "https://en.wikipedia.org/wiki/Westland_Lynx"
+    },
+    {
+      "date": "1986-08-11",
+      "title": "Absolute helicopter speed record",
+      "tag": "Record",
+      "summary": "A modified Lynx, G-LYNX, flown by Trevor Egginton, set the FAI absolute helicopter speed record at 400.87 km/h (249.09 mph).",
+      "source": "https://en.wikipedia.org/wiki/Westland_Lynx"
+    },
+    {
+      "date": "1989-05-14",
+      "title": "HAS.3GM XZ244 breaks apart near Mombasa",
+      "tag": "Structural failure",
+      "summary": "The helicopter broke apart after a door detached, killing all nine aboard. As of 2004 it was the deadliest Lynx crash.",
+      "fatalities": 9,
+      "source": "https://en.wikipedia.org/wiki/Westland_Lynx"
+    },
+    {
+      "date": "1994-03-19",
+      "title": "AH.7 ZD275 brought down at Crossmaglen",
+      "tag": "Shot down",
+      "summary": "An IRA mortar brought down the AH.7. The crew survived.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Westland_Lynx"
+    },
+    {
+      "date": "1998-12-22",
+      "title": "Army Lynx crashes near Gornji Vakuf",
+      "tag": "Crash",
+      "summary": "A British Army Lynx crashed near Gornji Vakuf, Bosnia, killing two.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Westland_Lynx"
+    },
+    {
+      "date": "2006-05-06",
+      "title": "AH.7 XZ6140 shot down over Basra",
+      "tag": "Shot down",
+      "summary": "A MANPADS missile shot down the AH.7 over Basra, killing five.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Westland_Lynx"
+    },
+    {
+      "date": "2014-04-26",
+      "title": "AH.9A ZF540 crashes near Kandahar",
+      "tag": "Crash",
+      "summary": "The AH.9A crashed near Kandahar, killing five.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Westland_Lynx"
+    }
+  ],
+  "survivors": {
+    "intro": "Lynxes are preserved in several British museums, in the United States and in Norway.",
+    "airframes": [
+      {
+        "serial": "G-LYNX",
+        "name": "Record-breaking Lynx",
+        "location": "The Helicopter Museum",
+        "place": "Weston-super-Mare, United Kingdom",
+        "note": "The modified Lynx that set the absolute helicopter speed record on 11 August 1986.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "ZE477",
+        "name": "Lynx-3 prototype",
+        "location": "The Helicopter Museum",
+        "place": "Weston-super-Mare, United Kingdom",
+        "note": "The only Lynx-3 prototype, which flew in 1984.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XZ720",
+        "name": "Lynx",
+        "location": "Fleet Air Arm Museum",
+        "place": "Yeovilton, United Kingdom",
+        "note": "A Royal Navy Lynx.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XZ194",
+        "name": "Lynx",
+        "location": "Imperial War Museum Duxford",
+        "place": "Duxford, United Kingdom",
+        "note": "A Lynx at the Cambridgeshire museum.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "ZG921",
+        "name": "Lynx",
+        "location": "National Army Museum",
+        "place": "London, United Kingdom",
+        "note": "A British Army Lynx.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XZ185",
+        "name": "Lynx",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "note": "One of two Lynx at the Arizona museum.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "XZ722",
+        "name": "Lynx",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "note": "The second Lynx at the Arizona museum.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "name": "MXY-7 Ohka",
+  "fullName": "Yokosuka MXY-7 Ohka",
+  "manufacturer": "First Naval Air Technical Arsenal, Yokosuka",
+  "originCountry": {
+    "name": "Japan",
+    "code": "jp"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Rocket-Powered Suicide Attack Aircraft",
+  "tagline": "The Yokosuka MXY-7 Ohka is a Japanese rocket-powered, piloted suicide attack aircraft built for the Imperial Japanese Navy. It was carried under a Mitsubishi G4M bomber and flown into ships with a 1,200 kg warhead, and Allied crews called it the 'Baka bomb'.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Allied crews nicknamed the Ohka 'Baka', the Japanese word for fool or idiot.",
+    "Ensign Mitsuo Ohta of the 405th Kokutai proposed the design on 5 August 1944, and the Naval General Staff ordered development 11 days later.",
+    "On the first sortie, on 21 March 1945, all 18 G4M carriers were lost along with 26 of their 30 escort fighters.",
+    "The destroyer USS Mannert L. Abele, sunk on 12 April 1945, was the first Allied ship sunk by an Ohka.",
+    "Of the 300 Ohkas available at Okinawa, 74 took part in operations and 56 of those were destroyed with their carriers or in attacks.",
+    "With a range of only 37 km, the Ohka forced its slow carrier aircraft to approach within that distance of the fleet, where Allied fighters could intercept it."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the Model 11, the main combat version. Maximum speed is the 576 mph terminal-dive speed; in sustained flight it reached 403 mph at 11,485 ft. The Ohka was released from a carrier aircraft and had no meaningful service ceiling or cruise speed. The 852 total follows Wikipedia's infobox, though its variant counts do not add up to that figure.",
+    "maxSpeed": {
+      "mph": 576,
+      "text": "501 kn (576 mph / 927 km/h)"
+    },
+    "cruiseSpeed": "Not applicable - released from a carrier aircraft, glided, then fired its rockets for the final dive",
+    "range": {
+      "miles": 23,
+      "text": "23 mi (37 km, 20 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Not publicly disclosed - released from a carrier aircraft rather than flown to altitude"
+    },
+    "wingspan": {
+      "ft": 16.8,
+      "text": "16 ft 10 in (5.12 m)"
+    },
+    "length": {
+      "ft": 19.9,
+      "text": "19 ft 11 in (6.07 m)"
+    },
+    "height": {
+      "ft": 3.83,
+      "text": "3 ft 10 in (1.16 m)"
+    },
+    "weight": "empty: 970 lb (440 kg); MTOW: 4,718 lb (2,140 kg)",
+    "engines": "3 x Type 4 Mark 1 Model 20 solid-fuel rockets, 588 lbf (2.62 kN) each, burning for 8 to 10 seconds",
+    "armament": "1,200 kg (2,646 lb) Ammonal warhead in the nose",
+    "crew": "1",
+    "capacity": "1,200 kg (2,646 lb) warhead",
+    "firstFlight": {
+      "date": "1944-10-01",
+      "year": 1944
+    },
+    "serviceEntryDate": "1945-03-21",
+    "retiredDate": "1945",
+    "numberBuilt": 852,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price was found in the sources checked",
+      "inflationText": null
+    },
+    "combatLosses": "Of 300 Ohkas available at Okinawa, 74 took part in operations and 56 were destroyed with their carrier aircraft or during attacks. All 18 G4M carriers were lost on the first sortie on 21 March 1945."
+  },
+  "variants": [
+    {
+      "code": "Model 11",
+      "desc": "The main combat version, with three solid-fuel rockets and a 1,200 kg warhead. The first ten were ready by the end of September 1944. A total of 755 were built, 155 at Yokosuka and about 600 at Kasumigaura, and the Navy ordered production before powered testing had finished."
+    },
+    {
+      "code": "K-1",
+      "desc": "An unpowered trainer that used water ballast, built at Yokosuka for pilot training. Most sources give 45 built, though one history gives 54."
+    },
+    {
+      "code": "Model 22",
+      "desc": "A version with a Tsu-11 motorjet in place of the rockets and a smaller 600 kg warhead, designed to be carried by the Yokosuka P1Y Ginga bomber. The first flight was in June 1945 and 50 were built at Yokosuka."
+    },
+    {
+      "code": "Model 43 K-1 Kai Wakazakura",
+      "desc": "A two-seat trainer with a single rocket, of which two were completed. It belongs to the Model 43 family, which also included the folding-wing Model 43A and 43B for submarine or cave launch. Neither of those was built."
+    },
+    {
+      "code": "Model 33 and Model 53",
+      "desc": "Planned turbojet versions that never entered production. The Model 33 used an Ne-20 turbojet and an 800 kg warhead and was cancelled. The Model 53 was to be towed to the target like a glider. Neither flew."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Imperial Japanese Navy Air Service",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1945",
+      "fleetSize": "852 built; 300 available at Okinawa, where 74 took part in operations",
+      "homeBase": "Japanese home islands - pilots were organised as the Jinrai Butai (Thunder Gods Corps)"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The Ohka was used only in 1945 and cannot appear on Flightradar24. Surviving examples are displayed in museums including the National Museum of the Marine Corps in Virginia, the RAF Museum in London and the Fleet Air Arm Museum at Yeovilton."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "Added the Yokosuka MXY-7 Ohka - how it was built and launched, the Okinawa attacks, the Model 22 and trainers, and the preserved examples.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Ohka",
+    "Oka",
+    "MXY-7",
+    "MXY7",
+    "Baka",
+    "Baka bomb",
+    "Cherry Blossom",
+    "Yokosuka",
+    "Kamikaze",
+    "suicide aircraft",
+    "rocket",
+    "Jinrai Butai",
+    "Marudai",
+    "G4M",
+    "Okinawa"
+  ],
+  "article": {
+    "overview": [
+      "The Yokosuka MXY-7 Ohka is a Japanese rocket-powered, piloted suicide attack aircraft built for the Imperial Japanese Navy. It was carried under a Mitsubishi G4M bomber, released near the target and flown into a ship by its pilot with a 1,200 kg warhead in the nose. Allied crews called it the 'Baka bomb'. {{ref:wiki-ohka}} {{ref:historyofwar}}",
+      "The Ohka first went into action on 21 March 1945 and was used mainly around Okinawa until June. Of the 300 available there, 74 took part in operations, and postwar analysis judged their impact negligible. {{ref:wiki-ohka}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Ensign Mitsuo Ohta of the 405th Kokutai conceived the design in 1943, with help from the Aeronautical Research Institute at the University of Tokyo, which supplied a scale model and wind-tunnel tests. He submitted the proposal on 5 August 1944 at the First Naval Air Technical Arsenal at Yokosuka, and the Naval General Staff ordered formal development on 16 August. {{ref:wiki-ohka}}",
+          "The project was called Marudai. The first ten production-standard Model 11s were ready by the end of September 1944, unpowered flights began in October and powered flights in November, and the Navy ordered production before testing had finished. Yokosuka built 155 Model 11s and Kasumigaura about 600. {{ref:wiki-ohka}} {{ref:historyofwar}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Model 11 was 19 ft 11 in (6.07 m) long with a 16 ft 10 in (5.12 m) wingspan. Its fuselage was aluminium, the wings and tail were plywood, and the instrumentation was minimal. Three Type 4 Mark 1 Model 20 solid-fuel rockets each gave 588 lbf (2.62 kN) of thrust and burned for 8 to 10 seconds. There was no landing gear. {{ref:wiki-ohka}}",
+          "The Ohka weighed 2,140 kg at launch, of which 1,200 kg was the Ammonal warhead. It was released from a G4M2e, glided toward the target and fired its rockets for the final approach, reaching 576 mph in a terminal dive against 403 mph in sustained flight. The 37 km range was the main weakness, because the slow carrier had to come within that distance of the fleet, where Allied fighters could reach it. {{ref:wiki-ohka}} {{ref:historyofwar}}"
+        ]
+      },
+      {
+        "heading": "Operational History",
+        "paragraphs": [
+          "The first two attempts to ferry Ohkas to Leyte Gulf failed when the carriers Shinano and Unryu were sunk by the US submarines Archerfish and Redfish. On the first sortie, on 21 March 1945, 18 G4Ms took part. Allied fighters intercepted them, the Ohkas that were released fell short of their targets, and all the G4Ms were lost along with 26 of 30 escort fighters. A claimed hit on USS West Virginia on 1 April was later judged a near miss. {{ref:wiki-ohka}} {{ref:historyofwar}}",
+          "On 12 April nine G4Ms attacked and the destroyer USS Mannert L. Abele was sunk, the first Allied ship sunk by an Ohka. USS Jeffers shot down an Ohka but was damaged by the blast, and USS Stanly was hit with little damage. An Ohka hit the bridge of the destroyer USS Shea on 4 May, and on 11 May the destroyer USS Hugh W. Hadley was hit and judged beyond repair. The battleship USS Tennessee was also damaged. {{ref:wiki-ohka}} {{ref:usmc}}"
+        ]
+      },
+      {
+        "heading": "Variants & Production",
+        "paragraphs": [
+          "The Model 22 replaced the rockets with a Tsu-11 motorjet and carried a 600 kg warhead, making its first flight in June 1945, and 50 were built. Planned developments included the Model 33 with an Ne-20 turbojet and an 800 kg warhead, and the folding-wing Model 43A and 43B for submarine or cave launch. None of those were built. {{ref:wiki-ohka}}",
+          "Pilots trained on the unpowered K-1, built in a run of 45, and on the two-seat Model 43 K-1 Kai Wakazakura, of which two were completed. Total production is given as 852 aircraft, with 755 of them Model 11s. {{ref:wiki-ohka}} {{ref:historyofwar}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-ohka",
+      "name": "Yokosuka MXY-7 Ohka",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yokosuka_MXY-7_Ohka"
+    },
+    {
+      "id": "historyofwar",
+      "name": "Yokosuka MXY7 Ohka (Cherry Blossom) 'Baka'",
+      "publisher": "History of War",
+      "url": "https://www.historyofwar.org/articles/weapons_yokosuka_MXY7_ohka.html"
+    },
+    {
+      "id": "usmc",
+      "name": "The Ohka Cherry Blossom Aircraft",
+      "publisher": "National Museum of the Marine Corps",
+      "url": "https://www.usmcmuseum.com/blog/the-ohka-cherry-blossom-aircraft"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Yokosuka MXY-7 Ohka",
+      "url": "https://en.wikipedia.org/wiki/Yokosuka_MXY-7_Ohka"
+    },
+    {
+      "name": "Yokosuka MXY7 Ohka (Cherry Blossom) 'Baka'",
+      "url": "https://www.historyofwar.org/articles/weapons_yokosuka_MXY7_ohka.html"
+    },
+    {
+      "name": "The Ohka Cherry Blossom Aircraft - National Museum of the Marine Corps",
+      "url": "https://www.usmcmuseum.com/blog/the-ohka-cherry-blossom-aircraft"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1945-03-21",
+      "title": "First sortie ends in the loss of every carrier",
+      "tag": "Combat - failed attack",
+      "summary": "Eighteen G4M carriers took part. Allied fighters intercepted them, and all the G4Ms were lost along with 26 of 30 escort fighters. The Ohkas that were released scored no hits.",
+      "source": "https://en.wikipedia.org/wiki/Yokosuka_MXY-7_Ohka"
+    },
+    {
+      "date": "1945-04-12",
+      "title": "USS Mannert L. Abele sunk",
+      "tag": "Combat - ship sunk",
+      "summary": "The destroyer Mannert L. Abele was sunk off Okinawa, the first Allied ship sunk by an Ohka. USS Jeffers shot down an Ohka but was damaged by the blast, and USS Stanly was hit with little damage.",
+      "source": "https://en.wikipedia.org/wiki/Yokosuka_MXY-7_Ohka"
+    },
+    {
+      "date": "1945-05-04",
+      "title": "Ohka hits the bridge of USS Shea",
+      "tag": "Combat - ship damaged",
+      "summary": "One Ohka hit the bridge of the destroyer USS Shea, and USS Gayety took a near miss. One of the seven G4Ms returned.",
+      "source": "https://en.wikipedia.org/wiki/Yokosuka_MXY-7_Ohka"
+    },
+    {
+      "date": "1945-05-11",
+      "title": "USS Hugh W. Hadley hit",
+      "tag": "Combat - ship damaged",
+      "summary": "The destroyer Hugh W. Hadley was hit by an Ohka, suffered extensive damage and flooding, and was judged beyond repair.",
+      "source": "https://en.wikipedia.org/wiki/Yokosuka_MXY-7_Ohka"
+    }
+  ],
+  "survivors": {
+    "intro": "Examples survive in museums in Japan, the United States, the United Kingdom and India. Only one Model 22 is known to survive.",
+    "airframes": [
+      {
+        "serial": "I-13 (marked)",
+        "name": "Ohka Model 11",
+        "location": "National Museum of the Marine Corps",
+        "place": "Triangle, Virginia, United States",
+        "note": "Transferred from the Naval Supply Depot in Norfolk, Virginia, in 1968. Its original markings had faded or been removed, and it carries I-13 based on period photographs.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "None published",
+        "name": "Ohka Model 11",
+        "location": "Royal Air Force Museum London",
+        "place": "London, United Kingdom",
+        "note": "One of several Model 11s preserved in British collections.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "None published",
+        "name": "Ohka Model 11",
+        "location": "Fleet Air Arm Museum",
+        "place": "Yeovilton, Somerset, United Kingdom",
+        "note": "A Model 11 preserved in the museum's collection.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "None published",
+        "name": "Ohka Model 11",
+        "location": "Planes of Fame Air Museum",
+        "place": "Chino, California, United States",
+        "note": "A Model 11 preserved in the museum's collection.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "None published",
+        "name": "Ohka Model 22",
+        "location": "Steven F. Udvar-Hazy Center, Smithsonian National Air and Space Museum",
+        "place": "Chantilly, Virginia, United States",
+        "note": "The only surviving Model 22, in storage.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "None published",
+        "name": "Ohka K-1 trainer",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "note": "An unpowered K-1 trainer.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "None published",
+        "name": "Ohka Model 43 K-1 Kai",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "note": "A two-seat Wakazakura trainer.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

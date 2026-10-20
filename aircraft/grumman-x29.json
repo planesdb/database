@@ -1,0 +1,263 @@
+{
+  "name": "X-29",
+  "fullName": "Grumman X-29",
+  "manufacturer": "Grumman",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Forward-Swept Wing Technology Demonstrator",
+  "tagline": "The Grumman X-29 is a single-seat experimental aircraft with forward-swept wings, built by Grumman for DARPA, the U.S. Air Force and NASA. Two flew from Edwards Air Force Base between 1984 and 1992, completing 422 research flights, and the second reached 67 degrees angle of attack.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "On 13 December 1985 the X-29 became the first forward-swept-wing aircraft to fly supersonic in level flight.",
+    "The airframe was unstable by design, and a triple-redundant digital flight control system made roughly 40 control adjustments per second to keep it stable.",
+    "The two aircraft completed 422 research flights: 242 on the first, 120 on the second and 60 in a final vortex-control phase in 1992.",
+    "The second X-29 was flown to 67 degrees angle of attack, while the first was limited to 21 degrees.",
+    "Grumman won an $87 million contract in December 1981 to build both aircraft.",
+    "The flight tests did not show the overall drag reduction that earlier studies had predicted for a forward-swept wing."
+  ],
+  "specifications": {
+    "specificationsNote": "Weights, length and ceiling follow the NASA fact sheet (13,600 lb empty, 17,600 lb at takeoff, 50,000 ft); Wikipedia lists slightly higher figures (13,800 lb, 17,800 lb, 55,000 ft). Maximum speed is NASA's Mach 1.6, with the mph figure taken from Wikipedia's value at 33,000 ft. Length is the fuselage without the nose probe; with the probe it is 53 ft 11 in (16.4 m). Cruise speed has not been published.",
+    "maxSpeed": {
+      "mph": 1100,
+      "text": "956 kn (1,100 mph / 1,770 km/h)"
+    },
+    "cruiseSpeed": "Not publicly disclosed",
+    "range": {
+      "miles": 400,
+      "text": "400 mi (650 km, 350 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft (15,240 m)"
+    },
+    "wingspan": {
+      "ft": 27.2,
+      "text": "27 ft 2.5 in (8.29 m)"
+    },
+    "length": {
+      "ft": 48.1,
+      "text": "48 ft 1 in (14.7 m)"
+    },
+    "height": {
+      "ft": 14.3,
+      "text": "14 ft 3.5 in (4.36 m)"
+    },
+    "weight": "empty: 13,600 lb (6,169 kg); MTOW: 17,600 lb (7,983 kg)",
+    "engines": "1 x General Electric F404-GE-400 afterburning turbofan, 16,000 lbf (71 kN) with afterburner",
+    "crew": "1",
+    "capacity": "None - research aircraft with flight-test instrumentation only",
+    "firstFlight": {
+      "date": "1984-12-14",
+      "year": 1984
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1992",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Grumman received an $87M contract in December 1981 to build both aircraft, with no per-aircraft price published",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "X-29 No. 1 (82-0003)",
+      "desc": "The first aircraft, converted from Northrop F-5A 63-8372, flew on 14 December 1984 with Grumman chief test pilot Chuck Sewell at the controls. It flew all 242 flights of Phase 1, which showed that the wing tips stayed unstalled at moderate angles of attack and that the control laws worked. It was limited to 21 degrees angle of attack."
+    },
+    {
+      "code": "X-29 No. 2 (82-0049)",
+      "desc": "The second aircraft, converted from F-5A 65-10573, first flew on 23 May 1989 and differed mainly in carrying a spin chute. It flew 120 flights in Phase 2 and reached 67 degrees angle of attack, with excellent control response up to 45 degrees. The 1992 vortex flow control phase added another 60 flights."
+    }
+  ],
+  "operators": [
+    {
+      "name": "NASA",
+      "role": "Flight-Test Host and Research Partner",
+      "status": "Retired",
+      "since": "1984",
+      "fleetSize": "2 flown, 422 research flights",
+      "homeBase": "Ames-Dryden (now Armstrong) Flight Research Center, Edwards AFB, California"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Programme Sponsor",
+      "status": "Retired",
+      "since": "1977",
+      "fleetSize": "2 built under an $87M contract awarded in December 1981",
+      "homeBase": "Edwards AFB, California"
+    },
+    {
+      "name": "DARPA",
+      "role": "Programme Sponsor",
+      "status": "Retired",
+      "since": "1977",
+      "fleetSize": "2 built under a shared contract with the Air Force",
+      "homeBase": "Not applicable"
+    },
+    {
+      "name": "Grumman",
+      "role": "Manufacturer",
+      "status": "Retired",
+      "since": "1981",
+      "fleetSize": "2 built",
+      "homeBase": "Bethpage, New York"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The X-29 last flew in 1992, so it cannot appear on Flightradar24. The first aircraft is displayed at the National Museum of the United States Air Force near Dayton, Ohio, and the second is at NASA's Armstrong Flight Research Center in California."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "Added the Grumman X-29 - specs, the three flight-test phases, the 67 degree angle of attack result and where both aircraft are now.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "X-29",
+    "X29",
+    "Grumman",
+    "forward-swept wing",
+    "forward swept",
+    "DARPA",
+    "NASA",
+    "Armstrong",
+    "Dryden",
+    "canard",
+    "experimental",
+    "X-plane",
+    "technology demonstrator"
+  ],
+  "article": {
+    "overview": [
+      "The Grumman X-29 is a single-seat experimental aircraft with forward-swept wings, built by Grumman for the Defense Advanced Research Projects Agency (DARPA), the U.S. Air Force and NASA. Two were built, and they flew from Edwards Air Force Base in California between 1984 and 1992. {{ref:nasa-fs008}}",
+      "It combined a forward-swept composite wing, canards mounted ahead of it and a computerised flight control system that kept an intentionally unstable airframe under control. The two aircraft made 422 research flights, and the second reached 67 degrees angle of attack. {{ref:nasa-fs008}} {{ref:nasa-x29}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Forward-swept wings were studied long before the X-29. NACA ran wind-tunnel work on the idea in 1931, and Germany's Ju 287 bomber tried it during the Second World War, but neither effort had materials stiff enough to stop the wing twisting itself apart in flight. Composite construction with aeroelastic tailoring, which lets a wing bend a little while limiting twist, removed that obstacle. {{ref:fas}}",
+          "DARPA and the Air Force issued proposals in 1977, and Grumman was selected in December 1981 with an $87 million contract to build two aircraft. Its design beat a competing proposal based on the General Dynamics F-16. Grumman called the design Model 712, and the two airframes were converted from Northrop F-5A fighters. {{ref:nasa-fs008}} {{ref:wiki-x29}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The wings sit well back on the fuselage, with canards ahead of them in place of a conventional tail. Longitudinal control came from three surfaces: the canards, variable-camber flaperons and strake flaps. The wing used a thin supercritical aerofoil, and its composite skin was laid up so that bending was allowed while twist was limited. {{ref:fas}}",
+          "The airframe was unstable on purpose, because relaxed static stability reduces drag compared with a conventional design balanced by its tail. A triple-redundant digital fly-by-wire system with an analogue backup made roughly 40 control adjustments a second. Power came from one General Electric F404-GE-400 turbofan rated at 16,000 lbf with afterburner. {{ref:fas}} {{ref:wiki-x29}}"
+        ]
+      },
+      {
+        "heading": "Flight Test Programme",
+        "paragraphs": [
+          "Grumman chief test pilot Chuck Sewell made the first flight on 14 December 1984 at Edwards. NASA's research programme began about four months later, and on 13 December 1985 the aircraft became the first forward-swept-wing type to fly supersonic in level flight. Phase 1, flown on the first aircraft, totalled 242 flights and confirmed that the wing tips stayed unstalled at moderate angles of attack and that the control laws worked. {{ref:wiki-x29}} {{ref:fas}}",
+          "The second aircraft first flew on 23 May 1989 and differed mainly in carrying a spin chute. Its 120 flights in Phase 2 explored high angles of attack, with pilots reporting excellent control response up to 45 degrees and limited controllability at 67 degrees, against the 21-degree limit on the first aircraft. A final phase from May to August 1992 added 60 flights to test vortex flow control. {{ref:nasa-fs008}}"
+        ]
+      },
+      {
+        "heading": "Results & Legacy",
+        "paragraphs": [
+          "Vortex flow control produced more yaw force than expected at high angles of attack, but it worked poorly with sideslip and did little to reduce rocking oscillation. The programme also did not show the overall drag reduction that earlier studies had predicted. {{ref:nasa-fs008}} {{ref:fas}}",
+          "The X-29 remained a research aircraft and was never developed into a service type. NASA describes the programme as an engineering database for designing future aircraft. The first aircraft is displayed at the National Museum of the United States Air Force near Dayton, Ohio, and the second is at NASA's Armstrong Flight Research Center. {{ref:nasa-x29}} {{ref:nasa-fs008}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nasa-fs008",
+      "name": "X-29 Advanced Technology Demonstrator fact sheet (FS-008)",
+      "publisher": "NASA Armstrong Flight Research Center",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/09/fs-008-afrc.pdf"
+    },
+    {
+      "id": "nasa-x29",
+      "name": "X-29",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/image-article/x-29-2/"
+    },
+    {
+      "id": "fas",
+      "name": "X-29",
+      "publisher": "Federation of American Scientists",
+      "url": "https://man.fas.org/dod-101/sys/ac/x-29.htm"
+    },
+    {
+      "id": "wiki-x29",
+      "name": "Grumman X-29",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grumman_X-29"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Grumman X-29",
+      "url": "https://en.wikipedia.org/wiki/Grumman_X-29"
+    },
+    {
+      "name": "NASA X-29 fact sheet",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/09/fs-008-afrc.pdf"
+    },
+    {
+      "name": "X-29 (Federation of American Scientists)",
+      "url": "https://man.fas.org/dod-101/sys/ac/x-29.htm"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1984-12-14",
+      "title": "First flight",
+      "tag": "Milestone",
+      "summary": "Grumman chief test pilot Chuck Sewell flew the first X-29 at Edwards Air Force Base, starting a research programme that ran until 1992.",
+      "source": "https://www.nasa.gov/wp-content/uploads/2021/09/fs-008-afrc.pdf"
+    },
+    {
+      "date": "1985-12-13",
+      "title": "First level supersonic flight by a forward-swept wing",
+      "tag": "Record",
+      "summary": "The X-29 became the first forward-swept-wing aircraft to fly supersonic in level flight.",
+      "source": "https://en.wikipedia.org/wiki/Grumman_X-29"
+    },
+    {
+      "date": "1989-05-23",
+      "title": "Second aircraft flies",
+      "tag": "Milestone",
+      "summary": "The second X-29, fitted with a spin chute, made its first flight and went on to explore angles of attack up to 67 degrees.",
+      "source": "https://www.nasa.gov/wp-content/uploads/2021/09/fs-008-afrc.pdf"
+    }
+  ],
+  "survivors": {
+    "intro": "Both X-29s survive and are on public display.",
+    "airframes": [
+      {
+        "serial": "82-0003",
+        "name": "X-29 No. 1",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "note": "The first aircraft, which first flew on 14 December 1984 and flew all 242 flights of Phase 1.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "82-0049",
+        "name": "X-29 No. 2",
+        "location": "NASA Armstrong Flight Research Center",
+        "place": "Edwards, California, United States",
+        "note": "The second aircraft, which first flew on 23 May 1989 and reached 67 degrees angle of attack.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

@@ -63,7 +63,22 @@ useful improvements tend to be:
    will not validate.
 
 3. Include a `quickFacts` array of four to six short facts, and sourced
-   `accidentsAndIncidents` where they are relevant. Have a look at
+   `accidentsAndIncidents` where they are relevant.
+
+   Every aircraft page also gets a "Frequently asked questions" section. The site
+   creates the standard ones by itself from the specifications (top speed, number
+   built, service status, first flight, range, surviving aircraft, operators and
+   unit cost), so there is nothing you need to add. If you would like to add questions
+   of your own, put them in the `faq` list like this and they will appear first,
+   followed by the automatic ones (six in total, or all of yours if you add more):
+
+   ```json
+   "faq": [
+     { "q": "Was the SR-71 ever shot down?", "a": "No. More than 4,000 missiles were fired at it and none ever hit." }
+   ]
+   ```
+
+   Please keep the question and the answer to one to three plain sentences, and only include things you can verify. Have a look at
    `aircraft/supermarine-spitfire.json` or `aircraft/lockheed-sr71-blackbird.json` for
    the level of detail and the sourcing style this database aims for.
 

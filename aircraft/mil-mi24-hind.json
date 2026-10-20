@@ -1,0 +1,326 @@
+{
+  "name": "Mi-24 Hind",
+  "fullName": "Mil Mi-24 (NATO reporting name Hind)",
+  "manufacturer": "Mil Moscow Helicopter Plant",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Attack and Assault Transport Helicopter",
+  "tagline": "The Mil Mi-24 is a Soviet twin-turboshaft attack helicopter that also carries up to eight troops, a combination its crews called the flying infantry fighting vehicle. First flown in 1969, 2,648 have been built and it has been used by more than 50 countries.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "Soviet pilots called it the 'flying tank', and other nicknames include Crocodile (Krokodil, for its camouflage) and Drinking Glass (Stakan, for its flat cockpit glass).",
+    "Afghan rebels called it Shaitan-Arba, or 'Satan's Chariot'.",
+    "A modified Mi-24B called the A-10 set an absolute helicopter speed record of 368.4 km/h (228.9 mph) on 21 September 1978. The record stood until a Westland Lynx broke it in 1986.",
+    "Russian sources report 74 Mi-24s lost in the Soviet-Afghan War, including 27 to Stinger missiles and two to Redeyes.",
+    "In the Iran-Iraq War, Iraqi Mi-25s fought Iranian AH-1J SeaCobras in the only confirmed air-to-air battles between helicopters, with 10 SeaCobras and six Mi-25s destroyed.",
+    "Designer Mikhail Mil died in 1970, before the type entered service."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are the general set given for the Mi-24 family, not one specific variant such as the Mi-24V or Mi-24P. The service entry date is shown as 1972, when it was officially accepted into the Soviet arsenal; initial operating capability was 1971. The stub wings span 21 ft 4 in (6.5 m). The unit cost is a single reported figure for the export Mi-35M, not the original Mi-24.",
+    "maxSpeed": {
+      "mph": 200,
+      "text": "174 kn (200 mph / 320 km/h)"
+    },
+    "cruiseSpeed": "170 mph (270 km/h)",
+    "range": {
+      "miles": 280,
+      "text": "280 mi (450 km, 243 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 18860,
+      "text": "18,860 ft (5,750 m)"
+    },
+    "rateOfClimb": "2,950 ft/min (15 m/s)",
+    "mainRotorDiameter": {
+      "ft": 56.4,
+      "text": "56 ft 5 in (17.2 m)"
+    },
+    "length": {
+      "ft": 65,
+      "text": "65 ft (19.79 m) rotors turning; 57 ft 5 in (17.5 m) fuselage"
+    },
+    "height": {
+      "ft": 21.3,
+      "text": "21 ft 4 in (6.5 m)"
+    },
+    "weight": "empty: 18,739 lb (8,500 kg); MTOW: 26,455 lb (12,000 kg)",
+    "engines": "2 x Isotov TV3-117 turboshafts, 2,200 shp (1,600 kW) each",
+    "armament": "Chin turret or fixed gun (12.7 mm Yak-B, twin-barrel GSh-23L or fixed GSh-30K by variant); six hardpoints on the stub wings for S-5 and S-8 rockets, 9K114 Shturm (AT-6) anti-tank missiles, bombs up to 500 kg (1,102 lb) and R-60 air-to-air missiles",
+    "crew": "2 pilots, 1 weapons system officer and 1 optional technician",
+    "capacity": "8 passengers or 4 stretchers, plus up to 2,400 kg (5,291 lb) of external sling cargo",
+    "firstFlight": {
+      "date": "1969-09-19",
+      "year": 1969
+    },
+    "serviceEntryDate": "1972",
+    "retiredDate": null,
+    "numberBuilt": 2648,
+    "unitCost": {
+      "usd": 19600000,
+      "text": "Reported: ~$19.6M (unconfirmed)",
+      "inflationText": "Reported as $12.5M each (Brazil's Mi-35M order, 2009)"
+    },
+    "combatLosses": "Russian sources report 74 Mi-24s lost in the Soviet-Afghan War, including 27 to Stinger and two to Redeye missiles. In the Iran-Iraq War, six Iraqi Mi-25s were destroyed in clashes with Iranian AH-1J SeaCobras."
+  },
+  "variants": [
+    {
+      "code": "Mi-24A (original)",
+      "desc": "The first production version, with a 12.7 mm Yak-B gun in the chin turret. Flight tests began on 15 September 1969 with a tethered hover and free flight followed four days later. Initial operating capability was in 1971, and it was officially accepted into the Soviet arsenal in 1972."
+    },
+    {
+      "code": "Mi-24V / Mi-24VM",
+      "desc": "Later versions replaced the 12.7 mm gun with a twin-barrel GSh-23L, and the armament options include the 9K114 Shturm (AT-6) anti-tank missile. The cockpit and crew compartment are overpressurised for nuclear, biological and chemical protection."
+    },
+    {
+      "code": "Mi-24P",
+      "desc": "A variant with a fixed twin-barrel GSh-30K cannon in place of the chin-mounted turret."
+    },
+    {
+      "code": "Mi-25 / Mi-35 (export)",
+      "desc": "The export versions, known by NATO as Hind D and Hind E. Iraqi Mi-25s fought Iranian AH-1J SeaCobras in the Iran-Iraq War, and the modernised Mi-35M sold to Brazil at a reported $12.5 million each in 2009."
+    },
+    {
+      "code": "A-10 (record helicopter)",
+      "desc": "A modified Mi-24B with its stub wings removed, used to set an absolute helicopter speed record of 368.4 km/h (228.9 mph) over a 15/25 km course on 21 September 1978. It broke an earlier record of 332.65 km/h, set over a 1,000 km closed course on 13 August 1975."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet Air Force",
+      "role": "Original Operator",
+      "status": "Retired",
+      "since": "1972",
+      "fleetSize": "Original and largest operator; units transferred the type to the successor states and the exact fleet size is not published",
+      "homeBase": "Soviet Union"
+    },
+    {
+      "name": "Russian Aerospace Forces",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Fleet size not published; the type is still in production",
+      "homeBase": "Russia"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Fleet size not published; a Ukrainian Mi-24 was lost over Brovary on 8 March 2022",
+      "homeBase": "Ukraine"
+    },
+    {
+      "name": "Other operators worldwide",
+      "role": "Export Customers",
+      "status": "In Service",
+      "since": "1977",
+      "fleetSize": "52 countries per the article lead, or 58 'other users' per the infobox - the sources do not agree; first combat use was in Ethiopia's Ogaden War, 1977-78",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "MI24",
+    "howToFind": "Military Mi-24s rarely broadcast a position, so sightings on Flightradar24 are rare. Filter for type MI24 and look for civil-registered or foreign-operated aircraft."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "Added the Mil Mi-24 Hind - origins, the Afghanistan record, the 1978 speed record, variants and the museum aircraft.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Mi-24",
+    "Mi24",
+    "Hind",
+    "Mi-25",
+    "Mi-35",
+    "Mi-35M",
+    "Mil",
+    "Crocodile",
+    "Krokodil",
+    "flying tank",
+    "attack helicopter",
+    "gunship",
+    "Afghanistan",
+    "Soviet",
+    "Satan's Chariot"
+  ],
+  "article": {
+    "overview": [
+      "The Mil Mi-24, known by the NATO reporting name Hind, is a Soviet twin-turboshaft attack helicopter that also carries up to eight troops. Mikhail Mil conceived it in the early 1960s as a flying infantry fighting vehicle that could provide fire support and move soldiers. {{ref:wiki-mi24}}",
+      "It first flew on 19 September 1969 and entered service in 1971 and 1972. 2,648 have been built, and it has been in production ever since, with export versions designated Mi-25 and Mi-35. {{ref:wiki-mi24}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The first mock-up, the V-24, was shown in 1966 at factory 329 in Moscow, where Mil was head designer. It was based on the V-22 utility helicopter project, which never flew. A directive of 6 May 1968 approved the twin-engine design. {{ref:wiki-mi24}}",
+          "Flight tests began on 15 September 1969 with a tethered hover, and free flight followed four days later. Mil died in 1970, before the type entered service. Initial operating capability came in 1971 and the helicopter was officially accepted into the Soviet arsenal in 1972. {{ref:wiki-mi24}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Mi-24 carries a crew of two pilots and a weapons system officer, with a central compartment for eight passengers or four stretchers and up to 2,400 kg of external sling cargo. The cockpit tub is titanium-armoured, the windscreens are ballistic-resistant and the cockpit and crew compartment are overpressurised for nuclear, biological and chemical protection. {{ref:wiki-mi24}}",
+          "Armament varies by version. The original had a 12.7 mm Yak-B gun in the chin turret, later versions used a twin-barrel GSh-23L and the Mi-24P has a fixed GSh-30K. The two stub wings give six hardpoints for S-5 and S-8 rockets, 9K114 Shturm (AT-6) anti-tank missiles, bombs up to 500 kg and R-60 air-to-air missiles. Two Isotov TV3-117 turboshafts of 2,200 shp each give a top speed of 200 mph. {{ref:wiki-mi24}}"
+        ]
+      },
+      {
+        "heading": "Combat History & Records",
+        "paragraphs": [
+          "The Mi-24 first fought in the Ogaden War in Ethiopia in 1977 and 1978, partly flown by Russian pilots. In the Soviet-Afghan War it was used heavily against the Mujahideen, and Russian sources report 74 losses, including 27 to Stinger missiles and two to Redeyes. The last Soviet Mi-24 shot down, on 2 February 1989, lost both crew. {{ref:wiki-mi24}}",
+          "In the Iran-Iraq War, Iraqi Mi-25s fought Iranian AH-1J SeaCobras in the only confirmed air-to-air battles between helicopters, and 10 SeaCobras and six Mi-25s were destroyed. The A-10, a modified Mi-24B, set an absolute helicopter speed record of 368.4 km/h on 21 September 1978, which stood until a modified Westland Lynx broke it in 1986. {{ref:wiki-mi24}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "More than 50 countries have operated the Mi-24. A Polish Mi-24 caught fire on takeoff from Ghazni on 26 January 2011 and all five soldiers aboard escaped unharmed, and three Ugandan Mi-24s crashed in Kenya in 2012 on their way to Somalia. Insurgents shot down an Ethiopian Mi-24 during the Battle of Mogadishu on 30 March 2007. {{ref:wiki-mi24}}",
+          "Brazil paid a reported $12.5 million each for twelve modernised Mi-35M gunships in the late 2000s. A Ukrainian Mi-24 was lost over Brovary on 8 March 2022, killing both pilots. {{ref:strategypage}} {{ref:wiki-mi24}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-mi24",
+      "name": "Mil Mi-24",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+    },
+    {
+      "id": "strategypage",
+      "name": "Procurement: Russian Gunships Head For Brazil",
+      "publisher": "StrategyPage",
+      "url": "https://www.strategypage.com/htmw/htproc/20090415.aspx"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Mil Mi-24",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+    },
+    {
+      "name": "Procurement: Russian Gunships Head For Brazil",
+      "url": "https://www.strategypage.com/htmw/htproc/20090415.aspx"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1969-09-19",
+      "title": "First free flight",
+      "tag": "Milestone",
+      "summary": "Free flight began four days after the first tethered hover on 15 September 1969.",
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+    },
+    {
+      "date": "1978-09-21",
+      "title": "Absolute helicopter speed record",
+      "tag": "Record",
+      "summary": "The A-10, a modified Mi-24B, flew at 368.4 km/h (228.9 mph) over a 15/25 km course. The record stood until 1986.",
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+    },
+    {
+      "date": "1989-02-02",
+      "title": "Last Soviet Mi-24 shot down in Afghanistan",
+      "tag": "Shot down",
+      "summary": "The last Mi-24 lost by Soviet forces in Afghanistan was shot down, killing both crew.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+    },
+    {
+      "date": "2011-01-26",
+      "title": "Polish Mi-24 catches fire at Ghazni",
+      "tag": "Fire on takeoff",
+      "summary": "A Polish ISAF Mi-24 caught fire during takeoff from Ghazni and all five soldiers aboard escaped unharmed.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+    },
+    {
+      "date": "2022-03-08",
+      "title": "Ukrainian Mi-24 lost over Brovary",
+      "tag": "Combat loss",
+      "summary": "A Ukrainian Mi-24 was lost over Brovary, killing both pilots.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+    }
+  ],
+  "survivors": {
+    "intro": "Mi-24s are preserved in museums in Russia, Ukraine, Poland, the United Kingdom and the United States.",
+    "airframes": [
+      {
+        "serial": "None published",
+        "name": "Mi-24A and Mi-25",
+        "location": "Central Air Force Museum",
+        "place": "Monino, Russia",
+        "note": "Both an Mi-24A and an Mi-25 are held at the museum.",
+        "featured": true,
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "None published",
+        "name": "Mi-24A, D, P and V",
+        "location": "State Aviation Museum",
+        "place": "Kyiv, Ukraine",
+        "note": "The museum holds four Mi-24 versions.",
+        "countryCode": "ua",
+        "country": "Ukraine"
+      },
+      {
+        "serial": "013",
+        "name": "Mi-24D",
+        "location": "Polish Army Museum",
+        "place": "Warsaw, Poland",
+        "note": "A Polish Mi-24D.",
+        "countryCode": "pl",
+        "country": "Poland"
+      },
+      {
+        "serial": "016",
+        "name": "Mi-24D",
+        "location": "Polish Air Force Museum",
+        "place": "Dęblin, Poland",
+        "note": "A Polish Mi-24D held at the museum at Dęblin.",
+        "countryCode": "pl",
+        "country": "Poland"
+      },
+      {
+        "serial": "None published",
+        "name": "Mi-24D",
+        "location": "The Helicopter Museum",
+        "place": "Weston-super-Mare, United Kingdom",
+        "note": "An Mi-24D held in the United Kingdom's largest helicopter collection.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "None published",
+        "name": "Mi-24",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "note": "An Mi-24 in the museum's collection.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "None published",
+        "name": "Mi-24D",
+        "location": "Russell Military Museum",
+        "place": "Zion, Illinois, United States",
+        "note": "An Mi-24D held in the museum's collection.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

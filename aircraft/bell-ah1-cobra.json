@@ -1,0 +1,293 @@
+{
+  "name": "AH-1 Cobra",
+  "fullName": "Bell AH-1 Cobra (HueyCobra)",
+  "manufacturer": "Bell Helicopter",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Attack Helicopter",
+  "tagline": "The Bell AH-1 Cobra is a two-seat attack helicopter built by Bell for the U.S. Army and the first dedicated attack helicopter to enter large-scale service. It reached Vietnam in 1967, where Cobras flew more than a million operational hours.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The Cobra was developed from the UH-1 Huey and reused about 80 percent of its parts, including the engine, transmission and rotor system.",
+    "The prototype Model 209 rolled out on 3 September 1965 and first flew four days later, on 7 September.",
+    "Cobras flew more than one million operational hours in Vietnam, and about 300 of the nearly 1,110 delivered were lost to combat and accidents.",
+    "Operation Lam Son 719 in Laos destroyed 26 AH-1Gs and damaged 158.",
+    "Iraqi Mi-25s and Iranian AH-1J SeaCobras fought the only confirmed helicopter-versus-helicopter air battles during the Iran-Iraq War.",
+    "The crew sat in stepped tandem seats, with the gunner in the front seat for the best visibility and the commander behind."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the original AH-1G. The Army's later AH-1F had a 1,800 shp T53-L-703 engine, an empty weight of 6,600 lb, a maximum takeoff weight of 10,000 lb, a range of 274 nmi and a service ceiling of 12,200 ft. Sources give the AH-1G's T53-L-13 as both 1,100 shp and 1,400 shp; the lower figure is used. The service entry date is the day the first six reached Bien Hoa. The retired date is the Marine Corps' 2020 withdrawal of the AH-1W, as the last major Cobra user; the Army retired the type from active service in March 1999 and from the reserves in September 2001.",
+    "maxSpeed": {
+      "mph": 171,
+      "text": "149 kn (171 mph / 276 km/h)"
+    },
+    "range": {
+      "miles": 360,
+      "text": "360 mi (570 km, 310 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 11400,
+      "text": "11,400 ft (3,475 m)"
+    },
+    "rateOfClimb": "1,230 ft/min (6.2 m/s)",
+    "mainRotorDiameter": {
+      "ft": 44,
+      "text": "44 ft (13.41 m)"
+    },
+    "length": {
+      "ft": 53,
+      "text": "53 ft (16.2 m) rotors turning; 44 ft 5 in (13.5 m) fuselage"
+    },
+    "height": {
+      "ft": 13.5,
+      "text": "13 ft 6 in (4.12 m)"
+    },
+    "weight": "empty: 5,810 lb (2,635 kg); MTOW: 9,500 lb (4,309 kg)",
+    "engines": "1 x Lycoming T53-L-13 turboshaft, 1,100 shp (820 kW)",
+    "armament": "M28 chin turret with two 7.62 mm miniguns, two M129 40 mm grenade launchers, or one of each; 2.75 in rockets in 7-tube M158 or 19-tube M200 launchers on the stub wings; optional M18 minigun pod or XM35 with an XM195 20 mm cannon",
+    "crew": "2 (gunner in the front seat, pilot in the rear)",
+    "capacity": "Weapons only - no troop compartment",
+    "firstFlight": {
+      "date": "1965-09-07",
+      "year": 1965
+    },
+    "serviceEntryDate": "1967-08-30",
+    "retiredDate": "2020",
+    "numberBuilt": 1116,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no per-aircraft price for the AH-1G was found in the sources checked",
+      "inflationText": null
+    },
+    "combatLosses": "About 300 of the nearly 1,110 AH-1Gs delivered to the Army were lost to combat and accidents in Vietnam. Operation Lam Son 719 alone destroyed 26 and damaged 158."
+  },
+  "variants": [
+    {
+      "code": "AH-1G HueyCobra",
+      "desc": "The initial 1966 production version for the U.S. Army, with a T53-L-13 engine and an M28 chin turret. Bell built 1,116 from 1967 to 1973, and the Army's fleet peaked at 1,081 aircraft. The first six reached Bien Hoa, Vietnam, on 30 August 1967."
+    },
+    {
+      "code": "AH-1Q / AH-1S / AH-1F",
+      "desc": "Army upgrades. The AH-1Q added TOW anti-tank missiles, and the AH-1S added the T53-L-703 engine. The modernised AH-1F had a 1,800 shp engine, a weight of 10,000 lb and a range of 274 nmi. Japan built 89 AH-1S under licence at Fuji from 1984 to 2000."
+    },
+    {
+      "code": "AH-1J SeaCobra / AH-1T",
+      "desc": "A twin-engine version ordered by the U.S. Marine Corps in 1968. The AH-1T was a later Marine upgrade with a longer fuselage and tailboom."
+    },
+    {
+      "code": "AH-1W SuperCobra",
+      "desc": "The Marine Corps' twin-engine version, retired from U.S. service in 2020. Turkey bought ten AH-1Ws alongside 32 ex-U.S. Army Cobras."
+    },
+    {
+      "code": "AH-1Z Viper",
+      "desc": "A later development for the U.S. Marine Corps. The sources list it as a related aircraft rather than as a Cobra variant, and it follows the AH-1W, which the Marines retired in 2020."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1967",
+      "fleetSize": "1,116 AH-1Gs built, with 1,081 at peak; retired from active service in March 1999 and from the reserves in September 2001",
+      "homeBase": "Vietnam (combat); Fort Rucker, Alabama (training)"
+    },
+    {
+      "name": "United States Marine Corps",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1968",
+      "fleetSize": "AH-1J SeaCobra from 1968, then the AH-1T and AH-1W; the AH-1W was retired in 2020",
+      "homeBase": "Marine Corps air stations"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1977",
+      "fleetSize": "6 AH-1Gs initially, then 24 new Cobras in 1983-1985; the last 33 retired in late 2013, and 16 went to Jordan in late 2014",
+      "homeBase": "Israel"
+    },
+    {
+      "name": "Japan Ground Self-Defense Force",
+      "role": "Licence-Built Operator",
+      "status": "Retired",
+      "since": "1984",
+      "fleetSize": "89 AH-1S built under licence by Fuji, 1984-2000",
+      "homeBase": "Japan"
+    },
+    {
+      "name": "Turkey",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "10 AH-1Ws plus 32 ex-U.S. Army Cobras",
+      "homeBase": "Turkey"
+    },
+    {
+      "name": "Other operators worldwide",
+      "role": "Export Customers",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Includes the Republic of Korea Army, Royal Jordanian Air Force, Pakistan Army Aviation, Spanish Navy (8 Z-14s), Philippine Air Force and Royal Bahraini Air Force; combined total not published",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "H1",
+    "howToFind": "Military Cobras rarely broadcast a position, so sightings on Flightradar24 are rare. Filter for type H1 and look for civil-registered or foreign-operated aircraft."
+  },
+  "lastUpdated": "2026-10-18",
+  "changelog": [
+    {
+      "date": "2026-10-18",
+      "change": "New entry for the Bell AH-1 Cobra, covering its Huey origins, the Vietnam record, the main variants and operators, and the two preserved aircraft.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Cobra",
+    "AH-1",
+    "AH-1G",
+    "HueyCobra",
+    "Snake",
+    "AH-1S",
+    "AH-1F",
+    "SeaCobra",
+    "SuperCobra",
+    "AH-1W",
+    "AH-1Z",
+    "Viper",
+    "Bell 209",
+    "attack helicopter",
+    "gunship",
+    "Vietnam"
+  ],
+  "article": {
+    "overview": [
+      "The Bell AH-1 Cobra is a two-seat, single-rotor attack helicopter built by Bell Helicopter for the U.S. Army. It was the first dedicated attack helicopter to enter large-scale service, and the first AH-1Gs reached Vietnam in 1967. {{ref:wiki-ah1}} {{ref:maps}}",
+      "Bell built 1,116 AH-1Gs for the Army between 1967 and 1973, and Cobras logged more than a million operational hours in Vietnam. The type was developed into twin-engine versions for the U.S. Marine Corps and exported to Japan, Israel, Turkey and others. {{ref:wiki-ah1}} {{ref:maps}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Cobra grew out of the UH-1 Iroquois as the Bell Model 209, which used the Huey's engine, transmission and rotor system with a new, narrow fuselage. About 80 percent of its components already had Huey part numbers. The prototype rolled out on 3 September 1965 and first flew four days later. {{ref:wiki-ah1}}",
+          "The Army applied the Cobra name to the AH-1G designation, after Bell added Cobra to the Huey nickname to make HueyCobra. The aircraft was first designated UH-1H, and the A for attack was soon adopted. {{ref:wiki-ah1}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The AH-1G has stepped tandem seating, with the gunner in the forward seat for the best visibility and the commander behind him. Both seats have flight controls and armoured seats. A chin-mounted M28 turret carries two 7.62 mm miniguns, two M129 40 mm grenade launchers, or one of each. {{ref:wiki-ah1}}",
+          "The stub wings carry 2.75 in rockets in 7-tube M158 or 19-tube M200 launchers. The AH-1G was 53 ft (16.2 m) long with its rotors turning, weighed 9,500 lb at takeoff and used a Lycoming T53-L-13 turboshaft for a top speed of 149 kn. {{ref:wiki-ah1}} {{ref:maps}}"
+        ]
+      },
+      {
+        "heading": "Vietnam & Combat History",
+        "paragraphs": [
+          "The first six AH-1Gs arrived at Bien Hoa on 30 August 1967, and the 334th Assault Helicopter Company became operational on 6 October 1967. The first combat kill was a sampan on 4 September 1967. Cobras flew fire support, escorted transports and worked in hunter-killer teams with OH-6A scouts, and the Army flew the type in Vietnam until the withdrawal in 1973. {{ref:wiki-ah1}}",
+          "About 300 of the nearly 1,110 Cobras delivered were lost to combat and accidents. Operation Lam Son 719 in Laos destroyed 26 AH-1Gs and damaged 158. In the Iran-Iraq War, Iraqi Mi-25s and Iranian AH-1J SeaCobras fought the only confirmed air-to-air battles between helicopters, with 10 SeaCobras and 6 Mi-25s destroyed. {{ref:wiki-ah1}} {{ref:maps}} {{ref:wiki-mi24}}"
+        ]
+      },
+      {
+        "heading": "Marine Cobras & Exports",
+        "paragraphs": [
+          "The Marine Corps ordered the twin-engine AH-1J in 1968, followed by the longer AH-1T and the AH-1W SuperCobra, which the Marines retired in 2020. Two of four AH-1Ts involved in the 1983 Grenada invasion were lost to anti-aircraft fire on the first day. {{ref:wiki-ah1}}",
+          "Israel bought six AH-1Gs, formed its first attack helicopter squadron on 1 December 1977 and made its first attack on 9 May 1979 near Tyre, Lebanon. Japan built 89 AH-1S under licence from 1984 to 2000, and Turkey operated ten AH-1Ws and 32 ex-U.S. Army Cobras. The Army removed the type from the reserves in September 2001, but the U.S. Forest Service converted 25 AH-1Fs into Firewatch Cobras, the last two of which retired in October 2021. {{ref:wiki-ah1}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-ah1",
+      "name": "Bell AH-1 Cobra",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bell_AH-1_Cobra"
+    },
+    {
+      "id": "maps",
+      "name": "AH-1 Cobra",
+      "publisher": "MAPS Air Museum",
+      "url": "https://mapsairmuseum.org/wp-content/uploads/2024/02/AH-1-Cobra.pdf"
+    },
+    {
+      "id": "wiki-mi24",
+      "name": "Mil Mi-24",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Bell AH-1 Cobra",
+      "url": "https://en.wikipedia.org/wiki/Bell_AH-1_Cobra"
+    },
+    {
+      "name": "AH-1 Cobra - MAPS Air Museum",
+      "url": "https://mapsairmuseum.org/wp-content/uploads/2024/02/AH-1-Cobra.pdf"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1965-09-07",
+      "title": "Bell 209 first flight",
+      "tag": "Milestone",
+      "summary": "The prototype Model 209 made its first flight four days after its 3 September rollout.",
+      "source": "https://en.wikipedia.org/wiki/Bell_AH-1_Cobra"
+    },
+    {
+      "date": "1967-10-06",
+      "title": "First Cobra unit declared operational",
+      "tag": "Milestone",
+      "summary": "The 334th Assault Helicopter Company became the first operational AH-1 unit in Vietnam.",
+      "source": "https://en.wikipedia.org/wiki/Bell_AH-1_Cobra"
+    },
+    {
+      "date": "1971-02-08",
+      "title": "Heavy Cobra losses in Operation Lam Son 719",
+      "tag": "Combat losses",
+      "summary": "Across the operation in Laos, 26 AH-1Gs were destroyed and 158 more were damaged.",
+      "source": "https://en.wikipedia.org/wiki/Bell_AH-1_Cobra"
+    },
+    {
+      "date": "1983-10-25",
+      "title": "Two AH-1Ts shot down over Grenada",
+      "tag": "Shot down",
+      "summary": "Two of the four Marine AH-1Ts involved were lost to anti-aircraft fire on the first day of the invasion.",
+      "source": "https://en.wikipedia.org/wiki/Bell_AH-1_Cobra"
+    }
+  ],
+  "survivors": {
+    "intro": "Cobras are preserved in museums across the United States; the airframes below are individually documented.",
+    "airframes": [
+      {
+        "serial": "70-16084",
+        "name": "AH-1S Cobra",
+        "location": "MAPS Air Museum",
+        "place": "North Canton, Ohio, United States",
+        "note": "Donated on 13 May 1996 with 2,008 flight hours. It served with units at Fort Hood, deployed to Germany with NATO from 1976 to 1978, and later flew with the Ohio Air National Guard.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "None published",
+        "name": "Bell 209 demonstrator",
+        "location": "Patton Museum",
+        "place": "Fort Knox, Kentucky, United States",
+        "note": "The original demonstrator, retired to the museum.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

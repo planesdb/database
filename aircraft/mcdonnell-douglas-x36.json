@@ -1,0 +1,240 @@
+{
+  "name": "X-36",
+  "fullName": "McDonnell Douglas X-36 Tailless Fighter Agility Research Aircraft",
+  "manufacturer": "McDonnell Douglas (Boeing Phantom Works)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "drones"
+  ],
+  "role": "Tailless Fighter Agility Demonstrator",
+  "tagline": "The McDonnell Douglas X-36 is a remotely piloted, tailless research aircraft built as a 28-percent-scale model of a theoretical advanced fighter. Two were built by Boeing Phantom Works for NASA, and they flew 31 times in 1997 to 40 degrees angle of attack with no tail at all.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The two X-36s flew 31 times in 25 weeks between 17 May and 12 November 1997, for 15 hours and 38 minutes in total.",
+    "Each aircraft was only about 18 ft long and weighed 1,270 lb at maximum takeoff, a 28-percent-scale model of a fighter that was never built.",
+    "With no tail of any kind, it steered with a canard, split ailerons and a thrust-vectoring nozzle.",
+    "The pilot sat in a ground-station cockpit and saw the world through a camera in the nose, with a fighter-style head-up display.",
+    "NASA and Boeing split the roughly $21 million cost of building and flight-testing both prototypes about 50/50.",
+    "The airframe was unstable in pitch and yaw, so a single-channel digital fly-by-wire system had to hold it steady on every flight."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures describe the 28-percent-scale X-36 demonstrator, not the fighter it modelled. NASA quotes the flown speed envelope as 206 knots (234 mph), and the 203 kn figure here is calculated from the 234 mph; Wikipedia lists an initial limit of 160 kn that was later raised to 243 kn (280 mph). NASA gives the maximum altitude flown as 20,200 ft. Cruise speed and range have not been published.",
+    "maxSpeed": {
+      "mph": 234,
+      "text": "203 kn (234 mph / 377 km/h)"
+    },
+    "cruiseSpeed": "Not publicly disclosed",
+    "range": {
+      "miles": null,
+      "text": "Not publicly disclosed - flights lasted 35 to 45 minutes from takeoff to touchdown"
+    },
+    "serviceCeiling": {
+      "ft": 20500,
+      "text": "20,500 ft (6,200 m)"
+    },
+    "wingspan": {
+      "ft": 10.42,
+      "text": "10 ft 5 in (3.18 m)"
+    },
+    "length": {
+      "ft": 18.21,
+      "text": "18 ft 2.5 in (5.55 m), including the pitot boom"
+    },
+    "height": {
+      "ft": 3.1,
+      "text": "3 ft 1.25 in (0.95 m)"
+    },
+    "weight": "empty: 1,090 lb (494 kg); MTOW: 1,270 lb (576 kg)",
+    "engines": "1 x Williams International F112 turbofan, 700 lbf (3.1 kN), with a thrust-vectoring nozzle",
+    "crew": "None on board - remotely piloted from a ground station",
+    "capacity": "None - flight-test instrumentation only, with 180 lb (82 kg) of fuel",
+    "firstFlight": {
+      "date": "1997-05-17",
+      "year": 1997
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1998",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - NASA gives about $21M as the combined cost of developing, building and flight-testing both prototypes, with no per-aircraft price",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "X-36 (1997 flight programme)",
+      "desc": "The two aircraft flown in the original NASA and Boeing programme. They made 31 flights between 17 May and 12 November 1997, reaching 40 degrees angle of attack, 20,200 ft and 206 knots. Control came from a canard, split ailerons and a thrust-vectoring nozzle, with a digital fly-by-wire system stabilising the airframe in pitch and yaw."
+    },
+    {
+      "code": "X-36 (RESTORE flights)",
+      "desc": "The same aircraft flown for the Air Force Research Laboratory in December 1998. Boeing flew the lab's RESTORE neural-net reconfigurable control software on two research flights, with simulated failures introduced in the flaps, ailerons and rudders. NASA reports that the software compensated correctly each time."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Boeing",
+      "role": "Manufacturer and Flight-Test Partner",
+      "status": "Retired",
+      "since": "1994",
+      "fleetSize": "2 built (fabrication began 1994 as McDonnell Douglas)",
+      "homeBase": "St. Louis, Missouri (built); Edwards AFB, California (flown)"
+    },
+    {
+      "name": "NASA",
+      "role": "Programme Partner and Flight-Test Host",
+      "status": "Retired",
+      "since": "1989",
+      "fleetSize": "2 flown, 31 flights in the 1997 programme",
+      "homeBase": "Dryden (now Armstrong) Flight Research Center, Edwards AFB, California"
+    },
+    {
+      "name": "Air Force Research Laboratory",
+      "role": "RESTORE Control-Software Sponsor",
+      "status": "Retired",
+      "since": "1998",
+      "fleetSize": "Used the same 2 aircraft for 2 research flights",
+      "homeBase": "Edwards AFB, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The X-36 has not flown since 1998, so it cannot appear on Flightradar24. One aircraft is displayed at the National Museum of the United States Air Force near Dayton, Ohio, and the other stands outside the Air Force Flight Test Center Museum at Edwards Air Force Base, California."
+  },
+  "lastUpdated": "2026-10-14",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Added the McDonnell Douglas X-36 - the NASA and Boeing flight programme, specs, the RESTORE software flights and the two surviving aircraft.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "X-36",
+    "X36",
+    "McDonnell Douglas",
+    "Boeing",
+    "NASA",
+    "tailless fighter",
+    "thrust vectoring",
+    "UAV",
+    "drone demonstrator",
+    "Phantom Works",
+    "RESTORE",
+    "Dryden"
+  ],
+  "article": {
+    "overview": [
+      "The McDonnell Douglas X-36 is a remotely piloted, tailless research aircraft built as a 28-percent-scale model of a theoretical advanced fighter. Boeing Phantom Works, formerly McDonnell Douglas, built two of them in St. Louis under a cooperative agreement with NASA Ames Research Center, and they flew 31 times between 17 May and 12 November 1997. {{ref:nasa-fs065}} {{ref:wiki-x36}}",
+      "The X-36 had no tail. It used a canard, split ailerons and a thrust-vectoring nozzle for control, and it was unstable in pitch and yaw, so a digital fly-by-wire system held it steady. The flights reached an angle of attack of 40 degrees, an altitude of 20,200 ft and a speed of 206 knots, and NASA says the programme met or exceeded all of its goals. {{ref:nasa-fs065}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "NASA Ames and Phantom Works began developing tailless agile-flight technologies in 1989. McDonnell Douglas proposed the demonstrator in 1993, and fabrication of the two vehicles began in 1994. NASA and Boeing were full partners with roughly 50/50 cost sharing, Ames provided the government oversight, and the Dryden Flight Research Center supplied flight-test experience, infrastructure and range support. {{ref:nasa-fs065}}",
+          "A tailless layout was meant to reduce weight, drag and radar cross-section while increasing range, manoeuvrability and survivability. The first aircraft arrived at Dryden in July 1996, ahead of its first flight the following May, and McDonnell Douglas merged with Boeing in August 1997 while the test programme was under way. {{ref:wiki-x36}}"
+        ]
+      },
+      {
+        "heading": "Design & Control",
+        "paragraphs": [
+          "The X-36 was 18 ft 2.5 in (5.55 m) long including its pitot boom, with a wingspan of 10 ft 5 in (3.18 m) and a height of 3 ft 1.25 in (0.95 m). It weighed 1,090 lb (494 kg) empty and 1,270 lb (576 kg) at maximum takeoff, which included 180 lb (82 kg) of fuel. A Williams International F112 turbofan produced 700 lbf. {{ref:wiki-x36}} {{ref:nasa-fs065}}",
+          "The airframe had no traditional tail, with a canard ahead of the wing, split ailerons and a thrust-vectoring nozzle that gave directional control. It was unstable in pitch and yaw and was stabilised by a single-channel digital fly-by-wire system. The pilot flew from a ground-station virtual cockpit using a nose-mounted video camera, a microphone and a fighter-style head-up display, and a typical flight lasted 35 to 45 minutes from takeoff to touchdown. {{ref:nasa-fs065}} {{ref:wiki-x36}}"
+        ]
+      },
+      {
+        "heading": "Flight Test Programme",
+        "paragraphs": [
+          "The first flight took place on 17 May 1997, and the 31 flights of the original programme ended on 12 November 1997, 25 weeks later. Together they added up to 15 hours and 38 minutes in the air. The flights reached an angle of attack of 40 degrees, a maximum altitude of 20,200 ft and a speed of 206 knots (234 mph). NASA puts the combined cost of developing, building and flight-testing the two prototypes at about $21 million. {{ref:nasa-fs065}}",
+          "The Air Force Research Laboratory then contracted Boeing to fly its RESTORE software, a neural-net reconfigurable control system meant to compensate for damaged or malfunctioning flaps, ailerons and rudders. Two research flights in December 1998 introduced simulated control-surface failures, and the software compensated correctly each time. Those flights brought the total to 33. {{ref:nasa-fs065}} {{ref:nasa-x36-history}}"
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "NASA reports that the X-36 met or exceeded all project goals, and Wikipedia says the aircraft handled very well. As of 2026 there has been no further development of the X-36 or any design derived from it. {{ref:nasa-fs065}} {{ref:wiki-x36}}",
+          "One of the two aircraft arrived at the National Museum of the United States Air Force near Dayton, Ohio, on 16 July 2003, the same day as the Boeing Bird of Prey, and it is displayed in the Research & Development Gallery. The other is displayed outside the Air Force Flight Test Center Museum at Edwards Air Force Base, California. {{ref:wiki-x36}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nasa-fs065",
+      "name": "X-36 Tailless Fighter Agility Research Aircraft fact sheet",
+      "publisher": "NASA Dryden Flight Research Center",
+      "url": "https://www.nasa.gov/centers/dryden/pdf/120316main_FS-065-DFRC.pdf"
+    },
+    {
+      "id": "nasa-x36-history",
+      "name": "X-36 Tailless Fighter Agility Research Aircraft",
+      "publisher": "NASA Armstrong Flight Research Center",
+      "url": "https://www.nasa.gov/centers/armstrong/history/experimental_aircraft/X-36.html"
+    },
+    {
+      "id": "wiki-x36",
+      "name": "McDonnell Douglas X-36",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_X-36"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "X-36 Tailless Fighter Agility Research Aircraft - NASA fact sheet FS-065",
+      "url": "https://www.nasa.gov/centers/dryden/pdf/120316main_FS-065-DFRC.pdf"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1997-05-17",
+      "title": "First flight",
+      "tag": "Milestone",
+      "summary": "The X-36 made its first flight, starting a programme of 31 flights over the following 25 weeks.",
+      "source": "https://www.nasa.gov/centers/dryden/pdf/120316main_FS-065-DFRC.pdf"
+    },
+    {
+      "date": "1997-11-12",
+      "title": "Final flight of the original programme",
+      "tag": "Milestone",
+      "summary": "The 31st flight closed the original programme, which had logged 15 hours and 38 minutes and reached 40 degrees angle of attack.",
+      "source": "https://www.nasa.gov/centers/dryden/pdf/120316main_FS-065-DFRC.pdf"
+    },
+    {
+      "date": "2003-07-16",
+      "title": "First airframe arrives at the Air Force museum",
+      "tag": "Milestone",
+      "summary": "One X-36 arrived at the National Museum of the United States Air Force near Dayton, Ohio, on the same day as the Bird of Prey.",
+      "source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_X-36"
+    }
+  ],
+  "survivors": {
+    "intro": "Both X-36s survive and are on public display.",
+    "airframes": [
+      {
+        "serial": "None published",
+        "name": "X-36",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "note": "Arrived on 16 July 2003 and is displayed in the Research & Development Gallery.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "None published",
+        "name": "X-36",
+        "location": "Air Force Flight Test Center Museum, outdoor display",
+        "place": "Edwards AFB, California, United States",
+        "note": "The second aircraft, displayed outside the museum where the programme was flown.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

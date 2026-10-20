@@ -193,6 +193,21 @@ function checkAircraft(filename, validSlugs) {
     warn(rel, "Fewer than three quickFacts. Four to six short, verifiable facts is the " +
       "house standard.");
   }
+
+  // Optional hand-written FAQs: a list of { "q": "...", "a": "..." }, both plain text.
+  if (plane.faq !== undefined) {
+    if (!Array.isArray(plane.faq)) {
+      err(rel, '"faq" must be a list of { "q": "question", "a": "answer" } items.');
+    } else {
+      plane.faq.forEach((item, i) => {
+        const ok = item && typeof item.q === "string" && item.q.trim() &&
+          typeof item.a === "string" && item.a.trim();
+        if (!ok) {
+          err(rel, "faq[" + i + '] needs both a "q" (question) and an "a" (answer), as text.');
+        }
+      });
+    }
+  }
 }
 
 function checkOperator(filename) {

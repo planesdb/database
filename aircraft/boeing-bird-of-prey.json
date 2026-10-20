@@ -1,0 +1,202 @@
+{
+  "name": "Bird of Prey",
+  "fullName": "Boeing Bird of Prey",
+  "manufacturer": "Boeing (Phantom Works)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Stealth Technology Demonstrator",
+  "tagline": "The Boeing Bird of Prey is a single-seat stealth technology demonstrator built in secret by Boeing's Phantom Works. Boeing paid the $67 million programme cost itself, and the one aircraft flew 38 times between 1996 and 1999 before the company revealed it in October 2002.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Boeing funded the whole $67 million programme itself, and the project stayed classified for ten years after work began in 1992.",
+    "The name comes from the Klingon Bird-of-Prey spacecraft in Star Trek, which the aircraft's planform resembled.",
+    "Its landing gear was adapted from Beech King Air and Queen Air aircraft to save cost and development time.",
+    "The controls were manual, with no computer assistance, and the shape was stable enough to fly without computer correction.",
+    "It made 38 flights from fall 1996, and its last flight in 1999 was followed by three more years of secrecy.",
+    "The Bird of Prey was subsonic, with a top speed of 260 knots and a ceiling of 20,000 ft, so it tested shaping and construction methods and not combat performance."
+  ],
+  "specifications": {
+    "specificationsNote": "Boeing's 2002 release gives a wingspan of about 23 ft, a length of 47 ft and a weight of nearly 7,400 lb; the dimensions here are the more exact figures listed on Wikipedia. Boeing and the Air Force museum put the first flight in fall 1996, while Wikipedia gives 11 September 1996 and counts 39 flights after it; Boeing's and the museum's total of 38 is used here. Range, cruise speed and empty weight have not been published.",
+    "maxSpeed": {
+      "mph": 299,
+      "text": "260 kn (299 mph / 482 km/h)"
+    },
+    "cruiseSpeed": "Not publicly disclosed",
+    "range": {
+      "miles": null,
+      "text": "Not publicly disclosed"
+    },
+    "serviceCeiling": {
+      "ft": 20000,
+      "text": "20,000 ft (6,100 m)"
+    },
+    "wingspan": {
+      "ft": 22.67,
+      "text": "22 ft 8 in (6.91 m)"
+    },
+    "length": {
+      "ft": 46.67,
+      "text": "46 ft 8 in (14.22 m)"
+    },
+    "height": {
+      "ft": 9.25,
+      "text": "9 ft 3 in (2.82 m)"
+    },
+    "weight": "MTOW: 7,400 lb (3,356 kg)",
+    "engines": "1 x Pratt & Whitney Canada JT15D-5C turbofan, 3,190 lbf (14.2 kN)",
+    "crew": "1 (pilot)",
+    "capacity": "None - technology demonstrator with no payload",
+    "firstFlight": {
+      "date": "1996-09-11",
+      "year": 1996
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1999",
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": 134700000,
+      "text": "$135M in 2026 dollars (CPI-adjusted, 1992-1999 programme cost)",
+      "inflationText": "Originally $67M (1992-1999)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Bird of Prey",
+      "desc": "The only aircraft built, a single-seat, single-engine demonstrator with a tailless blended-wing shape. It carried no weapons or payload and flew 38 times between 1996 and 1999. The $67 million programme cost covered the whole project, so it is also the unit cost. It is sometimes listed under the designation YF-118G, and it is now on display in Ohio."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Boeing",
+      "role": "Developer and Sole Operator",
+      "status": "Retired",
+      "since": "1992",
+      "fleetSize": "1 built, flown 38 times",
+      "homeBase": "Area 51, Nevada"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The Bird of Prey last flew in 1999, so it cannot appear on Flightradar24. The only aircraft built is displayed at the National Museum of the United States Air Force near Dayton, Ohio."
+  },
+  "lastUpdated": "2026-10-14",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "New entry for the Boeing Bird of Prey, covering the secret Area 51 flight programme and the October 2002 reveal.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Bird of Prey",
+    "Boeing",
+    "Phantom Works",
+    "McDonnell Douglas",
+    "Area 51",
+    "stealth demonstrator",
+    "YF-118G",
+    "Klingon",
+    "Star Trek",
+    "black project",
+    "X-45",
+    "X-32"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing Bird of Prey is a single-seat, single-engine stealth technology demonstrator built by Boeing's Phantom Works, the former McDonnell Douglas special projects division, in the United States. One was built. The programme ran from 1992 to 1999 at Area 51 in Nevada, the aircraft completed 38 flights from fall 1996, and Boeing, which paid the full $67 million cost, revealed it on 18 October 2002. {{ref:boeing-2002}} {{ref:nmusaf-bop}} {{ref:wiki-bop}}",
+      "It was subsonic, with a top speed of 260 knots and a ceiling of 20,000 ft, and it was built to test methods of design and construction. The Air Force museum credits it with testing ways to reduce visibility to the eye and to radar, and with validating large single-piece composite structures, virtual-reality design and assembly, and disposable tooling. Boeing says the X-45A unmanned combat air vehicle took its shape and inlet from the Bird of Prey. {{ref:boeing-2002}} {{ref:nmusaf-bop}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "McDonnell Douglas's Phantom Works began development in 1992 as a classified project at Area 51. McDonnell Douglas merged with Boeing in 1997, and Phantom Works became part of Boeing Integrated Defense Systems, which ran the programme until it ended in 1999. Boeing paid the full $67 million from its own funds. {{ref:wiki-bop}} {{ref:boeing-2002}}",
+          "The programme took its name from the Klingon Bird-of-Prey spacecraft in Star Trek, which the aircraft's planform resembled. Several parts were taken off the shelf to cut cost and speed up production: the engine was a commercial turbofan, the flight controls were manual hydraulics with no computer assistance, and the landing gear was adapted from Beech King Air and Queen Air aircraft. {{ref:nmusaf-bop}} {{ref:wiki-bop}}"
+        ]
+      },
+      {
+        "heading": "Design & Construction",
+        "paragraphs": [
+          "The Bird of Prey was 46 ft 8 in (14.22 m) long with a wingspan of 22 ft 8 in (6.91 m), and its maximum takeoff weight was 7,400 lb (3,356 kg). It had no horizontal tailplane and no conventional rudder, and chines along the nose gave it lift in the way they do on the SR-71. The shape was stable enough to fly without computer correction. {{ref:wiki-bop}} {{ref:boeing-2002}}",
+          "The Air Force museum describes control surfaces that blend into the wings without gaps and an engine intake that is fully shielded from the front. The aircraft was designed and assembled using a 3-D virtual-reality system and low-cost disposable tooling, and its large single-piece composite structures were validated in flight. A single Pratt & Whitney Canada JT15D-5C turbofan rated at 3,190 lbf gave the 260-knot top speed. {{ref:nmusaf-bop}} {{ref:boeing-2002}}"
+        ]
+      },
+      {
+        "heading": "Flight Test & Technology Transfer",
+        "paragraphs": [
+          "The first flight took place in fall 1996, and the programme completed 38 flights before it ended in 1999. The tests looked at ways to reduce the aircraft's visibility both to the eye and to radar. The aircraft stayed classified for another three years after its last flight. {{ref:boeing-2002}} {{ref:nmusaf-bop}}",
+          "Boeing's X-45A unmanned combat air vehicle drew directly on the Bird of Prey for its shape and inlet, according to the company's 2002 release. The Air Force museum adds that the same design techniques were used on Boeing's X-32 Joint Strike Fighter demonstrators. Boeing gave the reason for the reveal as the fact that the technologies had become industry standards. {{ref:boeing-2002}} {{ref:nmusaf-bop}}"
+        ]
+      },
+      {
+        "heading": "Reveal & Display",
+        "paragraphs": [
+          "Boeing unveiled the aircraft on 18 October 2002. The release quoted Jim Albaugh, then president and CEO of Boeing Integrated Defense Systems, and George Muellner, senior vice president of Air Force Systems for the same division. {{ref:boeing-2002}}",
+          "Boeing donated the aircraft to the National Museum of the United States Air Force in 2002, and it went on display near Dayton, Ohio, on 16 July 2003. It was the only one built, so the museum's aircraft is the whole fleet. {{ref:nmusaf-bop}} {{ref:wiki-bop}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "boeing-2002",
+      "name": "Boeing Unveils Bird of Prey Stealth Technology Demonstrator",
+      "publisher": "Boeing",
+      "url": "https://boeing.mediaroom.com/2002-10-18-Boeing-Unveils-Bird-of-Prey-Stealth-Technology-Demonstrator"
+    },
+    {
+      "id": "nmusaf-bop",
+      "name": "Boeing Bird of Prey fact sheet",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196041"
+    },
+    {
+      "id": "wiki-bop",
+      "name": "Boeing Bird of Prey",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_Bird_of_Prey"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing Bird of Prey - National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196041"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2002-10-18",
+      "title": "Declassified and unveiled",
+      "tag": "Milestone",
+      "summary": "Boeing revealed the Bird of Prey after ten years of secrecy, saying its technologies had become industry standards.",
+      "source": "https://boeing.mediaroom.com/2002-10-18-Boeing-Unveils-Bird-of-Prey-Stealth-Technology-Demonstrator"
+    },
+    {
+      "date": "2003-07-16",
+      "title": "Placed on display at the Air Force museum",
+      "tag": "Milestone",
+      "summary": "The aircraft went on display at the National Museum of the United States Air Force near Dayton, Ohio.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_Bird_of_Prey"
+    }
+  ],
+  "survivors": {
+    "intro": "The only Bird of Prey built survives, on display at the National Museum of the United States Air Force.",
+    "airframes": [
+      {
+        "serial": "None published",
+        "name": "Bird of Prey",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson AFB, Dayton, Ohio, United States",
+        "note": "The only aircraft built, donated by Boeing in 2002 and displayed from 16 July 2003.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}
