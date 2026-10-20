@@ -1,11 +1,11 @@
-# Licence
+# License
 
 ## The entries in this repository
 
 The aircraft and operator entries here - the specifications, history,
 operators, incidents, quick facts and everything else in the JSON files - are
 licensed under the
-**[Creative Commons Attribution-ShareAlike 4.0 International Licence][cc]**.
+**[Creative Commons Attribution-ShareAlike 4.0 International License][cc]**.
 
 In plain English, you are free to:
 
@@ -17,7 +17,7 @@ as long as you:
 - **give credit** to PlanesDB and link back to <https://planesdb.com>, and
   indicate if you changed anything
 - **share alike** - if you build on the entries, release what you make under
-  the same licence
+  the same license
 
 The full legal text is at <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
 
@@ -25,15 +25,15 @@ Share-alike rather than something looser is deliberate. This database is built
 by contributors giving their time, and it seemed right that anything built on
 their work stays as open as the original.
 
-## What this licence does NOT cover
+## What this license does NOT cover
 
 **Photographs.** No photograph is stored in this repository, and none is
-covered by the licence above. Every photograph on planesdb.com belongs to
-whoever took it and carries its own separate licence - Creative Commons of
+covered by the license above. Every photograph on planesdb.com belongs to
+whoever took it and carries its own separate license - Creative Commons of
 various kinds, public domain, Crown Copyright, or official military releases.
 The credit shown under each photograph on the site says which.
 
-If you want to reuse an image, check that photograph's own licence and credit
+If you want to reuse an image, check that photograph's own license and credit
 the photographer as it requires. Nobody here can grant permission for somebody
 else's photograph.
 
