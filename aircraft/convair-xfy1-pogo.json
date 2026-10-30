@@ -1,0 +1,275 @@
+{
+  "name": "XFY-1 Pogo",
+  "fullName": "Convair XFY-1 Pogo",
+  "manufacturer": "Convair",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "VTOL Tail-Sitter Fighter",
+  "tagline": "The Convair XFY-1 Pogo is a single-seat experimental fighter built for the U.S. Navy that took off and landed vertically on its tail. One flying example was built, and test pilot James Coleman flew the first full vertical to horizontal transition in it on 2 November 1954.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "James F. Coleman was the only pilot to master the full sequence of vertical takeoff, transition to horizontal flight and vertical landing in the Pogo.",
+    "The first complete transition, on 2 November 1954, included 21 minutes of horizontal flight.",
+    "The four wheels sat on struts at the wingtips and fin tips, and the Pogo had no brakes.",
+    "Ryan Aeronautical added a radar altimeter with a light-based rate-of-descent indicator because judging the vertical landing was so difficult.",
+    "The Navy ended the programme on 1 August 1955, before a second pilot had been trained.",
+    "After testing, the aircraft stood as a gate guard at Naval Air Station Norfolk until the Navy transferred it to the Smithsonian in 1973."
+  ],
+  "faq": [],
+  "specifications": {
+    "specificationsNote": "Weights, speed and ceiling are published estimates and the sources disagree: empty weight is quoted from 11,155 lb to 11,784 lb, and ceiling from 37,500 ft to 43,700 ft. The 610 mph top speed is an estimate. Height, cruise speed and range are not given in any source checked. Only one aircraft flew, so first flight is the first free flight on 1 August 1954; tethered flights began on 29 April 1954.",
+    "maxSpeed": {
+      "mph": 610,
+      "text": "~530 kn (~610 mph / ~982 km/h)"
+    },
+    "cruiseSpeed": "Not published",
+    "range": {
+      "miles": null,
+      "text": "Not publicly disclosed - no range figure is published for the XFY-1"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Estimates range from 37,500 ft to 43,700 ft (11,430 m to 13,320 m)"
+    },
+    "wingspan": {
+      "ft": 27.67,
+      "text": "27 ft 8 in (8.43 m)"
+    },
+    "length": {
+      "ft": 35,
+      "text": "35 ft (10.66 m)"
+    },
+    "height": {
+      "ft": null,
+      "text": "Not published - sources disagree"
+    },
+    "weight": "empty: 11,784 lb (5,345 kg); MTOW: 16,250 lb (7,371 kg)",
+    "engines": "1 x Allison YT40 turboprop (two T38 engines on one gearbox), about 5,850 shp, driving two contra-rotating 16 ft (4.8 m) three-blade propellers",
+    "armament": "Planned: 4 x 20 mm cannon and 48 x 2.75 in Mk 4 folding-fin rockets",
+    "crew": "1",
+    "capacity": "Single-seat fighter; no cargo or passenger capacity",
+    "firstFlight": {
+      "date": "1954-08-01",
+      "year": 1954
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1955",
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - one experimental aircraft was built, with no per-aircraft price published",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "XFY-1 (138649)",
+      "desc": "The only aircraft to fly. It made its first tethered flight on 29 April 1954 at Moffett Field, its first free flight on 1 August 1954 and the first full transition on 2 November 1954. Coleman flew it for the last time on 16 June 1955, and it later went to Naval Air Station Norfolk and then the Smithsonian."
+    },
+    {
+      "code": "XFY-1 (production plan)",
+      "desc": "The planned production fighter was to use the Allison T54 turboprop in place of the YT40 and to carry four 20 mm cannon and 48 folding-fin rockets. The T54 was never built and the production version did not go ahead, so no fighter reached a squadron."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Navy",
+      "role": "Sole Operator",
+      "status": "Retired",
+      "since": "1954",
+      "fleetSize": "1 flying aircraft (138649)",
+      "homeBase": "NAS Moffett Field and Brown Field, California"
+    },
+    {
+      "name": "Convair",
+      "role": "Manufacturer and Flight-Test Contractor",
+      "status": "Retired",
+      "since": "1951",
+      "fleetSize": "1 built under a May 1951 contract for two",
+      "homeBase": "San Diego, California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The Pogo last flew in 1955, so it cannot appear on Flightradar24. The surviving aircraft is held by the National Air and Space Museum and is not currently on public display."
+  },
+  "lastUpdated": "2026-10-25",
+  "changelog": [
+    {
+      "date": "2026-10-25",
+      "change": "New entry for the Convair XFY-1 Pogo, covering the tethered and free flights with Skeets Coleman, why the Navy dropped it and where the aircraft is now.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "XFY-1",
+    "XFY",
+    "Pogo",
+    "Pogo Stick",
+    "Convair",
+    "tail-sitter",
+    "tailsitter",
+    "VTOL",
+    "Skeets Coleman",
+    "138649",
+    "Navy fighter",
+    "experimental"
+  ],
+  "article": {
+    "overview": [
+      "The Convair XFY-1 Pogo is a single-seat experimental fighter built by Convair for the U.S. Navy, designed to take off and land vertically on its tail and fly horizontally on a delta wing. A turboprop drove two contra-rotating propellers, and one flying example was built. {{ref:nasm-xfy}} {{ref:wiki-xfy}}",
+      "Convair test pilot James F. Coleman made the first free flight on 1 August 1954 and the first full transition from vertical to horizontal flight and back on 2 November 1954. His last flight was on 16 June 1955, and the Navy ended the programme on 1 August 1955 before a second pilot had been trained. {{ref:nasm-xfy}} {{ref:migflug-xfy}} {{ref:wiki-xfy}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Navy began studying vertical-takeoff fighters in 1947 and 1948, looking for an aircraft that could defend convoys and task forces from small ships without needing carriers. In 1951 it gave Convair and Lockheed contracts to build two experimental VTOL fighters each, and Convair's entry was nicknamed Pogo after the pogo stick. {{ref:nasm-xfy}} {{ref:wiki-xfy}} {{ref:wiki-xfv}}",
+          "Each company completed only one aircraft, although the contracts called for two, and the only Convair aircraft to fly carried the serial 138649. Convair tested the engine in April 1954 and then moved the project to Moffett Field in California for tethered flights. {{ref:wiki-xfy}} {{ref:nasm-xfy}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Pogo had a delta wing swept at 52 degrees, a cruciform tail and a wingspan of 27 ft 8 in (8.43 m). Its landing gear was four castoring wheels on struts at the wingtips and fin tips, with no brakes, and the pilot sat in a gimbal-mounted seat that tilted from 45 degrees for vertical flight to 90 degrees for horizontal flight. {{ref:nasm-xfy}} {{ref:wiki-xfy}} {{ref:allaero-xfy}}",
+          "The engine was an Allison YT40, made by joining two T38 turboprops to a single gearbox, and it delivered about 5,850 shp to two contra-rotating propellers of 16 ft (4.8 m) diameter. Maximum takeoff weight was 16,250 lb (7,371 kg). The planned armament was four 20 mm cannon and 48 folding-fin 2.75 in rockets, and published estimates put the top speed at about 610 mph (982 km/h), below Mach 1. {{ref:nasm-xfy}} {{ref:wiki-xfy}} {{ref:allaero-xfy}}"
+        ]
+      },
+      {
+        "heading": "Flight Test",
+        "paragraphs": [
+          "Tethered testing began on 29 April 1954 in the airship hangar at Naval Air Station Moffett Field, California, with Coleman flying while cables and a winch held the aircraft. He logged almost 60 hours in the hangar. The first untethered flights followed on 1 August 1954, and testing then moved to Brown Field near San Diego, where Coleman flew 70 takeoff and landing drills. {{ref:nasm-xfy}} {{ref:wiki-xfy}} {{ref:whiteeagle-xfy}}",
+          "On 2 November 1954 Coleman made the first transition from vertical to horizontal flight and back to a vertical landing, including 21 minutes of horizontal flight. It was the first complete VTOL transition by a fixed-wing aircraft, and the Pogo was shown to the public two days later. Coleman was Convair's project test pilot and a Marine Corps reservist. {{ref:nasm-xfy}} {{ref:whiteeagle-xfy}} {{ref:vertipedia-xfy}} {{ref:wiki-xfy}}"
+        ]
+      },
+      {
+        "heading": "Handling Problems & Cancellation",
+        "paragraphs": [
+          "The Pogo was unstable in the hover and needed constant control inputs. Landing was the hardest phase because the pilot had to look back over his shoulder to judge the descent, and Ryan Aeronautical added a radar altimeter with a light-based rate-of-descent indicator to help. The lightweight airframe had no spoilers or air brakes, which made it hard to slow down after high-speed flight. {{ref:nasm-xfy}} {{ref:wiki-xfy}}",
+          "Only highly experienced pilots could fly it, and Coleman was the only qualified pilot. Jet fighters were approaching Mach 2 while the Pogo was slower than a MiG-15 and carried a small payload. Coleman made his last flight on 16 June 1955, and the Navy ended the programme on 1 August 1955. {{ref:migflug-xfy}} {{ref:wiki-xfy}} {{ref:nasm-xfy}}"
+        ]
+      },
+      {
+        "heading": "Lockheed's XFV-1 & the Test Pilot",
+        "paragraphs": [
+          "Lockheed's competing tail-sitter was the XFV-1 Salmon, named after chief test pilot Herman Salmon. Lockheed received its order on 19 April 1951, and the aircraft made its official first flight on 16 June 1954 after an unintended hop during taxi tests on 22 December 1953. It made 32 flights, none with a vertical takeoff or landing, because full VTOL testing was waiting on an Allison T54 engine that never became available. Lockheed's project was cancelled in June 1955, and the flying XFV-1 is on outdoor display at the Sun 'n Fun Campus Museum in Lakeland, Florida. {{ref:wiki-xfv}}",
+          "James Francis Coleman was born in Chicago on 2 June 1918, joined the Marine Corps in 1941 and flew fighter missions in the Pacific. After the war he earned an aeronautical engineering degree at UCLA, and he became the Pogo's test pilot at Convair in 1954. He received the Harmon Trophy in 1954 as the first pilot to successfully manoeuvre a VTOL fighter, and his resignation from Convair was announced on 3 April 1956. He died on 13 May 2014 at the age of 95. {{ref:wiki-coleman}}"
+        ]
+      },
+      {
+        "heading": "Legacy & Preserved Aircraft",
+        "paragraphs": [
+          "The National Air and Space Museum summarises the programme as showing that a VTOL fighter was feasible but that substantial further development would be needed before one could be used operationally. {{ref:nasm-xfy}}",
+          "Serial 138649 was shipped to Naval Air Station Norfolk, Virginia, where it stood as a gate guard for years, and the Navy transferred it to the National Air and Space Museum in 1973. The museum lists it as not currently on display. {{ref:nasm-xfy}} {{ref:migflug-xfy}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nasm-xfy",
+      "name": "Convair XFY-1 Pogo",
+      "publisher": "National Air and Space Museum",
+      "url": "https://www.airandspace.si.edu/collection-objects/convair-xfy-1-pogo/nasm_A19730274000"
+    },
+    {
+      "id": "wiki-xfy",
+      "name": "Convair XFY Pogo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Convair_XFY_Pogo"
+    },
+    {
+      "id": "migflug-xfy",
+      "name": "The Convair XFY Pogo: Fighter That Took Off Standing Up",
+      "publisher": "MiGFlug",
+      "url": "https://migflug.com/jetflights/?p=708763"
+    },
+    {
+      "id": "allaero-xfy",
+      "name": "Convair XFY-1 Pogo",
+      "publisher": "All-Aero",
+      "url": "https://all-aero.com/2024/01/20/convair-xfy-1-pogo/"
+    },
+    {
+      "id": "whiteeagle-xfy",
+      "name": "Convair XFY-1 Pogo Milestone",
+      "publisher": "White Eagle Aerospace",
+      "url": "https://www.whiteeagleaerospace.com/convair-xfy-1-pogo-milestone"
+    },
+    {
+      "id": "vertipedia-xfy",
+      "name": "Convair XFY-1 Pogo",
+      "publisher": "Vertipedia, Vertical Flight Society",
+      "url": "https://vertidev.vtol.org/aircraft/getAircraft/aircraftID/66"
+    },
+    {
+      "id": "wiki-xfv",
+      "name": "Lockheed XFV",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_XFV"
+    },
+    {
+      "id": "wiki-coleman",
+      "name": "J. F. Coleman",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J._F._Coleman"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Convair XFY-1 Pogo, National Air and Space Museum",
+      "url": "https://www.airandspace.si.edu/collection-objects/convair-xfy-1-pogo/nasm_A19730274000"
+    },
+    {
+      "name": "Convair XFY Pogo, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Convair_XFY_Pogo"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1954-04-29",
+      "title": "First tethered flight",
+      "tag": "Milestone",
+      "summary": "Coleman made the first tethered hover in the airship hangar at Naval Air Station Moffett Field, California, with the aircraft held by cables and a winch.",
+      "source": "https://www.airandspace.si.edu/collection-objects/convair-xfy-1-pogo/nasm_A19730274000"
+    },
+    {
+      "date": "1954-08-01",
+      "title": "First free flight",
+      "tag": "Milestone",
+      "summary": "The Pogo made its first untethered vertical flights. Testing then moved to Brown Field near San Diego.",
+      "source": "https://www.airandspace.si.edu/collection-objects/convair-xfy-1-pogo/nasm_A19730274000"
+    },
+    {
+      "date": "1954-11-02",
+      "title": "First full transition",
+      "tag": "Milestone",
+      "summary": "Coleman flew from a vertical takeoff into horizontal flight and back to a vertical landing, the first complete VTOL transition by a fixed-wing aircraft.",
+      "source": "https://www.airandspace.si.edu/collection-objects/convair-xfy-1-pogo/nasm_A19730274000"
+    },
+    {
+      "date": "1955-06-16",
+      "title": "Last flight",
+      "tag": "Final flight",
+      "summary": "Coleman made the last flight of the Pogo. The Navy ended the programme on 1 August 1955.",
+      "source": "https://www.airandspace.si.edu/collection-objects/convair-xfy-1-pogo/nasm_A19730274000"
+    }
+  ],
+  "survivors": {
+    "intro": "The only aircraft to fly survives in the collection of the National Air and Space Museum.",
+    "airframes": [
+      {
+        "serial": "138649",
+        "location": "National Air and Space Museum collection, Washington DC and Chantilly, Virginia (not currently on display)",
+        "note": "Flown by Skeets Coleman. It was a gate guard at Naval Air Station Norfolk before the Navy transferred it to the museum in 1973."
+      }
+    ]
+  }
+}

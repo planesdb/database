@@ -1,0 +1,308 @@
+{
+  "name": "LVG C.VI",
+  "fullName": "Luft-Verkehrs-Gesellschaft C.VI",
+  "manufacturer": "Luft-Verkehrs-Gesellschaft (LVG)",
+  "originCountry": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "category": "military",
+  "categories": [
+    "spy-planes"
+  ],
+  "role": "WWI Reconnaissance & Artillery-Spotting Biplane",
+  "tagline": "The LVG C.VI is a German two-seat reconnaissance and artillery-spotting biplane built by Luft-Verkehrs-Gesellschaft for the Imperial German Air Service in 1918. About 1,100 were built, and after the Armistice it flew with the air arms of Belgium, Poland, Finland, Lithuania and Romania and on Belgium's first civil aircraft register.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Its designer, Willy Sabersky-Müssigbrodt, had drawn the C.VI's direct ancestor, the DFW C.V, for a different company.",
+    "The observer's radio could send Morse but could not receive, so reports went down to the batteries and no reply came back on the same set.",
+    "Belgium recovered 28 to 30 of them after the war, and one, 8939/18, flew King Albert to Paris for the Versailles discussions.",
+    "Several of the Belgian aircraft were among the first on the country's civil register, and some formed the nucleus of SNETA, the airline that became Sabena.",
+    "Lithuania took more than 20, and two were still in service in 1940.",
+    "Airframe 7198/18 (G-AANJ), now at the RAF Museum Cosford, last flew with the Shuttleworth Trust at Old Warden in 2003."
+  ],
+  "specifications": {
+    "maxSpeed": {
+      "mph": 106,
+      "text": "92 kn (106 mph / 170 km/h)"
+    },
+    "range": {
+      "miles": 250,
+      "text": "250 mi (400 km)"
+    },
+    "serviceCeiling": {
+      "ft": 21300,
+      "text": "21,300 ft (6,500 m)"
+    },
+    "wingspan": {
+      "ft": 42.67,
+      "text": "42 ft 8 in (13.0 m)"
+    },
+    "length": {
+      "ft": 24.42,
+      "text": "24 ft 5 in (7.45 m)"
+    },
+    "height": {
+      "ft": 9.33,
+      "text": "9 ft 4 in (2.85 m)"
+    },
+    "weight": "empty: 2,083 lb (945 kg); MTOW: 3,064 lb (1,390 kg)",
+    "engines": "1 x Benz Bz.IV six-cylinder water-cooled inline piston engine, 197 hp (147 kW), driving a two-blade fixed-pitch wooden propeller 9 ft 5 in (2.88 m) in diameter",
+    "armament": "1 x fixed forward-firing 7.92 mm LMG 08/15 machine gun, synchronised to fire through the propeller; 1 x 7.92 mm Parabellum MG14 on a ring mount for the observer; up to 200 lb (90 kg) of bombs",
+    "crew": "2 (pilot and observer)",
+    "capacity": "Up to 200 lb (90 kg) of bombs. Equipment included a send-only Morse radio with a lowerable antenna, parachutes and heated flying suits for the crew.",
+    "firstFlight": {
+      "date": "1917",
+      "year": 1917
+    },
+    "serviceEntryDate": "1918",
+    "retiredDate": "1918-11",
+    "numberBuilt": 1100,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no wartime price for the C.VI has been published in the sources checked",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "C.VI",
+      "desc": "The standard production two-seater, built in 1918 around a Benz Bz.IV engine of 197 hp. It carried one synchronised machine gun for the pilot, a ring-mounted Parabellum MG14 for the observer and up to 200 lb of bombs. About 1,100 were built, and most served on the Western Front for close reconnaissance and observation."
+    },
+    {
+      "code": "LVG P.I / P.II / Raab-Katzenstein RK-8 Marabu",
+      "desc": "Post-war conversions of surplus C.VIs by Raab-Katzenstein, fitted with a passenger cabin behind the open pilot's cockpit. Deutsche Luft-Reederei flew surplus C.VIs on post-war mail and passenger services. The number converted is not recorded in the sources checked."
+    },
+    {
+      "code": "Belgian civil C.VI",
+      "desc": "Ex-military C.VIs sold into private hands in Belgium after 1919 and entered on the civil register in the O-B series. Twelve registrations are recorded, among them O-BACB, O-BANC and O-BRUN. Some of these aircraft formed the nucleus of SNETA, the airline that later became Sabena."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Imperial German Air Service (Luftstreitkräfte)",
+      "role": "Original Operator",
+      "status": "Retired",
+      "since": "1918",
+      "fleetSize": "Most of the ~1,100 built (exact figure not published)",
+      "homeBase": "Western Front airfields"
+    },
+    {
+      "name": "Deutsche Luft-Reederei (DLR)",
+      "role": "Post-War Mail & Passenger Operator",
+      "status": "Retired",
+      "since": "1919",
+      "fleetSize": "Not published",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "Belgian Aviation Militaire",
+      "role": "Post-War Military Operator",
+      "status": "Retired",
+      "since": "1919",
+      "fleetSize": "28 to 30 recovered; at least 9 in military service",
+      "homeBase": "Evere"
+    },
+    {
+      "name": "SNETA (later Sabena)",
+      "role": "Early Civil Operator",
+      "status": "Retired",
+      "since": "c. 1920",
+      "fleetSize": "Some of the 12 recorded Belgian civil registrations",
+      "homeBase": "Belgium"
+    },
+    {
+      "name": "Polish Air Force",
+      "role": "Polish-Soviet War Operator",
+      "status": "Retired",
+      "since": "1920",
+      "fleetSize": "Several: one left by the Germans, one assembled from parts in 1920, others bought abroad",
+      "homeBase": "Poland"
+    },
+    {
+      "name": "Lithuanian Air Force",
+      "role": "Post-War Military Operator",
+      "status": "Retired",
+      "since": "1920s",
+      "fleetSize": "More than 20; two survived until 1940",
+      "homeBase": "Lithuania"
+    },
+    {
+      "name": "Romanian Air Corps",
+      "role": "Post-War Military Operator",
+      "status": "Retired",
+      "since": "1919",
+      "fleetSize": "11",
+      "homeBase": "Romania"
+    },
+    {
+      "name": "Finnish Air Force",
+      "role": "Post-War Military Operator",
+      "status": "Retired",
+      "since": "1923",
+      "fleetSize": "2 (plus 2 bought by the airline Suomen Ilmailuliikenne Oy in 1923)",
+      "homeBase": "Santahamina"
+    },
+    {
+      "name": "Czechoslovakia, Switzerland and the Soviet Union",
+      "role": "Smaller Post-War Operators",
+      "status": "Retired",
+      "since": "1920",
+      "fleetSize": "3 in Czechoslovakia, 2 in Switzerland (1920 to 1929), several in the USSR",
+      "homeBase": "Multiple"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No LVG C.VI is currently airworthy, so none will appear on Flightradar24. The airframe that flew most recently is 7198/18 (G-AANJ), which made its last flight with the Shuttleworth Trust at Old Warden in 2003 and is now being restored at the RAF Museum Cosford."
+  },
+  "lastUpdated": "2026-10-28",
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "change": "Added the LVG C.VI - the build, its Belgian and civil afterlife, the other post-war operators and the three surviving airframes.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "lvg c.vi",
+    "lvg",
+    "c.vi",
+    "wwi reconnaissance",
+    "artillery spotter",
+    "observation biplane",
+    "luftstreitkräfte",
+    "imperial german air service",
+    "belgian aviation militaire",
+    "sneta",
+    "sabena",
+    "dfw c.v",
+    "raab-katzenstein marabu"
+  ],
+  "article": {
+    "overview": [
+      "The LVG C.VI is a German two-seat reconnaissance and artillery-spotting biplane built by Luft-Verkehrs-Gesellschaft (LVG) and flown by the Imperial German Air Service in 1918. Willy Sabersky-Müssigbrodt designed it as a lighter, smaller development of the DFW C.V he had drawn for his former employer, Deutsche Flugzeug-Werke, and about 1,100 were built. {{ref:wikipedia}}",
+      "Most wartime C.VIs flew close reconnaissance and observation sorties on the Western Front in the last operations of the war. After the Armistice the type was sold, handed over as war compensation or left behind, and it went on to fly in Belgium, Poland, Finland, Lithuania, Romania, Switzerland, Czechoslovakia and the Soviet Union, and on Belgium's first civil register. Three examples survive in museums. {{ref:wikipedia}} {{ref:belgian-wings}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Lineage",
+        "paragraphs": [
+          "LVG developed the C.VI during 1917 and the first example flew that year. Its designer, Willy Sabersky-Müssigbrodt, had earlier drawn the DFW C.V for Deutsche Flugzeug-Werke, and the C.VI took that aircraft as its starting point. It came out lighter, smaller and more aerodynamically refined than the DFW, although its fuselage looked bulkier. {{ref:wikipedia}}",
+          "Production started in 1918 and reached about 1,100 aircraft. Most went to Luftstreitkräfte units on the Western Front. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Construction & Equipment",
+        "paragraphs": [
+          "The fuselage was a plywood-covered semi-monocoque. The wings used a wood-and-metal structure with canvas covering, and the upper wing had a slightly greater span than the lower and sat about 10 inches (25 cm) forward of it. A flat water radiator was fitted in the centre section of the upper wing, and the fixed landing gear had a rear skid. {{ref:wikipedia}}",
+          "A single 197 hp (147 kW) Benz Bz.IV six-cylinder inline engine drove a two-blade wooden propeller 9 ft 5 in (2.88 m) across. The C.VI reached about 106 mph (170 km/h), climbed at 820 ft/min (4.17 m/s) and had a ceiling of 21,300 ft (6,500 m) and a range of 250 mi (400 km). The pilot had a fixed 7.92 mm LMG 08/15 synchronised to fire through the propeller, the observer a 7.92 mm Parabellum MG14 on a ring mount, and the aircraft could carry up to 200 lb (90 kg) of bombs. Crews had parachutes and heated flying suits. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Service in 1918",
+        "paragraphs": [
+          "The C.VI was used for close reconnaissance and observation, the work that gave German artillery a view of enemy positions, and most of the type served on the Western Front in the final operations of the war. Its radio could transmit Morse but could not receive, and the antenna was lowered in flight, so corrections went down to the batteries and no reply came back on the same set. {{ref:wikipedia}}",
+          "The Armistice of 11 November 1918 ended German front-line use after less than a year. Aircraft left on airfields in occupied Belgium, and others handed over as war compensation, supplied air arms and operators in several countries for years afterwards. {{ref:belgian-wings}}"
+        ]
+      },
+      {
+        "heading": "Belgian Service & the Civil Register",
+        "paragraphs": [
+          "Belgium recovered an estimated 28 to 30 C.VIs, either abandoned on former German airfields in Belgium or handed over as war compensation under the Treaty of Versailles, signed on 28 June 1919. They were grouped in the equipment park of the VII Groupe Technique at Evere. Researcher Guy Destrebecq has traced at least nine in Belgian military service, numbered 1 to 9, although no link to their German serial numbers has been found and the numbers were probably never painted on the aircraft. One of them, 8939/18, was used by King Albert for his flight to Paris for the Versailles discussions. Most military examples had been withdrawn or sold by 1922. {{ref:belgian-wings}}",
+          "Most of the Belgian aircraft were sold and became the first on the country's civil register, and some formed the nucleus of SNETA, later Sabena. Twelve civil registrations are recorded, including O-BACB, O-BANC and O-BRUN. Three examples, 7774/18 (O-BANC), 8972/18 (O-BOMA) and 8996/18 (O-BELA), were registered to SEGA, and 8972/18 later passed to SNETA. {{ref:belgian-wings}}"
+        ]
+      },
+      {
+        "heading": "Foreign Service & Conversions",
+        "paragraphs": [
+          "In Germany, Deutsche Luft-Reederei used C.VIs for post-war mail and passenger flights, and Raab-Katzenstein converted surplus aircraft into the LVG P.I, P.II and RK-8 Marabu with a passenger cabin behind the open pilot's cockpit. Poland flew the type in the Polish-Soviet War: one was left behind by the Germans, one was assembled from parts in 1920 and several were bought abroad. Romania's air corps received 11 from 1919, and Lithuania operated more than 20, of which two survived until 1940. {{ref:wikipedia}}",
+          "Czechoslovakia had three, Switzerland two between 1920 and 1929, and the Soviet Union several. Finland's air force bought two, and the airline Suomen Ilmailuliikenne Oy, a predecessor of Aero O/Y and Finnair, bought two in 1923 from a bankrupt Swedish airline. One Finnish Air Force C.VI was destroyed in a spin at Santahamina in 1923, and the other was used until the end of 1924. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Surviving Airframes",
+        "paragraphs": [
+          "Three C.VIs survive. Airframe 7198/18 (G-AANJ) is at the RAF Museum Cosford, where it has been under restoration since 2003, the year of its last flight with the Shuttleworth Trust at Old Warden. The wooden airframe has been repaired and the fabric covering of the flying surfaces was finished in March 2016. Parts from two or three different aircraft were found in it, which points to cannibalisation. {{ref:restoration}}",
+          "The example in the Royal Museum of the Armed Forces and of Military History in Brussels was rebuilt from LVGs left at Evere, hung from the roof of the First World War hall by 1925 and moved to the mezzanine in 1970. Volunteers began restoring it in 2000, and its Benz engine has been rebuilt. The third, 9041/18, belongs to the Musée de l'Air et de l'Espace at Le Bourget but is not on public display. {{ref:restoration}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "LVG C.VI",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/LVG_C.VI"
+    },
+    {
+      "id": "belgian-wings",
+      "name": "LVG C.VI",
+      "publisher": "Belgian Wings",
+      "url": "https://www.belgian-wings.be/lvg-c-vi"
+    },
+    {
+      "id": "restoration",
+      "name": "Royal Museum of the Armed Forces and of Military History - LVG C.VI restoration",
+      "publisher": "Targeta",
+      "url": "https://targeta.co.uk/brussels_museum_restoration.htm"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "LVG C.VI",
+      "url": "https://en.wikipedia.org/wiki/LVG_C.VI"
+    },
+    {
+      "name": "LVG C.VI - Belgian Wings",
+      "url": "https://www.belgian-wings.be/lvg-c-vi"
+    },
+    {
+      "name": "LVG C.VI 9041 aileron end - Aeroconservancy",
+      "url": "https://www.aeroconservancy.com/lvg-c-vi-9041-aileron-end"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1923",
+      "title": "Finnish Air Force C.VI lost in a spin at Santahamina",
+      "tag": "Loss of control",
+      "summary": "One of the Finnish Air Force's two C.VIs was destroyed in a spin at Santahamina in 1923. The other aircraft was used until the end of 1924.",
+      "source": "https://en.wikipedia.org/wiki/LVG_C.VI"
+    }
+  ],
+  "survivors": {
+    "intro": "Three LVG C.VIs are known to survive, in the United Kingdom, Belgium and France. Serial numbers are German production numbers with a /18 suffix. Sources give the Brussels airframe's serial as either 3141/18 or 5141/18.",
+    "airframes": [
+      {
+        "serial": "7198/18 (G-AANJ)",
+        "name": null,
+        "location": "RAF Museum Cosford",
+        "place": "Shropshire, UK",
+        "note": "Formerly part of the Shuttleworth Collection and last flown at Old Warden in 2003. Under restoration at Cosford, with the flying surfaces re-covered in March 2016.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "3141/18 or 5141/18 (sources differ)",
+        "name": null,
+        "location": "Royal Museum of the Armed Forces and of Military History",
+        "place": "Brussels, Belgium",
+        "note": "Rebuilt from LVGs held at Evere and under volunteer restoration since 2000, with its Benz engine restored.",
+        "countryCode": "be",
+        "country": "Belgium"
+      },
+      {
+        "serial": "9041/18",
+        "name": null,
+        "location": "Musée de l'Air et de l'Espace",
+        "place": "Le Bourget, Paris, France",
+        "note": "Held in the museum's collection but not on public display.",
+        "countryCode": "fr",
+        "country": "France"
+      }
+    ]
+  }
+}

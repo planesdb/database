@@ -1,0 +1,295 @@
+{
+  "name": "G650",
+  "fullName": "Gulfstream G650",
+  "manufacturer": "Gulfstream Aerospace",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Ultra-Long-Range Business Jet",
+  "tagline": "The Gulfstream G650 is a twin-engine, fly-by-wire business jet built by Gulfstream Aerospace, with a certified range of 7,000 nautical miles and a maximum operating speed of Mach 0.925. It entered service in December 2012, and in April 2019 a G650ER flew 8,379 nautical miles non-stop from Singapore to Tucson, the longest business jet flight recorded to that point.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "In April 2019 a G650ER flew 8,379 nautical miles non-stop from Singapore to Tucson, retaking the distance record that a Bombardier Global 7500 had taken in March of that year.",
+    "It was only the second fly-by-wire business jet, after the Dassault Falcon 7X.",
+    "A development G650 was dived to Mach 0.995 in 2010, well beyond its Mach 0.925 certified maximum operating speed.",
+    "The 2013 list price of $64.5 million came with a three-year waiting list, and some 2013 deliveries sold for more than $70 million.",
+    "The G650 programme won the 2014 Collier Trophy.",
+    "A test aircraft stalled on takeoff at Roswell in April 2011 and killed all four crew, and the NTSB found that Gulfstream had investigated two earlier uncommanded roll events inadequately."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the G650, with G650ER values where they differ. Airworthy G650s are rarely advertised with a price, and in October 2026 only two listings on GlobalAir showed one ($42.95M for a 2014 aircraft and $53M for a 2020 aircraft), which is too few to average. The cost shown is therefore the 2013 list price adjusted with US CPI-U (September 2026 index of 336.940 against a 2013 average of 232.957). The last G650 was completed in February 2025.",
+    "maxSpeed": {
+      "mph": 611,
+      "text": "531 kn (611 mph / 983 km/h)"
+    },
+    "cruiseSpeed": "594 mph (956 km/h) normal cruise at Mach 0.90; 562 mph (904 km/h) at Mach 0.85",
+    "range": {
+      "miles": 8055,
+      "text": "8,055 mi (12,964 km, 7,000 nmi); 8,631 mi (13,890 km, 7,500 nmi) on the G650ER at Mach 0.85"
+    },
+    "serviceCeiling": {
+      "ft": 51000,
+      "text": "51,000 ft (15,545 m)"
+    },
+    "wingspan": {
+      "ft": 99.58,
+      "text": "99 ft 7 in (30.4 m)"
+    },
+    "length": {
+      "ft": 99.75,
+      "text": "99 ft 9 in (30.4 m)"
+    },
+    "height": {
+      "ft": 25.67,
+      "text": "25 ft 8 in (7.8 m)"
+    },
+    "weight": "empty: not published (basic operating weight 54,500 lb / 24,700 kg); MTOW: 99,600 lb (45,178 kg); 103,600 lb (46,992 kg) on the G650ER",
+    "engines": "2 x Rolls-Royce BR725 turbofans, about 17,000 lbf (75.6 kN) each, mounted on the rear fuselage",
+    "crew": "2 (pilot and co-pilot)",
+    "capacity": "11 to 18 passengers. The cabin is 46 ft 10 in (14.3 m) long and 8 ft 6 in (2.6 m) wide, with eight elliptical windows on each side.",
+    "firstFlight": {
+      "date": "2009-11-25",
+      "year": 2009
+    },
+    "serviceEntryDate": "2012-12-27",
+    "retiredDate": null,
+    "numberBuilt": 500,
+    "unitCost": {
+      "usd": 93300000,
+      "text": "$93.3M in 2026 dollars (CPI-adjusted, 2013 list price)",
+      "inflationText": "Originally $64.5M (2013)"
+    }
+  },
+  "variants": [
+    {
+      "code": "G650",
+      "desc": "The original production aircraft, certified by the FAA on 7 September 2012 under the type designation GVI and first delivered on 27 December 2012. It has a range of 7,000 nautical miles, a Mach 0.925 maximum operating speed and room for 11 to 18 passengers. Production ended with the last aircraft completed in February 2025."
+    },
+    {
+      "code": "G650ER",
+      "desc": "The extended-range version, certified in October 2014 with deliveries from late 2014. Maximum takeoff weight rose by 4,000 lb (1,800 kg), matched by extra fuel capacity, which lifts range to 7,500 nautical miles at Mach 0.85. Existing G650s can be converted to the ER standard for about $2 million through a service bulletin."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Qatar Executive",
+      "role": "Largest Charter Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "15 G650ER",
+      "homeBase": "Hamad International Airport, Doha"
+    },
+    {
+      "name": "Flexjet",
+      "role": "Fractional Ownership Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "More than 24",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Italian Air Force",
+      "role": "Government VIP & Medevac Operator",
+      "status": "In Service",
+      "since": "2025",
+      "fleetSize": "4 G650ER ordered (EUR 330 million contract), 2 delivered by April 2025",
+      "homeBase": "Ciampino Airport, Rome"
+    },
+    {
+      "name": "Royal Netherlands Air Force",
+      "role": "Government VIP Operator",
+      "status": "In Service",
+      "since": "2023",
+      "fleetSize": "1 G650ER (serial V-117)",
+      "homeBase": "Eindhoven Air Base (334 Squadron)"
+    },
+    {
+      "name": "Private owners and charter operators worldwide",
+      "role": "Majority of Users",
+      "status": "In Service",
+      "since": "2012",
+      "fleetSize": "500+ G650 and G650ER delivered by September 2022",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "GLF6",
+    "howToFind": "Search type GLF6, which covers both the G650 and G650ER. It is a regular on long-haul business routes such as Teterboro to Farnborough and Hong Kong to the US West Coast, though some owners use blocking programmes, so not every flight is visible."
+  },
+  "lastUpdated": "2026-10-28",
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "change": "New entry for the Gulfstream G650 and G650ER, covering its history, specs, records, operators and the 2011 Roswell test crash.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "gulfstream g650",
+    "g650er",
+    "g650",
+    "gvi",
+    "business jet",
+    "private jet",
+    "ultra long range",
+    "glf6",
+    "rolls-royce br725",
+    "gulfstream"
+  ],
+  "article": {
+    "overview": [
+      "The Gulfstream G650 is a twin-engine, fly-by-wire business jet built by Gulfstream Aerospace for long-range private, corporate and government travel. The FAA certified it on 7 September 2012 and the first aircraft was delivered on 27 December 2012. It has two Rolls-Royce BR725 turbofans, a maximum operating speed of Mach 0.925 and a range of 7,000 nautical miles. {{ref:wikipedia}}",
+      "The G650ER, certified in October 2014, raised the range to 7,500 nautical miles at Mach 0.85. Gulfstream completed the last G650 in February 2025 and replaced it with the G800. {{ref:wikipedia}} {{ref:globalair-final}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "Gulfstream launched the G650 as an internal company project in May 2005, completed the wing design in 2006 and unveiled the aircraft on 13 March 2008. The first aircraft taxied under its own power on 26 September 2009, was rolled out on 29 September 2009 and made its first flight on 25 November 2009. {{ref:wikipedia}}",
+          "Testing took the aircraft to Mach 0.925, a result announced on 4 May 2010, and a dive reached Mach 0.995 in a flight reported on 26 August 2010. The FAA issued the type certificate, designated GVI, on 7 September 2012, and the first delivery, to Preston Henn, followed on 27 December 2012. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The G650 is fly-by-wire, with no mechanical link between the cockpit controls and the flight surfaces, which dual hydraulic systems move. It was the second fly-by-wire business jet after the Dassault Falcon 7X, and it uses the same yokes and control column as the G550 so that pilots share one type rating. The two BR725 turbofans produce about 17,000 lbf (75.6 kN) each and sit on the rear fuselage. The wing has no leading-edge high-lift devices. {{ref:wikipedia}}",
+          "The cabin is 46 ft 10 in (14.3 m) long and 8 ft 6 in (2.6 m) wide, with eight elliptical windows on each side, each 28 inches (71 cm) wide, and seats 11 to 18 passengers. The G650ER carries 4,000 lb (1,800 kg) more fuel under a maximum takeoff weight raised by the same amount, and existing G650s can be converted to that standard for about $2 million through a service bulletin. {{ref:wikipedia}} {{ref:skyaccess}}"
+        ]
+      },
+      {
+        "heading": "Performance & Records",
+        "paragraphs": [
+          "The G650ER has a published service ceiling of 51,000 ft, a takeoff distance of 6,299 ft and a landing distance of 3,000 ft. Fuel burn is about 2,400 lb an hour at Mach 0.85 and 3,000 lb an hour at Mach 0.90, measured at 67,500 lb and 47,000 ft in standard-minus-seven conditions. {{ref:globalair-g650er}} {{ref:wikipedia}}",
+          "A G650ER development aircraft flew non-stop from Hong Kong to Teterboro (7,494 nautical miles) in March 2014. In 2015 a G650ER flew 8,010 nautical miles from Singapore to Las Vegas, a business jet distance record that a Bombardier Global 7500 beat in March 2019. A G650ER took it back in April 2019 with 8,379 nautical miles (15,518 km) from Singapore to Tucson. The programme won the 2014 Collier Trophy. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Roswell Crash & Safety Record",
+        "paragraphs": [
+          "On 2 April 2011 the second G650 test aircraft, N652GD, crashed on Runway 21 at Roswell International Air Center during a planned one-engine-inoperative takeoff. It stalled on the right outboard wing, struck the runway with that wingtip, left the runway, hit a concrete structure and a weather station and burned. All four people on board were killed. {{ref:ntsb}}",
+          "The NTSB gave the probable cause as an aerodynamic stall and uncommanded roll resulting from Gulfstream's failure to validate takeoff speeds, the test team's repeated attempts to reach a V2 speed that was too low, and an inadequate investigation of two earlier uncommanded roll events in November 2010 and March 2011. Gulfstream had predicted a stall angle of attack of 13.1 degrees in ground effect, and the aircraft stalled at about 11.2 degrees, below the 12.3 degrees at which the stick shaker was set. Gulfstream accepted full responsibility and raised the G650's V2 from 135 to 150 knots. The Aviation Safety Network lists nine occurrences for the G650 family between 2011 and May 2025, and Roswell is the only fatal one. {{ref:ntsb}} {{ref:wikipedia}} {{ref:asn-g650}}"
+        ]
+      },
+      {
+        "heading": "Market & Production",
+        "paragraphs": [
+          "The list price was $64.5 million in 2013, which is about $93 million in 2026 dollars after CPI adjustment, and the G650ER listed at $66.5 million in 2014. Pre-owned values reached $71 to 73 million in 2014 and fell to about $50 million after the Global 7500 was certified in 2018. Gulfstream delivered the 300th aircraft in April 2018, the 400th in December 2019 and the 500th in September 2022. Equipped prices in 2023 were $68.5 million for the G650 and $70.5 million for the G650ER. {{ref:wikipedia}} {{ref:bls}} {{ref:in2013dollars}}",
+          "Used examples are seldom advertised with a price. Of the seven G650 and G650ER listings on GlobalAir in October 2026, only two showed one: $42.95 million for a 2014 aircraft and $53 million for a 2020 aircraft. In March 2016 asking prices for pre-owned examples ran from about $59 million to $73 million, and four had sold in the previous six months for $62 to 65 million. {{ref:globalair-listings}} {{ref:bjt-market}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Gulfstream announced on 12 February 2025 that the last G650 had been completed, and the G800, designed to succeed it, received FAA and EASA certification in April 2025 with a first delivery in late August 2025. The larger G700, certified by the FAA on 29 March 2024, is 110 ft (34 m) long and has Rolls-Royce Pearl 700 engines of 18,250 lbf each, a maximum takeoff weight of 107,600 lb and a range of 7,500 nautical miles at Mach 0.85. Gulfstream had delivered 100 by June 2026. {{ref:globalair-final}} {{ref:wikipedia}}",
+          "Governments now fly the type as well as private owners. Italy ordered four G650ERs under a EUR 330 million contract, and the first two arrived at Ciampino on 12 April 2025 to replace Falcon 50 and Falcon 900 VIP aircraft. The Royal Netherlands Air Force received one G650ER (serial V-117) at Eindhoven on 15 March 2023. {{ref:aviationist-italy}} {{ref:scramble-dutch}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Gulfstream G650",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gulfstream_G650"
+    },
+    {
+      "id": "ntsb",
+      "name": "Crash During Experimental Test Flight, Gulfstream Aerospace GVI (G650), N652GD, Roswell, New Mexico, April 2, 2011 (NTSB/AAR-12/02)",
+      "publisher": "National Transportation Safety Board",
+      "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1202.pdf"
+    },
+    {
+      "id": "globalair-g650er",
+      "name": "Gulfstream G650ER specifications",
+      "publisher": "GlobalAir.com",
+      "url": "https://globalair.com/aircraft-specifications/gulfstream-aerospace/gulfstream-g650er-specifications/1520"
+    },
+    {
+      "id": "skyaccess",
+      "name": "Gulfstream G650ER specifications",
+      "publisher": "SkyAccess",
+      "url": "https://skyaccess.com/aircraft/type/gulfstream-g650er"
+    },
+    {
+      "id": "globalair-final",
+      "name": "Gulfstream completes final G650, makes room for G800",
+      "publisher": "GlobalAir.com",
+      "url": "https://www.globalair.com/articles/gulfstream-completes-final-g650-makes-room-for-g800/8555"
+    },
+    {
+      "id": "globalair-listings",
+      "name": "Gulfstream G650 aircraft for sale",
+      "publisher": "GlobalAir.com",
+      "url": "https://www.globalair.com/aircraft-for-sale/gulfstream-g650"
+    },
+    {
+      "id": "bjt-market",
+      "name": "Gulfstream G650 pre-owned market",
+      "publisher": "Business Jet Traveler",
+      "url": "https://bjtonline.com/node/7576"
+    },
+    {
+      "id": "asn-g650",
+      "name": "Gulfstream G650 occurrences",
+      "publisher": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/asndb/type/G650"
+    },
+    {
+      "id": "bls",
+      "name": "Consumer Price Index news release",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    },
+    {
+      "id": "in2013dollars",
+      "name": "Inflation calculator: $64.5 million in 2013 dollars",
+      "publisher": "in2013dollars.com",
+      "url": "https://www.in2013dollars.com/us/inflation/2013?amount=64500000"
+    },
+    {
+      "id": "aviationist-italy",
+      "name": "First Two Gulfstream G650ERs Delivered to Italian Air Force",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2025/04/15/first-two-gulfstream-g650ers-delivered-to-italian-air-force/"
+    },
+    {
+      "id": "scramble-dutch",
+      "name": "New Gulfstream for Royal Netherlands Air Force",
+      "publisher": "Scramble",
+      "url": "https://www.scramble.nl/military-news/new-gulfstream-for-royal-netherlands-air-force"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Gulfstream G650, G700 and G800 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gulfstream_G650"
+    },
+    {
+      "name": "Aviation Safety Network - Gulfstream G650 occurrences",
+      "url": "https://aviation-safety.net/asndb/type/G650"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2011-04-02",
+      "title": "Test aircraft stalls on takeoff at Roswell",
+      "tag": "Stall (flight test)",
+      "summary": "The second G650 test aircraft (N652GD) stalled on its right outboard wing during a simulated one-engine-inoperative takeoff on Runway 21 at Roswell International Air Center. The right wingtip struck the runway, and the aircraft hit a concrete structure and burned. The NTSB blamed takeoff speeds that Gulfstream had not validated, a V2 target that was too low and an inadequate investigation of two earlier uncommanded rolls.",
+      "fatalities": 4,
+      "source": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1202.pdf"
+    },
+    {
+      "date": "2025-05-29",
+      "title": "Cracked windshield at 45,000 ft over Kagoshima",
+      "tag": "Windshield failure",
+      "summary": "A G650ER (T7-688NJ) suffered a cracked cockpit windshield at FL450 over Kagoshima prefecture in Japan. The crew declared an emergency and landed safely at Osaka Kansai, and none of the six on board was injured.",
+      "fatalities": 0,
+      "source": "https://www.aviation-safety.net/wikibase/515310"
+    }
+  ]
+}

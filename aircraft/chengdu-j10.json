@@ -1,0 +1,265 @@
+{
+  "name": "J-10 Vigorous Dragon",
+  "fullName": "Chengdu J-10 Vigorous Dragon",
+  "manufacturer": "Chengdu Aircraft Corporation (CAC)",
+  "originCountry": {
+    "name": "China",
+    "code": "cn"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Single-Engine Multirole Fighter",
+  "tagline": "The Chengdu J-10 is a single-engine, delta-wing multirole fighter with canard foreplanes, designed by the Chengdu Aircraft Design Institute for the People's Liberation Army Air Force. It first flew on 23 March 1998, more than 600 have been built, and Pakistan and Uzbekistan have both taken delivery of the export J-10CE.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The J-10 was the first Chinese aircraft programme to use modern development and acquisition processes, and Chengdu says about 60 percent of the aircraft needed new technology, against the usual 30 percent for a new design.",
+    "It is often compared with Israel's cancelled IAI Lavi, but China attributes its double-canard layout to Chengdu's earlier J-9 work, a view backed by chief designer Song Wencong.",
+    "Early J-10s flew on a Russian AL-31FN engine because the planned Shenyang WS-10 was late, and WS-10B-powered aircraft were in service by November 2021.",
+    "Pakistan became the first export customer in December 2021, and the first six J-10CEs reached PAF Base Minhas on 4 March 2022.",
+    "Beijing confirmed Uzbekistan as the second export operator in September 2026, and the number of aircraft sold is being kept as a state secret.",
+    "Its combat record is thin: Pakistani J-10CEs flew in the May 2025 clash with India, but the claimed Rafale kills are unverified and the export radar probably lacks the PLAAF's full modes."
+  ],
+  "specifications": {
+    "specificationsNote": "China publishes no official J-10 specifications and sources differ, particularly on weights, so these are estimates for the J-10B and J-10C. No official price exists. The Pakistani and Uzbek sales were reported at $40 to 60 million per aircraft, and an unsigned Bangladeshi deal was reported at a $62.7 million base price rising to nearly $115 million with support and training.",
+    "maxSpeed": {
+      "mph": 1190,
+      "text": "~1,034 kn (~1,190 mph / 1,915 km/h)"
+    },
+    "range": {
+      "miles": 1150,
+      "text": "~1,150 mi (1,850 km); ~1,830 mi (2,950 km) ferry range; ~770 mi (1,240 km) combat range"
+    },
+    "serviceCeiling": {
+      "ft": 59055,
+      "text": "~59,000 ft (~18,000 m) (estimated)"
+    },
+    "wingspan": {
+      "ft": 32.17,
+      "text": "32 ft 2 in (9.8 m)"
+    },
+    "length": {
+      "ft": 55.42,
+      "text": "55 ft 5 in (16.9 m)"
+    },
+    "height": {
+      "ft": 18.67,
+      "text": "18 ft 8 in (5.7 m)"
+    },
+    "weight": "empty: ~21,500 lb (~9,750 kg); MTOW: ~42,500 lb (~19,277 kg) (estimated)",
+    "engines": "1 x Shenyang WS-10B afterburning turbofan on the J-10C, up to about 32,400 lbf (144 kN) with afterburner; earlier aircraft use a Russian Saturn AL-31FN of about 27,700 lbf (123 kN)",
+    "armament": "1 x 23 mm GSh-23 twin-barrel cannon under the port intake; 11 hardpoints (6 under the wings, 2 under the intakes, 3 under the fuselage) for up to 12,350 lb (5,600 kg) of stores, including PL-8, PL-10, PL-12 and PL-15 air-to-air missiles, KD-88 and YJ-83K missiles, YJ-91 anti-radiation missiles, and laser-guided, satellite-guided and unguided bombs",
+    "crew": "1 (J-10A, J-10B, J-10C); 2 (J-10S trainer)",
+    "capacity": "Up to 12,350 lb (5,600 kg) of weapons and external fuel; three drop tanks add 4,000 litres (3,120 kg) of fuel",
+    "firstFlight": {
+      "date": "1998-03-23",
+      "year": 1998
+    },
+    "serviceEntryDate": "2004",
+    "retiredDate": null,
+    "numberBuilt": 600,
+    "unitCost": {
+      "usd": 50000000,
+      "text": "Reported: ~$50M (unconfirmed)",
+      "inflationText": null
+    },
+    "combatLosses": "No combat losses have been confirmed."
+  },
+  "variants": [
+    {
+      "code": "J-10A / J-10S",
+      "desc": "The original single-seat fighter, with a Type 1473 pulse-Doppler radar and a Russian AL-31FN engine, and the J-10S two-seat version that is fully combat-capable. About 270 J-10A and two-seat aircraft were completed before production moved to the J-10B. The PLAAF held 236 J-10As and 77 J-10Ss in 2023. Naval versions, the J-10AH and J-10SH, fly from land bases."
+    },
+    {
+      "code": "J-10B",
+      "desc": "The first major upgrade, unveiled in 2008, with a diverterless supersonic inlet, a longer radome, an infrared search and track sensor with a laser rangefinder, and an electronic warfare pod on the fin. It used an X-band PESA radar that reportedly tracks 10 targets and engages four. Around 60 were built, and the PLAAF held 55 in 2023."
+    },
+    {
+      "code": "J-10C",
+      "desc": "The 4.5-generation version, first flown in December 2013 with a KLJ-7A AESA radar, a WS-10B engine, the PL-10 infrared missile and the PL-15 long-range missile. Serial production began in 2015 and it was inducted in April 2018. The 25th Air Brigade had it by November 2021, and the PLAAF held 220 in 2023."
+    },
+    {
+      "code": "J-10CE",
+      "desc": "The export version of the J-10C, bought by Pakistan (announced December 2021) and Uzbekistan (a sale Beijing confirmed in September 2026). It carries the export PL-15E missile, and its radar probably lacks some PLAAF modes. Pakistan had 20 by May 2025 with 16 more on order, and the Uzbek total has not been published."
+    }
+  ],
+  "operators": [
+    {
+      "name": "People's Liberation Army Air Force",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2004",
+      "fleetSize": "588 in 2023 (236 J-10A, 55 J-10B, 220 J-10C and 77 J-10S)",
+      "homeBase": "Multiple air brigades, including the 25th Air Brigade (J-10C)"
+    },
+    {
+      "name": "People's Liberation Army Navy Air Force",
+      "role": "Land-Based Naval Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published (J-10AH and J-10SH)",
+      "homeBase": "China"
+    },
+    {
+      "name": "Pakistan Air Force",
+      "role": "First Export Operator",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "20 J-10CE in May 2025, with 16 more on order",
+      "homeBase": "PAF Base Minhas, Kamra (No. 15 Squadron 'Cobras')"
+    },
+    {
+      "name": "Uzbekistan Air Force",
+      "role": "Second Export Operator",
+      "status": "In Service",
+      "since": "2026",
+      "fleetSize": "Not officially disclosed (unconfirmed reports of 24)",
+      "homeBase": "Karshi-Khanabad (reported)"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The J-10 is essentially never visible on Flightradar24. Chinese, Pakistani and Uzbek military aircraft operate without broadcasting civil ADS-B, so sightings depend on ground spotters, satellite imagery and official media releases."
+  },
+  "lastUpdated": "2026-10-28",
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "change": "Added the Chengdu J-10 and its J-10CE export version, including the Pakistani and Uzbek deliveries and the May 2025 combat claims.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "j-10",
+    "j10",
+    "j-10c",
+    "j-10ce",
+    "vigorous dragon",
+    "menglong",
+    "firebird",
+    "chengdu",
+    "plaaf",
+    "pakistan air force",
+    "chinese fighter",
+    "canard delta",
+    "pl-15"
+  ],
+  "article": {
+    "overview": [
+      "The Chengdu J-10 is a single-engine, delta-wing multirole fighter with canard foreplanes, designed by the Chengdu Aircraft Design Institute (CADI) and built by Chengdu Aircraft Corporation for the People's Liberation Army Air Force. It is called the Vigorous Dragon (Menglong) in China and Firebird by NATO, and more than 600 had been built by 2024. {{ref:wikipedia}}",
+      "The PLA Air Force and PLA Navy fly it in A, B, C and two-seat S versions, and the export J-10CE serves with Pakistan and, since August 2026, Uzbekistan. {{ref:wikipedia}} {{ref:quwa}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "In 1981 PLAAF commander Zhang Tingfa proposed a third-generation fighter programme, and the Central Military Commission approved it that year. CADI's design, similar to the Saab 37 Viggen and based on the cancelled J-9, was selected in February 1984 with Song Wencong as chief designer. The State Council and CMC approved the programme in 1986 as the No. 10 Project. Funding was tight until the Gulf War renewed interest in a modern fighter. {{ref:wikipedia}}",
+          "Chengdu says about 60 percent of the aircraft needed new technology, against the usual 30 percent, and the J-10 was an early Chinese user of computer-aided design and computational fluid dynamics. A full-size mock-up existed by 1991 and detailed design was finished in 1994. The first aircraft was assembled in June 1997 and flew on 23 March 1998 with Lei Qiang at the controls, powered by a Russian AL-31FN because a suitable domestic engine was not ready. In 2006 engineers at the Russian institute SibNIA said the J-10 was more or less a version of the Lavi, and a 2008 Janes report made a similar claim citing Russian engineers. TWZ notes that the J-10 is bigger and heavier than the Lavi. {{ref:wikipedia}} {{ref:twz-j10c}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The J-10 combines a delta wing with canard foreplanes, a chin-mounted intake and fly-by-wire controls. The Shenyang WS-10 was meant to power it, but its development problems led to the Russian Salyut AL-31FN in production aircraft. A WS-10B was first seen on an operational J-10C in May 2021, and WS-10B aircraft were in service by November 2021. The cockpit has three LCD multifunction displays and a Chinese holographic head-up display. {{ref:wikipedia}}",
+          "Early aircraft carry the Type 1473 pulse-Doppler radar, the J-10B an X-band PESA set, and the J-10C the KLJ-7A AESA. A GSh-23 twin-barrel cannon sits under the port intake, and 11 hardpoints carry up to 5,600 kg of stores. Missiles progressed from the PL-8 and PL-11 to the PL-12 and PL-10, with the PL-15 replacing the PL-12 on the J-10C, and a twin-rail pylon increased medium-range missile carriage. Justin Bronk of RUSI describes the J-10C as broadly comparable to a modernised F-16C/D Block 50 in size, payload and agility. {{ref:wikipedia}} {{ref:twz-j10c}}"
+        ]
+      },
+      {
+        "heading": "Service & Variants",
+        "paragraphs": [
+          "Flight testing finished at the end of 2003 and the PLAAF received the aircraft in June 2004, although China did not unveil it publicly until early 2007, and crashes reported during flight testing were attributed to AL-31 engine mishaps. About 270 J-10A and two-seat aircraft were completed before production switched to the J-10B, of which around 60 were built. The J-10C began serial production in 2015, was inducted in April 2018 and was with the 25th Air Brigade by November 2021. The PLAAF held 236 J-10As, 55 J-10Bs, 220 J-10Cs and 77 J-10Ss in 2023. {{ref:twz-j10c}} {{ref:wikipedia}} {{ref:airforce-technology}}",
+          "A big-spine variant appeared in 2022 and was issued to the August 1st aerobatic team. A two-seat J-10 from that team crashed after a mid-air collision in Hebei on 12 November 2016, killing Captain Yu Xu, the first woman certified to fly the type, while the second crew member ejected. In October 2020 another J-10 lost its engine to a bird strike and the pilot ejected safely. {{ref:twz-j10c}} {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Pakistan & Uzbekistan",
+        "paragraphs": [
+          "Pakistan announced in December 2021 that it would buy 25 J-10CEs with an option on 11 more. The first six reached PAF Base Minhas on 4 March 2022 and were inducted into No. 15 Squadron 'Cobras' on 11 March 2022. By May 2025 the Pakistan Air Force had 20 J-10CEs and 16 more on order. {{ref:wikipedia}}",
+          "At a press conference on 24 September, Senior Colonel Jiang Bin of China's defence ministry said Uzbekistan had become China's second foreign buyer and operator of the J-10CE. The aircraft were delivered at the end of August 2026, and at least six were shown in Uzbek air force markings at Karshi-Khanabad. The total ordered is being kept as a state secret, although reports have settled on 24. {{ref:zamin}} {{ref:quwa}}"
+        ]
+      },
+      {
+        "heading": "May 2025 Combat Claims",
+        "paragraphs": [
+          "Pakistan's J-10CEs took part in the May 2025 clash with India, the type's first combat use. Pakistan claims five Indian aircraft shot down, including three Rafales, and US officials told Reuters that a Pakistani J-10 brought down two Indian fighters. Wreckage of several PL-15 missiles was recovered on Indian territory, which indicates PL-15 use of some kind. Beijing has not officially acknowledged the J-10C's role. {{ref:wikipedia}} {{ref:twz-j10c}}",
+          "The Rafale losses remain unverified. Bronk lists fuel starvation after prolonged afterburner use, friendly fire and a long-range HQ-9 shot as alternative explanations, and the combat sample is too small to measure the type. The export J-10CE's radar probably lacks some PLAAF modes, and it is unknown how it links to Pakistan's airborne early warning aircraft. {{ref:twz-j10c}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "Production continues for export. A Bangladeshi government committee finalised a draft procurement of 20 J-10CEs worth $2.3 billion in August 2026, which has not yet been signed, and Indonesia is reported to be considering up to 42 and was authorised in October 2025 to raise $1.6 billion from foreign lenders for J-10Bs. No official price exists. Bronk estimated $50 to 60 million per aircraft, Uzbek reporting put it at $40 to 50 million, and the Bangladeshi deal implies a $62.7 million base price that rises to nearly $115 million with support and training. {{ref:defensepost-bangladesh}} {{ref:twz-j10c}} {{ref:quwa}}",
+          "Bronk expects the PLAAF to shift its attention to the J-35 and sixth-generation fighters, and suggests that older J-10Bs could be retrofitted to the J-10C standard. {{ref:twz-j10c}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Chengdu J-10",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+    },
+    {
+      "id": "twz-j10c",
+      "name": "China's J-10C Fighter: Separating Myth From Reality",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/air/chinas-j-10c-fighter-separating-myth-from-reality"
+    },
+    {
+      "id": "quwa",
+      "name": "Uzbekistan Shows Its J-10CE Fighters For The First Time",
+      "publisher": "Quwa",
+      "url": "https://quwa.org/central-asia/uzbekistan/uzbekistan-shows-its-j-10ce-fighters-for-the-first-time/"
+    },
+    {
+      "id": "zamin",
+      "name": "Beijing Confirmed: Uzbekistan Becomes the Second Operator of J-10CE Fighters",
+      "publisher": "Zamin.uz",
+      "url": "https://zamin.uz/en/uzbekistan/222536-beijing-confirmed-uzbekistan-becomes-the-second-operator-of-j-10ce-fighters.html"
+    },
+    {
+      "id": "defensepost-bangladesh",
+      "name": "Bangladesh Nears $2.3B Deal for Chinese J-10 Supersonic Jets",
+      "publisher": "The Defense Post",
+      "url": "https://thedefensepost.com/2026/08/27/bangladesh-j10-jets-china/"
+    },
+    {
+      "id": "airforce-technology",
+      "name": "J-10 (Jian 10) Multirole Fighter Aircraft",
+      "publisher": "Airforce Technology",
+      "url": "https://www.airforce-technology.com/projects/j-10/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Chengdu J-10 - flugzeuginfo.net data sheet",
+      "url": "https://www.flugzeuginfo.net/acdata_php/acdata_chengdu_j10_en.php"
+    },
+    {
+      "name": "Chengdu J-10 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2016-11-12",
+      "title": "August 1st aerobatic team J-10 collision in Hebei",
+      "tag": "Mid-air collision",
+      "summary": "A two-seat J-10 from the August 1st Aerobatic Team crashed after a mid-air collision in Hebei. Captain Yu Xu, the first woman certified to fly the J-10, was killed, and the second crew member ejected.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+    },
+    {
+      "date": "2020-10",
+      "title": "Bird strike disables a J-10's engine",
+      "tag": "Bird strike",
+      "summary": "A J-10 crashed after a bird strike disabled its engine. The pilot ejected and survived.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+    }
+  ]
+}

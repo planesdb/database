@@ -1,0 +1,354 @@
+{
+  "name": "C-97 Stratofreighter",
+  "fullName": "Boeing C-97 Stratofreighter",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Heavy Transport & Aerial Refuelling Tanker",
+  "tagline": "The Boeing C-97 Stratofreighter is an American four-engine heavy transport developed from the B-29 Superfortress and B-50, with a second fuselage lobe added on top of the bomber's fuselage. The XC-97 first flew on 9 November 1944, and 77 transports and 811 KC-97 tankers followed for the US Air Force, which flew them until the 1970s.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "It reused the B-29's wings, tail and engine layout and added a second fuselage lobe on top, which gave the cabin its double-bubble cross-section.",
+    "On 9 January 1945 the first prototype flew from Seattle to Washington, D.C., in 6 hours 4 minutes, averaging 383 mph with 20,000 lb of cargo.",
+    "The clamshell doors under the tail could not be opened in flight, and the aircraft could not operate from primitive forward bases, so it was never a tactical airlifter.",
+    "The Boeing 377 Stratocruiser airliner was developed from it, and 56 were built.",
+    "In the late 1960s C-97s flew relief missions to Uli airstrip in Biafra at night and at treetop level, and at least two were lost.",
+    "The deadliest C-97 accident was on 22 March 1957, when a C-97C disappeared over the Pacific on the way to Tokyo with 67 aboard."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the C-97G. The 888 total adds 77 transports to 811 tankers from one source, while the Air Force museum gives 890 ordered (74 C-97 and 816 KC-97), so the build total is approximate. The KC-97L with jet pods had a maximum speed of 400 mph.",
+    "maxSpeed": {
+      "mph": 375,
+      "text": "326 kn (375 mph / 604 km/h)"
+    },
+    "cruiseSpeed": "300 mph (480 km/h)",
+    "range": {
+      "miles": 4300,
+      "text": "4,300 mi (6,900 km); ferry range 5,760 mi (9,270 km)"
+    },
+    "serviceCeiling": {
+      "ft": 35000,
+      "text": "35,000 ft (11,000 m)"
+    },
+    "wingspan": {
+      "ft": 141.25,
+      "text": "141 ft 3 in (43.05 m)"
+    },
+    "length": {
+      "ft": 110.33,
+      "text": "110 ft 4 in (33.63 m)"
+    },
+    "height": {
+      "ft": 38.25,
+      "text": "38 ft 3 in (11.66 m)"
+    },
+    "weight": "empty: 82,500 lb (37,421 kg); MTOW: 175,000 lb (79,379 kg)",
+    "engines": "4 x Pratt & Whitney R-4360B Wasp Major radial engines, 3,500 hp each, driving four-bladed Hamilton Standard constant-speed fully feathering propellers",
+    "crew": "5 to 6 (pilot, copilot, navigator, flight engineer, one or two loadmasters)",
+    "capacity": "134 troops or 69 stretchers. The useful payload was 35,000 lb (15,900 kg), enough for two 2.5-ton trucks, towed artillery or light tracked vehicles.",
+    "firstFlight": {
+      "date": "1944-11-09",
+      "year": 1944
+    },
+    "serviceEntryDate": "1949",
+    "retiredDate": "1978",
+    "numberBuilt": 888,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no unit cost for the C-97 or KC-97 was found in the sources checked",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "XC-97 / YC-97 / YC-97A",
+      "desc": "Three XC-97 prototypes, six YC-97 cargo aircraft and three YC-97A troop carriers. The first prototype flew with 2,200 hp Wright R-3350 engines. From the tenth aircraft onward the type used 3,500 hp Pratt & Whitney Wasp Major engines and the B-50's taller fin and rudder."
+    },
+    {
+      "code": "C-97A / C-97C",
+      "desc": "The first production transports: 50 C-97As, three of which were temporarily converted to KC-97A tankers with a boom, and 14 C-97Cs. The C-97Cs that carried casualties out of Korea were designated MC-97C. The C-97 was a strategic carrier, with a payload of 35,000 lb and clamshell doors under the tail."
+    },
+    {
+      "code": "KC-97E / KC-97F",
+      "desc": "The first tanker production versions, 60 KC-97Es followed by 159 KC-97Fs. The KC-97F used R-4360-59B engines. Boeing introduced the flying boom refuelling system on the tanker in 1950, and the KC-97s served Strategic Air Command until the KC-135 jet tanker replaced them, a process that began after 1956."
+    },
+    {
+      "code": "KC-97G",
+      "desc": "The main production tanker, with 592 built as dual-role tanker and transport aircraft with underwing fuel tanks. Of these, 135 were converted to C-97G transports, 22 to HC-97G search and rescue aircraft and 5 to GKC-97G ground instruction airframes. The airworthy 52-2718 is a C-97G."
+    },
+    {
+      "code": "KC-97L",
+      "desc": "Eighty-one KC-97Gs fitted with two General Electric J47 turbojets of 5,970 lbf under the wings, converted from 1964. The jets made the aircraft faster, with a maximum speed of 400 mph, and the type served mainly with the Air National Guard. The KC-97L displayed at the Air Force museum, 52-2630, was named Zeppelinheim in 1973."
+    },
+    {
+      "code": "C-97K / YC-97J",
+      "desc": "The C-97K was a troop transport conversion of 27 KC-97Gs. The YC-97J was a conversion of two KC-97Gs with four 5,700 hp Pratt & Whitney YT34-P-5 turboprops, originally designated YC-137. The Israeli Air Force Museum at Hatzerim displays a C-97K, 035 (4X-FPO), and the Israeli Air Force also flew converted KC-97s and Stratocruisers."
+    },
+    {
+      "code": "VC-97D / EC-97G / KC-97H",
+      "desc": "Special conversions: three VC-97D command post aircraft, three EC-97G electronic intelligence aircraft, one of which the CIA used over the West Berlin air corridor, and a single KC-97H fitted experimentally with a probe-and-drogue refuelling system. Strategic Air Command also flew some C-97s as airborne command posts."
+    },
+    {
+      "code": "Boeing 377 Stratocruiser",
+      "desc": "The civil airliner developed from the C-97, with optional sleeper cabins and a lower-deck lounge. It first flew on 8 July 1947 and 56 were built. The Aero Spacelines Pregnant Guppy, Super Guppy and Mini Guppy are listed as related developments, but the sources checked give no detail on them."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force (Strategic Air Command)",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "Most of the 888 built (77 transports and 811 tankers); SAC flew C-97s from 1949 to 1978",
+      "homeBase": "Strategic Air Command bases, United States"
+    },
+    {
+      "name": "Air National Guard and Air Force Reserve",
+      "role": "Tanker, Transport & Rescue Operator",
+      "status": "Retired",
+      "since": "1960s",
+      "fleetSize": "Not published; units in many states flew C-97G transports and tankers, and from 1967 supported USAF and NATO units in Europe for ten years under Operation Creek Party",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Transport & Electronic Countermeasures Operator",
+      "status": "Retired",
+      "since": "1960s",
+      "fleetSize": "Not published; adapted ex-civil Stratocruisers and KC-97s when the C-130 was unavailable",
+      "homeBase": "Israel"
+    },
+    {
+      "name": "Spanish Air Force",
+      "role": "Listed User",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "Spain"
+    },
+    {
+      "name": "Civil and relief operators",
+      "role": "Charter & Relief Operators",
+      "status": "Retired",
+      "since": "1960s",
+      "fleetSize": "Not published; examples include the Nordchurchaid aircraft N52676 on Biafra relief flights and Belize Air International's HI-481",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "One C-97G, 52-2718 Angel of Deliverance, is airworthy with the Berlin Airlift Historical Foundation, painted as YC-97A 45-59595. It flies rarely and no verified Flightradar24 type code was found for it, so sightings are best tracked through the foundation's own announcements."
+  },
+  "lastUpdated": "2026-10-28",
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "change": "Added the Boeing C-97 Stratofreighter and KC-97 tanker - history, variants, operators, six preserved aircraft and the accident record.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "boeing c-97",
+    "c-97",
+    "c97",
+    "stratofreighter",
+    "kc-97",
+    "kc-97l",
+    "yc-97",
+    "boeing 377",
+    "stratocruiser",
+    "tanker",
+    "angel of deliverance",
+    "sac"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing C-97 Stratofreighter is an American four-engine heavy cargo aircraft built by Boeing for the US Air Force. It was developed from the B-29 Superfortress and B-50, took a second fuselage lobe on top of the bomber's fuselage and wings, and flew for the first time as the XC-97 on 9 November 1944. {{ref:wikipedia}}",
+      "Boeing built 77 C-97 transports and 811 KC-97 tankers, and Strategic Air Command operated C-97s from 1949 to 1978. The civil Boeing 377 Stratocruiser grew out of the same design. {{ref:wikipedia}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Design",
+        "paragraphs": [
+          "Design work began in 1942, using the wings, tail and engine layout of the B-29 almost unchanged with a new two-lobe fuselage on top of the bomber's. The XC-97 first flew with 2,200 hp Wright R-3350 engines, and later aircraft from the tenth onward took 3,500 hp Pratt & Whitney Wasp Major engines and the B-50's taller fin and rudder. On 9 January 1945 the first prototype flew from Seattle to Washington, D.C., in 6 hours 4 minutes with 20,000 lb of cargo. {{ref:wikipedia}}",
+          "Clamshell doors under the tail had two retractable ramps for driving cargo in, and the doors could not be opened in flight, though they could be removed for airdrops. The useful payload of 35,000 lb covered two 2.5-ton trucks, towed artillery or light tracked vehicles such as the M56 Scorpion. It was not a tactical airlifter able to deliver to primitive forward bases. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Tanker Production",
+        "paragraphs": [
+          "Production ran to 77 transports and 811 tankers. The tanker line began with the KC-97E (60 built) and KC-97F (159), and the KC-97G (592) was the main version, a dual-role tanker and transport with underwing fuel tanks. Boeing introduced the flying boom refuelling system on the KC-97 in 1950. {{ref:wikipedia}} {{ref:nmusaf}}",
+          "After 1956 the USAF gradually replaced KC-97s with the Boeing KC-135 jet tanker. From 1964 some were fitted with two J47 turbojets, becoming KC-97Ls, which were faster and served mainly with the Air National Guard. The Air Force retired its last C-97 and KC-97 in 1973, while the Air Force Reserve and Air National Guard kept some as tankers or search and rescue aircraft. {{ref:nmusaf}}"
+        ]
+      },
+      {
+        "heading": "Service History",
+        "paragraphs": [
+          "A YC-97A, 45-59595, flew in the Berlin Airlift in April 1949 and had a landing gear accident at Gatow, and it was repaired after the blockade ended. In Korea C-97Cs, designated MC-97C, evacuated casualties, and the type served in Vietnam. Some Strategic Air Command C-97s were used as airborne command posts. {{ref:wikipedia}}",
+          "In the late 1960s C-97s flew relief missions into Uli airstrip at night and at treetop level during the Biafran airlift, and at least two were lost. The Israeli Air Force adapted Stratocruisers and KC-97s when the C-130 was unavailable, and on 17 September 1971 an Israeli C-97 serving as an electronic countermeasures platform about 12 miles from the Suez Canal was shot down by an Egyptian SA-2 missile. From 1967 Air National Guard and Air Force Reserve tankers supported USAF and NATO units in Europe for ten years under Operation Creek Party. {{ref:wikipedia}} {{ref:nmusaf}}"
+        ]
+      },
+      {
+        "heading": "Civil Derivatives",
+        "paragraphs": [
+          "The Boeing 377 Stratocruiser was a transoceanic airliner built on the C-97 design, with optional sleeper cabins and a lower-deck lounge. It first flew on 8 July 1947 and 56 were built. {{ref:wikipedia}}",
+          "Aero Spacelines later built the Pregnant Guppy, Super Guppy and Mini Guppy as related developments of the same design, although the sources checked give no further detail on them. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Losses & Survivors",
+        "paragraphs": [
+          "Several C-97s were lost in the 1950s. A C-97A disappeared between Lajes Field and Westover on 15 October 1951 with 11 crew, and a C-97C disappeared over the Pacific on the way to Tokyo on 22 March 1957 with 67 aboard, the deadliest C-97 loss. On 30 July 1987 a Belize Air International C-97G crashed on the Mexico City to Toluca highway after its cargo shifted, killing 5 of the 12 aboard and 44 people on the ground. {{ref:wikipedia}}",
+          "Six preserved aircraft are listed here. 52-2718 Angel of Deliverance is an airworthy C-97G flown by the Berlin Airlift Historical Foundation, 52-2626 is at the Pima Air & Space Museum in Tucson, and 52-2630 is a KC-97L at the National Museum of the US Air Force. A C-97K is displayed at the Israeli Air Force Museum at Hatzerim. {{ref:wikipedia}} {{ref:nmusaf}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Boeing C-97 Stratofreighter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_C-97_Stratofreighter"
+    },
+    {
+      "id": "nmusaf",
+      "name": "Boeing KC-97L Stratofreighter",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196737/boeing-kc-97l-stratofreighter/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing C-97 Stratofreighter - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_C-97_Stratofreighter"
+    },
+    {
+      "name": "Boeing KC-97L Stratofreighter - National Museum of the US Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196737/boeing-kc-97l-stratofreighter/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1947-05-22",
+      "title": "XC-97 prototype crashes near Wright-Patterson",
+      "tag": "Crash (test flight)",
+      "summary": "XC-97 43-27472 crashed near Wright-Patterson Air Force Base and burned. Five of the seven crew were killed.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Boeing_C-97_Stratofreighter"
+    },
+    {
+      "date": "1951-10-15",
+      "title": "C-97A disappears between Lajes and Westover",
+      "tag": "Disappeared",
+      "summary": "C-97A 49-2602 disappeared on a flight between Lajes Field in the Azores and Westover Air Force Base. The crew of 11 were never found.",
+      "fatalities": 11,
+      "source": "https://en.wikipedia.org/wiki/Boeing_C-97_Stratofreighter"
+    },
+    {
+      "date": "1957-03-22",
+      "title": "C-97C vanishes over the Pacific",
+      "tag": "Disappeared",
+      "summary": "C-97C 50-0702 disappeared over the Pacific on the way to Tokyo with 67 aboard. It is the deadliest C-97 incident.",
+      "fatalities": 67,
+      "source": "https://en.wikipedia.org/wiki/Boeing_C-97_Stratofreighter"
+    },
+    {
+      "date": "1964-06-29",
+      "title": "HC-97G collides with HC-54D off Bermuda",
+      "tag": "Mid-air collision",
+      "summary": "HC-97G 52-2773 collided with HC-54D 42-72590 off Bermuda. Seventeen people were killed and seven survived.",
+      "fatalities": 17,
+      "source": "https://en.wikipedia.org/wiki/Boeing_C-97_Stratofreighter"
+    },
+    {
+      "date": "1969-09-26",
+      "title": "Nordchurchaid C-97G crashes at Uli",
+      "tag": "Approach crash",
+      "summary": "The relief aircraft N52676 crashed on approach to Uli airstrip during the Biafran airlift. All five on board were killed.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Boeing_C-97_Stratofreighter"
+    },
+    {
+      "date": "1971-09-17",
+      "title": "Israeli C-97 shot down by SA-2",
+      "tag": "Shot down",
+      "summary": "An Israeli C-97 serving as an electronic countermeasures platform about 12 miles from the Suez Canal was brought down by an Egyptian SA-2 missile.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_C-97_Stratofreighter"
+    },
+    {
+      "date": "1987-07-30",
+      "title": "Belize Air International C-97G crashes on a Mexican highway",
+      "tag": "Cargo shift",
+      "summary": "C-97G HI-481 crashed on the Mexico City to Toluca highway after its cargo shifted. Five of the 12 aboard and 44 people on the ground were killed.",
+      "fatalities": 49,
+      "source": "https://en.wikipedia.org/wiki/Boeing_C-97_Stratofreighter"
+    }
+  ],
+  "survivors": {
+    "intro": "A selection of surviving C-97 family aircraft, taken from a single source rather than a full census. One C-97G is airworthy.",
+    "airframes": [
+      {
+        "serial": "52-2718",
+        "name": "Angel of Deliverance",
+        "location": "Berlin Airlift Historical Foundation",
+        "place": "United States",
+        "note": "Airworthy C-97G, painted as YC-97A 45-59595 of the Berlin Airlift.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "52-2626",
+        "name": null,
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "note": "On display.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "52-2630",
+        "name": "Zeppelinheim",
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio, United States",
+        "note": "KC-97L flown by the 160th Air Refueling Group, Ohio Air National Guard, and delivered to the museum in August 1976.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "52-2764",
+        "name": null,
+        "location": "Don Q Inn",
+        "place": "Dodgeville, Wisconsin, United States",
+        "note": "Displayed beside the inn and used for filming commercials.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "53-218",
+        "name": null,
+        "location": "Minnesota Air Guard Museum",
+        "place": "Minneapolis, Minnesota, United States",
+        "note": "On display since November 2003.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "035 (4X-FPO)",
+        "name": null,
+        "location": "Israeli Air Force Museum",
+        "place": "Hatzerim, Israel",
+        "note": "C-97K, cited in one source as serial 52-2799.",
+        "countryCode": "il",
+        "country": "Israel"
+      }
+    ]
+  }
+}

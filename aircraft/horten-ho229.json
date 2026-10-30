@@ -1,0 +1,263 @@
+{
+  "name": "Ho 229",
+  "fullName": "Horten Ho 229",
+  "manufacturer": "Horten Brothers and Gothaer Waggonfabrik",
+  "originCountry": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Flying-Wing Jet Fighter",
+  "tagline": "The Horten Ho 229 was a twin-jet flying-wing fighter designed by Reimar and Walter Horten for the Luftwaffe. Only the V1 glider and the jet-powered V2 flew before the war ended, and the incomplete V3 in the Smithsonian is the only surviving airframe.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "The Ho 229 was built to Hermann Goering's 3 x 1000 requirement: 1,000 kg of bombs, 1,000 km of range and 1,000 km/h of speed.",
+    "The V2 crashed on its third test flight on 18 February 1945, killing test pilot Erwin Ziller.",
+    "The V3 in the Smithsonian is the only surviving Ho 229 and the only surviving German Second World War jet prototype.",
+    "Reimar Horten claimed in 1983 that charcoal in the glue made the Ho 229 a stealth aircraft, and the Smithsonian's examination found no evidence for it.",
+    "The centre section was welded steel tubing up to 160 mm in diameter, and the outer wings were plywood on pine spars.",
+    "With no vertical tail, the Ho 229 had yaw-control problems and limited lateral stability."
+  ],
+  "faq": [],
+  "specifications": {
+    "specificationsNote": "Dimensions and weights are from the Smithsonian's record for the V3. Wikipedia gives lower weights of 4,844 kg empty and 6,876 kg MTOW. Speed, cruise, range and ceiling are design figures, since the type never entered service. The first flight date is the V2's first powered flight; the V1 glider flew in early 1944, and the Smithsonian gives December 1944 for the V2's first flight.",
+    "maxSpeed": {
+      "mph": 600,
+      "text": "~521 kn (~600 mph / ~960 km/h)"
+    },
+    "cruiseSpeed": "559 mph (900 km/h), design figure",
+    "range": {
+      "miles": 1181,
+      "text": "1,181 mi (1,900 km, 1,026 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 49213,
+      "text": "49,213 ft (15,000 m)"
+    },
+    "wingspan": {
+      "ft": 55.1,
+      "text": "55 ft 1 in (16.8 m)"
+    },
+    "length": {
+      "ft": 24.5,
+      "text": "24 ft 6 in (7.47 m)"
+    },
+    "height": {
+      "ft": 9.2,
+      "text": "9 ft 3 in (2.81 m)"
+    },
+    "weight": "empty: 11,198 lb (5,067 kg); MTOW: 19,887 lb (8,999 kg)",
+    "engines": "2 x Junkers Jumo 004B axial turbojets, about 1,985 lbf (8.8 kN) each",
+    "armament": "2 x 30 mm MK 108 cannon, planned",
+    "crew": "1",
+    "capacity": "3,700 lb (1,700 kg) of fuel; 1,000 kg (2,205 lb) of bombs was the design requirement",
+    "firstFlight": {
+      "date": "1945-02-02",
+      "year": 1945
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1945",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - three prototypes were ordered for 500,000 Reichsmarks in total, with no per-aircraft price",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "Ho IX V1",
+      "desc": "An unpowered glider with fixed tricycle landing gear, used to test the flying-wing layout before the jet versions. It first flew in early 1944. An accident happened when the pilot landed without retracting a test instrument, and Gotha later redesigned the undercarriage and fitted a simple ejection seat."
+    },
+    {
+      "code": "Ho 229 V2",
+      "desc": "The first jet-powered prototype, fitted with two Jumo 004B turbojets because the BMW 003 was not available. It was completed in December 1944 and made its first powered flight on 2 February 1945. It was destroyed on 18 February 1945 when an engine caught fire and test pilot Erwin Ziller crashed."
+    },
+    {
+      "code": "Ho 229 V3",
+      "desc": "A larger prototype with revised intakes and engines moved forward, planned with Jumo 004C engines giving 10 percent more thrust and two MK 108 cannon in the wing roots. It was about half finished when US forces captured it in April 1945, and it is the only surviving Ho 229 airframe, now at the Smithsonian."
+    },
+    {
+      "code": "Ho 229 A-0 (V6)",
+      "desc": "The planned pre-production day fighter, based on the single-seat V6 prototype, which US troops captured at Ilmenau. One account records an order for 20 pre-production aircraft, and none were completed. The V4 and V5 were planned as two-seat fighters but were barely started when the war ended."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Luftwaffe",
+      "role": "Intended Operator",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "3 prototypes ordered; V1 and V2 flown",
+      "homeBase": "Oranienburg (V2 test flights)"
+    },
+    {
+      "name": "Gothaer Waggonfabrik",
+      "role": "Production Contractor",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "20 pre-production aircraft ordered, none completed",
+      "homeBase": "Gotha and Friedrichroda, Thuringia"
+    },
+    {
+      "name": "United States Army Air Forces",
+      "role": "Captured Airframe Evaluation (V3)",
+      "status": "Retired",
+      "since": "1945",
+      "fleetSize": "1 captured airframe (V3)",
+      "homeBase": "Evaluation in the United States, then Smithsonian storage"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The Ho 229 last flew in 1945, so it cannot appear on Flightradar24. The V3 is displayed at the Smithsonian's Steven F. Udvar-Hazy Center in Chantilly, Virginia."
+  },
+  "lastUpdated": "2026-10-25",
+  "changelog": [
+    {
+      "date": "2026-10-25",
+      "change": "Added the Horten Ho 229, including the V2 crash, the capture of the V3 and what the Smithsonian and Northrop found when they tested the stealth claims. Sources: Smithsonian and Wikipedia.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Ho 229",
+    "Ho IX",
+    "H.IX",
+    "Go 229",
+    "Gotha",
+    "Horten",
+    "Reimar Horten",
+    "Walter Horten",
+    "flying wing",
+    "Nurfluegel",
+    "Hitler's flying wing",
+    "stealth",
+    "German jet",
+    "Luftwaffe",
+    "V3",
+    "Smithsonian"
+  ],
+  "article": {
+    "overview": [
+      "The Horten Ho 229, also known as the H.IX and, after Gotha's redesign, the Gotha Go 229, was a twin-jet flying-wing fighter designed by Reimar and Walter Horten for the Luftwaffe. It was built to Hermann Goering's 1943 requirement for a jet that could carry 1,000 kg of bombs over 1,000 km at 1,000 km/h. {{ref:wiki-ho229}}",
+      "Three prototypes were ordered. The V1 glider and the jet-powered V2 flew, the V2 was destroyed in a crash on 18 February 1945, and the V3 was about half finished when US troops captured it in April 1945. It is the only surviving Ho 229 and is displayed at the Smithsonian's Steven F. Udvar-Hazy Center. {{ref:wiki-ho229}} {{ref:nasm-ho229}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "In 1943 Goering issued the 3 x 1000 requirement: 1,000 kg of bombs, 1,000 km of range and 1,000 km/h of speed. The Hortens argued that a flying wing's low drag would cut the power needed for cruise and make the range achievable. The idea for the fighter came from Walter Horten, a fighter pilot who had seen the limits of the Messerschmitt Bf 109 during the Battle of Britain. Reimar had no formal aeronautical training but had built gliders and experimented with all-wing designs since 1933. {{ref:wiki-ho229}} {{ref:nasm-ho229}} {{ref:kindy-ho229}}",
+          "Goering funded three prototypes at a cost of 500,000 Reichsmarks, and the Air Ministry approved the design on condition that two 30 mm cannon were added. Gotha was chosen in September 1944 to build the type in numbers, and its redesign work gave the Go 229 name. Sources give the planned production run as 20, 40 or 100 aircraft, and none was completed. {{ref:wiki-ho229}} {{ref:nasm-ho229}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Ho 229 had no vertical tail, which caused yaw-control problems. Control came from elevons and spoilers, with the outboard spoilers acting first. The centre section was welded steel tube up to 160 mm in diameter, and the outer wings were Scots pine spars under plywood skins bonded with urea formaldehyde and phenol formaldehyde adhesives. The wing was designed for 7 g with a safety factor of 1.8, giving 12.6 g ultimate. {{ref:wiki-ho229}} {{ref:nasm-stealth}} {{ref:maksel-ho229}}",
+          "Two Junkers Jumo 004B turbojets of about 1,985 lbf each powered the V2, because the preferred BMW 003 was not available. The V3 was to have the Jumo 004C, which gave 10 percent more thrust. The aircraft was 24 ft 6 in (7.47 m) long with a 55 ft 1 in (16.8 m) span, the pilot sat on a basic ejection seat, and a drogue parachute slowed it on landing. The design speed was 960 km/h (600 mph) with a range of 1,900 km. {{ref:wiki-ho229}} {{ref:nasm-ho229}}"
+        ]
+      },
+      {
+        "heading": "Test Flights & the V2 Crash",
+        "paragraphs": [
+          "The V1 was an unpowered glider with fixed tricycle landing gear that first flew in late February 1944, and it completed several tests with some minor accidents. In one of them the pilot landed without retracting a test instrument, and Gotha later added a simple ejection seat, a redesigned undercarriage, revised intakes and ducting to cool the engine casing. {{ref:wiki-ho229}} {{ref:kindy-ho229}} {{ref:nasm-ho229}}",
+          "The V2 was completed in December 1944 and made its first powered flight on 2 February 1945 at Oranienburg, with Leutnant Erwin Ziller at the controls. A crash landing on its second flight a few days later needed extensive repairs. On the third flight, on 18 February 1945, an engine caught fire and stopped at about 800 m after roughly 45 minutes. Ziller tried to restart it by diving and pulling up, did not use his radio or eject, and crashed just outside the airfield boundary. He died of his injuries and the aircraft was destroyed. Walter Horten believed it had been sabotaged. {{ref:wiki-ho229}} {{ref:kindy-ho229}}"
+        ]
+      },
+      {
+        "heading": "Capture & Preservation",
+        "paragraphs": [
+          "Work on the V3 began in March 1945, after the Jaeger-Notprogramm included the Ho 229 on 12 March. The V3 was larger than the earlier prototypes and was to carry two MK 108 30 mm cannon in the wing roots. In April 1945 US forces found four Horten prototypes at Friedrichroda. The V3 was the most complete, and Army personnel removed it three days later and shipped it to the United States, while the V6, a single-seat fighter, was captured at Ilmenau. {{ref:wiki-ho229}} {{ref:nasm-ho229}}",
+          "The US Air Force donated the V3 to what became the Smithsonian in 1952, and it then spent about 61 years in storage, partly outdoors, because of limited display space. A document indicates that after the aircraft reached Wright Field the Army Air Forces worked toward flying it and then dropped the effort for reasons that are unclear. Conservators restored it from 2015 to 2017, and it is displayed partly restored at the Udvar-Hazy Center, with the wings separate from the centre section. The blue-grey paint was added by the Army Air Forces after capture, the original green paint survives on the interior and parts of the exterior, and scorch marks on the belly panels line up with the exhaust tubes. {{ref:nasm-ho229}} {{ref:maksel-ho229}} {{ref:si-ho229}}"
+        ]
+      },
+      {
+        "heading": "The Stealth Claim",
+        "paragraphs": [
+          "Reimar Horten emigrated to Argentina after the war and continued all-wing research, and in his 1983 book Nurfluegel he wrote that he planned to mix sawdust, charcoal and glue between the plywood layers of a production model to hide it from radar. The Smithsonian's conservators examined the V3's adhesives and found black particles of about 200 microns that could not be identified as charcoal, and the plywood cross-sections showed no thick layer that could have absorbed radar. The museum says there is no physical or documentary evidence for the claim. {{ref:kindy-ho229}} {{ref:nasm-stealth}} {{ref:nasm-ho229}}",
+          "In September 2008 a Northrop Grumman team led by Thomas Dobrenz and Aldo Spadoni built a full-scale wooden replica and measured it at Northrop's outdoor range in California, using frequencies comparable to those of Second World War radars. Its leading edge behaved much like a plywood control sample, and the team concluded that a carbon-black design would have been a poor radar absorber. Simulations suggested a Chain Home radar could still detect the replica at about 80 percent of the range at which it would detect a Bf 109. The work was presented in 2010 in a paper titled Aviation Archeology of the Horten 229 V3 Aircraft. {{ref:nasm-stealth}} {{ref:wiki-ho229}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-ho229",
+      "name": "Horten Ho 229",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Horten_Ho_229"
+    },
+    {
+      "id": "nasm-ho229",
+      "name": "Horten Ho 229 V3",
+      "publisher": "National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/horten-ho-229-v3/nasm_A19600324000"
+    },
+    {
+      "id": "nasm-stealth",
+      "name": "Is It Stealth? Horten Ho 229 V3 Preservation",
+      "publisher": "National Air and Space Museum",
+      "url": "https://airandspace.si.edu/explore/researchers/projects/horten-ho-229-v3-preservation/stealthy"
+    },
+    {
+      "id": "si-ho229",
+      "name": "A Desperate Victory: The Nazis Built an Aircraft That Was All Wing",
+      "publisher": "Smithsonian Institution",
+      "url": "https://si.edu/stories/desperate-victory-nazis-built-aircraft-was-all-wing"
+    },
+    {
+      "id": "maksel-ho229",
+      "name": "Restoring Germany's Captured 'Bat Wing'",
+      "publisher": "Air & Space Smithsonian",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/horten-flying-wing-180960066/"
+    },
+    {
+      "id": "kindy-ho229",
+      "name": "Truth Is Stranger Than Fiction With Horten's All-Wing Aircraft Design",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/truth-stranger-fiction-hortens-all-wing-aircraft-design-180976095/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Horten Ho 229 V3, National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/horten-ho-229-v3/nasm_A19600324000"
+    },
+    {
+      "name": "Horten Ho 229, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Horten_Ho_229"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1945-02-02",
+      "title": "First powered flight of the Ho 229 V2",
+      "tag": "Milestone",
+      "summary": "Leutnant Erwin Ziller flew the V2 on jet power for the first time at Oranienburg.",
+      "source": "https://en.wikipedia.org/wiki/Horten_Ho_229"
+    },
+    {
+      "date": "1945-02-18",
+      "title": "Ho 229 V2 destroyed in crash",
+      "tag": "Engine fire",
+      "summary": "On the V2's third test flight an engine caught fire and stopped at about 800 m. Ziller tried to restart it but crashed just outside the airfield and died of his injuries. The aircraft was destroyed.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Horten_Ho_229"
+    }
+  ],
+  "survivors": {
+    "intro": "The V3 is the only surviving Ho 229 airframe.",
+    "airframes": [
+      {
+        "serial": "Ho 229 V3 (NASM A19600324000)",
+        "location": "National Air and Space Museum, Steven F. Udvar-Hazy Center, Chantilly, Virginia, USA",
+        "note": "Captured at Friedrichroda in April 1945 when it was about half finished. It is displayed partly restored, with the wings separate from the centre section."
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "name": "F/A-18E/F Super Hornet",
+  "fullName": "Boeing F/A-18E/F Super Hornet",
+  "manufacturer": "Boeing (originally McDonnell Douglas)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Carrier-Based Multirole Strike Fighter",
+  "tagline": "The Boeing F/A-18E/F Super Hornet is a twin-engine, carrier-based multirole fighter built for the US Navy, an enlarged development of the F/A-18 Hornet with 25 percent more wing area. It entered fleet service in 1999 and replaced the F-14 Tomcat, and the Navy's final order of 17 aircraft, announced in March 2024, is due for delivery by spring 2027.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "On 18 June 2017 Lt Cdr Michael Tremel of VFA-87 shot down a Syrian Su-22 with an AIM-120, the first air-to-air kill by a Super Hornet, after his first shot, an AIM-9X, missed.",
+    "Development cost was capped at $4.88 billion in 1990 dollars, and the Navy kept the F/A-18 designation so that Congress would see the aircraft as a low-risk derivative of the Hornet.",
+    "Navy crews call it the 'Rhino'.",
+    "It can land back on a carrier with more than 9,000 lb (4,100 kg) of unused stores.",
+    "Conformal fuel tanks were planned as standard on the Block III but were dropped in 2021 over cost, schedule and performance.",
+    "On 28 April 2025 a VFA-136 F/A-18E was lost over the side of USS Harry S. Truman while being towed in the hangar after the carrier made a hard turn under Houthi attack, and a second jet was lost on 6 May 2025 when the arresting gear failed."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the F/A-18E single-seater unless stated. Speed is the Navy's published Mach 1.8+, converted at altitude. Service entry is the 1999 fleet introduction, and initial operating capability followed in September 2001. The build total is the last published count (April 2020), and the final aircraft are due for delivery by spring 2027.",
+    "maxSpeed": {
+      "mph": 1190,
+      "text": "~1,034 kn (~1,190 mph / 1,915 km/h)"
+    },
+    "range": {
+      "miles": 1467,
+      "text": "1,467 mi (2,361 km, 1,275 nmi) combat range, clean with two AIM-9s; 1,910 mi (3,074 km, 1,660 nmi) ferry range"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000+ ft (15,000+ m)"
+    },
+    "wingspan": {
+      "ft": 44.75,
+      "text": "44 ft 9 in (13.6 m)"
+    },
+    "length": {
+      "ft": 60.08,
+      "text": "60 ft 1 in (18.3 m)"
+    },
+    "height": {
+      "ft": 16,
+      "text": "16 ft (4.9 m)"
+    },
+    "weight": "empty: 30,600 lb (13,880 kg); MTOW: 66,000 lb (29,932 kg)",
+    "engines": "2 x General Electric F414-GE-400 afterburning turbofans, 22,000 lbf (98 kN) each",
+    "armament": "1 x 20 mm M61A2 Vulcan rotary cannon; 11 external stations for AIM-9X Sidewinder and AIM-120 AMRAAM air-to-air missiles, AGM-88 HARM, AGM-84 Harpoon and SLAM-ER missiles, AGM-65 Maverick, JDAM and JSOW guided weapons, Paveway laser-guided bombs, general-purpose bombs, mines and rockets",
+    "crew": "1 (F/A-18E); 2 (F/A-18F)",
+    "capacity": "11 hardpoints and up to five external fuel tanks, with a bring-back weight of more than 9,000 lb (4,100 kg)",
+    "firstFlight": {
+      "date": "1995-11-29",
+      "year": 1995
+    },
+    "serviceEntryDate": "1999",
+    "retiredDate": null,
+    "numberBuilt": 632,
+    "unitCost": {
+      "usd": 67400000,
+      "text": "$67.4M (FY2021 Navy unit cost)",
+      "inflationText": null
+    },
+    "combatLosses": "No Super Hornet has been confirmed lost to enemy fire. A VFA-11 F/A-18F was shot down by USS Gettysburg in a friendly fire incident on 22 December 2024 (both crew survived), and two more were lost in carrier mishaps during the Red Sea deployment in April and May 2025."
+  },
+  "variants": [
+    {
+      "code": "F/A-18E",
+      "desc": "The single-seat Super Hornet and the larger share of the Navy fleet. It has a fuselage stretched by 34 inches (86 cm), a wing area 25 percent larger than the Hornet's, two F414 engines and 33 percent more internal fuel. The Navy held 310 F/A-18Es in March 2022. A Block II aircraft carries the AN/APG-79 AESA radar."
+    },
+    {
+      "code": "F/A-18F",
+      "desc": "The two-seat version, with a second crew member in the back seat and otherwise the same airframe as the E model. The Navy held 246 in March 2022. Australia bought only the F model when it replaced its F-111s, and Kuwait's 28 aircraft are 22 E models and 6 F models."
+    },
+    {
+      "code": "EA-18G Growler",
+      "desc": "The electronic warfare version of the two-seat F, which replaced the EA-6B Prowler in Navy service. The Navy held 161 in March 2022. Australia ordered 12 in May 2013, and the first rolled out on 29 July 2015."
+    },
+    {
+      "code": "Block II",
+      "desc": "The first major upgrade, adding the AN/APG-79 AESA radar on new-build aircraft from 2005, larger cockpit displays and the Joint Helmet Mounted Cueing System, first delivered on 18 May 2007 to VFA-213. The ALQ-214 jammer replaced the ALQ-165, and in January 2008 the Navy announced AESA retrofits for 135 earlier aircraft."
+    },
+    {
+      "code": "Block III",
+      "desc": "The current production standard, with a 10 by 19 inch touchscreen display replacing all the multifunction displays, a new processor and an open mission systems architecture. Design life rises from 6,000 to 10,000 flight hours. The Navy took two test jets in June 2020 and plans to convert all Block II aircraft through 2033."
+    },
+    {
+      "code": "Advanced Super Hornet",
+      "desc": "A self-funded demonstrator by Boeing and Northrop Grumman, which began a three-week flight test on 5 August 2013. It combined conformal fuel tanks, an enclosed weapons pod and a frontal radar cross-section about 50 percent lower. The Navy did not buy it as such, though many elements moved to the Block III."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Navy",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1999",
+      "fleetSize": "556 (310 F/A-18E and 246 F/A-18F in March 2022), plus 161 EA-18G Growlers",
+      "homeBase": "NAS Lemoore, California, and other naval air stations"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2010",
+      "fleetSize": "24 F/A-18F and 12 EA-18G",
+      "homeBase": "RAAF Base Amberley, Queensland"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F18S",
+    "howToFind": "Search type F18S. Military operators often fly without broadcasting, so sightings on public feeds are limited to occasional transit and ferry flights."
+  },
+  "lastUpdated": "2026-10-28",
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "change": "Added the F/A-18E/F Super Hornet, with its development, upgrade blocks, combat record, export history and the end of production in 2027.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "super hornet",
+    "rhino",
+    "f/a-18e",
+    "f/a-18f",
+    "f18",
+    "f-18",
+    "ea-18g growler",
+    "block iii",
+    "us navy",
+    "carrier fighter",
+    "boeing",
+    "mcdonnell douglas"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing F/A-18E/F Super Hornet is a twin-engine, carrier-based multirole strike fighter built for the US Navy, designed by McDonnell Douglas and now built by Boeing. It first flew on 29 November 1995, entered fleet service in 1999 and reached initial operating capability in September 2001 with VFA-115 at NAS Lemoore, replacing the F-14 Tomcat. It is about 20 percent larger than the F/A-18 Hornet it grew from, and it shared about 90 percent of the Hornet's avionics and software at introduction. {{ref:navair}} {{ref:wikipedia}}",
+      "At least 632 had been built by April 2020. The Navy's final order of 17 aircraft, announced in March 2024, closes the production line in 2027 unless a new export customer appears, and the Royal Australian Air Force is the only export operator flying the type. {{ref:wikipedia}} {{ref:usni-final-buy}} {{ref:aviacionline}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Super Hornet grew out of the Hornet 2000, a proposal McDonnell Douglas made in the 1980s for an enlarged Hornet with a bigger wing, a longer fuselage and more powerful engines. The Navy turned to it after a run of cancellations: the A-12 Avenger II in 1991, the Navy Advanced Tactical Fighter in 1991 and 1992, F-14D production in 1991 and the A/F-X in the 1993 Bottom-Up Review. It placed its first order in 1992. {{ref:wikipedia}}",
+          "Engineering and manufacturing development cost was capped at $4.88 billion in FY1990 dollars, about $10.3 billion in 2024 money. The Navy kept the F/A-18 designation to present the programme to Congress as a low-risk derivative, although the aircraft is largely new. The 1997 Quadrennial Defense Review cut the planned buy of about 1,000 aircraft by nearly half, and in 2006 the Navy was still 60 fighters short of its validated requirement. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The fuselage was stretched by 34 inches (86 cm), wing area rose 25 percent and internal fuel 33 percent, which lifted mission range by 41 percent and endurance by 50 percent over the Hornet. Empty weight rose by about 7,000 lb (3,200 kg) and maximum weight by about 15,000 lb (6,800 kg), yet the airframe has 42 percent fewer structural parts. Two General Electric F414 engines, derived from the F404, give about 35 percent more thrust across most of the flight envelope, 22,000 lbf each in afterburner. {{ref:wikipedia}}",
+          "Development flying took 3,100 test flights and 4,600 flight hours and produced fixes for wing drop, a dogtooth extension and a porous strip at the wing fold, and for interference when releasing stores. The aircraft has quadruplex digital fly-by-wire controls, larger caret inlets with fixed ramps, enlarged leading-edge extensions, a 20 mm M61A2 cannon and 11 hardpoints. New-build Block II aircraft carry the AN/APG-79 AESA radar from 2005, replacing the APG-73. {{ref:wikipedia}} {{ref:navair}}"
+        ]
+      },
+      {
+        "heading": "Block III & Upgrades",
+        "paragraphs": [
+          "The Block III standard adds a 10 by 19 inch touchscreen display, a new processor, an open mission systems architecture and stealth improvements, and extends airframe life from 6,000 to 10,000 flight hours. The Navy took two Block III test jets in June 2020 after a 2019 contract for 78 production aircraft, and it plans to convert all Block II aircraft through 2033. An AN/ASG-34(V) infrared search and track sensor in a modified centreline tank became operational in January 2025. {{ref:wikipedia}} {{ref:navair}}",
+          "Boeing and Northrop Grumman flew the self-funded Advanced Super Hornet for three weeks from 5 August 2013 with conformal fuel tanks, an enclosed weapons pod and a frontal radar cross-section about 50 percent lower. The Navy did not buy the package as such. It planned the conformal tanks as standard on the Block III, which would have added 3,500 lb (1,600 kg) of fuel and 260 nautical miles of combat range, and dropped them in 2021 over cost, schedule and performance. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "On 6 November 2002 two F/A-18Es struck surface-to-air missile launchers near Al Kut and a command bunker at Tallil in Iraq, the first combat use of 2,000 lb JDAMs. Super Hornets flew close air support, strike, escort, defence suppression and tanker sorties through the Iraq War, and on 8 September 2006 VFA-211 aircraft dropped GBU-12 and GBU-38 bombs near Kandahar in Afghanistan. During the 2006 to 2007 cruise of USS Dwight D. Eisenhower they dropped 140 precision-guided weapons and made about 70 strafing runs. On 7 and 8 August 2014 two aircraft from USS George H.W. Bush attacked an Islamic State artillery piece near Irbil. {{ref:wikipedia}}",
+          "On 18 June 2017 Lt Cdr Michael Tremel of VFA-87 shot down a Syrian Su-22 that had bombed US-backed forces near Tabqa. His first shot, an AIM-9X, missed, and an AIM-120 hit after an engagement of about eight minutes. It was the first air-to-air kill by a Super Hornet and the Navy's first since the 1991 Gulf War. Eisenhower's Super Hornets, working with USS Laboon, destroyed 12 attack drones, three anti-ship missiles and two land-attack cruise missiles in the Red Sea on 26 December 2023, and took part in the 12 January 2024 strikes on 60 Houthi targets at 16 locations. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Exports & End of Production",
+        "paragraphs": [
+          "Australia signed for 24 F/A-18Fs on 3 May 2007 at $2.9 billion to replace its F-111s. The first five reached RAAF Base Amberley on 26 March 2010 and the first squadron was declared operational on 9 December 2010. Australia ordered 12 EA-18G Growlers in May 2013, and the first rolled out on 29 July 2015. Kuwait ordered 22 F/A-18Es and 6 F/A-18Fs in June 2018 for $1.5 billion. Boeing completed all 28, and they were transferred to the US Navy ahead of handover, but as of December 2025 Kuwait had no confirmed delivery date. {{ref:wikipedia}} {{ref:janes-kuwait}} {{ref:malaymail}}",
+          "Other campaigns failed. Brazil chose the Gripen in December 2013, Denmark recommended the F-35 in May 2016, Belgium picked the F-35A in October 2018, Finland ordered the F-35 in February 2022, and India signed for 26 Dassault Rafale M fighters on 28 April 2025. Boeing had said production would end in 2025 and could extend to 2027 for an international customer. The Navy's last order, announced on 19 March 2024, covers 17 aircraft for $1.1 billion: 10 F/A-18Fs in Lot 46, and 2 F/A-18Fs and 5 F/A-18Es in Lot 47. Deliveries begin at the end of 2026 and are due to finish by spring 2027. {{ref:wikipedia}} {{ref:twz-production}} {{ref:usni-final-buy}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "The Navy held 310 F/A-18Es, 246 F/A-18Fs and 161 EA-18Gs in March 2022. Its published unit cost is $67.4 million in FY2021 dollars, and another report put it at almost $60 million in fiscal 2023. The type is also the Blue Angels' aircraft, after a 2018 contract to convert nine single-seat and two two-seat jets for the team. {{ref:twz-production}} {{ref:navair}} {{ref:aviacionline}} {{ref:wikipedia}}",
+          "Recent operations have cost aircraft. A VFA-11 F/A-18F was shot down by USS Gettysburg on 22 December 2024 in a friendly fire incident, and both crew survived. An F/A-18E fell overboard from USS Harry S. Truman on 28 April 2025, and another was lost on 6 May 2025 when the arresting gear failed to catch it. {{ref:wikipedia}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Boeing F/A-18E/F Super Hornet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+    },
+    {
+      "id": "navair",
+      "name": "F/A-18E/F Super Hornet",
+      "publisher": "Naval Air Systems Command",
+      "url": "https://www.navair.navy.mil/product/FA-18EF-Super-Hornet"
+    },
+    {
+      "id": "usni-final-buy",
+      "name": "Navy Buys 17 Super Hornets in $1.1B Deal, Last Planned Contract Secures Technical Data Packages",
+      "publisher": "USNI News",
+      "url": "https://news.usni.org/?p=109570"
+    },
+    {
+      "id": "twz-production",
+      "name": "Boeing To End F/A-18 Super Hornet Production In Two Years",
+      "publisher": "The War Zone",
+      "url": "https://twz.com/boeing-to-end-f-a-18-super-hornet-production-in-two-years"
+    },
+    {
+      "id": "aviacionline",
+      "name": "With no export orders, the Super Hornet saga is coming to an end in 2027",
+      "publisher": "Aviacionline",
+      "url": "https://www.aviacionline.com/with-no-export-orders-the-super-hornet-saga-is-coming-to-an-end-in-2027"
+    },
+    {
+      "id": "janes-kuwait",
+      "name": "Boeing completes Super Hornet deliveries for Kuwait",
+      "publisher": "Janes",
+      "url": "https://www.janes.com/defence-news/update-boeing-completes-super-hornet-deliveries-for-kuwait/"
+    },
+    {
+      "id": "malaymail",
+      "name": "RMAF may fast-track fighter jet programme amid Kuwait Hornet delays, says air force chief",
+      "publisher": "Malay Mail",
+      "url": "https://malaymail.com/news/malaysia/2025/12/18/rmaf-may-fast-track-fighter-jet-programme-amid-kuwait-hornet-delays-says-air-force-chief/202407"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "F/A-18E/F Super Hornet - Aerospaceweb",
+      "url": "https://aerospaceweb.org/aircraft/fighter/f18ef/"
+    },
+    {
+      "name": "Boeing F/A-18E/F Super Hornet - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2017-06-18",
+      "title": "Super Hornet shoots down a Syrian Su-22",
+      "tag": "Air-to-air kill",
+      "summary": "Lt Cdr Michael Tremel of VFA-87, flying from USS George H.W. Bush, shot down a Syrian Su-22 that had bombed US-backed forces near Tabqa. His first AIM-9X missed and an AIM-120 hit. It was the first air-to-air kill by a Super Hornet.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+    },
+    {
+      "date": "2020-12-08",
+      "title": "RAAF F/A-18F rolls into a ditch at Amberley",
+      "tag": "Takeoff accident",
+      "summary": "RAAF F/A-18F A44-223 rolled into a ditch on takeoff at RAAF Base Amberley and the crew ejected. The cause was pilot error. The RAAF grounded its 24 Super Hornets and 11 Growlers, and the aircraft was repaired and returned to service in mid-2021.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+    },
+    {
+      "date": "2023-12-26",
+      "title": "Super Hornets defeat a Houthi drone and missile attack in the Red Sea",
+      "tag": "Combat engagement",
+      "summary": "Super Hornets from USS Dwight D. Eisenhower, working with USS Laboon, destroyed 12 attack drones, three anti-ship missiles and two land-attack cruise missiles fired by Houthi forces.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+    },
+    {
+      "date": "2024-12-22",
+      "title": "VFA-11 F/A-18F shot down by USS Gettysburg",
+      "tag": "Friendly fire",
+      "summary": "A VFA-11 F/A-18F was shot down by the cruiser USS Gettysburg in a friendly fire incident. Both crew survived.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+    },
+    {
+      "date": "2025-04-28",
+      "title": "F/A-18E lost overboard from USS Harry S. Truman",
+      "tag": "Carrier mishap",
+      "summary": "A VFA-136 F/A-18E being towed in the hangar fell overboard and was lost at sea after the carrier made a hard turn while under Houthi attack.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "Arresting gear fails to catch a Super Hornet",
+      "tag": "Carrier mishap",
+      "summary": "A second Super Hornet was lost during the same deployment when the arresting gear failed to catch it on landing.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+    }
+  ]
+}

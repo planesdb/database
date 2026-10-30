@@ -1,0 +1,351 @@
+{
+  "name": "Lockheed Constellation",
+  "fullName": "Lockheed Constellation (L-049 to L-1649A)",
+  "manufacturer": "Lockheed",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Pressurised Long-Range Airliner & Military Transport",
+  "tagline": "The Lockheed Constellation is a four-engine, propeller-driven airliner and transport built by Lockheed at Burbank, California, with a pressurised cabin and a triple tail. The prototype first flew on 9 January 1943 and 856 were built before production ended in 1958, as the Constellation, the longer Super Constellation, the L-1649A Starliner and the military C-121 and EC-121 family.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Howard Hughes, a major stockholder in TWA, started the programme in 1939 and agreed to pay for 40 aircraft himself, the largest airline order at the time.",
+    "On 17 April 1944 Hughes and TWA president Jack Frye flew the second C-69 from Burbank to Washington in 6 hours 57 minutes, averaging 331 mph, and on the return trip they stopped at Wright Field so Orville Wright could make his last flight.",
+    "On 29 September 1957 a TWA L-1649A flew Los Angeles to London in 18 hours 32 minutes, described as the longest nonstop piston-airliner passenger flight.",
+    "A TWA training flight crashed near Reading, Pennsylvania, on 11 July 1946 and killed five of the six crew, which led to a six-week grounding and over 95 changes to the aircraft.",
+    "Three Constellations served as President Eisenhower's aircraft, and the VC-121E Columbine III retired to the Air Force museum in 1966.",
+    "Jet airliners made it obsolete, with the long overseas routes lost first, and TWA flew the last scheduled passenger flight in the contiguous US on 11 May 1967."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the L-1049 Super Constellation, the most numerous civil version. The earlier L-049 was shorter. The cost is a single reported price for the L-049 quoted to Howard Hughes, adjusted with US CPI-U (14.0 for 1940 against 336.940 for September 2026), and one other source gives $450,000. No used-market price is shown because airworthy examples are rarely sold.",
+    "maxSpeed": {
+      "mph": 377,
+      "text": "328 kn (377 mph / 607 km/h)"
+    },
+    "cruiseSpeed": "340 mph (550 km/h) at 22,600 ft",
+    "range": {
+      "miles": 5400,
+      "text": "5,400 mi (8,700 km)"
+    },
+    "serviceCeiling": {
+      "ft": 24000,
+      "text": "24,000 ft (7,300 m)"
+    },
+    "wingspan": {
+      "ft": 126.17,
+      "text": "126 ft 2 in (38.46 m)"
+    },
+    "length": {
+      "ft": 116.17,
+      "text": "116 ft 2 in (35.41 m)"
+    },
+    "height": {
+      "ft": 24.75,
+      "text": "24 ft 9 in (7.54 m)"
+    },
+    "weight": "empty: 79,700 lb (36,151 kg); MTOW: 137,500 lb (62,369 kg)",
+    "engines": "4 x Wright R-3350-DA3 Duplex-Cyclone 18-cylinder radial engines, 3,250 hp each, with three-bladed constant-speed propellers",
+    "crew": "5 flight crew, plus cabin crew",
+    "capacity": "Typically 62 to 95 passengers, up to 109 in the high-density L-1049D layout, with a payload of 18,300 lb (8,301 kg)",
+    "firstFlight": {
+      "date": "1943-01-09",
+      "year": 1943
+    },
+    "serviceEntryDate": "1946-02",
+    "retiredDate": "1978",
+    "numberBuilt": 856,
+    "unitCost": {
+      "usd": 10200000,
+      "text": "Reported: about $10.2M in 2026 dollars, from a $425,000 price quoted for the L-049 (unconfirmed)",
+      "inflationText": "Originally about $425,000 (c. 1940)"
+    }
+  },
+  "variants": [
+    {
+      "code": "C-69 / L-049",
+      "desc": "The original Constellation. Of 202 C-69s intended for the USAAF, 22 were built before the war ended, seven of them completed as civil L-049s, and the Army cancelled the rest in 1945. TWA took its first L-049 in late 1945, and Pan Am also ordered the type. A single C-69C (L-549) was a 43-seat VIP transport."
+    },
+    {
+      "code": "L-649 / L-749",
+      "desc": "The L-649 was built for Eastern, which took all 14. The L-749 and L-749A carried more fuel in the outer wings, with 131 built including 12 military aircraft and one kept by Lockheed. On 17 June 1947 Pan Am opened the first scheduled round-the-world service with its L-749 Clipper America."
+    },
+    {
+      "code": "L-1049 Super Constellation",
+      "desc": "The longer-fuselage version, with the L-1049 (24 built), L-1049C (48), L-1049D (4), L-1049E (28), L-1049G (102) and L-1049H (59), which together come to 265 aircraft. Eastern, TWA, Air France, KLM, Qantas and Trans-Canada were major buyers, and the L-1049D could seat up to 109 in a quick-change interior."
+    },
+    {
+      "code": "L-1649A Starliner",
+      "desc": "The final civil version, with 44 built. A TWA L-1649A flew Los Angeles to London nonstop in 18 hours 32 minutes on 29 September 1957, about 5,420 miles at 292 mph, and another flew London to San Francisco in 23 hours 19 minutes on 1 and 2 October 1957. Jet airliners arrived very soon afterwards."
+    },
+    {
+      "code": "C-121 / R7V / WV-2",
+      "desc": "Military transports and patrol aircraft. The C-121A carried 44 seated passengers or 20 litters, the R7V-1 carried 72 troops, and Lockheed built 50 R7V-1s, 33 C-121Cs and 142 WV-2 radar aircraft for the US Navy. These were the military counterparts of the L-1049 and flew into the late 1960s."
+    },
+    {
+      "code": "EC-121 Warning Star",
+      "desc": "The airborne early warning and radar picket version, built as RC-121C (10) and RC-121D (48) and remaining in US Navy and Air Force service until 1978. Callsigns changed from Big Eye to College Eye, and EC-121Ts were called Disco. On 15 April 1969 a Navy EC-121M was shot down over the Sea of Japan, killing all 31 aboard."
+    },
+    {
+      "code": "VC-121 Columbine",
+      "desc": "Presidential and staff transports. A VC-121A named Columbine served Eisenhower as supreme commander in Europe from late 1950 to mid-1952, a VC-121A named Columbine II was his aircraft as president from 1953, and the VC-121E Columbine III entered service in 1954 before retiring to the Air Force museum in 1966."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Trans World Airlines",
+      "role": "Launch Customer",
+      "status": "Retired",
+      "since": "1945",
+      "fleetSize": "31 L-049 plus 42 Super Constellations (10 L-1049, 28 L-1049G, 4 L-1049H); L-1649A count not published",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Pan American World Airways",
+      "role": "Major Operator",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "20 to 22 L-049 (sources differ) plus L-749s; further count not published",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Eastern Air Lines",
+      "role": "Major Operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "14 L-649, 14 L-1049, 19 L-1049C and 10 L-1049G",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Air France",
+      "role": "Major Operator",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "10 L-1049C and 14 L-1049G; earlier models not counted in the sources checked",
+      "homeBase": "Paris"
+    },
+    {
+      "name": "KLM",
+      "role": "Major Operator",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "4 ordered as L-049, then 9 L-1049C, 4 L-1049E, 6 L-1049G and 3 L-1049H",
+      "homeBase": "Amsterdam"
+    },
+    {
+      "name": "Qantas",
+      "role": "Kangaroo Route Operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "3 L-1049C, 9 L-1049E, 2 L-1049G and 2 L-1049H",
+      "homeBase": "Sydney"
+    },
+    {
+      "name": "Lufthansa",
+      "role": "Post-War German Operator",
+      "status": "Retired",
+      "since": "1955",
+      "fleetSize": "8 L-1049G",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "United States Air Force and Navy",
+      "role": "Military Operators",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "Including 50 R7V-1, 33 C-121C, 142 WV-2, 10 RC-121C and 48 RC-121D",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Other airlines",
+      "role": "Smaller Operators",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "Including BOAC, Air India, Trans-Canada, Iberia, Panair do Brasil, TAP, Aer Lingus, VARIG, Cubana, LAV, Northwest, Avianca, Pakistan International, Delta, Braniff, El Al and Flying Tigers; counts not summed",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "CONI",
+    "howToFind": "Three Constellations are airworthy, including the Breitling Super Constellation HB-RSC based at Basel, the HARS aircraft VH-EAG in Australia and the Lewis Air Legends VC-121A Bataan. Sightings are rare and tend to be on airshow days, and the ICAO type code is given here from the Aviation Safety Network listing and not confirmed against Flightradar24."
+  },
+  "lastUpdated": "2026-10-28",
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "change": "New entry for the Lockheed Constellation family - L-049 through the L-1649A Starliner and the C-121 and EC-121 military versions - with operators, records and accident record.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "lockheed constellation",
+    "constellation",
+    "connie",
+    "super constellation",
+    "starliner",
+    "l-1649a",
+    "l-1049",
+    "l-049",
+    "c-69",
+    "c-121",
+    "ec-121",
+    "warning star",
+    "columbine",
+    "coni",
+    "howard hughes",
+    "twa"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed Constellation is a four-engine, propeller-driven airliner and transport built by Lockheed in Burbank, California. The prototype flew on 9 January 1943 and 856 were built between 1943 and 1958. It was the first civil airliner family in widespread use with a pressurised cabin, which let it fly above most bad weather. {{ref:wikipedia}}",
+      "The family grew from the L-049 to the longer Super Constellation and the L-1649A Starliner, and the military C-121 and EC-121 versions served the US Navy and Air Force until 1978. {{ref:wikipedia}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Howard Hughes",
+        "paragraphs": [
+          "Lockheed had worked on the L-044 Excalibur since 1937. In 1939 TWA, at the urging of its major stockholder Howard Hughes, asked for a 40-passenger transcontinental airliner with a range of 3,500 miles, and that request led to the L-049. Hughes ordered 40 through the Hughes Tool Company on 10 July 1940, then the largest airline order, and Kelly Johnson and Hall Hibbard were among the designers. {{ref:wikipedia}} {{ref:l049}} {{ref:in2013dollars}}",
+          "The prototype first flew on 9 January 1943 from Burbank to Muroc Field, with Eddie Allen in the left seat on loan from Boeing and Milo Burcham as copilot. The USAAF wanted 202 C-69s, but only 22 were built before the war ended and the rest of the order was cancelled in 1945. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Design",
+        "paragraphs": [
+          "The wing was similar to the P-38 Lightning's, differing mainly in size. The triple tail let the aircraft fit existing hangars, and the aircraft had hydraulically boosted controls and a leading-edge deicing system on the wing and tail. Power came from four Wright R-3350 Duplex-Cyclone 18-cylinder radials of 3,250 hp. {{ref:wikipedia}}",
+          "The pressurised cabin carried typically 62 to 95 passengers on the Super Constellation, up to 109 in a high-density layout. The L-049 was originally laid out with 60 seats, 44 on one side of the aisle and four folding four-seat benches on the other. {{ref:airvectors}}"
+        ]
+      },
+      {
+        "heading": "The Airline Years",
+        "paragraphs": [
+          "TWA received the first civil aircraft in 1945 and began transatlantic service from New York to Paris in February 1946. Pan Am opened the first scheduled round-the-world service on 17 June 1947 with its L-749 Clipper America. Eastern Air Lines holds a New York to Washington record of just over 30 minutes from takeoff to touchdown, set before FAA speed limits applied below 10,000 ft. {{ref:wikipedia}}",
+          "The Super Constellation, with a longer fuselage, went to Eastern, TWA, Air France, KLM, Qantas, Trans-Canada, Lufthansa and others, and Cubana was the first Latin American airline to operate it. The L-1649A Starliner followed with 44 built, and in 1957 TWA's Starliner set the longest nonstop piston-airliner passenger flight record from Los Angeles to London. {{ref:wikipedia}} {{ref:airvectors}}"
+        ]
+      },
+      {
+        "heading": "Military Service",
+        "paragraphs": [
+          "The Navy and Air Force flew the type as the C-121, R7V and WV-2, and the WV-2 radar picket became the EC-121 Warning Star. Warning Stars patrolled the Tonkin Gulf during the Vietnam War, and from summer 1967 they carried the QRC-248 IFF transponder to help tell North Vietnamese MiGs from friendly aircraft. {{ref:airvectors}}",
+          "On 15 April 1969 a Navy EC-121M on patrol over the Sea of Japan was shot down by North Korean MiG-21s with the loss of all 31 aboard, the only combat loss of a US Super Constellation. Eisenhower used three Constellations as his personal aircraft, including the VC-121A Columbine II, 48-0610, and the VC-121E Columbine III, 53-7885. {{ref:airvectors}} {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Losses",
+        "paragraphs": [
+          "The accident record includes the 11 July 1946 TWA training crash near Reading, which killed five of six crew and led to a six-week grounding and over 95 changes to the aircraft. Pan Am Flight 121, Clipper Eclipse, suffered an engine failure and then a fire and crashed in the Syrian desert near Mayadin on 19 June 1947, killing 15. {{ref:airvectors}} {{ref:l049}}",
+          "Heavy losses followed as the fleet grew. A TWA aircraft crashed near Wadi Natrun on 31 August 1950 with 55 killed, a Panair do Brasil aircraft crashed near Porto Alegre on 28 July 1950 with 51 killed, and an Air France aircraft hit a mountain on São Miguel in the Azores on 28 October 1949 with 48 killed. {{ref:asn}}"
+        ]
+      },
+      {
+        "heading": "Retirement & Survivors",
+        "paragraphs": [
+          "The de Havilland Comet, Boeing 707, Douglas DC-8, Convair 880 and Caravelle made the Constellation obsolete, and the long overseas routes were lost first. The last scheduled passenger flight in the contiguous US was a TWA L-749 from Philadelphia to Kansas City on 11 May 1967, and the last in North America was a Western Airlines aircraft from Anchorage to Juneau on 26 November 1968. Propeller Constellations carried overnight freight into the 1990s. {{ref:wikipedia}}",
+          "Many survive. Three are airworthy: C-121C 54-0156 as the Breitling Super Constellation HB-RSC at Basel, C-121C 54-0157 with HARS in Australia, and VC-121A 48-0613 Bataan with Lewis Air Legends. N90831, a former C-69, is at the Pima Air & Space Museum, Lufthansa's D-ALIN, which flew Chancellor Adenauer to Moscow in 1955, is at Hermeskeil, Germany, and an L-1649A is part of the TWA Hotel in New York. {{ref:wikipedia}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Lockheed Constellation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Constellation"
+    },
+    {
+      "id": "l049",
+      "name": "Lockheed L-049 Constellation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_L-049_Constellation"
+    },
+    {
+      "id": "airvectors",
+      "name": "The Lockheed Constellation",
+      "publisher": "AirVectors",
+      "url": "https://airvectors.net/avconnie.html"
+    },
+    {
+      "id": "asn",
+      "name": "Lockheed Constellation occurrences",
+      "publisher": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/asndb/type/CONI"
+    },
+    {
+      "id": "in2013dollars",
+      "name": "Value of $425,000 from 1940 in 2026 dollars",
+      "publisher": "in2013dollars.com",
+      "url": "https://www.in2013dollars.com/us/inflation/1940?amount=425000"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Lockheed Constellation - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Constellation"
+    },
+    {
+      "name": "The Lockheed Constellation - AirVectors",
+      "url": "https://airvectors.net/avconnie.html"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1946-07-11",
+      "title": "TWA training flight crashes near Reading",
+      "tag": "Crash (training flight)",
+      "summary": "A TWA training flight crashed near Reading, Pennsylvania, killing five of the six crew. A six-week grounding followed, and more than 95 changes were made to the aircraft.",
+      "fatalities": 5,
+      "source": "https://airvectors.net/avconnie.html"
+    },
+    {
+      "date": "1947-06-19",
+      "title": "Pan Am Flight 121 crashes in the Syrian desert",
+      "tag": "Engine fire",
+      "summary": "Pan Am's Clipper Eclipse suffered an engine failure and then a fire and crashed in the Syrian desert near Mayadin. Fifteen people died.",
+      "fatalities": 15,
+      "source": "https://en.wikipedia.org/wiki/Lockheed_L-049_Constellation"
+    },
+    {
+      "date": "1948-10-20",
+      "title": "KLM Constellation crashes near Prestwick",
+      "tag": "Approach crash",
+      "summary": "KLM's PH-TEN crashed about 5 km east of Glasgow Prestwick Airport. Forty people were killed.",
+      "fatalities": 40,
+      "source": "https://aviation-safety.net/asndb/type/CONI"
+    },
+    {
+      "date": "1949-10-28",
+      "title": "Air France Constellation hits a mountain in the Azores",
+      "tag": "Controlled flight into terrain",
+      "summary": "Air France's F-BAZN hit Redondo Mountain on São Miguel island in the Azores. Forty-eight people were killed.",
+      "fatalities": 48,
+      "source": "https://aviation-safety.net/asndb/type/CONI"
+    },
+    {
+      "date": "1950-08-31",
+      "title": "TWA Constellation crashes near Wadi Natrun",
+      "tag": "Crash",
+      "summary": "TWA's N6004C crashed near Wadi Natrun in Egypt. Fifty-five people were killed, the highest toll in the L-049 and L-749 listing.",
+      "fatalities": 55,
+      "source": "https://aviation-safety.net/asndb/type/CONI"
+    },
+    {
+      "date": "1956-06-30",
+      "title": "TWA and United collide over the Grand Canyon",
+      "tag": "Mid-air collision",
+      "summary": "A TWA Super Constellation collided with a United Air Lines DC-7 over the Grand Canyon. The listing gives 70 killed on the TWA aircraft and 58 on the United aircraft.",
+      "fatalities": 128,
+      "source": "https://aviation-safety.net/asndb/type/CONI"
+    },
+    {
+      "date": "1969-04-15",
+      "title": "Navy EC-121M shot down over the Sea of Japan",
+      "tag": "Shot down",
+      "summary": "A Navy EC-121M on patrol over the Sea of Japan was shot down by North Korean MiG-21s. All 31 aboard were killed, the only combat loss of a US Super Constellation.",
+      "fatalities": 31,
+      "source": "https://airvectors.net/avconnie.html"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "name": "Ju 52",
+  "fullName": "Junkers Ju 52/3m",
+  "manufacturer": "Junkers",
+  "originCountry": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Trimotor Airliner & Military Transport",
+  "tagline": "The Junkers Ju 52 is a German three-engine transport and airliner with a corrugated duralumin skin, designed by Ernst Zindel and first flown in single-engine form in 1930. The trimotor Ju 52/3m flew in 1932 and about 4,845 were built, as Lufthansa airliners, as the Luftwaffe's standard transport in the Second World War, and with air forces from Spain to South America.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Its corrugated duralumin skin added strength but also added drag, which is part of why the type stayed slow.",
+    "Twenty Ju 52/3m aircraft reached Franco's Nationalists within a week of the Spanish Civil War starting, and in the first weeks they carried 7,350 troops in 461 transport flights.",
+    "The Crete airborne invasion of 1941 cost 170 Ju 52s out of the 493 used, and the losses ended German paratrooper operations.",
+    "Between 24 November 1942 and 31 January 1943, 266 Ju 52s were among the 488 aircraft lost supplying Stalingrad.",
+    "The Minensucher conversion carried a ring 14 m (46 ft) across that carried an electric current to set off magnetic mines.",
+    "After 1945, 585 more were built in France and Spain, and the Spanish Air Force flew its Pava version well into the 1970s."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Ju 52/3mg series. Sources give two different dates for the single-engine prototype's first flight, 13 October 1930 and 3 September 1930, and the entry uses the first. The maximum speed is the sea-level figure.",
+    "maxSpeed": {
+      "mph": 165,
+      "text": "143 kn (165 mph / 265 km/h)"
+    },
+    "cruiseSpeed": "153 mph (246 km/h) maximum continuous, at 3,000 ft (910 m)",
+    "range": {
+      "miles": 621,
+      "text": "621 mi (1,000 km)"
+    },
+    "serviceCeiling": {
+      "ft": 19400,
+      "text": "19,400 ft (5,900 m)"
+    },
+    "wingspan": {
+      "ft": 96,
+      "text": "96 ft (29 m)"
+    },
+    "length": {
+      "ft": 62,
+      "text": "62 ft (19 m)"
+    },
+    "height": {
+      "ft": 18.2,
+      "text": "18 ft 2 in (5.5 m)"
+    },
+    "weight": "empty: 12,610 lb (5,720 kg); MTOW: 23,150 lb (10,500 kg)",
+    "engines": "3 x BMW 132A-3 nine-cylinder air-cooled radial engines, 680 hp (510 kW) each at takeoff",
+    "armament": "1 x 7.92 mm MG 15 or 13 mm MG 131 dorsal machine gun; 1 x 7.92 mm MG 15 in a ventral 'dustbin'; up to 1,100 lb (500 kg) of bombs",
+    "crew": "2",
+    "capacity": "17 passengers, or 18 troops or 12 stretchers in the g7e. The cabin volume was 17 cubic metres.",
+    "firstFlight": {
+      "date": "1930-10-13",
+      "year": 1930
+    },
+    "serviceEntryDate": "1932",
+    "retiredDate": "1982",
+    "numberBuilt": 4845,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no price for the Ju 52 was found in the sources checked",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "Ju 52/1m",
+      "desc": "The single-engine version, first flown on 13 October 1930. It was judged underpowered, and the three-engine layout that followed became the standard. Canadian Airways operated one, CF-ARM, known as the Flying Boxcar. A list of prototypes in the same source gives 3 September 1930 for the first flight, so the exact date is not settled."
+    },
+    {
+      "code": "Ju 52/3mge",
+      "desc": "The airliner version, powered by BMW 132A engines. Deutsche Luft Hansa took its first in May 1932 and went on to operate 231 Ju 52s, flying Berlin to Rome in about eight hours. Aero O/Y in Finland, AB Aerotransport in Sweden and Syndicato Condor in Brazil were among the other early operators."
+    },
+    {
+      "code": "Ju 52/3mg3e / g4e",
+      "desc": "The first military version, with 450 delivered in 1934 and 1935. The g3e began with a tailskid and the g4e replaced it with a tailwheel. Twenty g3e aircraft went to the Nationalists in Spain within a week of the civil war starting, where they flew as transports and bombers."
+    },
+    {
+      "code": "Ju 52/3mg5e / g6e / g7e",
+      "desc": "The g7e was the dominant production model, carrying 18 troops or 12 stretchers, with an autopilot and larger doors than earlier versions. The g5e and g6e are listed as variants in the sources checked, but no details were found for them, so they are grouped here with the g7e."
+    },
+    {
+      "code": "Ju 52/3mg8e / g14e",
+      "desc": "The g8e added improved radio and direction-finding equipment. The g14e was the last German production version and carried improved armour. British European Airways flew 11 ex-Luftwaffe g8e aircraft in 1946 and 1947, and the preserved Frankfurt aircraft, 130714, is a g8e. Both versions were built in Germany during the war, when the Luftwaffe took 2,804 Ju 52s between 1939 and 1944."
+    },
+    {
+      "code": "Ju 52/3mde",
+      "desc": "A floatplane version of the trimotor, built for Bolivia and Colombia. Lloyd Aéreo Boliviano took the first airline delivery of the type in 1932, and both Bolivia and Colombia appear among the later operators. Further detail on the numbers or service of the seaplane was not found in the sources checked."
+    },
+    {
+      "code": "Ju 52/3m MS (Minensucher)",
+      "desc": "A mine-clearing conversion fitted with a ring 14 m (46 ft) in diameter that carried an electric current, designed to set off magnetic naval mines. The designation carried an MS suffix and the type was known as the Minensucher, meaning mine-searcher. It was one of several special conversions, alongside a 12-stretcher ambulance version."
+    },
+    {
+      "code": "Amiot AAC.1 Toucan",
+      "desc": "French post-war production by Amiot, with 415 built. Air France and STA flew Toucans in the late 1940s and early 1950s, and the French Air Force used them as bombers in the First Indochina War. They were new-built aircraft and made up most of the 585 Ju 52s completed after 1945."
+    },
+    {
+      "code": "CASA 352 / 352L",
+      "desc": "Spanish licence production, 106 CASA 352 and 64 CASA 352L. The Spanish Air Force called the type Pava and flew it well into the 1970s, with Escuadrón 721 training parachutists. Four preserved CASA aircraft are T.2B-176 in Virginia, T.2B-273 in South Africa, T.2B-165 at Dübendorf and T.2B-148 in Canada."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Luftwaffe",
+      "role": "Main Wartime Transport Operator",
+      "status": "Retired",
+      "since": "1934",
+      "fleetSize": "450 g3e delivered in 1934 and 1935, then 2,804 delivered from 1939 to 1944",
+      "homeBase": "Germany and occupied Europe"
+    },
+    {
+      "name": "Deutsche Luft Hansa",
+      "role": "Original Airline Operator",
+      "status": "Retired",
+      "since": "1932",
+      "fleetSize": "231 over its history",
+      "homeBase": "Berlin"
+    },
+    {
+      "name": "Spanish Nationalists and Spanish Air Force",
+      "role": "Civil War & Post-War Operator",
+      "status": "Retired",
+      "since": "1936",
+      "fleetSize": "20 g3e in 1936, then 106 CASA 352 and 64 CASA 352L built in Spain",
+      "homeBase": "Spain"
+    },
+    {
+      "name": "French Air Force, Air France and STA",
+      "role": "Post-War Toucan Operators",
+      "status": "Retired",
+      "since": "Late 1940s",
+      "fleetSize": "Part of the 415 Amiot Toucans built (split not published)",
+      "homeBase": "France"
+    },
+    {
+      "name": "Swiss Air Force",
+      "role": "Military Operator",
+      "status": "Retired",
+      "since": "1939",
+      "fleetSize": "Three remained at the end of service in 1982 (peak fleet not published)",
+      "homeBase": "Switzerland"
+    },
+    {
+      "name": "Ju-Air",
+      "role": "Sightseeing Operator",
+      "status": "Retired",
+      "since": "1982",
+      "fleetSize": "Fleet not published; HB-HOT lost in 2018 and the other Swiss aircraft grounded",
+      "homeBase": "Dübendorf, Switzerland"
+    },
+    {
+      "name": "British European Airways",
+      "role": "Post-War Airline Operator",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "11 ex-Luftwaffe Ju 52/3mg8e",
+      "homeBase": "United Kingdom"
+    },
+    {
+      "name": "Portuguese Air Force",
+      "role": "Paratroop Operator",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "Not published",
+      "homeBase": "Portugal"
+    },
+    {
+      "name": "Other air forces and airlines",
+      "role": "Smaller Operators",
+      "status": "Retired",
+      "since": "1932",
+      "fleetSize": "Fleet sizes not published. Air forces: Yugoslavia, Norway, Bulgaria, Argentina, Brazil, Peru, Colombia, Ecuador, Bolivia, Chile. Airlines: Lloyd Aéreo Boliviano, Aero O/Y, AB Aerotransport, Syndicato Condor, Canadian Airways",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "JU52",
+    "howToFind": "Search type JU52. Only a few airworthy aircraft exist, in France, South Africa and the United States, so sightings are rare. The Swiss aircraft that flew with Ju-Air have been grounded since 2018."
+  },
+  "lastUpdated": "2026-10-28",
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "change": "Added the Junkers Ju 52, covering the airliner and wartime transport years, the post-war Toucan and CASA builds, the surviving aircraft and the 2018 Ju-Air crash.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "junkers ju 52",
+    "ju 52",
+    "ju-52",
+    "ju 52/3m",
+    "tante ju",
+    "iron annie",
+    "trimotor",
+    "amiot toucan",
+    "casa 352",
+    "ju-air",
+    "junkers"
+  ],
+  "article": {
+    "overview": [
+      "The Junkers Ju 52 is a German three-engine transport and airliner built by Junkers from the early 1930s. Ernst Zindel designed it at Dessau, the single-engine Ju 52/1m flew on 13 October 1930 and the three-engine Ju 52/3m first flew on 7 March 1932. About 4,845 were built, with the last German-built aircraft delivered in 1944 and licence production continuing in France and Spain after the war. {{ref:wikipedia}}",
+      "It flew as a Deutsche Luft Hansa airliner, as the Luftwaffe's main transport in the Second World War and with air forces from Europe to South America into the 1980s. Germans called it Tante Ju, meaning Aunt Junkers, and English-speaking crews called it Iron Annie. {{ref:wikipedia}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Design",
+        "paragraphs": [
+          "Design work began in 1925 and prototype work started in 1928 at the Junkers works in Dessau, where Ernst Zindel led the design. The single-engine Ju 52/1m flew on 13 October 1930 and was judged underpowered, so production moved to three engines. The trimotor Ju 52/3m first flew on 7 March 1932. {{ref:wikipedia}}",
+          "The airframe used corrugated duralumin skin, which stiffened the structure but added drag. The low cantilever wing carried a Doppelflügel, or double wing, arrangement of inner flaps and outer ailerons, and the main undercarriage was fixed and divided. Early aircraft had a tailskid, later replaced by a tailwheel. Engines varied by customer: the original used Pratt & Whitney Hornets, main production used BMW 132 radials, and export aircraft took Pratt & Whitney Wasps or Bristol Pegasus VI engines. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Airline Service",
+        "paragraphs": [
+          "The first airline delivery went to Lloyd Aéreo Boliviano in 1932, and Deutsche Luft Hansa took its first in May of that year. Luft Hansa eventually operated 231 Ju 52s and flew Berlin to Rome in about eight hours. Aero O/Y of Finland, AB Aerotransport of Sweden and Syndicato Condor of Brazil were among the other early operators. {{ref:wikipedia}}",
+          "The airliner carried 17 passengers in a cabin with a volume of 17 cubic metres. Floatplane versions were built for Bolivia and Colombia, and Canadian Airways flew a single-engine Ju 52/1m, CF-ARM, known as the Flying Boxcar. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Spain and Early Combat",
+        "paragraphs": [
+          "Twenty Ju 52/3m g3e aircraft reached the Nationalists within a week of the Spanish Civil War starting in July 1936. From 20 July to late August, Ju 52s flew 461 transport flights and carried 7,350 troops. {{ref:wikipedia}}",
+          "The type also served as a bomber and took part in the bombing of Guernica. By the end of the war the Ju 52s had logged 13,000 operational hours. The g3e was the first military version, with 450 delivered in 1934 and 1935, and Ju 52s were used as bombers again during the bombing of Warsaw in 1939. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "The Second World War",
+        "paragraphs": [
+          "The Luftwaffe took 2,804 Ju 52s between 1939 and 1944. In Norway in 1940 the type flew 3,018 sorties, 1,830 of them carrying troops, and about 150 aircraft were lost. In the Netherlands, 125 were lost and 47 damaged in the opening days, mostly to Dutch anti-aircraft fire. {{ref:wikipedia}}",
+          "On Crete in 1941, 493 Ju 52/3m carried most of the 22,750 troops, 170 aircraft were lost, and the losses ended German paratrooper operations. Between 24 November 1942 and 31 January 1943, 266 Ju 52s were among the 488 aircraft lost supplying Stalingrad. On 18 April 1943, the 'Palm Sunday Massacre', 24 were shot down over Tunisia. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Special Roles",
+        "paragraphs": [
+          "The g7e became the dominant production model, carrying 18 troops or 12 stretchers, with an autopilot and larger doors. The ambulance version carried 12 stretchers. The Minensucher conversion carried a ring 14 m (46 ft) in diameter that carried an electric current to trigger magnetic naval mines. {{ref:wikipedia}}",
+          "Hitler's personal aircraft was a Ju 52, Immelmann II (D-2600). A Focke-Wulf Fw 200 Condor replaced it in September 1939, though the Ju 52 stayed on as a backup. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Post-War Service & Survivors",
+        "paragraphs": [
+          "Production continued after 1945, with 585 more built: 415 Amiot AAC.1 Toucans in France, 106 CASA 352s and 64 CASA 352Ls in Spain. Air France and STA flew Toucans into the early 1950s, the French Air Force used them as bombers in the First Indochina War, and Spain's Pavas flew until well into the 1970s. {{ref:wikipedia}}",
+          "Switzerland flew the type from 1939 to 1982 and Portugal used it from 1956 for paratroop drops in Angola. Ju-Air began sightseeing flights with Swiss Ju 52s in 1982, and its HB-HOT crashed near Piz Segnas on 4 August 2018 with 20 killed. The Swiss final report in January 2021 cited high-risk flying, poorly maintained engines and a centre of gravity beyond its rear limit. Airworthy examples remain in France, South Africa and the United States. {{ref:wikipedia}} {{ref:crash}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Junkers Ju 52",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Junkers_Ju_52"
+    },
+    {
+      "id": "crash",
+      "name": "2018 Ju-Air Junkers Ju 52 crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2018_Ju-Air_Junkers_Ju_52_crash"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Junkers Ju 52 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Junkers_Ju_52"
+    },
+    {
+      "name": "2018 Ju-Air Junkers Ju 52 crash - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2018_Ju-Air_Junkers_Ju_52_crash"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1942-11-24",
+      "title": "Stalingrad airlift losses begin",
+      "tag": "Combat losses",
+      "summary": "Between 24 November 1942 and 31 January 1943, 266 Ju 52s were among the 488 aircraft lost supplying the encircled German forces at Stalingrad.",
+      "source": "https://en.wikipedia.org/wiki/Junkers_Ju_52"
+    },
+    {
+      "date": "1943-04-18",
+      "title": "Palm Sunday Massacre over Tunisia",
+      "tag": "Shot down",
+      "summary": "On 18 April 1943, during the Tunisian campaign, 24 Ju 52s were shot down in a single day.",
+      "source": "https://en.wikipedia.org/wiki/Junkers_Ju_52"
+    },
+    {
+      "date": "2018-08-04",
+      "title": "Ju-Air HB-HOT crashes at Piz Segnas",
+      "tag": "Loss of control",
+      "summary": "HB-HOT, a Ju 52/3mg4e flying from Locarno to Dübendorf under visual flight rules, crashed near Piz Segnas in the Glarus Alps with 3 crew and 17 passengers aboard. The Swiss final report of 28 January 2021 found high-risk flying at low altitude and low airspeed, a centre of gravity beyond the rear limit and engines that were not producing rated power. The authority later withdrew the licences of the other Swiss Ju 52s.",
+      "fatalities": 20,
+      "source": "https://en.wikipedia.org/wiki/2018_Ju-Air_Junkers_Ju_52_crash"
+    }
+  ],
+  "survivors": {
+    "intro": "A selection of the surviving Ju 52s is listed here, taken from a single source, so it is not a complete census. Several are airworthy, and many more sit in museums in Germany, including Dessau, Speyer and Sinsheim.",
+    "airframes": [
+      {
+        "serial": "T.2B-212",
+        "name": null,
+        "location": "Amicale Jean-Baptiste Salis",
+        "place": "Cerny, France",
+        "note": "Ju 52/3m, airworthy.",
+        "countryCode": "fr",
+        "country": "France"
+      },
+      {
+        "serial": "T.2B-273",
+        "name": null,
+        "location": "Germiston",
+        "place": "Germiston, South Africa",
+        "note": "CASA 352L, airworthy.",
+        "countryCode": "za",
+        "country": "South Africa"
+      },
+      {
+        "serial": "T.2B-176",
+        "name": null,
+        "location": "Military Aviation Museum",
+        "place": "Virginia Beach, Virginia, United States",
+        "note": "CASA 352L, airworthy.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "A-701 and A-703",
+        "name": null,
+        "location": "Ju-Air",
+        "place": "Dübendorf, Switzerland",
+        "note": "Two Ju 52/3mg4e under restoration to airworthy condition.",
+        "countryCode": "ch",
+        "country": "Switzerland"
+      },
+      {
+        "serial": "T.2B-165",
+        "name": null,
+        "location": "Dübendorf",
+        "place": "Dübendorf, Switzerland",
+        "note": "CASA 352L under restoration.",
+        "countryCode": "ch",
+        "country": "Switzerland"
+      },
+      {
+        "serial": "130714",
+        "name": null,
+        "location": "Lufthansa Group Hangar One",
+        "place": "Frankfurt, Germany",
+        "note": "Ju 52/3mg8e on static display.",
+        "countryCode": "de",
+        "country": "Germany"
+      },
+      {
+        "serial": "T.2B-148",
+        "name": null,
+        "location": "Royal Aviation Museum of Western Canada",
+        "place": "Winnipeg, Manitoba, Canada",
+        "note": "CASA 352L converted to resemble a Ju 52/1m.",
+        "countryCode": "ca",
+        "country": "Canada"
+      }
+    ]
+  }
+}

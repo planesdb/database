@@ -1,0 +1,345 @@
+{
+  "name": "An-2 Colt",
+  "fullName": "Antonov An-2",
+  "manufacturer": "Antonov",
+  "originCountry": {
+    "name": "Ukraine",
+    "code": "ua"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Utility Biplane",
+  "tagline": "The Antonov An-2 is a single-engine Soviet utility biplane that first flew on 31 August 1947. More than 18,000 were built in the Soviet Union, Poland and China, and it can take off in about 170 m (560 ft) carrying 12 passengers or 2,140 kg (4,718 lb) of cargo.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "The An-2's 45-year production run was at one point the longest of any aircraft, until the C-130 passed it.",
+    "Its typical takeoff run is about 170 m (560 ft), and its leading-edge slats extend at about 64 km/h (40 mph).",
+    "Stolen An-2s were flown into apartment buildings in Voroshilovgrad in 1972 and in Novosibirsk in 1976.",
+    "An An-2ZA weather-research version set a class altitude record of 11,248 m (36,903 ft) on 9 June 1954.",
+    "Azerbaijan flew unmanned An-2s in the 2020 Nagorno-Karabakh war, and at least 11 were destroyed.",
+    "The ASh-62 radial burns 185 to 200 litres of fuel an hour, and the aircraft cruises at only 118 mph (190 km/h)."
+  ],
+  "faq": [],
+  "specifications": {
+    "specificationsNote": "Figures are for the standard An-2 with the ASh-62IR radial engine; the turboprop An-3 and An-2-100 differ. Production totals vary by source: 18,000 is the commonly quoted minimum, and counts for Poland run from about 11,900 to more than 13,000. The cost is an average of four asking prices for piston An-2s seen in October 2026 on GlobalPlaneSearch and Aerogurus, which ranged from about $73,000 to $335,000. Projects, a turbine amphibian conversion and the newer-design TR-301 were left out. The listings do not state airworthiness, the sample is small, and no new price was found.",
+    "maxSpeed": {
+      "mph": 160,
+      "text": "139 kn (160 mph / 258 km/h)"
+    },
+    "cruiseSpeed": "118 mph (190 km/h)",
+    "range": {
+      "miles": 525,
+      "text": "525 mi (845 km, 456 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 14764,
+      "text": "14,764 ft (4,500 m)"
+    },
+    "wingspan": {
+      "ft": 59.75,
+      "text": "59 ft 9 in (18.2 m) upper wing; 46 ft 7 in (14.2 m) lower wing"
+    },
+    "length": {
+      "ft": 40.67,
+      "text": "40 ft 8 in (12.4 m)"
+    },
+    "height": {
+      "ft": 13.42,
+      "text": "13 ft 5 in (4.1 m)"
+    },
+    "weight": "empty: 7,275 lb (3,300 kg); MTOW: 11,993 lb (5,440 kg)",
+    "engines": "1 x Shvetsov ASh-62IR nine-cylinder radial, 1,000 hp (750 kW), driving a four-blade constant-speed propeller",
+    "crew": "1 to 2",
+    "capacity": "12 passengers or 2,140 kg (4,718 lb) of cargo",
+    "firstFlight": {
+      "date": "1947-08-31",
+      "year": 1947
+    },
+    "serviceEntryDate": "1949-01-01",
+    "retiredDate": null,
+    "numberBuilt": 18000,
+    "unitCost": {
+      "usd": 155000,
+      "text": "Reported: ~$155,000 average second-hand asking price (unconfirmed)",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "An-2T / An-2P / An-2S",
+      "desc": "The An-2T is the standard cargo and mail model, the An-2P carries passengers and the An-2S is an air ambulance with up to six stretchers. The type's usual load is 12 passengers or 2,140 kg of cargo, which the second prototype's ASh-62 engine made possible when it raised the payload from 1,300 kg."
+    },
+    {
+      "code": "An-2SKh / An-2M / An-2TD / An-2V",
+      "desc": "Role-specific versions: the An-2SKh crop sprayer and duster, the An-2M with a larger hopper built at the Dolgoprudny factory from 1965, the An-2TD with 12 paratrooper seats and the An-2V floatplane. Agricultural work was the type's original purpose under the 1946 requirement."
+    },
+    {
+      "code": "An-2ZA (An-6 Meteo)",
+      "desc": "A high-altitude weather research version, also called the An-6 Meteo. On 9 June 1954 it set a class altitude record of 11,248 m (36,903 ft), more than twice the 4,500 m (14,764 ft) service ceiling of the standard An-2. The record came only seven years after the prototype's first flight."
+    },
+    {
+      "code": "An-3 / An-2-100 / TVS-2MS",
+      "desc": "Turboprop conversions of the airframe. The An-3T went into production in 1993 at Omsk by converting surplus An-2s, and the An-2-100 first flew on 10 July 2013 with a 1,100 kW MS-14 turboprop. The SibNIA TVS-2MS entered Russian forest-protection service in 2014, with 16 in service by early 2017."
+    },
+    {
+      "code": "Y-5 (China)",
+      "desc": "The Chinese licence-built version, produced at Nanchang and later Shijiazhuang after China licensed the design in 1957. The Nanchang Y-5 reached 727 aircraft, the Y-5II 229 and the Shijiazhuang Y-5A 114, and further Y-5 variants followed, including two Y-5K VIP aircraft for Nepal's Royal Flight."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Aeroflot",
+      "role": "Largest Civil Operator (historical)",
+      "status": "Retired",
+      "since": "Soviet era",
+      "fleetSize": "Large fleet, total not published",
+      "homeBase": "Soviet Union"
+    },
+    {
+      "name": "Russia (civil and state operators)",
+      "role": "Largest Current Fleet",
+      "status": "In Service",
+      "since": "Soviet era",
+      "fleetSize": "1,500+ (2015)",
+      "homeBase": "Russia, including Siberia"
+    },
+    {
+      "name": "Kazakhstan (civil operators)",
+      "role": "Civil Operators",
+      "status": "In Service",
+      "since": "Soviet era",
+      "fleetSize": "294 (2015)",
+      "homeBase": "Kazakhstan"
+    },
+    {
+      "name": "Ukraine",
+      "role": "Civil Operators and Ukrainian Air Force",
+      "status": "In Service",
+      "since": "Soviet era",
+      "fleetSize": "54 (2015)",
+      "homeBase": "Ukraine"
+    },
+    {
+      "name": "Korean People's Army Air Force",
+      "role": "Transport and Special Forces Insertion",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "North Korea"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Aggressor Squadrons",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "South Korea"
+    },
+    {
+      "name": "Croatian Air Force",
+      "role": "Improvised Bomber and Supply Aircraft (historical)",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "Converted crop-sprayers, number not published",
+      "homeBase": "Croatia"
+    },
+    {
+      "name": "Other air forces and civil operators worldwide",
+      "role": "Combined Operators",
+      "status": "In Service",
+      "since": "1949",
+      "fleetSize": "About 47 countries have operated the type in total",
+      "homeBase": "Eastern Europe, Africa, Asia and the Americas"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "AN2",
+    "howToFind": "Filter for type AN2. Sightings are most likely over Russia and Eastern Europe, where the largest fleets operate."
+  },
+  "lastUpdated": "2026-10-25",
+  "changelog": [
+    {
+      "date": "2026-10-25",
+      "change": "Added the Antonov An-2 with its variants, operators, accident record and a second-hand price.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "An-2",
+    "An-2 Colt",
+    "Colt",
+    "Antonov",
+    "Annushka",
+    "biplane",
+    "Y-5",
+    "Nanchang Y-5",
+    "PZL Mielec",
+    "An-3",
+    "An-2-100",
+    "crop duster",
+    "utility aircraft",
+    "STOL"
+  ],
+  "article": {
+    "overview": [
+      "The Antonov An-2, known to NATO as Colt, is a single-engine utility biplane designed by Oleg Antonov's design bureau in the Soviet Union for crop dusting, forestry, light cargo and passenger work. It first flew on 31 August 1947, and more than 18,000 were built in the Soviet Union, Poland and China. {{ref:wiki-an2}} {{ref:migflug-an2}}",
+      "Its 45-year production run was at one point the longest of any aircraft, according to Guinness, until the C-130 passed it. The An-2 is still flown in Russia, Kazakhstan, Ukraine and many other countries, and about 47 countries have operated it in civil and military roles. {{ref:wiki-an2}} {{ref:migflug-an2}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The requirement dates from 1946, when a Soviet ministry asked for a small utility aircraft to replace the Polikarpov Po-2 on crop-dusting, light cargo, ambulance and survey work in areas without roads. Antonov's bureau, then based in Novosibirsk, chose a biplane at a time when monoplanes were the trend. {{ref:wiki-an2}} {{ref:migflug-an2}}",
+          "The prototype, designated SKh-1, flew on 31 August 1947 from Yeltsovka airfield in the Novosibirsk region with an ASh-21 engine. A second prototype with an ASh-62 engine raised the payload from 1,300 kg to 2,140 kg, and that version went into production. {{ref:wiki-an2}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The An-2 is a biplane with a 59 ft 9 in (18.2 m) upper wing and a 46 ft 7 in (14.2 m) lower wing. Leading-edge slats extend at about 64 km/h (40 mph), and after a power failure the aircraft can descend at roughly 40 km/h forward speed. Approach speed is about 80 km/h, and typical takeoff and landing runs are about 170 m (560 ft) and 215 m (705 ft). {{ref:wiki-an2}} {{ref:migflug-an2}}",
+          "Power comes from one nine-cylinder Shvetsov ASh-62IR radial of 1,000 hp driving a four-blade constant-speed propeller, and it burns 185 to 200 litres of fuel per hour. Maximum speed is 160 mph (258 km/h), cruise is 118 mph (190 km/h) and range is 525 mi (845 km). {{ref:wiki-an2}}"
+        ]
+      },
+      {
+        "heading": "Production & Variants",
+        "paragraphs": [
+          "Soviet production began at the state factory in Kyiv in 1949 and reached up to 5,000 aircraft there by 1960. Production then moved to WSK Mielec in Poland, which built most of the remaining aircraft, with counts ranging from about 11,900 to more than 13,000 depending on the source. China licensed the design in 1957 and built it as the Y-5 at Nanchang and later Shijiazhuang. Limited assembly from spare stocks continued until 2001, including four aircraft for Vietnam. {{ref:wiki-an2}} {{ref:migflug-an2}}",
+          "Variants include the An-2T cargo model, the An-2S ambulance with up to six stretchers, the An-2SKh crop sprayer, the An-2TD with 12 paratroop seats and the An-2V floatplane. The An-2ZA weather-research version set a class altitude record of 11,248 m (36,903 ft) on 9 June 1954. Turboprop conversions include the An-3, produced as the An-3T from 1993 at Omsk, the An-2-100, which first flew on 10 July 2013 with a 1,100 kW MS-14 turboprop, and the SibNIA TVS-2MS, which entered Russian forest-protection service in 2014 with 16 in service by early 2017. {{ref:wiki-an2}}"
+        ]
+      },
+      {
+        "heading": "Civil Service",
+        "paragraphs": [
+          "Aeroflot flew a large fleet of An-2s on local services, and Estonia used the type on island services between Kuressaare and Kaerdla. Former Aeroflot aircraft found work with regional operators in Africa, Central and South America, Cuba and Southeast Asia. {{ref:wiki-an2}}",
+          "Civil operators have used it for crop dusting, parachute training, freight and bush transport. On 6 May 2016 an An-2 made a forced landing in a residential area of San Bernardino, California, after water contaminated its fuel system, and nobody was injured. On 14 November 2022 one seized by US Customs and Border Protection overturned in the Everglades during a forced landing, and both pilots survived. {{ref:wiki-an2}} {{ref:migflug-an2}}"
+        ]
+      },
+      {
+        "heading": "Military Service",
+        "paragraphs": [
+          "The An-2 has served with the Soviet Air Force and Warsaw Pact air forces, mainly for transport and paratroop training. North Korea has used it to infiltrate special forces, the Republic of Korea Air Force flies it in aggressor squadrons, and the Ukrainian Air Force and the 10th Naval Aviation Brigade of Ukrainian Naval Aviation also operate it. Its low speed and low radar signature are reported to make it hard to intercept. {{ref:wiki-an2}} {{ref:migflug-an2}}",
+          "On 12 January 1968 four North Vietnamese An-2s approached the US radar site at Lima Site 85 in Laos, and the two that attacked dropped 120 mm mortar shells through the floor and fired rockets from wing pods. Ground fire crashed one into a mountainside, and an Air America helicopter crew shot down the other with an AK-47. In 1991 the Croatian Air Force converted crop-sprayers to drop improvised bombs, and one was shot down over Vinkovci on 2 December 1991 by an SA-6 missile. In the 2020 Nagorno-Karabakh war Azerbaijan flew unmanned An-2s, and at least 11 were destroyed. {{ref:wiki-lima}} {{ref:wiki-an2}}"
+        ]
+      },
+      {
+        "heading": "Current Status & Outlook",
+        "paragraphs": [
+          "As of 2015 Russia had more than 1,500 An-2s in operation, Kazakhstan 294 and Ukraine 54. Russian An-2s were seen at Seshcha Air Base near the Ukrainian border on 2 March 2022, and a serviceable example can cost as little as US$30,000. {{ref:wiki-an2}}",
+          "In September 2024 Vladimir Putin ordered the UZGA LMS-901 Baikal into production to replace the An-2, with engine certification expected in 2025 and deliveries in 2026. The SibNIA TVS-2-DT, a composite-structure version, first flew on 10 June 2015, and production at Ulan-Ude was planned for a requirement of at least 200 aircraft from 2021 to 2025. {{ref:wiki-an2}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-an2",
+      "name": "Antonov An-2",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "id": "migflug-an2",
+      "name": "The Antonov An-2: 79 Years of Soviet Biplane That Refuses to Die",
+      "publisher": "MiGFlug",
+      "url": "https://migflug.com/afterburner/the-antonov-an-2-79-years-of-soviet-biplane-that-refuses-to-die/"
+    },
+    {
+      "id": "wiki-lima",
+      "name": "Battle of Lima Site 85",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lima_Site_85"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Antonov An-2, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "name": "Battle of Lima Site 85, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lima_Site_85"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1968-01-12",
+      "title": "An-2s attack Lima Site 85",
+      "tag": "Combat",
+      "summary": "Two North Vietnamese An-2s attacked the US radar site at Lima Site 85 in Laos with mortar shells and rockets. One crashed into a mountainside after ground fire, and an Air America helicopter crew shot down the other with an AK-47.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Lima_Site_85"
+    },
+    {
+      "date": "1972-03-27",
+      "title": "Stolen An-2 hits apartment building in Voroshilovgrad",
+      "tag": "Stolen aircraft",
+      "summary": "Timofei Shovkunov flew a stolen An-2 into an apartment building in Voroshilovgrad. He was the only casualty.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "date": "1976-09-26",
+      "title": "Stolen An-2 hits apartment stairwell in Novosibirsk",
+      "tag": "Stolen aircraft",
+      "summary": "Vladimir Serkov crashed a stolen An-2 into an apartment stairwell in Novosibirsk. The fire killed three children at the scene and a fourth eight days later, and injured 11 residents.",
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "date": "1991-12-02",
+      "title": "Croatian An-2 shot down over Vinkovci",
+      "tag": "Shot down",
+      "summary": "A Croatian Air Force An-2 was shot down over Vinkovci by an SA-6 missile.",
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "date": "2009-02-11",
+      "title": "Engine power loss near Pskov",
+      "tag": "Forced landing",
+      "summary": "An An-2 lost engine power near Pskov and made a forced landing in woodland. All three crew and ten paratroopers survived.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "date": "2016-05-06",
+      "title": "Forced landing in San Bernardino",
+      "tag": "Forced landing",
+      "summary": "An An-2 made a forced landing in a residential area of San Bernardino, California, after water contaminated its fuel system. Nobody was injured.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "date": "2018-07-27",
+      "title": "Crash on takeoff near Kamako",
+      "tag": "Takeoff accident",
+      "summary": "An An-2 crashed on takeoff near Kamako and five of the seven occupants were killed.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "date": "2022-11-14",
+      "title": "Forced landing in the Everglades",
+      "tag": "Forced landing",
+      "summary": "An An-2 seized by US Customs and Border Protection overturned during a forced landing in the Everglades. Both pilots survived.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "date": "2024-10-25",
+      "title": "An-2 hits tuk tuk while landing",
+      "tag": "Landing accident",
+      "summary": "An An-2 hit a tuk tuk while landing. Four people in the tuk tuk were killed and eight were injured, and the three crew were uninjured.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    },
+    {
+      "date": "2025-08-16",
+      "title": "Air Kasai An-2 crashes near Kisangani",
+      "tag": "Crash",
+      "summary": "An Air Kasai An-2 crashed near Kisangani in the Democratic Republic of the Congo, killing all seven people aboard.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Antonov_An-2"
+    }
+  ]
+}

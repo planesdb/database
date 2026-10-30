@@ -1,0 +1,250 @@
+{
+  "name": "Boeing 314 Clipper",
+  "fullName": "Boeing 314 / 314A Clipper",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Transoceanic Flying Boat Airliner",
+  "tagline": "The Boeing 314 Clipper is an American long-range flying boat airliner built for Pan American Airways, with a wing taken from the cancelled XB-15 bomber. Twelve were built from 1938 to 1941, six Model 314 and six Model 314A, and they carried passengers across both the Atlantic and the Pacific until the last one flew in January 1948.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Pan Am paid an average of $668,908 for each early Model 314 when a Douglas DC-3 cost $115,000.",
+    "The wing came from the cancelled XB-15 bomber, with the span lengthened from 149 ft to 152 ft.",
+    "Boeing delivered the first aircraft 13 months late after directional instability forced a rework of the tail, and the three-fin layout became the production configuration.",
+    "In January 1943 President Roosevelt flew most of the way to the Casablanca Conference in the Dixie Clipper, the first flight by a sitting US president.",
+    "After the Pacific war began in December 1941 the Pacific Clipper flew west around the world, covering over 31,500 miles before reaching LaGuardia Field on 6 January 1942.",
+    "None of the twelve survived beyond 1951, so there is no preserved airframe, only a life-size mock-up at the Foynes Flying Boat Museum in Ireland."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the 314A. Pan Am paid $800,000 for each 314A, and the cost shown is the earlier $668,908 average for the Model 314 adjusted with US CPI-U (September 2026 index of 336.940 against 13.9 for 1939). No service ceiling was found in the sources checked.",
+    "maxSpeed": {
+      "mph": 210,
+      "text": "182 kn (210 mph / 340 km/h) at 6,200 ft"
+    },
+    "cruiseSpeed": "188 mph (303 km/h) at 11,000 ft, at 66.5 percent power",
+    "range": {
+      "miles": 3685,
+      "text": "3,685 mi (5,930 km)"
+    },
+    "wingspan": {
+      "ft": 152,
+      "text": "152 ft (46 m)"
+    },
+    "length": {
+      "ft": 106,
+      "text": "106 ft (32 m)"
+    },
+    "height": {
+      "ft": 20.38,
+      "text": "20 ft 4.5 in (6.21 m)"
+    },
+    "weight": "empty: 48,400 lb (21,954 kg); MTOW: 84,000 lb (38,102 kg)",
+    "engines": "4 x Wright GR-2600-A2A Double Cyclone 14-cylinder radial engines, 1,600 hp each, driving 14 ft 10 in (4.5 m) three-bladed Hamilton Standard Hydromatic propellers",
+    "crew": "10, rising to 16 on long ocean flights, split into two shifts",
+    "capacity": "68 passengers by day or 36 in sleeping berths, plus up to 5 short tons of mail and cargo. Fuel capacity was 5,408 US gal (20,470 l) in the wing and sponson tanks.",
+    "firstFlight": {
+      "date": "1938-06-07",
+      "year": 1938
+    },
+    "serviceEntryDate": "1939-03-29",
+    "retiredDate": "1948-01-27",
+    "numberBuilt": 12,
+    "unitCost": {
+      "usd": 16200000,
+      "text": "$16.2M in 2026 dollars (CPI-adjusted, 1939 average price paid by Pan Am)",
+      "inflationText": "Originally $668,908 (1939)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Model 314",
+      "desc": "The first six aircraft, with four Wright GR-2600-A2 engines of 1,550 hp and 14 ft propellers. The first, NC18602 California Clipper, was delivered on 27 January 1939 and the last of the six on 16 June 1939. Fuel capacity started at 4,246 US gallons, and the later increase to 5,448 gallons was retrofitted to these aircraft."
+    },
+    {
+      "code": "Model 314A",
+      "desc": "The second batch of six, ordered two days before Pan Am's option expired on 1 October 1939. It had 1,600 hp engines with larger propellers, a gross weight of 84,000 lb, the hull step moved aft to reduce porpoising, a revised interior and no recessed nose steps. Each cost Pan Am $800,000."
+    },
+    {
+      "code": "BOAC 314A",
+      "desc": "Three 314As bought by the British Overseas Airways Corporation in August 1940 for $1,035,400 each, at cost plus 5 percent, with 12 spare engines and 19 propellers. They were named Bristol, Berwick and Bangor and flew the transatlantic and Bermuda routes, and the sale was politically controversial."
+    },
+    {
+      "code": "B-314 / C-98",
+      "desc": "Military designations used after the War Department requisitioned the fleet on 14 December 1941 and leased it back to Pan Am for one dollar each. The US Navy used the designation B-314 for five aircraft and the US Army Air Forces used C-98 for four. Pan Am crews kept flying them on the wartime routes."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Pan American World Airways",
+      "role": "Original Operator",
+      "status": "Retired",
+      "since": "1939",
+      "fleetSize": "9 aircraft (6 Model 314 and 3 Model 314A)",
+      "homeBase": "San Francisco for the Pacific and New York for the Atlantic"
+    },
+    {
+      "name": "British Overseas Airways Corporation",
+      "role": "Wartime Transatlantic Operator",
+      "status": "Retired",
+      "since": "1940",
+      "fleetSize": "3 Model 314A (Bristol, Berwick, Bangor)",
+      "homeBase": "United Kingdom"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Wartime Military Operator",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "5 aircraft designated B-314",
+      "homeBase": "United States"
+    },
+    {
+      "name": "United States Army Air Forces",
+      "role": "Wartime Military Operator",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "4 aircraft designated C-98",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Universal Airlines, American International Airways and World Airways",
+      "role": "Post-War Charter Operators",
+      "status": "Retired",
+      "since": "1946",
+      "fleetSize": "Former Pan Am aircraft sold for $325,000 in total in 1946, then $500,000 in 1947, then to World Airways in 1948",
+      "homeBase": "United States"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No Boeing 314 survives, so none will appear on Flightradar24. The last one to fly was Bristol on 27 January 1948, and all twelve had been scrapped, scuttled or written off by 1951."
+  },
+  "lastUpdated": "2026-10-28",
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "change": "New entry for the Boeing 314 and 314A Clipper, with the Pan Am and BOAC fleets, the wartime flights and what happened to all twelve aircraft.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "boeing 314",
+    "314a",
+    "boeing 314 clipper",
+    "clipper",
+    "pan am",
+    "flying boat",
+    "dixie clipper",
+    "yankee clipper",
+    "pacific clipper",
+    "boac",
+    "c-98",
+    "b-314"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing 314 Clipper is an American long-range flying boat built by Boeing from 1938 to 1941 for Pan American Airways. It could cross both the Atlantic and the Pacific, and twelve were built: six Model 314 and six Model 314A. Nine served with Pan Am and three were sold to the British Overseas Airways Corporation. {{ref:wikipedia}}",
+      "The design reused the wing of the XB-15 bomber, and Pan Am used the aircraft on scheduled services from 1939 until April 1946. The last 314 to fly was Bristol on 27 January 1948, and none survived beyond 1951. {{ref:wikipedia}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "In 1935 Pan American sought a transoceanic flying boat with double the payload of its Martin M-130. On 28 February 1936 it asked five manufacturers for proposals, with a range of at least 2,400 miles, a payload of 10,000 lb and a cruise speed of 150 mph at 10,000 ft. Boeing first declined, then engineer Wellwood Beall proposed a design based on the wing of the cancelled XB-15, widened and lengthened from 149 ft to 152 ft in span. {{ref:wikipedia}}",
+          "Pan Am awarded a $4.8 million contract for six aircraft on 21 July 1936, with an option on six more, and the first delivery was due by 21 December 1937. Boeing missed the date by 13 months. Development problems included directional instability, which twin fins did not cure, and the three-fin layout became the production configuration. The first production aircraft, NX-18601, made the first flight on 7 June 1938 and served as the test aircraft, and the Civil Aeronautics Board approved it on 26 January 1939. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Design & Interior",
+        "paragraphs": [
+          "The 314 was a high-wing, all-metal flying boat with a cantilevered wing and no external bracing struts. The wing was built in five sections, with watertight outer ends that gave flotation. Sponsons on the lower hull, in the style of Dornier flying boats, provided stability on the water, served as boarding platforms and added lift in flight, and two of their five compartments were fuel tanks. The hull had only two full-height watertight bulkheads. {{ref:wikipedia}}",
+          "The cabin had five standard passenger compartments, a deluxe bridal suite, a dining lounge, a galley and separate dressing rooms for men and women. A compartment seated 10 or slept 6, and the aircraft carried 68 passengers by day or 36 at night. The dining lounge seated 11 by day and 14 at five tables for formal evening meals, with linen, crystal and full waiter service. A round trip from New York to Southampton cost $675, and a one-way ticket from San Francisco to Hong Kong cost $760. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Pan Am Service",
+        "paragraphs": [
+          "California Clipper, the first delivered aircraft, flew from Lake Washington to Astoria, Oregon, on 27 January 1939, where it was delivered to avoid a Washington state tax. It opened San Francisco to Hong Kong service by departing on 23 February 1939, and regular passenger and mail service began on 29 March 1939. Yankee Clipper began transatlantic service with its first trip on 24 June 1939. {{ref:wikipedia}}",
+          "Pan Am exercised its option for six more aircraft two days before it expired on 1 October 1939. The 314A had more powerful engines, larger propellers and more fuel, and it cost $800,000 against an average of $668,908 for the earlier aircraft. The engines were the first in commercial service to run on 100-octane gasoline, and between June 1939 and June 1941 crews made 431 in-flight engine repairs, mostly for fouled spark plugs. {{ref:wikipedia}} {{ref:in2013dollars}} {{ref:bls}}"
+        ]
+      },
+      {
+        "heading": "Wartime Service",
+        "paragraphs": [
+          "The War Department requisitioned the fleet on 14 December 1941 and leased it back to Pan Am for one dollar each. From December 1941 to 31 October 1944 Pan Am's 314s flew 9.9 million miles and carried 72,621 passengers on 1,299 Pacific flights and 1,595 Atlantic crossings. When the Pacific war began, Pacific Clipper was on its way to New Zealand, flew west, and reached LaGuardia Field on 6 January 1942 after more than 31,500 miles. {{ref:wikipedia}}",
+          "In January 1942 Winston Churchill flew from Washington to England in the BOAC 314A Berwick, becoming the first head of government to cross the Atlantic by air. In January 1943 President Franklin Roosevelt flew most of the way to and from the Casablanca Conference in the Dixie Clipper, the first flight by a sitting US president. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Losses & Retirement",
+        "paragraphs": [
+          "Three 314s were lost in accidents. Yankee Clipper crashed while landing at Lisbon on 22 February 1943, killing 24 of the 39 aboard, among them the war correspondent Ben Robertson. Honolulu Clipper was sunk by gunfire on 14 November 1945 after a collision damaged it, and Bermuda Sky Queen, the former Cape Town Clipper, ditched out of fuel about 500 miles east of Gander on 14 October 1947 with everyone rescued. {{ref:wikipedia}}",
+          "Pan Am's last scheduled 314 service was on 8 and 9 April 1946, and the War Assets Administration offered the aircraft at $50,000 each, which Pan Am declined. They went to Universal Airlines for $325,000 in total, then to American International Airways in 1947 for $500,000 and to World Airways in 1948. Bristol made the last flight on 27 January 1948 and broke from its moorings in a storm at Baltimore on 7 April 1951. Every aircraft was cannibalised, scuttled, scrapped or written off. {{ref:wikipedia}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Boeing 314 Clipper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_314_Clipper"
+    },
+    {
+      "id": "in2013dollars",
+      "name": "Value of $668,908 from 1939 in 2026 dollars",
+      "publisher": "in2013dollars.com",
+      "url": "https://www.in2013dollars.com/us/inflation/1939?amount=668908"
+    },
+    {
+      "id": "bls",
+      "name": "Consumer Price Index news release",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing 314 Clipper - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_314_Clipper"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1943-02-22",
+      "title": "Yankee Clipper crashes landing at Lisbon",
+      "tag": "Landing accident",
+      "summary": "Yankee Clipper crashed while landing at Lisbon, Portugal. Of the 39 people aboard, 24 were killed, among them the war correspondent Ben Robertson, and the singer Jane Froman was seriously injured. It was the only 314 loss with fatalities.",
+      "fatalities": 24,
+      "source": "https://en.wikipedia.org/wiki/Boeing_314_Clipper"
+    },
+    {
+      "date": "1945-11-14",
+      "title": "Honolulu Clipper sunk after losing engines and a collision",
+      "tag": "Engine failure",
+      "summary": "Honolulu Clipper lost two engines about 650 miles east of Oahu in November 1945 and landed safely at sea. It was later damaged in a collision with the tender San Pablo and was sunk by gunfire on 14 November 1945.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_314_Clipper"
+    },
+    {
+      "date": "1947-10-14",
+      "title": "Bermuda Sky Queen ditches out of fuel",
+      "tag": "Fuel exhaustion",
+      "summary": "Bermuda Sky Queen, formerly Cape Town Clipper, ran out of fuel and ditched about 500 miles east of Gander. All passengers and crew were rescued, and the Coast Guard later sank the wreck.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Boeing_314_Clipper"
+    },
+    {
+      "date": "1951-04-07",
+      "title": "Bristol breaks loose and sinks at Baltimore",
+      "tag": "Storm damage",
+      "summary": "The former BOAC Bristol broke free from its moorings in a storm and sank in Baltimore Harbor. It was raised and scrapped.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_314_Clipper"
+    }
+  ]
+}
