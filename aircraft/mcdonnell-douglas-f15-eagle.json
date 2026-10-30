@@ -24,7 +24,8 @@
     "In April 2024, F-15Es were credited with destroying more than 70 Iranian one-way attack drones headed for Israel in a single night.",
     "On 3 April 2026 an F-15E was shot down over Iran by a shoulder-fired missile - the first F-15 family loss to enemy fire in 35 years - triggering a rescue involving over 150 aircraft and the first acknowledged US ground presence inside Iran since 1980.",
     "The F-15EX Eagle II, first delivered in 2021, can carry up to 12 air-to-air missiles - more than any other US fighter.",
-    "The F-15E airframe is rated for 16,000 flight hours, roughly double the design life of the original F-15C."
+    "The F-15E airframe is rated for 16,000 flight hours, roughly double the design life of the original F-15C.",
+    "An F-15A made history on 13th September 1985 by becoming the first aircraft to shoot down a satellite."
   ],
   "specifications": {
     "specificationsNote": "",
@@ -377,6 +378,11 @@
     {
       "date": "2026-07-31",
       "change": "Cut some padding from the article sections. Facts and sources unchanged.",
+      "author": "d4nny6"
+    },
+    {
+      "date": "2026-10-30",
+      "change": "Added a fact about the F-15 shooting down a satellite. Tip came from Instagram user 'jeff__walton'",
       "author": "d4nny6"
     }
   ],
