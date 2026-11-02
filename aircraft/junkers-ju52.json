@@ -183,11 +183,16 @@
     "icaoTypeCode": "JU52",
     "howToFind": "Search type JU52. Only a few airworthy aircraft exist, in France, South Africa and the United States, so sightings are rare. The Swiss aircraft that flew with Ju-Air have been grounded since 2018."
   },
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-11-01",
   "changelog": [
     {
       "date": "2026-10-28",
       "change": "Added the Junkers Ju 52, covering the airliner and wartime transport years, the post-war Toucan and CASA builds, the surviving aircraft and the 2018 Ju-Air crash.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added more on Norway, The Hague and the Tunisian airlift losses, the Tatsinskaya raid, Hitler's 1932 campaign flights and the last flight out of Tempelhof.",
       "author": "planesdb"
     }
   ],
@@ -220,22 +225,22 @@
       {
         "heading": "Airline Service",
         "paragraphs": [
-          "The first airline delivery went to Lloyd Aéreo Boliviano in 1932, and Deutsche Luft Hansa took its first in May of that year. Luft Hansa eventually operated 231 Ju 52s and flew Berlin to Rome in about eight hours. Aero O/Y of Finland, AB Aerotransport of Sweden and Syndicato Condor of Brazil were among the other early operators. {{ref:wikipedia}}",
+          "The first airline delivery went to Lloyd Aéreo Boliviano in 1932, and Deutsche Luft Hansa took its first in May of that year. Luft Hansa eventually operated 231 Ju 52s and flew Berlin to Rome in about eight hours. Aero O/Y of Finland, AB Aerotransport of Sweden and Syndicato Condor of Brazil were among the other early operators. {{ref:wikipedia}} Hitler flew in a Luft Hansa Ju 52 during the 1932 election campaign, and the London to Berlin service was often flown by the type. {{ref:wikipedia}}",
           "The airliner carried 17 passengers in a cabin with a volume of 17 cubic metres. Floatplane versions were built for Bolivia and Colombia, and Canadian Airways flew a single-engine Ju 52/1m, CF-ARM, known as the Flying Boxcar. {{ref:wikipedia}}"
         ]
       },
       {
         "heading": "Spain and Early Combat",
         "paragraphs": [
-          "Twenty Ju 52/3m g3e aircraft reached the Nationalists within a week of the Spanish Civil War starting in July 1936. From 20 July to late August, Ju 52s flew 461 transport flights and carried 7,350 troops. {{ref:wikipedia}}",
-          "The type also served as a bomber and took part in the bombing of Guernica. By the end of the war the Ju 52s had logged 13,000 operational hours. The g3e was the first military version, with 450 delivered in 1934 and 1935, and Ju 52s were used as bombers again during the bombing of Warsaw in 1939. {{ref:wikipedia}}"
+          "Twenty Ju 52/3m g3e aircraft reached the Nationalists within a week of the Spanish Civil War starting in July 1936. From 20 July to late August, Ju 52s flew 461 transport flights and carried 7,350 troops. {{ref:wikipedia}} Another 5,455 troops were carried in September and 1,157 more by early October. {{ref:wikipedia}}",
+          "The type also served as a bomber and took part in the bombing of Guernica. By the end of the war the Ju 52s had logged 13,000 operational hours. The g3e was the first military version, with 450 delivered in 1934 and 1935, and Ju 52s were used as bombers again during the bombing of Warsaw in 1939. {{ref:wikipedia}} By late 1937 the type was considered obsolete as a bomber, and its final sortie in Spain was on 26 March 1939. {{ref:wikipedia}}"
         ]
       },
       {
         "heading": "The Second World War",
         "paragraphs": [
-          "The Luftwaffe took 2,804 Ju 52s between 1939 and 1944. In Norway in 1940 the type flew 3,018 sorties, 1,830 of them carrying troops, and about 150 aircraft were lost. In the Netherlands, 125 were lost and 47 damaged in the opening days, mostly to Dutch anti-aircraft fire. {{ref:wikipedia}}",
-          "On Crete in 1941, 493 Ju 52/3m carried most of the 22,750 troops, 170 aircraft were lost, and the losses ended German paratrooper operations. Between 24 November 1942 and 31 January 1943, 266 Ju 52s were among the 488 aircraft lost supplying Stalingrad. On 18 April 1943, the 'Palm Sunday Massacre', 24 were shot down over Tunisia. {{ref:wikipedia}}"
+          "The Luftwaffe took 2,804 Ju 52s between 1939 and 1944. On 9 April 1940, 52 Ju 52s of KG 1 carried paratroopers and infantry to Aalborg in Denmark, and over the Norwegian campaign the type flew 3,018 sorties, 1,830 of them carrying troops, moved 29,280 people and 2,376 tons of supplies, and lost about 150 aircraft. {{ref:wikipedia}} In the Netherlands, 125 were lost and 47 damaged in the opening days, mostly to Dutch anti-aircraft fire. At The Hague on 10 May 1940 the landings included Ypenburg airport, where transports came under machine-gun fire and many were damaged or destroyed on landing, which blocked the aircraft arriving after them. Four Dutch Fokker T.V bombers destroyed idle Ju 52s at Ockenburg, and the unfinished strip at Valkenburg left many transports landing on nearby beaches, where Dutch aircraft and shelling from the ship HNLMS Van Galen destroyed them. The article on the battle puts German transport losses at 182, mostly Ju 52s, and Albert Kesselring later said the aircraft shortage contributed to the Luftwaffe's defeat in the Battle of Britain and to heavy casualties on Crete. {{ref:hague}}",
+          "On Crete in 1941, 493 Ju 52/3m carried most of the 22,750 troops, 170 aircraft were lost, and the losses ended German paratrooper operations. Between 24 November 1942 and 31 January 1943, 266 Ju 52s were among the 488 aircraft lost supplying Stalingrad. {{ref:wikipedia}} Tatsinskaya airfield, a hub of that airlift with 170 operational transport aircraft, was overrun by the Soviet 24th Tank Corps under Major General Vasily Badanov on 24 December 1942, and German estimates put 72 aircraft destroyed with about 100 escaping. {{ref:tatsinskaya}} In Operation Flax, Allied aircraft destroyed 11 Ju 52s near Cap Bon on 5 April 1943, leaving 29 flyable, and over the next two weeks more than 140 aircraft were lost. On 18 April 1943, the Palm Sunday Massacre, 24 were shot down and 35 more crash-landed in Sicily. {{ref:wikipedia}}"
         ]
       },
       {
@@ -249,7 +254,7 @@
         "heading": "Post-War Service & Survivors",
         "paragraphs": [
           "Production continued after 1945, with 585 more built: 415 Amiot AAC.1 Toucans in France, 106 CASA 352s and 64 CASA 352Ls in Spain. Air France and STA flew Toucans into the early 1950s, the French Air Force used them as bombers in the First Indochina War, and Spain's Pavas flew until well into the 1970s. {{ref:wikipedia}}",
-          "Switzerland flew the type from 1939 to 1982 and Portugal used it from 1956 for paratroop drops in Angola. Ju-Air began sightseeing flights with Swiss Ju 52s in 1982, and its HB-HOT crashed near Piz Segnas on 4 August 2018 with 20 killed. The Swiss final report in January 2021 cited high-risk flying, poorly maintained engines and a centre of gravity beyond its rear limit. Airworthy examples remain in France, South Africa and the United States. {{ref:wikipedia}} {{ref:crash}}"
+          "Switzerland flew the type from 1939 to 1982 and Portugal used it from 1956 for paratroop drops in Angola. Ju-Air began sightseeing flights with Swiss Ju 52s in 1982, and its HB-HOT crashed near Piz Segnas on 4 August 2018 with 20 killed. The Swiss final report in January 2021 cited high-risk flying, poorly maintained engines and a centre of gravity beyond its rear limit. Airworthy examples remain in France, South Africa and the United States. {{ref:wikipedia}} {{ref:crash}} Three Swiss Air Force aircraft were still airworthy when the air force retired the type in 1982. A Ju 52 and a DC-3 were the last aircraft to take off from Berlin Tempelhof before it closed on 30 October 2008. {{ref:wikipedia}}"
         ]
       }
     ]
@@ -266,6 +271,18 @@
       "name": "2018 Ju-Air Junkers Ju 52 crash",
       "publisher": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/2018_Ju-Air_Junkers_Ju_52_crash"
+    },
+    {
+      "id": "hague",
+      "name": "Battle of the Hague (1940)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Hague_(1940)"
+    },
+    {
+      "id": "tatsinskaya",
+      "name": "Tatsinskaya Raid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tatsinskaya_Raid"
     }
   ],
   "furtherReading": [

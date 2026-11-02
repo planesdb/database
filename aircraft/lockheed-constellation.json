@@ -172,11 +172,16 @@
     "icaoTypeCode": "CONI",
     "howToFind": "Three Constellations are airworthy, including the Breitling Super Constellation HB-RSC based at Basel, the HARS aircraft VH-EAG in Australia and the Lewis Air Legends VC-121A Bataan. Sightings are rare and tend to be on airshow days, and the ICAO type code is given here from the Aviation Safety Network listing and not confirmed against Flightradar24."
   },
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-11-01",
   "changelog": [
     {
       "date": "2026-10-28",
       "change": "New entry for the Lockheed Constellation family - L-049 through the L-1649A Starliner and the C-121 and EC-121 military versions - with operators, records and accident record.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added Hughes and Frye's 1944 record flight with Orville Wright, the 1957 long-range flights, Eisenhower's Columbines, and fuller accounts of the Grand Canyon collision and the 1969 EC-121 shootdown.",
       "author": "planesdb"
     }
   ],
@@ -207,8 +212,8 @@
       {
         "heading": "Origins & Howard Hughes",
         "paragraphs": [
-          "Lockheed had worked on the L-044 Excalibur since 1937. In 1939 TWA, at the urging of its major stockholder Howard Hughes, asked for a 40-passenger transcontinental airliner with a range of 3,500 miles, and that request led to the L-049. Hughes ordered 40 through the Hughes Tool Company on 10 July 1940, then the largest airline order, and Kelly Johnson and Hall Hibbard were among the designers. {{ref:wikipedia}} {{ref:l049}} {{ref:in2013dollars}}",
-          "The prototype first flew on 9 January 1943 from Burbank to Muroc Field, with Eddie Allen in the left seat on loan from Boeing and Milo Burcham as copilot. The USAAF wanted 202 C-69s, but only 22 were built before the war ended and the rest of the order was cancelled in 1945. {{ref:wikipedia}}"
+          "Lockheed had worked on the L-044 Excalibur since 1937. In 1939 TWA, at the urging of its major stockholder Howard Hughes, asked for a 40-passenger transcontinental airliner with a range of 3,500 miles, and that request led to the L-049. Hughes ordered 40 through the Hughes Tool Company on 10 July 1940, then the largest airline order, and Kelly Johnson and Hall Hibbard were among the designers. {{ref:wikipedia}} {{ref:l049}} {{ref:in2013dollars}} How far Hughes shaped the design is disputed. Anthony Sampson argues that he influenced the concept and look of the aircraft, while Kelly Johnson disputed that, and Hughes and Frye denied it in a letter of November 1941. {{ref:wikipedia}}",
+          "The prototype first flew on 9 January 1943 from Burbank to Muroc Field, with Eddie Allen in the left seat on loan from Boeing and Milo Burcham as copilot. The USAAF wanted 202 C-69s, but only 22 were built before the war ended and the rest of the order was cancelled in 1945. {{ref:wikipedia}} On 17 April 1944 Hughes and TWA president Jack Frye flew the second production C-69 from Burbank to Washington, about 2,300 miles, in 6 hours 57 minutes at an average of about 331 mph. On the way back they stopped at Wright Field in Ohio so that Orville Wright could take his last flight, and he remarked that the Constellation's wingspan was longer than his first flight. {{ref:wikipedia}}"
         ]
       },
       {
@@ -221,22 +226,22 @@
       {
         "heading": "The Airline Years",
         "paragraphs": [
-          "TWA received the first civil aircraft in 1945 and began transatlantic service from New York to Paris in February 1946. Pan Am opened the first scheduled round-the-world service on 17 June 1947 with its L-749 Clipper America. Eastern Air Lines holds a New York to Washington record of just over 30 minutes from takeoff to touchdown, set before FAA speed limits applied below 10,000 ft. {{ref:wikipedia}}",
-          "The Super Constellation, with a longer fuselage, went to Eastern, TWA, Air France, KLM, Qantas, Trans-Canada, Lufthansa and others, and Cubana was the first Latin American airline to operate it. The L-1649A Starliner followed with 44 built, and in 1957 TWA's Starliner set the longest nonstop piston-airliner passenger flight record from Los Angeles to London. {{ref:wikipedia}} {{ref:airvectors}}"
+          "TWA received the first civil aircraft in 1945 and flew its first transatlantic proving flight from Washington to Paris via Gander and Shannon on 3 and 4 December 1945. Scheduled service from New York to Paris began on 6 February 1946. Pan Am opened the first scheduled round-the-world service on 17 June 1947 with its L-749 Clipper America, and the Pan Am 1 flight kept operating until 1982. Eastern Air Lines holds a New York to Washington record of just over 30 minutes from takeoff to touchdown, set before FAA speed limits applied below 10,000 ft. {{ref:wikipedia}}",
+          "The Super Constellation, with a longer fuselage, went to Eastern, TWA, Air France, KLM, Qantas, Trans-Canada, Lufthansa and others, and Cubana was the first Latin American airline to operate it. The L-1649A Starliner followed with 44 built, and on 29 September 1957 a TWA L-1649A flew from Los Angeles to London in 18 hours 32 minutes, about 5,420 miles, the longest nonstop passenger flight by a piston airliner. The first TWA flight from London to San Francisco, on 1 and 2 October 1957, took 23 hours 19 minutes. {{ref:wikipedia}} {{ref:airvectors}}"
         ]
       },
       {
         "heading": "Military Service",
         "paragraphs": [
           "The Navy and Air Force flew the type as the C-121, R7V and WV-2, and the WV-2 radar picket became the EC-121 Warning Star. Warning Stars patrolled the Tonkin Gulf during the Vietnam War, and from summer 1967 they carried the QRC-248 IFF transponder to help tell North Vietnamese MiGs from friendly aircraft. {{ref:airvectors}}",
-          "On 15 April 1969 a Navy EC-121M on patrol over the Sea of Japan was shot down by North Korean MiG-21s with the loss of all 31 aboard, the only combat loss of a US Super Constellation. Eisenhower used three Constellations as his personal aircraft, including the VC-121A Columbine II, 48-0610, and the VC-121E Columbine III, 53-7885. {{ref:airvectors}} {{ref:wikipedia}}"
+          "On 15 April 1969 a Navy EC-121M of VQ-1, call sign Deep Sea 129, flew a Beggar Shadow signals intelligence mission from Atsugi with orders to stay at least 50 nautical miles from the North Korean coast. It vanished from radar about 90 nautical miles out after two North Korean MiG-21s took off from near Wonsan, and all 31 aboard, 30 sailors and a Marine, were killed in the largest single loss of US aircrew in the Cold War era and the only combat loss of a US Super Constellation. Nixon ordered no direct retaliation, reconnaissance flights resumed within a week, and Task Force 71, with the carriers Enterprise, Ticonderoga, Ranger and Hornet and the battleship New Jersey, was formed to protect them. {{ref:ec121}} Eisenhower used three Constellations as his personal aircraft. Columbine II, 48-0610, was the first Air Force One and was replaced by Columbine III, 53-7885, in 1954, and the earlier Columbine, 48-0614, served when he commanded SHAPE before becoming president. Columbine III has been on display at the National Museum of the USAF since it retired in 1966, and Columbine is at the Pima Air & Space Museum on loan. {{ref:airvectors}} {{ref:wikipedia}}"
         ]
       },
       {
         "heading": "Losses",
         "paragraphs": [
           "The accident record includes the 11 July 1946 TWA training crash near Reading, which killed five of six crew and led to a six-week grounding and over 95 changes to the aircraft. Pan Am Flight 121, Clipper Eclipse, suffered an engine failure and then a fire and crashed in the Syrian desert near Mayadin on 19 June 1947, killing 15. {{ref:airvectors}} {{ref:l049}}",
-          "Heavy losses followed as the fleet grew. A TWA aircraft crashed near Wadi Natrun on 31 August 1950 with 55 killed, a Panair do Brasil aircraft crashed near Porto Alegre on 28 July 1950 with 51 killed, and an Air France aircraft hit a mountain on São Miguel in the Azores on 28 October 1949 with 48 killed. {{ref:asn}}"
+          "Heavy losses followed as the fleet grew. A TWA aircraft crashed near Wadi Natrun on 31 August 1950 with 55 killed, a Panair do Brasil aircraft crashed near Porto Alegre on 28 July 1950 with 51 killed, and an Air France aircraft hit a mountain on São Miguel in the Azores on 28 October 1949 with 48 killed. {{ref:asn}} The worst Constellation collision came on 30 June 1956, when TWA Flight 2, the Super Constellation Star of the Seine, and United Flight 718, a DC-7, collided over the Grand Canyon and killed all 128 aboard. Captain Jack Gandy of TWA 2 asked to climb to 21,000 ft to clear thunderstorms, air traffic control could not provide the separation, and it approved a clearance to fly 1,000 ft on top of the cloud, which left the crews to see and avoid each other. Both aircraft were off the airways when they collided at 10:32 am, the DC-7's left wing struck the Constellation's tail, and the Constellation fell into the canyon near Temple Butte. Neither carried a cockpit voice or flight recorder and the airspace had no radar. The Civil Aeronautics Board report of 17 April 1957 blamed the crews for not seeing each other in time, with inadequate traffic advisories contributing, Congress funded air traffic control modernisation that year, and the Federal Aviation Act of 1958 created the Federal Aviation Agency. The crash site was declared a National Historic Landmark on 22 April 2014. {{ref:grandcanyon}}"
         ]
       },
       {
@@ -278,6 +283,18 @@
       "name": "Value of $425,000 from 1940 in 2026 dollars",
       "publisher": "in2013dollars.com",
       "url": "https://www.in2013dollars.com/us/inflation/1940?amount=425000"
+    },
+    {
+      "id": "grandcanyon",
+      "name": "1956 Grand Canyon mid-air collision",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1956_Grand_Canyon_mid-air_collision"
+    },
+    {
+      "id": "ec121",
+      "name": "1969 EC-121 shootdown incident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1969_EC-121_shootdown_incident"
     }
   ],
   "furtherReading": [
@@ -337,7 +354,7 @@
       "tag": "Mid-air collision",
       "summary": "A TWA Super Constellation collided with a United Air Lines DC-7 over the Grand Canyon. The listing gives 70 killed on the TWA aircraft and 58 on the United aircraft.",
       "fatalities": 128,
-      "source": "https://aviation-safety.net/asndb/type/CONI"
+      "source": "https://en.wikipedia.org/wiki/1956_Grand_Canyon_mid-air_collision"
     },
     {
       "date": "1969-04-15",
@@ -345,7 +362,7 @@
       "tag": "Shot down",
       "summary": "A Navy EC-121M on patrol over the Sea of Japan was shot down by North Korean MiG-21s. All 31 aboard were killed, the only combat loss of a US Super Constellation.",
       "fatalities": 31,
-      "source": "https://airvectors.net/avconnie.html"
+      "source": "https://en.wikipedia.org/wiki/1969_EC-121_shootdown_incident"
     }
   ]
 }

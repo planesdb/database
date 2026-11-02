@@ -146,11 +146,16 @@
     "icaoTypeCode": "N/A",
     "howToFind": "One C-97G, 52-2718 Angel of Deliverance, is airworthy with the Berlin Airlift Historical Foundation, painted as YC-97A 45-59595. It flies rarely and no verified Flightradar24 type code was found for it, so sightings are best tracked through the foundation's own announcements."
   },
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-11-01",
   "changelog": [
     {
       "date": "2026-10-28",
       "change": "Added the Boeing C-97 Stratofreighter and KC-97 tanker - history, variants, operators, six preserved aircraft and the accident record.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added the history of the Angel of Deliverance and the 1957 Hilo emergency landing, and corrected the survivors paragraph.",
       "author": "planesdb"
     }
   ],
@@ -191,7 +196,7 @@
       {
         "heading": "Service History",
         "paragraphs": [
-          "A YC-97A, 45-59595, flew in the Berlin Airlift in April 1949 and had a landing gear accident at Gatow, and it was repaired after the blockade ended. In Korea C-97Cs, designated MC-97C, evacuated casualties, and the type served in Vietnam. Some Strategic Air Command C-97s were used as airborne command posts. {{ref:wikipedia}}",
+          "A YC-97A, 45-59595, flew with the 1st Strategic Support Squadron in the Berlin Airlift in April 1949 and had a landing gear accident at Gatow, and it was repaired after the blockade ended. In Korea C-97Cs, designated MC-97C, evacuated casualties, and the type served in Vietnam. Some Strategic Air Command C-97s were used as airborne command posts. {{ref:wikipedia}}",
           "In the late 1960s C-97s flew relief missions into Uli airstrip at night and at treetop level during the Biafran airlift, and at least two were lost. The Israeli Air Force adapted Stratocruisers and KC-97s when the C-130 was unavailable, and on 17 September 1971 an Israeli C-97 serving as an electronic countermeasures platform about 12 miles from the Suez Canal was shot down by an Egyptian SA-2 missile. From 1967 Air National Guard and Air Force Reserve tankers supported USAF and NATO units in Europe for ten years under Operation Creek Party. {{ref:wikipedia}} {{ref:nmusaf}}"
         ]
       },
@@ -205,8 +210,8 @@
       {
         "heading": "Losses & Survivors",
         "paragraphs": [
-          "Several C-97s were lost in the 1950s. A C-97A disappeared between Lajes Field and Westover on 15 October 1951 with 11 crew, and a C-97C disappeared over the Pacific on the way to Tokyo on 22 March 1957 with 67 aboard, the deadliest C-97 loss. On 30 July 1987 a Belize Air International C-97G crashed on the Mexico City to Toluca highway after its cargo shifted, killing 5 of the 12 aboard and 44 people on the ground. {{ref:wikipedia}}",
-          "Six preserved aircraft are listed here. 52-2718 Angel of Deliverance is an airworthy C-97G flown by the Berlin Airlift Historical Foundation, 52-2626 is at the Pima Air & Space Museum in Tucson, and 52-2630 is a KC-97L at the National Museum of the US Air Force. A C-97K is displayed at the Israeli Air Force Museum at Hatzerim. {{ref:wikipedia}} {{ref:nmusaf}}"
+          "Several C-97s were lost in the 1950s. A C-97A disappeared between Lajes Field and Westover on 15 October 1951 with 11 crew, and a C-97C disappeared over the Pacific on the way to Tokyo on 22 March 1957 with 67 aboard, the deadliest C-97 loss. On 8 August 1957 a C-97 lost a propeller, which damaged another engine, and flew about five hours at 150 ft to land at Hilo, Hawaii. A C-97A vanished between Honolulu and Kwajalein with seven crew on 19 January 1958, and debris found 277 miles southwest of Honolulu was later confirmed as wreckage. On 29 June 1964 an HC-97G and an HC-54D collided off Bermuda while doing pararescue training and photography for the NASA Gemini programme, and 17 people died and seven survived. On 30 July 1987 a Belize Air International C-97G crashed on the Mexico City to Toluca highway after its cargo shifted, killing 5 of the 12 aboard and 44 people on the ground. {{ref:wikipedia}}",
+          "Six preserved aircraft are listed here. The best known, 52-2718 Angel of Deliverance, was delivered to the USAF in 1954 as a KC-97G and flew with Strategic Air Command units at Lincoln, Altus, Malmstrom and Plattsburgh. It moved to the Air National Guard in Milwaukee in August 1964 and to Salt Lake City in September 1972, where it deployed to Rhein-Main for Operation Creek Party, and it went to storage at Davis-Monthan in September 1976. It was bought at auction in 1986 and converted to a C-97G cargo aircraft, then seized by the US Marshals Service in 1988 and sold to Grace Aire, which flew humanitarian cargo to South America and fish in Alaska. The Berlin Airlift Historical Foundation bought it on 22 April 1996, flew it to Greybull, Wyoming, in October 1998 and painted it in 2000 as YC-97A 45-59595, the only C-97 used in the Berlin Airlift. It flew again on 7 November 2017 after 15 years on the ground, and since 2019 it has been parked at the Mid-Atlantic Air Museum in Reading, Pennsylvania, waiting for an engine and an inspection. The foundation owns four C-97s and bought a complete C-97G at Greybull in 2021 as a source of parts. {{ref:warbird}}{{ref:avgeekery}} Other survivors are 52-2626 at the Pima Air & Space Museum in Tucson, the KC-97L 52-2630 at the National Museum of the US Air Force, which flew with the Ohio Air National Guard in Operation Creek Party and was named Zeppelinheim by that town's mayor on 7 June 1973 and a C-97K at the Israeli Air Force Museum at Hatzerim. {{ref:wikipedia}}{{ref:nmusaf}}"
         ]
       }
     ]
@@ -223,6 +228,18 @@
       "name": "Boeing KC-97L Stratofreighter",
       "publisher": "National Museum of the United States Air Force",
       "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196737/boeing-kc-97l-stratofreighter/"
+    },
+    {
+      "id": "warbird",
+      "name": "KC-97 Stratotanker 52-2718 Angel of Deliverance",
+      "publisher": "Warbird Registry",
+      "url": "https://warbirdregistry.org/c97registry/c97-522718.html"
+    },
+    {
+      "id": "avgeekery",
+      "name": "From Near Extinction to Flight: The C-97 Stratofreighter's Remarkable Comeback Story",
+      "publisher": "AvGeekery",
+      "url": "https://avgeekery.com/rare-c-97-stratofreighter-takes-to-the-skies/"
     }
   ],
   "furtherReading": [
@@ -300,7 +317,7 @@
         "name": "Angel of Deliverance",
         "location": "Berlin Airlift Historical Foundation",
         "place": "United States",
-        "note": "Airworthy C-97G, painted as YC-97A 45-59595 of the Berlin Airlift.",
+        "note": "Flew again on 7 November 2017 after 15 years on the ground and is parked at the Mid-Atlantic Air Museum awaiting an engine and inspection. Painted as YC-97A 45-59595 of the Berlin Airlift.",
         "countryCode": "us",
         "country": "United States"
       },

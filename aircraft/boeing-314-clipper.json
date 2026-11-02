@@ -124,11 +124,16 @@
     "icaoTypeCode": "N/A",
     "howToFind": "No Boeing 314 survives, so none will appear on Flightradar24. The last one to fly was Bristol on 27 January 1948, and all twelve had been scrapped, scuttled or written off by 1951."
   },
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-11-01",
   "changelog": [
     {
       "date": "2026-10-28",
       "change": "New entry for the Boeing 314 and 314A Clipper, with the Pan Am and BOAC fleets, the wartime flights and what happened to all twelve aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added the Pacific Clipper's flight home, the Honolulu Clipper's last days and details of the crew and meals on board.",
       "author": "planesdb"
     }
   ],
@@ -163,28 +168,28 @@
         "heading": "Design & Interior",
         "paragraphs": [
           "The 314 was a high-wing, all-metal flying boat with a cantilevered wing and no external bracing struts. The wing was built in five sections, with watertight outer ends that gave flotation. Sponsons on the lower hull, in the style of Dornier flying boats, provided stability on the water, served as boarding platforms and added lift in flight, and two of their five compartments were fuel tanks. The hull had only two full-height watertight bulkheads. {{ref:wikipedia}}",
-          "The cabin had five standard passenger compartments, a deluxe bridal suite, a dining lounge, a galley and separate dressing rooms for men and women. A compartment seated 10 or slept 6, and the aircraft carried 68 passengers by day or 36 at night. The dining lounge seated 11 by day and 14 at five tables for formal evening meals, with linen, crystal and full waiter service. A round trip from New York to Southampton cost $675, and a one-way ticket from San Francisco to Hong Kong cost $760. {{ref:wikipedia}}"
+          "The cabin had five standard passenger compartments, a deluxe bridal suite, a dining lounge, a galley and separate dressing rooms for men and women. A compartment seated 10 or slept 6, and the aircraft carried 68 passengers by day or 36 at night. The dining lounge seated 11 by day and 14 at five tables for formal evening meals, with linen, crystal and full waiter service. A round trip from New York to Southampton cost $675, and a one-way ticket from San Francisco to Hong Kong cost $760. {{ref:wikipedia}} A normal crew numbered 10, rising to as many as 16 on long ocean flights, split into two shifts, and the stewards were always men. The galleys were staffed by chefs from four-star hotels and the meals ran to five or six courses with silver service. Later aircraft allowed 77 lb of free baggage, and excess weight cost $3.25 a pound. {{ref:wikipedia}}"
         ]
       },
       {
         "heading": "Pan Am Service",
         "paragraphs": [
-          "California Clipper, the first delivered aircraft, flew from Lake Washington to Astoria, Oregon, on 27 January 1939, where it was delivered to avoid a Washington state tax. It opened San Francisco to Hong Kong service by departing on 23 February 1939, and regular passenger and mail service began on 29 March 1939. Yankee Clipper began transatlantic service with its first trip on 24 June 1939. {{ref:wikipedia}}",
+          "California Clipper, the first delivered aircraft, flew from Lake Washington to Astoria, Oregon, on 27 January 1939, where it was delivered to avoid a Washington state tax. It opened San Francisco to Hong Kong service by departing on 23 February 1939, and regular passenger and mail service began on 29 March 1939. Yankee Clipper began transatlantic service with its first trip on 24 June 1939. {{ref:wikipedia}} California Clipper reached Hong Kong on 3 March 1939 after stops at Hawaii, Midway, Wake, Guam, Manila and Macao, a round trip of about 18,000 miles. {{ref:wikipedia}}",
           "Pan Am exercised its option for six more aircraft two days before it expired on 1 October 1939. The 314A had more powerful engines, larger propellers and more fuel, and it cost $800,000 against an average of $668,908 for the earlier aircraft. The engines were the first in commercial service to run on 100-octane gasoline, and between June 1939 and June 1941 crews made 431 in-flight engine repairs, mostly for fouled spark plugs. {{ref:wikipedia}} {{ref:in2013dollars}} {{ref:bls}}"
         ]
       },
       {
         "heading": "Wartime Service",
         "paragraphs": [
-          "The War Department requisitioned the fleet on 14 December 1941 and leased it back to Pan Am for one dollar each. From December 1941 to 31 October 1944 Pan Am's 314s flew 9.9 million miles and carried 72,621 passengers on 1,299 Pacific flights and 1,595 Atlantic crossings. When the Pacific war began, Pacific Clipper was on its way to New Zealand, flew west, and reached LaGuardia Field on 6 January 1942 after more than 31,500 miles. {{ref:wikipedia}}",
-          "In January 1942 Winston Churchill flew from Washington to England in the BOAC 314A Berwick, becoming the first head of government to cross the Atlantic by air. In January 1943 President Franklin Roosevelt flew most of the way to and from the Casablanca Conference in the Dixie Clipper, the first flight by a sitting US president. {{ref:wikipedia}}"
+          "The War Department requisitioned the fleet on 14 December 1941 and leased it back to Pan Am for one dollar each. From December 1941 to 31 October 1944 Pan Am's 314s flew 9.9 million miles and carried 72,621 passengers on 1,299 Pacific flights and 1,595 Atlantic crossings. When the Pacific war began, Pacific Clipper was on its way from San Francisco to New Zealand and was ordered west to New York rather than risk a return to Honolulu. It left Auckland on 8 December 1941, flew via Surabaya, Karachi, Bahrain, Khartoum and Leopoldville, and landed at LaGuardia Field at 7:12 a.m. on 6 January 1942 after more than 31,500 miles. {{ref:wikipedia}}",
+          "In January 1942 Winston Churchill flew from Washington to England in the BOAC 314A Berwick, becoming the first head of government to cross the Atlantic by air. He praised the aircraft highly. In January 1943 President Franklin Roosevelt flew most of the way to and from the Casablanca Conference in the Dixie Clipper, the first flight by a sitting US president. The route ran from Miami through Trinidad, Brazil and the Gambia to Morocco. {{ref:wikipedia}}"
         ]
       },
       {
         "heading": "Losses & Retirement",
         "paragraphs": [
-          "Three 314s were lost in accidents. Yankee Clipper crashed while landing at Lisbon on 22 February 1943, killing 24 of the 39 aboard, among them the war correspondent Ben Robertson. Honolulu Clipper was sunk by gunfire on 14 November 1945 after a collision damaged it, and Bermuda Sky Queen, the former Cape Town Clipper, ditched out of fuel about 500 miles east of Gander on 14 October 1947 with everyone rescued. {{ref:wikipedia}}",
-          "Pan Am's last scheduled 314 service was on 8 and 9 April 1946, and the War Assets Administration offered the aircraft at $50,000 each, which Pan Am declined. They went to Universal Airlines for $325,000 in total, then to American International Airways in 1947 for $500,000 and to World Airways in 1948. Bristol made the last flight on 27 January 1948 and broke from its moorings in a storm at Baltimore on 7 April 1951. Every aircraft was cannibalised, scuttled, scrapped or written off. {{ref:wikipedia}}"
+          "Three 314s were lost in accidents. Yankee Clipper crashed while landing at Lisbon on 22 February 1943, when a wing hit the water in a turn, killing 24 of the 39 aboard, among them the war correspondent Ben Robertson. The singer and actress Jane Froman was seriously injured. Honolulu Clipper, flying for the Navy, lost power in two engines on 3 November 1945 and landed about 650 miles east of Oahu. Mechanics from the escort carrier Manila Bay could not repair it at sea, a tow by the seaplane tender San Pablo ended in a collision that damaged the aircraft, and it was sunk by 20 mm gunfire on 14 November 1945. and Bermuda Sky Queen, the former Cape Town Clipper, ditched out of fuel about 500 miles east of Gander on 14 October 1947 with everyone rescued. {{ref:wikipedia}}",
+          "Pan Am's last scheduled 314 service was on 8 and 9 April 1946, and the War Assets Administration offered the aircraft at $50,000 each, which Pan Am declined. They went to Universal Airlines for $325,000 in total, then to American International Airways in 1947 for $500,000 and to World Airways in 1948. Bristol made the last flight on 27 January 1948 and broke from its moorings in a storm at Baltimore on 7 April 1951. Every aircraft was cannibalised, scuttled, scrapped or written off. {{ref:wikipedia}} Dixie Clipper, the aircraft that took Roosevelt to Casablanca, went to Universal in 1946, American International in 1947 and World Airways in 1948 and was scrapped around 1951. {{ref:wikipedia}}"
         ]
       }
     ]

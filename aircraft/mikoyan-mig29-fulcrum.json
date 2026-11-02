@@ -1,0 +1,415 @@
+{
+  "name": "MiG-29 Fulcrum",
+  "fullName": "Mikoyan MiG-29 (NATO: Fulcrum)",
+  "manufacturer": "Mikoyan",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Twin-Engine Lightweight Air Superiority Fighter",
+  "tagline": "The Mikoyan MiG-29 (NATO: Fulcrum) is a Soviet twin-engine, single-seat air superiority fighter designed to counter the American F-15 Eagle and F-16 Fighting Falcon. It first flew on 6 October 1977, entered Soviet service in 1983, and more than 1,600 were built between 1981 and 2019 for over 30 operators.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "It was the lightweight half of the Soviet PFI requirement, with the heavy half going to Sukhoi as the Su-27.",
+    "US satellites spotted the pre-production aircraft in November 1977, and because the type was unknown in the West it was nicknamed Ram-L.",
+    "The controls are hydraulic, not fly-by-wire, and the early cockpit had no HOTAS and no data link.",
+    "The 4,300 litre internal fuel load of early models restricted them to short-range air defence, and the radar's detection range was a recognised weakness.",
+    "In the 1999 Kosovo campaign six Yugoslav MiG-29s were shot down, four of them by USAF F-15s.",
+    "Germany sold 22 of its 23 remaining MiG-29s to Poland in 2003 for one euro each."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the baseline 9.12 Fulcrum-A and come mainly from one aviation reference, and sources disagree on several values: another gives a length of 17.32 m, a maximum takeoff weight of 18,500 kg and a ceiling of 17,000 m. No flyaway price was found from a source with a stated year. The estimated 728 MiG-29 and MiG-35 aircraft in service in 2026 includes all marks.",
+    "maxSpeed": {
+      "mph": 1491,
+      "text": "1,296 kn (1,491 mph / 2,400 km/h) at altitude"
+    },
+    "range": {
+      "miles": 930,
+      "text": "930 mi (1,500 km) ferry range on internal fuel; 1,300 mi (2,100 km) with a centreline tank"
+    },
+    "serviceCeiling": {
+      "ft": 59100,
+      "text": "59,100 ft (18,000 m)"
+    },
+    "wingspan": {
+      "ft": 37.25,
+      "text": "37 ft 3 in (11.36 m)"
+    },
+    "length": {
+      "ft": 57,
+      "text": "57 ft 0 in (17.37 m)"
+    },
+    "height": {
+      "ft": 15.5,
+      "text": "15 ft 6 in (4.73 m)"
+    },
+    "weight": "empty: 24,250 lb (11,000 kg); MTOW: 39,680 lb (18,000 kg)",
+    "engines": "2 x Klimov RD-33 afterburning turbofans, 11,200 lbf (50 kN) dry and 18,300 lbf (81.3 kN) with afterburner each",
+    "armament": "1 x 30 mm GSh-30-1 cannon in the port wing root, 150 rounds on early models; 6 hardpoints (8 on some variants) for R-27, R-73 and R-60 missiles, fuel tanks, bombs and rockets",
+    "crew": "1 (2 in the MiG-29UB trainer)",
+    "capacity": "Internal fuel of 4,300 litres in the Fulcrum-A and 4,540 litres in the Fulcrum-C. Stressed for up to 9 g.",
+    "firstFlight": {
+      "date": "1977-10-06",
+      "year": 1977
+    },
+    "serviceEntryDate": "1983-08",
+    "retiredDate": null,
+    "numberBuilt": 1600,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no flyaway price with a stated year was found in the sources checked",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "MiG-29A (Fulcrum-A / Fulcrum-C)",
+      "desc": "The original production fighter, with 4,300 litres of internal fuel in the Fulcrum-A and 4,540 litres in the later Fulcrum-C, which has a larger fuselage tank. It has a single GSh-30-1 cannon, six hardpoints and the N019 radar. Early cockpits had no HOTAS and no data link, and the type entered Soviet service in 1983."
+    },
+    {
+      "code": "9-12A / 9-12B",
+      "desc": "Export versions of the Fulcrum-A. The 9-12A went to Warsaw Pact nations and the 9-12B to other customers, and both had less capable avionics and no nuclear capability. Iraq had 37 9.12B aircraft by August 1990, India ordered 40 in 1984 together with four trainers, and Yugoslavia received 14 9.12As and two trainers in 1987 and 1988."
+    },
+    {
+      "code": "MiG-29UB",
+      "desc": "The two-seat trainer, bought alongside most single-seat orders. India's 44-aircraft order of 1984 included four, East Germany bought four of its 24 aircraft in 1988 and 1989, Yugoslavia received two, and Uzbekistan inherited six. Turkmenistan's inherited fleet of 24 also included two trainers, and the MiG-29UB is the version used for conversion training on the type."
+    },
+    {
+      "code": "MiG-29S",
+      "desc": "The improved single-seater, with longer-range R-27E missiles, a dorsal hump holding jamming equipment and extra fuel, and a weapons load of 4,000 kg. It has the N019M Topaz radar in place of the original N019. Peru bought 21 MiG-29S from Belarus in 1996 and three from Russia in 1997."
+    },
+    {
+      "code": "MiG-29K / KUB",
+      "desc": "The carrier-based version, which entered Indian Navy service on 19 February 2010. The Indian Navy flies 36 MiG-29Ks and nine KUB trainers as of 2026, and 15 MiG-29Ks are aboard INS Vikrant. A Russian Navy MiG-29K crashed on 13 November 2016 after running out of fuel, and the pilot ejected and was rescued."
+    },
+    {
+      "code": "MiG-29M / SMT / MiG-35",
+      "desc": "Multirole developments. The MiG-29M has the Zhuk-M planar-array radar, and later models have LCD multifunction displays, HOTAS and port-side probe refuelling. The MiG-35 removed the dorsal louvres in favour of mesh screens. Russia ordered 16 new-build MiG-29SMTs on 15 April 2014 and bought 35 SMT and UBT aircraft that Algeria had rejected."
+    },
+    {
+      "code": "MiG-29UPG / MU2",
+      "desc": "Mid-life upgrades by two operators. India's MiG-29UPG programme covered 69 aircraft under an $888 million deal in 2005 and 2006 and a $960 million deal in 2008, and 65 UPGs were in service in 2026. Ukraine's MiG-29MU2 multirole upgrade had its first delivery in July 2020. Upgrades extended airframe life to 4,000 flight hours."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet and Russian Air Forces",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1983",
+      "fleetSize": "Largest operator; about 100 cleared to fly after the 2009 grounding, with 16 new-build SMTs ordered in 2014 and 35 taken over from Algeria",
+      "homeBase": "Russia"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Inherited Fleet",
+      "status": "In Service",
+      "since": "1991",
+      "fleetSize": "Up to 240 inherited; about 58 in use after 3 Azerbaijani aircraft arrived in 2022",
+      "homeBase": "Ukraine"
+    },
+    {
+      "name": "Indian Air Force and Navy",
+      "role": "Major Export Operator",
+      "status": "In Service",
+      "since": "1987",
+      "fleetSize": "44 ordered in 1984, 20 more in 1989 and 10 in 1994; 65 MiG-29UPG and 10 MiG-29B trainers in 2026, plus Navy 36 MiG-29K and 9 KUB",
+      "homeBase": "India"
+    },
+    {
+      "name": "Polish Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1989",
+      "fleetSize": "12 in 1989 and 1990, 10 from the Czech Republic in 1995 and 1996, 22 from Germany in 2004; 31 active in 2017",
+      "homeBase": "Poland"
+    },
+    {
+      "name": "East German Air Force and Luftwaffe",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "1988",
+      "fleetSize": "24 bought (20 A, 4 UB) in 1988 and 1989; 22 of 23 sold to Poland in 2003",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "Iraqi Air Force",
+      "role": "Former Operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "37 9.12B by August 1990, 12 after the Gulf War, withdrawn in 1995",
+      "homeBase": "Iraq"
+    },
+    {
+      "name": "Syrian Air Arab Force",
+      "role": "Export Operator",
+      "status": "Status not confirmed",
+      "since": "1987",
+      "fleetSize": "First 16 arrived in June or July 1987; up to 48 in the first batches and 16 more in the mid to late 1990s",
+      "homeBase": "Syria"
+    },
+    {
+      "name": "Islamic Republic of Iran Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "At least 24 sold (20 A, 4 UB); an estimated 18 in March 2025",
+      "homeBase": "Iran"
+    },
+    {
+      "name": "Yugoslav and Serbian Air Forces",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1987",
+      "fleetSize": "14 9.12A and 2 UB in 1987 and 1988; Serbia had 14 by 2019 after donations from Russia (6) and Belarus (4)",
+      "homeBase": "Serbia"
+    },
+    {
+      "name": "Peruvian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1996",
+      "fleetSize": "21 MiG-29S from Belarus in 1996 and 3 from Russia in 1997",
+      "homeBase": "Peru"
+    },
+    {
+      "name": "Uzbekistan Air Force",
+      "role": "Inherited Fleet",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "30 single-seaters and 6 trainers inherited; 26 single-seat and 5 two-seat in service in 2026",
+      "homeBase": "Uzbekistan"
+    },
+    {
+      "name": "Other operators",
+      "role": "Smaller Operators",
+      "status": "Mixed",
+      "since": "Not published",
+      "fleetSize": "Over 30 nations in total. Kazakhstan (14 inherited, 22 more ordered in 1995, retired 2023), Turkmenistan (24 inherited), Algeria, Yemen (at least 2), and reports of aircraft flown in Libya in 2020",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "MIG29",
+    "howToFind": "Search type MIG29. Ukrainian, Russian and Iranian aircraft rarely broadcast positions, so the best chances are Polish Air Force MiG-29s on NATO air policing duty and display flights at European airshows."
+  },
+  "changelog": [
+    {
+      "date": "2026-11-01",
+      "change": "Added the MiG-29 Fulcrum - its development from the PFI requirement, variants and upgrades, operators, combat record and the accident list.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added the Farnborough debut, Kvochur's 1989 Paris ejection, the Abbotsford flight and what the Luftwaffe found in its MiG-29s.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "mig-29",
+    "mikoyan mig-29",
+    "fulcrum",
+    "mig29",
+    "mig-35",
+    "mig-29k",
+    "soviet fighter",
+    "mikoyan",
+    "pfi",
+    "9-12"
+  ],
+  "article": {
+    "overview": [
+      "The Mikoyan MiG-29 (NATO: Fulcrum) is a Soviet twin-engine, single-seat air superiority fighter designed to counter the American F-15 Eagle and F-16 Fighting Falcon. It first flew on 6 October 1977, entered Soviet service in 1983, and more than 1,600 were built between 1981 and 2019. {{ref:wikipedia}}",
+      "More than 30 countries have operated the type. An estimated 728 MiG-29 and MiG-35 aircraft were in service in 2026, about 5 percent of active combat aircraft and the sixth largest fleet. {{ref:wikipedia}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "The Soviet General Staff issued the PFI requirement in 1969 and added a lightweight LPFI programme in 1971, with a planned force split of about one third heavy and two thirds lightweight fighters. The heavy fighter went to Sukhoi as the Su-27 and the lightweight fighter went to Mikoyan, which began detailed design of Product 9 in 1974 with TsAGI working with Sukhoi on aerodynamics. {{ref:wikipedia}}",
+          "The first flight was on 6 October 1977 at the Zhukovsky test centre. US satellites spotted the pre-production aircraft in November 1977 and it was nicknamed Ram-L, since the type was unknown in the West. The MiG-29 entered Soviet Air Forces service in 1983 and replaced the MiG-23 in the frontal aviation role in the mid-1980s. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The MiG-29 has a mid-mounted swept wing, leading-edge root extensions swept at about 40 degrees and twin fins on booms outboard of the engines. Two Klimov RD-33 turbofans give 50 kN dry and 81.3 kN with afterburner each, and variable-ramp intakes under the extensions are backed by a dorsal auxiliary inlet with louvres for rough-field operations. The airframe is mainly aluminium with some composites and is stressed for up to 9 g. {{ref:wikipedia}} {{ref:migflug}}",
+          "Controls are hydraulic with an SAU-451 three-axis autopilot, not fly-by-wire, and soft g and alpha limiters can be disabled by the pilot. The Phazotron RLPK-29 system uses the N019 Sapfir-29 pulse-Doppler radar, whose detection and tracking range was a recognised weakness. The original cockpit lacked HOTAS and a data link, and the 4,300 litre internal fuel load of early models restricted them to short-range air defence. {{ref:wikipedia}} {{ref:milavia}}"
+        ]
+      },
+      {
+        "heading": "Variants & Upgrades",
+        "paragraphs": [
+          "The original MiG-29A (Fulcrum-A) was followed by the Fulcrum-C with a larger fuselage tank, and by export 9-12A and 9-12B versions that had less capable avionics and no nuclear capability. The MiG-29S added R-27E missiles, a dorsal hump with jammers and extra fuel, and a 4,000 kg weapons load. {{ref:wikipedia}}",
+          "The MiG-29K carrier version entered Indian Navy service on 19 February 2010, the MiG-29M added the Zhuk-M radar, and the MiG-35 is the most advanced variant. India's MiG-29UPG upgrade covered 69 aircraft under an $888 million deal in 2005 and 2006 and a $960 million deal in 2008, and Ukraine's MiG-29MU2 had its first delivery in July 2020. Upgrades extended airframe life to 4,000 flight hours. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The only claimed Soviet combat service was by the 115th GvIAP at Termez in 1987 and 1988, and the claim of four Su-22s shot down is disputed. In the 1991 Gulf War five Iraqi MiG-29s were shot down by USAF F-15s. In the 1999 Kosovo campaign six Yugoslav MiG-29s were shot down, four by USAF F-15s, one by a USAF F-16 and one by a Dutch F-16, and four more were destroyed on the ground. {{ref:wikipedia}}",
+          "A UN investigation concluded that a Russian MiG-29 or Su-27 shot down a Georgian Hermes 450 drone with an R-73 in 2008. Ten Ukrainian MiG-29s were reported lost early in the 2022 invasion, and the source lists 35 destroyed, four of them on the ground, as of 11 August 2026. India deployed MiG-29s to forward bases in 2025 and has 15 MiG-29Ks aboard INS Vikrant. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Display Flying & Western Encounters",
+        "paragraphs": [
+          "The MiG-29 made its public debut at the Farnborough International Airshow in the UK on 4 September 1988, the first of a series of Soviet aircraft presentations around the world, and it introduced the test pilot Anatoly Kvochur. {{ref:wade}} On 8 June 1989 Kvochur was flying MiG-29 Blue 303 at the Paris Air Show when a bird was ingested by the right engine during a low-speed, high-angle-of-attack manoeuvre and the engine caught fire. He pushed the remaining engine to full afterburner, but at 180 km/h the aircraft was too slow to stay stable on one engine and entered a steep dive. He steered it away from the crowd and ejected 2.5 seconds before impact, landing 30 m from the fireball. The crash was filmed, and the footage later appeared in the 1998 pseudo-documentary World War III. The Zvezda K-36D ejection seat that saved him also saved two MiG-29 pilots after the mid-air collision at the Royal International Air Tattoo in July 1993. {{ref:kvochur}}",
+          "In August 1989 Major Bob Wade, a retired Royal Canadian Air Force CF-18 pilot, flew a MiG-29UB at the Abbotsford International Airshow in British Columbia after about 10 minutes of briefing, with Valery Menitsky in the back seat. He found roll performance comparable to the F/A-18, and the aircraft kept accelerating at the top of a vertical climb, which suggested a better thrust-to-weight ratio than the Hornet. Airspeed varied by only about 20 knots in an 8 g turn, he rated it roughly equal to a Hornet in a dogfight, and he noted that its 30 mm gun outranged the Hornet's 20 mm. The Soviets did not switch on the head-up display and the trainer had no radar. The United States acquired 21 MiG-29s from Moldova in 1997 for analysis. {{ref:wade}}"
+        ]
+      },
+      {
+        "heading": "Operators & Current Status",
+        "paragraphs": [
+          "Ukraine inherited up to 240 aircraft in 1991, India ordered 44 in 1984 and Iraq had 37 by August 1990. East Germany bought 20 MiG-29A and 4 MiG-29UB, which entered service in 1988 and 1989, and after reunification in October 1990 the jets were made NATO-compatible and based at Laage with JG 73 Steinhoff. They were early export-standard aircraft without the data link and IFF transponders of later versions. Luftwaffe pilots listed a turn rate of 28 degrees a second against 26 for the F-16 Block 50 and an R-73 that could be cued 45 degrees off boresight, but also a weak navigation system, thirsty engines, no refuelling probe and a combat radius of about 100 to 150 nautical miles. Lt. Col. Johann Koeck said these limits confined the type to wingman, point defence and aggressor roles, and the Luftwaffe findings fed improvements by Mikoyan. {{ref:luftwaffe}} Germany sold 22 of its 23 remaining aircraft to Poland in 2003 for one euro each, 14 of which entered service after overhaul, and Poland held 31 active aircraft in 2017. {{ref:wikipedia}}{{ref:luftwaffe}}",
+          "Russia grounded its fleet after crashes in October 2008 and flights resumed on 4 February 2009, with about 100 aircraft cleared to fly. It ordered 16 new-build MiG-29SMTs on 15 April 2014. India flies 65 MiG-29UPGs and 10 MiG-29B trainers, and the Indian Navy flies 36 MiG-29Ks and nine KUB trainers as of 2026. {{ref:wikipedia}} {{ref:gatow}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Mikoyan MiG-29",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    },
+    {
+      "id": "migflug",
+      "name": "Mikoyan MiG-29 Fulcrum - History, Specs & Stories",
+      "publisher": "Migflug",
+      "url": "https://migflug.com/aircraft/mig-29-fulcrum/"
+    },
+    {
+      "id": "milavia",
+      "name": "MiG-29 specifications",
+      "publisher": "MILAVIA",
+      "url": "https://milavia.net/aircraft/mig-29/mig-29_specs.htm"
+    },
+    {
+      "id": "kvochur",
+      "name": "Anatoly Kvochur",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anatoly_Kvochur"
+    },
+    {
+      "id": "luftwaffe",
+      "name": "German Luftwaffe and the MiG-29 Fulcrum",
+      "publisher": "Migflug",
+      "url": "https://migflug.com/jetflights/german-luftwaffe-mig-29-fulcrum/"
+    },
+    {
+      "id": "wade",
+      "name": "How a Canadian pilot became the first Westerner to fly the feared MiG-29 Fulcrum",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/35700/how-a-canadian-pilot-became-the-first-westerner-to-fly-the-feared-mig-29-fulcrum"
+    },
+    {
+      "id": "gatow",
+      "name": "Militarhistorisches Museum Flugplatz Berlin-Gatow",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Milit%C3%A4rhistorisches_Museum_Flugplatz_Berlin-Gatow"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Anatoly Kvochur - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anatoly_Kvochur"
+    },
+    {
+      "name": "German Luftwaffe and the MiG-29 Fulcrum - Migflug",
+      "url": "https://migflug.com/jetflights/german-luftwaffe-mig-29-fulcrum/"
+    },
+    {
+      "name": "Mikoyan MiG-29 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    },
+    {
+      "name": "MiG-29 specifications - MILAVIA",
+      "url": "https://milavia.net/aircraft/mig-29/mig-29_specs.htm"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1989-06-08",
+      "title": "Crash at the Paris Air Show",
+      "tag": "Bird strike",
+      "summary": "MiG-29 Blue 303, flown by Anatoly Kvochur, ingested a bird in its right engine during a low-speed manoeuvre. He steered it away from the crowd and ejected 2.5 seconds before impact, landing 30 m from the fireball.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Anatoly_Kvochur"
+    },
+    {
+      "date": "1991",
+      "title": "Five Iraqi MiG-29s shot down in the Gulf War",
+      "tag": "Air combat",
+      "summary": "Five Iraqi MiG-29s were shot down by USAF F-15s during the Gulf War. Some Iraqi claims against Tornados are disputed.",
+      "source": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    },
+    {
+      "date": "1993-07",
+      "title": "Two MiG-29s collide at RIAT",
+      "tag": "Mid-air collision",
+      "summary": "Two Russian MiG-29s collided in mid-air during the Royal International Air Tattoo. Both pilots ejected and landed safely.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    },
+    {
+      "date": "1999",
+      "title": "Six Yugoslav MiG-29s shot down over Kosovo",
+      "tag": "Air combat",
+      "summary": "Six MiG-29s were shot down in the Kosovo campaign, four by USAF F-15s, one by a USAF F-16 and one by a Dutch F-16. Four more were destroyed on the ground.",
+      "source": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    },
+    {
+      "date": "2008-10",
+      "title": "Crashes ground the Russian fleet",
+      "tag": "Fleet grounding",
+      "summary": "A series of crashes in October 2008 led Russia to ground its MiG-29s. In March 2009, 91 aircraft needed repairs and about 100 were cleared to fly. Flights resumed on 4 February 2009.",
+      "source": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    },
+    {
+      "date": "2014-08-07",
+      "title": "Ukrainian MiG-29s lost to rebel fire",
+      "tag": "Shot down",
+      "summary": "Two Ukrainian MiG-29s were lost to rebel fire, on 7 and 17 August 2014. Both pilots ejected and survived.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    },
+    {
+      "date": "2016-11-13",
+      "title": "MiG-29K runs out of fuel near the Admiral Kuznetsov",
+      "tag": "Fuel exhaustion",
+      "summary": "A Russian Navy MiG-29K ran out of fuel and crashed. The pilot ejected and was rescued by helicopter.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    },
+    {
+      "date": "2018-07-06",
+      "title": "Polish MiG-29 pilot dies during ejection",
+      "tag": "Ejection fatality",
+      "summary": "A Polish Air Force MiG-29 pilot died during an ejection attempt.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    }
+  ],
+  "survivors": {
+    "intro": "Only one preserved airframe could be individually verified in the sources checked. Many more MiG-29s are in museums and gate guard positions worldwide, so this is not a census.",
+    "airframes": [
+      {
+        "serial": "29+03 (ex 615)",
+        "name": null,
+        "location": "Militarhistorisches Museum der Bundeswehr, Flugplatz Berlin-Gatow",
+        "place": "Berlin, Germany",
+        "note": "MiG-29G ex East German Air Force, displayed in the original hangar 7.",
+        "countryCode": "de",
+        "country": "Germany"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-01"
+}

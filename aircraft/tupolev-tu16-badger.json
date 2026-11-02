@@ -1,0 +1,421 @@
+{
+  "name": "Tu-16 Badger",
+  "fullName": "Tupolev Tu-16 (NATO: Badger)",
+  "manufacturer": "Tupolev",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Twin-Jet Strategic & Maritime Strike Bomber",
+  "tagline": "The Tupolev Tu-16 (NATO: Badger) is a Soviet twin-engine, swept-wing jet bomber designed as the Tu-88. It first flew on 27 April 1952, entered service in 1954, and 1,509 were built between 1952 and 1962, while China's licence-built Xi'an H-6 was still in production in 2020.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "A Tu-16 dropped RDS-37, the Soviet Union's first thermonuclear weapon, over Semipalatinsk in 1955.",
+    "On 14 May 1965 a People's Liberation Army Air Force Tu-16 carried out China's first airborne nuclear weapon test.",
+    "On 7 December 1963 an Indonesian Tu-16 bombed Tawau in Malaysia twice.",
+    "In the Six-Day War of 1967 Israel destroyed 23 of Egypt's 25 Tu-16s on the ground.",
+    "A Soviet Tu-16 Badger-F buzzed the carrier USS Essex in the Norwegian Sea in May 1968 and crashed when a wing touched the water on its fourth pass, with no survivors.",
+    "The Tu-104 airliner was a derivative of the Tu-16."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Tu-16 Badger-A. Sources give the Soviet-built total as 1,507 and the overall total as 1,509. No credible public flyaway price has been published.",
+    "maxSpeed": {
+      "mph": 650,
+      "text": "565 kn (650 mph / 1,050 km/h)"
+    },
+    "range": {
+      "miles": 4500,
+      "text": "4,500 mi (7,200 km); combat radius about 3,000 mi (4,800 km)"
+    },
+    "serviceCeiling": {
+      "ft": 42000,
+      "text": "42,000 ft (12,800 m)"
+    },
+    "wingspan": {
+      "ft": 108.25,
+      "text": "108 ft 3 in (33.00 m)"
+    },
+    "length": {
+      "ft": 114.17,
+      "text": "114 ft 2 in (34.80 m)"
+    },
+    "height": {
+      "ft": 34,
+      "text": "34 ft 0 in (10.36 m)"
+    },
+    "weight": "empty: 82,012 lb (37,200 kg); MTOW: 174,165 lb (79,000 kg)",
+    "engines": "2 x Mikulin AM-3M-500 turbojets, 21,000 lbf (93.2 kN) each, one in each wing root",
+    "armament": "6 to 7 x 23 mm AM-23 cannon in dorsal and ventral remote turrets and a manned tail turret, sometimes with a fixed nose gun; up to 20,000 lb (9,000 kg) of free-fall bombs including a single FAB-9000",
+    "crew": "6 to 7",
+    "capacity": "Up to 20,000 lb (9,000 kg) of bombs",
+    "firstFlight": {
+      "date": "1952-04-27",
+      "year": 1952
+    },
+    "serviceEntryDate": "1954",
+    "retiredDate": "1993",
+    "numberBuilt": 1509,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no flyaway price for the Tu-16 has been published",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "Tu-16 / Tu-16A (Badger-A)",
+      "desc": "The basic bomber, which entered Frontal Aviation service in 1954. The Tu-16A was the nuclear-capable version, and 453 were built. Both carried a free-fall bomb load of up to 9,000 kg and a defensive armament of six or seven 23 mm AM-23 cannon in remote turrets and a manned tail turret."
+    },
+    {
+      "code": "Tu-16KS (Badger-B)",
+      "desc": "The first missile carrier, armed with two AS-1 Kennel (KS-1 Komet) missiles. 107 were built from 1954 to 1958. Indonesia flew the Tu-16KS-1, and Egypt bought Tu-16KS aircraft before the Six-Day War of 1967, in which most of its fleet was destroyed on the ground. A Tu-16KS is preserved in Yogyakarta, Indonesia."
+    },
+    {
+      "code": "Tu-16K-10 (Badger-C)",
+      "desc": "The anti-ship version with one AS-2 Kipper (K-10S) missile and a nose radar, with 216 built from 1958 to 1963. Later missile conversions included the Tu-16K-26 with two KSR-5 missiles, used from 1969 with over 240 converted, and the Tu-16K-11-16 for the K-16 and K-11 missile complexes, used from 1962 with over 440 capable."
+    },
+    {
+      "code": "Tu-16R / RM-1 / Ye (reconnaissance)",
+      "desc": "Reconnaissance and electronic intelligence versions. The Tu-16R (Badger-E) carried ELINT equipment, the Tu-16RM-1 (Badger-D) was a maritime reconnaissance conversion with 23 rebuilt from K-10 missile carriers, which already had a nose radar, and the Tu-16Ye (Badger-K) was another ELINT version. Egypt also used the Tu-16R, and the Soviet Navy flew the maritime versions."
+    },
+    {
+      "code": "Tu-16 Elka / Buket / KRM",
+      "desc": "Electronic warfare versions. The Tu-16 Elka (Badger-H) was a stand-off jamming aircraft, the Tu-16P Buket (Badger-J) was an escort jammer, and the Tu-16KRM launched target drones. The reconnaissance versions, the tanker and the torpedo bomber are listed separately in this table. The Tu-16Ye was a further ELINT version."
+    },
+    {
+      "code": "Tu-16T / S / Z / N",
+      "desc": "Special-purpose conversions. The Tu-16T torpedo bomber had 76 built, the Tu-16S carried a lifeboat for search and rescue, the Tu-16Z was an early wing-to-wing tanker, and the Tu-16N was a tanker for the Tu-22 and Tu-22M bombers that entered service in 1963. The Tu-104G was a fast air mail and training version."
+    },
+    {
+      "code": "Xi'an H-6",
+      "desc": "The Chinese version. Licence production began in 1959 and the first Chinese-assembled Tu-16 flew that year, and the first fully domestic H-6 flew in December 1968. H-6K variants were still in production in 2020, at least 120 H-6s were in PLAAF service, and Iraq used the H-6D, which it called the B-6D."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet Air Force and Naval Aviation",
+      "role": "Original Operator",
+      "status": "Retired",
+      "since": "1954",
+      "fleetSize": "1,507 built in the Soviet Union from 1954 to 1962; retired by 1993, with a few kept for testing until 2001 and 2002",
+      "homeBase": "Soviet Union"
+    },
+    {
+      "name": "People's Liberation Army Air Force",
+      "role": "Licence Producer & Operator",
+      "status": "In Service",
+      "since": "1959",
+      "fleetSize": "At least 120 H-6 in service",
+      "homeBase": "China"
+    },
+    {
+      "name": "Egyptian Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "25 in 1967 before the Six-Day War, with three squadrons at Cairo West in 1966; last retired in 2000",
+      "homeBase": "Cairo West"
+    },
+    {
+      "name": "Iraqi Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "8 Tu-16, 6 Tu-16KSR-2-11 and 4 B-6D (H-6D)",
+      "homeBase": "Iraq"
+    },
+    {
+      "name": "Indonesian Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "1961",
+      "fleetSize": "12 Tu-16, 12 Tu-16KS-1 and 2 Tu-16R; grounded in 1969 and removed in 1970",
+      "homeBase": "Iswahjudi"
+    },
+    {
+      "name": "Ukraine and other Soviet successor states",
+      "role": "Inherited Fleets",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "Ukraine 121, Georgia 20, Belarus 18, Armenia 30 and Azerbaijan 10; all out of service by 1995 (Ukraine's retired later)",
+      "homeBase": "Ukraine, Georgia, Belarus, Armenia, Azerbaijan"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "TU16",
+    "howToFind": "No Soviet-built Tu-16 is airworthy, so none appears on Flightradar24. China's H-6 bombers do not broadcast their positions in public data."
+  },
+  "changelog": [
+    {
+      "date": "2026-11-01",
+      "change": "Added the Tupolev Tu-16 Badger - its missile and reconnaissance variants, the Chinese H-6 line, combat use from 1963 to the Iran-Iraq War, incidents and museum aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added the RDS-37 test drop, the USS Essex crash, the 1978 Hopen Island standoff with Norway and the Amet-khan Sultan flying laboratory crash.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "tu-16",
+    "tupolev tu-16",
+    "badger",
+    "tu16",
+    "h-6",
+    "xian h-6",
+    "tu-88",
+    "tu-104",
+    "soviet bomber",
+    "kennel",
+    "kipper",
+    "tupolev"
+  ],
+  "article": {
+    "overview": [
+      "The Tupolev Tu-16 (NATO: Badger) is a Soviet twin-engine, swept-wing jet bomber designed by Tupolev as the Tu-88, or Aircraft N. It first flew on 27 April 1952, entered service in 1954, and 1,509 were built between 1952 and 1962. {{ref:wikipedia}}",
+      "It was built to match American strategic bombing capability, replacing the Tu-4, a reverse-engineered B-29, as the Soviet long-range bomber. The Tu-16 started as a high-altitude free-fall bomber and by the mid-1950s carried early cruise missiles, and China's licence-built H-6 was still in production in 2020. {{ref:wikipedia}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "Work on the Tu-88 began in 1950, with a Mikulin AM-3 turbojet in each wing root. It first flew on 27 April 1952, beat the Ilyushin Il-46 in a competition, and was approved for production in December 1952. {{ref:wikipedia}}",
+          "The first production aircraft entered Frontal Aviation service in 1954. Kazan, Kuybyshev and Voronezh built the type, and in 1955 a Tu-16 dropped RDS-37 over Semipalatinsk. The Tu-104 airliner, Tu-124 and Tu-107 were derived from the design. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "RDS-37 & the Nuclear Role",
+        "paragraphs": [
+          "On 22 November 1955 a Tu-16 dropped RDS-37 over the Semipalatinsk Test Site in Kazakhstan, the world's first air-dropped two-stage thermonuclear test. The weapon used radiation implosion, an approach described as equivalent to the American Teller-Ulam design, and it was nicknamed Sakharov's Third Idea. It was scaled down from a 3-megaton design to a yield of 1.6 megatons and detonated at 1,550 m to limit local fallout. {{ref:rds37}}",
+          "An inversion layer focused the shock wave downward, a soldier was killed when a trench collapsed on a group of troops, and a young girl died when a building collapsed in Kurchatov, about 65 km away. A commission meeting on 24 November 1955 concluded the design had been tested successfully and became the basis for later Soviet two-stage devices. The United States matched the result with the Cherokee test on 20 May 1956, and the Soviet Union later judged 2.9 megatons excessive for some missions and fielded the 200-kiloton RP-30 and RP-32 bombs. {{ref:rds37}}"
+        ]
+      },
+      {
+        "heading": "Design & Armament",
+        "paragraphs": [
+          "The Badger-A had a crew of six or seven, a wingspan of 33 m, a maximum speed of 1,050 km/h and a service ceiling of 12,800 m. Two Mikulin AM-3M-500 turbojets gave 93.2 kN each. Defensive armament was six or seven 23 mm AM-23 cannon in dorsal and ventral remote turrets and a manned tail turret. {{ref:wikipedia}}",
+          "The bomb bay took 9,000 kg of free-fall weapons, including a single FAB-9000, and the combat radius with nuclear or conventional loads was about 4,800 km. Two underwing hardpoints were available for stores. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Missile Carriers & Special Versions",
+        "paragraphs": [
+          "The Tu-16KS carried two AS-1 Kennel missiles, with 107 built from 1954 to 1958, and the Tu-16K-10 carried one AS-2 Kipper anti-ship missile, with 216 built from 1958 to 1963. Over 240 aircraft were converted as Tu-16K-26 with two KSR-5 missiles from 1969, and over 440 were capable of carrying the K-11 or K-16 missile complexes from 1962. {{ref:wikipedia}}",
+          "Reconnaissance versions included the Tu-16R and the Tu-16RM-1, with 23 converted from K-10 aircraft. The Tu-16T torpedo bomber had 76 built, and the Tu-16N tanker, which supplied Tu-22 and Tu-22M bombers, entered service in 1963. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Combat Use, China & Retirement",
+        "paragraphs": [
+          "Egypt used the Tu-16 first in the North Yemen civil war. In the Six-Day War, Israel destroyed 23 of Egypt's 25 Tu-16s on the ground with napalm and cluster munitions, and an Iraqi Tu-16 that bombed Israel crashed into a barracks at Ramat David, killing its crew and 11 to 14 Israeli reservists. Egypt flew Tu-16s again in the Yom Kippur War of 1973 and against Libya. {{ref:wikipedia}}",
+          "Iraqi Tu-16s bombed Iranian troops at the siege of Basra and carpet-bombed Tehran during the Iran-Iraq War, and Iraqi H-6s fired C-601 anti-ship missiles in the Tanker War. China began licence production in 1959, flew the first fully domestic H-6 in December 1968, and carried out its first airborne nuclear weapon test with a Tu-16 on 14 May 1965. The Soviet Union had retired the type by 1993, though Russia kept a few for testing until 2001 and 2002, Egypt retired its last aircraft in 2000, and Ukraine retired 121. Preserved aircraft are at Monino, Dyagilevo, Engels, Akhtubinsk, Kyiv, Poltava, Riga, Datangshan and Yogyakarta, and none is airworthy. {{ref:wikipedia}} {{ref:migflug}}"
+        ]
+      },
+      {
+        "heading": "Incidents & Crashes",
+        "paragraphs": [
+          "On 25 May 1968 a Soviet Tu-16 Badger-F, an electronic intelligence version, made several very low passes over USS Essex in the Norwegian Sea. After the last pass it stalled and crashed into the sea in a large explosion, and all six crew were killed. The pilot was reported as Colonel Andrey Pliyev, and debris was reportedly found about 240 km west of the Norwegian coast. The Soviets classified video filmed from Essex, and it was not shown in Russia until 2008. One source gives the date as 27 May and says a wing clipped the water on the fourth pass. {{ref:aviationist}}{{ref:wikipedia}} On 27 June 1980 a Tu-16 on a Tokyo Express flight crashed in the Sea of Japan near Komatsu with no survivors. {{ref:wikipedia}}",
+          "On 28 August 1978 an early Tu-16 crashed on Hopen Island in Svalbard and all seven crew were killed. A four-man Norwegian weather team found the wreck on 30 August, and the Soviet Union refused to admit the loss until the bodies were handed over. The Svalbard Museum describes a Soviet reconnaissance plane that hit Werenskiold Mountain on Hopen and a standoff that followed: the missile cruiser Marshal Timoshenko anchored outside the territorial limit, the Soviet embassy in Oslo demanded that the crew be allowed ashore for the wreckage, and the ambassador said they could land with or without permission, which Norway took as a threat of invasion. The compromise gave the Norwegian investigation board 42 hours on the site before an unarmed Soviet party went ashore. Norway kept the flight recorder and decoded it at its own Defence Research Institute rather than sending it to the United Kingdom, over Soviet objections. {{ref:hopen}}{{ref:svalmus}} A modified Tu-16 flying laboratory crashed on 1 February 1971 while testing a new jet engine, killing all five aboard, among them the test pilot Amet-khan Sultan, a double Hero of the Soviet Union with 30 solo and 19 shared victories in the war. The official report said the outer flaps, in the landing position, broke as the aircraft passed 500 km/h and it flipped and broke up, and investigators could not establish why the flaps were set that way. {{ref:sultan}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Tupolev Tu-16",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-16"
+    },
+    {
+      "id": "migflug",
+      "name": "Tupolev Tu-16 Badger - History, Specs & Stories",
+      "publisher": "Migflug",
+      "url": "https://migflug.com/aircraft/tu-16-badger/"
+    },
+    {
+      "id": "rds37",
+      "name": "RDS-37",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RDS-37"
+    },
+    {
+      "id": "aviationist",
+      "name": "That time a Tu-16 crashed into the sea after buzzing a U.S. aircraft carrier",
+      "publisher": "The Aviationist",
+      "url": "https://theaviationist.com/2016/04/14/that-time-a-tu-16-crashed-into-the-sea-after-buzzing-a-u-s-aircraft-carrier/"
+    },
+    {
+      "id": "hopen",
+      "name": "Hopen (Svalbard)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hopen_(Svalbard)"
+    },
+    {
+      "id": "svalmus",
+      "name": "The Cold War",
+      "publisher": "Svalbard Museum",
+      "url": "https://svalbardmuseum.no/en/the-cold-war"
+    },
+    {
+      "id": "sultan",
+      "name": "Amet-khan Sultan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amet-khan_Sultan"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Tupolev Tu-16 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-16"
+    },
+    {
+      "name": "RDS-37 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RDS-37"
+    },
+    {
+      "name": "Hopen (Svalbard) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hopen_(Svalbard)"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1963-12-07",
+      "title": "Indonesian Tu-16 bombs Tawau",
+      "tag": "Combat use",
+      "summary": "An Indonesian Tu-16 bombed Tawau, Malaysia, twice during the confrontation with Malaysia. Most of the campaign was intimidation, including pamphlet drops over Malaysia.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-16"
+    },
+    {
+      "date": "1967-06",
+      "title": "Egyptian Tu-16 fleet destroyed on the ground",
+      "tag": "Air strike",
+      "summary": "In the Six-Day War, Israel destroyed 23 of Egypt's 25 Tu-16s on the ground. An Iraqi Tu-16 that bombed Israel crashed into a barracks at Ramat David, killing its crew and 11 to 14 Israeli reservists.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-16"
+    },
+    {
+      "date": "1968-05-25",
+      "title": "Badger-F crashes while buzzing USS Essex",
+      "tag": "Low-level crash",
+      "summary": "A Soviet Tu-16 Badger-F made several very low passes over USS Essex in the Norwegian Sea and crashed into the sea after the last one. All six crew were killed. Another source gives 27 May as the date and says a wing clipped the water on the fourth pass.",
+      "fatalities": 6,
+      "source": "https://theaviationist.com/2016/04/14/that-time-a-tu-16-crashed-into-the-sea-after-buzzing-a-u-s-aircraft-carrier/"
+    },
+    {
+      "date": "1971-02-01",
+      "title": "Flying laboratory crashes during engine testing",
+      "tag": "Test flight crash",
+      "summary": "A modified Tu-16 flying laboratory crashed during new engine testing. All five aboard were killed, including the test pilot Amet-khan Sultan. The report blamed outer flaps that broke in the landing position above 500 km/h.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Amet-khan_Sultan"
+    },
+    {
+      "date": "1978-08-28",
+      "title": "Tu-16 crashes on Hopen Island",
+      "tag": "Crash",
+      "summary": "An early Tu-16 crashed on Hopen Island, Svalbard, and all seven crew were killed. A Norwegian weather team found the wreck on 30 August. The Soviet Union refused to admit the loss until the bodies were handed over, and Norway decoded the flight recorder over Soviet objections.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Hopen_(Svalbard)"
+    },
+    {
+      "date": "1980-06-27",
+      "title": "Tu-16 crashes in the Sea of Japan",
+      "tag": "Crash",
+      "summary": "A Soviet Tu-16 on a Tokyo Express flight crashed in the Sea of Japan near Komatsu, with no survivors. A Japanese ship recovered the remains of three crew.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-16"
+    }
+  ],
+  "survivors": {
+    "intro": "Museum aircraft listed in a single source, which describes none as airworthy and gives no serial numbers. It also flags the Datangshan aircraft as one to check against another source.",
+    "airframes": [
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Central Air Force Museum",
+        "place": "Monino, Moscow Oblast, Russia",
+        "note": "Listed as an original airframe outside Moscow.",
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Dyagilevo",
+        "place": "Near Ryazan, Russia",
+        "note": "Original airframe.",
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Engels",
+        "place": "Engels, Russia",
+        "note": "Original airframe.",
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Akhtubinsk",
+        "place": "Akhtubinsk, Russia",
+        "note": "Shown in a gallery photograph caption.",
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "State Aviation Museum",
+        "place": "Kyiv, Ukraine",
+        "note": "Original airframe.",
+        "countryCode": "ua",
+        "country": "Ukraine"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Museum of Long-Range Aviation",
+        "place": "Poltava, Ukraine",
+        "note": "Original airframe.",
+        "countryCode": "ua",
+        "country": "Ukraine"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Riga Aviation Museum",
+        "place": "Riga, Latvia",
+        "note": "Original airframe.",
+        "countryCode": "lv",
+        "country": "Latvia"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Datangshan",
+        "place": "Outside Beijing, China",
+        "note": "Listed among Soviet-built survivors, which should be checked against another source.",
+        "countryCode": "cn",
+        "country": "China"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Dirgantara Mandala museum",
+        "place": "Yogyakarta, Indonesia",
+        "note": "Tu-16KS.",
+        "countryCode": "id",
+        "country": "Indonesia"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-01"
+}

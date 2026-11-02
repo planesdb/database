@@ -157,11 +157,16 @@
     "icaoTypeCode": "N/A",
     "howToFind": "No LVG C.VI is currently airworthy, so none will appear on Flightradar24. The airframe that flew most recently is 7198/18 (G-AANJ), which made its last flight with the Shuttleworth Trust at Old Warden in 2003 and is now being restored at the RAF Museum Cosford."
   },
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-11-01",
   "changelog": [
     {
       "date": "2026-10-28",
       "change": "Added the LVG C.VI - the build, its Belgian and civil afterlife, the other post-war operators and the three surviving airframes.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added more on the Brussels restoration, including the engine rebuild and the replica lozenge fabric.",
       "author": "planesdb"
     }
   ],
@@ -224,8 +229,8 @@
       {
         "heading": "Surviving Airframes",
         "paragraphs": [
-          "Three C.VIs survive. Airframe 7198/18 (G-AANJ) is at the RAF Museum Cosford, where it has been under restoration since 2003, the year of its last flight with the Shuttleworth Trust at Old Warden. The wooden airframe has been repaired and the fabric covering of the flying surfaces was finished in March 2016. Parts from two or three different aircraft were found in it, which points to cannibalisation. {{ref:restoration}}",
-          "The example in the Royal Museum of the Armed Forces and of Military History in Brussels was rebuilt from LVGs left at Evere, hung from the roof of the First World War hall by 1925 and moved to the mezzanine in 1970. Volunteers began restoring it in 2000, and its Benz engine has been rebuilt. The third, 9041/18, belongs to the Musée de l'Air et de l'Espace at Le Bourget but is not on public display. {{ref:restoration}}"
+          "Three C.VIs survive. Airframe 7198/18 (G-AANJ) is at the RAF Museum Cosford, where it has been under restoration since 2003, the year of its last flight with the Shuttleworth Trust at Old Warden. The wooden airframe has been repaired and the fabric covering of the flying surfaces was finished in March 2016. Parts from two or three different aircraft were found in it, which points to cannibalisation. Its last flight with the Shuttleworth Trust at Old Warden in 2003 makes it the last of the three to have flown. {{ref:restoration}}",
+          "The example in the Royal Museum of the Armed Forces and of Military History in Brussels was rebuilt from LVGs left at Evere, hung from the roof of the First World War hall by 1925 and moved to the mezzanine in 1970. Volunteers began restoring it in 2000, and its Benz engine has been rebuilt. Its serial is given as 5141/18 in one source and 3141/18 in another, and several serial numbers turned up during the work. It was a reconnaissance aircraft of the Imperial German Flying Corps in October 1918, and the restorers estimate that about 80 percent of it is original. A team of five from the Brussels Air Museum Restoration Society checked the pistons with an endoscope before stripping the engine, documented every step of the disassembly, made missing parts on the museum's lathe and found others online. Michael Lewis spent seven years on the Benz engine alone, missing distributors were replicated by a team in New Zealand linked to Sir Peter Jackson, and a French company wove a five-colour lozenge fabric copied from original fragments. The fabric is to be fitted by staff at the Musée de l'Air, and the work was still under way in October 2024, more than 20 years after it began. {{ref:restoration}} The third, 9041/18, belongs to the Musée de l'Air et de l'Espace at Le Bourget but is not on public display. {{ref:restoration}}"
         ]
       }
     ]

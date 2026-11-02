@@ -120,11 +120,16 @@
     "icaoTypeCode": "GLF6",
     "howToFind": "Search type GLF6, which covers both the G650 and G650ER. It is a regular on long-haul business routes such as Teterboro to Farnborough and Hong Kong to the US West Coast, though some owners use blocking programmes, so not every flight is visible."
   },
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-11-01",
   "changelog": [
     {
       "date": "2026-10-28",
       "change": "New entry for the Gulfstream G650 and G650ER, covering its history, specs, records, operators and the 2011 Roswell test crash.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added the 2014 and 2015 distance flights, the London City steep approach trials and the JSTARS offer.",
       "author": "planesdb"
     }
   ],
@@ -164,14 +169,14 @@
         "heading": "Performance & Records",
         "paragraphs": [
           "The G650ER has a published service ceiling of 51,000 ft, a takeoff distance of 6,299 ft and a landing distance of 3,000 ft. Fuel burn is about 2,400 lb an hour at Mach 0.85 and 3,000 lb an hour at Mach 0.90, measured at 67,500 lb and 47,000 ft in standard-minus-seven conditions. {{ref:globalair-g650er}} {{ref:wikipedia}}",
-          "A G650ER development aircraft flew non-stop from Hong Kong to Teterboro (7,494 nautical miles) in March 2014. In 2015 a G650ER flew 8,010 nautical miles from Singapore to Las Vegas, a business jet distance record that a Bombardier Global 7500 beat in March 2019. A G650ER took it back in April 2019 with 8,379 nautical miles (15,518 km) from Singapore to Tucson. The programme won the 2014 Collier Trophy. {{ref:wikipedia}}"
+          "A G650ER development aircraft flew non-stop from Hong Kong to Teterboro (7,494 nautical miles) in March 2014. In 2015 a G650ER flew 8,010 nautical miles from Singapore to Las Vegas, a business jet distance record that a Bombardier Global 7500 beat in March 2019. A G650ER took it back in April 2019 with 8,379 nautical miles (15,518 km) from Singapore to Tucson. The programme won the 2014 Collier Trophy. {{ref:wikipedia}} A development G650ER also flew non-stop from Los Angeles to Melbourne in 2014, and in February 2015 Gulfstream made two world record attempts on a route from New York to Beijing and on to Savannah. Gulfstream tested the G650 at London City Airport in September 2018 to show it could manage the airport's steep approach. {{ref:wikipedia}}"
         ]
       },
       {
         "heading": "Roswell Crash & Safety Record",
         "paragraphs": [
           "On 2 April 2011 the second G650 test aircraft, N652GD, crashed on Runway 21 at Roswell International Air Center during a planned one-engine-inoperative takeoff. It stalled on the right outboard wing, struck the runway with that wingtip, left the runway, hit a concrete structure and a weather station and burned. All four people on board were killed. {{ref:ntsb}}",
-          "The NTSB gave the probable cause as an aerodynamic stall and uncommanded roll resulting from Gulfstream's failure to validate takeoff speeds, the test team's repeated attempts to reach a V2 speed that was too low, and an inadequate investigation of two earlier uncommanded roll events in November 2010 and March 2011. Gulfstream had predicted a stall angle of attack of 13.1 degrees in ground effect, and the aircraft stalled at about 11.2 degrees, below the 12.3 degrees at which the stick shaker was set. Gulfstream accepted full responsibility and raised the G650's V2 from 135 to 150 knots. The Aviation Safety Network lists nine occurrences for the G650 family between 2011 and May 2025, and Roswell is the only fatal one. {{ref:ntsb}} {{ref:wikipedia}} {{ref:asn-g650}}"
+          "The NTSB gave the probable cause as an aerodynamic stall and uncommanded roll resulting from Gulfstream's failure to validate takeoff speeds, the test team's repeated attempts to reach a V2 speed that was too low, and an inadequate investigation of two earlier uncommanded roll events in November 2010 and March 2011. Gulfstream had predicted a stall angle of attack of 13.1 degrees in ground effect, and the aircraft stalled at about 11.2 degrees, below the 12.3 degrees at which the stick shaker was set. Gulfstream accepted full responsibility and raised the G650's V2 from 135 to 150 knots. The Aviation Safety Network lists nine occurrences for the G650 family between 2011 and May 2025, and Roswell is the only fatal one. {{ref:ntsb}} {{ref:wikipedia}} {{ref:asn-g650}} The company grounded its test aircraft until 28 May 2011. {{ref:ntsb}}{{ref:wikipedia}}"
         ]
       },
       {
@@ -185,7 +190,7 @@
         "heading": "Current Status & Outlook",
         "paragraphs": [
           "Gulfstream announced on 12 February 2025 that the last G650 had been completed, and the G800, designed to succeed it, received FAA and EASA certification in April 2025 with a first delivery in late August 2025. The larger G700, certified by the FAA on 29 March 2024, is 110 ft (34 m) long and has Rolls-Royce Pearl 700 engines of 18,250 lbf each, a maximum takeoff weight of 107,600 lb and a range of 7,500 nautical miles at Mach 0.85. Gulfstream had delivered 100 by June 2026. {{ref:globalair-final}} {{ref:wikipedia}}",
-          "Governments now fly the type as well as private owners. Italy ordered four G650ERs under a EUR 330 million contract, and the first two arrived at Ciampino on 12 April 2025 to replace Falcon 50 and Falcon 900 VIP aircraft. The Royal Netherlands Air Force received one G650ER (serial V-117) at Eindhoven on 15 March 2023. {{ref:aviationist-italy}} {{ref:scramble-dutch}}"
+          "Governments now fly the type as well as private owners. Italy ordered four G650ERs under a EUR 330 million contract, and the first two arrived at Ciampino on 12 April 2025 to replace Falcon 50 and Falcon 900 VIP aircraft. The Royal Netherlands Air Force received one G650ER (serial V-117) at Eindhoven on 15 March 2023. {{ref:aviationist-italy}} {{ref:scramble-dutch}} Gulfstream offered the G650 in May 2014 as the platform to replace the E-8C JSTARS, but the Air Force dropped that replacement in its FY2019 budget. The Zambian Air Force operates one G650. {{ref:wikipedia}}"
         ]
       }
     ]

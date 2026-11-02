@@ -1,0 +1,475 @@
+{
+  "name": "Su-27 Flanker",
+  "fullName": "Sukhoi Su-27 (NATO: Flanker)",
+  "manufacturer": "Sukhoi",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Twin-Engine Air Superiority Fighter",
+  "tagline": "The Sukhoi Su-27 (NATO: Flanker) is a Soviet twin-engine, single-seat air superiority fighter with fly-by-wire controls, a pulse-Doppler radar and an infrared search and track sensor. The T-10 prototype first flew on 20 May 1977, production aircraft entered Soviet service in 1985, and 680 were built before manufacturing ended in 2010.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "The original T-10 needed a redesign completed in 1980, and two of the early prototypes were lost: T-10-2 crashed on 7 July 1978 after exceeding its g limit, and T-10-12 broke up in flight on 23 December 1981.",
+    "It was the first Soviet aircraft with an operational fly-by-wire system.",
+    "The stripped P-42 record aircraft had to be tethered to an armoured tractor at full power, and took 27 world climb and altitude records between 1986 and 1988.",
+    "Viktor Pugachev first demonstrated the Cobra manoeuvre in 1989.",
+    "On 27 July 2002 an Su-27 crashed into spectators at Sknyliv in Ukraine and killed 77 people, while both pilots survived.",
+    "A tally drawn from Oryx put Ukrainian Su-27 losses at 17 and Russian losses at 3 as of 24 October 2025."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Su-27SK export version. The 680 total is the infobox figure and includes the Russian, Ukrainian and export aircraft built at Komsomolsk-on-Amur, with Irkutsk named for the 1991 export versions. Official service entry came in August 1990, after frontline deliveries began in 1985. No flyaway price was found in the sources checked.",
+    "maxSpeed": {
+      "mph": 1553,
+      "text": "1,349 kn (1,553 mph / 2,500 km/h)"
+    },
+    "range": {
+      "miles": 2190,
+      "text": "2,190 mi (3,530 km) at cruising altitude; 1,340 km (830 mi) at sea level"
+    },
+    "serviceCeiling": {
+      "ft": 60700,
+      "text": "60,700 ft (18,500 m)"
+    },
+    "wingspan": {
+      "ft": 48.25,
+      "text": "48 ft 3 in (14.7 m)"
+    },
+    "length": {
+      "ft": 71.83,
+      "text": "71 ft 10 in (21.9 m)"
+    },
+    "height": {
+      "ft": 19.42,
+      "text": "19 ft 5 in (5.92 m)"
+    },
+    "weight": "empty: 36,112 lb (16,380 kg); MTOW: 72,753 lb (33,000 kg)",
+    "engines": "2 x Saturn AL-31F afterburning turbofans, 16,910 lbf (75.22 kN) dry and 27,560 lbf (122.6 kN) with afterburner each",
+    "armament": "1 x 30 mm GSh-30-1 cannon in the starboard wing root; up to 10 hardpoints for R-73 (AA-11 Archer) and R-27 (AA-10 Alamo) air-to-air missiles",
+    "crew": "1",
+    "capacity": "Internal fuel of 9,400 kg (20,724 lb)",
+    "firstFlight": {
+      "date": "1977-05-20",
+      "year": 1977
+    },
+    "serviceEntryDate": "1985-06-22",
+    "retiredDate": null,
+    "numberBuilt": 680,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no flyaway price for the Su-27 was found in the sources checked",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "T-10 / T-10S",
+      "desc": "The prototype series. T-10 first flew on 20 May 1977, and the redesign to the T-10S was completed in 1980 with help from SibNIA and wind-tunnel testing. T-10-7, the first flying T-10S, flew on 20 April 1981, and T-10-17 was the first aircraft to the full production standard, flying on 26 May 1982."
+    },
+    {
+      "code": "Su-27 / Su-27S / Su-27P",
+      "desc": "The initial production single-seat fighter, NATO Flanker-B, with the improved AL-31F engine. The Su-27P was an interceptor for the Air Defence Forces without air-to-ground control. The 831st Fighter Aviation Regiment at Myrhorod was the first frontline unit, in November 1985, and the P-42 record aircraft was a stripped version of the same airframe."
+    },
+    {
+      "code": "Su-27UB / Su-27UBK",
+      "desc": "The two-seat trainer, NATO Flanker-C, and the export Su-27UBK. China's pre-1996 order was for Su-27SK and Su-27UBK aircraft, and 32 Su-27UBK were still in PLAAF service in 2022. Two Su-27UBs bought from Ukraine in 2009 were acquired by the US Air Force in 2011. Belarus and Ukraine also flew the two-seater."
+    },
+    {
+      "code": "Su-27K / Su-33",
+      "desc": "The carrier-based version, NATO Flanker-D, with folding wings, canards and an arrestor hook. Su-33 is the later Russian Navy name, and the two designations refer to the same aircraft. A two-seat naval trainer with side-by-side seating was designated Su-27KUB. The Russian Navy used 53 Su-27 aircraft of all types in January 2014."
+    },
+    {
+      "code": "Su-27SK / SKM",
+      "desc": "Export single-seaters. The SK has landing gear reinforced for a 33 tonne maximum takeoff weight, and the SKM is a multirole version with an upgraded cockpit, electronic countermeasures and aerial refuelling. Indonesia flew two SK and three SKM aircraft, and upgraded its two SKs to SKM standard in 2016."
+    },
+    {
+      "code": "Su-27SM / SM3",
+      "desc": "The mid-life upgrade for Russia from 2004, with multifunction displays, R-77 missile capability and Kh-29 and Kh-31 munitions. The SM3 package raised maximum takeoff weight by 3 tonnes and fitted AL-31F-M1 engines. Russia held 70 Su-27SM and 12 Su-27SM3 in January 2014, and Ukraine has its own Su-27UB1M and S1M modernisations."
+    },
+    {
+      "code": "Su-30, Su-34 and Su-35 family",
+      "desc": "Two-seat and advanced derivatives of the same airframe. The Su-30MKK for China first flew in 1999 and the Su-30MKI for India was delivered from 2002. The side-by-side Su-34 strike aircraft began development in 1983 and its first production airframe flew in early 1994. The Su-35S is the advanced single-seat multirole version."
+    },
+    {
+      "code": "Shenyang J-11",
+      "desc": "The Chinese licence-built Su-27SK. Production began in 1998 and the first flight was on 16 December 1998. The first 100 aircraft were designated J-11A. China had earlier ordered 24 Su-27s in May 1991, paying 70 percent of the price in barter, and received 78 Russian-built aircraft between 1990 and 2010."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Russian Aerospace Forces and Navy",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1985",
+      "fleetSize": "359 in January 2014 (225 Su-27, 70 Su-27SM, 12 Su-27SM3, 52 Su-27UB); 101 in service in 2021",
+      "homeBase": "Russia"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Inherited Fleet",
+      "status": "In Service",
+      "since": "1991",
+      "fleetSize": "About 66 to 70 inherited; 34 in service in March 2019",
+      "homeBase": "Ukraine"
+    },
+    {
+      "name": "Belarus Air Force",
+      "role": "Inherited Fleet",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "23 to 28 inherited; 22 in service in December 2010, with 17 Su-27P and 4 Su-27UBM1 retired in December 2012",
+      "homeBase": "Belarus"
+    },
+    {
+      "name": "Kazakh Air Defence Forces",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1996",
+      "fleetSize": "26 received from Russia between 1996 and 2001",
+      "homeBase": "Kazakhstan"
+    },
+    {
+      "name": "Uzbekistan Air Force",
+      "role": "Inherited Fleet",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "34 in use in January 2013",
+      "homeBase": "Uzbekistan"
+    },
+    {
+      "name": "People's Liberation Army Air Force",
+      "role": "Largest Export Operator",
+      "status": "In Service",
+      "since": "1991 (order)",
+      "fleetSize": "78 delivered from 1990 to 2010, plus licence-built J-11",
+      "homeBase": "China"
+    },
+    {
+      "name": "Vietnam People's Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "5 Su-27SK and 5 Su-27UBK in use in January 2013",
+      "homeBase": "Vietnam"
+    },
+    {
+      "name": "Indonesian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2003",
+      "fleetSize": "2 Su-27SK (2003) and 3 Su-27SKM (2010)",
+      "homeBase": "Indonesia"
+    },
+    {
+      "name": "Ethiopian Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1998",
+      "fleetSize": "Up to 17 Su-27S, P and UB, bought in batches of 9 from 1998 and 8 from 2002",
+      "homeBase": "Ethiopia"
+    },
+    {
+      "name": "Eritrean Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2002",
+      "fleetSize": "2 bought from Ukraine in 2002 and 2003",
+      "homeBase": "Eritrea"
+    },
+    {
+      "name": "Angolan Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "2000",
+      "fleetSize": "6 in service as of February 2026; one shot down by MANPADS on 19 November 2000",
+      "homeBase": "Angola"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Evaluation Operator",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "2 Su-27P from Belarus in 1995 and 2 Su-27UB bought from Ukraine in 2009",
+      "homeBase": "United States"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "SU27",
+    "howToFind": "Search type SU27. Few Su-27s broadcast their positions, so sightings are uncommon."
+  },
+  "changelog": [
+    {
+      "date": "2026-11-01",
+      "change": "Added the Sukhoi Su-27 Flanker, including the troubled T-10 prototype years, the export and derivative family, operators, museum aircraft and the Sknyliv airshow crash.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Expanded the article with the P-42 record climbs, the Cobra manoeuvre, the 1987 collision with a Norwegian Orion and the Sknyliv inquiry and trial.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "su-27",
+    "sukhoi su-27",
+    "flanker",
+    "su27",
+    "t-10",
+    "su-30",
+    "su-33",
+    "su-35",
+    "j-11",
+    "soviet fighter",
+    "sukhoi",
+    "russian knights"
+  ],
+  "article": {
+    "overview": [
+      "The Sukhoi Su-27 (NATO: Flanker) is a Soviet twin-engine, single-seat air superiority fighter with fly-by-wire controls, a pulse-Doppler radar and an infrared search and track sensor. The T-10 prototype first flew on 20 May 1977, the redesigned production aircraft reached Soviet units in 1985, and 680 were built between 1982 and 2010. {{ref:wikipedia}}",
+      "It was the heavier half of a two-fighter requirement that also produced the MiG-29. Its airframe became the basis of the Su-30, Su-33, Su-34 and Su-35, and China builds a licensed version as the J-11. The type is also known for the P-42 record climbs of 1986 to 1988 and for the Cobra manoeuvre, first shown to the public in 1989. {{ref:wikipedia}}{{ref:pugachev}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "After the Soviet General Staff learned of the US F-X programme, which became the F-15, it issued a requirement for a Perspektivnyy Frontovoy Istrebitel (PFI). The requirement was split into a lightweight LPFI, which became the MiG-29, and a heavy TPFI, which became the Su-27. Sukhoi's T-10 first flew on 20 May 1977, and T-10-2 crashed on 7 July 1978 after exceeding its g limit, killing the pilot. {{ref:wikipedia}}",
+          "A redesign to the T-10S was completed in 1980 with help from SibNIA and wind-tunnel testing, and T-10-7, the first flying T-10S, flew on 20 April 1981. T-10-12 broke up in flight on 23 December 1981, killing its pilot, and Sukhoi's general designer was dismissed afterwards. T-10-17, the first production-standard aircraft, flew on 26 May 1982. The Soviet Air Force began receiving Su-27s in June 1985 and the 831st Fighter Aviation Regiment at Myrhorod became the first frontline unit that November, with official service entry following in August 1990. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Su-27 has semi-delta wings that join the fuselage at leading-edge extensions, cropped wingtips for missile rails or ECM pods, conventional tailplanes and twin tails. It was the first Soviet aircraft with an operational fly-by-wire system, built on Sukhoi's experience with the T-4, and it is substantially larger than the MiG-29. Two Saturn AL-31F afterburning turbofans give 75.22 kN dry and 122.6 kN with afterburner each. {{ref:wikipedia}}",
+          "The Phazotron N001 Myech radar is a coherent pulse-Doppler set with track-while-scan and look-down, shoot-down capability, and the OLS-27 infrared search and track system has a range of 80 to 100 km. A 30 mm GSh-30-1 cannon sits in the starboard wing root, and up to 10 hardpoints carry R-73 (AA-11 Archer) and R-27 (AA-10 Alamo) missiles. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Record Flights & the Cobra",
+        "paragraphs": [
+          "In 1986 Sukhoi converted T10-15, one of the first production Su-27s, into the P-42 to go after the climb records set by the US F-15 Streak Eagle. Designer M. P. Simonov said the name honoured the turning point of the Battle of Stalingrad in November 1942. The radar-transparent nose fairing was replaced by a lighter metal one, part of the avionics was removed, the intakes were fixed, the keels were cut down, the dorsal ridges and tail boom were deleted, and fuel was limited to what the test run needed. Take-off weight fell to 14,100 kg and each engine gained more than 1,000 kgf of thrust. The brakes could not hold the aircraft at full power, so it was tethered to an armoured caterpillar tractor by a cable and an electronic lock until release. {{ref:p42}} Viktor Pugachev reached 3,000 m in 25.37 seconds in autumn 1986, the P-42 took 27 world records for climb and altitude between 1986 and 1988, and Pugachev beat the climb times of the American F-15 pilot R. Smith by more than two seconds. On 20 May 1993 he added records of 22,250 m with a 1,000 kg load and 2 minutes 6 seconds to 15,000 m. {{ref:p42}}{{ref:pugachev}}",
+          "Pugachev was also the first test pilot to show the manoeuvre now named after him to the public, flying an Su-27 at the Paris Air Show in 1989. In the Cobra the aircraft flies at moderate speed, raises its nose abruptly to vertical or just past it, and returns to level flight, with the angle of attack reaching 90 to 120 degrees. The pilot switches off the angle-of-attack limiter, normally set at 26 degrees, which also releases the g-limiter, and pulls the stick back hard. Swedish test pilots Bengt Olow and Ceylon Utterborn developed the technique in the Saab 35 Draken around 1961 to 1963, and the page credits Igor Volk as the first to perform it in an Su-27. It has never been verified in real combat, and it leaves the aircraft slow and easy to see, with more than ten seconds needed to recover speed for defensive flying. {{ref:cobra}} On 1 November 1989 Pugachev also made the first carrier landing in Soviet history, in an Su-27K. {{ref:pugachev}}"
+        ]
+      },
+      {
+        "heading": "Variants & Derivatives",
+        "paragraphs": [
+          "Production versions include the Su-27S, the Su-27P interceptor and the Su-27UB trainer, while the Su-27K, later called Su-33, added folding wings, canards and an arrestor hook for carrier use. Russia's Su-27SM upgrade from 2004 added multifunction displays, R-77 missiles and Kh-29 and Kh-31 munitions. {{ref:wikipedia}}",
+          "Two-seat derivatives became the Su-30 family, including the Su-30MKK for China, first flown in 1999, and the Su-30MKI for India, delivered from 2002. The side-by-side Su-34 strike aircraft began development in 1983 and flew in production form in early 1994, and China began licence-building the Su-27SK as the J-11 in 1998, with a first flight on 16 December 1998. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Service History & Current Status",
+        "paragraphs": [
+          "On 13 September 1987 a Soviet Su-27 flown by Lieutenant Vasiliy Tsymbal collided with a Norwegian P-3B Orion over the Barents Sea. The Orion, aircraft 602 of 333 Squadron from Bodo, was shadowing Soviet Navy ships, and its captain, First Lieutenant Jan Salvesen, slowed it by lowering the undercarriage and positioned it above the fighter, not knowing an Su-27 could fly that slowly. The Flanker slowed too, the Norwegian crew lost sight of it, and its port fin struck the number 4 propeller. Debris punctured the fuselage and caused decompression, the Norwegians shut down the damaged engine, and both aircraft landed safely. The Soviet Union apologised, Tsymbal was expelled from the Communist Party and reinstated a day later, he received the Order of the Red Star, and the Soviet report found both pilots at fault, a finding the Norwegian defence ministry debated. Close-up photographs from the incident ran in Western magazines that autumn and gave NATO its first good look at a production Su-27. {{ref:orion}}",
+          "In the Eritrean-Ethiopian War of 1998 to 2000, Ethiopian Su-27s confirmed two Eritrean MiG-29s shot down and one damaged in February 1999, although Ethiopia claimed seven. Russian forces used Su-27s in Abkhazia in 1992 and 1993, where one was shot down by friendly S-75M fire on 19 March 1993, and again in the 2008 South Ossetia war. Angola lost one to a MANPADS on 19 November 2000. A squadron of Su-27SM3s deployed to Syria in November 2015, Ukrainian aircraft bombed Snake Island on 7 May 2022, and a Russian Su-27 collided with an MQ-9 Reaper over the Black Sea on 14 March 2023. Russia had 101 Su-27s in service in 2021 and Ukraine had 34 in March 2019, and a tally drawn from Oryx put Ukrainian losses at 17 and Russian losses at 3 as of 24 October 2025. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Sknyliv & Other Accidents",
+        "paragraphs": [
+          "The worst accident involving the type was at Sknyliv airfield near Lviv, Ukraine, on 27 July 2002, at an air show marking the 60th anniversary of the 14th Air Corps and attended by more than 10,000 people. At 12:52 pm an Su-27UB flown by Volodymyr Toponar and Yuriy Yegorov entered a rolling manoeuvre at low altitude on a downward path, rolled upright but kept descending, and dropped its left wing shortly before impact. The crew ejected, the aircraft glanced off the nose of a parked Il-76, exploded and cartwheeled into the crowd, and 77 people on the ground were killed, 28 of them children. A further 543 were injured. {{ref:sknyliv}}",
+          "An inquiry led by Yevhen Marchuk on 7 August 2002 put most of the blame on the pilots for not following the flight plan, and also blamed the organisers for allowing stunts close to spectators. President Leonid Kuchma dismissed the air force commander, General Viktor Strelnykov. The pilots said the flight map they were given differed from the real layout of the field. On 24 June 2005 a military court sentenced Toponar to 14 years and Yegorov to 8, and Yegorov's term was cut to three and a half years by President Viktor Yushchenko, who released him in 2008, while Toponar maintained that he was innocent. A Russian Knights display team crash near Cam Ranh, Vietnam, killed four pilots on 12 December 1995, and two team aircraft collided near Zhukovsky on 16 August 2009, killing the leader, Igor Tkachenko. {{ref:sknyliv}}{{ref:wikipedia}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Sukhoi Su-27",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+    },
+    {
+      "id": "sknyliv",
+      "name": "Sknyliv air show disaster",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sknyliv_air_show_disaster"
+    },
+    {
+      "id": "cobra",
+      "name": "Pugachev's Cobra",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pugachev%27s_Cobra"
+    },
+    {
+      "id": "p42",
+      "name": "Sukhoi P-42",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/world/russia/su-p-42.htm"
+    },
+    {
+      "id": "pugachev",
+      "name": "Viktor Pugachev",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Pugachev"
+    },
+    {
+      "id": "orion",
+      "name": "Cold War crash: the tale of a Soviet Su-27 Flanker colliding with a Norwegian P-3 Orion",
+      "publisher": "The National Interest",
+      "url": "https://nationalinterest.org/print/blog/buzz/cold-war-crash-tale-soviet-su-27-flanker-colliding-norwegian-p-3-orion-68482"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Sukhoi Su-27 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+    },
+    {
+      "name": "Sknyliv air show disaster - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sknyliv_air_show_disaster"
+    },
+    {
+      "name": "Sukhoi P-42 - GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/world/russia/su-p-42.htm"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1978-07-07",
+      "title": "T-10-2 prototype crashes",
+      "tag": "Overstress (test flight)",
+      "summary": "The second T-10 prototype, first flown on 16 May 1978, crashed after exceeding its g limit and the pilot was killed.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+    },
+    {
+      "date": "1981-12-23",
+      "title": "T-10-12 breaks up in flight",
+      "tag": "Structural failure (test flight)",
+      "summary": "The T-10-12 prototype broke up in flight and its pilot was killed. Sukhoi's general designer was dismissed afterwards.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+    },
+    {
+      "date": "1987-09-13",
+      "title": "Collision with a Norwegian P-3 over the Barents Sea",
+      "tag": "Mid-air collision",
+      "summary": "A Soviet Su-27 flown by Lt. Vasiliy Tsymbal struck the number 4 propeller of Norwegian P-3B Orion 602 over the Barents Sea. The Orion shut down the engine after decompression and vibration, and both aircraft landed safely.",
+      "fatalities": 0,
+      "source": "https://nationalinterest.org/print/blog/buzz/cold-war-crash-tale-soviet-su-27-flanker-colliding-norwegian-p-3-orion-68482"
+    },
+    {
+      "date": "1990-09-09",
+      "title": "Salgareda airshow crash",
+      "tag": "Airshow crash",
+      "summary": "An Su-27 crashed at the Salgareda airshow after a low loop. The Lithuanian pilot Rimantas Stankevicius and a spectator were killed.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+    },
+    {
+      "date": "1993-03-19",
+      "title": "Shot down by friendly fire in Abkhazia",
+      "tag": "Friendly fire",
+      "summary": "A Russian Su-27 was shot down by friendly S-75M fire during the Abkhazia conflict and the pilot was killed.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+    },
+    {
+      "date": "1995-12-12",
+      "title": "Russian Knights crash near Cam Ranh",
+      "tag": "Display team crash",
+      "summary": "A Russian Knights Su-27 crashed near Cam Ranh, Vietnam, and four pilots were killed.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+    },
+    {
+      "date": "2002-07-27",
+      "title": "Sknyliv airshow disaster",
+      "tag": "Airshow crash",
+      "summary": "An Su-27UB crashed into spectators at the Sknyliv airshow near Lviv after a low rolling manoeuvre. Both pilots ejected and survived, 77 people on the ground were killed, including 28 children, and 543 were injured.",
+      "fatalities": 77,
+      "source": "https://en.wikipedia.org/wiki/Sknyliv_air_show_disaster"
+    },
+    {
+      "date": "2009-08-16",
+      "title": "Russian Knights collision near Zhukovsky",
+      "tag": "Mid-air collision",
+      "summary": "Two Russian Knights Su-27s collided near Zhukovsky. The team leader, Igor Tkachenko, was killed.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+    },
+    {
+      "date": "2023-03-14",
+      "title": "Collision with an MQ-9 Reaper over the Black Sea",
+      "tag": "Mid-air collision",
+      "summary": "A Russian Su-27 collided with a US MQ-9 Reaper over the Black Sea.",
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+    }
+  ],
+  "survivors": {
+    "intro": "A selection of museum aircraft taken from a single source, so not a full census. Serial numbers are given only where the source gave them.",
+    "airframes": [
+      {
+        "serial": "T-10-1",
+        "name": null,
+        "location": "Central Air Force Museum",
+        "place": "Monino, Moscow Oblast, Russia",
+        "note": "The first T-10 prototype.",
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "T-10-10",
+        "name": null,
+        "location": "Aviation Technical Museum",
+        "place": "Luhansk, Ukraine",
+        "note": "Prototype on display.",
+        "countryCode": "ua",
+        "country": "Ukraine"
+      },
+      {
+        "serial": "T-10-20",
+        "name": null,
+        "location": "Technical Museum of Vadim Zadorozhny",
+        "place": "Moscow Oblast, Russia",
+        "note": "Prototype on display.",
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Patriot Park",
+        "place": "Kubinka, Russia",
+        "note": "Su-27 and an Su-27UB are both listed here.",
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio, United States",
+        "note": "Su-27UB.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Victory Park",
+        "place": "Hlybokaye, Belarus",
+        "note": "Su-27P.",
+        "countryCode": "by",
+        "country": "Belarus"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Patriot Park",
+        "place": "Qarshi, Uzbekistan",
+        "note": "Su-27 on display.",
+        "countryCode": "uz",
+        "country": "Uzbekistan"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-01"
+}

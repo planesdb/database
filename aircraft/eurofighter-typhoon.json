@@ -55,7 +55,7 @@
     "numberBuilt": 600,
     "unitCost": {
       "usd": 120000000,
-      "text": "Not publicly disclosed - varies heavily by tranche, contract and equipment package"
+      "text": "$120M~ - varies heavily by tranche, contract and equipment package"
     },
     "combatLosses": "No Typhoon has ever been lost to enemy action. One Royal Saudi Air Force aircraft was lost on 13 Sep 2017 after flying into a mountain during a combat sortie over Yemen - the type's only loss during an active combat mission, attributed to a technical/navigational failure rather than hostile fire."
   },
@@ -407,6 +407,12 @@
     {
       "date": "2026-09-09",
       "change": "Added the six export operators missing from the roster - Saudi Arabia, Kuwait, Qatar, Austria, Oman and the 2025 Turkish order - with delivered figures and contract dates. The roster previously listed only the four partner nations.",
+      "author": "planesdb"
+    },
+    ,
+    {
+      "date": "2026-11-02",
+      "change": "Updated cost of plane statistic",
       "author": "planesdb"
     }
   ],

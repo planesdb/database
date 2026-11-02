@@ -1,0 +1,331 @@
+{
+  "name": "Tu-22 Blinder",
+  "fullName": "Tupolev Tu-22 (NATO: Blinder)",
+  "manufacturer": "Tupolev",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Supersonic Bomber, Reconnaissance & Missile Carrier",
+  "tagline": "The Tupolev Tu-22 (NATO: Blinder) is a Soviet twin-engine supersonic bomber with its two Dobrynin engines mounted on the rear fuselage on either side of the fin. The first prototype flew on 21 June 1958, the type entered service in 1962, and 311 were built by 1969 in bomber, reconnaissance, electronic warfare, missile carrier and trainer versions.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The Tu-22 was shown at the Tushino Aviation Day parade on 9 July 1961 in a flypast of 10 aircraft, a year before it entered service.",
+    "Its landing speed was 100 km/h higher than earlier bombers, and it tended to pitch up and strike its tail on landing.",
+    "The navigator and weapons officer sat in downward-firing ejector seats with a minimum ejection altitude of 350 m, so they could not eject during takeoff or landing.",
+    "The cooling system used a mixture of 40 percent ethanol and 60 percent distilled water, and crews drank the coolant despite a crackdown.",
+    "On 19 March 1988 Iraqi Tu-22s sank one supertanker and damaged another near Kharg Island, and Iraq lost seven Tu-22s in the war with Iran.",
+    "Many Tu-16 pilots could not finish transition training, so pilots were later drawn from Su-17 crews."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Tu-22 bomber. No empty weight is given in the sources checked, and no flyaway price has been published.",
+    "maxSpeed": {
+      "mph": 938,
+      "text": "815 kn (938 mph / 1,510 km/h)"
+    },
+    "range": {
+      "miles": 3045,
+      "text": "3,045 mi (4,900 km)"
+    },
+    "serviceCeiling": {
+      "ft": 43600,
+      "text": "43,600 ft (13,300 m)"
+    },
+    "wingspan": {
+      "ft": 76,
+      "text": "76 ft 0 in (23.17 m)"
+    },
+    "length": {
+      "ft": 136.5,
+      "text": "136 ft 6 in (41.6 m)"
+    },
+    "height": {
+      "ft": 33.25,
+      "text": "33 ft 3 in (10.13 m)"
+    },
+    "weight": "empty: not published; MTOW: 202,825 lb (92,000 kg); gross: 187,393 lb (85,000 kg)",
+    "engines": "2 x Dobrynin RD-7M-2 afterburning turbojets, 24,300 lbf (107.9 kN) dry and 36,400 lbf (161.9 kN) with afterburner each",
+    "armament": "1 x 23 mm R-23 cannon in a tail turret aimed by a PRS-3A radar; bomb bay for up to 24 FAB-500 bombs, one FAB-9000 (9,000 kg) or nuclear weapons, a capacity of 12,000 kg; one Kh-22 missile on the Tu-22K",
+    "crew": "3 (pilot, weapons officer, navigator)",
+    "capacity": "Up to 12,000 kg (26,500 lb) of bombs",
+    "firstFlight": {
+      "date": "1958-06-21",
+      "year": 1958
+    },
+    "serviceEntryDate": "1962",
+    "retiredDate": "2000s",
+    "numberBuilt": 311,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no flyaway price for the Tu-22 has been published",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "Tu-22B / Tu-22A (Blinder-A)",
+      "desc": "The free-fall bomber, of which only 15 were built, mostly used for training or test work. The export Tu-22A, sometimes called Tu-22B in documents, went to Iraq and Libya, with 10 delivered to Iraq and 14 to Libya. The type could carry up to 24 FAB-500 bombs or one FAB-9000 in its bay."
+    },
+    {
+      "code": "Tu-22R (Blinder-C)",
+      "desc": "The reconnaissance version, which kept its bombing capability. The R-series family comprised the R, the RD with refuelling, the RK with Kub ELINT equipment, the RDK combining the two, and the RDM, an upgraded version of the early 1980s. About 127 reconnaissance aircraft were built, the largest group of Tu-22s."
+    },
+    {
+      "code": "Tu-22K (Blinder-B)",
+      "desc": "The missile carrier, armed with the Kh-22 (AS-4 Kitchen), introduced in 1965 and in service from December 1968. The K, KD, KP and KPD versions together account for 76 aircraft built. The KP and KPD carried the Kh-22P anti-radiation missile and were used for electronic warfare and bombing."
+    },
+    {
+      "code": "Tu-22P / PD (Blinder-E)",
+      "desc": "The electronic warfare version, with the PD adding refuelling, and 47 built in total. Their job was to jam hostile radars. In 1988 Tu-22PDs covered the Soviet withdrawal from Afghanistan by jamming radars and protecting Tu-22M3 bombers in the only Soviet combat use of the Tu-22 family."
+    },
+    {
+      "code": "Tu-22U / UD (Blinder-D)",
+      "desc": "The trainer, with 46 built across the U and UD versions. Libya received two Tu-22UDs and Iraq two Tu-22Us. Pilot transition was difficult, because many Tu-16 pilots could not complete training and pilots were later drawn from Su-17 units instead. The Soviet Union and the two export customers all flew the trainer alongside their operational aircraft."
+    },
+    {
+      "code": "Tu-22M",
+      "desc": "A separate variable-geometry design that Tupolev named Tu-22 largely for political reasons, and which replaced the Tu-22 in Soviet service. It had a different wing, new engines and a four-person crew. The Tu-22M is covered in its own entry in this database, and 497 were built, against 311 Tu-22s."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet Air Force (Long-Range Aviation)",
+      "role": "Primary Operator",
+      "status": "Retired",
+      "since": "1962",
+      "fleetSize": "154 remained at the dissolution of the Soviet Union; 311 built overall",
+      "homeBase": "Soviet Union"
+    },
+    {
+      "name": "Soviet Naval Aviation",
+      "role": "Maritime Operator",
+      "status": "Retired",
+      "since": "1962",
+      "fleetSize": "Not published; Baltic Fleet 1962 to 1989 and Black Sea Fleet 1965 to 1993",
+      "homeBase": "Baltic and Black Sea fleets"
+    },
+    {
+      "name": "Libyan Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "14 Tu-22A and 2 Tu-22UD; last recorded flight 7 September 1992, retired in the early 2000s through lack of spares",
+      "homeBase": "Libya"
+    },
+    {
+      "name": "Iraqi Air Force",
+      "role": "Export Operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "10 Tu-22B, 2 Tu-22U and 4 Tu-22K; 7 lost in the war with Iran, the rest destroyed in 1991",
+      "homeBase": "Iraq"
+    },
+    {
+      "name": "Russian Air Force",
+      "role": "Inherited Fleet",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "10 in reserve",
+      "homeBase": "Russia"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Inherited Fleet",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "Not published",
+      "homeBase": "Ukraine"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The Tu-22 is retired, and the sources checked say none is believed to be in use. It will not appear on Flightradar24."
+  },
+  "changelog": [
+    {
+      "date": "2026-11-01",
+      "change": "New entry for the Tupolev Tu-22 Blinder, covering its handling problems, the bomber, recce and missile versions, Libyan and Iraqi combat use and the surviving aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added more on the Tu-22's crew and landing problems, the 105A crash, and the Libyan raid on Mwanza and the war it was part of.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "tu-22",
+    "tupolev tu-22",
+    "blinder",
+    "tu22",
+    "tu-22k",
+    "kh-22",
+    "samolyot 105",
+    "soviet bomber",
+    "tupolev",
+    "libya",
+    "iraq"
+  ],
+  "article": {
+    "overview": [
+      "The Tupolev Tu-22 (NATO: Blinder) is a Soviet twin-engine supersonic bomber with its two Dobrynin engines mounted on the rear fuselage on either side of the fin. The first prototype, Samolyot 105, flew on 21 June 1958, the type entered service in 1962 and 311 were built by 1969. {{ref:wikipedia}}",
+      "It fell short of its expected speed and range, and the Tu-22M that replaced it was a separate variable-geometry design. Libya and Iraq received export aircraft and used them against Chad, Tanzania and Iran, and the Soviet Union used the family in combat only in Afghanistan in 1988. {{ref:wikipedia}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Development",
+        "paragraphs": [
+          "Yeger selected Samolyot 105 in 1954, and both the Tupolev and Myasishchev designs were approved for prototype production that year. The first prototype 105 was shipped to Zhukovsky in August 1957 and first flew on 21 June 1958, flown by Yuri Alasheev. The 105A crashed about three months after its first flight, on its seventh test flight, and two crew were killed. {{ref:wikipedia}}{{ref:migflug}}",
+          "The 105A, with an area-ruled fuselage and new landing gear, first flew on 7 September 1959, and the first serial Tu-22B flew on 22 September 1960. The type was shown at the Tushino Aviation Day parade on 9 July 1961 with a flypast of 10 aircraft and entered service in 1962. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Design & Layout",
+        "paragraphs": [
+          "The two Dobrynin turbojets were moved from the wing roots to the rear fuselage on either side of the vertical stabiliser. Wind-tunnel work at LII showed a pitch-up tendency near Mach 1, and the move also reduced drag and inlet losses. The engines were first VD-7M units of 159 kN and later RD-7M2 units of 162 kN. {{ref:wikipedia}}",
+          "The crew of three sat with the pilot forward and slightly left, the weapons officer behind, and the navigator below within the fuselage. The weapons officer and navigator used downward-firing ejector seats and entered by lowering their seats on rails and being cranked up into the cockpit. A tail turret carried one 23 mm R-23 gun aimed with a PRS-3A radar. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Handling Problems",
+        "paragraphs": [
+          "Landing speed was 100 km/h higher than on earlier bombers, with touchdown at 320 to 330 km/h, and the aircraft tended to pitch up and strike its tail on landing until electronic stabilisation aids fixed this. Forward visibility was poor, and new pilots were barred from flying it in crosswinds above a fresh breeze. Aerodynamic heating at supersonic speed distorted control rods and the wing design allowed aileron reversal at high speed, which could leave the aircraft almost uncontrollable. {{ref:wikipedia}}{{ref:migflug}}",
+          "The Tu-22 was maintenance-intensive with widespread unserviceability, and transition was hard enough that many Tu-16 pilots could not finish training. The cockpit drew criticism, because a high right-hand panel blocked the view of the runway in crosswinds. The early downward-firing ejection seats needed about 230 to 245 m of height in level flight, which ruled them out on take-off and landing, and the three crew sat in separate compartments and could not tell whether the others had ejected. About 70 aircraft were lost, roughly one in five built, although Russian sources differ on whether that count runs to 1975 or 1992, and crews sometimes refused to fly after fatal crashes. The load limit of +2 g gave it the manoeuvre envelope of an airliner, and crews called it the Shilo, meaning awl. {{ref:wikipedia}}{{ref:migflug}}"
+        ]
+      },
+      {
+        "heading": "Production & Variants",
+        "paragraphs": [
+          "Production totalled 311 Tu-22s of all variants and ended in 1969: 15 bombers, about 127 reconnaissance aircraft, 47 electronic warfare aircraft, 76 missile carriers and 46 trainers. {{ref:wikipedia}}",
+          "The Tu-22K carried the Kh-22 (AS-4 Kitchen) missile and was introduced in 1965, entering service in December 1968, and the export Tu-22A went to Iraq and Libya. The Tu-22M was a separate variable-geometry design that took the Tu-22 name largely for political reasons. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Combat Use",
+        "paragraphs": [
+          "Libya flew over 1,000 troops into Uganda on 9 March 1979 to prop up Idi Amin, about 4,500 in all, and about 200 Libyans died at the Battle of Lukaya on 10 and 11 March. Gaddafi followed an ultimatum with a single Tu-22 sent against a fuel depot at Mwanza, Tanzania, on 29 March 1979, ordered to intimidate President Nyerere. The bomber missed and hit a game sanctuary on Saa Nane Island, and Tanzanian jets answered by attacking fuel depots at Kampala, Jinja and Tororo. {{ref:uganda}}{{ref:migflug}} Against Chad from 1980, a raid on Omdurman in September 1981 killed three civilians, a Tu-22B made a low-level attack on N'Djamena airport on 17 February 1986 and bombed the runway, and Tu-22s were shot down at Aouzou on 8 August 1987 by captured SA-6 missiles and on 7 September 1987 by a French Hawk battery. {{ref:wikipedia}}",
+          "Iraq used the Tu-22 against Iran from the first day of the war in 1980, when one attacked a fuel depot at Mehrabad. On 19 March 1988 Iraqi aircraft sank one supertanker and damaged another near Kharg Island, and two were shot down in a later raid that day. Iraq lost seven Tu-22s in the war, and the survivors were destroyed in the 1991 Gulf War. The Iraqi raids included the War of the Cities from 1985 to 1988. In Afghanistan in 1988, Tu-22PD electronic warfare aircraft flew escort jamming during the Soviet withdrawal. {{ref:wikipedia}}{{ref:migflug}}"
+        ]
+      },
+      {
+        "heading": "Retirement & Survivors",
+        "paragraphs": [
+          "154 Tu-22s remained at the dissolution of the Soviet Union, and cutting of aircraft at Engels was reported from 1993. In August 1994 the last aircraft of two regiments left Belarus for scrapping at Engels, and Ukraine retired its last Tu-22s in 1998. Libya's last recorded flight was on 7 September 1992 and the aircraft were retired in the early 2000s through lack of spare parts. {{ref:wikipedia}}",
+          "Three Tu-22Bs survive in Russian museums, a Tu-22KD is at the Poltava Museum of Long-Range and Strategic Aviation, and seven Libyan Tu-22s were visible at Al Jufra Air Base. {{ref:wikipedia}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Tupolev Tu-22",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-22"
+    },
+    {
+      "id": "migflug",
+      "name": "Tupolev Tu-22 Blinder - History, Specs & Stories",
+      "publisher": "Migflug",
+      "url": "https://migflug.com/aircraft/tu-22-blinder/"
+    },
+    {
+      "id": "uganda",
+      "name": "Uganda-Tanzania War",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uganda%E2%80%93Tanzania_War"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Tupolev Tu-22 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-22"
+    },
+    {
+      "name": "Tupolev Tu-22 Blinder - Migflug",
+      "url": "https://migflug.com/aircraft/tu-22-blinder/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1959",
+      "title": "105A prototype crashes on its seventh test flight",
+      "tag": "Test flight crash",
+      "summary": "The area-ruled 105A prototype crashed about three months after its first flight, on its seventh test flight, and two crew were killed.",
+      "fatalities": 2,
+      "source": "https://migflug.com/aircraft/tu-22-blinder/"
+    },
+    {
+      "date": "1979-03-29",
+      "title": "Libyan raid on Mwanza fails",
+      "tag": "Combat use",
+      "summary": "One Libyan Tu-22 was sent against a fuel depot at Mwanza, Tanzania, in support of Uganda. It missed and hit a game sanctuary on Saa Nane Island.",
+      "source": "https://en.wikipedia.org/wiki/Uganda%E2%80%93Tanzania_War"
+    },
+    {
+      "date": "1980-10",
+      "title": "Iran claims three Iraqi Tu-22 shootdowns",
+      "tag": "Air combat",
+      "summary": "Iran claimed three Iraqi Tu-22s shot down in October 1980, early in the Iran-Iraq War. The first Iraqi attack had hit a fuel depot at Mehrabad on the first day of the war.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22"
+    },
+    {
+      "date": "1981-09",
+      "title": "Libyan raid on Omdurman",
+      "tag": "Combat use",
+      "summary": "A Libyan Tu-22 raid on Omdurman in Sudan in September 1981 killed three civilians and injured 20.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22"
+    },
+    {
+      "date": "1987-08-08",
+      "title": "Tu-22 shot down at Aouzou by captured SA-6",
+      "tag": "Shot down",
+      "summary": "A Libyan Tu-22B was shot down at Aouzou by captured SA-6 missiles during the war with Chad.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22"
+    },
+    {
+      "date": "1987-09-07",
+      "title": "Tu-22 shot down by a French Hawk battery",
+      "tag": "Shot down",
+      "summary": "A French Hawk battery shot down a Libyan Tu-22, killing its East German crew.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22"
+    },
+    {
+      "date": "1988-03-19",
+      "title": "Iraqi Tu-22s attack tankers off Kharg Island",
+      "tag": "Combat use",
+      "summary": "Iraqi Tu-22s sank one supertanker and damaged another near Kharg Island. Two were shot down in a later raid that day.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22"
+    }
+  ],
+  "survivors": {
+    "intro": "Preserved Tu-22s listed in the source checked. Serial numbers are not given. Seven Libyan Tu-22s were also reported visible at Al Jufra Air Base, which is a base and not a museum.",
+    "airframes": [
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Poltava Museum of Long-Range and Strategic Aviation",
+        "place": "Poltava, Ukraine",
+        "note": "Tu-22KD.",
+        "countryCode": "ua",
+        "country": "Ukraine"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Russian museums",
+        "place": "Russia",
+        "note": "Three Tu-22Bs survive in Russian museums as of 2023. The source does not name the museums.",
+        "countryCode": "ru",
+        "country": "Russia"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-01"
+}

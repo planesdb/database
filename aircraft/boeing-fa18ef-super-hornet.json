@@ -115,11 +115,16 @@
     "icaoTypeCode": "F18S",
     "howToFind": "Search type F18S. Military operators often fly without broadcasting, so sightings on public feeds are limited to occasional transit and ferry flights."
   },
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-11-01",
   "changelog": [
     {
       "date": "2026-10-28",
       "change": "Added the F/A-18E/F Super Hornet, with its development, upgrade blocks, combat record, export history and the end of production in 2027.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added the programme's cost record, the first AESA squadron, the Amberley ditching and the March 2026 Iranian claim.",
       "author": "planesdb"
     }
   ],
@@ -147,14 +152,14 @@
         "heading": "Origins & Concept",
         "paragraphs": [
           "The Super Hornet grew out of the Hornet 2000, a proposal McDonnell Douglas made in the 1980s for an enlarged Hornet with a bigger wing, a longer fuselage and more powerful engines. The Navy turned to it after a run of cancellations: the A-12 Avenger II in 1991, the Navy Advanced Tactical Fighter in 1991 and 1992, F-14D production in 1991 and the A/F-X in the 1993 Bottom-Up Review. It placed its first order in 1992. {{ref:wikipedia}}",
-          "Engineering and manufacturing development cost was capped at $4.88 billion in FY1990 dollars, about $10.3 billion in 2024 money. The Navy kept the F/A-18 designation to present the programme to Congress as a low-risk derivative, although the aircraft is largely new. The 1997 Quadrennial Defense Review cut the planned buy of about 1,000 aircraft by nearly half, and in 2006 the Navy was still 60 fighters short of its validated requirement. {{ref:wikipedia}}"
+          "Engineering and manufacturing development cost was capped at $4.88 billion in FY1990 dollars, about $10.3 billion in 2024 money. The Navy kept the F/A-18 designation to present the programme to Congress as a low-risk derivative, although the aircraft is largely new. The 1997 Quadrennial Defense Review cut the planned buy of about 1,000 aircraft by nearly half, and in 2006 the Navy was still 60 fighters short of its validated requirement. {{ref:wikipedia}} The Navy counts the programme a success because it met its cost, schedule and weight thresholds, with the weight coming in 400 lb under the limit, and a 2010 multiyear contract reportedly saved $600 million. {{ref:wikipedia}}"
         ]
       },
       {
         "heading": "Design & Engineering",
         "paragraphs": [
           "The fuselage was stretched by 34 inches (86 cm), wing area rose 25 percent and internal fuel 33 percent, which lifted mission range by 41 percent and endurance by 50 percent over the Hornet. Empty weight rose by about 7,000 lb (3,200 kg) and maximum weight by about 15,000 lb (6,800 kg), yet the airframe has 42 percent fewer structural parts. Two General Electric F414 engines, derived from the F404, give about 35 percent more thrust across most of the flight envelope, 22,000 lbf each in afterburner. {{ref:wikipedia}}",
-          "Development flying took 3,100 test flights and 4,600 flight hours and produced fixes for wing drop, a dogtooth extension and a porous strip at the wing fold, and for interference when releasing stores. The aircraft has quadruplex digital fly-by-wire controls, larger caret inlets with fixed ramps, enlarged leading-edge extensions, a 20 mm M61A2 cannon and 11 hardpoints. New-build Block II aircraft carry the AN/APG-79 AESA radar from 2005, replacing the APG-73. {{ref:wikipedia}} {{ref:navair}}"
+          "Development flying took 3,100 test flights and 4,600 flight hours and produced fixes for wing drop, a dogtooth extension and a porous strip at the wing fold, and for interference when releasing stores. The aircraft has quadruplex digital fly-by-wire controls, larger caret inlets with fixed ramps, enlarged leading-edge extensions, a 20 mm M61A2 cannon and 11 hardpoints. New-build Block II aircraft carry the AN/APG-79 AESA radar from 2005, replacing the APG-73. {{ref:wikipedia}} {{ref:navair}} The first carrier landing by an F/A-18E/F was in 1997, and VFA-213 became the first squadron with the AESA radar when it was declared safe for flight on 27 October 2006. {{ref:wikipedia}}"
         ]
       },
       {
@@ -168,7 +173,7 @@
         "heading": "Combat History",
         "paragraphs": [
           "On 6 November 2002 two F/A-18Es struck surface-to-air missile launchers near Al Kut and a command bunker at Tallil in Iraq, the first combat use of 2,000 lb JDAMs. Super Hornets flew close air support, strike, escort, defence suppression and tanker sorties through the Iraq War, and on 8 September 2006 VFA-211 aircraft dropped GBU-12 and GBU-38 bombs near Kandahar in Afghanistan. During the 2006 to 2007 cruise of USS Dwight D. Eisenhower they dropped 140 precision-guided weapons and made about 70 strafing runs. On 7 and 8 August 2014 two aircraft from USS George H.W. Bush attacked an Islamic State artillery piece near Irbil. {{ref:wikipedia}}",
-          "On 18 June 2017 Lt Cdr Michael Tremel of VFA-87 shot down a Syrian Su-22 that had bombed US-backed forces near Tabqa. His first shot, an AIM-9X, missed, and an AIM-120 hit after an engagement of about eight minutes. It was the first air-to-air kill by a Super Hornet and the Navy's first since the 1991 Gulf War. Eisenhower's Super Hornets, working with USS Laboon, destroyed 12 attack drones, three anti-ship missiles and two land-attack cruise missiles in the Red Sea on 26 December 2023, and took part in the 12 January 2024 strikes on 60 Houthi targets at 16 locations. {{ref:wikipedia}}"
+          "On 18 June 2017 Lt Cdr Michael Tremel of VFA-87 shot down a Syrian Su-22 that had bombed US-backed forces near Tabqa. His first shot, an AIM-9X, missed, and an AIM-120 hit after an engagement of about eight minutes. The Su-22 pilot had been warned several times by an E-3 Sentry first. It was the first air-to-air kill by a Super Hornet, the third by any F/A-18, the Navy's first since the 1991 Gulf War and the first American kill of a crewed aircraft since 1999. Eisenhower's Super Hornets, working with USS Laboon, destroyed 12 attack drones, three anti-ship missiles and two land-attack cruise missiles in the Red Sea on 26 December 2023, and took part in the 12 January 2024 strikes on 60 Houthi targets at 16 locations. {{ref:wikipedia}}"
         ]
       },
       {
@@ -182,7 +187,7 @@
         "heading": "Current Status & Outlook",
         "paragraphs": [
           "The Navy held 310 F/A-18Es, 246 F/A-18Fs and 161 EA-18Gs in March 2022. Its published unit cost is $67.4 million in FY2021 dollars, and another report put it at almost $60 million in fiscal 2023. The type is also the Blue Angels' aircraft, after a 2018 contract to convert nine single-seat and two two-seat jets for the team. {{ref:twz-production}} {{ref:navair}} {{ref:aviacionline}} {{ref:wikipedia}}",
-          "Recent operations have cost aircraft. A VFA-11 F/A-18F was shot down by USS Gettysburg on 22 December 2024 in a friendly fire incident, and both crew survived. An F/A-18E fell overboard from USS Harry S. Truman on 28 April 2025, and another was lost on 6 May 2025 when the arresting gear failed to catch it. {{ref:wikipedia}}"
+          "Recent operations have cost aircraft. A VFA-11 F/A-18F was shot down by USS Gettysburg on 22 December 2024 in a friendly fire incident, and both crew survived. An F/A-18E fell overboard from USS Harry S. Truman on 28 April 2025, and another was lost on 6 May 2025 when the arresting gear failed to catch it. {{ref:wikipedia}} A RAAF F/A-18F rolled into a ditch on take-off from Amberley on 8 December 2020 and both crew ejected, the cause was pilot error, and the RAAF grounded its 24 Super Hornets and 11 Growlers for a day. Iran claimed on 25 March 2026 to have shot down an F/A-18 during Operation Epic Fury, CENTCOM denied that any American aircraft had been shot down, and neutral sources say an aircraft was hit but not downed. The Wikipedia article does not say whether it was a Hornet or a Super Hornet. {{ref:wikipedia}}"
         ]
       }
     ]

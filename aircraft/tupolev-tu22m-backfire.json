@@ -1,0 +1,347 @@
+{
+  "name": "Tu-22M Backfire",
+  "fullName": "Tupolev Tu-22M (NATO: Backfire)",
+  "manufacturer": "Tupolev",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Variable-Sweep Strategic & Maritime Strike Bomber",
+  "tagline": "The Tupolev Tu-22M (NATO: Backfire) is a Soviet twin-engine, variable-sweep supersonic bomber built for strategic and maritime strike. It first flew on 30 August 1969, 497 were built including pre-production aircraft, and the Tu-22M3 version is still flown by Russia.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "The government approved it on 28 November 1967 as an update of the Tu-22, which is why it carries the Tu-22M designation.",
+    "The refuelling probe was removed to comply with SALT II, because with air refuelling the aircraft would have counted as intercontinental.",
+    "Without refuelling, the combat radius was estimated at 4,000 to 5,000 km by the US DIA and 3,360 to 3,960 km by the CIA, which kept it largely within Russia's immediate sphere of influence.",
+    "Of the 497 built, 211 were Tu-22M2s (1972 to 1984) and 268 were Tu-22M3s (until 1993).",
+    "The first combat use was conventional bombing in Afghanistan from 1987 to 1989, flown from Maryy-2 in Turkmenistan.",
+    "On 1 June 2025 at least four Tu-22Ms were destroyed on the ground at Belaya in Operation Spiderweb."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Tu-22M3. Wingspan is 112 ft 6 in spread at 20 degrees of sweep and 76 ft fully swept at 65 degrees. No official price exists, and the cost shown is the figure the Ukrainian commander-in-chief Oleksandr Syrskyi gave for one destroyed aircraft in March 2025. It is a single source.",
+    "maxSpeed": {
+      "mph": 1241,
+      "text": "1,078 kn (1,241 mph / 1,997 km/h) at 30,000 ft"
+    },
+    "range": {
+      "miles": 4225,
+      "text": "4,225 mi (6,800 km); ferry range 4,350 mi (7,000 km); combat range 1,550 mi (2,500 km) with a 10,000 kg load"
+    },
+    "serviceCeiling": {
+      "ft": 43600,
+      "text": "43,600 ft (13,300 m)"
+    },
+    "wingspan": {
+      "ft": 112.5,
+      "text": "112 ft 6 in (34.28 m) spread; 76 ft (23.3 m) swept"
+    },
+    "length": {
+      "ft": 139.33,
+      "text": "139 ft 4 in (42.46 m)"
+    },
+    "height": {
+      "ft": 36.25,
+      "text": "36 ft 3 in (11.05 m)"
+    },
+    "weight": "empty: 127,868 lb (58,000 kg); MTOW: 277,782 lb (126,000 kg)",
+    "engines": "2 x Kuznetsov NK-25 afterburning turbofans, 55,700 lbf (247.9 kN) each with afterburner",
+    "armament": "1 x 23 mm GSh-23 cannon in a remotely controlled tail turret; up to 24,000 kg (53,000 lb) of ordnance in the bay and on pylons, including the Kh-22 missile, Kh-15 missiles on a rotary launcher and free-fall bombs",
+    "crew": "4 (pilot, co-pilot, navigator, weapon systems officer)",
+    "capacity": "Internal fuel of 54,000 kg (119,000 lb)",
+    "firstFlight": {
+      "date": "1969-08-30",
+      "year": 1969
+    },
+    "serviceEntryDate": "1983",
+    "retiredDate": null,
+    "numberBuilt": 497,
+    "unitCost": {
+      "usd": 100000000,
+      "text": "Reported: ~$100M (unconfirmed)",
+      "inflationText": "Reported as $100M (2025 valuation of one aircraft)"
+    }
+  },
+  "variants": [
+    {
+      "code": "Tu-22M0 / Tu-22M1 (Backfire-A)",
+      "desc": "The earliest versions. Nine Tu-22M0 pre-production aircraft were followed by nine Tu-22M1 pilot-production aircraft built in 1971 and 1972, which NATO called Backfire-A. They tested the variable-sweep wing that Tupolev had added to the Tu-22 concept, and the first flight was on 30 August 1969. The Tu-22M2 entered production in 1972."
+    },
+    {
+      "code": "Tu-22M2 (Backfire-B)",
+      "desc": "The first major production version, with 211 built from 1972 to 1984. It had longer wings, a redesigned area-ruled fuselage, four crew and NK-22 engines of 215 kN each. Some aircraft were later re-engined as the Tu-22M2Ye with NK-23 engines. Ukraine inherited 17 Tu-22M2 aircraft in 1991, and all were later scrapped."
+    },
+    {
+      "code": "Tu-22M3 (Backfire-C)",
+      "desc": "The main production version, with 268 built until 1993. It has NK-25 engines of 247.9 kN, wedge intakes and greater wing sweep, with a top speed of Mach 2.05 and a range about one third greater than the M2. It was introduced into operation in 1983 and officially entered service in 1989, and Russia still flies it."
+    },
+    {
+      "code": "Tu-22M3M",
+      "desc": "The mid-life upgrade, with NK-32-02 engines, 80 percent of the avionics replaced, an NV-45 radar, GLONASS and mid-air refuelling equipment. The contract was signed in September 2014, the first aircraft was unveiled at Kazan on 16 August 2018 and flew on 28 December 2018, and a second flew on 20 March 2020. The plan was to upgrade up to 30 of about 60 Tu-22M3s."
+    },
+    {
+      "code": "Tu-22MR / SVP-24-22 aircraft",
+      "desc": "The Tu-22MR is a reconnaissance and electronic intelligence conversion of about 12 Tu-22M3s with the Shompol side-looking radar. Separately, Tu-22M3s fitted with the SVP-24-22 modernised avionics entered service in small numbers: five in 2015, two in 2017, one in 2018, two in 2019 and two in 2022."
+    },
+    {
+      "code": "Tu-22M4 and other projects",
+      "desc": "The Tu-22M4 began development in 1983 with NK-32 engines, a prototype was built in 1990, and work was discontinued in November 1991. The Tu-22DP was a long-range interceptor project based on the M2 and then the M3, and the Tu-344 was a cancelled supersonic business jet derived from the M3. India reportedly signed a lease-to-buy for four in 1999, with no evidence of Indian operation."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet Long-Range Aviation",
+      "role": "Original Strategic Operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "370 remained in CIS service when the Soviet Union dissolved",
+      "homeBase": "Russian, Ukrainian, Byelorussian and Estonian SSRs"
+    },
+    {
+      "name": "Russian Aerospace Forces (Long-Range Aviation)",
+      "role": "Current Operator",
+      "status": "In Service",
+      "since": "1991",
+      "fleetSize": "55 Tu-22M3 and 1 Tu-22MR in overhaul per the IISS; Ukrainian intelligence estimated 27 operable in 2023",
+      "homeBase": "Belaya, Olenya, Shaykovka and Dyagilevo (training)"
+    },
+    {
+      "name": "Soviet and Russian Naval Aviation",
+      "role": "Maritime Strike Operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published; maritime missile regiments at Lakhta, Olenya, Veseloye, Oktiabrske and Kulbakino",
+      "homeBase": "Northern, Baltic and Pacific bases"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Inherited Fleet",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "60 inherited (17 Tu-22M2 and 43 Tu-22M3), all scrapped by January 2006 under the Nunn-Lugar programme",
+      "homeBase": "Ukraine"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "TU22",
+    "howToFind": "Search type TU22. Russian bombers rarely broadcast their positions, so sightings are uncommon."
+  },
+  "changelog": [
+    {
+      "date": "2026-11-01",
+      "change": "New entry for the Tupolev Tu-22M Backfire, including the SALT II range dispute, the Tu-22M3M upgrade, combat use and the losses since 2022.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-01",
+      "change": "Added sections on the Kremenchuk mall strike and Operation Spiderweb, and merged the production and variants text into the design section.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "tu-22m",
+    "tu-22m3",
+    "tupolev tu-22m",
+    "backfire",
+    "tu-22m3m",
+    "tu22m",
+    "soviet bomber",
+    "russian bomber",
+    "kh-22",
+    "swing wing",
+    "tupolev"
+  ],
+  "article": {
+    "overview": [
+      "The Tupolev Tu-22M (NATO: Backfire) is a Soviet twin-engine, variable-sweep, supersonic bomber built for strategic and maritime strike. It first flew on 30 August 1969, 497 were built including pre-production aircraft, and the Tu-22M3 version is still flown by Russia. {{ref:wikipedia}}",
+      "Tupolev presented it as an update of the Tu-22 and gave it a Tu-22M designation, although it added a variable-sweep wing and new engines. Soviet Long-Range Aviation and Soviet Naval Aviation flew it, and it has flown combat missions in Afghanistan, Chechnya, Georgia, Syria and Ukraine. Two events in Ukraine, the Kremenchuk mall strike of 2022 and Operation Spiderweb in 2025, now define much of its public record. {{ref:wikipedia}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "By 1962 the Tu-22 was judged inadequate as a bomber. It had widespread unserviceability and maintenance problems, a landing speed about 100 km/h higher than earlier bombers, a tendency to strike its tail on landing and poor visibility. Tupolev began a major update that year, at first adding a variable-sweep wing and uprated engines. {{ref:wikipedia}}",
+          "Sukhoi's T-4, a response to the XB-70, was costlier and more complex, and the government doubted a replacement so soon after the Tu-22 entered service. Tupolev therefore presented its design as a Tu-22 update, designated Tu-22M, and the government approved it on 28 November 1967. The first flight was on 30 August 1969, and nine Tu-22M0 pre-production aircraft and nine Tu-22M1 pilot-production aircraft followed. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "SALT II & the Range Question",
+        "paragraphs": [
+          "The Soviet Union used the Tu-22M designation during the SALT II talks, which suggested a modified Tu-22. Some sources say the name was chosen to hide the aircraft's performance and others say it was an internal device to ease budget approval. The refuelling probe was provided for in the original design and removed to comply with SALT II, because with air refuelling the aircraft was considered intercontinental in range. {{ref:wikipedia}}",
+          "The probe can be reinstalled, and the Tu-22M3M upgrade planned to restore mid-air refuelling equipment. Without refuelling, the US Defense Intelligence Agency estimated a combat radius of 4,000 to 5,000 km and the CIA estimated 3,360 to 3,960 km, which limited operations largely to Russia's immediate sphere of influence. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Design, Weapons & Variants",
+        "paragraphs": [
+          "Production totalled 497 aircraft. The Tu-22M2 entered production in 1972 on NK-22 engines of 215 kN each, and 211 were built to 1984, then 268 Tu-22M3s followed until 1993. The M3 has a four-person crew, two Kuznetsov NK-25 afterburning turbofans of 247.9 kN each, wedge intakes, more wing sweep, a top speed of Mach 2.05 and about a third more range than the M2. Its wing spans 34.28 m spread and 23.3 m swept, and its Almaz PNA navigation and attack radar is known to NATO as Down Beat. {{ref:wikipedia}}",
+          "The main weapon is the Kh-22 anti-ship and strike missile, and a rotary launcher in the bay holds up to six Kh-15 missiles with four more underwing. Total ordnance capacity is 24,000 kg, typical loads include up to 18 FAB-500 bombs, mines, 69 FAB-250 bombs or 8 FAB-1500 bombs, and a 23 mm GSh-23 cannon in a remote tail turret provides self-defence. The Tu-22M4, with NK-32 engines, reached a prototype in 1990 and was dropped in November 1991, about 12 Tu-22M3s became Tu-22MR reconnaissance aircraft, and the Tu-22M3M upgrade first flew on 28 December 2018. A Tu-344 supersonic business jet based on the M3 was cancelled. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "Combat History",
+        "paragraphs": [
+          "The first combat use was conventional bombing in Afghanistan from 1987 to 1989, flown from Maryy-2 in Turkmenistan, where the aircraft supported the Khost relief effort. Sixteen Tu-22M3s covered the 1988 withdrawal, and the last Afghan operation was in January 1989 at the Salang pass. Tu-22Ms also struck targets near Grozny in 1995. {{ref:wikipedia}}",
+          "A Tu-22MR was shot down over South Ossetia on 9 August 2008 by a Buk-M1 missile, with two crew killed, one captured and the commander missing. Six Tu-22M3s struck Deir ez-Zor in Syria in late 2015 and 2016, and operations from Hamedan in Iran began on 16 August 2016. Use against Ukraine was first reported on 15 April 2022 against Mariupol, and about 300 Kh-22 missiles had been launched by December 2023, none reported shot down. {{ref:wikipedia}}"
+        ]
+      },
+      {
+        "heading": "The Kremenchuk Mall Strike",
+        "paragraphs": [
+          "On the afternoon of 27 June 2022 two Kh-22 missiles hit the Amstor shopping mall in central Kremenchuk, in Poltava Oblast. The Ukrainian Armed Forces said Tu-22M3s took off from Shaykovka air base in the Kaluga region and fired over the Kursk region, and Ukrainian media identified the unit as the 52nd Heavy Bomber Aviation Regiment. The missiles landed about 450 m apart. Governor Dmytro Lunin reported 20 dead, 59 people were injured and 36 were reported missing, and President Zelenskyy said more than 1,000 people were inside. The fire covered more than 10,000 square metres and up to 115 firefighters attended. {{ref:kremenchuk}}",
+          "Russia's Defence Ministry first said it had hit a weapons depot at a nearby factory and that detonating munitions had set fire to a non-functioning mall, while other officials and state media called the attack fake. Mayor Vitalii Maletskyi said the area had no links to the armed forces, Bellingcat used purchase receipts to show the mall was open, and the BBC, The Guardian and Bellingcat found the Russian claims false. The UK Ministry of Defence saw a realistic possibility that the missile was meant for a nearby infrastructure target and may have locked onto the mall's large flat metal walls. The G7 leaders called it an abominable attack and said indiscriminate attacks on civilians are a war crime. {{ref:kremenchuk}}"
+        ]
+      },
+      {
+        "heading": "Operation Spiderweb & Current Status",
+        "paragraphs": [
+          "On 1 June 2025 Ukraine's Security Service (SBU) attacked five Russian air bases with 117 drones, in an operation Zelenskyy said took 18 months and 9 days to plan. About 36 Osa quadcopters, each carrying just over 3.2 kg, were hidden under the roofs of wooden cabins on flatbed trucks assembled in Chelyabinsk and driven to their targets by unwitting hired drivers, who were told by phone where to park. The roofs were raised remotely and the drones launched. Each drone cost about $2,000, and its AI-assisted target recognition was trained on Tu-22M3s at the Poltava museum. At Belaya in Irkutsk Oblast, home of the 200th Guards Heavy Bomber Regiment, analysts assessed four Tu-22M3s destroyed, 4,300 km from Ukraine and in the first Ukrainian strike in Siberia. Counts of the total differed, from 41 aircraft hit by the SBU's account to about 20 hit and 10 destroyed according to two US officials speaking to Reuters. The Financial Times estimated the affected aircraft made up about 20 percent of operational long-range aviation. {{ref:spiderweb}}",
+          "The IISS counted 55 Tu-22M3s and one Tu-22MR in overhaul in Russian service, and Ukrainian military intelligence estimated that 27 were operable in 2023. The Tu-22M3M programme aims to upgrade up to 30 of about 60 Tu-22M3s and extend their service life to 40 to 45 years. A Tu-22M3 was destroyed by a drone on the ground at Soltsy-2 on 19 August 2023 and one crashed near Stavropol on 19 April 2024, and Ukraine's commander-in-chief valued one destroyed aircraft at $100 million in March 2025. {{ref:wikipedia}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wikipedia",
+      "name": "Tupolev Tu-22M",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+    },
+    {
+      "id": "kremenchuk",
+      "name": "Kremenchuk shopping mall attack",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kremenchuk_shopping_mall_attack"
+    },
+    {
+      "id": "spiderweb",
+      "name": "Operation Spiderweb",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Spiderweb"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Tupolev Tu-22M - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+    },
+    {
+      "name": "Kremenchuk shopping mall attack - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kremenchuk_shopping_mall_attack"
+    },
+    {
+      "name": "Operation Spiderweb - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Spiderweb"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2004-07-08",
+      "title": "Electrical failure during night landing at Soltsy",
+      "tag": "Electrical failure",
+      "summary": "A Tu-22M3 suffered an electrical failure during a night landing at Soltsy. Four crew were killed and the fleet was temporarily grounded.",
+      "fatalities": 4,
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+    },
+    {
+      "date": "2008-08-09",
+      "title": "Tu-22MR shot down over South Ossetia",
+      "tag": "Shot down",
+      "summary": "A Tu-22MR was shot down by a Buk-M1 missile over South Ossetia during the Georgian war. Two crew were killed, one was captured and the commander was missing.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+    },
+    {
+      "date": "2017-09-16",
+      "title": "Runway overrun at Shaykovka",
+      "tag": "Overrun",
+      "summary": "A Tu-22M3 overran the runway at Shaykovka after an aborted takeoff and was written off. There were no injuries.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+    },
+    {
+      "date": "2019-01-22",
+      "title": "Crash landing at Olenya",
+      "tag": "Crash landing",
+      "summary": "A Tu-22M3 crash-landed at Olenya and three of the four crew were killed.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+    },
+    {
+      "date": "2021-03-23",
+      "title": "Ejection seat fires on the ground at Shaykovka",
+      "tag": "Ejection seat",
+      "summary": "An ejection seat activated on the ground at Shaykovka. Three crew were killed and one was hospitalised.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+    },
+    {
+      "date": "2022-06-27",
+      "title": "Kh-22 strike on the Kremenchuk shopping mall",
+      "tag": "Combat use",
+      "summary": "Two Kh-22 missiles fired by Tu-22M3s hit the Amstor shopping mall in Kremenchuk. At least 20 people were killed and 59 injured. Russia first said it had hit a weapons depot and later called the attack fake, while independent reports found the mall was open and in use.",
+      "fatalities": 20,
+      "source": "https://en.wikipedia.org/wiki/Kremenchuk_shopping_mall_attack"
+    },
+    {
+      "date": "2023-08-19",
+      "title": "Drone strike destroys a bomber at Soltsy-2",
+      "tag": "Drone strike",
+      "summary": "A Tu-22M3 was destroyed by a drone on the ground at Soltsy-2. Ukraine also claimed one destroyed and two disabled in an August 2023 operation.",
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+    },
+    {
+      "date": "2024-04-19",
+      "title": "Crash near Stavropol",
+      "tag": "Crash",
+      "summary": "A Tu-22M3 crashed near Stavropol. Russia cited a technical malfunction and Ukraine claimed an S-200 shootdown. One crew member was killed and one was missing.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+    },
+    {
+      "date": "2025-06-01",
+      "title": "Operation Spiderweb strikes Belaya",
+      "tag": "Drone strike",
+      "summary": "Ukraine hit five Russian air bases with 117 drones launched from trucks. At Belaya, analysts assessed four Tu-22M3s destroyed. Counts of aircraft hit overall ranged from about 20 to 41.",
+      "source": "https://en.wikipedia.org/wiki/Operation_Spiderweb"
+    }
+  ],
+  "survivors": {
+    "intro": "Preserved aircraft listed in the source checked. Individual serial numbers are not given for most.",
+    "airframes": [
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Poltava Museum of Long-Range and Strategic Aviation",
+        "place": "Poltava, Ukraine",
+        "note": "Tu-22M3.",
+        "countryCode": "ua",
+        "country": "Ukraine"
+      },
+      {
+        "serial": "Not recorded in the sources checked",
+        "name": null,
+        "location": "Ukraine State Aviation Museum",
+        "place": "Kyiv, Ukraine",
+        "note": "One Tu-22M0, one Tu-22M2 and one Tu-22M3.",
+        "countryCode": "ua",
+        "country": "Ukraine"
+      },
+      {
+        "serial": "4504",
+        "name": null,
+        "location": "Dyagilevo air base museum",
+        "place": "Ryazan region, Russia",
+        "note": "Prototype Tu-22M4 No. 4504.",
+        "countryCode": "ru",
+        "country": "Russia"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-01"
+}
