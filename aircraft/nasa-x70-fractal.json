@@ -1,0 +1,144 @@
+{
+  "name": "X-70",
+  "fullName": "NASA X-70 Fractal",
+  "manufacturer": "NASA",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Crewed Flight-Control Research Aircraft",
+  "tagline": "A crewed experimental aircraft that NASA announced on 4 November 2026 as its next X-plane, built around reconfigurable flight controls and swappable payloads. NASA expects it to fly within two years, and has published a takeoff weight, cruise speed, ceiling and range but no pictures of the real aircraft.",
+  "status": "In Development",
+  "inProduction": false,
+  "quickFacts": [
+    "NASA unveiled it on 4 November 2026 at the UP.Summit at Kennedy Space Center, and the only image released so far is a generated illustration",
+    "NASA's release names the Bell X-1, the X-15 and the X-59 as the X-planes it follows",
+    "It is crewed, with a takeoff weight of 10,000 lb and room for up to 2,000 lb of experimental payloads inside and outside the airframe",
+    "NASA lists a cruise speed of Mach 0.75, a maximum altitude of 45,000 ft and a range beyond 1,500 nautical miles",
+    "No manufacturer, engine, wing layout or dimensions have been announced, and the first flight is expected within two years of the announcement"
+  ],
+  "specifications": {
+    "maxSpeed": {
+      "mph": null,
+      "text": "Not published - NASA lists a cruise speed only"
+    },
+    "cruiseSpeed": "Mach 0.75; NASA has not given a ground speed or an altitude for this figure",
+    "range": {
+      "miles": 1726,
+      "text": "More than 1,726 mi (2,778 km, 1,500 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 45000,
+      "text": "45,000 ft (13,716 m) maximum altitude"
+    },
+    "wingspan": {
+      "ft": null,
+      "text": "Not published"
+    },
+    "length": {
+      "ft": null,
+      "text": "Not published"
+    },
+    "height": {
+      "ft": null,
+      "text": "Not published"
+    },
+    "weight": "empty: not published; takeoff weight: 10,000 lb (4,536 kg)",
+    "engines": "Not published",
+    "crew": "Crewed - crew size not published",
+    "capacity": "Up to 2,000 lb (907 kg) of experimental payloads, carried in internal and external locations",
+    "firstFlight": {
+      "date": null,
+      "year": null
+    },
+    "serviceEntryDate": "Not yet in service",
+    "retiredDate": null,
+    "numberBuilt": "Not published",
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - NASA's release gives no funding figure or contractor",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "X-70 Fractal",
+      "desc": "The only configuration announced so far. NASA describes a crewed, high-performance research aircraft with rapidly reconfigurable flight-control technology and a modular layout in which internal and external payloads can be swapped quickly. The agency gives a takeoff weight of 10,000 lb, a cruise speed of Mach 0.75, a 45,000 ft ceiling, a range beyond 1,500 nautical miles and up to 2,000 lb of payload. It has not said how many airframes will be built."
+    }
+  ],
+  "operators": [
+    {
+      "name": "NASA",
+      "role": "Planned Operator",
+      "status": "In Development",
+      "since": "Not yet in service",
+      "fleetSize": "Not published",
+      "homeBase": "Not announced"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The X-70 has not flown, so it has no ICAO type designator and does not appear on Flightradar24. NASA's aeronautics news pages are the place to watch for the first flight."
+  },
+  "lastUpdated": "2026-11-06",
+  "changelog": [
+    {
+      "date": "2026-11-06",
+      "change": "New entry for the X-70 Fractal, based on NASA's 4 November 2026 announcement. Kept short because NASA has released very little so far.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "X70",
+    "Fractal",
+    "X-plane",
+    "NASA",
+    "experimental",
+    "flight control research"
+  ],
+  "article": {
+    "overview": [
+      "The X-70 Fractal is a crewed experimental aircraft that NASA announced on 4 November 2026 as its newest X-plane. NASA describes it as a high-performance research platform with rapidly reconfigurable flight-control technology and swappable internal and external payloads. {{ref:nasa-x70}}",
+      "NASA gives a takeoff weight of 10,000 lb, a cruise speed of Mach 0.75, a maximum altitude of 45,000 ft, a range beyond 1,500 nautical miles and a payload of up to 2,000 lb. Agency Administrator Jared Isaacman said the first flight is expected within the next two years. {{ref:nasa-x70}}"
+    ],
+    "sections": [
+      {
+        "heading": "Announcement",
+        "paragraphs": [
+          "NASA revealed the X-70 on Wednesday 4 November 2026 at the UP.Summit at Kennedy Space Center in Florida, and published the news release (number RELEASE26-094) the same day. The only image in the release is a generated illustration, so nothing is known publicly about the aircraft's shape. The release places the X-70 in the line of X-planes that includes the Bell X-1, the X-15 and the X-59. {{ref:nasa-x70}}",
+          "The programme sits under the Aeronautics Division of NASA's Research and Technology Mission Directorate. Laurie Grindle, the division's director, is quoted in the release alongside Isaacman. The release names no contractor, gives no funding figure and does not say where the aircraft will be built or flown. {{ref:nasa-x70}}"
+        ]
+      },
+      {
+        "heading": "What NASA Says It Is For",
+        "paragraphs": [
+          "NASA lists three aims: speeding up the development and testing of advanced aviation technologies, exploring aircraft manoeuvrability in ways that have not been shown in crewed flight, and expanding the agency's capacity for experimental flight research. The reconfigurable flight-control system is the headline technology, and the modular payload arrangement is meant to let researchers change what the aircraft carries quickly. {{ref:nasa-x70}}",
+          "The published figures describe a small aircraft. A 10,000 lb takeoff weight with up to 2,000 lb of payload means payload can reach a fifth of takeoff weight, and a Mach 0.75 cruise at up to 45,000 ft puts it in the transonic regime where most airliners fly. The release does not give a wing, engine type or dimensions, and NASA has not said whether the cruise figure is a ground speed or what the maximum speed is. {{ref:nasa-x70}}"
+        ]
+      },
+      {
+        "heading": "Status & What to Watch",
+        "paragraphs": [
+          "As of 6 November 2026 the X-70 is an announced programme with no flight hardware shown. Isaacman said NASA expects the first flight within the next two years, which points to a date before the end of 2028. This entry will be updated as NASA releases a manufacturer, a design and a flight schedule. {{ref:nasa-x70}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "nasa-x70",
+      "name": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "NASA Aeronautics",
+      "url": "https://www.nasa.gov/aeronautics/"
+    }
+  ],
+  "accidentsAndIncidents": []
+}

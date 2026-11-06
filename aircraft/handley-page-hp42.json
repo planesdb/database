@@ -1,0 +1,245 @@
+{
+  "name": "H.P.42",
+  "fullName": "Handley Page H.P.42",
+  "manufacturer": "Handley Page",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Long-Range Biplane Airliner",
+  "tagline": "A four-engine biplane airliner built by Handley Page for Imperial Airways from 1930, with a 130 ft wing and cabins styled like Pullman railway carriages. Eight were built, they carried passengers for almost a decade without a fatal accident, and none survived the Second World War.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The fleet flew more than 10 million miles in nine years with Imperial Airways without a passenger being killed, a record for contemporary airliners",
+    "Heracles was the first to reach a million miles, on 23 July 1937",
+    "Cruising speed was about 90 to 100 mph, slow enough that a pilot recalled refuelling stops at Lympne on Paris to London flights when flying into headwinds",
+    "Hannibal vanished over the Gulf of Oman on 1 March 1940 with eight aboard and no trace was ever found, and the cause is unknown",
+    "A gale at Whitchurch, Bristol on 19 March 1940 destroyed Hanno and Heracles on the same night",
+    "By the end of 1940 all eight had been destroyed, and none was preserved"
+  ],
+  "specificationsNote": "Figures are for the H.P.42E (Eastern) version. Sources give no service ceiling. Maximum speed is given as 120 mph by some sources and 127 mph by others, and cruise speed as 90 to 105 mph. The seat count was 24 on the H.P.42E and 38 on the H.P.45 (Western). The cost is the reported 1931 price of about £21,000 per aircraft.",
+  "specifications": {
+    "maxSpeed": {
+      "mph": 120,
+      "text": "104 kn (120 mph / 193 km/h)"
+    },
+    "cruiseSpeed": "83 kn (95 mph / 153 km/h), range 95 to 105 mph depending on source",
+    "range": {
+      "miles": 500,
+      "text": "500 mi (805 km, 434 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Not published"
+    },
+    "wingspan": {
+      "ft": 130,
+      "text": "130 ft 0 in (39.62 m)"
+    },
+    "length": {
+      "ft": 92.2,
+      "text": "92 ft 2 in (28.09 m)"
+    },
+    "height": {
+      "ft": 27,
+      "text": "27 ft 0 in (8.23 m)"
+    },
+    "weight": "empty: 17,740 lb (8,047 kg); MTOW: 28,000 lb (12,701 kg)",
+    "engines": "Four Bristol Jupiter XIF nine-cylinder radial piston engines, 490 hp each (H.P.45: 555 hp Jupiter XFBM)",
+    "crew": "4",
+    "capacity": "24 passengers on the H.P.42E (38 on the H.P.45), plus 14.2 cubic metres of mail and baggage",
+    "firstFlight": {
+      "date": "1930-11-14",
+      "year": 1930
+    },
+    "serviceEntryDate": "1931-06-11",
+    "retiredDate": "1940",
+    "numberBuilt": 8,
+    "unitCost": {
+      "usd": 2265000,
+      "text": "About £21,000 in 1931 (roughly $102,000), around $2.3M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "Originally about £21,000 in 1931"
+    }
+  },
+  "variants": [
+    {
+      "code": "H.P.42E (Eastern)",
+      "desc": "The long-range version for Imperial Airways routes to India and Africa, with four 490 hp Bristol Jupiter XIF engines. Four were ordered and named Hannibal, Hanno, Hadrian and Horsa. Cabins held 6 passengers (later 12) forward and 12 aft, 24 in total, with more baggage space than the Western version for long hauls."
+    },
+    {
+      "code": "H.P.42W / H.P.45 (Western)",
+      "desc": "The European-route version, with 555 hp supercharged Jupiter XFBM engines. Four were built and named Heracles, Horatius, Hengist and Helena, with 18 passengers forward and 20 aft, 38 in total. Handley Page's own designation was H.P.45, though the H.P.42W label was widely used. Two of them were later converted to H.P.42 standard."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Imperial Airways",
+      "role": "Sole Civil Operator",
+      "status": "Retired",
+      "since": "1931",
+      "fleetSize": "8 (4 H.P.42E and 4 H.P.42W/H.P.45)",
+      "homeBase": "Croydon Airport, London"
+    },
+    {
+      "name": "British Overseas Airways Corporation",
+      "role": "Successor Airline",
+      "status": "Retired",
+      "since": "1939",
+      "fleetSize": "Not published",
+      "homeBase": "Imperial Airways' former bases"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Transport (impressed)",
+      "status": "Retired",
+      "since": "1939",
+      "fleetSize": "Impressed aircraft included Horsa (AS981), Hadrian (AS982), Heracles and Helena",
+      "homeBase": "Home bases and the Middle East"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No H.P.42 survived the Second World War, so none appears on Flightradar24. The fleet's story is told at the Croydon Airport Visitor Centre, which displays a propeller from Horatius."
+  },
+  "lastUpdated": "2026-11-06",
+  "changelog": [
+    {
+      "date": "2026-11-06",
+      "change": "Added the Handley Page H.P.42 and H.P.45 - history, specs, the Imperial Airways fleet list, wartime losses and the Hannibal disappearance. Sources: Wikipedia, Grace's Guide and This Day in Aviation.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "HP42",
+    "HP.42",
+    "HP.45",
+    "Heracles",
+    "Hannibal",
+    "Imperial Airways",
+    "biplane airliner"
+  ],
+  "article": {
+    "overview": [
+      "The Handley Page H.P.42 is a four-engine British biplane airliner built by Handley Page for Imperial Airways, which put it into service in 1931. It has a 130 ft wingspan and four Bristol Jupiter radial engines, and it carried 24 passengers on the Eastern routes or 38 on the European routes. {{ref:wiki}}",
+      "Eight were built, four H.P.42s and four H.P.45s, and all had names beginning with H. For nearly a decade of civil service they flew without causing a fatal accident, and by the end of 1940 all had been destroyed. {{ref:wiki}} {{ref:graces}}"
+    ],
+    "sections": [
+      {
+        "heading": "The Imperial Airways Specification",
+        "paragraphs": [
+          "In 1928 Imperial Airways sought replacements for its de Havilland Hercules and Armstrong Whitworth Argosy on the long Empire routes. The tender covered three- and four-engine aircraft for European and Eastern services. It demanded a stall speed no higher than 52 mph, hands-off flight, and the ability to hold altitude with one engine out, and it assumed each passenger weighed 165 lb. Bonuses were offered for exceeding the specification and penalties for falling short or arriving late. {{ref:wiki}}",
+          "Handley Page tendered for all four requirements and won orders for four H.P.42s for the Eastern routes to India and Africa and four H.P.45s for the Western, European routes. Hannibal first flew on 14 November 1930 with Squadron Leader Thomas Harold England at the controls. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Passenger Experience",
+        "paragraphs": [
+          "The biplane wings had no flying or landing wires and were braced instead by large Warren girder struts, with ailerons and Handley Page slots on the upper wing only. The structure was all metal except the fabric-covered wing surfaces and rear fuselage, and the tail had three rudders. The main fuel tanks held about 500 gallons in the upper wing. {{ref:all-aero}} {{ref:wow}}",
+          "The slow speed was a result of the specification. Imperial needed an aircraft that could land on grass or unpaved fields, and that required a large wing area, so the maximum wing loading was less than 48.2 kg per square metre. Cabins were styled like Pullman railway carriages, with wide windows and full onboard service, and travel was mostly limited to wealthy or prominent passengers. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Service & Safety Record",
+        "paragraphs": [
+          "Hannibal received its certificate of airworthiness in May 1931, and paying passengers first flew to Paris on 11 June 1931. It was the largest airliner in regular use at the time. Helena flew the first Imperial mail service from Croydon to Cape Town on 20 January 1932. {{ref:wiki}} {{ref:tdia}}",
+          "On 8 August 1931 Hannibal lost a port lower engine on a Croydon to Paris flight, and debris from the failed engine damaged the engine beside it. The crew made a forced landing at Five Oak Green with 20 aboard and no major injuries. Heracles reached a million miles on 23 July 1937. In nine years the H.P.42 and H.P.45 fleet flew more than 10 million miles, carrying roughly 300,000 passengers, without a passenger fatality. {{ref:wiki}} {{ref:wow}}",
+          "On 9 December 1937 Horatius was struck by lightning while crossing the Channel from Paris to Croydon and landed at Lympne with minor wing damage. Hengist was destroyed in an airship hangar fire at Karachi on 31 May 1937. {{ref:wiki}} {{ref:graces}}"
+        ]
+      },
+      {
+        "heading": "War & the Loss of the Fleet",
+        "paragraphs": [
+          "The aircraft were withdrawn from civil service on 1 September 1939 and impressed. Horatius hit trees and was destroyed at Tiverton on 7 November 1939. Hannibal disappeared over the Gulf of Oman on 1 March 1940 with eight aboard, including Group Captain Harold Whistler and Sir A. T. Pannirselvam. No trace was found, and the cause is unknown. {{ref:wiki}}",
+          "On 19 March 1940 a gale at Whitchurch Airport, Bristol destroyed Hanno and Heracles, which had been impressed on 3 March. Horsa burned after a forced landing at Moresby Parks near Whitehaven on 7 August 1940, and Hadrian was torn from its moorings in a gale at Doncaster on 6 December 1940 and wrecked. Helena was grounded in 1940 after a hard landing, and scrapped in 1941, except for its front fuselage, which the Royal Navy used for several years. A propeller from Horatius is displayed at the Croydon Airport Visitor Centre. {{ref:wiki}} {{ref:graces}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Handley Page H.P.42",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Handley_Page_H.P.42"
+    },
+    {
+      "id": "graces",
+      "name": "Handley Page: H.P.42",
+      "publisher": "Grace's Guide",
+      "url": "https://www.gracesguide.co.uk/Handley_Page:_H.P.42"
+    },
+    {
+      "id": "tdia",
+      "name": "20 January 1932",
+      "publisher": "This Day in Aviation",
+      "url": "https://www.thisdayinaviation.com/20-january-1932/"
+    },
+    {
+      "id": "all-aero",
+      "name": "Handley Page HP.42 / Handley Page HP.45",
+      "publisher": "All the World's Aircraft",
+      "url": "https://all-aero.com/2025/01/13/handley-page-hp-42-handley-page-hp-45"
+    },
+    {
+      "id": "wow",
+      "name": "Handley Page 42",
+      "publisher": "Wonders of World Aviation",
+      "url": "https://wondersofworldaviation.com/handley_page_42.html"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Handley Page H.P.42 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Handley_Page_H.P.42"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1931-08-08",
+      "title": "Hannibal engine failure on the Paris service",
+      "tag": "Engine failure",
+      "summary": "Hannibal lost a port lower engine on a Croydon to Paris flight, and debris from the failed engine damaged the neighbouring one. The crew made a forced landing at Five Oak Green with 20 aboard and no major injuries.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_H.P.42"
+    },
+    {
+      "date": "1937-05-31",
+      "title": "Hengist destroyed in hangar fire at Karachi",
+      "tag": "Ground fire",
+      "summary": "Hengist burned in an airship hangar fire at Karachi, India.",
+      "source": "https://www.gracesguide.co.uk/Handley_Page:_H.P.42"
+    },
+    {
+      "date": "1937-12-09",
+      "title": "Horatius struck by lightning over the Channel",
+      "tag": "Weather",
+      "summary": "Horatius was struck by lightning on a Paris to Croydon crossing and landed at Lympne with minor wing damage. No deaths are recorded.",
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_H.P.42"
+    },
+    {
+      "date": "1939-11-07",
+      "title": "Horatius destroyed at Tiverton",
+      "tag": "Crash",
+      "summary": "The impressed Horatius hit trees at Tiverton and was destroyed. Casualty figures are not given.",
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_H.P.42"
+    },
+    {
+      "date": "1940-03-01",
+      "title": "Hannibal vanishes over the Gulf of Oman",
+      "tag": "Disappearance",
+      "summary": "Hannibal disappeared over the Gulf of Oman with eight aboard, including Group Captain Harold Whistler and Sir A. T. Pannirselvam. No trace was found and the cause is unknown.",
+      "fatalities": 8,
+      "source": "https://en.wikipedia.org/wiki/Handley_Page_H.P.42"
+    },
+    {
+      "date": "1940-03-19",
+      "title": "Gale destroys Hanno and Heracles at Bristol",
+      "tag": "Weather",
+      "summary": "A gale at Whitchurch Airport, Bristol destroyed both Hanno and Heracles on the same night.",
+      "source": "https://www.gracesguide.co.uk/Handley_Page:_H.P.42"
+    }
+  ]
+}

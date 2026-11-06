@@ -1,0 +1,344 @@
+{
+  "name": "F.VII",
+  "fullName": "Fokker F.VII",
+  "manufacturer": "Fokker",
+  "originCountry": {
+    "name": "Netherlands",
+    "code": "nl"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Passenger and Mail Airliner",
+  "tagline": "A Dutch high-wing monoplane airliner built by Fokker from 1924, offered with one engine and then, from 1925, with three. Its trimotor versions carried the Southern Cross across the Pacific, took Richard Byrd over the North Pole in 1926 and kept the U.S. Army's Question Mark in the air for 150 hours.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Charles Kingsford Smith, Charles Ulm, Harry Lyon and James Warner flew the F.VIIb-3m Southern Cross from Oakland to Brisbane between 31 May and 9 June 1928, the first trans-Pacific flight to Australia",
+    "The U.S. Army's Question Mark, a Fokker C-2A, stayed airborne from 1 to 7 January 1929 for 150 hours, 40 minutes and 14 seconds by taking on 5,700 gallons of fuel from two tankers in flight",
+    "Richard Byrd's F.VIIA-3m Josephine Ford is credited with the first North Pole flight on 9 May 1926, though historians still argue over whether it reached the pole",
+    "Maitland and Hegenberger flew an Atlantic-Fokker C-2 named Bird of Paradise about 2,400 miles from California to Hawaii on 28-29 June 1927",
+    "A 1931 TWA crash of a Fokker F-10 killed the Notre Dame coach Knute Rockne, and the plywood-laminate construction was blamed, which pushed American airlines toward all-metal aircraft",
+    "About 200 were built across the family, with licence production in Belgium, Czechoslovakia, Poland, Italy, Spain and Britain, where Avro built 14 as the Avro Ten"
+  ],
+  "specificationsNote": "Figures are for the F.VIIb-3m, the main production version. Sources conflict on several of them: one lists three 220 hp Wright J-5 Whirlwinds and another three 300 hp J-6s, and the licence-built Avro 618 Ten is usually given a lower top speed of 115 mph (185 km/h). First flight is given as 11 April 1924 by some sources and 24 November 1924 by others, and total production ranges from 184 to over 200. The cost is a reported figure for a Swissair aircraft, not a list price.",
+  "specifications": {
+    "maxSpeed": {
+      "mph": 130,
+      "text": "113 kn (130 mph / 210 km/h)"
+    },
+    "cruiseSpeed": "96 kn (111 mph / 178 km/h)",
+    "range": {
+      "miles": 750,
+      "text": "750 mi (1,200 km, 650 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 14400,
+      "text": "14,400 ft (4,400 m)"
+    },
+    "wingspan": {
+      "ft": 71.25,
+      "text": "71 ft 3 in (21.71 m)"
+    },
+    "length": {
+      "ft": 47.6,
+      "text": "47 ft 7 in (14.50 m)"
+    },
+    "height": {
+      "ft": 12.8,
+      "text": "12 ft 10 in (3.90 m)"
+    },
+    "weight": "empty: 6,834 lb (3,100 kg); MTOW: 11,684 lb (5,300 kg)",
+    "engines": "Three Wright Whirlwind nine-cylinder air-cooled radial piston engines, 220 hp each in most sources (300 hp J-6 in one)",
+    "crew": "2 pilots",
+    "capacity": "8 passengers (up to 10 in some layouts)",
+    "firstFlight": {
+      "date": "24 November 1924",
+      "year": 1924
+    },
+    "serviceEntryDate": "1925",
+    "retiredDate": "No specific date - phased out from various operators over time",
+    "numberBuilt": "About 200 across the family; sources range from 184 to over 200",
+    "unitCost": {
+      "usd": 736000,
+      "text": "Reported: about 193,500 Swiss francs for a Swissair aircraft in 1929, roughly $736,000 in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "Originally about $37,355 in 1929"
+    }
+  },
+  "variants": [
+    {
+      "code": "F.VII",
+      "desc": "The original single-engine airliner designed by Walter Rethel, with a 360 hp Rolls-Royce Eagle or 450 hp Napier Lion engine. Five were built, all for KLM. One of them, H-NACC, made the 1924 flight from the Netherlands to the Dutch East Indies, and was later wrecked in fog at Wolvertem, Belgium on 9 July 1926, killing both pilots."
+    },
+    {
+      "code": "F.VIIA",
+      "desc": "A single-engine eight-passenger development. The first used a 420 hp Packard Liberty engine, and 39 more followed with mostly Bristol Jupiter or Pratt & Whitney Wasp engines. KLM flew 15 of them and the Polish airline LOT six. Many were later converted to the three-engine standard described below."
+    },
+    {
+      "code": "F.VIIA-3m",
+      "desc": "The trimotor conversion made by Reinhold Platz, Fokker's head designer, who fitted three 200 hp Wright Whirlwind engines to a single-engine F.VIIA. It won the Ford Reliability Tour in late 1925. Probably 18 were built, and many single-engine aircraft were upgraded to this standard. Byrd's Josephine Ford was one."
+    },
+    {
+      "code": "F.VIIB-3m",
+      "desc": "The main production version, with a longer 71 ft 3 in wing and a wider centre section than the F.VIIA-3m. About 154 were built including licensed aircraft. The Southern Cross, the Australian Avro Tens and the Polish LOT fleet were all of this type. The Atlantic Aircraft Corporation built an American version as the F-9."
+    },
+    {
+      "code": "C-2 / C-2A / C-7",
+      "desc": "The U.S. Army Air Corps version, built by the Atlantic Aircraft Corporation with three 220 hp Wright J-5 engines. Three C-2s were built in 1926 and eight C-2As in 1928, including the Question Mark. Re-engined C-2As became C-7s with Wright J-6-9 or R-975 engines. The Navy and Marines had their own TA and RA versions."
+    },
+    {
+      "code": "Licence-built (Avro Ten, SABCA, Avia and others)",
+      "desc": "Seven companies built F.VIIs under licence. SABCA in Belgium made 29 (28 flown by Sabena), Avia in Czechoslovakia 18, Plage i Laskiewicz in Poland 11 passenger and 20 bomber versions, and IMAM in Italy three as the Ro.10. Spain built three, and Avro built 14 as the Avro 618 Ten with Armstrong Siddeley Lynx engines."
+    }
+  ],
+  "operators": [
+    {
+      "name": "KLM",
+      "role": "Launch Airline",
+      "status": "Retired",
+      "since": "1924",
+      "fleetSize": "All 5 F.VIIs and 15 F.VIIAs, plus later trimotors",
+      "homeBase": "Amsterdam Schiphol, Netherlands"
+    },
+    {
+      "name": "Sabena",
+      "role": "Passenger Airline",
+      "status": "Retired",
+      "since": "1920s",
+      "fleetSize": "28 SABCA-built aircraft",
+      "homeBase": "Brussels, Belgium"
+    },
+    {
+      "name": "PLL LOT",
+      "role": "Passenger Airline",
+      "status": "Retired",
+      "since": "1929",
+      "fleetSize": "6 F.VIIAs and 13 locally built F.VIIB-3ms, 1929 to 1939",
+      "homeBase": "Warsaw, Poland"
+    },
+    {
+      "name": "Australian National Airways",
+      "role": "Passenger Airline (Avro Ten)",
+      "status": "Retired",
+      "since": "1930",
+      "fleetSize": "5 Avro 618 Tens in the early 1930s",
+      "homeBase": "Sydney, Australia"
+    },
+    {
+      "name": "Swissair and Balair",
+      "role": "Passenger Airline",
+      "status": "Retired",
+      "since": "1920s",
+      "fleetSize": "Not published",
+      "homeBase": "Switzerland"
+    },
+    {
+      "name": "Pan American, American Airways and TWA",
+      "role": "U.S. Passenger Airlines",
+      "status": "Retired",
+      "since": "1927",
+      "fleetSize": "Not published",
+      "homeBase": "United States"
+    },
+    {
+      "name": "United States Army Air Corps",
+      "role": "Transport (C-2, C-2A, C-7)",
+      "status": "Retired",
+      "since": "1926",
+      "fleetSize": "3 C-2, 8 C-2A and 6 C-7A",
+      "homeBase": "Fields across the United States and Hawaii"
+    },
+    {
+      "name": "United States Navy and Marine Corps",
+      "role": "Transport (TA and RA)",
+      "status": "Retired",
+      "since": "1920s",
+      "fleetSize": "3 TA-1, 3 TA-2 and 1 TA-3",
+      "homeBase": "Naval air stations in the United States"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No F.VII is flying, so none appears on Flightradar24. The aircraft has no ICAO type designator on the map. The Southern Cross is displayed in a memorial hangar at Brisbane Airport."
+  },
+  "lastUpdated": "2026-11-06",
+  "changelog": [
+    {
+      "date": "2026-11-06",
+      "change": "New entry for the Fokker F.VII with its main variants, the record flights of the late 1920s, licence production and the accident record. Sources: Wikipedia, the US Air Force and the Air & Space Forces Association.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "F.VII",
+    "F7",
+    "Fokker trimotor",
+    "F.VIIb-3m",
+    "Southern Cross",
+    "Avro Ten",
+    "C-2",
+    "Question Mark"
+  ],
+  "article": {
+    "overview": [
+      "The Fokker F.VII is a Dutch high-wing monoplane airliner built by Fokker from 1924. It was sold as a single-engine aircraft and then, from 1925, as a three-engine aircraft, and it carried 8 passengers or a load of mail. About 200 were built in total, including under licence in six other countries. {{ref:wiki}}",
+      "Its fame rests on a short run of long flights between 1926 and 1929: Richard Byrd's North Pole flight, the first flight from California to Hawaii, Charles Kingsford Smith's Pacific crossing and the 150-hour Question Mark endurance record. {{ref:wiki}} {{ref:scott}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins",
+        "paragraphs": [
+          "Walter Rethel designed the F.VII as a single-engine transport, and five were built for KLM. One of them, H-NACC, was used in 1924 for the first flight from the Netherlands to the Dutch East Indies. Sources give the first flight of the type as 11 April 1924 or 24 November 1924, and they do not agree on a single date. {{ref:wiki}}",
+          "Reinhold Platz, Fokker's head designer, then fitted three 200 hp Wright Whirlwind engines to a single-engine F.VIIA to make the F.VIIA-3m. It won the Ford Reliability Tour in late 1925, and that result sold the trimotor layout in the United States, where the Atlantic Aircraft Corporation began building its own versions. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Production & Variants",
+        "paragraphs": [
+          "The F.VIIB-3m became the main production version, with about 154 built including licensed aircraft. Total production runs from 184 to over 200 depending on the source. SABCA in Belgium built 29, Avia in Czechoslovakia 18, Plage i Laskiewicz in Poland 11 passenger aircraft and 20 bombers designed by Jerzy Rudlicki, IMAM in Italy three, Spain three and Avro 14 as the Avro Ten. {{ref:wiki}}",
+          "The Atlantic Aircraft Corporation produced the American F-9 and the enlarged F-10, which carried up to 12 passengers. The Army bought three C-2s in 1926 and eight C-2As in 1928, and the Navy and Marine Corps bought seven TA aircraft. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "The Record Flights",
+        "paragraphs": [
+          "On 9 May 1926 Richard Byrd flew the F.VIIA-3m Josephine Ford toward the North Pole, a few days before Amundsen's airship flight. Whether Byrd reached the pole remains disputed. On 28 and 29 June 1927 Lieutenants Lester Maitland and Albert Hegenberger flew the Atlantic-Fokker C-2 Bird of Paradise about 2,400 miles from California to Hawaii and won the 1927 Mackay Trophy for it. {{ref:wiki}} {{ref:dutch-c2}}",
+          "In 1928 Charles Kingsford Smith and Charles Ulm, with the American navigator Harry Lyon and radio operator James Warner, flew the F.VIIb-3m Southern Cross from Oakland on 31 May and reached Brisbane on 9 June. The Honolulu to Suva leg alone took about 34 and a half hours. The aircraft had started as the Detroiter, built for Hubert Wilkins's Arctic expedition, and Wilkins sold it to them without engines or instruments after a 1926 crash in Alaska. Sidney Myer, a Melbourne businessman, paid for the three Wright Whirlwinds. In September 1928 the same aircraft made the first Tasman Sea crossing, about 1,660 miles. It is preserved in a glass memorial hangar at Brisbane Airport. {{ref:southern-cross}}",
+          "The Question Mark was a modified C-2A that took off from Van Nuys at 7:26 am on 1 January 1929 and landed on 7 January after 150 hours, 40 minutes and 14 seconds in the air. Major Carl Spaatz commanded it, with Ira Eaker, Elwood Quesada, Harry Halverson and Sergeant Roy Hooe. Two Douglas C-1 tankers lowered a hose through a hatch in the floor, and the aircraft took on 5,700 gallons of fuel on a 110-mile racetrack between Santa Monica and San Diego. A pair of civilian pilots in a Ryan Brougham beat the record on 26 May 1929 with 172 hours 32 minutes. {{ref:scott}} {{ref:dutch-c2}}"
+        ]
+      },
+      {
+        "heading": "Airline Service & Losses",
+        "paragraphs": [
+          "KLM flew all five single-engine F.VIIs and 15 F.VIIAs. LOT operated six F.VIIAs and 13 locally built F.VIIB-3ms between 1929 and 1939, while Swissair, Air Orient, CIDNA, Pan Am, American Airways and TWA all flew the type. In Australia, Australian National Airways ran five Avro Tens on daily services in the early 1930s. {{ref:wiki}} {{ref:southern-cloud}}",
+          "Losses were common for a type flown at that time. KLM's H-NACL ran out of fuel and landed at Sandgate, Kent on 21 June 1926 with all five aboard surviving. Reynolds Airways C776 crashed at Dunellen, New Jersey on 17 September 1927, killing seven of 12. Sabena OO-AIN caught fire after leaving Croydon on 11 September 1930, killing both pilots, and KLM PH-AFO failed to take off at Bangkok on 6 December 1931, killing five of seven aboard. {{ref:wiki}}",
+          "The Australian National Airways Avro Ten Southern Cloud left Sydney for Melbourne at 8:10 am on 21 March 1931 with six passengers and two crew. More than 20 aircraft searched for 18 days and found nothing. On 26 October 1958 a New Zealand carpenter working on the Snowy Mountains Scheme found the wreck by chance while hiking, about 25 km east of the direct route. Investigators concluded severe weather, much worse than forecast, most likely brought it down. {{ref:southern-cloud}}"
+        ]
+      },
+      {
+        "heading": "The Rockne Crash",
+        "paragraphs": [
+          "The 1931 crash of a TWA Fokker F-10 that killed the Notre Dame coach Knute Rockne led investigators to question the plywood-laminate wing construction. The type was temporarily banned and American airlines moved toward all-metal aircraft. {{ref:wiki}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Fokker F.VII",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fokker_F.VII"
+    },
+    {
+      "id": "southern-cross",
+      "name": "Southern Cross (aircraft)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Southern_Cross_(aircraft)"
+    },
+    {
+      "id": "southern-cloud",
+      "name": "1931 Avro Ten Southern Cloud disappearance",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1931_Avro_Ten_Southern_Cloud_disappearance"
+    },
+    {
+      "id": "scott",
+      "name": "Flight of the Question Mark",
+      "publisher": "U.S. Air Force, Scott Air Force Base",
+      "url": "https://www.scott.af.mil/News/Article/161464/flight-of-the-question-mark/"
+    },
+    {
+      "id": "dutch-c2",
+      "name": "Fokker C-2",
+      "publisher": "Dutch Aviation",
+      "url": "https://dutch-aviation.nl/index5/Military/index5-1%20C-2.html"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Question Mark (aircraft) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Question_Mark_(aircraft)"
+    },
+    {
+      "name": "Fokker F.VIIb-3m - Fokker History",
+      "url": "https://fokker-history.com/en-gb/f-viib-3m"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1926-05-09",
+      "title": "Josephine Ford flies toward the North Pole",
+      "tag": "Record flight",
+      "summary": "Richard Byrd's F.VIIA-3m Josephine Ford made a flight he claimed reached the North Pole, a few days before Amundsen's airship flight. Historians still debate whether it got there.",
+      "source": "https://en.wikipedia.org/wiki/Fokker_F.VII"
+    },
+    {
+      "date": "1926-07-09",
+      "title": "KLM H-NACC crashes in fog at Wolvertem",
+      "tag": "Fatal accident",
+      "summary": "The KLM F.VII H-NACC, the aircraft used for the 1924 flight to the Dutch East Indies, struck the ground in fog at Wolvertem, Belgium and killed both pilots.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Fokker_F.VII"
+    },
+    {
+      "date": "1927-06-29",
+      "title": "Bird of Paradise reaches Hawaii",
+      "tag": "Record flight",
+      "summary": "Lieutenants Lester Maitland and Albert Hegenberger landed the Atlantic-Fokker C-2 Bird of Paradise in Hawaii on 29 June 1927 after about 2,400 miles from California, the first flight from the mainland to Hawaii.",
+      "source": "https://dutch-aviation.nl/index5/Military/index5-1%20C-2.html"
+    },
+    {
+      "date": "1927-09-17",
+      "title": "Reynolds Airways crash at Dunellen",
+      "tag": "Fatal accident",
+      "summary": "Reynolds Airways C776 crashed at Dunellen, New Jersey. Seven of the 12 aboard died.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Fokker_F.VII"
+    },
+    {
+      "date": "1928-06-09",
+      "title": "Southern Cross reaches Brisbane",
+      "tag": "Record flight",
+      "summary": "Charles Kingsford Smith, Charles Ulm, Harry Lyon and James Warner completed the first trans-Pacific flight to Australia, landing at Eagle Farm in Brisbane nine days after leaving Oakland on 31 May 1928.",
+      "source": "https://en.wikipedia.org/wiki/Southern_Cross_(aircraft)"
+    },
+    {
+      "date": "1929-01-07",
+      "title": "Question Mark lands after 150 hours",
+      "tag": "Record flight",
+      "summary": "The U.S. Army's Fokker C-2A Question Mark landed at Van Nuys after 150 hours, 40 minutes and 14 seconds in the air, refuelled in flight from two Douglas C-1 tankers.",
+      "source": "https://www.scott.af.mil/News/Article/161464/flight-of-the-question-mark/"
+    },
+    {
+      "date": "1930-09-11",
+      "title": "Sabena OO-AIN fire after leaving Croydon",
+      "tag": "Fatal accident",
+      "summary": "A Sabena F.VII caught fire on climb-out from Croydon and crashed, killing both pilots.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Fokker_F.VII"
+    },
+    {
+      "date": "1931-03-31",
+      "title": "TWA Fokker F-10 crash kills Knute Rockne",
+      "tag": "Fatal accident",
+      "summary": "A TWA Fokker F-10, the enlarged derivative of the F.VII, crashed and killed the Notre Dame football coach Knute Rockne. The investigation found problems with the plywood-laminate construction, which led to a temporary ban and a move to all-metal aircraft.",
+      "source": "https://en.wikipedia.org/wiki/Fokker_F.VII"
+    },
+    {
+      "date": "1931-03-21",
+      "title": "Southern Cloud disappears over the Snowy Mountains",
+      "tag": "Fatal accident",
+      "summary": "Australian National Airways' Avro Ten Southern Cloud (VH-UMF) left Sydney for Melbourne with six passengers and two crew and vanished in severe weather. A search of 18 days found nothing, and the wreck was found by chance on 26 October 1958.",
+      "fatalities": 8,
+      "source": "https://en.wikipedia.org/wiki/1931_Avro_Ten_Southern_Cloud_disappearance"
+    },
+    {
+      "date": "1931-12-06",
+      "title": "KLM PH-AFO crashes at Bangkok",
+      "tag": "Fatal accident",
+      "summary": "KLM's PH-AFO failed to take off at Bangkok and crashed. Five of the seven aboard died.",
+      "fatalities": 5,
+      "source": "https://en.wikipedia.org/wiki/Fokker_F.VII"
+    }
+  ]
+}

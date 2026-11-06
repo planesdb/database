@@ -1,0 +1,261 @@
+{
+  "name": "J-3 Cub",
+  "fullName": "Piper J-3 Cub",
+  "manufacturer": "Piper Aircraft",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Light Training & Sport Aircraft",
+  "tagline": "A two-seat, high-wing, tandem light aircraft built by Piper at Lock Haven, Pennsylvania from 1938 to 1947. It trained most of the American pilots of the Second World War, and its military L-4 Grasshopper version spotted artillery from Normandy to the Rhine.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "About 75 percent of the 435,165 graduates of the Civilian Pilot Training Program learned to fly in Cubs, and by the end of the war about 80 percent of U.S. military pilots had their first lessons in one",
+    "A student pilot, Marcus Poston, is recorded as being shot down in a J-3 over Oahu minutes before the Pearl Harbor attack began on 7 December 1941",
+    "Major Charles Carpenter bolted six bazooka launchers to an L-4H nicknamed Rosie the Rocketer and is credited with knocking out several German tanks and armored cars at Arracourt in 1944",
+    "Piper built 3,016 Cubs in 1940 alone, and wartime output peaked at one aircraft every 20 minutes",
+    "Forty-eight Cubs painted as Flitfires flew into La Guardia Field on 29 April 1941 to raise money for the RAF Benevolent Fund",
+    "A new J-3 sold for just over $1,000 in 1938"
+  ],
+  "specificationsNote": "Figures are for the J-3C-65 with the 65 hp Continental A-65-8, the best-known production version. The first J-3s used 37-40 hp Continental A-40 engines. Sources disagree on first flight (1937 or 1938), on production (19,073, 19,888 or more than 20,000 built in the United States) and on the new price (just over $1,000, $1,095 or $1,300). The used price is the average asking price of ten flying J-3s listed on the Barnstormers marketplace in November 2026, which is a single marketplace and a small sample.",
+  "specifications": {
+    "maxSpeed": {
+      "mph": 87,
+      "text": "76 kn (87 mph / 140 km/h)"
+    },
+    "cruiseSpeed": "65 kn (75 mph / 121 km/h)",
+    "range": {
+      "miles": 220,
+      "text": "220 mi (354 km, 191 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 11500,
+      "text": "11,500 ft (3,500 m)"
+    },
+    "wingspan": {
+      "ft": 35.25,
+      "text": "35 ft 3 in (10.74 m)"
+    },
+    "length": {
+      "ft": 22.4,
+      "text": "22 ft 5 in (6.83 m)"
+    },
+    "height": {
+      "ft": 6.7,
+      "text": "6 ft 8 in (2.03 m)"
+    },
+    "weight": "empty: 765 lb (345 kg); MTOW: 1,220 lb (550 kg)",
+    "engines": "One Continental A-65-8 four-cylinder air-cooled horizontally opposed piston engine, 65 hp at 2,350 rpm",
+    "crew": "1 pilot",
+    "capacity": "1 passenger, seated in tandem; useful load 455 lb (205 kg)",
+    "firstFlight": {
+      "date": null,
+      "year": 1938
+    },
+    "serviceEntryDate": "1938",
+    "retiredDate": null,
+    "numberBuilt": 19888,
+    "unitCost": {
+      "usd": 49000,
+      "text": "About $49,000 in 2026 - the average asking price for a flying J-3 on the used market, since none are built new",
+      "inflationText": "Sold new in 1938 for just over $1,000 (commonly given as $1,095)"
+    }
+  },
+  "variants": [
+    {
+      "code": "J-3 (A-40)",
+      "desc": "The original 1938 production version, powered by a Continental A-40 four-cylinder engine rated at 37 hp in the A-40-2 and A-40-3 and 40 hp in the A-40-4. It replaced the J-2 on the Lock Haven line after a fire at the Bradford, Pennsylvania factory ended J-2 production that year. A new one sold for just over $1,000."
+    },
+    {
+      "code": "J-3C-65",
+      "desc": "The 65 hp version certified in 1939 with Continental A-65 engines, and the one most people picture when they say Cub. It cruises at 75 mph and weighs 1,220 lb at maximum takeoff. Around 3,000 Cubs left the factory in 1940, and Piper also supplied it to the Civilian Pilot Training Program."
+    },
+    {
+      "code": "J-3F-65 / J-3L-65",
+      "desc": "Versions certified in 1940 with 65 hp Franklin or Lycoming engines in place of the Continental. The letter marks the engine: F for the Franklin 4AC and L for the Lycoming O-145. Both used the same airframe as the J-3C, so the only change a buyer noticed was the powerplant and the sound it made."
+    },
+    {
+      "code": "J-3P",
+      "desc": "The version fitted with a Lenape three-cylinder radial engine instead of the usual flat-four. Very few were built, and it never matched the numbers of the Continental-powered J-3C. It sits in the engine-based designation family alongside the J-3C, J-3F and J-3L, and little else is recorded about its service."
+    },
+    {
+      "code": "O-59 / L-4 Grasshopper",
+      "desc": "The U.S. Army version, first ordered as the O-59 (140 built) and renamed L-4. The O-59A had a Continental O-170-3 and 948 were built; later L-4B, L-4H and L-4J models followed. It added a Plexiglas skylight and rear windows, topped out at 85 mph and did artillery spotting, liaison, reconnaissance and casualty evacuation."
+    },
+    {
+      "code": "NE-1 / NE-2",
+      "desc": "Dual-control Cubs built for the U.S. Navy, with 230 NE-1s and 20 NE-2s delivered. They shared the J-3 airframe with changes for naval training use. The TG-8 was a separate Army order for a three-seat training glider built from the Cub design, listed at 250 or 253 aircraft depending on the entry."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Civil operators worldwide",
+      "role": "Flight Schools, Clubs & Private Owners",
+      "status": "In Service",
+      "since": "1938",
+      "fleetSize": "19,073 to more than 20,000 built in the U.S., plus Canadian assembly; sources differ",
+      "homeBase": "Grass strips and small airfields worldwide"
+    },
+    {
+      "name": "United States Army Air Forces",
+      "role": "Liaison, Observation & Training (L-4)",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "About 5,400 L-4s",
+      "homeBase": "Front-line airstrips in the Mediterranean and European theaters"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Primary Trainer (NE-1 / NE-2)",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "230 NE-1 and 20 NE-2",
+      "homeBase": "Naval flight training fields"
+    },
+    {
+      "name": "Civil Air Patrol",
+      "role": "Coastal Patrol",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "Not published",
+      "homeBase": "U.S. coastal bases"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Liaison (L-4)",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "10 transferred in 1949; 25 lost in the Korean War",
+      "homeBase": "South Korea"
+    },
+    {
+      "name": "Royal Thai Armed Forces",
+      "role": "Liaison (B.S.3)",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "Thailand"
+    },
+    {
+      "name": "Paraguayan military",
+      "role": "Liaison (L-4)",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "Paraguay"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "J3",
+    "howToFind": "Search for type code J3, the ICAO designator for the J-3 Cub. Cubs rarely carry ADS-B, so few appear. Those that do are mostly in the United States, flying short local hops from grass strips on fine afternoons."
+  },
+  "lastUpdated": "2026-11-06",
+  "changelog": [
+    {
+      "date": "2026-11-06",
+      "change": "Added the Piper J-3 Cub - history, specs, variants, operators, the wartime L-4 story and the accident record. Sources: Wikipedia and period production figures.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "J3",
+    "J-3",
+    "Cub",
+    "Piper Cub",
+    "L-4",
+    "Grasshopper",
+    "taildragger",
+    "trainer"
+  ],
+  "article": {
+    "overview": [
+      "The Piper J-3 Cub is a two-seat, high-wing light aircraft built by Piper Aircraft at Lock Haven, Pennsylvania between 1938 and 1947. It has a fixed tailwheel undercarriage, a 35 ft 3 in wing and an engine of 40 to 65 hp, and it trained a large share of the pilots who flew in the Second World War. {{ref:wiki}}",
+      "Between 19,073 and more than 20,000 were built in the United States depending on the source, and the Army bought about 5,400 of them as the L-4 Grasshopper. {{ref:wiki}}"
+    ],
+    "sections": [
+      {
+        "heading": "From the Taylor Cub to the J-3",
+        "paragraphs": [
+          "The Cub began as the Taylor E-2 Cub of 1930, built by Taylor Aircraft in Bradford, Pennsylvania and backed by the local industrialist William T. Piper. The company went bankrupt later in 1930. Piper bought its assets, kept the founder C. Gilbert Taylor on as president and carried on building the Cub. {{ref:wiki}}",
+          "The airframe took its familiar form in the J-2 of 1936. Walter Jamouneau reworked an earlier Cub while Taylor was away sick. Taylor was angry enough to fire him, but Piper backed the changes and rehired Jamouneau, then bought out Taylor's share by paying him $250 a month for three years. About 1,200 J-2s were built before a fire destroyed the Bradford factory, a former silk mill, and ended J-2 production in 1938. The line moved to Lock Haven, where the J-3 replaced it. {{ref:wiki}}",
+          "The J-3 sold for just over $1,000 in 1938 with a 37 to 40 hp Continental A-40. The 65 hp J-3C-65 followed in 1939, and Franklin- and Lycoming-powered versions in 1940. Even the letter in the name has a disputed origin: some people thought J stood for Jamouneau, while the historian Peter Bowers argued that it simply followed the E, F, G and H model letters and skipped I to avoid confusion with the number 1. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "The Pilot-Training Machine",
+        "paragraphs": [
+          "The outbreak of war in Europe in 1939 led to the Civilian Pilot Training Program, and the Cub was its workhorse. About 75 percent of the program's 435,165 graduates learned in Cubs, and by the end of the war about 80 percent of U.S. military pilots had taken their first lessons in one. Piper built 3,016 Cubs in 1940, and at peak wartime output a finished aircraft came off the line every 20 minutes. {{ref:wiki}}",
+          "The Navy bought its own dual-control Cubs, 230 NE-1s and 20 NE-2s. The Army ordered 250 TG-8 training gliders based on the airframe. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "The Grasshopper at War",
+        "paragraphs": [
+          "The Army version began as the O-59, with 140 built, and was renamed L-4. It added a Plexiglas skylight and rear windows for observation, carried one passenger, topped out at 85 mph and could stay up about three hours. The L-4 spotted artillery, carried messages, flew reconnaissance and evacuated casualties. In Normandy, L-4 pilots hunted for German guns and armor hidden in the bocage hedgerows. {{ref:wiki}}",
+          "The most famous L-4 was Rosie the Rocketer. Major Charles Carpenter, nicknamed Bazooka Charlie, fitted six bazooka launchers to an L-4H and flew it at the Battle of Arracourt in September 1944. He is credited with destroying several tanks and armored cars. The aircraft, serial 43-30426, was found in the collection at Graz Airport in Austria in October 2017. The Collings Foundation bought it, finished the restoration on 4 July 2020 and displays it at the American Heritage Museum. {{ref:wiki}}",
+          "The J-3 was also at the very start of the Pacific war. A student pilot, Marcus F. Poston, was shot down in a J-3 over Oahu minutes before the attack on Pearl Harbor, and the aircraft is described as the first American plane shot down in the war. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Flitfires and Civilian Use",
+        "paragraphs": [
+          "Before the United States entered the war, a Cub with RAF markings was donated to the RAF Benevolent Fund. On 29 April 1941, 48 Cubs painted as Flitfires flew into La Guardia Field in New York to raise money for the fund. At least three Flitfires survive in restored silver finish. {{ref:wiki}}",
+          "After 1945 the Cub went to private owners, flying clubs and bush pilots. Production in the United States ended in 1947. Canadian assembly added to the total: the figures given are 65 prewar aircraft built from parts plus 130 postwar J-3C-65s. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "How Many Were Built",
+        "paragraphs": [
+          "The production count depends on which source is used. One figure gives 19,888 built in the United States, another gives 19,073 sold between 1938 and 1947, and Wikipedia's introduction says more than 20,000. The numbers of individual L-4 versions also add up to more than the 5,413 L-4s given for the Army, so those figures do not reconcile. {{ref:wiki}}",
+          "For the used-market price, asking prices for ten flying J-3s on the Barnstormers marketplace averaged about $49,300 in November 2026. That is one marketplace and a small sample, so treat it as a rough guide. {{ref:barnstormers}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Piper J-3 Cub",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Piper_J-3_Cub"
+    },
+    {
+      "id": "barnstormers",
+      "name": "Piper J-3 Cub aircraft for sale",
+      "publisher": "Barnstormers",
+      "url": "https://www.barnstormers.com/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Piper J-3 Cub - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Piper_J-3_Cub"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1941-04-29",
+      "title": "Flitfire fundraiser at La Guardia",
+      "tag": "Notable event",
+      "summary": "Forty-eight Cubs painted as Flitfires flew into New York's La Guardia Field to raise money for the RAF Benevolent Fund, months before the United States entered the war.",
+      "source": "https://en.wikipedia.org/wiki/Piper_J-3_Cub"
+    },
+    {
+      "date": "1941-12-07",
+      "title": "Student pilot shot down over Oahu",
+      "tag": "Combat",
+      "summary": "Marcus F. Poston, a student pilot flying a J-3 over Oahu, was shot down minutes before the Japanese attack on Pearl Harbor. The article describes it as the first American aircraft shot down in the war.",
+      "source": "https://en.wikipedia.org/wiki/Piper_J-3_Cub"
+    },
+    {
+      "date": "1944-09-18",
+      "title": "Rosie the Rocketer at Arracourt (battle began 18 September 1944)",
+      "tag": "Combat",
+      "summary": "Major Charles Carpenter flew an L-4H with six bazooka launchers during the Battle of Arracourt and is credited with destroying several German tanks and armored cars. The aircraft survives at the American Heritage Museum.",
+      "source": "https://en.wikipedia.org/wiki/Piper_J-3_Cub"
+    }
+  ]
+}
