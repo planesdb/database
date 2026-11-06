@@ -1,0 +1,227 @@
+{
+  "name": "H-4 Hercules",
+  "fullName": "Hughes H-4 Hercules",
+  "manufacturer": "Hughes Aircraft Company",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Heavy Transport Flying Boat",
+  "tagline": "An eight-engine wooden flying boat built by Howard Hughes's Hughes Aircraft Company as a troop and cargo transport for the U.S. War Department, nicknamed the Spruce Goose. It flew once, on 2nd November 1947, and until 2019 had the largest wingspan of any aircraft ever flown.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "Howard Hughes flew it once, on 2nd November 1947, for about one mile at roughly 70 ft and about 135 mph, and the flight lasted 26 seconds",
+    "Its 319 ft 11 in wingspan was the largest of any aircraft until the Stratolaunch first flew on 13th April 2019",
+    "Hughes defended it before a Senate committee on 6th August 1947, and said he would leave the country if it failed to fly",
+    "It was built almost entirely of birch, not spruce, and critics' nickname was one Hughes disliked",
+    "The aircraft was designed to carry 750 troops, two 30-ton Sherman tanks or 150,000 lb of cargo, but none of those loads was ever tested",
+    "The war that justified it ended before it was ready, and it cost about $23 million, roughly $348 million in 2026 dollars"
+  ],
+  "specificationsNote": "Performance figures other than the single flight are the designers' projections, and the aircraft was never tested at altitude or with a payload. Maximum takeoff weight is the commonly quoted figure of about 400,000 lb. The cost is the programme's development cost for the one aircraft built, not a unit price.",
+  "specifications": {
+    "maxSpeed": {
+      "mph": null,
+      "text": "Not tested - the only flight reached about 117 kn (135 mph / 217 km/h)"
+    },
+    "cruiseSpeed": "250 mph (402 km/h), projected",
+    "range": {
+      "miles": 3000,
+      "text": "3,000 mi (4,828 km, 2,607 nmi), projected"
+    },
+    "serviceCeiling": {
+      "ft": 20900,
+      "text": "20,900 ft (6,400 m), projected"
+    },
+    "wingspan": {
+      "ft": 319.9,
+      "text": "319 ft 11 in (97.51 m)"
+    },
+    "length": {
+      "ft": 218.7,
+      "text": "218 ft 8 in (66.65 m)"
+    },
+    "height": {
+      "ft": 79.3,
+      "text": "79 ft 4 in (24.18 m)"
+    },
+    "weight": "empty: 250,000 lb (113,398 kg); MTOW: about 400,000 lb (181,000 kg)",
+    "engines": "8 x Pratt & Whitney R-4360 Wasp Major 28-cylinder air-cooled radials, 3,000 hp each, driving four-blade Hamilton Standard propellers",
+    "crew": "3 as designed (36 people were aboard for the only flight)",
+    "capacity": "Designed for 750 troops, two 30-ton M4 Sherman tanks or 150,000 lb of cargo",
+    "firstFlight": {
+      "date": "1947-11-02",
+      "year": 1947
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "1947-11-02",
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": 347500000,
+      "text": "$348M in 2026 dollars (CPI-adjusted, 1947 development cost for the one aircraft)",
+      "inflationText": "Originally about $23M (1947)"
+    }
+  },
+  "variants": [
+    {
+      "code": "HK-1 (Kaiser-Hughes design)",
+      "desc": "The original design, named for the shipbuilder Henry J. Kaiser and Hughes, under a 1942 contract for three aircraft in two years. Seven configurations were considered. Kaiser withdrew about 16 months after the contract, once construction of the first HK-1 had begun, and the aircraft was also listed as the HFB-1, short for Hughes Flying Boat, First Design."
+    },
+    {
+      "code": "H-4 Hercules",
+      "desc": "The single aircraft completed by Hughes alone after Kaiser's withdrawal, under a new government contract limited to one example. It was registered NX37602, built mostly of Duramold laminated birch, and had fabric-covered elevators and rudder."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Hughes Aircraft Company",
+      "role": "Builder and Sole Operator",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "1 (flown once, on 2nd November 1947)",
+      "homeBase": "Long Beach Harbor, California"
+    },
+    {
+      "name": "U.S. War Department",
+      "role": "Contracting Customer (never took delivery)",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "3 ordered under the 1942 contract, reduced to 1",
+      "homeBase": "Not applicable"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The H-4 Hercules has no ICAO type code and has never flown with a transponder, so it does not appear on Flightradar24. The aircraft is on display at the Evergreen Aviation & Space Museum in McMinnville, Oregon."
+  },
+  "lastUpdated": "2026-11-06",
+  "changelog": [
+    {
+      "date": "2026-11-06",
+      "change": "New entry for the Hughes H-4 Hercules, covering the Senate hearings, the single 1947 flight, the 1993 move to McMinnville and the surviving airframe. Sources: Wikipedia, Evergreen museum coverage and Design World.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "H-4",
+    "H4",
+    "Hercules",
+    "Spruce Goose",
+    "Howard Hughes",
+    "HK-1",
+    "flying boat",
+    "wooden aircraft"
+  ],
+  "article": {
+    "overview": [
+      "The Hughes H-4 Hercules is an eight-engine heavy transport flying boat built by Howard Hughes's Hughes Aircraft Company for the U.S. War Department, and it was built mostly of wood. It has a wingspan of 319 ft 11 in and was designed to carry 750 troops, and it is still the largest flying boat ever built. {{ref:wiki}}",
+      "Only one was built. It flew once, on 2nd November 1947, and had the largest wingspan of any aircraft ever flown until the Stratolaunch first flew on 13th April 2019. It is now displayed in McMinnville, Oregon. {{ref:wiki}} {{ref:past}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins: The Kaiser-Hughes Contract",
+        "paragraphs": [
+          "The aircraft came out of the U-boat campaign in the Atlantic. German submarines were sinking Allied shipping, and the U.S. War Department wanted a way to move materiel and personnel to Britain by air. Henry J. Kaiser, a builder of Liberty ships, teamed up with Hughes, and the design was called the HK-1. Wartime limits on aluminium pushed the design toward wood. A 1942 contract called for three aircraft in two years, and seven configurations were considered. {{ref:wiki}}",
+          "Kaiser withdrew about 16 months after the contract, after construction of the first HK-1 had begun. Hughes carried on alone as the H-4 Hercules, under a new contract that limited the order to one aircraft. The war ended before it was finished, and the programme cost about $23 million, roughly $253 million in 2024 dollars. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "Design & Construction",
+        "paragraphs": [
+          "The H-4 was built mostly of birch veneer laid up in plywood and resin using the Duramold process, with the veneer supplied by Roddis Manufacturing in Marshfield, Wisconsin. The elevators and rudder were fabric-covered. Critics called it the Spruce Goose, a name Hughes disliked, although the wood was birch. It was also called the Flying Lumberyard, and mechanics reportedly used a cruder nickname, Birch Bitch. {{ref:wiki}}",
+          "It is 218 ft 8 in long and 79 ft 4 in tall, with a wing 319 ft 11 in across, and weighs 250,000 lb empty. Eight Pratt & Whitney R-4360 Wasp Major engines of 3,000 hp each drive four-blade Hamilton Standard propellers. The designers projected a 250 mph cruise, a 3,000 mile range and a ceiling of about 20,900 ft, and it was to carry 150,000 lb, 750 troops or two 30-ton Sherman tanks. None of those figures was ever tested. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "The Senate Hearings",
+        "paragraphs": [
+          "In 1947 Hughes was called before the Senate War Investigating Committee to explain how government money had been spent on the aircraft. The first hearing was on 6th August 1947, and the committee's sharpest questioner was reported to be Senator Owen Brewster of Maine. Hughes told the committee that the Hercules was a monumental undertaking and the largest aircraft ever built, and he said that if it failed he would probably leave the country and not return. {{ref:wiki}} {{ref:migflug}}",
+          "During a break in the hearings Hughes returned to California to run taxi tests on the aircraft. The first, on 2nd November, was planned as a test on the water. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "The Only Flight",
+        "paragraphs": [
+          "On 2nd November 1947 Hughes took the controls of the H-4 in Long Beach Harbor for what was meant to be a taxi test. The crew included the copilot Dave Grant, the flight engineers Don Smith and Joe Petrali, 16 mechanics and two other flight crew, plus seven invited journalists and seven industry representatives, about 36 people in all. The aircraft rose to about 70 ft, flew roughly one mile at about 135 mph and stayed in the air for 26 seconds. It cost about $23 million to build. {{ref:wiki}} {{ref:migflug}} {{ref:designworld}}",
+          "It never flew again, and its lifting capacity, ceiling and payload were never tested. A study by a flight-simulator engineer at Glyndwr University in 2014 suggested that a short flight at 70 ft says little about how it would have performed cruising at altitude. {{ref:migflug}}"
+        ]
+      },
+      {
+        "heading": "Preservation & Display",
+        "paragraphs": [
+          "Hughes kept the aircraft in a climate-controlled hangar for the rest of his life. A crew of about 300 maintained it until the company cut that to 50 in 1962, and the crew disbanded after Hughes died in 1976. In the mid-1970s the Smithsonian's National Air and Space Museum took a section of the wing and the Hughes H-1 Racer, and the Summa Corporation paid $700,000 and received the H-4. {{ref:wiki}}",
+          "The Aero Club of Southern California acquired it in 1980 and displayed it in a geodesic dome next to the Queen Mary at Long Beach. Disney bought the Long Beach attractions in 1988 and said in 1991 that it no longer wanted the aircraft. It was given to the Evergreen museum in McMinnville, Oregon in exchange for payments and a share of profits, arriving on 27th February 1993 after a 138-day journey of 1,055 miles. It was relisted on the National Register of Historic Places in 2024. {{ref:wiki}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "Hughes H-4 Hercules",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hughes_H-4_Hercules"
+    },
+    {
+      "id": "migflug",
+      "name": "The Spruce Goose Flew Once To Win An Argument",
+      "publisher": "Migflug",
+      "url": "https://migflug.com/afterburner/spruce-goose-1947-senate-showdown-flight/"
+    },
+    {
+      "id": "past",
+      "name": "Museum review: Evergreen Aviation & Space Museum",
+      "publisher": "The Past",
+      "url": "https://the-past.com/review/museum/museum-review-evergreen-aviation-space-museum/"
+    },
+    {
+      "id": "designworld",
+      "name": "Today in engineering history: world's largest flying boat takes off on maiden flight",
+      "publisher": "Design World",
+      "url": "https://www.designworldonline.com/today-in-engineering-history-worlds-largest-flying-boat-takes-off-on-maiden-flight/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Hughes H-4 Hercules - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hughes_H-4_Hercules"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1947-08-06",
+      "title": "First Senate hearing on the Hercules",
+      "tag": "Hearing",
+      "summary": "Hughes appeared before the Senate War Investigating Committee on the use of government funds for the aircraft, the first of several appearances.",
+      "source": "https://en.wikipedia.org/wiki/Hughes_H-4_Hercules"
+    },
+    {
+      "date": "1947-11-02",
+      "title": "The only flight, Long Beach Harbor",
+      "tag": "First flight",
+      "summary": "Howard Hughes flew the H-4 for about a mile at roughly 70 ft and 135 mph, a flight of 26 seconds with about 36 people aboard. The aircraft never flew again.",
+      "source": "https://en.wikipedia.org/wiki/Hughes_H-4_Hercules"
+    },
+    {
+      "date": "1993-02-27",
+      "title": "Arrival at McMinnville, Oregon",
+      "tag": "Preservation",
+      "summary": "The aircraft reached the Evergreen museum after a 138-day, 1,055-mile journey from Long Beach.",
+      "source": "https://en.wikipedia.org/wiki/Hughes_H-4_Hercules"
+    }
+  ],
+  "survivors": {
+    "intro": "The only H-4 built survives intact, preserved by the museum that received it in 1993.",
+    "airframes": [
+      {
+        "serial": "NX37602",
+        "location": "Evergreen Aviation & Space Museum, McMinnville, Oregon, United States",
+        "note": "The single aircraft built. Wikipedia lists the host as the North American Aerospace Museum, and it was relisted on the National Register of Historic Places in 2024."
+      }
+    ]
+  }
+}

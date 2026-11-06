@@ -1,0 +1,239 @@
+{
+  "name": "US-2",
+  "fullName": "ShinMaywa US-2",
+  "manufacturer": "ShinMaywa Industries",
+  "originCountry": {
+    "name": "Japan",
+    "code": "jp"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Search-and-Rescue Amphibian",
+  "tagline": "A four-engine turboprop flying boat built by ShinMaywa for the Japan Maritime Self-Defense Force, designed to land on open sea in waves up to 3 m (9.8 ft) high to pick up casualties. Only nine have been built, and attempts to sell it to India never reached a contract.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "It can land on the sea in waves up to 3 m (9.8 ft), equal to sea states 4 to 5, and takes off from water in about 280 m",
+    "The JMSDF's US-1 and US-2 amphibians have rescued more than 1,000 people since 1976, including an American family of three about 770 km off Okinawa in June 2022",
+    "Only nine have been built in about 20 years, and a 2021 Japanese budget figure put each aircraft at about 13.9 billion yen, well above the roughly 10 billion yen for an F-35A",
+    "India negotiated for 12 to 18 US-2i amphibians from 2011, and talks stopped in 2021 over price after Japan cut its quote from $133M to about $113M per aircraft",
+    "A blown-flap system fed by a separate turboshaft engine lets it fly slowly enough to land in about 330 m on water",
+    "One was written off in April 2015 when it lost an engine during training near Cape Ashizuri, and all 19 aboard were rescued"
+  ],
+  "specificationsNote": "Figures are for the JMSDF search-and-rescue US-2. The listed range of 2,300 nmi in some sources does not match 4,700 km, which is about 2,540 nmi, so the figure here is converted from kilometres. Sources give 'in production' (Wikipedia, 2026) and 'facing the end of production' (a November 2023 Reuters report as summarised in a defence forum post), and the cost figure is the 2021 Japanese budget price converted at about 110 yen to the dollar.",
+  "specifications": {
+    "maxSpeed": {
+      "mph": 348,
+      "text": "302 kn (348 mph / 560 km/h)"
+    },
+    "cruiseSpeed": "298 mph (480 km/h) at 19,700 ft (6,000 m)",
+    "range": {
+      "miles": 2920,
+      "text": "2,920 mi (4,700 km, 2,538 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 23600,
+      "text": "23,600 ft (7,195 m)"
+    },
+    "wingspan": {
+      "ft": 108.75,
+      "text": "108 ft 9 in (33.15 m)"
+    },
+    "length": {
+      "ft": 109.75,
+      "text": "109 ft 9 in (33.46 m)"
+    },
+    "height": {
+      "ft": 32.2,
+      "text": "32 ft 2 in (9.8 m)"
+    },
+    "weight": "empty: 56,500 lb (25,630 kg); MTOW on land: 105,200 lb (47,700 kg); gross weight: 121,600 lb (55,148 kg)",
+    "engines": "4 x Rolls-Royce AE 2100J turboprops, 4,592 hp (3,424 kW) each, driving six-blade Dowty R414 propellers; a separate LHTEC T800 turboshaft powers the boundary layer control system",
+    "crew": "11 (2 pilots, 1 SAR coordinator, 2 maintenance crew, 3 divers, 2 paramedics, 1 sensor operator)",
+    "capacity": "20 passengers or 12 stretchers",
+    "firstFlight": {
+      "date": "2003-12-18",
+      "year": 2003
+    },
+    "serviceEntryDate": "2007-03-30",
+    "retiredDate": null,
+    "numberBuilt": 9,
+    "unitCost": {
+      "usd": 157000000,
+      "text": "$157M in 2026 dollars (CPI-adjusted, 2021 budget price)",
+      "inflationText": "Originally about 13.9 billion yen in the 2021 budget, roughly $126M"
+    }
+  },
+  "variants": [
+    {
+      "code": "US-2 (search and rescue)",
+      "desc": "The standard JMSDF version, a like-for-like replacement for the US-1A built with a pressurised hull, Rolls-Royce AE 2100J engines, a glass cockpit and better patient-transfer and water-handling features. First flown on 18th December 2003, it entered service on 30th March 2007. Nine were built, and the first production aircraft was delivered to the Ministry of Defense in 2009."
+    },
+    {
+      "code": "US-2 civil firefighting",
+      "desc": "A water-bomber version unveiled in 2010. One fuel tank is replaced by a 15-tonne water tank, which cuts range from 4,700 km to 2,300 km, and the aircraft gains water scoops, automatic foam mixing and a computer-controlled drop system. ShinMaywa marketed it overseas, and Greece reportedly sought several after the Attica fires of July 2018. None has been built."
+    },
+    {
+      "code": "US-2i (export proposal)",
+      "desc": "The version offered to the Indian Navy, which had a requirement for 12 to 18 search-and-rescue aircraft worth an anticipated $1.65 billion. ShinMaywa signed an MoU with Mahindra Defence in April 2018 to support Indian assembly, which was expected to cost 25 percent less than building in Japan. The talks stopped in 2021 over price, and no aircraft was ordered."
+    },
+    {
+      "code": "PS-1 and US-1A (predecessors)",
+      "desc": "The PS-1 was a flying boat for anti-submarine patrol, and the JMSDF ordered 21 in 1969. The US-1A was a true amphibian for rescue, with wheels as well as a hull, and it was Japan's first amphibian. The US-1A flew its final flight in December 2017, and the US-2 grew from its improved US-1A kai programme in the 1990s."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Japan Maritime Self-Defense Force",
+      "role": "Sole Operator (Air-Sea Rescue)",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "9 built, 1 written off in 2015 and the first retired in August 2024; up to 14 planned",
+      "homeBase": "Iwakuni Air Base (71st Flight Squadron, 31st Fleet Air Wing) and Atsugi Air Base"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "JMSDF US-2s rarely broadcast a position that Flightradar24 shows, and the type has no widely used ICAO type code on the site. When one does appear it is usually around Iwakuni, Atsugi and the Pacific south of Honshu during training."
+  },
+  "lastUpdated": "2026-11-06",
+  "changelog": [
+    {
+      "date": "2026-11-06",
+      "change": "Added the ShinMaywa US-2 rescue flying boat - specs, the PS-1 and US-1A lineage, the India sales talks, rescues and the 2015 crash. Sources: Wikipedia, Nippon.com, Defense News and The Diplomat.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "US2",
+    "ShinMaywa",
+    "Shin Meiwa",
+    "flying boat",
+    "amphibian",
+    "search and rescue",
+    "JMSDF",
+    "US-2i"
+  ],
+  "article": {
+    "overview": [
+      "The ShinMaywa US-2 is a four-engine turboprop amphibious flying boat built by ShinMaywa Industries for the Japan Maritime Self-Defense Force, which uses it for air-sea rescue. It was designed to land in waves up to 3 m (9.8 ft) high, which is sea state 4 to 5, and uses boundary layer control to fly and land at low speed. {{ref:wiki}}",
+      "Nine have been built, all for Japan. The JMSDF has used it since 30th March 2007 and intends to buy up to 14, while the Indian Navy's long-running interest in a version called the US-2i never became a contract. {{ref:wiki}} {{ref:nippon}}"
+    ],
+    "sections": [
+      {
+        "heading": "From the Kawanishi Boats to the US-1A",
+        "paragraphs": [
+          "ShinMaywa inherited its amphibian expertise from the Kawanishi Aircraft Company, which built the H8K flying boat, codenamed Emily by the Allies, and the N1K Shiden Kai fighter, codenamed George, for the Imperial Japanese Navy. In the 1950s Shin Meiwa researched flying boats that could work on the open sea. The United States supplied a Grumman HU-16 Albatross, which was taken apart, studied and rebuilt as a flying test bed called the UF-XS. {{ref:nippon}} {{ref:wiki-us1a}}",
+          "In 1969 the JMSDF ordered 21 PS-1 anti-submarine flying boats and also bought the US-1A, a true amphibian for search and rescue, which was Japan's first. The small production runs made the aircraft very expensive and the programme politically controversial. In the 1990s the JMSDF wanted a replacement but could not secure funding for a wholly new design, and in 1995 the company renamed itself ShinMaywa and began the US-1A kai upgrade. {{ref:wiki}} {{ref:wiki-us1a}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The upgrades covered aerodynamic refinements, a pressurised hull, four Rolls-Royce AE 2100J engines of 4,592 hp each, electronic cockpit instruments, better water handling and improved patient transfer. Flight testing began on 18th December 2003 and the type was designated US-2. The aircraft is 109 ft 9 in long with a 108 ft 9 in wingspan, and carries 11 crew, including three divers and two paramedics, plus 20 passengers or 12 stretchers. {{ref:wiki}}",
+          "Boundary layer control is the feature that makes the rest possible. A separate LHTEC T800 turboshaft drives a compressor that blows air over the flaps and tail, which gives a stall speed of 90 km/h. The US-2 takes off from water in about 280 m and lands in about 330 m, and needs 490 m to take off and 1,500 m to land on a runway at maximum weight. Nippon.com says its take-off and landing distances are about a quarter of an airliner's. {{ref:wiki}} {{ref:nippon}}"
+        ]
+      },
+      {
+        "heading": "Production & Cost",
+        "paragraphs": [
+          "Mitsubishi makes the outer wing sections and rear engine nacelles, NIPPI builds the watertight landing-gear housings, Kawasaki Heavy Industries makes the cockpit, and ShinMaywa does the final assembly. The line can build two aircraft at once. Commercial production launched in early 2007, and the first production aircraft was delivered in 2009. {{ref:wiki}}",
+          "With only nine built in about 20 years, each costs far more than a mass-produced aircraft. Japan's 2021 budget put the price at about 13.9 billion yen, against about 10 billion yen for an F-35A. A 6th November 2023 Reuters report, as summarised in a Japanese article posted to a defence forum, said ShinMaywa had quoted 30 billion yen for fiscal 2024 and 70 billion yen for fiscal 2025 and that production was facing its end, a claim that conflicts with Wikipedia listing the type as in production. {{ref:nippon}} {{ref:defencetalk}}"
+        ]
+      },
+      {
+        "heading": "Rescues & Service Record",
+        "paragraphs": [
+          "Nippon.com credits the JMSDF's US-1 and US-2 amphibians with more than 1,000 rescues since 1976, and says the US-2 can operate from 261 Japanese islands. In June 2022 a US-2 picked up an American family of three whose vessel could not sail, about 770 km off the main island of Okinawa. The seven aircraft based at Iwakuni and Atsugi in 2022 were never all available, because some were always in inspection or repair. {{ref:nippon}}",
+          "In April 2015 aircraft 9905 was damaged beyond repair near Cape Ashizuri, Shikoku during a training flight, reportedly after losing an engine. Four of the 19 aboard were injured, and all were rescued. On 27th April 2026 a US-2 landed on the water near Oyster Bay, Palawan for a joint casualty-evacuation drill during Balikatan 2026. The first JMSDF US-2 was retired in August 2024. {{ref:wiki}}"
+        ]
+      },
+      {
+        "heading": "The Export Attempts",
+        "paragraphs": [
+          "The Indian Navy had a requirement for 12 to 18 aircraft at an anticipated $1.65 billion, and talks began in 2011. Japan's quote of $133M per aircraft was cut to about $113M in October 2016. A November 2016 signing was deferred by the Indian defence minister Manohar Parrikar. ShinMaywa and Mahindra Defence signed an MoU in April 2018, and by 2021 talks had stopped over price. {{ref:wiki}} {{ref:defensenews}} {{ref:asianmilitary}}",
+          "Japan offered Indonesia the US-2 in May 2015 and proposed three aircraft at $100M each in August 2016, but Indonesia chose the Viking CL-515 in June 2019. Thailand showed interest in 2016, and Greece reportedly sought several as water-bombers after the July 2018 Attica fires. On 6th April 2022 the deputy commander of U.S. Air Force Special Operations Command visited Iwakuni to observe the aircraft, and AFSOC was reported to be considering detachable floats for the MC-130J. Experts estimate Japan needs at least 20 to 30 rescue aircraft for a Taiwan conflict, well above its current fleet. {{ref:wiki}} {{ref:nippon}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki",
+      "name": "ShinMaywa US-2",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ShinMaywa_US-2"
+    },
+    {
+      "id": "wiki-us1a",
+      "name": "Shin Meiwa US-1A",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shin_Meiwa_US-1A"
+    },
+    {
+      "id": "nippon",
+      "name": "Japanese Amphibious Rescue Aircraft Draws Worldwide Attention",
+      "publisher": "Nippon.com",
+      "url": "https://www.nippon.com/en/japan-topics/g02202/"
+    },
+    {
+      "id": "defencetalk",
+      "name": "The Demise of the Maritime Self-Defense Force's US-2 Becoming a Reality",
+      "publisher": "DefenceTalk forum",
+      "url": "https://www.defencetalk.com/military/goto/post?id=434183"
+    },
+    {
+      "id": "defensenews",
+      "name": "India Resolves US-2 Aircraft Price Issue With Japan",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/articles/india-resolves-us-2-aircraft-price-issue-with-japan"
+    },
+    {
+      "id": "asianmilitary",
+      "name": "Mahindra Defence Partners With ShinMaywa Industries Over US-2i Sales Bid",
+      "publisher": "Asian Military Review",
+      "url": "https://www.asianmilitaryreview.com/2018/04/mahindra-defence-partners-with-shinmaywa-industries-over-us-2i-sales-bid/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "ShinMaywa US-2 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ShinMaywa_US-2"
+    },
+    {
+      "name": "JMSDF US-2 returns to Iwakuni after repairs - The Aviationist",
+      "url": "https://theaviationist.com/?p=87602"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2003-12-18",
+      "title": "First flight",
+      "tag": "First flight",
+      "summary": "Flight testing of the US-1A kai began and the aircraft was designated US-2.",
+      "source": "https://en.wikipedia.org/wiki/ShinMaywa_US-2"
+    },
+    {
+      "date": "2015-04",
+      "title": "US-2 9905 written off near Cape Ashizuri",
+      "tag": "Engine failure",
+      "summary": "Aircraft 9905 was badly damaged on a training flight near Cape Ashizuri, Shikoku, reportedly after losing an engine. Four of the 19 aboard were injured, all were rescued, and the aircraft was written off.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/ShinMaywa_US-2"
+    },
+    {
+      "date": "2022-06",
+      "title": "American family rescued 770 km off Okinawa",
+      "tag": "Rescue",
+      "summary": "A JMSDF US-2 rescued a family of three Americans whose vessel could not sail, about 770 km off the main island of Okinawa.",
+      "source": "https://www.nippon.com/en/japan-topics/g02202/"
+    },
+    {
+      "date": "2026-04-27",
+      "title": "Casualty evacuation drill at Palawan",
+      "tag": "Exercise",
+      "summary": "A US-2 landed on the water near Oyster Bay, Palawan for a joint casualty-evacuation drill during Balikatan 2026. U.S. Indo-Pacific Command published the details on 2nd May.",
+      "source": "https://en.wikipedia.org/wiki/ShinMaywa_US-2"
+    }
+  ]
+}
