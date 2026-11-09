@@ -1,0 +1,287 @@
+{
+  "name": "SpaceShipTwo",
+  "fullName": "Scaled Composites Model 339 SpaceShipTwo",
+  "manufacturer": "Scaled Composites / The Spaceship Company",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Suborbital Spaceplane",
+  "tagline": "SpaceShipTwo is a rocket-powered spaceplane designed to carry two pilots and up to six passengers on suborbital flights from a drop at about 45,000 ft. Two were built for Virgin Galactic: VSS Enterprise, destroyed in a crash on 31st October 2014, and VSS Unity, which made seven commercial flights before it was retired in June 2024.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "VSS Unity reached 89.9 km on 22nd February 2019, its highest flight, and never crossed the 100 km Kármán line, though it passed the 50-mile mark the U.S. uses to award astronaut wings.",
+    "On 31st October 2014 VSS Enterprise broke up in flight over the Mojave Desert after the co-pilot unlocked the feather system at Mach 0.82 instead of 1.4, killing Michael Alsbury and seriously injuring Peter Siebold.",
+    "Unity's first commercial flight, Galactic 01, took off on 29th June 2023, and the seventh and last, Galactic 07, flew on 8th June 2024.",
+    "On 11th July 2021 Unity carried Richard Branson to 86.1 km, but it strayed out of its reserved airspace on the way up and the FAA grounded the fleet.",
+    "A seat was priced at $250,000 in 2014, and the cabin has 12 large windows, with passengers free to unbuckle and float in weightlessness.",
+    "The spaceplane comes back by folding its tail booms upward in a feather, which makes it fall like a shuttlecock before it glides home to a runway."
+  ],
+  "specifications": {
+    "specificationsNote": "The top speed is Virgin Galactic's published figure of 2,500 mph, while the fastest measured flight, Unity on 22nd February 2019, reached Mach 3.04. The first flight date is Enterprise's first free glide on 10th October 2010, and the first captive carry on White Knight Two was on 22nd March 2010.",
+    "maxSpeed": {
+      "mph": 2500,
+      "text": "2,172 kn (2,500 mph / 4,000 km/h)"
+    },
+    "cruiseSpeed": "Not applicable - rocket-powered suborbital flight with no cruise phase",
+    "range": {
+      "miles": null,
+      "text": "Not applicable - a suborbital hop launched from White Knight Two at about 45,000 ft that lands back on a runway"
+    },
+    "serviceCeiling": {
+      "ft": 294900,
+      "text": "294,900 ft (89.9 km) - the highest flight, by VSS Unity on 22nd February 2019"
+    },
+    "wingspan": {
+      "ft": 27.3,
+      "text": "27 ft 3 in (8.3 m)"
+    },
+    "length": {
+      "ft": 60,
+      "text": "60 ft 0 in (18.3 m)"
+    },
+    "height": {
+      "ft": 18.1,
+      "text": "18 ft 1 in (5.5 m)"
+    },
+    "weight": "empty: 13,500 lb (6,123 kg); MTOW: 29,000 lb (13,154 kg) launch mass",
+    "engines": "1 x hybrid rocket motor, solid fuel burned with nitrous oxide",
+    "crew": "2 pilots",
+    "capacity": "6 passengers in a 500 cu ft (14 m3) pressurised cabin with 12 windows; 1,300 lb (600 kg) payload to suborbital altitude",
+    "firstFlight": {
+      "date": "2010-10-10",
+      "year": 2010
+    },
+    "serviceEntryDate": "2023-06-29",
+    "retiredDate": "2024-06-08",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Virgin Galactic never published a price for a single ship. An early press estimate put the first five spaceships and their carrier aircraft at about $400M combined",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "VSS Enterprise",
+      "desc": "The first SpaceShipTwo, built by Scaled Composites and rolled out on 7th December 2009. It made the first crewed glide on 10th October 2010 and the first powered flight on 29th April 2013, and reached 72,000 ft before it broke up on its fourth powered flight on 31st October 2014. It never reached space."
+    },
+    {
+      "code": "VSS Unity",
+      "desc": "The second SpaceShipTwo, unveiled on 19th February 2016 and built by The Spaceship Company, with the redesigned Virgin Galactic motor. It made the first spaceflights on 13th December 2018, carried its first non-employee passengers in 2023 and flew its last powered mission on 8th June 2024. It flew 29 times in all, including 15 powered flights."
+    },
+    {
+      "code": "Delta class (successor)",
+      "desc": "The next generation, a successor to SpaceShipTwo and not a version of it. The lead ship, Apeiron, was revealed on 28th October 2026 and flown to Spaceport America under VMS Eve. It is designed to carry up to six passengers, fly twice a week and last more than 500 missions, with commercial service planned for the second quarter of 2027."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Virgin Galactic",
+      "role": "Owner and Operator",
+      "status": "Retired",
+      "since": "2016",
+      "fleetSize": "1 (VSS Unity, retired June 2024)",
+      "homeBase": "Spaceport America - New Mexico"
+    },
+    {
+      "name": "Scaled Composites",
+      "role": "Builder and Test Operator of VSS Enterprise",
+      "status": "Retired",
+      "since": "2009",
+      "fleetSize": "1 (VSS Enterprise, destroyed 31st October 2014)",
+      "homeBase": "Mojave Air and Space Port - California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "SpaceShipTwo has no ICAO type code and did not normally appear on Flightradar24, which tracks transponders. The White Knight Two carrier aircraft, registered N348MS, occasionally shows up on flights near Spaceport America in New Mexico or Mesa Gateway airport in Arizona."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "New entry for SpaceShipTwo - Enterprise and Unity flight histories, the 2007 and 2014 accidents, Unity 22 and the move to the Delta class.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "spaceshiptwo",
+    "ss2",
+    "vss unity",
+    "unity",
+    "vss enterprise",
+    "enterprise",
+    "virgin galactic",
+    "scaled composites",
+    "the spaceship company",
+    "spaceplane",
+    "space tourism",
+    "suborbital",
+    "model 339",
+    "civilian"
+  ],
+  "article": {
+    "overview": [
+      "SpaceShipTwo is a rocket-powered, air-launched spaceplane designed to take paying passengers to the edge of space. It is about 60 ft long, seats two pilots and up to six passengers, and is dropped from the carrier aircraft White Knight Two at about 45,000 ft before its rocket motor fires. {{ref:wiki-ss2}} {{ref:space-capacity}}",
+      "Two were built. VSS Enterprise crashed in 2014 on a test flight. VSS Unity reached space for the first time in December 2018, flew passengers from 2023 and was retired in June 2024, after a total of 12 flights above 50 miles and none above 100 km. {{ref:wiki-unity}} {{ref:ntsb-ss2}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "SpaceShipTwo grew out of SpaceShipOne, which won the $10M Ansari X Prize for private spaceflight in 2004. Richard Branson unveiled a mock-up of the passenger cabin on 28th September 2006, and Virgin Galactic became the launch customer. {{ref:universetoday-apeiron}} {{ref:wiki-ss2}}",
+          "The programme was dangerous from the start. On 26th July 2007 an explosion during a nitrous oxide test of the propulsion system at the Mojave Air and Space Port killed three Scaled Composites employees. The early plan to start commercial flights in 2011 slipped by twelve years. {{ref:wiki-ss2}} {{ref:theweek-ss2}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The ship is 60 ft 0 in long with a 27 ft 3 in wingspan and an 18 ft 1 in height. It weighs 13,500 lb empty and 29,000 lb at launch. The cabin is a pressurised tube about 12 ft long and 7 ft 7 in across, with 12 large windows, and the design was meant to take eight people in total, although no flight ever carried more than six. {{ref:supercluster-unity22}} {{ref:wiki-ss2}} {{ref:space-capacity}}",
+          "Its trick is the descent. Rather than a heat shield, the tail booms hinge upward in a feather configuration that turns the vehicle into a high-drag shuttlecock, which is workable because it comes back from a suborbital arc at far lower speed than an orbital spacecraft. The motor is a hybrid rocket, with solid fuel and a nitrous oxide oxidiser. {{ref:wiki-ss2}}"
+        ]
+      },
+      {
+        "heading": "Enterprise: Test Flights and the 2014 Crash",
+        "paragraphs": [
+          "VSS Enterprise was rolled out on 7th December 2009 and made its first captive carry under White Knight Two on 22nd March 2010. It made its first crewed glide on 10th October 2010 with Peter Siebold and Michael Alsbury, then a first powered flight on 29th April 2013, at Mach 1.22 and 56,000 ft. {{ref:wiki-enterprise}}",
+          "Two more powered flights followed, reaching Mach 1.43 and 69,000 ft on 5th September 2013 and 72,000 ft on 10th January 2014. On 31st October 2014 the fourth powered flight ended in disaster. The NTSB found that Alsbury unlocked the feather at Mach 0.82, when the flight card required Mach 1.4, and the feather then extended without being commanded and the vehicle broke up at about 46,000 ft. Alsbury was killed, Siebold survived by parachute, and the board blamed Scaled Composites for not guarding against a single human error and the FAA for weak oversight. {{ref:wiki-enterprise}} {{ref:ntsb-ss2}}"
+        ]
+      },
+      {
+        "heading": "Unity: Reaching Space",
+        "paragraphs": [
+          "VSS Unity was unveiled on 19th February 2016, flew captive on 8th September 2016 and glided for the first time on 3rd December 2016. Its first powered flight on 5th April 2018 reached 25.7 km at Mach 1.87, and on 13th December 2018 pilots Mark Stucky and Frederick Sturckow took it to 82.7 km, which counts as space by the U.S. 50-mile definition. {{ref:wiki-unity}}",
+          "On 22nd February 2019 it reached 89.9 km and Mach 3.04, with Beth Moses as the first passenger in the cabin, which remains its best flight. A flight from New Mexico on 12th December 2020 was aborted after ignition because of a computer fault and the crew landed safely. David Mackay and Sturckow flew the first crewed spaceflight from New Mexico on 22nd May 2021. {{ref:wiki-unity}}"
+        ]
+      },
+      {
+        "heading": "Unity 22 and the Commercial Flights",
+        "paragraphs": [
+          "On 11th July 2021 Branson flew to 86.1 km on Unity 22. Unity briefly left its assigned airspace on the way up, and the FAA was not told as required, which led to a grounding until procedures changed. The fleet then paused for nearly two years, and Unity 25 on 25th May 2023 brought it back. {{ref:wiki-unity}} {{ref:spacelaunchnow-unity25}}",
+          "Galactic 01 on 29th June 2023 carried the first non-employee passengers, a group from the Italian Air Force and the National Research Council plus Virgin Galactic's Colin Bennett. Seven commercial flights followed, topping out at 88.8 km on Galactic 06 on 26th January 2024, and the last flew on 8th June 2024. {{ref:wiki-unity}} {{ref:space-capacity}}"
+        ]
+      },
+      {
+        "heading": "Retirement and the Delta Class",
+        "paragraphs": [
+          "Virgin Galactic retired Unity to focus on the Delta class, a new fleet designed to fly twice a week and last more than 500 missions each. Unity flew a glide on 27th May 2026 to train the first Delta pilots, and Apeiron, the lead Delta, reached Spaceport America under VMS Eve on 28th October 2026. {{ref:wiki-unity}} {{ref:ktar-apeiron}} {{ref:newatlas-apeiron}}",
+          "The record is mixed. Unity made just 15 powered flights between 2018 and 2024, never reached 100 km, and an entire fleet depended on a single carrier aircraft. Even so it proved that a feathered, air-launched spaceplane could be flown safely to 50 miles and back, and carried paying passengers to do it. {{ref:wiki-unity}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-ss2",
+      "name": "SpaceShipTwo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SpaceShipTwo"
+    },
+    {
+      "id": "wiki-unity",
+      "name": "VSS Unity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/VSS_Unity"
+    },
+    {
+      "id": "wiki-enterprise",
+      "name": "VSS Enterprise",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/VSS_Enterprise"
+    },
+    {
+      "id": "ntsb-ss2",
+      "name": "In-Flight Breakup During Test Flight, Scaled Composites SpaceShipTwo (NTSB/AAR-15/02)",
+      "publisher": "National Transportation Safety Board",
+      "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1502.pdf"
+    },
+    {
+      "id": "space-capacity",
+      "name": "How many people can fly on Virgin Galactic's SpaceShipTwo space plane?",
+      "publisher": "Space.com",
+      "url": "https://www.space.com/virgin-galactic-spaceshiptwo-how-many-astronauts"
+    },
+    {
+      "id": "supercluster-unity22",
+      "name": "Unity 22",
+      "publisher": "Supercluster",
+      "url": "https://www.supercluster.com/launches/unity-22"
+    },
+    {
+      "id": "theweek-ss2",
+      "name": "The world's first private spaceship: By the numbers",
+      "publisher": "The Week",
+      "url": "https://theweek.com/articles/490313/worlds-first-private-spaceship-by-numbers"
+    },
+    {
+      "id": "universetoday-apeiron",
+      "name": "Virgin Galactic flies next-gen space plane to new home with new name",
+      "publisher": "Universe Today",
+      "url": "https://www.universetoday.com/articles/virgin-galactic-flies-next-gen-space-plane-to-new-home-with-new-name"
+    },
+    {
+      "id": "spacelaunchnow-unity25",
+      "name": "VSS Unity 25",
+      "publisher": "Space Launch Now",
+      "url": "https://spacelaunchnow.app/launch/spaceshiptwo-vss-unity-25/"
+    },
+    {
+      "id": "ktar-apeiron",
+      "name": "Virgin Galactic completes Apeiron spaceship and moves it to Spaceport America",
+      "publisher": "KTAR News",
+      "url": "https://ktar.com/arizona-business/virgin-galactic-apeiron"
+    },
+    {
+      "id": "newatlas-apeiron",
+      "name": "Virgin Galactic Apeiron Delta-class spaceship",
+      "publisher": "New Atlas",
+      "url": "https://newatlas.com/aircraft/virgin-galactic-apeiron-delta-class-spaceship/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Scotsman - 2,500mph rocket craft designed to cross the line",
+      "url": "https://www.pressreader.com/uk/the-scotsman/20141101/281612418675685"
+    },
+    {
+      "name": "Space.com - Meet Apeiron, Virgin Galactic's first Delta-class space plane",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/meet-apeiron-virgin-galactics-1st-delta-class-space-plane"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2007-07-26",
+      "title": "Mojave propulsion test explosion",
+      "tag": "Ground test accident",
+      "summary": "An explosion during a nitrous oxide flow test of a SpaceShipTwo propulsion component at the Mojave Air and Space Port killed three Scaled Composites employees.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/SpaceShipTwo"
+    },
+    {
+      "date": "2014-10-31",
+      "title": "VSS Enterprise in-flight breakup",
+      "tag": "Loss of vehicle",
+      "summary": "On its fourth powered flight, VSS Enterprise broke apart near Koehn Dry Lake in California at about 46,000 ft after the co-pilot unlocked the feather system at Mach 0.82 instead of 1.4. Co-pilot Michael Alsbury was killed and pilot Peter Siebold survived by parachute with serious injuries. The NTSB blamed the lack of protection against a single human error and weak oversight.",
+      "fatalities": 1,
+      "source": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1502.pdf"
+    },
+    {
+      "date": "2020-12-12",
+      "title": "Aborted powered flight",
+      "tag": "Aborted flight",
+      "summary": "VSS Unity was dropped from White Knight Two for a spaceflight attempt from New Mexico, but the motor shut down after ignition because of a computer malfunction. The crew glided back and landed safely.",
+      "source": "https://en.wikipedia.org/wiki/VSS_Unity"
+    },
+    {
+      "date": "2021-07-11",
+      "title": "Unity 22 airspace deviation",
+      "tag": "Airspace deviation",
+      "summary": "During Richard Branson's flight, VSS Unity briefly left its reserved airspace on the way up and the FAA was not notified as required. The FAA grounded the fleet until procedures were changed and a larger block of airspace was reserved.",
+      "source": "https://en.wikipedia.org/wiki/VSS_Unity"
+    }
+  ]
+}

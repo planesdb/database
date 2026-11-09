@@ -1,0 +1,267 @@
+{
+  "name": "X-45A",
+  "fullName": "Boeing X-45A UCAV",
+  "manufacturer": "Boeing Phantom Works",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "drones"
+  ],
+  "role": "Unmanned Combat Air Vehicle Demonstrator",
+  "tagline": "The Boeing X-45A was a tailless, jet-powered unmanned combat air vehicle built to show that a robot aircraft could attack air defences without a pilot on board. Two were built, and between 2002 and 2005 they flew 64 test flights, dropped inert weapons from internal bays and were flown in pairs by a single operator.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "The first X-45A flew on 22nd May 2002 from Edwards Air Force Base in California, a short hop that the second aircraft followed in November 2002.",
+    "On 18th April 2004 an X-45A released a GPS-guided 250 lb inert bomb from its internal bay and hit a ground target, the programme's first live-release test.",
+    "On 1st August 2004 a single ground-based pilot flew two X-45As at the same time, which was the point of the whole programme: one operator, many aircraft.",
+    "On the 50th flight, on 4th February 2005, two X-45As worked out between themselves which one would attack a target and which would stay back, with no human choosing.",
+    "The Air Force walked away on 2nd March 2006, and the Navy's rival X-47B won the follow-on contract, which makes the X-45 a design that was good enough to prove the idea and not quite good enough to be picked.",
+    "Boeing's production target was $10M to $15M per aircraft, roughly a third of what the Joint Strike Fighter was expected to cost."
+  ],
+  "specifications": {
+    "specificationsNote": "\"??\" means the figure has not been published. Boeing never released a top speed for the X-45A. The cruise speed and combat range come from Boeing's published demonstrator figures. The gross weight is the figure given by the Air Force museum.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "??"
+    },
+    "cruiseSpeed": "613 mph (987 km/h)",
+    "range": {
+      "miles": 1496,
+      "text": "1,496 mi (2,408 km, 1,300 nmi) combat range"
+    },
+    "serviceCeiling": {
+      "ft": 40000,
+      "text": "40,000 ft (12,200 m)"
+    },
+    "wingspan": {
+      "ft": 33.8,
+      "text": "33 ft 10 in (10.31 m)"
+    },
+    "length": {
+      "ft": 26.5,
+      "text": "26 ft 6 in (8.08 m)"
+    },
+    "height": {
+      "ft": 6.7,
+      "text": "6 ft 8 in (2.03 m)"
+    },
+    "weight": "empty: 8,000 lb (3,629 kg); MTOW: 12,190 lb (5,529 kg)",
+    "engines": "1 x Honeywell F124-GA-100 turbofan",
+    "armament": "Two internal weapons bays with four stations each, sized for eight 250 lb Small Diameter Bombs or similar. Only inert weapons were ever released.",
+    "crew": "None onboard - flown from a ground station",
+    "capacity": "Two internal weapons bays, eight weapon stations in total",
+    "firstFlight": {
+      "date": "2002-05-22",
+      "year": 2002
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "2006",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - two demonstrators were built under a cost-shared programme, so there was no unit price. Boeing's production target in 2002 was $10M to $15M per aircraft",
+      "inflationText": null
+    },
+    "combatLosses": "No documented combat losses"
+  },
+  "variants": [
+    {
+      "code": "X-45A",
+      "desc": "The proof-of-concept demonstrator and the only version that flew. A small, tailless, swept flying wing about 27 ft long with a single Honeywell F124 turbofan inside the fuselage. Two were built, the first completed in September 2000, and together they made 64 flights from Edwards before the Air Force ended the programme."
+    },
+    {
+      "code": "X-45B",
+      "desc": "A larger, more capable Air Force version with a General Electric F404 engine, funded by a $460M contract extension in August 2002 and meant to bring the system within reach of an operational capability by 2008. It was folded into the X-45C plan before any airframe flew."
+    },
+    {
+      "code": "X-45C",
+      "desc": "The bigger follow-on, with a longer fuselage, a wider wing and an F404 engine. DARPA gave Boeing $767M in October 2004 to build three, and a further $175M in July 2005 added autonomous aerial refuelling work. Only one prototype was finished, and it later flew as the Phantom Ray."
+    },
+    {
+      "code": "X-45N",
+      "desc": "Boeing's carrier-capable proposal for the Navy's UCAS-D competition, with a first flight planned for November 2008 had it won. The Navy chose Northrop Grumman's X-47B in August 2007 and the X-45N was dropped. The software Boeing wrote for it to land and take off autonomously on carriers was later installed in an F/A-18F, which used it to fly autonomous approaches."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Programme Partner and Primary User",
+      "status": "Retired",
+      "since": "2002",
+      "fleetSize": "2",
+      "homeBase": "Edwards Air Force Base, California"
+    },
+    {
+      "name": "DARPA",
+      "role": "Programme Sponsor",
+      "status": "Retired",
+      "since": "1999",
+      "fleetSize": "2 (programme-funded)",
+      "homeBase": "Arlington, Virginia"
+    },
+    {
+      "name": "Boeing Phantom Works",
+      "role": "Manufacturer and Test Operator",
+      "status": "Retired",
+      "since": "2000",
+      "fleetSize": "2 built",
+      "homeBase": "St. Louis, Missouri - flown from Edwards Air Force Base"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The X-45A last flew in 2005, so it cannot appear on Flightradar24. One aircraft stands in the Cold War Gallery at the National Museum of the United States Air Force near Dayton, Ohio, and the other is in the Smithsonian's National Air and Space Museum."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "Added the Boeing X-45A - history, specs, variants, operators, the two museum airframes and the sources used.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "x-45",
+    "x-45a",
+    "ucav",
+    "j-ucas",
+    "unmanned combat air vehicle",
+    "drone",
+    "boeing phantom works",
+    "darpa",
+    "experimental",
+    "flying wing"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing X-45A was an experimental unmanned combat air vehicle, a tailless jet built by Boeing's Phantom Works for DARPA and the U.S. Air Force. It was designed to show that a robot aircraft could take on the most dangerous job in air warfare, suppressing enemy air defences, without risking a pilot. {{ref:wiki-x45}} {{ref:diy-x45c}}",
+      "Two aircraft flew from Edwards Air Force Base in California between 2002 and 2005 and made 64 flights. They released inert weapons from internal bays and were flown in pairs by a single operator. Then the Air Force cancelled the programme on 2nd March 2006, and the Navy's competing X-47B took over the idea. {{ref:wiki-x45}} {{ref:boeing-museum}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The idea came out of the late 1990s, when DARPA and the Air Force wanted an aircraft that could go first into defended airspace. On 24th March 1999 they chose Boeing over Lockheed Martin and Northrop Grumman to carry on with Phase II of the Unmanned Combat Air Vehicle programme, a 42-month, $131M effort. Boeing put in $21M of its own money. {{ref:globalsecurity-x45}} {{ref:strategypage-ucav}}",
+          "The economics were the pitch. Take out the cockpit, the life support and the ejection seat and the airframe gets smaller and cheaper. Boeing's goal was $10M to $15M per aircraft, about a third of the $45M then quoted for a Joint Strike Fighter. The first X-45A was unveiled on 27th September 2000. {{ref:globalsecurity-x45}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The X-45A is a swept flying wing with no tail and no vertical fin. It is 26 ft 6 in long with a 33 ft 10 in wingspan, and a single Honeywell F124 turbofan sits inside the body. It weighs 8,000 lb empty. {{ref:wiki-x45}}",
+          "Weapons went in two internal bays with four stations each, sized for 250 lb Small Diameter Bombs. The aircraft flew itself, and a ground-based pilot gave high-level commands such as which target to attack, rather than steering with a stick. A modified T-33 flown with the same avionics acted as a stand-in during development. {{ref:globalsecurity-x45}}"
+        ]
+      },
+      {
+        "heading": "Flight Test & Firsts",
+        "paragraphs": [
+          "The first X-45A flew on 22nd May 2002 from Edwards, and the second joined it in November. A weapons test followed in spring 2004: on 18th April an X-45A released a 250 lb inert precision-guided bomb from its internal bay and hit a ground target. {{ref:aftc-first-flight}} {{ref:wiki-x45}}",
+          "Then came the harder demonstrations. On 1st August 2004 one ground pilot controlled two X-45As in flight at the same time. On 4th February 2005, the 50th flight, the two aircraft shared threat information and decided between themselves which would attack and which would hold back, and a second, disguised threat was then destroyed. Boeing counted 64 flights in total. {{ref:wiki-x45}} {{ref:boeing-museum}}"
+        ]
+      },
+      {
+        "heading": "The Bigger Aircraft That Never Came",
+        "paragraphs": [
+          "The X-45A was always meant to be a stepping stone. In August 2002 DARPA and the Air Force added $460M to build two larger X-45B aircraft, which became the larger X-45C. In October 2004 DARPA gave Boeing $767M for three X-45Cs, and in July 2005 added $175M, partly for autonomous aerial refuelling. {{ref:darpa-x45b}} {{ref:diy-x45c}}",
+          "It did not last. The Air Force pulled out on 2nd March 2006, and the Navy chose Northrop Grumman's X-47B for its UCAS-D carrier demonstrator in August 2007, which ended Boeing's X-45N proposal. The single X-45C prototype was finished with Boeing's own money and flew as the Phantom Ray. {{ref:wiki-x45}}"
+        ]
+      },
+      {
+        "heading": "Legacy & Survivors",
+        "paragraphs": [
+          "Both X-45As were retired to museums. One was inducted into the National Museum of the United States Air Force on 13th November 2006 and stands in the Cold War Gallery, and the other went to the Smithsonian's National Air and Space Museum. {{ref:afmil-display}}",
+          "Its direct line ended, but the ideas carried on. The idea of one pilot directing several uncrewed aircraft is now the basis of the collaborative combat aircraft programmes. The X-45A proved the concept sooner than the services were ready to buy it. {{ref:wiki-x45}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-x45",
+      "name": "Boeing X-45",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_X-45"
+    },
+    {
+      "id": "aftc-first-flight",
+      "name": "May 22, 2002: The X-45A Unmanned Combat Air Vehicle Made its First Flight",
+      "publisher": "Air Force Test Center",
+      "url": "https://www.aftc.af.mil/About-Us/History/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2562445/may-22-2002-the-x-45a-unmanned-combat-air-vehicle-made-its-first-flight/"
+    },
+    {
+      "id": "diy-x45c",
+      "name": "US Wants to Add Midair Refueling to X-45C UCAS",
+      "publisher": "Defense Industry Daily",
+      "url": "https://www.defenseindustrydaily.com/us-wants-to-add-midair-refueling-to-x45c-ucas-updated-0838/"
+    },
+    {
+      "id": "globalsecurity-x45",
+      "name": "X-45 Unmanned Combat Air Vehicle (UCAV)",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/systems/aircraft/x-45.htm"
+    },
+    {
+      "id": "strategypage-ucav",
+      "name": "Warplanes: May 25, 2002",
+      "publisher": "StrategyPage",
+      "url": "https://www.strategypage.com/htmw/htairfo/articles/20020525.aspx"
+    },
+    {
+      "id": "darpa-x45b",
+      "name": "DARPA extends Unmanned Combat Air Vehicle contract to Boeing",
+      "publisher": "DARPA",
+      "url": "https://webharvest.gov/peth04/20041014230827/http:/www.darpa.mil/body/NewsItems/pdf/ReleaseX-45BAward8-7-02(1).pdf"
+    },
+    {
+      "id": "boeing-museum",
+      "name": "Boeing X-45As to be Inducted into Smithsonian and National Museum of the U.S. Air Force",
+      "publisher": "Boeing",
+      "url": "https://boeing.mediaroom.com/2006-10-02-Boeing-X-45As-to-be-Inducted-into-Smithsonian-and-National-Museum-of-the-U.S.-Air-Force"
+    },
+    {
+      "id": "afmil-display",
+      "name": "Boeing X-45A unmanned combat vehicle on display",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/News/Article-Display/Article/129069/boeing-x-45a-unmanned-combat-vehicle-on-display"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Air Force Test Center - X-45A weapons release test",
+      "url": "https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2508706/march-20-2004-x-45a-joint-unmanned-combat-aerial-system-performed-weapons-relea/"
+    },
+    {
+      "name": "Flight International - Boeing gets funding to move UCAV forward",
+      "url": "https://www.flightglobal.com/boeing-gets-funding-to-move-ucav-forward-/44441.article"
+    }
+  ],
+  "accidentsAndIncidents": [],
+  "survivors": {
+    "intro": "Both X-45As survive, one in each of two national museums.",
+    "airframes": [
+      {
+        "name": "X-45A",
+        "location": "National Museum of the United States Air Force - Cold War Gallery",
+        "place": "Wright-Patterson Air Force Base, Dayton, Ohio, United States",
+        "url": "https://www.af.mil/News/Article-Display/Article/129069/boeing-x-45a-unmanned-combat-vehicle-on-display",
+        "note": "Inducted on 13th November 2006 and displayed near the B-2 Spirit.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "name": "X-45A",
+        "location": "Smithsonian National Air and Space Museum",
+        "place": "Washington, DC, United States",
+        "url": "https://boeing.mediaroom.com/2006-10-02-Boeing-X-45As-to-be-Inducted-into-Smithsonian-and-National-Museum-of-the-U.S.-Air-Force",
+        "note": "Went to the museum's collection alongside the Air Force example in 2006.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

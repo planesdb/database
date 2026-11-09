@@ -62,9 +62,9 @@
     "retiredDate": "1972",
     "numberBuilt": 2503,
     "unitCost": {
-      "usd": null,
-      "text": "Not publicly disclosed - no consistent wartime flyaway figure was published for the Invader, which was built at two plants across several variants and later remanufactured as the B-26K",
-      "inflationText": null
+      "usd": "$242,000",
+      "text": "$242,000 in 1942",
+      "inflationText": "$5M if built in 2026"
     },
     "combatLosses": "The Ninth Air Force lost 67 Invaders across 11,567 missions in Europe. The 452nd Bombardment Wing alone lost 85 crewmen in Korea, and nine Cuban-exile B-26s were lost in the three days of the Bay of Pigs operation in April 1961."
   },
@@ -154,6 +154,11 @@
       "date": "2026-09-10",
       "change": "New entry for the Douglas A-26 Invader - history, specs, variants, operators, survivors and accident record. Sources: Wikipedia, the Hurlburt Field USAF fact sheet and the Wikipedia survivor list.",
       "author": "planesdb"
+    },
+    {
+      "date": "2026-11-09",
+      "change": "More accurate costings provided for the aircraft, with inflation text included",
+      "author": "planesdb"
     }
   ],
   "tags": [
@@ -242,6 +247,10 @@
     {
       "name": "List of surviving Douglas A-26 Invaders",
       "url": "https://en.wikipedia.org/wiki/List_of_surviving_Douglas_A-26_Invaders"
+    },
+    {
+      "name": "MAPS Air Musuem - history of the Douglas A-26C-25-DT",
+      "url": "https://mapsairmuseum.org/douglas-a-26c-invader/"
     }
   ],
   "accidentsAndIncidents": [

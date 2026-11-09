@@ -1,0 +1,251 @@
+{
+  "name": "Mantis",
+  "fullName": "BAE Systems Mantis",
+  "manufacturer": "BAE Systems",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "drones"
+  ],
+  "role": "MALE Unmanned Combat and ISTAR Demonstrator",
+  "tagline": "The BAE Systems Mantis is a twin-engine, medium-altitude long-endurance unmanned aircraft built by BAE Systems as a technology demonstrator for the UK Ministry of Defence. It first flew on 21st October 2009 at the Woomera Test Range in South Australia, and its design became the starting point for the Anglo-French Telemos, which was abandoned in July 2012.",
+  "status": "Cancelled",
+  "inProduction": false,
+  "quickFacts": [
+    "Mantis went from concept to first flight in 19 months, and BAE described it as the largest fully autonomous unmanned aircraft built in the UK.",
+    "The first flight on 21st October 2009 was only made public on 13th November 2009, after a five-flight trial campaign at Woomera had already finished.",
+    "AIN called it the first twin-engine autonomous large UAV, with one satellite link in the forward fuselage dome and a second in the fin tip.",
+    "It had six hardpoints, three under each wing, rated for 12 Brimstone missiles or six 226 kg Paveway bombs, but the weapons phase of the programme was never flown.",
+    "Funding was removed in the 2010 Strategic Defence Review, so Mantis stayed a demonstrator and the planned sensor and weapons phases did not go ahead.",
+    "BAE planned to spend about 4 to 5 million pounds of its own money in 2012 to return the aircraft to flying condition."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the single Phase 1 demonstrator and come from BAE data as repeated by Wikipedia and Airforce Technology. The sources disagree on wingspan (20 m on Airforce Technology, about 65.6 ft in an Aviation Week report, 22 m on Wikipedia), so 20 m is used. The published empty weight of 1,000 kg looks low beside a 9,000 kg maximum takeoff weight and is recorded as published. Range, height and cost have not been published and are left out, and Wikipedia and Airforce Technology disagree on engine rating (280 kW and 310 kW), so the lower figure is used. Maximum speed is published as 300 kn (560 km/h) and the mph figure here is converted from km/h.",
+    "maxSpeed": {
+      "mph": 348,
+      "text": "302 kn (348 mph / 560 km/h)"
+    },
+    "cruiseSpeed": "230 mph (370 km/h)",
+    "serviceCeiling": {
+      "ft": 55000,
+      "text": "55,000 ft (16,764 m)"
+    },
+    "wingspan": {
+      "ft": 65.6,
+      "text": "65 ft 7 in (20 m)"
+    },
+    "length": {
+      "ft": 65,
+      "text": "65 ft (19.8 m)"
+    },
+    "weight": "empty: 2,205 lb (1,000 kg); MTOW: 19,842 lb (9,000 kg)",
+    "engines": "2 x Rolls-Royce Model 250 turboprops, 280 kW (380 shp) each",
+    "armament": "Six hardpoints (three per wing), rated for 12 MBDA Brimstone missiles or six 226 kg (about 500 lb) Raytheon Paveway bombs; weapons were planned for a later phase that was not flown",
+    "crew": "0 (autonomous, or flown from a ground control station)",
+    "capacity": "Payload not published; endurance quoted at 30 hours, with at least 24 hours stated as the operational figure",
+    "firstFlight": {
+      "date": "2009-10-21",
+      "year": 2009
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "2010",
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - the MoD never released the budget, and the first phase was funded half by industry and half by the MoD",
+      "inflationText": null
+    },
+    "combatLosses": "None documented - Mantis flew test sorties only"
+  },
+  "variants": [
+    {
+      "code": "Mantis (Phase 1 demonstrator)",
+      "desc": "The only aircraft built, first flown on 21st October 2009. It had two Rolls-Royce 250 engines, a satellite dome on the forward fuselage, a second satellite link in the fin tip and an L-3 Wescam MX-20 sensor turret. It flew five times at Woomera, and Phase 1 ended in November 2009."
+    },
+    {
+      "code": "Mantis Phase 2 and 3 (planned)",
+      "desc": "Phase 2 was to concentrate on sensors and weapons, with weapons release trials considered in Afghanistan, and Phase 3 was to assess civil uses and armed variants. Funding was removed in the 2010 Strategic Defence Review and the sources checked do not report either phase being flown."
+    },
+    {
+      "code": "BAE Systems/Dassault Telemos",
+      "desc": "An Anglo-French MALE aircraft based on Mantis, announced by BAE Systems and Dassault in June 2011 with BAE in the lead. A mock-up was shown at the Paris Air Show at Le Bourget that year. The programme was abandoned in July 2012 when France looked at the EADS Talarion instead."
+    }
+  ],
+  "operators": [
+    {
+      "name": "BAE Systems",
+      "role": "Manufacturer and Test Operator",
+      "status": "Retired",
+      "since": "2009",
+      "fleetSize": "1",
+      "homeBase": "Warton, Lancashire - United Kingdom"
+    },
+    {
+      "name": "UK Ministry of Defence",
+      "role": "Co-funder of Phase 1",
+      "status": "Retired",
+      "since": "2008",
+      "fleetSize": "1 (demonstrator, jointly funded)",
+      "homeBase": "United Kingdom"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Mantis is a one-off demonstrator that flew only test sorties, mainly over the Woomera Test Range in South Australia, and it does not broadcast ADS-B, so it will not appear on Flightradar24."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "New entry for the BAE Mantis demonstrator, covering the Woomera trials, the 2010 funding cut and the link to Telemos. Sources include AIN, FlightGlobal and Airforce Technology.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "mantis",
+    "bae mantis",
+    "bae systems mantis",
+    "uav",
+    "drone",
+    "male",
+    "ucav",
+    "demonstrator",
+    "telemos",
+    "woomera",
+    "british drone",
+    "unmanned"
+  ],
+  "article": {
+    "overview": [
+      "The BAE Systems Mantis is a British twin-engine unmanned aircraft built by BAE Systems as a medium-altitude long-endurance technology demonstrator for the UK Ministry of Defence. One aircraft was built. It first flew on 21st October 2009 at the Woomera Test Range in South Australia, and the programme lost its funding in the 2010 Strategic Defence Review.{{ref:wiki-mantis}}{{ref:aft-mantis}}",
+      "The programme began in late 2007 as a jointly funded concept demonstrator, with BAE Systems and the MoD each paying half of the first phase. Mantis never reached production, but its design was the starting point for the Anglo-French Telemos, which BAE and Dassault announced in June 2011 and which was abandoned in July 2012.{{ref:fg-afghanistan}}{{ref:wiki-telemos}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "BAE Systems and the Ministry of Defence announced the Mantis Advanced Concept Technology Demonstrator at Farnborough on 14th July 2008, where a full-scale model was shown. The first phase had begun in the fourth quarter of 2007 with wind tunnel testing and was funded half by industry and half by the MoD, which has never published the budget. Rolls-Royce, QinetiQ, GE Aviation, L-3 Wescam, Meggitt and Lola were among the Phase 1 partners.{{ref:bae-2008}}{{ref:fg-afghanistan}}{{ref:wiki-mantis}}",
+          "Three phases were planned. Phase 1 was meant to prove BAE's rapid prototyping and test autonomous control systems. Phase 2 was to concentrate on sensors and weapons, with weapons release trials considered in Afghanistan, and Phase 3 was to assess civil uses and armed variants. The aircraft went from concept to first flight in 19 months, according to Aviation Week.{{ref:aft-mantis}}{{ref:military-first}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Mantis had a wingspan of about 20 m (65 ft 7 in) and a maximum takeoff weight of 9,000 kg (19,842 lb). Two Rolls-Royce Model 250 turboprops rated at 280 kW (380 shp) each powered the Phase 1 aircraft, and AIN reported it as the first twin-engine autonomous large UAV. It was also BAE's first all-electric fly-by-wire unmanned aircraft. The dome on the front of the fuselage, which resembles a cockpit canopy, holds an upward-facing satellite antenna, and a second satellite link sat in the fin tip.{{ref:wiki-mantis}}{{ref:aft-mantis}}{{ref:ain-2009}}",
+          "The aircraft could be flown by hand from the ground control station or fly itself, plan its own route and report what it saw to ground staff. An automatic launch and recovery system could land it safely if the link to the ground station failed. Sensors included an L-3 Wescam MX-20 turret and BAE's Imagery Collection and Exploitation system, and six hardpoints, three under each wing, were rated for 12 Brimstone missiles or six 226 kg (about 500 lb) Paveway bombs.{{ref:aft-mantis}}{{ref:wiki-mantis}}"
+        ]
+      },
+      {
+        "heading": "Flight Trials at Woomera",
+        "paragraphs": [
+          "After taxi trials at Walney Island airfield in the UK, the aircraft went to the Woomera Test Range in South Australia. Mantis made its first flight there on 21st October 2009 and flew five times in all, and the campaign finished over the weekend of 14th and 15th November. The flights were kept quiet until 13th November 2009.{{ref:ain-2009}}{{ref:military-first}}",
+          "Several mission-representative trials followed the first flight, which brought the first phase of the programme to a close. BAE described Mantis as the largest fully autonomous unmanned aircraft built in the UK.{{ref:aw-daily}}{{ref:defense-update}}"
+        ]
+      },
+      {
+        "heading": "Telemos & Current Status",
+        "paragraphs": [
+          "Funding for Mantis was removed in the 2010 Strategic Defence Review, and the aircraft remained a concept and demonstrator. By July 2010 BAE was rebuilding it at Warton as a systems development testbed, and AIN reported interest in the aircraft from elsewhere in Europe.{{ref:aft-mantis}}{{ref:ain-2010}}",
+          "BAE and Dassault announced the Telemos in June 2011, a Mantis-based MALE aircraft for a joint British and French requirement, with BAE in the lead and a mock-up shown at the Paris Air Show at Le Bourget. The programme was abandoned in July 2012, when the new French government considered working with other European partners on the EADS Talarion.{{ref:wiki-telemos}}",
+          "In June 2012 BAE said it would fly Mantis again from 2013 using its own money, separate from Telemos, and planned to spend about 4 to 5 million pounds that year to bring it back into use. The sources checked do not confirm any flights after the 2009 trials, and Mantis has no operator and no production order.{{ref:ain-2012}}{{ref:fg-infocus}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-mantis",
+      "name": "BAE Systems Mantis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BAE_Systems_Mantis"
+    },
+    {
+      "id": "aft-mantis",
+      "name": "Mantis UAV, UK",
+      "publisher": "Airforce Technology",
+      "url": "https://www.airforce-technology.com/projects/mantis-uav/"
+    },
+    {
+      "id": "bae-2008",
+      "name": "BAE Systems and UK MOD announce Mantis UAS demonstrator programme",
+      "publisher": "BAE Systems, via GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/intell/library/news/2008/intell-080714-bae-systems03.htm"
+    },
+    {
+      "id": "fg-afghanistan",
+      "name": "UK Mantis UAV could see Afghanistan deployment",
+      "publisher": "FlightGlobal",
+      "url": "https://flightglobal.com/uk-mantis-uav-could-see-afghanistan-deployment/81818.article"
+    },
+    {
+      "id": "military-first",
+      "name": "Mantis Begins Search For Prey",
+      "publisher": "Military.com (Aviation Week)",
+      "url": "https://www.military.com/defensetech/2009/11/17/mantis-begins-search-for-prey"
+    },
+    {
+      "id": "ain-2009",
+      "name": "Mantis looks forward to Spiral 2 trials",
+      "publisher": "Aviation International News",
+      "url": "https://backend.ainonline.com/aviation-news/defense/2009-11-16/mantis-looks-forward-spiral-2-trials"
+    },
+    {
+      "id": "aw-daily",
+      "name": "Aerospace Daily & Defense Report",
+      "publisher": "Aviation Week",
+      "url": "https://aviationweek.com/content/aerospace-daily-defense-report?page=2241"
+    },
+    {
+      "id": "defense-update",
+      "name": "BAE Systems flies Mantis, the largest fully autonomous UAV built in the UK",
+      "publisher": "Defense Update",
+      "url": "https://defense-update.com/20091115_mantis_flight.html"
+    },
+    {
+      "id": "ain-2010",
+      "name": "Mantis prays and waits for Europe to bite",
+      "publisher": "Aviation International News",
+      "url": "https://backend.ainonline.com/aviation-news/defense/2010-07-15/mantis-prays-and-waits-europe-bite"
+    },
+    {
+      "id": "wiki-telemos",
+      "name": "BAE Systems/Dassault Telemos",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BAE_Systems/Dassault_Telemos"
+    },
+    {
+      "id": "ain-2012",
+      "name": "Mantis to return to the air",
+      "publisher": "Aviation International News",
+      "url": "https://backend.ainonline.com/aviation-news/defense/2012-06-22/mantis-return-air"
+    },
+    {
+      "id": "fg-infocus",
+      "name": "In Focus: BAE strengthens unmanned systems activities",
+      "publisher": "FlightGlobal",
+      "url": "https://flightglobal.com/in-focus-bae-strengthens-unmanned-systems-activities/105821.article"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Concept Proved In Mantis MALE Trials - Aviation Week",
+      "url": "https://aviationweek.com/concept-proved-mantis-male-trials"
+    },
+    {
+      "name": "Mantis flight trials - Defense Update",
+      "url": "https://defense-update.com/20091115_mantis_flight.html"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2009-10-21",
+      "title": "First flight at Woomera",
+      "tag": "First flight",
+      "summary": "Mantis made its first flight at the Woomera Test Range in South Australia. It flew five times in the campaign, which ended in mid-November, and the flights were made public on 13th November 2009.",
+      "source": "https://backend.ainonline.com/aviation-news/defense/2009-11-16/mantis-looks-forward-spiral-2-trials"
+    }
+  ]
+}

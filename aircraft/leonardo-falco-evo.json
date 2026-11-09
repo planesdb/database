@@ -1,0 +1,289 @@
+{
+  "name": "Falco Evo",
+  "fullName": "Leonardo Falco Evo (Selex Galileo Falco Evo)",
+  "manufacturer": "Leonardo (Selex Galileo, later Selex ES)",
+  "originCountry": {
+    "name": "Italy",
+    "code": "it"
+  },
+  "category": "military",
+  "categories": [
+    "drones"
+  ],
+  "role": "Tactical Long-Endurance Surveillance UAS",
+  "tagline": "The Falco Evo is a single-engine, twin-boom surveillance drone from Italy, built by stretching the wings and tail booms of the earlier Falco to 12.5 metres. It first flew on 23rd July 2012 and the first new-build aircraft were delivered to a Middle Eastern customer in 2017.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The Evo uses the Falco airframe with only longer wings and booms. The span grew from 7.2 m to 12.5 m, and the maker said no significant reinforcement of the airframe was needed.",
+    "Leonardo's own figures give 650 kg maximum takeoff weight, up from 530 kg on the baseline Falco, with payload rising from 70 kg to more than 100 kg.",
+    "Its first flight was reported for mid-2010 in a March 2009 report, but the 40-minute maiden flight from Cheshnegirovo in Bulgaria did not happen until 23rd July 2012.",
+    "The first two customers were announced at Farnborough on 13th July 2016, both from existing Falco users, and the first new-build Evo reached its launch customer, a Middle Eastern country, in 2017.",
+    "Older Falcos can be converted to Evo standard with a kit of new wings, tail and booms. Italian-language Leonardo material describes it as a retrofit.",
+    "Published endurance varies by source and date, from over 18 hours to over 24 hours, and the 6,000 m ceiling is lower than most MALE drones."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are Leonardo's as repeated by Wikipedia, GlobalSecurity.org and Army Recognition. Endurance is published as over 18 hours in 2011 and 2012 material, over 20 hours in later Leonardo releases, and over 20 to over 24 hours on Wikipedia, so the later 'more than 20 hours' figure is used. Range between aircraft and ground station is quoted as a 200 km data link range (extendable with relay or satellite), not a flight range, so range is left out. Empty weight, engine make and power are not published. Maximum speed is published as 134 mph and the knot and km/h figures are converted from it. Wikipedia lists the baseline Falco and Evo at the same top speed.",
+    "maxSpeed": {
+      "mph": 134,
+      "text": "116 kn (134 mph / 216 km/h)"
+    },
+    "cruiseSpeed": null,
+    "serviceCeiling": {
+      "ft": 19685,
+      "text": "19,685 ft (6,000 m)"
+    },
+    "wingspan": {
+      "ft": 41,
+      "text": "41 ft 0 in (12.5 m)"
+    },
+    "length": {
+      "ft": 20.3,
+      "text": "20 ft 4 in (6.2 m)"
+    },
+    "height": {
+      "ft": 8.2,
+      "text": "8 ft 2 in (2.5 m)"
+    },
+    "weight": "MTOW: 1,433 lb (650 kg); empty weight not published",
+    "engines": "1 x heavy fuel piston engine (make and power not published)",
+    "armament": "None on the Falco Evo, which is unarmed; the Astore variant carries two Roketsan Cirit 70 mm laser-guided missiles",
+    "crew": "0 (remotely piloted from a ground control station)",
+    "capacity": "Payload more than 100 kg (220 lb); endurance more than 20 hours; data link range 200 km (124 mi) or more, extendable by relay or satellite",
+    "firstFlight": {
+      "date": "2012-07-23",
+      "year": 2012
+    },
+    "serviceEntryDate": "2017",
+    "numberBuilt": null,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Leonardo has not released a price, and several deals are sold as a managed service",
+      "inflationText": null
+    },
+    "combatLosses": "None documented for the Evo in the sources checked"
+  },
+  "variants": [
+    {
+      "code": "Falco (baseline)",
+      "desc": "The original tactical drone, first flown in December 2003 at Salto di Quirra in Sardinia. It has a 7.2 m span, a 420 kg maximum takeoff weight and a 70 kg payload, with endurance of 8 to 14 hours. Pakistan was the first export customer in 2007 and began local production at Kamra in 2008."
+    },
+    {
+      "code": "Falco Evo",
+      "desc": "The stretched version, with a 12.5 m wingspan, booms about 1 m longer and a 650 kg maximum takeoff weight. It carries more than 100 kg of payload, including Leonardo's Picosar, Gabbiano 20 and Osprey radars and the Sage electronic support measures system. A heavy-fuel engine and new data link were introduced around 2018."
+    },
+    {
+      "code": "Astore",
+      "desc": "An armed version based on the Evo, carrying two Roketsan Cirit 70 mm laser-guided missiles on underwing hardpoints. Its service ceiling is quoted above 7,000 m and its endurance above 16 hours. Wikipedia names the Bangladesh Air Force as the only confirmed user of armed Falco-family aircraft."
+    },
+    {
+      "code": "Falco Xplorer",
+      "desc": "A larger successor unveiled at the 2019 Paris Air Show, with an 18.5 m wingspan, a 1,300 kg maximum takeoff weight and a payload of 350 kg. Leonardo quotes more than 24 hours of endurance when fully loaded, and the design follows NATO STANAG 4671 airworthiness standards."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Leonardo (service operator)",
+      "role": "Manufacturer and Service Provider",
+      "status": "In Service",
+      "since": "2013",
+      "fleetSize": "Not published",
+      "homeBase": "Ronchi dei Legionari and Lampedusa - Italy"
+    },
+    {
+      "name": "United Nations (MONUSCO)",
+      "role": "Service Customer",
+      "status": "In Service",
+      "since": "2013",
+      "fleetSize": "5 Falco family aircraft reported; Leonardo crews fly them",
+      "homeBase": "Goma - Democratic Republic of the Congo"
+    },
+    {
+      "name": "Middle Eastern launch customer (unnamed)",
+      "role": "Launch Customer",
+      "status": "In Service",
+      "since": "2017",
+      "fleetSize": "Not published",
+      "homeBase": "Middle East (not disclosed)"
+    },
+    {
+      "name": "Bangladesh Air Force",
+      "role": "Operator (reported)",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "3 reported",
+      "homeBase": "Bangladesh"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The Falco Evo is a military surveillance drone and does not normally show on Flightradar24. Leonardo-run flights, such as the Lampedusa maritime trials, are coordinated with Italian authorities and are not broadcast as public ADS-B."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "Added the Falco Evo - the stretch from the baseline Falco, UN and Middle East customers, the Astore and Xplorer spin-offs, and the specs conflicts between sources.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "falco evo",
+    "falco",
+    "leonardo falco",
+    "selex falco",
+    "selex galileo",
+    "selex es",
+    "astore",
+    "falco xplorer",
+    "uav",
+    "drone",
+    "italian drone",
+    "surveillance drone",
+    "tactical uas",
+    "monusco"
+  ],
+  "article": {
+    "overview": [
+      "The Falco Evo is a long-endurance tactical surveillance drone built by Leonardo of Italy, which developed it while the company was still Selex Galileo. It is a larger version of the Falco, with the wingspan increased from 7.2 m to 12.5 m, and it first flew on 23rd July 2012.{{ref:wiki-falco}}{{ref:gs-falco}}",
+      "The Evo has served as an export and managed-service product. The United Nations has used Falco aircraft over the Democratic Republic of the Congo since 3rd December 2013, and Leonardo announced the first two Evo customers on 13th July 2016, both in the Middle East and Gulf region.{{ref:leo-un}}{{ref:fg-two}}"
+    ],
+    "sections": [
+      {
+        "heading": "From Falco to Evo",
+        "paragraphs": [
+          "The baseline Falco first flew in December 2003 at the Salto di Quirra range in Sardinia. It had a 7.2 m wingspan, a 420 kg takeoff weight, a single gasoline engine and a 70 kg payload, and Pakistan became its first export customer in 2007. Evo, short for evoluzione, was announced as a modified version in March 2009, with larger tail booms and wings.{{ref:wiki-falco}}{{ref:gs-falco}}",
+          "The change was made without altering the basic design. Selex Galileo said the Evo's wings are about 70 percent longer and its booms about 1 m longer, and that no major strengthening of the airframe was needed. Maximum takeoff weight went from 530 kg to 650 kg, payload from 70 kg to more than 100 kg, and endurance by more than 50 percent.{{ref:ust}}"
+        ]
+      },
+      {
+        "heading": "Design & Payloads",
+        "paragraphs": [
+          "The Evo is 6.2 m long and 2.5 m high, and weighs up to 650 kg at takeoff. Payload options listed by FlightGlobal include the company's Picosar, Gabbiano 20 and Osprey radars and its Sage electronic support measures system. The ground control station is shared with the baseline Falco, which allows mission planning, re-tasking in flight and handover between stations.{{ref:gs-falco}}{{ref:fg-two}}{{ref:army-tech}}",
+          "Existing Falcos can be converted to Evo standard. Leonardo's Italian release describes a conversion kit of new wings, tail and booms, and FlightGlobal reported that the first two selections covered new-build aircraft. Air International reported in 2018 that Leonardo had introduced a heavy-fuel engine and a new data link, with further changes planned.{{ref:leo-2017}}{{ref:fg-two}}{{ref:aviadejavu}}"
+        ]
+      },
+      {
+        "heading": "Customers & Service Contracts",
+        "paragraphs": [
+          "Leonardo sells the Falco family in two ways. Some customers buy the aircraft and fly them, while others, such as the United Nations, buy a managed service in which Leonardo crews fly the drones and pass the information on. The UN contract was signed in 2013 for three years with two optional years, valued at 10 million euros a year, and operations from Goma began on 3rd December 2013.{{ref:leo-two}}{{ref:military-africa}}{{ref:leo-un}}",
+          "The Evo's first two customers were announced at Farnborough on 13th July 2016. Leonardo did not name them, saying only that they were existing Falco operators in the Middle East and Gulf region. The first new-build aircraft was completed in August 2017 and delivered to the launch customer that September, and was shown with a Gabbiano radar at the Dubai Airshow in November. Wikipedia reports that the Bangladesh Air Force bought three Evos in 2019 or 2020.{{ref:fg-two}}{{ref:leo-2017}}{{ref:ain-2018}}{{ref:wiki-falco}}"
+        ]
+      },
+      {
+        "heading": "Border Patrol & Armed Variants",
+        "paragraphs": [
+          "Leonardo said that trials of the Falco at Lampedusa began on 4th December 2018 for patrolling the European Union's sea borders. On 23rd May 2019 an Evo took part in an emergency-response exercise on the island, with flights coordinated with the Guardia di Finanza and the Italian Interior Ministry and operated by Leonardo under a service arrangement.{{ref:aviadejavu}}{{ref:gs-falco}}",
+          "The armed Astore carries two Roketsan Cirit missiles, and the larger Falco Xplorer was unveiled at the 2019 Paris Air Show with a 1,300 kg takeoff weight and a 350 kg payload. The Evo's 6,000 m ceiling and 650 kg weight sit well below the medium-altitude long-endurance aircraft that Leonardo's own Xplorer is meant to compete with.{{ref:wiki-falco}}{{ref:army-xplorer}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-falco",
+      "name": "Selex ES Falco",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Selex_ES_Falco"
+    },
+    {
+      "id": "gs-falco",
+      "name": "Falco / Falco Evo",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/world/europe/falco.htm"
+    },
+    {
+      "id": "army-tech",
+      "name": "Falco EVO Unmanned Aerial Vehicle",
+      "publisher": "Army Technology",
+      "url": "https://www.army-technology.com/projects/falco-evo-unmanned-aerial-vehicle-uav/"
+    },
+    {
+      "id": "army-xplorer",
+      "name": "Falco Xplorer",
+      "publisher": "Army Technology",
+      "url": "https://www.army-technology.com/projects/falco-xplorer/"
+    },
+    {
+      "id": "ust",
+      "name": "Falco EVO",
+      "publisher": "Unmanned Systems Technology",
+      "url": "https://www.ust-media.com/ust-magazine/UST005/30/"
+    },
+    {
+      "id": "fg-two",
+      "name": "Farnborough: Falco Evo wins first two customers",
+      "publisher": "FlightGlobal",
+      "url": "https://www.flightglobal.com/civil-uavs/farnborough-falco-evo-wins-first-two-customers/121206.article"
+    },
+    {
+      "id": "leo-two",
+      "name": "Leonardo-Finmeccanica's Falco EVO unmanned aircraft selected by two customers",
+      "publisher": "Leonardo",
+      "url": "https://www.leonardo.com/en/press-release-detail/-/detail/leonardo-finmeccanica-s-falco-evo-unmanned-aircraft-selected-by-two-customers"
+    },
+    {
+      "id": "leo-un",
+      "name": "Selex ES Falco begins supporting United Nations peacekeeping operations",
+      "publisher": "Leonardo",
+      "url": "https://www.leonardo.com/en/press-release-detail/-/detail/selex-es-falco-begins-supporting-united-nations-peacekeeping-operations"
+    },
+    {
+      "id": "leo-2017",
+      "name": "Leonardo: prima consegna del Falco EVO al cliente di lancio, un Paese del Medio Oriente",
+      "publisher": "Leonardo (press release, 13th November 2017)",
+      "url": "https://emarketstorage.it/sites/default/files/comunicati/2022-05/20171113_37785.pdf"
+    },
+    {
+      "id": "ain-2018",
+      "name": "Leonardo Delivers More Falco UAVs To The Middle East",
+      "publisher": "Aviation International News",
+      "url": "https://backend.ainonline.com/aviation-news/defense/2018-01-11/leonardo-delivers-more-falco-uavs-middle-east"
+    },
+    {
+      "id": "military-africa",
+      "name": "MONUSCO loses Selex ES Falco Evo drone in DRC",
+      "publisher": "Military Africa",
+      "url": "https://www.military.africa/?p=19071"
+    },
+    {
+      "id": "aviadejavu",
+      "name": "Falco Evo (Air International, December 2018)",
+      "publisher": "Aviadejavu",
+      "url": "https://aviadejavu.ru/Site/Crafts/Craft21121.htm"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Falco: a highly successful family - Leonardo",
+      "url": "https://www.leonardo.com/en/news-and-stories-detail/-/detail/falco-a-highly-successful-family"
+    },
+    {
+      "name": "Falco EVO - Army Technology",
+      "url": "https://www.army-technology.com/projects/falco-evo-unmanned-aerial-vehicle-uav/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2012-07-23",
+      "title": "Maiden flight at Cheshnegirovo",
+      "tag": "First flight",
+      "summary": "The Falco Evo made a 40-minute first flight from Cheshnegirovo air base in Bulgaria. An earlier report had expected the flight by mid-2010.",
+      "source": "https://en.wikipedia.org/wiki/Selex_ES_Falco"
+    },
+    {
+      "date": "2016-07-13",
+      "title": "First two customers announced",
+      "tag": "Milestone",
+      "summary": "Leonardo-Finmeccanica announced at Farnborough that two Middle Eastern and Gulf customers, both existing Falco operators, had selected the Evo for new-build aircraft.",
+      "source": "https://www.flightglobal.com/civil-uavs/farnborough-falco-evo-wins-first-two-customers/121206.article"
+    },
+    {
+      "date": "2017-06-15",
+      "title": "Two Jordanian Falcos shot down over Syria",
+      "tag": "Shot down (baseline Falco)",
+      "summary": "Two Jordanian-operated baseline Falcos were reported shot down near Daraa by Syrian MiG-23s on 15th and 16th June 2017. These were the earlier Falco, not the Evo.",
+      "source": "https://en.wikipedia.org/wiki/Selex_ES_Falco"
+    }
+  ]
+}

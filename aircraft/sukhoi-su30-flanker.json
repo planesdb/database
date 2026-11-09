@@ -1,0 +1,405 @@
+{
+  "name": "Su-30",
+  "fullName": "Sukhoi Su-30 Flanker-C",
+  "manufacturer": "Sukhoi (built by Irkut and KnAAPO; licence-built by HAL in India)",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Two-Seat Multirole Fighter",
+  "tagline": "The Sukhoi Su-30 is a twin-engine, two-seat fighter developed from the Su-27 family, and it is the most widely exported Flanker. India flies the largest fleet, 261 Su-30MKI aircraft in 2024, and Russia builds the Su-30SM for its own air force and navy.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "The Su-30 began as a two-seat interceptor and command post based on the Su-27UB trainer, and its first flight was on 31st December 1989 at Irkutsk. Only five of that original version went to the Russian air defence forces.",
+    "India signed for 8 Su-30K and 32 Su-30MKI in 1996, then ordered 140 licence-built MKIs in 2000 in a deal worth over 3 billion dollars. Its fleet of 261 in 2024 is the largest of any Flanker operator.",
+    "On 12th June 1999 a Su-30MK crashed at the Paris Air Show. Both pilots ejected safely.",
+    "Malaysia's 2003 order for 18 Su-30MKM included a seat for its first cosmonaut, who flew to the International Space Station in October 2007.",
+    "Armenia bought its Su-30SMs without missiles, and they were not used in the 2020 Nagorno-Karabakh war.",
+    "At least seven air-to-air victories over Ukrainian jets have been confirmed for Russian Su-30SM and Su-35 fighters since 2022, and several Su-30s have been shot down or destroyed on the ground."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are the family-level numbers on Wikipedia, which list AL-31F engines. The Su-30MKI uses the thrust-vectoring AL-31FP, and the numbers differ by variant. Maximum speed is published as 2,120 km/h, and the knot and mph figures are converted from it. The first flight date is given as 31st December 1989 by Wikipedia and 30th December 1989 by another database, so the Wikipedia date is used. Algeria's fleet is 59 aircraft in 2024 and 70 in 2022 in the sources checked. No price is published by the manufacturer. The per-aircraft price below is a reported figure of about 40 million dollars in 2007, and other sources give figures as high as about 102 million dollars in 2010, because export prices depend on the variant, weapons and support package.",
+    "maxSpeed": {
+      "mph": 1317,
+      "text": "1,145 kn (1,317 mph / 2,120 km/h)"
+    },
+    "range": {
+      "miles": 1864,
+      "text": "1,864 mi (3,000 km); about 3,231 mi (5,200 km) with aerial refuelling"
+    },
+    "serviceCeiling": {
+      "ft": 56759,
+      "text": "56,759 ft (17,300 m)"
+    },
+    "wingspan": {
+      "ft": 48.2,
+      "text": "48 ft 3 in (14.7 m)"
+    },
+    "length": {
+      "ft": 72.0,
+      "text": "71 ft 11 in (21.9 m)"
+    },
+    "height": {
+      "ft": 20.9,
+      "text": "20 ft 10 in (6.36 m)"
+    },
+    "weight": "empty: 39,022 lb (17,700 kg); MTOW: 76,059 lb (34,500 kg)",
+    "engines": "2 x Saturn AL-31F afterburning turbofans, 16,750 lbf (74.5 kN) dry and 27,557 lbf (122.58 kN) with afterburner each",
+    "armament": "1 x 30 mm GSh-30-1 cannon with 150 rounds; 12 hardpoints for up to 17,637 lb (8,000 kg) of air-to-air missiles, bombs and rockets",
+    "crew": "2 (pilot and weapons systems officer)",
+    "capacity": "Up to 17,637 lb (8,000 kg) of external stores",
+    "firstFlight": {
+      "date": "1989-12-31",
+      "year": 1989
+    },
+    "serviceEntryDate": "1992",
+    "retiredDate": null,
+    "numberBuilt": 630,
+    "unitCost": {
+      "usd": 65000000,
+      "text": "Reported: about $65M in 2026 dollars, adjusted from a reported $40M in 2007 - other sources give higher figures (unconfirmed)",
+      "inflationText": "Originally $40M (2007)"
+    },
+    "combatLosses": "Several lost since February 2022 in Ukraine, including shootdowns near Bashtanka, Izium and Novorossiysk, and several jets damaged on the ground at Saky in August 2022"
+  },
+  "variants": [
+    {
+      "code": "Su-30 (Su-27PU, Flanker-C)",
+      "desc": "The original two-seat interceptor and airborne command post, derived from the Su-27UB trainer and first flown on 31st December 1989 at Irkutsk. It was built to fly long patrols and direct other fighters. Only five went to the Russian air defence forces, and the Su-30K and Su-30MK export versions used the same basic airframe."
+    },
+    {
+      "code": "Su-30K",
+      "desc": "The first export version, sold to India in the 1996 contract that also covered 32 Su-30MKI. India's eight Su-30Ks were later returned to Russia and replaced by new MKIs. Angola bought 12 Su-30Ks and Ethiopia flies two. It lacks the thrust vectoring and canard foreplanes that the MKI carries."
+    },
+    {
+      "code": "Su-30MKI (Flanker-H)",
+      "desc": "The Indian version, with thrust-vectoring AL-31FP engines, canard foreplanes and a multinational avionics suite. HAL builds it under licence. India had 261 in 2024 and ordered 12 more late that year. The Algerian MKA and Malaysian MKM were developed from it, so the MKI is the base for most of the later export models."
+    },
+    {
+      "code": "Su-30MKK and Su-30MK2",
+      "desc": "The MKK was developed for China, with an agreement in 1996 for about 38 aircraft at around 1.8 billion dollars, and the first batch arrived in December 2000. The upgraded MK2 went to China, Indonesia, Uganda and Vietnam, where it is the MK2V. Unlike the MKI, these versions have no canards."
+    },
+    {
+      "code": "Su-30MKM, MKA, MKV and SME",
+      "desc": "Customer versions of the MKI. The MKM went to Malaysia (18 aircraft, contracted in 2003), the MKA to Algeria with Indian avionics in place of Israeli equipment, and the MKV to Venezuela. The SME, an export version with Russian avionics, was unveiled at the Singapore Airshow on 17th February 2016, and Myanmar received six from 2022."
+    },
+    {
+      "code": "Su-30SM and Su-30SM2",
+      "desc": "The Russian serial version, built by Irkut and first flown on 21st September 2012. It reached full operational capability in January 2018, with the N011M Bars radar, frontal horizontal fins and steerable thrust nozzles. The SM2 upgrade adds the Irbis-E radar and AL-41F1S engines. Kazakhstan, Mongolia, Armenia and Belarus also fly SM versions."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Russian Aerospace Forces",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "1992",
+      "fleetSize": "About 80 Su-30SM and 19 Su-30M2 (2024 estimate)",
+      "homeBase": "Russia"
+    },
+    {
+      "name": "Russian Naval Aviation",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2012",
+      "fleetSize": "About 17 Su-30SM and 8 or more Su-30SM2 (2024 estimate)",
+      "homeBase": "Russia"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "Largest Operator",
+      "status": "In Service",
+      "since": "2002",
+      "fleetSize": "261 Su-30MKI (2024), with 12 more ordered in late 2024",
+      "homeBase": "India"
+    },
+    {
+      "name": "People's Liberation Army Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2000",
+      "fleetSize": "73 Su-30MKK and 24 Su-30MK2 (2024)",
+      "homeBase": "China"
+    },
+    {
+      "name": "Algerian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "59 Su-30MKA (2024); 70 reported in 2022",
+      "homeBase": "Algeria"
+    },
+    {
+      "name": "Vietnam People's Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "35 Su-30MK2V",
+      "homeBase": "Vietnam"
+    },
+    {
+      "name": "Kazakh Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "29 Su-30SM",
+      "homeBase": "Kazakhstan"
+    },
+    {
+      "name": "Royal Malaysian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2007",
+      "fleetSize": "18 Su-30MKM",
+      "homeBase": "Malaysia"
+    },
+    {
+      "name": "Venezuelan Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2006",
+      "fleetSize": "14 Su-30MKV (2026)",
+      "homeBase": "Venezuela"
+    },
+    {
+      "name": "Belarus Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "8 Su-30SM and 6 Su-30SM2 (December 2025), with 2 more SM2 in January 2026",
+      "homeBase": "Belarus"
+    },
+    {
+      "name": "Indonesian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "11 Su-30MK2",
+      "homeBase": "Indonesia"
+    },
+    {
+      "name": "Angolan Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "12 Su-30K",
+      "homeBase": "Angola"
+    },
+    {
+      "name": "Myanmar Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "6 Su-30SME (delivered 2022 to 2024)",
+      "homeBase": "Myanmar"
+    },
+    {
+      "name": "Uganda People's Defence Force Air Wing",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2011",
+      "fleetSize": "6 Su-30MK2",
+      "homeBase": "Uganda"
+    },
+    {
+      "name": "Mongolian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2019",
+      "fleetSize": "4 Su-30SM",
+      "homeBase": "Mongolia"
+    },
+    {
+      "name": "Armenian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "4 Su-30SM",
+      "homeBase": "Armenia"
+    },
+    {
+      "name": "Ethiopian Air Force",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "2 Su-30K",
+      "homeBase": "Ethiopia"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "SU30",
+    "howToFind": "Search type SU30. Few military Su-30s broadcast their positions, so sightings are rare, and most appear only on airshow or ferry flights."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "New entry for the Su-30, covering the MKI, MKK, SM and the other export versions, the operator list and the losses over Ukraine.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "su-30",
+    "su30",
+    "sukhoi",
+    "flanker",
+    "flanker-c",
+    "flanker-h",
+    "su-30mki",
+    "su-30sm",
+    "su-30mkk",
+    "multirole fighter",
+    "russian fighter",
+    "indian air force",
+    "thrust vectoring"
+  ],
+  "article": {
+    "overview": [
+      "The Sukhoi Su-30 is a twin-engine, two-seat multirole fighter from Russia, developed from the Su-27 family and built by Irkut, KnAAPO and, in India, by HAL. Its first flight was on 31st December 1989, and more than 630 have been built since production began in 1992.{{ref:wiki-su30}}",
+      "It became the most widely exported Flanker, with versions built for India, China, Malaysia, Algeria, Vietnam and others. Russia took the Su-30SM for its own forces from 2012 and used it over Syria from September 2015 and over Ukraine from 2022.{{ref:wiki-su30}}"
+    ],
+    "sections": [
+      {
+        "heading": "From Su-27PU to Su-30",
+        "paragraphs": [
+          "The first Su-30 was a two-seat version of the Su-27 meant to act as an interceptor and command post, directing other fighters on long patrols. A prototype flew at Irkutsk on 31st December 1989, a pre-production aircraft followed on 14th April 1992, and only five went into service with the Russian air defence forces.{{ref:wiki-su30}}{{ref:milavia}}",
+          "The programme was kept alive by exports. Sukhoi developed the Su-30K, then the Su-30MK strike version, and later the MKI for India, and Russia's own order for the Su-30SM did not arrive until the 2010s.{{ref:wiki-su30}}{{ref:milavia}}"
+        ]
+      },
+      {
+        "heading": "India and the MKI",
+        "paragraphs": [
+          "India signed a contract in 1996 for 8 Su-30K and 32 Su-30MKI, and in 2000 it ordered 140 MKIs to be built under licence by HAL, in a deal worth over 3 billion dollars. A further 40 followed in 2007 for 1.6 billion dollars, and Indian media reported another 12 ordered in 2024.{{ref:wiki-su30}}",
+          "The MKI added thrust-vectoring AL-31FP engines and canard foreplanes to a multinational avionics suite, and India's eight Su-30Ks were returned to Russia. The Indian fleet stood at 261 in 2024, the largest of any Su-30 operator.{{ref:migflug}}{{ref:milavia}}{{ref:wiki-su30}}"
+        ]
+      },
+      {
+        "heading": "Export Customers",
+        "paragraphs": [
+          "China agreed to buy about 38 Su-30MKK in 1996 for around 1.8 billion dollars, and its first batch arrived in December 2000. Malaysia signed for 18 MKM in 2003, with a place for its first cosmonaut that was used on a flight to the International Space Station in October 2007.{{ref:wiki-su30}}",
+          "Later deals include 12 Su-30MK2 for Vietnam worth 450 million dollars in 2013, 12 Su-30MKV for Venezuela at 480 million dollars in 2015 and 12 Su-30SM for Belarus at 600 million dollars in 2017. Armenia's Su-30SMs were bought without missiles and were not used in the 2020 Nagorno-Karabakh war.{{ref:wiki-su30}} Russia unveiled the Su-30SME export version at the Singapore Airshow on 17th February 2016.{{ref:gs-exports}}"
+        ]
+      },
+      {
+        "heading": "The Su-30SM",
+        "paragraphs": [
+          "The Su-30SM is the version built for Russia, derived from the thrust-vectoring MKI and the Malaysian MKM and produced by Irkut. It first flew on 21st September 2012, and a presidential resolution gave it full operational capability in January 2018. It carries the N011M Bars radar, which Wikipedia lists at 400 km maximum detection range.{{ref:wiki-su30}}{{ref:cavac}}",
+          "The SM2 upgrade adds the Irbis-E radar and AL-41F1S engines. A Boltflight write-up reported that modernisation of the SM fleet has lagged behind Su-35 production, which raised questions about future procurement.{{ref:wiki-su30}}{{ref:bolt-ru}}"
+        ]
+      },
+      {
+        "heading": "Combat Use & Losses",
+        "paragraphs": [
+          "Su-30SMs flew over Syria from September 2015, escorting attack aircraft and bombers, illuminating targets and carrying out strikes on the ground. One crashed after taking off from Khmeimim on 3rd May 2018, killing both crew. In Ukraine, the sources checked report at least seven air-to-air victories by Su-30SMs and Su-35s over Ukrainian jets and one over a Mi-14 helicopter.{{ref:wiki-su30}}",
+          "The losses over Ukraine have been heavy. Su-30s were shot down near Bashtanka on 5th March 2022 and near Izium on 15th March 2022, several were damaged in the explosions at Saky air base on 9th August 2022, and on 2nd May 2025 one was shot down near Novorossiysk by a Ukrainian Magura V7 naval drone firing an AIM-9X. A Su-30SM crashed into a house in Irkutsk on 23rd October 2022, and investigators suspected that the oxygen supply had been contaminated with nitrogen.{{ref:wiki-su30}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-su30",
+      "name": "Sukhoi Su-30",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-30"
+    },
+    {
+      "id": "milavia",
+      "name": "Sukhoi Su-30 Multi-Role Flanker",
+      "publisher": "MILAVIA",
+      "url": "https://milavia.net/aircraft/su-30/"
+    },
+    {
+      "id": "migflug",
+      "name": "Sukhoi Su-30 Flanker: History, Specs & Stories",
+      "publisher": "Migflug",
+      "url": "https://migflug.com/?p=16571"
+    },
+    {
+      "id": "cavac",
+      "name": "Sukhoi Su-30",
+      "publisher": "Cavacopedia",
+      "url": "https://cavac.at/cavacopedia/Sukhoi_Su-30"
+    },
+    {
+      "id": "gs-exports",
+      "name": "Su-30 Flanker-C Exports",
+      "publisher": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/world/russia/su-30-exports.htm"
+    },
+    {
+      "id": "bolt-ru",
+      "name": "How Many Su-30 Fighter Jets Does Russia Have?",
+      "publisher": "Boltflight",
+      "url": "https://boltflight.com/how-many-su-30-fighter-jets-does-russia-have-a-deep-dive-into-the-russian-sukhoi-fleet/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Su-30 Flanker-C Exports - GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/world/russia/su-30-exports.htm"
+    },
+    {
+      "name": "Sukhoi Su-30 Multi-Role Flanker - MILAVIA",
+      "url": "https://milavia.net/aircraft/su-30/"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1989-12-31",
+      "title": "First flight at Irkutsk",
+      "tag": "First flight",
+      "summary": "The first Su-30 prototype, then called the Su-27PU, made its first flight at Irkutsk on 31st December 1989.",
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-30"
+    },
+    {
+      "date": "1999-06-12",
+      "title": "Su-30MK crashes at the Paris Air Show",
+      "tag": "Airshow crash",
+      "summary": "A Su-30MK crashed during a display at the Paris Air Show. Both pilots ejected safely.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-30"
+    },
+    {
+      "date": "2016-06-14",
+      "title": "Vietnamese Su-30MK2 lost at sea",
+      "tag": "Lost at sea (training)",
+      "summary": "A Vietnamese Su-30MK2 was lost at sea during a training flight. One of the two pilots survived.",
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-30"
+    },
+    {
+      "date": "2018-05-03",
+      "title": "Su-30SM crashes after takeoff from Khmeimim",
+      "tag": "Crash on takeoff",
+      "summary": "A Russian Su-30SM crashed after taking off from Khmeimim air base in Syria. Both crew members were killed.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-30"
+    },
+    {
+      "date": "2020-09-22",
+      "title": "Su-30M2 shot down in a training exercise",
+      "tag": "Friendly fire (training)",
+      "summary": "A Su-30M2 was shot down in a training exercise by a Su-35S firing its gun. The crew ejected.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-30"
+    },
+    {
+      "date": "2022-10-23",
+      "title": "Su-30SM crashes into a house in Irkutsk",
+      "tag": "Crash (test flight)",
+      "summary": "A Su-30SM crashed into a residential building in Irkutsk during a test flight. Both pilots were killed. Investigators suspected the oxygen supply had been contaminated with nitrogen.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-30"
+    },
+    {
+      "date": "2025-05-02",
+      "title": "Su-30 shot down near Novorossiysk by a naval drone",
+      "tag": "Shot down",
+      "summary": "A Su-30 was shot down 50 km west of Novorossiysk by a Ukrainian Magura V7 naval drone firing an AIM-9X. Both crew ended up in the sea and were recovered.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-30"
+    }
+  ],
+  "survivors": {
+    "intro": "The Su-30 is still in production and in service with many air forces, and no museum airframes were found in the sources checked.",
+    "airframes": []
+  }
+}

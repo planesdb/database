@@ -1,0 +1,210 @@
+{
+  "name": "ACCEL",
+  "fullName": "Rolls-Royce ACCEL 'Spirit of Innovation'",
+  "manufacturer": "Rolls-Royce",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Electric Speed-Record Aircraft",
+  "tagline": "The Rolls-Royce ACCEL, named 'Spirit of Innovation', is a single-seat, all-electric propeller aircraft built to take the world speed record for electric flight. In November 2021 it averaged 345.4 mph over 3 km, about 135 mph faster than the record before it.",
+  "status": "Retired",
+  "inProduction": false,
+  "quickFacts": [
+    "In November 2021 the ACCEL set a speed of 345.4 mph (555.9 km/h) over 3 km, about 135 mph faster than the previous electric record of roughly 210 mph.",
+    "It climbed to 3,000 m (9,800 ft) in 3 minutes 22 seconds, one of three records the Fédération Aéronautique Internationale accepted in January 2022.",
+    "A battery of 6,480 cells gave it only about eight minutes of flight, which is enough for a record run and not much else.",
+    "Its airframe began as a two-seat Nemesis NXT racing aircraft, and the second seat was removed to save weight.",
+    "Three YASA electric motors turn a single propeller, in a 400 kW (500+ hp) powertrain that Rolls-Royce said was the most power-dense battery pack ever assembled for an aircraft.",
+    "Rolls-Royce shut down its electric air-taxi business in November 2024, and the aircraft now hangs in the Science Museum in London."
+  ],
+  "specifications": {
+    "specificationsNote": "\"??\" means the figure has not been published. The top speed is the peak reported for the record flights, 336 kn (387 mph), while the certified 3 km record was an average of 345.4 mph. The weight shown is the donor Nemesis NXT's limit, because no weight has been published for the ACCEL itself. The ceiling is the altitude it climbed to in its record run, and not a service ceiling.",
+    "maxSpeed": {
+      "mph": 387,
+      "text": "336 kn (387 mph / 622 km/h)"
+    },
+    "cruiseSpeed": "??",
+    "range": {
+      "miles": null,
+      "text": "??"
+    },
+    "serviceCeiling": {
+      "ft": 9843,
+      "text": "9,843 ft (3,000 m) demonstrated in the record climb"
+    },
+    "wingspan": {
+      "ft": 24,
+      "text": "24 ft (7.3 m)"
+    },
+    "length": {
+      "ft": null,
+      "text": "??"
+    },
+    "height": {
+      "ft": null,
+      "text": "??"
+    },
+    "weight": "empty: ??; MTOW: 2,646 lb (1,200 kg) for the Nemesis NXT it was derived from",
+    "engines": "3 x YASA 750R axial-flux electric motors driving a three-blade propeller, 400 kW (500+ hp) powertrain, 6,480-cell battery",
+    "crew": "1",
+    "capacity": "Single pilot, no payload",
+    "firstFlight": {
+      "date": "2021-09-15",
+      "year": 2021
+    },
+    "serviceEntryDate": "Never entered service",
+    "retiredDate": "Withdrawn from flying - now displayed at the Science Museum, London",
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - a one-off research aircraft, half-funded by the UK government's Aerospace Technology Institute, that was never priced for sale",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "ACCEL 'Spirit of Innovation'",
+      "desc": "The only aircraft built, completed in 2021 by Rolls-Royce with YASA and Electroflight. It first flew from Boscombe Down on 15th September 2021 for about 15 minutes, broke the electric speed record in November 2021 and then ended its flying career as a display piece. It was a technology demonstrator for electric commuter aircraft and air taxis."
+    },
+    {
+      "code": "Sharp Nemesis NXT (donor design)",
+      "desc": "Rolls-Royce used the Sharp Nemesis NXT, a carbon-fibre racing aircraft, as the basis for the ACCEL. The two-seat design was cut down to a single seat to save weight and given an electric powertrain in place of its original engine. The donor design has a maximum take-off weight of 1,200 kg, and the ACCEL's wingspan is 7.3 m."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Rolls-Royce",
+      "role": "Owner and Operator",
+      "status": "Retired",
+      "since": "2021",
+      "fleetSize": "1",
+      "homeBase": "MoD Boscombe Down - Wiltshire"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The ACCEL only flew a handful of test and record flights from MoD Boscombe Down in Wiltshire and no longer flies, so it cannot be tracked on Flightradar24. The aircraft is displayed in the Making the Modern World gallery of the Science Museum in London."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "Added the Rolls-Royce ACCEL (Spirit of Innovation) - the November 2021 record flights, how it was built, and where it ended up.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "accel",
+    "rolls-royce accel",
+    "spirit of innovation",
+    "electric aircraft",
+    "electric record",
+    "rolls-royce",
+    "yasa",
+    "electroflight",
+    "nemesis nxt",
+    "boscombe down",
+    "fastest electric plane",
+    "civilian"
+  ],
+  "article": {
+    "overview": [
+      "The Rolls-Royce ACCEL, named 'Spirit of Innovation', is a single-seat electric aircraft built for one purpose: to be the fastest electric aeroplane in the world. It was part of the Accelerating the Electrification of Flight programme, which Rolls-Royce ran with the motor maker YASA and the aviation start-up Electroflight, and which was half-funded by the UK government through the Aerospace Technology Institute. {{ref:wiki-accel}} {{ref:themanufacturer-first-flight}}",
+      "It first flew on 15th September 2021 and set its records in November that year, averaging 345.4 mph over 3 km. It then went on display at the Science Museum, and Rolls-Royce shut down its electric air-taxi business in November 2024. {{ref:thedriven-first-flight}} {{ref:euronews-closure}} {{ref:sciencemuseum-accel}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Rolls-Royce has a history with record machines. Its first aero-engine, the Eagle, was fitted in four examples to the Vickers Vimy that Alcock and Brown flew across the Atlantic in 1919, and a Rolls-Royce engine powered the Supermarine S.6B that won the Schneider Trophy in 1931. ACCEL carried that idea into the electric era. {{ref:sciencemuseum-accel}}",
+          "The programme's goal was not the record itself. Rolls-Royce wanted a battery and powertrain that could stand in for what electric air taxis and small commuter aircraft would need, and a speed attempt was a hard, public test of it. Before the 2021 flights the previous record stood at about 210 mph. {{ref:manufacturer-first-flight}} {{ref:themanufacturer-first-flight}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The airframe is a carbon-fibre Nemesis NXT racing design with a 24 ft wingspan. It was built as a two-seater and cut down to a single seat to save weight, and three electric motors drive one three-blade propeller. Rolls-Royce rated the powertrain at 400 kW, or more than 500 hp. {{ref:sciencemuseum-accel}} {{ref:wiki-accel}} {{ref:themanufacturer-first-flight}}",
+          "The battery was the hard part. It holds more than 6,000 cells, 6,480 by one count, cooled with air and water, with sensors that tell the pilot how much energy is left. Rolls-Royce described it as the most power-dense battery pack ever assembled for an aircraft, and the museum notes that it lasts about eight minutes. Ground testing ran for nine months and took the propeller up to about 2,400 rpm. {{ref:sciencemuseum-accel}} {{ref:wiki-accel}} {{ref:aerospace-testing}}"
+        ]
+      },
+      {
+        "heading": "First Flight and the Records",
+        "paragraphs": [
+          "On 15th September 2021 the aircraft took off from MoD Boscombe Down in Wiltshire for a flight of about 15 minutes. Rolls-Royce did not give a speed, and said the next step was a world-record attempt before the end of the year. {{ref:thedriven-first-flight}} {{ref:electrek-first-flight}}",
+          "In November 2021, again over Boscombe Down, it set records over 3 km and 15 km and climbed to 3,000 m. The 3 km speed was 555.9 km/h (345.4 mph), the 15 km speed was 532 km/h, and the climb took 3 minutes 22 seconds. The FAI accepted the records in January 2022. {{ref:sciencemuseum-accel}} {{ref:wiki-accel}}"
+        ]
+      },
+      {
+        "heading": "After the Record",
+        "paragraphs": [
+          "The aircraft now hangs from the ceiling of the Making the Modern World gallery at the Science Museum. The record beat the 2017 mark set by a German Extra 330LE with a Siemens powertrain by a wide margin. {{ref:sciencemuseum-accel}}",
+          "The commercial story ended sooner than the aircraft's display life. In November 2024 Rolls-Royce shut down its plans for an electric flying-taxi business, almost three years after the record flight, which means the ACCEL's main legacy is the record and the data behind it. {{ref:euronews-closure}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-accel",
+      "name": "Rolls-Royce ACCEL",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rolls-Royce_ACCEL"
+    },
+    {
+      "id": "sciencemuseum-accel",
+      "name": "Spirit of Innovation: the world's fastest electric aircraft",
+      "publisher": "Science Museum Group",
+      "url": "https://blog.sciencemuseum.org.uk/spirit-of-innovation-the-worlds-fastest-electric-aircraft/"
+    },
+    {
+      "id": "manufacturer-first-flight",
+      "name": "Rolls-Royce's all-electric 'Spirit of Innovation' takes to the skies for the first time",
+      "publisher": "Rolls-Royce",
+      "url": "https://www.rolls-royce.com/media/press-releases/2021/15-09-2021-rr-all-electric-spirit-of-innovation-takes-to-the-skies-for-the-first-time"
+    },
+    {
+      "id": "themanufacturer-first-flight",
+      "name": "Rolls-Royce's all-electric aircraft completes maiden flight in UK",
+      "publisher": "The Manufacturer",
+      "url": "https://www.themanufacturer.com/articles/rolls-royces-all-electric-aircraft-completes-maiden-flight-in-uk/"
+    },
+    {
+      "id": "thedriven-first-flight",
+      "name": "Jet zero: Rolls-Royce completes maiden flight of all-electric plane",
+      "publisher": "The Driven",
+      "url": "https://thedriven.io/2021/09/22/jet-zero-rolls-royce-completes-maiden-flight-of-all-electric-plane/amp"
+    },
+    {
+      "id": "electrek-first-flight",
+      "name": "Rolls-Royce's electric airplane completes its maiden flight in the UK",
+      "publisher": "Electrek",
+      "url": "https://electrek.co/?p=201755"
+    },
+    {
+      "id": "aerospace-testing",
+      "name": "Rolls-Royce completes first taxiing of Spirit of Innovation",
+      "publisher": "Aerospace Testing International",
+      "url": "https://www.aerospacetestinginternational.com/?p=12132"
+    },
+    {
+      "id": "euronews-closure",
+      "name": "Rolls-Royce pulls the plug on electric flying taxi project",
+      "publisher": "Euronews",
+      "url": "https://www.euronews.com/2024/11/08/rolls-royce-pulls-the-plug-on-electric-flying-taxi-project"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "CNBC - All-electric aircraft from Rolls-Royce completes maiden flight",
+      "url": "https://www.cnbc.com/2021/09/16/all-electric-aircraft-from-rolls-royce-completes-maiden-flight.html"
+    },
+    {
+      "name": "EV Powered - Rolls-Royce's all-electric Spirit of Innovation plane completes first flight",
+      "url": "https://evpowered.co.uk/news/rolls-royces-all-electric-spirit-of-innovation-plane-completes-first-flight/"
+    }
+  ],
+  "accidentsAndIncidents": []
+}

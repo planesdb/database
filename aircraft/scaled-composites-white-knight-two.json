@@ -1,0 +1,224 @@
+{
+  "name": "White Knight Two",
+  "fullName": "Scaled Composites Model 348 White Knight Two",
+  "manufacturer": "Scaled Composites",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Air-Launch Carrier Aircraft",
+  "tagline": "White Knight Two is a four-engine, twin-fuselage jet built to carry a rocket-powered spaceplane to about 45,000 ft and drop it. Only one has ever flown, the aircraft named VMS Eve, and it has launched every SpaceShipTwo flight to date.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "Only one White Knight Two exists. Virgin Galactic ordered two in 2008, but the aircraft named VMS Eve is the only one that has ever flown.",
+    "Its wing spans 141 ft, and the spaceship hangs from a mounting between its two fuselages.",
+    "VMS Eve first flew on 21st December 2008 and carried SpaceShipTwo for the first time on 22nd March 2010, on a flight that lasted 2 hours 54 minutes and reached 45,000 ft.",
+    "On 31st October 2014 Eve launched VSS Enterprise on the flight that ended in the crash that killed co-pilot Michael Alsbury, and Eve landed safely.",
+    "On 28th October 2026 Eve carried the new Delta-class spaceship Apeiron from Mesa, Arizona, to Spaceport America in New Mexico, a trip of roughly an hour and a half.",
+    "From 2012 to 2014 Virgin Galactic planned to use it to carry its LauncherOne satellite rocket, then picked a larger carrier aircraft instead."
+  ],
+  "specifications": {
+    "specificationsNote": "\"??\" means the figure has not been published by Scaled Composites or Virgin Galactic. The service ceiling is the design figure given in published references, while the real working altitude is the spaceship release height of about 45,000 ft. The wingspan appears as 141 ft 1 in in one reference table and 141 ft 3 in in the text of another.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "??"
+    },
+    "cruiseSpeed": "??",
+    "range": {
+      "miles": null,
+      "text": "??"
+    },
+    "serviceCeiling": {
+      "ft": 70000,
+      "text": "70,000 ft (21,300 m) design figure; spaceship release altitude is about 45,000 ft (13,700 m)"
+    },
+    "wingspan": {
+      "ft": 141.1,
+      "text": "141 ft 1 in (43 m)"
+    },
+    "length": {
+      "ft": 78.8,
+      "text": "78 ft 9 in (24 m)"
+    },
+    "height": {
+      "ft": null,
+      "text": "??"
+    },
+    "weight": "??",
+    "engines": "4 x Pratt & Whitney Canada PW308 turbofan, 6,900 lbf (30.7 kN) each",
+    "crew": "2 pilots, with a flight test engineer on test flights",
+    "capacity": "One SpaceShipTwo carried between the fuselages. Payload capacity 37,479 lb (17,000 kg)",
+    "firstFlight": {
+      "date": "2008-12-21",
+      "year": 2008
+    },
+    "serviceEntryDate": "2023-06-29",
+    "retiredDate": null,
+    "numberBuilt": 1,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - a one-off aircraft built for and owned by Virgin Galactic, so it was never priced for sale",
+      "inflationText": null
+    }
+  },
+  "variants": [
+    {
+      "code": "VMS Eve (N348MS)",
+      "desc": "The only White Knight Two to fly, registered N348MS. Rolled out at Mojave on 28th July 2008 and first flown on 21st December 2008, it has launched every SpaceShipTwo flight, from the first captive carry in March 2010 to Galactic 07 in June 2024. It also carried the first Delta-class ship, Apeiron, to Spaceport America on 28th October 2026."
+    },
+    {
+      "code": "Second airframe (not completed)",
+      "desc": "Virgin Galactic ordered two White Knight Twos in 2008, and in November 2010 The Spaceship Company said it planned at least three more. None has flown. As of 2024 it was still unclear whether any further vehicles would ever be built, which leaves Eve as the single carrier for the whole SpaceShipTwo and Delta fleet."
+    },
+    {
+      "code": "LauncherOne carrier (study only)",
+      "desc": "From 2012 to 2014 Virgin Galactic planned to use White Knight Two to carry its LauncherOne satellite rocket, which would have released a 200 kg payload to low Earth orbit from about 50,000 ft. By late 2015 it had chosen a larger carrier aircraft for the job, so this version never flew."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Virgin Galactic",
+      "role": "Owner and Operator",
+      "status": "In Service",
+      "since": "2008",
+      "fleetSize": "1",
+      "homeBase": "Spaceport America - New Mexico"
+    },
+    {
+      "name": "Scaled Composites",
+      "role": "Builder and Original Test Operator",
+      "status": "Retired",
+      "since": "2008",
+      "fleetSize": "1",
+      "homeBase": "Mojave Air and Space Port - California"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "White Knight Two has no ICAO type code and rarely carries a public transponder identity, so it is rarely visible on Flightradar24. The aircraft is registered N348MS. The best chance is a flight to or from Spaceport America near Truth or Consequences in New Mexico, or the Mesa Gateway airport in Arizona."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "New entry for White Knight Two (VMS Eve), covering its design, test flying, the launch of SpaceShipTwo and its October 2026 flight with Apeiron.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "white knight two",
+    "whiteknighttwo",
+    "wk2",
+    "vms eve",
+    "eve",
+    "n348ms",
+    "virgin galactic",
+    "scaled composites",
+    "mothership",
+    "carrier aircraft",
+    "air launch",
+    "model 348",
+    "civilian"
+  ],
+  "article": {
+    "overview": [
+      "White Knight Two is the air-launch carrier built to take SpaceShipTwo to altitude. It is a twin-fuselage, four-engine jet from Scaled Composites, designated Model 348, and the only one flying is the aircraft named VMS Eve, registered N348MS. {{ref:wiki-wk2}}",
+      "Eve has done the same job for more than fifteen years. It flew first on 21st December 2008, launched the first crewed glide of VSS Enterprise in 2010, and carried VSS Unity on every flight from 2016 to 2024. In October 2026 it began the same role with the next-generation Delta-class ships. {{ref:wiki-wk2}} {{ref:wiki-unity}} {{ref:airframer-apeiron}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The reason for an air-launch carrier is physical. A spaceplane that has to climb through thick air uses far more propellant than one dropped at 45,000 ft, so a jet does the first part of the climb and the rocket does the rest. Scaled Composites revealed the White Knight Two design on 23rd January 2008, and Virgin Galactic ordered two examples that year. {{ref:wiki-wk2}}",
+          "The first aircraft was rolled out at Mojave on 28th July 2008 and first flew on 21st December 2008. Nearly twenty test flights followed, and testing was finished by September 2009. {{ref:wiki-wk2}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The layout is two fuselages joined by a long central wing, with the spaceship carried in the gap between them. The aircraft is 78 ft 9 in long with a 141 ft 1 in wingspan and four Pratt & Whitney Canada PW308 turbofans of 6,900 lbf each. {{ref:wiki-wk2}}",
+          "The crew sits in one fuselage, and the published payload capacity is 17,000 kg. Neither company has released a top speed, a weight or a height, which is why several of the numbers above are blank. {{ref:wiki-wk2}}"
+        ]
+      },
+      {
+        "heading": "Test Flying and the First Carry",
+        "paragraphs": [
+          "On 22nd March 2010, Eve's 25th flight, it carried VSS Enterprise for the first time. The flight lasted 2 hours 54 minutes and reached 45,000 ft. Enterprise made its first crewed glide, released from Eve at 45,000 ft and landing at Mojave, on 10th October 2010. {{ref:wiki-wk2}} {{ref:wiki-enterprise}}",
+          "In November 2010 The Spaceship Company said it planned at least three more White Knight Twos. None was built, and as of 2024 it was unclear whether any further vehicles would follow. {{ref:wiki-wk2}}"
+        ]
+      },
+      {
+        "heading": "Launching SpaceShipTwo",
+        "paragraphs": [
+          "Eve was the launch aircraft when Enterprise crashed on 31st October 2014. The spaceship was released at about 46,400 ft, and the NTSB found that the co-pilot unlocked the feather system too early, at Mach 0.82 and not the planned 1.4. Eve was not involved in the breakup and landed safely. {{ref:ntsb-ss2}}",
+          "After Enterprise, Eve carried VSS Unity on its first captive flight on 8th September 2016 and through every glide, powered and commercial flight until Galactic 07 on 8th June 2024. The Unity flight of 11th July 2021, with Richard Branson aboard, also started with a drop from Eve. {{ref:wiki-unity}}"
+        ]
+      },
+      {
+        "heading": "Eve Today and What Comes Next",
+        "paragraphs": [
+          "Eve was given a rehearsal ferry flight from Spaceport America to Mesa Gateway airport in November 2025, ahead of carrying new ships from the factory. On 28th October 2026 it left Phoenix-Mesa Gateway at 10:29 a.m. MST with Apeiron, the first Delta-class spaceship, and landed at Spaceport America at 12:59 p.m. MDT. Michael Masucci and Dan Alix flew it, with flight test engineer Tori Crichton aboard. {{ref:azfamily-eve}} {{ref:airframer-apeiron}}",
+          "Apeiron was carried for the whole trip rather than released, and Virgin Galactic says commercial service is expected in the second quarter of 2027. The weakness of the arrangement is also plain: the whole fleet depends on one aircraft, since no second White Knight Two has been completed. {{ref:newatlas-apeiron}} {{ref:wiki-wk2}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-wk2",
+      "name": "White Knight Two",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/White_Knight_Two"
+    },
+    {
+      "id": "wiki-unity",
+      "name": "VSS Unity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/VSS_Unity"
+    },
+    {
+      "id": "wiki-enterprise",
+      "name": "VSS Enterprise",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/VSS_Enterprise"
+    },
+    {
+      "id": "ntsb-ss2",
+      "name": "In-Flight Breakup During Test Flight, Scaled Composites SpaceShipTwo (NTSB/AAR-15/02)",
+      "publisher": "National Transportation Safety Board",
+      "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1502.pdf"
+    },
+    {
+      "id": "airframer-apeiron",
+      "name": "Virgin Galactic's Spaceship Apeiron arrives home to Spaceport America",
+      "publisher": "Airframer (Virgin Galactic press release)",
+      "url": "https://www.airframer.com/news/release/102990"
+    },
+    {
+      "id": "newatlas-apeiron",
+      "name": "Virgin Galactic Apeiron Delta-class spaceship",
+      "publisher": "New Atlas",
+      "url": "https://newatlas.com/aircraft/virgin-galactic-apeiron-delta-class-spaceship/"
+    },
+    {
+      "id": "azfamily-eve",
+      "name": "Virgin Galactic mothership makes inaugural flight to Mesa Gateway Airport",
+      "publisher": "AZFamily",
+      "url": "https://www.azfamily.com/2025/12/08/virgin-galactic-mothership-makes-inaugural-flight-mesa-gateway-airport/?outputType=amp"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Albuquerque Journal - Virgin Galactic's new spaceship lands at Spaceport America",
+      "url": "https://www.abqjournal.com/business/virgin-galactics-new-spaceship-lands-at-spaceport-america/3151302"
+    },
+    {
+      "name": "Universe Today - Virgin Galactic flies next-gen space plane to new home",
+      "url": "https://www.universetoday.com/articles/virgin-galactic-flies-next-gen-space-plane-to-new-home-with-new-name"
+    }
+  ],
+  "accidentsAndIncidents": []
+}

@@ -1,0 +1,345 @@
+{
+  "name": "Tornado",
+  "fullName": "Panavia Tornado",
+  "manufacturer": "Panavia Aircraft GmbH (British Aerospace, MBB and Aeritalia)",
+  "originCountry": {
+    "name": "United Kingdom / Germany / Italy",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets",
+    "bombers"
+  ],
+  "role": "Two-Seat Swing-Wing Strike Aircraft",
+  "tagline": "The Panavia Tornado is a twin-engine, two-seat, swing-wing strike aircraft built by a British, West German and Italian consortium. About 990 were built between 1979 and 1998 in strike, air defence and electronic combat versions, and Saudi Arabia still flies it after the RAF retired its fleet in 2019.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "On 17th January 1991 RAF Tornado GR1 ZD791 was hit by an SA-14 missile on a low-level attack on Ar Rumaylah airfield. Squadron Leader John Peters and Flight Lieutenant John Nichol were captured and shown on Iraqi television, and they were released on 5th March 1991.",
+    "On 23rd March 2003 a US Army Patriot battery shot down RAF GR4A ZG710 over Kuwait, killing Flight Lieutenants Kevin Main and David Williams. The RAF board of inquiry found several contributing factors, including the aircraft's IFF and the Patriot's classification rules.",
+    "The wings sweep from 25 degrees to 67 degrees in flight, which takes the span from 13.91 m to about 8.60 m.",
+    "Production totalled about 990 aircraft, made up of 745 strike, 194 air defence and 51 electronic combat and reconnaissance versions, with workshare of 42.5 percent each for Britain and West Germany and 15 percent for Italy.",
+    "RAF Tornados accounted for about 31 percent of an estimated 4,315 ISIL casualties between September 2014 and January 2019.",
+    "Six RAF Tornados were lost in the 1991 Gulf War, including one after a JP233 runway attack, and the force stopped low-level airfield attacks once the Iraqi Air Force stopped flying."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Tornado IDS strike version. Empty weight is about 14,090 kg in one source and about 13,890 kg for the GR4 in another, and the maximum take-off weight is quoted between about 27,960 kg and 28,500 kg. Speed is given as 2,337 km/h at 36,090 ft, converted here to knots and mph. Length, span and height vary slightly by source, and height is given as 5.95 m or 5.70 m. First flight is credited to prototype P.01 from Manching on 14th August 1974, and the first British prototype, XX946, flew on 30th October 1974 from Warton. Service entry is quoted as 1979 or 1980 depending on the nation. Total production is given as 990 or as 992 plus 11 prototypes. No clean per-aircraft price exists, because the aircraft was bought through a three nation programme over two decades.",
+    "maxSpeed": {
+      "mph": 1453,
+      "text": "1,263 kn (1,453 mph / 2,337 km/h)"
+    },
+    "range": {
+      "miles": 2417,
+      "text": "2,417 mi (3,890 km) ferry range; combat radius about 864 mi (1,390 km)"
+    },
+    "serviceCeiling": {
+      "ft": 50000,
+      "text": "50,000 ft (15,240 m)"
+    },
+    "wingspan": {
+      "ft": 45.6,
+      "text": "45 ft 8 in (13.91 m) at 25 degrees; about 28 ft 3 in (8.60 m) at 67 degrees"
+    },
+    "length": {
+      "ft": 54.9,
+      "text": "54 ft 10 in (16.72 m)"
+    },
+    "height": {
+      "ft": 19.5,
+      "text": "19 ft 6 in (5.95 m)"
+    },
+    "weight": "empty: 31,063 lb (14,090 kg); MTOW: 61,729 lb (28,000 kg)",
+    "engines": "2 x Turbo-Union RB199-34R Mk 103 afterburning turbofans, 8,650 lbf (38.48 kN) dry and 16,075 lbf (71.5 kN) with afterburner each",
+    "armament": "2 x 27 mm Mauser BK-27 cannon (one in the air defence version); weapons have included JP233, Storm Shadow, Taurus, ALARM, HARM, Brimstone, Paveway and JDAM guided weapons, Sidewinder, ASRAAM, Skyflash and AMRAAM air-to-air missiles, and the WE.177 and B61 nuclear bombs",
+    "crew": "2 (pilot and navigator or weapons systems officer)",
+    "firstFlight": {
+      "date": "1974-08-14",
+      "year": 1974
+    },
+    "serviceEntryDate": "1979",
+    "retiredDate": null,
+    "numberBuilt": 990,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no single price exists for a three nation programme, and the one figure found for the GR4 era (about £17M to £20M) comes from a single secondary source",
+      "inflationText": null
+    },
+    "combatLosses": "Six RAF Tornados lost in the 1991 Gulf War, one RAF GR4A shot down by a US Patriot battery on 23rd March 2003, and one Italian aircraft lost to anti-aircraft fire in 1991 with the crew captured"
+  },
+  "variants": [
+    {
+      "code": "Tornado IDS / GR1",
+      "desc": "The interdictor strike version was the aircraft the programme was built around, a low-level, all-weather bomber with terrain-following radar. Britain ordered 220 and received 228 in total, Germany took about 210, Italy 100 and Saudi Arabia 96. It first served in 1979 and was the type used in the 1991 Gulf War."
+    },
+    {
+      "code": "Tornado GR4 / GR4A",
+      "desc": "The RAF's mid-life update converted 142 GR1s to GR4 standard between 1996 and 2003, adding new avionics, a forward-looking infrared sensor and Storm Shadow, Brimstone and Paveway IV weapons. The GR4A added a reconnaissance fit. It received operational clearance in April 2001 and was retired from the RAF in 2019."
+    },
+    {
+      "code": "Tornado ADV / F2 / F3",
+      "desc": "The air defence variant was a stretched interceptor with a larger radar and long-range missiles, built to defend British airspace against Soviet bombers. The first prototype flew on 27th October 1979. About 194 were built, 165 for the RAF as 18 F2 and 147 F3, and Saudi Arabia and Italy also flew it. The RAF retired the F3 in 2011."
+    },
+    {
+      "code": "Tornado ECR / EA-200",
+      "desc": "The electronic combat and reconnaissance version was developed for Germany and Italy to find and destroy enemy radars with anti-radiation missiles. Germany took 35 new-build ECRs and Italy converted 16 of its IDS fleet to this standard. They fired HARM missiles in Kosovo in 1999, where German aircraft launched 236 and Italian aircraft 115."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Launch Operator",
+      "status": "Retired",
+      "since": "1979",
+      "fleetSize": "228 IDS delivered and 165 air defence versions ordered",
+      "homeBase": "RAF Marham and RAF Lossiemouth, United Kingdom"
+    },
+    {
+      "name": "Luftwaffe",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "1979",
+      "fleetSize": "About 245 to 247 delivered including 35 ECR; retirement planned for 2026 to 2030",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "German Navy (Marineflieger)",
+      "role": "Operator",
+      "status": "Retired",
+      "fleetSize": "112 IDS; one wing disbanded on 1st January 1994 and the second in 2005",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "Italian Air Force (Aeronautica Militare)",
+      "role": "Operator",
+      "status": "Retired",
+      "since": "1981",
+      "fleetSize": "100 IDS, 16 converted to ECR; 24 leased ADVs returned by December 2004",
+      "homeBase": "Ghedi, Italy"
+    },
+    {
+      "name": "Royal Saudi Air Force",
+      "role": "Export Operator",
+      "status": "In Service",
+      "since": "1980s",
+      "fleetSize": "96 IDS and 24 ADV delivered; about 81 strike aircraft reported in 2026",
+      "homeBase": "Saudi Arabia"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "TOR",
+    "howToFind": "Search type TOR. German and Saudi Tornados rarely broadcast their positions on public trackers, so sightings are uncommon outside airshow flights."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "Added the Tornado, with the Gulf War JP233 raids, the 2003 Patriot shoot-down, the variants, the full operator list and the preserved aircraft.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "tornado",
+    "panavia tornado",
+    "tornado gr4",
+    "tornado gr1",
+    "tornado adv",
+    "tornado f3",
+    "tornado ecr",
+    "swing wing",
+    "royal air force",
+    "luftwaffe",
+    "al yamamah",
+    "jp233",
+    "storm shadow",
+    "strike aircraft"
+  ],
+  "article": {
+    "overview": [
+      "The Panavia Tornado is a twin-engine, two-seat, variable-geometry combat aircraft built by a British, West German and Italian consortium for low-level strike, air defence and electronic combat. About 990 were built between 1979 and 1998.{{ref:wiki-tornado}}",
+      "The RAF retired its last Tornado GR4 in 2019. Germany, Italy and Saudi Arabia flew it after that, and Saudi Arabia is the only air force still reported to operate a large fleet.{{ref:wiki-tornado}}{{ref:aero2026}}"
+    ],
+    "sections": [
+      {
+        "heading": "A Three Nation Programme",
+        "paragraphs": [
+          "A multi-role aircraft working group began in 1968 and Britain joined in the same year. Panavia Aircraft GmbH was formed on 26th March 1969, and the Netherlands withdrew in 1970. Workshare was set at 42.5 percent each for Britain and West Germany and 15 percent for Italy, and the RB199 engine came from Turbo-Union, owned 40 percent by Rolls-Royce, 40 percent by MTU and 20 percent by FIAT.{{ref:wiki-tornado}}",
+          "Prototype P.01 flew from Manching on 14th August 1974, and the first British prototype, XX946, flew from Warton on 30th October 1974. The first production aircraft, ZA319, flew on 10th July 1979. The first Italian delivery followed on 25th September 1981, and the 500th aircraft went to West Germany on 19th December 1987.{{ref:wiki-tornado}}{{ref:milavia}}"
+        ]
+      },
+      {
+        "heading": "Swing Wing & Terrain Following",
+        "paragraphs": [
+          "The wings sweep between 25 and 67 degrees, spread for short take-offs and landings and swept back for a fast dash at low altitude. The RB199 has a built-in thrust reverser, so the aircraft can stop on a short runway, and the strike version pairs a ground-mapping radar with a terrain-following radar for blind low-level flight.{{ref:aerospaceweb}}{{ref:milavia}}",
+          "The strike version is a two-seater by design, with a navigator running the radars, navigation and weapons. Speed is above Mach 2.2 at altitude, and the type is credited with 2,337 km/h at 36,090 ft and Mach 1.2 at sea level.{{ref:aerospaceweb}}"
+        ]
+      },
+      {
+        "heading": "The Gulf War & JP233",
+        "paragraphs": [
+          "The RAF deployed 49 Tornado GR1s for Operation Granby, and on the first night they attacked Iraqi airfields at very low level with the JP233 runway-denial weapon. On 17th January 1991 GR1 ZD791 of XV Squadron was hit by an SA-14 during a daylight attack on Ar Rumaylah airfield. Squadron Leader John Peters and Flight Lieutenant John Nichol were captured, appeared on Iraqi television, and were released on 5th March 1991.{{ref:twz-jp233}}{{ref:wiki-peters}}",
+          "The Tornado force lost six aircraft in the campaign, four during unguided bombing, one after a JP233 attack and one during laser-guided bombing. The RAF stopped low-level airfield attacks once the Iraqi Air Force did not fly, and went on to fly more than 1,500 Tornado GR1 sorties. Italy deployed eight IDS and lost one to anti-aircraft fire, and the crew survived as prisoners.{{ref:twz-jp233}}{{ref:wiki-tornado}}"
+        ]
+      },
+      {
+        "heading": "Kosovo, Iraq & the Patriot Shoot-Down",
+        "paragraphs": [
+          "In Kosovo in 1999 German aircraft flew 446 sorties and fired 236 HARM missiles, and Italian aircraft fired 115 HARMs. In 2003 RAF Tornados flew in Operation Telic, and on 23rd March GR4A ZG710 of IX(B) Squadron was shot down by a US Army Patriot battery 16 nautical miles northwest of Ali Al Salem in Kuwait. Flight Lieutenants Kevin Main and David Williams were killed.{{ref:wiki-tornado}}{{ref:register}}{{ref:gov-williams}}",
+          "The RAF board of inquiry listed several contributory factors, including the Patriot's classification criteria, the rules of engagement, the Tornado's IFF equipment, which never answered the challenge, and Mode 1 codes that had not been loaded. The Patriot crew had about 60 seconds to decide, and the RAF then fitted a new IFF to 40 GR4 and 27 F3 aircraft.{{ref:register}}{{ref:spacedaily}}"
+        ]
+      },
+      {
+        "heading": "Libya, Syria & Retirement",
+        "paragraphs": [
+          "In Libya in 2011 RAF Tornados flew missions of about 3,000 miles, the longest RAF bombing sorties since the Falklands. RAF strikes against ISIL began on 2nd December 2015 under Operation Shader, and on 14th April 2018 four GR4s hit a Syrian facility with Storm Shadow missiles. From September 2014 to January 2019 Tornados accounted for about 31 percent of an estimated 4,315 ISIL casualties.{{ref:wiki-tornado}}",
+          "The last RAF operational sorties were flown on 31st January 2019, and the GR4 retired on 1st April 2019. Italy withdrew its IDS from 6° Stormo at Ghedi from July 2025. Germany plans to retire its fleet between 2026 and 2030 and to replace the nuclear role with 35 F-35s, and Saudi Arabia, the only export customer, still flies about 81 strike aircraft, which a 2026 report describes as nearing the end of their life.{{ref:wiki-tornado}}{{ref:aero2026}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-tornado",
+      "name": "Panavia Tornado",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Panavia_Tornado"
+    },
+    {
+      "id": "milavia",
+      "name": "Panavia Tornado specifications",
+      "publisher": "MILAVIA",
+      "url": "https://milavia.net/aircraft/tornado/tornado_specs.htm"
+    },
+    {
+      "id": "aerospaceweb",
+      "name": "Panavia Tornado IDS",
+      "publisher": "Aerospaceweb.org",
+      "url": "https://aerospaceweb.org/aircraft/bomber/tornado_ids/"
+    },
+    {
+      "id": "twz-jp233",
+      "name": "How British Tornados Used A Special Weapon To Ravage Saddam's Airfields",
+      "publisher": "The War Zone",
+      "url": "https://www.twz.com/38745/how-british-tornados-used-a-special-weapon-to-ravage-saddams-airfields-in-daring-desert-storm-raids"
+    },
+    {
+      "id": "wiki-peters",
+      "name": "John Peters (RAF officer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Peters_(RAF_officer)"
+    },
+    {
+      "id": "register",
+      "name": "Patriot missile shot down RAF Tornado",
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/2004/05/20/patriot_missile/"
+    },
+    {
+      "id": "spacedaily",
+      "name": "Missiles news",
+      "publisher": "SpaceDaily",
+      "url": "https://www.spacedaily.com/news/missiles-04x.html"
+    },
+    {
+      "id": "gov-williams",
+      "name": "Flight Lieutenant David Williams",
+      "publisher": "GOV.UK",
+      "url": "https://www.gov.uk/government/fatalities/flight-lieutenant-david-williams"
+    },
+    {
+      "id": "aero2026",
+      "name": "Saudi Arabia's Air Force in 2026",
+      "publisher": "Aerocorner",
+      "url": "https://aerocorner.com/blog/saudi-air-force/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Panavia Tornado GR1 - National Museum of the US Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198063/panavia-tornado-gr1/"
+    },
+    {
+      "name": "John Nichol (RAF officer) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Nichol_(RAF_officer)"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1974-08-14",
+      "title": "First flight of prototype P.01",
+      "tag": "First flight",
+      "summary": "Prototype P.01 made the first flight of the programme from Manching in Germany on 14th August 1974.",
+      "source": "https://en.wikipedia.org/wiki/Panavia_Tornado"
+    },
+    {
+      "date": "1991-01-17",
+      "title": "GR1 ZD791 shot down at Ar Rumaylah",
+      "tag": "Shot down",
+      "summary": "A Tornado GR1 of XV Squadron was hit by an SA-14 missile during a daylight attack on Ar Rumaylah airfield on 17th January 1991. Squadron Leader John Peters and Flight Lieutenant John Nichol were captured, and they were released on 5th March 1991.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/John_Peters_(RAF_officer)"
+    },
+    {
+      "date": "1991-01-18",
+      "title": "RAF Tornado lost with its crew in the Gulf War",
+      "tag": "Shot down",
+      "summary": "A Tornado GR1 was lost on 18th January 1991, killing Wing Commander Nigel Elsdon and Flight Lieutenant Max Collier, one of six RAF Tornados lost in the campaign.",
+      "fatalities": 2,
+      "source": "https://www.twz.com/38745/how-british-tornados-used-a-special-weapon-to-ravage-saddams-airfields-in-daring-desert-storm-raids"
+    },
+    {
+      "date": "2003-03-23",
+      "title": "GR4A shot down by a US Patriot battery",
+      "tag": "Friendly fire",
+      "summary": "GR4A ZG710 of IX(B) Squadron was hit by a Patriot missile 16 nautical miles northwest of Ali Al Salem, Kuwait, on 22nd and 23rd March 2003. Flight Lieutenants Kevin Main and David Williams were killed.",
+      "fatalities": 2,
+      "source": "https://www.theregister.com/2004/05/20/patriot_missile/"
+    },
+    {
+      "date": "2018-04-14",
+      "title": "Storm Shadow strike on a Syrian facility",
+      "tag": "Combat",
+      "summary": "Four RAF GR4s struck a Syrian facility with Storm Shadow missiles on 14th April 2018.",
+      "source": "https://en.wikipedia.org/wiki/Panavia_Tornado"
+    },
+    {
+      "date": "2019-04-01",
+      "title": "RAF retires the Tornado GR4",
+      "tag": "Retirement",
+      "summary": "The last RAF operational sorties were flown on 31st January 2019, and the GR4 retired from the RAF on 1st April 2019.",
+      "source": "https://en.wikipedia.org/wiki/Panavia_Tornado"
+    }
+  ],
+  "survivors": {
+    "intro": "A selection of preserved aircraft whose locations were confirmed in the sources checked, so not a full census.",
+    "airframes": [
+      {
+        "serial": "XX946",
+        "name": null,
+        "location": "Royal Air Force Museum Cosford",
+        "place": "Cosford, Shropshire, England",
+        "note": "Prototype P.02, the first British-built Tornado, which first flew on 30th October 1974.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "ZE887",
+        "name": null,
+        "location": "Royal Air Force Museum London",
+        "place": "Hendon, London, England",
+        "note": "A Tornado F3 that served with several squadrons and flew in the 1991 Gulf War.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "ZA374",
+        "name": null,
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson Air Force Base, Ohio, USA",
+        "note": "A Tornado GR1 on display.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "name": "787 Dreamliner",
+  "fullName": "Boeing 787 Dreamliner",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Wide-Body Airliner",
+  "tagline": "The Boeing 787 Dreamliner is a twin-engine, long-haul airliner with a carbon-fibre composite airframe, built in three lengths. It entered service with All Nippon Airways on 26th October 2011, and by August 2026 Boeing had delivered 1,303 of the 2,466 ordered.",
+  "status": "In Service",
+  "inProduction": true,
+  "quickFacts": [
+    "Boeing announced the 7E7 on 29th January 2003 after cancelling the faster Sonic Cruiser, and the programme launched on 26th April 2004 with a 50-aircraft order from All Nippon Airways.",
+    "Boeing lists the airframe as about 50 percent composite by weight and 80 percent by volume, with 20 percent aluminium, 15 percent titanium and 10 percent steel.",
+    "On 6th December 2011 test aircraft ZA006 flew 10,710 nmi non-stop from Boeing Field to Dhaka, a record for its weight class.",
+    "In January 2013 the FAA grounded every 787 after lithium-ion battery fires, the first grounding of an airliner type since 1979. It lasted about three months.",
+    "Only 14 787s were delivered between November 2020 and August 2022 because of production defects, and since March 2021 final assembly has been only in South Carolina.",
+    "Air India Flight 171 on 12th June 2025 was the first fatal crash and hull loss of a 787, and it killed 260 people."
+  ],
+  "specifications": {
+    "specificationsNote": "Specifications are for the 787-9, the version most airlines are ordering. Boeing publishes cruise speed (Mach 0.85) and not a maximum speed, so maxSpeed shows the cruise figure converted to knots, mph and km/h. Empty weight is not published by Boeing, and secondary sources give figures from about 244,000 lb to 295,500 lb, so none is recorded. Dimensions and weights were cross-checked across several secondary sources, because Boeing's airport planning document could not be fetched. A 787-9 IGW option raised maximum takeoff weight by about 10,000 lb and was approved by the FAA in March 2026.",
+    "maxSpeed": {
+      "mph": 561,
+      "text": "488 kn (561 mph / 903 km/h)"
+    },
+    "cruiseSpeed": "Mach 0.85 (561 mph / 903 km/h)",
+    "range": {
+      "miles": 8706,
+      "text": "8,706 mi (14,010 km, 7,565 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 43100,
+      "text": "43,100 ft (13,137 m)"
+    },
+    "wingspan": {
+      "ft": 197.25,
+      "text": "197 ft 3 in (60.1 m)"
+    },
+    "length": {
+      "ft": 206.1,
+      "text": "206 ft 1 in (62.8 m)"
+    },
+    "height": {
+      "ft": 55.8,
+      "text": "55 ft 10 in (17 m)"
+    },
+    "weight": "MTOW: 560,000 lb (254 t); empty weight not published",
+    "engines": "2 x General Electric GEnx-1B or Rolls-Royce Trent 1000 turbofans, chosen by the airline",
+    "crew": "2 flight crew",
+    "capacity": "787-8: 248 typical; 787-9: 296 in a high-density layout; 787-10: 336 (seat counts as listed on Wikipedia, and airlines vary widely)",
+    "firstFlight": {
+      "date": "2009-12-15",
+      "year": 2009
+    },
+    "serviceEntryDate": "2011-10-26",
+    "retiredDate": null,
+    "numberBuilt": 1303,
+    "unitCost": {
+      "usd": 385000000,
+      "text": "$292.5M (787-9 list price, 2019) - roughly $385M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$385M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "787-8",
+      "desc": "The original version, first flown on 15th December 2009 from Paine Field in Everett. It is 186 ft (57 m) long, seats about 248 and has a range of 7,305 nmi (8,406 mi), at a maximum takeoff weight of 502,500 lb (227.9 t). All Nippon Airways began flying it on 26th October 2011 from Tokyo Narita to Hong Kong."
+    },
+    {
+      "code": "787-9",
+      "desc": "The stretched version, 206 ft (63 m) long, with a range of 7,565 nmi (8,706 mi) and 296 seats in a high-density layout. All Nippon Airways began flying it on 7th August 2014. Recent orders have been mostly for this version, and an IGW option adding about 10,000 lb of takeoff weight was approved by the FAA in March 2026."
+    },
+    {
+      "code": "787-10",
+      "desc": "The longest version at 224 ft (68 m), seating about 336 with a shorter range of 6,330 nmi (7,280 mi). Singapore Airlines began flying it on 3rd April 2018. An increased-gross-weight option adds about 14,000 lb of takeoff weight, and the type is aimed at high-density medium-haul routes."
+    }
+  ],
+  "operators": [
+    {
+      "name": "All Nippon Airways",
+      "role": "Launch Customer",
+      "status": "In Service",
+      "since": "2011",
+      "fleetSize": "86 (June 2025); later reports give 88 to 94",
+      "homeBase": "Tokyo Haneda and Narita - Japan"
+    },
+    {
+      "name": "United Airlines",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2012",
+      "fleetSize": "96 active (October 2026), with more than 140 more 787-9 and 787-10 on order",
+      "homeBase": "Chicago O'Hare, Houston and Newark - United States"
+    },
+    {
+      "name": "American Airlines",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "63 to 67",
+      "homeBase": "Dallas Fort Worth - United States"
+    },
+    {
+      "name": "Qatar Airways",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2012",
+      "fleetSize": "54 to 60, with 787-10 deliveries still to come",
+      "homeBase": "Doha - Qatar"
+    },
+    {
+      "name": "Japan Airlines",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2012",
+      "fleetSize": "42 to 50",
+      "homeBase": "Tokyo Haneda and Narita - Japan"
+    },
+    {
+      "name": "Etihad Airways",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2015",
+      "fleetSize": "44 to 47",
+      "homeBase": "Abu Dhabi - United Arab Emirates"
+    },
+    {
+      "name": "British Airways",
+      "role": "Operator",
+      "status": "In Service",
+      "fleetSize": "42 (June 2025)",
+      "homeBase": "London Heathrow - United Kingdom"
+    },
+    {
+      "name": "Ethiopian Airlines",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2012",
+      "fleetSize": "29",
+      "homeBase": "Addis Ababa - Ethiopia"
+    },
+    {
+      "name": "Qantas",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2017",
+      "fleetSize": "28 (2025)",
+      "homeBase": "Sydney and Perth - Australia"
+    },
+    {
+      "name": "Singapore Airlines",
+      "role": "787-10 Launch Customer",
+      "status": "In Service",
+      "since": "2018",
+      "fleetSize": "22 787-10",
+      "homeBase": "Singapore Changi - Singapore"
+    },
+    {
+      "name": "Air India",
+      "role": "Operator",
+      "status": "In Service",
+      "since": "2012",
+      "fleetSize": "27 (November 2022); one 787-8 lost in June 2025",
+      "homeBase": "Delhi and Mumbai - India"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B788 (787-8); B789 (787-9); B78X (787-10)",
+    "howToFind": "Filter by B789 for the most common version. United, ANA and American fly the largest fleets, so Chicago O'Hare, Tokyo Haneda and Dallas Fort Worth are good places to look."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "Added the Boeing 787 - the 2013 battery grounding, the production problems, the Air India 171 crash and where its investigation stands, plus specs, variants and the main operators.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "787",
+    "787 dreamliner",
+    "boeing 787",
+    "dreamliner",
+    "787-8",
+    "787-9",
+    "787-10",
+    "airliner",
+    "wide-body",
+    "composite",
+    "air india 171"
+  ],
+  "article": {
+    "overview": [
+      "The Boeing 787 Dreamliner is a twin-engine, wide-body airliner built by Boeing, with a carbon-fibre composite airframe and three versions, the 787-8, 787-9 and 787-10. It first flew on 15th December 2009, and All Nippon Airways began passenger flights on 26th October 2011.{{ref:wiki-787}}",
+      "By August 2026 Boeing had received 2,466 orders and delivered 1,303. Its record includes a three-month grounding in 2013, years of production defects and the first fatal crash of the type, Air India Flight 171 in June 2025.{{ref:wiki-787}}"
+    ],
+    "sections": [
+      {
+        "heading": "From Sonic Cruiser to 7E7",
+        "paragraphs": [
+          "Boeing cancelled the Sonic Cruiser, a faster airliner, on 20th December 2002, and announced the 7E7 on 29th January 2003 as a more efficient design. The programme launched on 26th April 2004 with a 50-aircraft order from All Nippon Airways, and the first 787 assembly began at Everett in May 2007.{{ref:wiki-787}}",
+          "The first flight was on 15th December 2009 and the FAA and EASA certified the type on 26th August 2011. The 787-8 and 787-9 were meant to be certified for 330-minute ETOPS, but entered service at 180 minutes, and the 330-minute approval came in 2014.{{ref:wiki-787}}"
+        ]
+      },
+      {
+        "heading": "Composite Airframe & Variants",
+        "paragraphs": [
+          "Boeing's materials breakdown is about 50 percent composite by weight, 20 percent aluminium, 15 percent titanium, 10 percent steel and 5 percent other, and about 80 percent composite by volume. Buyers can choose GEnx or Trent 1000 engines.{{ref:wiki-787}}",
+          "The 787-8 is 186 ft long and the 787-9 is 206 ft, and the 787-10 is 224 ft, with ranges of 7,305 nmi, 7,565 nmi and 6,330 nmi. Qantas flies the 787-9 on its Perth to London service, one of the longest in the world at over 7,828 nmi.{{ref:wiki-787}}"
+        ]
+      },
+      {
+        "heading": "The 2013 Battery Grounding",
+        "paragraphs": [
+          "On 7th January 2013 the lithium-ion auxiliary power unit battery of an empty Japan Airlines 787 overheated and started a fire at Boston Logan. On 16th January 2013 an All Nippon Airways 787 made an emergency landing at Takamatsu after a smoke warning from an electrical compartment, and the FAA grounded all 787s that day.{{ref:wiki-grounding}}{{ref:fg-ntsb}}",
+          "The FAA let US Dreamliners fly again on 19th April 2013 after changes that better contained fires in the battery system. The NTSB later faulted Boeing and its battery suppliers and said the FAA's oversight of the design certification was insufficient. The grounding was the first for an airliner type since 1979.{{ref:wiki-grounding}}{{ref:fg-ntsb}}"
+        ]
+      },
+      {
+        "heading": "Production Problems",
+        "paragraphs": [
+          "Quality reports emerged from the North Charleston plant in 2019, and KLM described the standard as well below acceptable. In late August 2020 Boeing grounded eight 787s because of improper fuselage shimming, and deliveries were largely halted from January 2021 to August 2022, with only 14 delivered between November 2020 and August 2022.{{ref:wiki-787}}",
+          "A supplier analysis error on the forward pressure bulkhead halted deliveries again in February 2023 until 10th March 2023. In April 2024 an engineer alleged improper fuselage assembly, which Boeing rejected and the FAA investigated, and in early 2025 Italian authorities uncovered a scheme involving more than 4,800 falsified parts. Boeing finished rework on 122 stored aircraft in February 2025.{{ref:wiki-787}}"
+        ]
+      },
+      {
+        "heading": "Air India 171 & Current Status",
+        "paragraphs": [
+          "Air India Flight 171, a 787-8 flying from Ahmedabad to London Gatwick, crashed after takeoff on 12th June 2025 and killed 260 people. The AAIB issued a preliminary report on 12th July 2025 that recommended no action by Boeing or 787 operators. On the anniversary the AAIB said that the final report would follow all investigative activities, and in July 2026 it told India's Supreme Court that a draft final report was expected in October 2026.{{ref:wiki-787}}{{ref:newsonair}}{{ref:bt-ai171}}",
+          "Production is split between Everett and North Charleston, and final assembly has been only in South Carolina since March 2021. Boeing's August 2026 order book listed 1,163 787s still to be delivered, and United's fleet of 96 active aircraft in October 2026 made it the largest Dreamliner operator, ahead of All Nippon Airways.{{ref:wiki-787}}{{ref:forecast}}{{ref:bolt-ops}} Fleet sizes in the operator list vary between sources and dates.{{ref:wiki-ops}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-787",
+      "name": "Boeing 787 Dreamliner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner"
+    },
+    {
+      "id": "wiki-grounding",
+      "name": "2013 Boeing 787 Dreamliner grounding",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2013_Boeing_787_Dreamliner_grounding"
+    },
+    {
+      "id": "fg-ntsb",
+      "name": "NTSB faults Boeing, FAA and contractors for 787 battery fire",
+      "publisher": "FlightGlobal",
+      "url": "https://flightglobal.com/ntsb-faults-boeing-faa-and-contractors-for-787-battery-fire/115268.article"
+    },
+    {
+      "id": "newsonair",
+      "name": "AAIB says final report on AI-171 crash will be released upon completion of all investigative activities",
+      "publisher": "All India Radio",
+      "url": "https://newsonair.gov.in/aaib-says-final-report-on-ai-171-crash-will-be-released-upon-completion-of-all-investigative-activities/"
+    },
+    {
+      "id": "bt-ai171",
+      "name": "Air India crash probe: Draft final report expected in first week of Oct in sealed cover",
+      "publisher": "Business Today",
+      "url": "https://businesstoday.in/latest/corporate/story/air-india-crash-probe-draft-final-report-expected-in-first-week-of-oct-in-sealed-cover-545728-2026-07-28"
+    },
+    {
+      "id": "forecast",
+      "name": "Airbus And Boeing Report August 2026 Commercial Aircraft Orders and Deliveries",
+      "publisher": "Forecast International",
+      "url": "https://flightplan.forecastinternational.com/?p=25660"
+    },
+    {
+      "id": "bolt-ops",
+      "name": "United Airlines Tops the List: The 7 Airlines With the Largest Dreamliner Fleets in 2026",
+      "publisher": "Boltflight",
+      "url": "https://boltflight.com/united-airlines-tops-the-list-the-7-airlines-with-the-largest-dreamliner-fleets-in-2026/"
+    },
+    {
+      "id": "wiki-ops",
+      "name": "List of Boeing 787 operators",
+      "publisher": "Wikipedia",
+      "url": "https://wikipedia.com/wiki/List_of_Boeing_787_operators"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "List of Boeing 787 operators - Wikipedia",
+      "url": "https://wikipedia.com/wiki/List_of_Boeing_787_operators"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2009-12-15",
+      "title": "First flight from Paine Field",
+      "tag": "First flight",
+      "summary": "The first 787-8 flew from Paine Field in Everett, Washington.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner"
+    },
+    {
+      "date": "2011-12-06",
+      "title": "Test aircraft sets a distance record to Dhaka",
+      "tag": "Record flight",
+      "summary": "Test aircraft ZA006 flew 10,710 nmi non-stop from Boeing Field in Seattle to Dhaka, a record for its weight class.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner"
+    },
+    {
+      "date": "2013-01-07",
+      "title": "Battery fire on a parked JAL 787 at Boston",
+      "tag": "Battery fire",
+      "summary": "The auxiliary power unit battery of an empty Japan Airlines 787-8 overheated and caught fire at Boston Logan. The NTSB later faulted Boeing, its battery suppliers and the FAA's oversight.",
+      "source": "https://flightglobal.com/ntsb-faults-boeing-faa-and-contractors-for-787-battery-fire/115268.article"
+    },
+    {
+      "date": "2013-01-16",
+      "title": "ANA 787 diverts to Takamatsu and the fleet is grounded",
+      "tag": "Emergency landing and grounding",
+      "summary": "An All Nippon Airways 787 made an emergency landing at Takamatsu after a smoke warning from an electrical compartment, and the FAA grounded every 787 that day. US Dreamliners returned to service on 19th April 2013 after battery changes.",
+      "source": "https://en.wikipedia.org/wiki/2013_Boeing_787_Dreamliner_grounding"
+    },
+    {
+      "date": "2025-06-12",
+      "title": "Air India Flight 171 crashes after takeoff from Ahmedabad",
+      "tag": "Fatal crash (first 787 hull loss)",
+      "summary": "A 787-8 bound for London Gatwick crashed shortly after takeoff, killing 260 people. The AAIB's preliminary report was issued on 12th July 2025 and a draft final report was expected in October 2026, with no final report published in the sources checked.",
+      "fatalities": 260,
+      "source": "https://newsonair.gov.in/aaib-says-final-report-on-ai-171-crash-will-be-released-upon-completion-of-all-investigative-activities/"
+    },
+    {
+      "date": "2025-10-04",
+      "title": "Air India 787-8 deploys its ram air turbine on approach",
+      "tag": "Uncommanded RAT deployment",
+      "summary": "An Air India 787-8 flying from Amritsar to Birmingham, flight AI117, had its ram air turbine deploy at about 400 ft on approach. The sources checked describe it as a separate event under DGCA scrutiny.",
+      "source": "https://aviospace.org/?p=17065"
+    }
+  ]
+}

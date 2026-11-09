@@ -1,0 +1,188 @@
+{
+  "name": "Mirage 2000D",
+  "fullName": "Dassault Mirage 2000D",
+  "manufacturer": "Dassault Aviation",
+  "originCountry": { "name": "France", "code": "fr" },
+  "category": "military",
+  "categories": ["fighter-jets"],
+  "role": "Two-Seat Conventional Strike Aircraft",
+  "tagline": "The Dassault Mirage 2000D is a single-engine, two-seat delta-wing attack aircraft built for the French Air and Space Force from the nuclear-strike Mirage 2000N. It entered service in the mid 1990s, flew in the Balkans, Afghanistan, Libya and Mali, and 86 were built.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "A French Mirage was shot down over Bosnia on 30th August 1995 by a shoulder-fired missile during Operation Deliberate Force. Both crew ejected and were held prisoner for about 104 days before their release on 12th December 1995. Sources disagree on whether the aircraft was a 2000N or a 2000D.",
+    "The type's combat debut came on 5th September 1995, when 2000Ds dropped AS.30L laser-guided missiles on targets in Bosnia.",
+    "France built 86 Mirage 2000Ds between 1992 and 2000, and about 70 remain in service after a mid-life upgrade that was declared operational on 9th April 2025.",
+    "In 2013 Chad-based 2000Ds dropped the first bombs of Operation Serval in Mali, and three more moved to Bamako from 17th January that year.",
+    "The two-seat 2000D carried no internal cannon. A 30 mm gun pod on the left chin pylon was added only with the mid-life upgrade.",
+    "The type is expected to fly until at least 2035, after which the Rafale becomes France's only multirole fighter."
+  ],
+  "specifications": {
+    "specificationsNote": "Speed, ceiling and ferry range are the published figures for the Mirage 2000 family, because no separate 2000D figures were found. Length is given as 14.55 m in the source used, and other sources list 14.36 m or 14.9 m. Height is quoted between 5.10 m and 5.20 m, so it is left out. Empty weight is left out because the sources checked gave 7,500 kg, 7,600 kg and 10,960 kg for different versions. Service entry is given as April 1993 by one source and April 1995 by another, and 1995 is used here. No per-aircraft price for the 2000D was found. A figure of about 23 million US dollars is quoted for the Mirage 2000 family as a whole, and it varies widely by version.",
+    "maxSpeed": { "mph": 1453, "text": "1,263 kn (1,453 mph / 2,338 km/h)" },
+    "range": { "miles": 2076, "text": "2,076 mi (3,340 km) ferry range with external tanks" },
+    "serviceCeiling": { "ft": 55970, "text": "55,970 ft (17,060 m)" },
+    "wingspan": { "ft": 29.9, "text": "29 ft 11 in (9.13 m)" },
+    "length": { "ft": 47.7, "text": "47 ft 9 in (14.55 m)" },
+    "weight": "MTOW: 37,479 lb (17,000 kg)",
+    "engines": "1 x SNECMA M53-P2 afterburning turbofan, 14,300 lbf (64 kN) dry and 21,400 lbf (95.1 kN) with afterburner",
+    "armament": "Nine hardpoints for up to 13,889 lb (6,300 kg) of stores, including AASM, GBU-12, GBU-24 and GBU-49 guided bombs, SCALP-EG cruise missiles, AS.30L missiles, MICA and Magic 2 air-to-air missiles, and a 30 mm CC422 gun pod after the upgrade",
+    "crew": "2 (pilot and weapons systems officer)",
+    "capacity": "Up to 13,889 lb (6,300 kg) of external stores on nine hardpoints",
+    "firstFlight": { "date": "1991-02-19", "year": 1991 },
+    "serviceEntryDate": "1995",
+    "retiredDate": null,
+    "numberBuilt": 86,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no price for the 2000D alone was found, and a figure of about $23M quoted for the wider Mirage 2000 family varies by version and year",
+      "inflationText": null
+    },
+    "combatLosses": "One French Mirage shot down over Bosnia on 30th August 1995 (listed as a 2000N or a 2000D depending on the source), and one lost in Afghanistan on 24th May 2011 with both crew recovered"
+  },
+  "variants": [
+    {
+      "code": "Mirage 2000D (R1)",
+      "desc": "The first production standard, a conventional-attack two-seater based on the 2000N airframe and radar, with the nuclear mission removed. Early aircraft reached squadrons in 1995 without the Apache cruise missile or the SCALP-EG, so they relied on laser-guided bombs and AS.30L missiles. The French Air Force first used them in anger over Bosnia in September 1995."
+    },
+    {
+      "code": "Mirage 2000D (R2)",
+      "desc": "The second standard added the Apache stand-off weapon, the SCALP-EG cruise missile and the ATLIS II laser designator pod, giving the aircraft a longer reach against fixed targets. A weapons update programme followed from 2005. The Apache was later withdrawn from use, and France donated a number of its SCALP-EG missiles to Ukraine."
+    },
+    {
+      "code": "Mirage 2000D RMV",
+      "desc": "The mid-life renovation, or Rénovation Mi-Vie, added a 30 mm CC422 gun pod on the left chin pylon, MICA missiles in place of the Magic, and the AASM and the GBU-48 and GBU-50 family of guided bombs. Around 50 to 55 aircraft were upgraded, and the programme was declared operational at Nancy-Ochey on 9th April 2025."
+    }
+  ],
+  "operators": [
+    {
+      "name": "French Air and Space Force (Armée de l'Air et de l'Espace)",
+      "role": "Sole Operator",
+      "status": "In Service",
+      "since": "1995",
+      "fleetSize": "About 70 in service (86 built)",
+      "homeBase": "BA 133 Nancy-Ochey, France"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "MIR2",
+    "howToFind": "Search type MIR2. French Mirage 2000Ds rarely show on public trackers, so most sightings come from airshow or ferry flights."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "New entry for the Mirage 2000D, covering the Bosnia shoot-down, the Afghanistan, Libya and Mali deployments and the recent mid-life upgrade.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": ["mirage 2000d", "mirage 2000", "dassault", "french air force", "strike aircraft", "delta wing", "mirage 2000n", "scalp", "apache", "rmv", "nancy-ochey", "operation serval"],
+  "article": {
+    "overview": [
+      "The Dassault Mirage 2000D is a single-engine, two-seat, delta-wing attack aircraft built for the French Air and Space Force. It is a conventional-strike derivative of the nuclear-armed Mirage 2000N, and 86 were built before production ended in 2000.{{ref:wiki-nd}}",
+      "About 70 remain in service at Nancy-Ochey after a mid-life upgrade, and France plans to keep the type flying until at least 2035.{{ref:mili}}{{ref:twz}}"
+    ],
+    "sections": [
+      {
+        "heading": "From Nuclear Strike to Conventional Attack",
+        "paragraphs": [
+          "The 2000D grew out of the Mirage 2000N, the two-seat low-level nuclear strike version that carried the ASMP missile. Dassault removed the nuclear role and fitted the airframe for guided conventional weapons, and the prototype was a converted 2000N that first flew on 19th February 1991. The first production aircraft flew on 31st March 1993.{{ref:wiki-nd}}",
+          "Sources disagree on when the type entered service, giving April 1993 in one case and April 1995 in another. France built 86 between 1992 and 2000, against 75 Mirage 2000Ns, and the 2000D remained in the line after the 2000N was retired on 21st June 2018.{{ref:wiki-nd}}{{ref:mili}}"
+        ]
+      },
+      {
+        "heading": "Design & Weapons",
+        "paragraphs": [
+          "The aircraft keeps the Mirage 2000's tailless delta wing and its single SNECMA M53-P2 engine, which gives about 95 kN of thrust with afterburner. It has nine hardpoints for up to 13,889 lb of stores, and the second seat holds a weapons systems officer who runs the sensors and designator while the pilot flies.{{ref:wiki-nd}}",
+          "The first production aircraft carried laser-guided bombs and AS.30L missiles. Later aircraft could use the Apache and SCALP-EG stand-off missiles and the ATLIS II designator pod. The early two-seater had no internal cannon, and a gun pod arrived only with the later upgrade.{{ref:wiki-nd}}{{ref:twz}}"
+        ]
+      },
+      {
+        "heading": "Bosnia & the Balkans",
+        "paragraphs": [
+          "The 2000D's combat debut came on 5th September 1995 during Operation Deliberate Force, when aircraft from EC 1/3 Navarre and EC 3/3 Ardennes fired AS.30L missiles at targets in Bosnia.{{ref:gs}}",
+          "A French Mirage was shot down near Pale on 30th August 1995 by an SA-14 or Igla shoulder-fired missile. Both crew ejected and were captured by Bosnian Serb forces. They were held for roughly 104 days and handed to the French chief of staff on 12th December 1995. Wikipedia lists the aircraft as a 2000N, while FlightGlobal calls it a 2000D.{{ref:fg}}{{ref:rut}}{{ref:asm}}"
+        ]
+      },
+      {
+        "heading": "Afghanistan, Libya & Mali",
+        "paragraphs": [
+          "French Mirage 2000Ds flew laser-guided bomb missions over Afghanistan from 2001 and 2002, operating from Manas in Kyrgyzstan from 2002 to 2004, then from Dushanbe in Tajikistan from 2004 to 2007, and later from Kandahar. On 24th May 2011 a 2000D from Nancy-Ochey crashed about 100 km west of Farah, and both crew ejected and were recovered.{{ref:gs}}{{ref:asn}}",
+          "In Libya in 2011 the type flew with the Mirage F1CR, and on 20th October a pair of aircraft dropped two GBU-12 bombs on a convoy near Sirte in what is reported to be the last NATO weapons release of the campaign. In Mali, Chad-based 2000Ds dropped the first bombs of Operation Serval from 11th January 2013, and three more moved to Bamako from 17th January.{{ref:wiki-nd}}"
+        ]
+      },
+      {
+        "heading": "The Upgrade & Outlook to 2035",
+        "paragraphs": [
+          "The mid-life renovation brought a 30 mm gun pod on the left chin pylon, MICA missiles in place of the Magic, and new guided bombs including the AASM. Around 50 to 55 aircraft were upgraded, and the programme was declared operational at Nancy-Ochey on 9th April 2025.{{ref:twz}}{{ref:avi}}",
+          "The Apache has been withdrawn and France donated SCALP-EG missiles to Ukraine, so the stand-off reach of the fleet is smaller than it was in 2010. The type is single-engined and carries no radar-evading features, which limits where it can operate against modern air defences, and it is expected to serve until at least 2035 before the Rafale takes over the role.{{ref:twz}}{{ref:mili}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    { "id": "wiki-nd", "name": "Dassault Mirage 2000N/2000D", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Dassault_Mirage_2000N/2000D" },
+    { "id": "mili", "name": "French Knife: Mirage 2000D Fighter and Prospects of Its Use in UAF", "publisher": "Militarnyi", "url": "https://militarnyi.com/en/articles/french-knife-mirage-2000d-fighter-and-prospects-of-its-use-in-uaf/" },
+    { "id": "twz", "name": "Deeply Upgraded Mirage 2000D RMV Attack Jet Is Back In French Service", "publisher": "The War Zone", "url": "https://www.twz.com/air/deeply-upgraded-mirage-2000drmv-attack-jet-is-back-in-french-service" },
+    { "id": "avi", "name": "France Fields Mirage 2000D RMV", "publisher": "The Aviationist", "url": "https://theaviationist.com/2025/04/14/france-fields-mirage-2000d-rmv/" },
+    { "id": "gs", "name": "Mirage 2000 Operations", "publisher": "GlobalSecurity.org", "url": "https://www.globalsecurity.org/military/world/europe/mirage-2000-ops.htm" },
+    { "id": "asn", "name": "Mirage 2000D 612 crash, Afghanistan, May 2011", "publisher": "Aviation Safety Network", "url": "https://aviation-safety.net/wikibase/60225" },
+    { "id": "fg", "name": "Mirage shot down during NATO air strikes", "publisher": "FlightGlobal", "url": "https://www.flightglobal.com/mirage-shot-down-during-nato-air-strikes/14710.article" },
+    { "id": "rut", "name": "Serbian Digest: Mirage crew held in Bosnia", "publisher": "Rutgers University Libraries", "url": "https://serbiandigest.libraries.rutgers.edu/node/1973" },
+    { "id": "asm", "name": "Question on the French airmen held in Bosnia, 1995", "publisher": "Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE86487.pdf" }
+  ],
+  "furtherReading": [
+    { "name": "Dassault Mirage 2000 - Wikipedia", "url": "https://en.wikipedia.org/wiki/Dassault_Mirage_2000" },
+    { "name": "France quietly expands the fleet of upgraded Mirage 2000D RMV - Army Recognition", "url": "https://armyrecognition.com/news/aerospace-news/2025/france-quietly-expands-the-fleet-of-upgraded-mirage-2000d-rmv-fighter-jets-as-ukraine-needs-grow" }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1991-02-19",
+      "title": "Prototype first flight",
+      "tag": "First flight",
+      "summary": "The prototype, a converted Mirage 2000N, made the first flight of the 2000D programme on 19th February 1991.",
+      "source": "https://en.wikipedia.org/wiki/Dassault_Mirage_2000N/2000D"
+    },
+    {
+      "date": "1995-08-30",
+      "title": "French Mirage shot down near Pale, Bosnia",
+      "tag": "Shot down",
+      "summary": "A French Mirage was hit by a shoulder-fired missile near Pale on 30th August 1995 during Operation Deliberate Force. Both crew ejected and were taken prisoner, and they were released on 12th December 1995. Sources list the aircraft as a 2000N or a 2000D.",
+      "fatalities": 0,
+      "source": "https://www.flightglobal.com/mirage-shot-down-during-nato-air-strikes/14710.article"
+    },
+    {
+      "date": "1995-09-05",
+      "title": "Combat debut over Bosnia",
+      "tag": "First combat use",
+      "summary": "Mirage 2000Ds from EC 1/3 Navarre and EC 3/3 Ardennes fired AS.30L missiles in their first combat use on 5th September 1995.",
+      "source": "https://www.globalsecurity.org/military/world/europe/mirage-2000-ops.htm"
+    },
+    {
+      "date": "2011-05-24",
+      "title": "Mirage 2000D lost near Farah, Afghanistan",
+      "tag": "Crash",
+      "summary": "A 2000D from BA 133 Nancy-Ochey crashed about 100 km west of Farah on 24th May 2011. Both crew ejected and were recovered.",
+      "fatalities": 0,
+      "source": "https://aviation-safety.net/wikibase/60225"
+    },
+    {
+      "date": "2013-01-11",
+      "title": "First bombs of Operation Serval",
+      "tag": "Combat",
+      "summary": "Chad-based 2000Ds dropped the first bombs of the French intervention in Mali, and three more aircraft moved to Bamako from 17th January 2013.",
+      "source": "https://en.wikipedia.org/wiki/Dassault_Mirage_2000N/2000D"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "Mid-life upgrade declared operational",
+      "tag": "Milestone",
+      "summary": "The upgraded Mirage 2000D RMV was declared operational at Nancy-Ochey on 9th April 2025.",
+      "source": "https://www.twz.com/air/deeply-upgraded-mirage-2000drmv-attack-jet-is-back-in-french-service"
+    }
+  ],
+  "survivors": {
+    "intro": "The Mirage 2000D is still in front-line service, and no museum airframes were found in the sources checked.",
+    "airframes": []
+  }
+}

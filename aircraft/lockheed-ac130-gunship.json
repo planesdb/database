@@ -1,0 +1,389 @@
+{
+  "name": "AC-130",
+  "fullName": "Lockheed AC-130 Gunship",
+  "manufacturer": "Lockheed (now Lockheed Martin)",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Fixed-Wing Gunship",
+  "tagline": "The Lockheed AC-130 is a heavily armed gunship converted from the C-130 Hercules transport, with side-firing cannon that orbit a target in a left-hand turn. It has flown for the US Air Force since 1967 in Vietnam, the Gulf War, Afghanistan and Iraq, and the AC-130J Ghostrider is the version now in service.",
+  "status": "In Service",
+  "inProduction": false,
+  "quickFacts": [
+    "AC-130H Spirit 03 was shot down on 31st January 1991 during the Battle of Khafji by an Iraqi shoulder-fired missile and crashed into the Persian Gulf. All 14 crew were killed, the largest single loss of life for a US Air Force unit in Desert Storm and about 10 percent of the AC-130H fleet.",
+    "On 22nd and 23rd October 1997 two AC-130Us flew about 36 hours nonstop to South Korea, refuelling seven times, which is reported as the longest sustained C-130 flight.",
+    "An AC-130U struck the Doctors Without Borders trauma centre in Kunduz on 3rd October 2015, killing 42 people. A US inquiry found human error compounded by system and procedure failures, and 16 service members were disciplined with no criminal charges.",
+    "Six AC-130s and 52 aircrew were lost in the Vietnam War, including AC-130E and AC-130A aircraft shot down by 37 mm and 57 mm guns, SA-2 and SA-7 missiles.",
+    "A planned laser weapon of 120 kW or more for the AC-130J was ruled out in 2024 because the side mounting caused turbulence.",
+    "The AC-130J costs about $165M per aircraft, and the planned fleet was cut from 37 to 30 aircraft in the fiscal 2023 budget request."
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the AC-130J Ghostrider, from the AFSOC fact sheet and Air and Space Forces Magazine. Earlier versions used four Allison T56-A-15 engines of 4,300 shp. Maximum take-off weight is 164,000 lb in the Air Force sources and 155,000 lb in Wikipedia, and the Air Force figure is used. Service ceiling is 28,000 ft in the fact sheet and 39,000 ft in one infobox, and the lower figure is used. Crew is listed as seven, eight or nine depending on the source. The unit cost is the figure on the Air Force fact sheet, current as of January 2025, and a 2019 article quoted 115 million dollars. The planned fleet of 37 was cut to 30, although the fact sheet still lists 37. Earlier AC-130H and AC-130U price figures were quoted in fiscal 2001 dollars and are not used here. Empty weight was not found.",
+    "maxSpeed": {
+      "mph": 416,
+      "text": "362 kn (416 mph / 670 km/h)"
+    },
+    "range": {
+      "miles": 3000,
+      "text": "3,000 mi (4,828 km), limited by crew duty day with air refuelling"
+    },
+    "serviceCeiling": {
+      "ft": 28000,
+      "text": "28,000 ft (8,534 m)"
+    },
+    "wingspan": {
+      "ft": 132.6,
+      "text": "132 ft 7 in (39.7 m)"
+    },
+    "length": {
+      "ft": 97.8,
+      "text": "97 ft 9 in (29.3 m)"
+    },
+    "height": {
+      "ft": 39.2,
+      "text": "39 ft 2 in (11.9 m)"
+    },
+    "weight": "MTOW: 164,000 lb (74,392 kg)",
+    "engines": "4 x Rolls-Royce AE 2100D3 turboprops, 4,700 shp each, with six-blade propellers",
+    "armament": "30 mm GAU-23/A cannon, 105 mm M102 howitzer on Block 20 and later aircraft, AGM-176 Griffin and AGM-114 Hellfire missiles, GBU-39 Small Diameter Bomb and GBU-53/B StormBreaker, and GBU-69 Small Glide Munition",
+    "crew": "Up to 9 (two pilots, combat systems officers, a sensor operator and special mission aviators)",
+    "firstFlight": {
+      "year": 1967
+    },
+    "serviceEntryDate": "September 1967",
+    "retiredDate": null,
+    "numberBuilt": 30,
+    "unitCost": {
+      "usd": 165000000,
+      "text": "$165M per AC-130J (Air Force fact sheet, 2025)",
+      "inflationText": null
+    },
+    "combatLosses": "Six AC-130s lost in Vietnam, and AC-130H Spirit 03 shot down on 31st January 1991 with all 14 crew killed"
+  },
+  "variants": [
+    {
+      "code": "AC-130A (Gunship II)",
+      "desc": "The first operational Hercules gunship, converted from JC-130A 54-1626 as the prototype in 1967 to replace the AC-47. About 19 were converted, with side-firing 20 mm and 40 mm guns, and the first reached South Vietnam in September 1967. They moved to the Air Force Reserve in 1975 and were retired in 1995."
+    },
+    {
+      "code": "AC-130E / AC-130H (Pave Spectre, Spectre)",
+      "desc": "The E and H models added more powerful engines and a 105 mm howitzer in place of the earlier 20 mm guns. The AC-130H became the Spectre, and eight were upgraded. The Spirit 03 loss on 31st January 1991 removed one. The last, 69-6569 Excalibur, retired on 26th May 2015."
+    },
+    {
+      "code": "AC-130U (Spooky II)",
+      "desc": "The AC-130U was built from new C-130H airframes with a 25 mm GAU-12/U, a 40 mm Bofors and a 105 mm howitzer, and had computerised fire control. The fleet numbered 17 in 2010. It made its final combat return on 8th July 2019 and retired in June 2020."
+    },
+    {
+      "code": "AC-130W (Stinger II)",
+      "desc": "The AC-130W was converted from MC-130W Combat Spear tankers, with 14 aircraft finished by September 2013. It added Griffin and Hellfire missiles and Small Diameter Bombs to a 30 mm cannon, and later a 105 mm gun. Its retirement is listed as 2022 in one source."
+    },
+    {
+      "code": "AC-130J (Ghostrider)",
+      "desc": "The fifth generation gunship is built on the C-130J with a two-pilot flight deck and digital avionics, a 30 mm GAU-23/A cannon and a 105 mm gun on Block 20 and later aircraft. Initial operating capability came on 30th September 2017 with six aircraft, and the fleet was planned at 37 then cut to 30."
+    }
+  ],
+  "operators": [
+    {
+      "name": "US Air Force Special Operations Command (AC-130J)",
+      "role": "Primary Operator",
+      "status": "In Service",
+      "since": "2017",
+      "fleetSize": "30 planned after a cut from 37 (fact sheet lists 37 by fiscal 2024)",
+      "homeBase": "Hurlburt Field, Florida and Cannon AFB, New Mexico, USA"
+    },
+    {
+      "name": "US Air Force Special Operations Command (AC-130U and AC-130W)",
+      "role": "Operator",
+      "status": "Retired",
+      "fleetSize": "17 AC-130U in 2010; 14 AC-130W by September 2013",
+      "homeBase": "Hurlburt Field, Florida, USA"
+    },
+    {
+      "name": "US Air Force Special Operations Command (AC-130H)",
+      "role": "Operator",
+      "status": "Retired",
+      "fleetSize": "8 upgraded AC-130H; last retired 26th May 2015",
+      "homeBase": "Hurlburt Field, Florida, USA"
+    },
+    {
+      "name": "US Air Force Reserve (AC-130A)",
+      "role": "Operator",
+      "status": "Retired",
+      "since": "1975",
+      "fleetSize": "About 19 AC-130A converted; retired 1995",
+      "homeBase": "United States"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "C130",
+    "howToFind": "Search type C130. Gunships almost never broadcast on public trackers, so sightings are limited to airshows and ferry flights."
+  },
+  "lastUpdated": "2026-11-08",
+  "changelog": [
+    {
+      "date": "2026-11-08",
+      "change": "New AC-130 page covering all five gunship versions, the Vietnam losses, Spirit 03, the Kunduz strike and the museum airframes.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "ac-130",
+    "ac-130j",
+    "ac-130u",
+    "ac-130h",
+    "ac-130a",
+    "ac-130w",
+    "gunship",
+    "ghostrider",
+    "spectre",
+    "spooky",
+    "stinger ii",
+    "c-130 hercules",
+    "special operations",
+    "afsoc",
+    "spirit 03",
+    "kunduz"
+  ],
+  "article": {
+    "overview": [
+      "The Lockheed AC-130 is a gunship converted from the C-130 Hercules, with a side-firing gun battery that fires while the aircraft flies a left-hand orbit around a target. It has been in US Air Force service since September 1967, when the first aircraft reached South Vietnam.{{ref:wiki-ac130}}",
+      "The AC-130J Ghostrider, the fifth generation, is the version now in service with Air Force Special Operations Command.{{ref:afsoc}}"
+    ],
+    "sections": [
+      {
+        "heading": "From AC-47 to Gunship II",
+        "paragraphs": [
+          "Gunship II was developed in the Vietnam War to replace the AC-47, a smaller gunship converted from the DC-3. JC-130A 54-1626 became the prototype in 1967, and the first AC-130s reached South Vietnam in September of that year.{{ref:wiki-ac130}}",
+          "Later versions followed in sequence, with the AC-130E, the AC-130H Spectre, the AC-130U Spooky II built from new C-130H airframes, the AC-130W Stinger II converted from MC-130W tankers, and the AC-130J Ghostrider built on the C-130J.{{ref:wiki-ac130}}"
+        ]
+      },
+      {
+        "heading": "Vietnam: Six Aircraft and 52 Aircrew",
+        "paragraphs": [
+          "AC-130s flew night interdiction against supply trucks on the Ho Chi Minh Trail and supported troops during the 1968 Tet Offensive. Six AC-130s and 52 aircrew were lost in the war, with aircraft shot down on 24th May 1969 and 22nd April 1970 by 37 mm guns, on 28th March 1972 by an SA-2, and on 30th March 1972 by a 57 mm gun during a rescue mission.{{ref:wiki-ac130}}",
+          "Two more were lost to an SA-7 missile on 18th June 1972 and to 37 mm guns on 21st and 22nd December 1972. After the war the gunships were used during the Iran hostage crisis, when they flew nonstop from Hurlburt Field to Guam in 1979 and 1980, and in Grenada in 1983 and Panama in 1989.{{ref:wiki-ac130}}"
+        ]
+      },
+      {
+        "heading": "Spirit 03 & the Gulf War",
+        "paragraphs": [
+          "On 31st January 1991, during the Battle of Khafji, AC-130H 69-6567 of the 16th Special Operations Squadron was shot down by an Iraqi shoulder-fired SA-7 missile and crashed into the Persian Gulf. All 14 crew were killed, the largest single loss of life by a US Air Force unit in Desert Storm and about 10 percent of the AC-130H fleet.{{ref:sof}}{{ref:afsoc-spirit}}",
+          "A 1992 report said the aircraft kept firing for three to five minutes after being ordered to leave, and the crew received the Silver Star and the Purple Heart. On 26th February 1991 AC-130A Azrael attacked convoys on the Highway of Death.{{ref:tampa}}{{ref:wiki-ac130}}"
+        ]
+      },
+      {
+        "heading": "Afghanistan, Iraq & Kunduz",
+        "paragraphs": [
+          "AC-130s flew over Afghanistan from 2001, including the Kunduz surrender and Qala-i-Jangi, and in March 2002 three Spectres flew 39 missions during Operation Anaconda. They flew close air support in Iraq from 2003 to 2011 and in Libya in March 2011.{{ref:wiki-ac130}}",
+          "On 3rd October 2015 an AC-130U with the call sign Hammer struck the Doctors Without Borders trauma centre in Kunduz over about 30 minutes, killing 42 people including 14 staff. The US inquiry released on 29th April 2016 found human error compounded by system and procedure failures, and 16 service members were disciplined, including a two-star general, with no criminal charges. President Obama apologised on 7th October 2015, and the charity called the strike a war crime.{{ref:wiki-kunduz}}{{ref:centcom}}{{ref:pbs}}{{ref:msf}}"
+        ]
+      },
+      {
+        "heading": "The Ghostrider & Outlook",
+        "paragraphs": [
+          "The AC-130J reached initial operating capability on 30th September 2017 and replaced the AC-130U and AC-130W fleets. It carries a 30 mm cannon, a 105 mm gun on later blocks, and standoff missiles and glide bombs. The AC-130J costs about $165M per aircraft, and the planned fleet was cut from 37 to 30 in the fiscal 2023 budget request.{{ref:afsoc}}{{ref:defnews}}",
+          "A planned laser weapon of 120 kW or more was ruled out by AFSOC in 2024 because of turbulence from its side mounting. Future plans include a possible AESA radar, small cruise missiles, and the launch tests of the Black Arrow missile announced in 2025.{{ref:wiki-ac130}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-ac130",
+      "name": "Lockheed AC-130",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_AC-130"
+    },
+    {
+      "id": "afsoc",
+      "name": "AC-130J Ghostrider fact sheet",
+      "publisher": "Air Force Special Operations Command",
+      "url": "https://www.afsoc.af.mil/About-Us/Fact-Sheets/Display/Article/2547234/ac-130j-ghostrider/"
+    },
+    {
+      "id": "defnews",
+      "name": "Special ops airmen get fewer new gunships than promised",
+      "publisher": "Defense News",
+      "url": "https://www.defensenews.com/?p=32614"
+    },
+    {
+      "id": "sof",
+      "name": "Spirit 03: downed AC-130H during Desert Storm",
+      "publisher": "SOF News",
+      "url": "https://sof.news/history/spirit-03-downed-ac-130h-during-desert-storm"
+    },
+    {
+      "id": "afsoc-spirit",
+      "name": "Spirit 03 remembered",
+      "publisher": "Air Force Special Operations Command",
+      "url": "https://www.afsoc.af.mil/News/Article-Display/Article/162638/spirit-03-remembered"
+    },
+    {
+      "id": "tampa",
+      "name": "Doomed plane was ordered home",
+      "publisher": "Tampa Bay Times",
+      "url": "https://www.tampabay.com/archive/1992/01/06/doomed-plane-was-ordered-home/"
+    },
+    {
+      "id": "wiki-kunduz",
+      "name": "Kunduz hospital airstrike",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike"
+    },
+    {
+      "id": "centcom",
+      "name": "Investigation results on the Kunduz strike",
+      "publisher": "US Central Command",
+      "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/904574/"
+    },
+    {
+      "id": "pbs",
+      "name": "Punishments but no criminal charges in US attack on hospital",
+      "publisher": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/punishments-but-no-criminal-charges-in-u-s-attack-on-hospital"
+    },
+    {
+      "id": "msf",
+      "name": "MSF's questions in response to the US military investigation",
+      "publisher": "Doctors Without Borders",
+      "url": "https://doctorswithoutborders.org/latest/msfs-questions-response-us-military-investigation-attack-msf-hospital-kunduz"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "AC-130J Ghostrider - Air and Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/weapons/ac-130j/"
+    },
+    {
+      "name": "Department of Defense briefing on the Kunduz investigation - GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2016/04/mil-160429-dod02.htm"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1969-05-24",
+      "title": "AC-130A shot down by 37 mm guns",
+      "tag": "Shot down",
+      "summary": "An AC-130A was shot down by 37 mm anti-aircraft guns on 24th May 1969, the first of six AC-130s lost in Vietnam.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_AC-130"
+    },
+    {
+      "date": "1972-03-30",
+      "title": "AC-130E shot down during a rescue mission",
+      "tag": "Shot down",
+      "summary": "An AC-130E was lost to a 57 mm gun on 30th March 1972 during a search and rescue operation.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_AC-130"
+    },
+    {
+      "date": "1991-01-31",
+      "title": "Spirit 03 shot down at Khafji",
+      "tag": "Shot down",
+      "summary": "AC-130H 69-6567 of the 16th Special Operations Squadron was shot down on 31st January 1991 by an Iraqi shoulder-fired missile and crashed into the Persian Gulf. All 14 crew were killed.",
+      "fatalities": 14,
+      "source": "https://sof.news/history/spirit-03-downed-ac-130h-during-desert-storm"
+    },
+    {
+      "date": "1997-10-22",
+      "title": "Longest sustained C-130 flight",
+      "tag": "Record",
+      "summary": "Two AC-130Us flew about 36 hours nonstop to Taegu, South Korea, on 22nd and 23rd October 1997, refuelling seven times in flight.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_AC-130"
+    },
+    {
+      "date": "2015-10-03",
+      "title": "Kunduz trauma centre struck",
+      "tag": "Civilian casualties",
+      "summary": "An AC-130U struck the Doctors Without Borders trauma centre in Kunduz on 3rd October 2015, killing 42 people including 14 staff. The US inquiry found human error compounded by system and procedure failures.",
+      "source": "https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike"
+    },
+    {
+      "date": "2019-07-08",
+      "title": "AC-130U final combat return",
+      "tag": "Retirement",
+      "summary": "The AC-130U made its final return from combat on 8th July 2019, and the fleet retired in June 2020.",
+      "source": "https://en.wikipedia.org/wiki/Lockheed_AC-130"
+    }
+  ],
+  "survivors": {
+    "intro": "A selection of preserved AC-130s whose locations were confirmed in the sources checked, so not a full census.",
+    "airframes": [
+      {
+        "serial": "54-1626",
+        "name": "Gunship II",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson Air Force Base, Ohio, USA",
+        "note": "The prototype Hercules gunship, converted in 1967.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "54-1630",
+        "name": "Azrael",
+        "location": "National Museum of the United States Air Force",
+        "place": "Wright-Patterson Air Force Base, Ohio, USA",
+        "note": "An AC-130A on display in the Cold War Gallery.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "53-3129",
+        "name": "First Lady",
+        "location": "Air Force Armament Museum",
+        "place": "Eglin Air Force Base, Florida, USA",
+        "note": "An AC-130A on display.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "56-0509",
+        "name": "Ultimate End",
+        "location": "Heritage Air Park",
+        "place": "Hurlburt Field, Florida, USA",
+        "note": "An AC-130A on display.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "54-1623",
+        "name": "Ghost Rider",
+        "location": "Aviation Wing Museum",
+        "place": "Marietta, Georgia, USA",
+        "note": "An AC-130A on display.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "55-0014",
+        "name": "Jaws of Death",
+        "location": "Museum of Aviation",
+        "place": "Warner Robins, Georgia, USA",
+        "note": "An AC-130A on display.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "69-6575",
+        "name": "Wicked Wanda",
+        "location": "Hurlburt Field air park",
+        "place": "Hurlburt Field, Florida, USA",
+        "note": "An AC-130H on display.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "87-0128",
+        "name": "Big Daddy",
+        "location": "Hurlburt Field air park",
+        "place": "Hurlburt Field, Florida, USA",
+        "note": "An AC-130U on display.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  }
+}
