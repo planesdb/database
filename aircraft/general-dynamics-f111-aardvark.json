@@ -14,6 +14,7 @@
   "role": "Variable-Sweep Strike Aircraft",
   "tagline": "The General Dynamics F-111 Aardvark is a two-seat, twin-engine strike aircraft and the first production aircraft with variable-sweep wings, afterburning turbofans and automatic terrain-following radar. The U.S. Air Force flew it from 1967 to 1998, in Vietnam, over Libya and in the Gulf War, and the Royal Australian Air Force kept it until December 2010.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The name Aardvark was used unofficially from 1969 and only made official when the Air Force retired the F-111F on 27 July 1996.",
@@ -264,6 +265,11 @@
     {
       "date": "2026-10-04",
       "change": "Added the F-111 Aardvark - USAF and RAAF service, all the main variants, survivors and accident history.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

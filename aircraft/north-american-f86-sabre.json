@@ -13,6 +13,7 @@
   "role": "Cold War Jet Fighter",
   "tagline": "America's first swept-wing jet fighter and the dominant Allied type of the Korean War's 'MiG Alley' dogfights. Flying against the similarly capable Soviet-built MiG-15, Sabre pilots claimed a favourable kill ratio that helped establish jet-versus-jet combat as the new standard of aerial warfare.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "Developed from an initial straight-wing design that was reworked with a 35-degree swept wing after North American engineers gained access to captured German wartime aerodynamic research, the Sabre first flew in October 1947 and quickly proved itself capable of exceeding the speed of sound in a dive, becoming one of the first aircraft in the world to do so. It entered USAF service in 1949 and was rushed to Korea in late 1950 after American pilots flying older straight-wing F-80s and F-84s found themselves outclassed by the surprise appearance of Soviet-supplied, swept-wing MiG-15s flown by Soviet, Chinese and North Korean pilots. The resulting air battles over the Yalu River region, dubbed 'MiG Alley', became the first sustained jet-on-jet aerial combat in history; American pilots, benefiting from a superior gunsight and better training even though the MiG-15 could out-climb and out-turn the Sabre at altitude, claimed a kill ratio long cited as roughly 10:1 in the West, though post-Cold War access to Soviet records has led historians to revise that figure down considerably, with most now estimating a ratio closer to 2:1 in the Sabre's favour once losses on both sides are more completely accounted for. Beyond Korea, the Sabre was built and flown in vast numbers by dozens of allied air forces through license production, with total production (including derivatives) exceeding 9,800 aircraft, making it one of the most widely used Western fighters of the early Cold War before being superseded by second-generation supersonic designs like the F-100 and F-104 in frontline US service during the late 1950s.",
   "specifications": {
@@ -309,6 +310,11 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators roster from the full operators list - added the Taiwanese, Japanese, Spanish, South Korean and Australian fleets, gave every row a real delivered figure, and folded the remaining ~30 export customers into a combined row. Added a missing source.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

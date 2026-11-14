@@ -13,6 +13,7 @@
   "role": "Military Transport Aircraft",
   "tagline": "The legendary 'Gooney Bird' that served as the logistical backbone of Allied victory. A militarised derivative of the civilian DC-3 airliner, it carried paratroopers, towed gliders and hauled supplies over the Himalayan 'Hump', and General Dwight D. Eisenhower listed it alongside the bulldozer, the jeep and the atomic bomb as one of the most vital pieces of equipment of WWII.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "Faced with an urgent requirement for a standardised tactical military transport, the U.S. military adapted the hugely successful civilian DC-3 airliner, adding a strengthened cargo floor, a large cargo door, a reinforced rear fuselage and a shortened tail cone for glider-towing. The militarised C-47 logged its first flight on 23 December 1941 and entered USAAF service in early 1942. It became the backbone of Allied airborne operations: C-47s dropped paratroopers of the US 82nd and 101st Airborne and towed glider forces into Normandy in the early hours of D-Day, 6 June 1944, and repeated the role in Operation Market Garden and the Rhine crossing in 1945. In British and Commonwealth service as the 'Dakota', the type flew the same missions across every theatre, and in the China-Burma-India theatre, C-47s and their C-53 Skytrooper variant flew the perilous 'Hump' route over the Himalayas, delivering vital supplies to Nationalist Chinese forces after the Burma Road was cut off by Japanese advances - one of history's most dangerous sustained airlift operations, with hundreds of aircraft and crews lost to weather, altitude and enemy action. More than 10,000 C-47s and its variants were built during the war, and the airframe's legendary reliability meant it remained in frontline and reserve military service for decades afterward. It played a central role in the 1948 Berlin Airlift, flew again in Korea and Vietnam - including as the AC-47 'Spooky' gunship, the first fixed-wing gunship used in combat - and served in dozens of smaller conflicts, with a handful of military operators still flying converted turboprop examples into the 21st century. Thousands of war-surplus C-47s were also converted back to civilian DC-3 airliner configuration after 1945, extending the type's working life even further in commercial service.",
   "specifications": {
@@ -369,6 +370,11 @@
     {
       "date": "2026-09-09",
       "change": "Expanded the operators roster - added the US Navy R4D fleet, Soviet Li-2 licence production and a combined row for the roughly 100 other armed forces that have flown the type.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

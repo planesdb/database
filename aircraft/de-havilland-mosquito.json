@@ -1,0 +1,328 @@
+{
+  "name": "Mosquito",
+  "fullName": "de Havilland Mosquito",
+  "manufacturer": "de Havilland",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Multi-role fast bomber, fighter-bomber, night fighter and photo-reconnaissance aircraft",
+  "tagline": "The de Havilland Mosquito is a twin-engine, two-seat multi-role combat aircraft built almost entirely of wood, nicknamed the 'Wooden Wonder'. It first flew on 25th November 1940, 7,781 were built in Britain, Canada and Australia, and it served as a bomber, night fighter, fighter-bomber and reconnaissance aircraft until well after the war.",
+  "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
+  "inProduction": false,
+  "quickFacts": [
+    "The Mosquito's fuselage was a frameless plywood and balsa monocoque moulded in two halves, with birch plywood skins over Ecuadorean balsa cores about 0.55 in thick. Production was spread across furniture makers and car factories, and the Standard Motor Company alone built 1,066.{{ref:wiki-mosquito}}",
+    "In February 1941, the prototype W4050 reached 392 mph at 22,000 ft at Boscombe Down, against 360 mph at 19,500 ft for a Spitfire. In December 1943, a Merlin 77-powered test aircraft reached 439 mph.{{ref:wiki-mosquito}}",
+    "On 30th January 1943 Mosquitoes bombed Berlin in daylight twice: a morning raid cut off the main radio station while Hermann Göring was speaking, and an afternoon raid disrupted a speech by Joseph Goebbels.{{ref:wiki-mosquito}}",
+    "By the end of the war Mosquito bombers had the lowest loss rate of any aircraft in RAF Bomber Command. Mosquito night fighters destroyed 487 German aircraft, 257 of them with No. 100 Group between December 1943 and April 1945.{{ref:wiki-mosquito}}",
+    "The last airworthy Mosquito in Britain, T.III G-ASKH in RR299 markings, crashed one mile west of Manchester Barton Airport on 21st July 1996, killing pilot Kevin Moorhouse and engineer Steve Watson.{{ref:wiki-mosquito}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are the general ones for the Mosquito, which varied by mark. The FB Mk VI, built in 2,298 examples, had two Merlin 21s of 1,460 hp or Merlin 25s of 1,635 hp, and test aircraft HJ679 reached 384 mph after its stub exhausts were replaced.",
+    "maxSpeed": {
+      "mph": 415,
+      "text": "361 kn (415 mph / 668 km/h) at 28,000 ft"
+    },
+    "range": {
+      "miles": 1300,
+      "text": "1,300 mi (2,100 km, 1,100 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 37000,
+      "text": "37,000 ft (11,000 m)"
+    },
+    "wingspan": {
+      "ft": 54.2,
+      "text": "54 ft 2 in (16.51 m)"
+    },
+    "length": {
+      "ft": 44.5,
+      "text": "44 ft 6 in (13.56 m)"
+    },
+    "height": {
+      "ft": 17.4,
+      "text": "17 ft 5 in (5.31 m)"
+    },
+    "weight": "empty: 14,300 lb (6,486 kg); gross: 18,100 lb (8,210 kg); MTOW: 25,000 lb (11,340 kg)",
+    "engines": "2 x Rolls-Royce Merlin V-12 piston engines, 1,710 hp (1,280 kW) each, driving 3-bladed constant-speed propellers",
+    "armament": "Fighter and fighter-bomber versions: 4 x 20 mm Hispano cannon and 4 x .303 in Browning machine guns; bombs up to 4,000 lb (1,800 kg) on later bomber versions, 2,000 lb or eight RP-3 rockets on the FB Mk VI",
+    "crew": "2 (pilot and navigator or bomb aimer)",
+    "capacity": "Up to 4,000 lb of bombs in the largest bomb-bay versions",
+    "firstFlight": {
+      "date": "1940-11-25",
+      "year": 1940
+    },
+    "serviceEntryDate": "1941",
+    "retiredDate": "1996-07-21",
+    "numberBuilt": 7781,
+    "combatLosses": "Nos. 105 and 139 Squadrons lost 51 aircrew between May 1942 and April 1943; by the end of the war the bomber versions had the lowest loss rate in RAF Bomber Command"
+  },
+  "variants": [
+    {
+      "code": "PR Mk I / PR XVI (photo reconnaissance)",
+      "desc": "The first operational Mosquito, with PR Mk I W4055 flying the first sortie on 17th September 1941 and escaping three Bf 109s at 23,000 ft. Unarmed and fast, the PR versions carried cameras instead of weapons and flew high over German territory, relying on speed and altitude to avoid interception."
+    },
+    {
+      "code": "B Mk IV",
+      "desc": "The unarmed fast bomber that started the Mosquito's reputation, carrying four 500 lb bombs and no defensive guns. Later versions carried a 4,000 lb 'Cookie' blockbuster. It flew daylight and night raids on German cities, and with No. 109 Squadron's Oboe equipment marked targets for the main bomber stream."
+    },
+    {
+      "code": "FB Mk VI",
+      "desc": "The fighter-bomber, built in 2,298 examples, nearly a third of all Mosquito production. It carried four 20 mm Hispano cannon and four .303 machine guns, plus up to 2,000 lb of bombs or eight rockets. FB.VIs formed the Banff Strike Wing, which attacked German shipping off Norway from September 1944."
+    },
+    {
+      "code": "NF Mk II / XIII / XVII / XIX / 30 (night fighters)",
+      "desc": "Fighters with radar in the nose, protecting Britain at night and, with No. 100 Group, hunting German night fighters over Europe. Mosquito fighters destroyed 487 German aircraft in the war. The NF.XIX also served the Swedish Air Force, which bought 60."
+    },
+    {
+      "code": "B Mk XX / FB.26 (Canadian-built)",
+      "desc": "De Havilland Canada built Mosquitoes in Toronto, including 245 B Mk XX bombers as the Canadian version of the IV and 25 B Mk VII. The sources give different totals for Canadian production, from about 1,030 to about 1,130. Up to 180 surplus Canadian Mosquitoes were flown by Nationalist China in 1947 to 1949."
+    },
+    {
+      "code": "T Mk III and T.43 (trainers)",
+      "desc": "Dual-control trainers, built in Britain as the T Mk III and in Australia as the T.43. De Havilland Australia built 212 Mosquitoes in Sydney in all. A T.III was the last Mosquito airworthy in Britain until its 1996 crash, and T.IIIs still fly as warbirds in the United States."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Primary operator",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "Retired",
+      "homeBase": "RAF Marham - Norfolk"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Operator and wartime production",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "Retired",
+      "homeBase": "Canada"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Operator of Australian-built aircraft",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "Retired",
+      "homeBase": "Australia"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Post-war fighter-bomber and trainer",
+      "status": "Retired",
+      "since": "1948",
+      "fleetSize": "Retired",
+      "homeBase": "Israel"
+    },
+    {
+      "name": "British Airways",
+      "role": "BOAC fast courier flights to Sweden",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "Retired",
+      "homeBase": "Leuchars - Scotland"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "Five Mosquitoes are airworthy, in the United States, Canada and New Zealand, but they fly only at air shows and rarely appear on live trackers. Check the Military Aviation Museum in Virginia Beach and the Flying Heritage Collection in Everett for display days."
+  },
+  "lastUpdated": "2026-11-13",
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the de Havilland Mosquito - the wooden airframe, the main wartime raids and roles, post-war users, the 1996 crash, and where the survivors are.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Mosquito",
+    "de Havilland",
+    "Wooden Wonder",
+    "Mossie",
+    "Pathfinder",
+    "Oboe",
+    "FB.VI",
+    "night fighter",
+    "Banff Strike Wing",
+    "WWII"
+  ],
+  "article": {
+    "overview": [
+      "The de Havilland Mosquito is a twin-engine, two-seat combat aircraft built mainly of plywood and balsa. It first flew on 25th November 1940, and 7,781 were built in Britain, Canada and Australia. It served as a fast bomber, a night fighter, a fighter-bomber and a reconnaissance aircraft.{{ref:wiki-mosquito}}",
+      "Its wood construction freed it from the aluminium shortage, and its two Rolls-Royce Merlin engines in a small airframe made it one of the fastest piston aircraft of the war. Bomber Command's Mosquito versions suffered the lowest loss rate of any aircraft in the command by 1945.{{ref:wiki-mosquito}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: The Wooden Bomber",
+        "paragraphs": [
+          "The Air Ministry doubted the idea of a wooden bomber when de Havilland proposed it, and Lord Beaverbrook, then Minister of Aircraft Production, also called the project 'Freeman's Folly'. The company argued that a fast, unarmed bomber built from a material that was in good supply would be hard for fighters to catch.{{ref:wiki-mosquito}}",
+          "The prototype, W4050, first flew at Hatfield on 25th November 1940 with Geoffrey de Havilland Jr. at the controls. In February 1941 at Boscombe Down it reached 392 mph at 22,000 ft, faster than the Spitfire's 360 mph at 19,500 ft. The result was enough to start production in earnest.{{ref:wiki-mosquito}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The fuselage was a frameless monocoque, built as two halves and then joined. The sandwich skin was birch plywood over Ecuadorean balsa, about 0.55 in thick, and the wings were one-piece all-wood units with spars running from tip to tip, covered in fabric. Production was spread across furniture factories and car makers, including the Standard Motor Company, which built 1,066.{{ref:wiki-mosquito}}",
+          "The material had weaknesses. Loss of control accidents were three times more frequent in Mosquitoes than in other types, according to records cited in the Far East crash investigations, which looked at structural failures of the wooden wings in tropical conditions.{{ref:wiki-mosquito}}"
+        ]
+      },
+      {
+        "heading": "Raids, Pathfinders & Night Fighting",
+        "paragraphs": [
+          "The Mosquito's first operational sortie was by PR Mk I W4055 on 17th September 1941. Bomber Mosquitoes began operations in May 1942, and on 25th September 1942 a raid on Oslo became famous. On 30th January 1943 two Mosquito raids on Berlin interrupted speeches by Göring and Goebbels. The Oboe radar navigation system, first used by No. 109 Squadron against Düsseldorf on 31st December 1942, let Mosquitoes mark targets precisely for the heavy bombers behind them.{{ref:wiki-mosquito}}",
+          "On 18th February 1944 FB Mk VIs attacked Amiens Prison, in Operation Jericho, to free members of the French Resistance. Night-fighter Mosquitoes destroyed 487 German aircraft, with No. 100 Group claiming 257 between December 1943 and April 1945, and the top-scoring pilot, Branse Burbridge, claimed 21. The Banff Strike Wing, formed in September 1944 from Nos. 143, 144, 235 and 248 Squadrons and the Norwegian 333 Squadron, attacked German shipping off Norway.{{ref:wiki-mosquito}}"
+        ]
+      },
+      {
+        "heading": "BOAC Couriers and Post-war Service",
+        "paragraphs": [
+          "BOAC used Mosquitoes as fast transports for small, high-value cargo between neutral countries. Several were lost, including G-AGGF near Glenshee on 17th August 1943, G-AGKP off Leuchars on 19th August 1944 with all three aboard killed, and G-AGKR, which disappeared on a flight from Göteborg to Leuchars on 29th August 1944.{{ref:wiki-mosquito}}",
+          "After the war Israel flew T.IIIs and 60 FB.VIs, Yugoslavia took 60 NF.38s, 80 FB.VIs and three T.IIIs, Sweden bought 60 NF.XIXs and Czechoslovakia received 19 FB.VIs in 1948. Other users included China, France, New Zealand, Turkey, Norway, South Africa and Belgium, and the Soviet Union received at least one aircraft.{{ref:wiki-mosquito}}"
+        ]
+      },
+      {
+        "heading": "Survivors & the 1996 Crash",
+        "paragraphs": [
+          "About 30 Mosquitoes survive, and five are airworthy, in the United States, Canada and New Zealand. The prototype W4050 is at the de Havilland Aircraft Museum at London Colney, and B.35s are on display at the RAF Museum in London and the Imperial War Museum Duxford.{{ref:wiki-mosquito-survivors}}",
+          "On 21st July 1996, the last airworthy Mosquito in Britain, T.III G-ASKH in RR299 markings, crashed one mile west of Barton Airport, Manchester, killing pilot Kevin Moorhouse and engineer Steve Watson. Today's flying Mosquitoes are in the United States, Canada and New Zealand.{{ref:wiki-mosquito}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-mosquito",
+      "name": "de Havilland Mosquito",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+    },
+    {
+      "id": "wiki-mosquito-survivors",
+      "name": "List of surviving de Havilland Mosquitos",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "de Havilland Mosquito on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+    },
+    {
+      "name": "List of surviving de Havilland Mosquitos",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1943-08-17",
+      "title": "BOAC Mosquito G-AGGF crash at Glenshee",
+      "tag": "Controlled flight into terrain",
+      "summary": "A BOAC Mosquito used on the Leuchars to Stockholm courier route crashed near Glenshee, Perthshire. It was one of several lost on the route during the war.",
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+    },
+    {
+      "date": "1944-08-19",
+      "title": "BOAC Mosquito G-AGKP lost in the North Sea",
+      "tag": "Loss in flight",
+      "summary": "G-AGKP crashed into the North Sea off Leuchars, killing all three aboard.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+    },
+    {
+      "date": "1944-08-29",
+      "title": "BOAC Mosquito G-AGKR disappears",
+      "tag": "Loss in flight",
+      "summary": "G-AGKR disappeared on a flight from Göteborg to Leuchars, and both crew were lost.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+    },
+    {
+      "date": "1996-07-21",
+      "title": "Mosquito G-ASKH (RR299) crash at Barton",
+      "tag": "Loss of control",
+      "summary": "The last airworthy Mosquito in Britain, a T.III wearing RR299 markings, crashed one mile west of Manchester Barton Airport, killing pilot Kevin Moorhouse and engineer Steve Watson.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+    }
+  ],
+  "survivors": {
+    "intro": "About 30 of the 7,781 Mosquitoes built survive, and five are airworthy: three in the United States, one in Canada and one in New Zealand. Seven more are under restoration.",
+    "airframes": [
+      {
+        "serial": "W4050",
+        "name": "The prototype",
+        "location": "de Havilland Aircraft Museum",
+        "place": "London Colney, Hertfordshire, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos",
+        "note": "The first Mosquito, flown at Hatfield on 25th November 1940, on display at the museum.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "KA114",
+        "name": "FB.26",
+        "location": "Military Aviation Museum",
+        "place": "Virginia Beach, Virginia, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos",
+        "note": "A Canadian-built FB.26, airworthy.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "TV959",
+        "name": "T.III",
+        "location": "Flying Heritage and Combat Armor Museum",
+        "place": "Everett, Washington, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos",
+        "note": "A T.III trainer, airworthy.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "VR796",
+        "name": "B.35",
+        "location": "KF Aerospace Centre for Excellence",
+        "place": "Kelowna, British Columbia, Canada",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos",
+        "note": "A B.35 bomber, airworthy.",
+        "countryCode": "ca",
+        "country": "Canada"
+      },
+      {
+        "serial": "A52-1054",
+        "name": "T.43",
+        "location": "Private owners",
+        "place": "Drury, North Island, New Zealand",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos",
+        "note": "A T.43, airworthy, owned by Charles Somers and Rod Lewis.",
+        "countryCode": "nz",
+        "country": "New Zealand"
+      },
+      {
+        "serial": "TJ138",
+        "name": "B.35",
+        "location": "Royal Air Force Museum",
+        "place": "London, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos",
+        "note": "A B.35 on display.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  }
+}

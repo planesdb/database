@@ -11,6 +11,7 @@
   "role": "Four-Seat Light Aircraft & Trainer",
   "tagline": "The Cessna 172 Skyhawk is an American four-seat, single-engine, high-wing light aircraft built by Cessna since 1956. More than 44,000 had been built by 2015, more than any other aircraft, and the 172S is still in production in Independence, Kansas.",
   "status": "In Service",
+  "condition": "Operational - Private",
   "inProduction": true,
   "quickFacts": [
     "More 172s have been built than any other aircraft, with over 44,000 completed by 2015.",
@@ -153,6 +154,11 @@
     {
       "date": "2026-09-28",
       "change": "Cessna 172 Skyhawk added - history, specs, variants, operators and accident record. Sources: Wikipedia, Textron Aviation, the FAA type certificate and accident records, GAMA shipment data and the Irish Defence Forces.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

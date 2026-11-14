@@ -13,6 +13,7 @@
   "role": "Heavy Transport Flying Boat",
   "tagline": "An eight-engine wooden flying boat built by Howard Hughes's Hughes Aircraft Company as a troop and cargo transport for the U.S. War Department, nicknamed the Spruce Goose. It flew once, on 2nd November 1947, and until 2019 had the largest wingspan of any aircraft ever flown.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Howard Hughes flew it once, on 2nd November 1947, for about one mile at roughly 70 ft and about 135 mph, and the flight lasted 26 seconds",
@@ -103,6 +104,11 @@
     {
       "date": "2026-11-06",
       "change": "New entry for the Hughes H-4 Hercules, covering the Senate hearings, the single 1947 flight, the 1993 move to McMinnville and the surviving airframe. Sources: Wikipedia, Evergreen museum coverage and Design World.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

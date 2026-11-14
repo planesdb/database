@@ -1,0 +1,296 @@
+{
+  "name": "727",
+  "fullName": "Boeing 727",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Short to medium range narrow-body trijet airliner",
+  "tagline": "The Boeing 727 is a three-engine, T-tail narrow-body airliner built by Boeing from 1963 to 1984. 1,832 were produced, it flew its first passengers for Eastern Air Lines on 1st February 1964, and a handful still fly cargo and special-mission work.",
+  "status": "In Service",
+  "condition": "Operational - Commercial",
+  "inProduction": false,
+  "quickFacts": [
+    "Boeing launched the 727 on 5th December 1960 with 40 orders each from United Airlines and Eastern Air Lines. The three engines were a compromise between United's wish for four, American's for two and Eastern's for a third over the Caribbean.{{ref:wiki-727}}",
+    "The 727-100 made its first flight on 9th February 1963 and entered service with Eastern Air Lines on 1st February 1964 on Miami to Washington to Philadelphia.{{ref:wiki-727}}",
+    "A total of 1,832 727s were built, and production ended in September 1984. For more than a decade more 727s were built each year than any other jet airliner.{{ref:wiki-727}}",
+    "On 24th November 1971 a hijacker using the name Dan Cooper parachuted from the aft airstair of a Northwest Orient 727 with US$200,000. Boeing then added the Cooper vane to stop the stair opening in flight, and the man was never identified.{{ref:wiki-727}}{{ref:wiki-cooper}}",
+    "On 25th May 2003 a former American Airlines 727-223, N844AA, took off from Luanda in Angola without clearance and has never been found.{{ref:wiki-n844aa}}",
+    "As of March 2024 the 727 had suffered 353 incidents, including 120 hull losses with 4,211 fatalities. The deadliest was Mexicana Flight 940 on 31st March 1986, with 167 fatalities.{{ref:wiki-727}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the 727-200. The 727-100 is 133 ft 2 in long, and the 727-200 Advanced raised MTOW to 209,500 lb with up to 2,550 nmi of range. The page gives no maximum speed or service ceiling, and the cruise range shown is 467 to 515 kn. The -200 range is 1,900 nmi in the table and 1,930 nmi in the text, and seat counts differ between the table and the text.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "Not published; cruise 467 to 515 kn (537 to 593 mph)"
+    },
+    "cruiseSpeed": "467 to 515 kn (537 to 593 mph / 865 to 954 km/h)",
+    "range": {
+      "miles": 2186,
+      "text": "1,900 nmi (2,186 mi / 3,519 km)"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Not published in the sources checked"
+    },
+    "wingspan": {
+      "ft": 108,
+      "text": "108 ft 0 in (32.92 m)"
+    },
+    "length": {
+      "ft": 153.17,
+      "text": "153 ft 2 in (46.69 m)"
+    },
+    "height": {
+      "ft": 34.92,
+      "text": "34 ft 11 in (10.64 m)"
+    },
+    "weight": "empty: 97,650 lb (44,290 kg); MTOW: 172,000 lb (78,000 kg)",
+    "engines": "3 x Pratt & Whitney JT8D-7, -9 or -11, 14,000 to 15,000 lbf each",
+    "crew": "3",
+    "capacity": "134 passengers in two classes, 155 in a single class",
+    "firstFlight": {
+      "date": "1963-02-09",
+      "year": 1963
+    },
+    "serviceEntryDate": "1964-02-01",
+    "numberBuilt": 1832,
+    "unitCost": {
+      "usd": null,
+      "text": "Not published in the sources checked",
+      "inflationText": null
+    },
+    "retiredDate": null
+  },
+  "variants": [
+    {
+      "code": "727-100",
+      "desc": "The original short-bodied 727, 133 ft 2 in long, with 407 built. It first flew on 9th February 1963 and entered service with Eastern Air Lines on 1st February 1964. The wingspan is 108 ft and MTOW is 169,000 lb. Two-class seating is around 106, though the source gives 125 in its table."
+    },
+    {
+      "code": "727-100C and 727-100QC",
+      "desc": "Convertible versions that could be switched between passenger and cargo use. The QC, or Quick Change, version could be converted in 30 minutes. The source gives 164 for the convertibles in its table and, in the text, 53 -100Cs and 111 -100QCs. The two sets of figures conflict."
+    },
+    {
+      "code": "727-200",
+      "desc": "The stretched 727, 20 ft longer at 153 ft 2 in, with a first flight on 27th July 1967. Northeast Airlines took the first delivery on 14th December 1967. The source gives 1,245 in a table and 310 in the text for the -200 before the Advanced replaced it, and the two numbers conflict."
+    },
+    {
+      "code": "727-200 Advanced",
+      "desc": "Introduced in 1970 with more power, more fuel and a higher weight, up to 209,500 lb MTOW and 10,585 US gallons of fuel. It carried JT8D-9, -15, -17 or -17R engines of 14,500 to 17,400 lbf. The text counts 935 passenger Advanced aircraft, and range grew to 2,550 nmi."
+    },
+    {
+      "code": "727-200F Advanced and QF",
+      "desc": "The freighter 727-200F Advanced had 15 built for Federal Express and was the last Boeing-completed 727. The QF was a cargo conversion carried out for UPS with Rolls-Royce Tay engines in place of the JT8D, which gave the three-engine airframe a late-life power upgrade."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Eastern Air Lines",
+      "role": "Passenger airline",
+      "status": "Retired",
+      "since": "1964",
+      "fleetSize": "Not published; 40 ordered at launch",
+      "homeBase": "United States"
+    },
+    {
+      "name": "United Airlines",
+      "role": "Passenger airline",
+      "status": "Retired",
+      "since": "1963",
+      "fleetSize": "Not published; 40 ordered at launch",
+      "homeBase": "United States"
+    },
+    {
+      "name": "American Airlines",
+      "role": "Passenger airline",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "Not published; 52 Raisbeck Stage 3 noise kits ordered",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Lufthansa",
+      "role": "Passenger airline",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "1 delivered as a 727-30, later acquired by the FAA",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "National Airlines",
+      "role": "Passenger airline",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "4 727-35s, later acquired by the USAF for Air National Guard transport",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Olympic Airways",
+      "role": "Passenger airline",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "Not published; first aircraft SX-CBA",
+      "homeBase": "Greece"
+    },
+    {
+      "name": "FedEx Express",
+      "role": "Cargo airline",
+      "status": "Retired",
+      "since": "1978",
+      "fleetSize": "Not published; the backbone of its fleet until 2007 and 84 retired aircraft donated",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Safe Air Company, IFL Group, USA Jet Airlines, Air Class and Solar Cargo",
+      "role": "Cargo and charter operators",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "11 combined in January 2026 (3, 2, 2, 2 and 2)",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B722",
+    "howToFind": "Search for ICAO type B722 for the 727-200, or B721 for the 727-100, on a public tracker. The few remaining aircraft are cargo and charter operators, plus special-mission aircraft."
+  },
+  "tags": [
+    "727",
+    "Boeing",
+    "trijet",
+    "D. B. Cooper",
+    "N844AA",
+    "airstair",
+    "FedEx",
+    "JT8D"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Boeing 727, with the trijet design story, production history, the D. B. Cooper hijacking, the missing N844AA and the remaining flying fleet.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Boeing 727 is a three-engine, T-tail narrow-body airliner, built by Boeing after the 707 to serve shorter routes from smaller airports. It was launched on 5th December 1960 and flew its first passengers with Eastern Air Lines on 1st February 1964.{{ref:wiki-727}}",
+      "A total of 1,832 were built, with 1,831 delivered to customers and one kept by Boeing as a test aircraft. Production ended in September 1984, and the 727 is the aircraft whose airstair a hijacker used to escape in 1971.{{ref:wiki-727}}{{ref:wiki-cooper}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: One Aircraft for Three Customers",
+        "paragraphs": [
+          "Boeing launched the 727 on 5th December 1960 with orders for 40 aircraft each from United Airlines and Eastern Air Lines. United wanted four engines for high-altitude airports, American wanted two for efficiency, and Eastern wanted a third engine for overwater routes in the Caribbean. The three agreed on a trijet.{{ref:wiki-727}}",
+          "Boeing first planned Allison AR963 engines, a licensed Rolls-Royce Spey, but Eastern pushed for the Pratt and Whitney JT8D, which became the sole powerplant. One engine sits on each side of the rear fuselage, and the centre engine takes its air through an S-duct below the T-tail. De Havilland's Trident had a similar layout, and Boeing declined a joint venture.{{ref:wiki-727}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering: Stairs, Slats and a Tailskid",
+        "paragraphs": [
+          "The fuselage has an outer diameter of 148 in, enough for six-abreast seating with a single aisle. Leading-edge slats and Krueger flaps, with triple-slotted Fowler flaps, give a maximum lift coefficient of 3.0. Some carriers limited flaps to 30 degrees because the 40 degree setting could cause high sink rates or stalls on final approach.{{ref:wiki-727}}",
+          "An airstair is built into the rear underbelly, and it could be opened in flight until the Cooper vane was added. An APU sits in a hole in the keel beam web in the main landing gear bay, running the electrical and air systems without ground power or a main engine. A retractable tailskid protects against over-rotation on take-off, and nosewheel brakes were optional and cut landing distance by up to 490 ft.{{ref:wiki-727}}"
+        ]
+      },
+      {
+        "heading": "Dates, Orders and Production",
+        "paragraphs": [
+          "The first 727-100 was rolled out on 27th November 1962 and first flew on 9th February 1963. It received FAA type approval on 24th December 1963. United took the first delivery on 29th October 1963 for pilot training, and Eastern started passenger service on 1st February 1964.{{ref:wiki-727}}",
+          "The stretched -200, 20 ft longer, flew on 27th July 1967, and Northeast Airlines took the first delivery on 14th December 1967. Orders peaked at 187 in 1965, and deliveries peaked at 160 in 1968. The Advanced version followed in 1970, and the last Boeing-completed 727 was a 727-200F Advanced for Federal Express.{{ref:wiki-727}}"
+        ]
+      },
+      {
+        "heading": "D. B. Cooper",
+        "paragraphs": [
+          "On 24th November 1971, a man who gave the name Dan Cooper bought a one-way ticket on Northwest Orient Flight 305 from Portland to Seattle. The aircraft was a Boeing 727-100, registered N467US. He showed a flight attendant a briefcase with wires and red sticks, demanded US$200,000 and four parachutes, and after the aircraft landed at Seattle for the money and parachutes he had it take off again.{{ref:wiki-cooper}}",
+          "Cooper jumped from the aft airstair over the Pacific Northwest, and the aircraft landed at Reno with him gone. The FBI ended its active investigation in 2016, and it remains the only documented unsolved case of air piracy in commercial aviation. Boeing then added a device now known as the Cooper vane, which stops the airstair being lowered in flight.{{ref:wiki-727}}{{ref:wiki-cooper}}"
+        ]
+      },
+      {
+        "heading": "N844AA: The 727 That Vanished",
+        "paragraphs": [
+          "N844AA was a Boeing 727-223 built in 1975 and flown by American Airlines until 2000. In May 2003 it sat at Quatro de Fevereiro Airport in Luanda, Angola, under the control of Aerospace Sales and Leasing. On 25th May 2003, shortly before sunset, two men, Ben Charles Padilla Jr and John Mikel Mutantu, boarded it.{{ref:wiki-n844aa}}",
+          "It took off without clearance or a flight plan, and no trace of the aircraft has been found. The disappearance prompted a worldwide search by United States law enforcement and intelligence agencies, and the case remains unresolved.{{ref:wiki-n844aa}}"
+        ]
+      },
+      {
+        "heading": "Accidents and Military Roles",
+        "paragraphs": [
+          "As of March 2024 the 727 had suffered 353 incidents, including 120 hull losses, with 4,211 fatalities. The deadliest was Mexicana Flight 940 on 31st March 1986, with 167 fatalities. The source page does not give a full dated list of the accidents.{{ref:wiki-727}}",
+          "The CIA used the aft stair to drop agents and supplies behind enemy lines in Vietnam. An Iraqi modified 727, known as the Faw-727, served as an ELINT platform during the 1990 invasion of Kuwait. Three C-22B aircraft operated with the District of Columbia Air National Guard's 201st Airlift Squadron.{{ref:wiki-727}}"
+        ]
+      },
+      {
+        "heading": "Remaining Service and Preserved Aircraft",
+        "paragraphs": [
+          "In July 2013, 109 airframes were in service with 34 airlines, and three years later the figure was 64 airframes with 26 airlines. The last passenger flight listed was an Iran Aseman Airlines service from Zahedan to Tehran on 13th January 2019, though the infobox gives 22nd January 2019. In January 2026 commercial operators were Safe Air Company with 3, IFL Group with 2, USA Jet Airlines with 2, Air Class with 2 and Solar Cargo with 2.{{ref:wiki-727}}",
+          "The first 727 built, N7001U, is at the Museum of Flight in Seattle after a 15-minute FAA-permitted ferry flight on 2nd March 2016. The first delivered to a customer, N7004U, is in storage at the Pima Air and Space Museum, and N7017U is at the Museum of Science and Industry in Chicago. Preserved FedEx aircraft include N166FE at the Musee de l'air et de l'espace at Le Bourget.{{ref:wiki-727}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-727",
+      "name": "Boeing 727",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_727"
+    },
+    {
+      "id": "wiki-cooper",
+      "name": "D. B. Cooper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/D._B._Cooper"
+    },
+    {
+      "id": "wiki-n844aa",
+      "name": "2003 Angola Boeing 727 disappearance",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2003_Angola_Boeing_727_disappearance"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing 727 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_727"
+    },
+    {
+      "name": "D. B. Cooper on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/D._B._Cooper"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1971-11-24",
+      "title": "D. B. Cooper hijacking of Northwest Orient Flight 305",
+      "tag": "Hijacking",
+      "summary": "A man using the name Dan Cooper hijacked a Boeing 727-100, N467US, on a Portland to Seattle flight, received US$200,000 and parachutes, and jumped from the aft airstair. He was never identified.",
+      "source": "https://en.wikipedia.org/wiki/D._B._Cooper"
+    },
+    {
+      "date": "1986-03-31",
+      "title": "Mexicana Flight 940",
+      "tag": "Fatal accident",
+      "summary": "The deadliest 727 accident in the source checked, with 167 fatalities.",
+      "fatalities": 167,
+      "source": "https://en.wikipedia.org/wiki/Boeing_727"
+    },
+    {
+      "date": "2003-05-25",
+      "title": "N844AA disappears from Luanda",
+      "tag": "Disappearance",
+      "summary": "A former American Airlines 727-223 took off from Quatro de Fevereiro Airport without clearance or a flight plan and has never been found.",
+      "source": "https://en.wikipedia.org/wiki/2003_Angola_Boeing_727_disappearance"
+    }
+  ],
+  "lastUpdated": "2026-11-13"
+}

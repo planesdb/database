@@ -13,6 +13,7 @@
   "role": "Carrier-Based Air Superiority & Fleet Defense Fighter",
   "tagline": "The Grumman F-14 Tomcat is a twin-engine, variable-sweep-wing carrier fighter built for the U.S. Navy to intercept Soviet bombers and missiles at long range with its AWG-9 radar and AIM-54 Phoenix missile. It served the Navy from 1974 to 2006 and remains in Iranian service today, the only country ever to fly it in combat and, after Israeli airstrikes on its base at Isfahan in March 2026, possibly the last operator of any kind.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Its AIM-54 Phoenix could hit a target 100 nautical miles away, a reach no other US fighter weapon matched for a generation - though the missile was designed to stop Soviet bombers, not dogfight, and was rarely fired in anger.",
@@ -142,6 +143,11 @@
     {
       "date": "2026-09-08",
       "change": "Operators: corrected the US Navy fleet size from 0 to the total delivered, 632 aircraft (per USNI).",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

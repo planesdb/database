@@ -13,6 +13,7 @@
   "role": "Airborne Early Warning & Control Aircraft",
   "tagline": "The Saab GlobalEye is a multi-domain airborne early warning and control aircraft, built around the Erieye Extended Range radar and a Bombardier Global 6000 or 6500 business jet airframe. It entered service with the United Arab Emirates in April 2020, and in July 2026 NATO selected it to replace its ageing Boeing E-3A Sentry fleet.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "Saab sold the aircraft to its launch customer as the Swing Role Surveillance System - the \"swing role\" being the ability to switch between air, maritime and ground surveillance within a single sortie rather than flying a separate mission for each.",
@@ -152,6 +153,11 @@
     {
       "date": "2026-09-10",
       "change": "New entry for the Saab GlobalEye - history, specs, variants and operators. Sources: Saab product and press-release material, NATO's own announcement, Bombardier airframe data and named defence-aviation reporting.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

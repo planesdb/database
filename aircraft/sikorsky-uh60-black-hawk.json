@@ -13,6 +13,7 @@
   "role": "Utility Helicopter",
   "tagline": "The Sikorsky UH-60 Black Hawk is an American twin-engine, four-blade utility helicopter built for the U.S. Army, which has flown it since 1979 as its standard troop and cargo transport. More than 5,000 have been built, and by 2024 the Black Hawk was in service with 35 countries.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "The Black Hawk was shaped long and low so it could be carried inside a C-130 Hercules, one of the Army's original requirements.",
@@ -146,6 +147,11 @@
     {
       "date": "2026-09-24",
       "change": "Sikorsky UH-60 Black Hawk added - history, specs, variants, operators and accident record. Sources: U.S. Army, NTSB, Sikorsky archive, Wikipedia and defence press sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

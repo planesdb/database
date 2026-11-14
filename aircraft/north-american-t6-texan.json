@@ -11,6 +11,7 @@
   "role": "Advanced Trainer",
   "tagline": "The T-6 Texan is a single-engine, two-seat advanced trainer built by North American Aviation and flown under more names than almost any other aircraft - Texan in American service, Harvard across the Commonwealth, SNJ in the US Navy. 15,495 were built, and it taught the Allied air forces of the Second World War to fly fighters.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "15,495 were built, and it trained pilots for the USAAF, US Navy, RAF, RCAF and most Commonwealth air forces",
@@ -167,6 +168,11 @@
     {
       "date": "2026-09-10",
       "change": "North American T-6 Texan added - history, specs, variants, operators and accident record. Sources: Wikipedia and the WW2DB specification file.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

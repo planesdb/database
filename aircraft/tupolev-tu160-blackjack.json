@@ -13,6 +13,7 @@
   "role": "Supersonic Strategic Bomber / Cruise Missile Carrier",
   "tagline": "The Tu-160 is a four-engine, variable-sweep supersonic strategic bomber built by Tupolev for the Soviet Union and flown today by Russia's Long-Range Aviation. Guinness World Records lists it as the heaviest combat aircraft ever built, and at Mach 2.05 it remains the fastest bomber in frontline service anywhere in the world.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "Guinness World Records lists the Tu-160 as the heaviest combat aircraft ever built, at a maximum takeoff weight of 606,271 lb",
@@ -125,6 +126,11 @@
     {
       "date": "2026-09-09",
       "change": "New entry for the Tupolev Tu-160 Blackjack - history, specs, variants, operators and accident record. Sources: Wikipedia, The Aviation Geek Club, 19FortyFive and The War Zone.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

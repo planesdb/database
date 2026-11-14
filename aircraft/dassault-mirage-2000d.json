@@ -8,6 +8,7 @@
   "role": "Two-Seat Conventional Strike Aircraft",
   "tagline": "The Dassault Mirage 2000D is a single-engine, two-seat delta-wing attack aircraft built for the French Air and Space Force from the nuclear-strike Mirage 2000N. It entered service in the mid 1990s, flew in the Balkans, Afghanistan, Libya and Mali, and 86 were built.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "A French Mirage was shot down over Bosnia on 30th August 1995 by a shoulder-fired missile during Operation Deliberate Force. Both crew ejected and were held prisoner for about 104 days before their release on 12th December 1995. Sources disagree on whether the aircraft was a 2000N or a 2000D.",
@@ -74,7 +75,8 @@
       "date": "2026-11-08",
       "change": "New entry for the Mirage 2000D, covering the Bosnia shoot-down, the Afghanistan, Libya and Mali deployments and the recent mid-life upgrade.",
       "author": "planesdb"
-    }
+    },
+    { "date": "2026-11-14", "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.", "author": "planesdb" }
   ],
   "tags": ["mirage 2000d", "mirage 2000", "dassault", "french air force", "strike aircraft", "delta wing", "mirage 2000n", "scalp", "apache", "rmv", "nancy-ochey", "operation serval"],
   "article": {

@@ -13,6 +13,7 @@
   "role": "Flying-Wing Heavy Bomber Prototype",
   "tagline": "The Northrop YB-35 is an American four-engine, piston-powered flying-wing heavy bomber developed for the U.S. Army Air Forces in the 1940s. The XB-35 prototype first flew on 25 June 1946, but propeller and gearbox failures crippled the test programme, and every airframe had been scrapped or converted to jet power by 1949.",
   "status": "Retired",
+  "condition": "Scrapped",
   "inProduction": false,
   "quickFacts": [
     "Its 172 ft (52.4 m) wingspan is the same as that of the Northrop B-2 Spirit.",
@@ -116,6 +117,11 @@
     {
       "date": "2026-09-28",
       "change": "New entry for the Northrop YB-35 - history, specs, variants, operators and accident record. Sources: Wikipedia, This Day in Aviation and the National Museum of the U.S. Air Force.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

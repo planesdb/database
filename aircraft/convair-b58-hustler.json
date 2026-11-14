@@ -13,6 +13,7 @@
   "role": "Supersonic Strategic Bomber",
   "tagline": "The Convair B-58 Hustler was the U.S. Air Force's first operational supersonic bomber, a Mach 2 delta-wing aircraft that carried its nuclear weapon and extra fuel in a pod under the fuselage. It set 19 world speed and altitude records, but high running costs and a poor accident record ended its service in 1970, ten years after it entered it.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The pilot of the 12 January 1961 closed-circuit record flight, Maj. Henry Deutschendorf Sr., was the father of the singer John Denver.",
@@ -207,6 +208,11 @@
     {
       "date": "2026-10-04",
       "change": "Added the B-58 Hustler, with its record flights, all eight surviving airframes and the accident history.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

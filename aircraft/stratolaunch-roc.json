@@ -11,6 +11,7 @@
   "role": "Air-Launch Carrier Aircraft",
   "tagline": "The Stratolaunch Roc is a twin-fuselage, six-engine carrier aircraft built by Scaled Composites in Mojave, California, and the aircraft with the largest wingspan ever flown at 385 ft. It was designed to air-launch satellite rockets and now carries reusable hypersonic test vehicles for government and commercial customers.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "quickFacts": [
     "Roc's 385 ft (117 m) wingspan is longer than a football field and the largest of any aircraft that has flown.",
@@ -113,6 +114,11 @@
     {
       "date": "2026-10-08",
       "change": "New entry for the Stratolaunch Roc, including its test flights and the move from satellite launches to hypersonic testing. Sources: Stratolaunch, Wikipedia, The War Zone and Space.com.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

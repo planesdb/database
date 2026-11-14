@@ -13,6 +13,7 @@
   "role": "Twin-Engine Air Superiority Fighter",
   "tagline": "The Sukhoi Su-27 (NATO: Flanker) is a Soviet twin-engine, single-seat air superiority fighter with fly-by-wire controls, a pulse-Doppler radar and an infrared search and track sensor. The T-10 prototype first flew on 20 May 1977, production aircraft entered Soviet service in 1985, and 680 were built before manufacturing ended in 2010.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "The original T-10 needed a redesign completed in 1980, and two of the early prototypes were lost: T-10-2 crashed on 7 July 1978 after exceeding its g limit, and T-10-12 broke up in flight on 23 December 1981.",
@@ -211,6 +212,11 @@
     {
       "date": "2026-11-01",
       "change": "Expanded the article with the P-42 record climbs, the Cobra manoeuvre, the 1987 collision with a Norwegian Orion and the Sknyliv inquiry and trial.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

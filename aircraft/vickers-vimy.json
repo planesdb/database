@@ -1,0 +1,245 @@
+{
+  "name": "Vimy",
+  "fullName": "Vickers Vimy",
+  "manufacturer": "Vickers",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Heavy bomber and long-distance record aircraft",
+  "tagline": "The Vickers Vimy is a British twin-engine biplane heavy bomber designed by Rex Pierson. It first flew on 30th November 1917 and was built as a bomber, but in 1919 it made the first non-stop crossing of the Atlantic and the first flight from England to Australia.",
+  "status": "Retired",
+  "condition": "Preserved - Static Display",
+  "inProduction": false,
+  "quickFacts": [
+    "Captain John Alcock and Lieutenant Arthur Whitten Brown took off from Lester's Field, St John's, at about 1:45 pm on 14th June 1919 and landed in Derrigimlagh Bog near Clifden at 8:40 am on 15th June. They covered 1,890 miles (3,040 km) in 15 hours 57 minutes at an average of 115 mph.{{ref:wiki-alcock}}",
+    "The Smith brothers, Ross and Keith, left Hounslow Heath at 8:30 am on 12th November 1919 and reached Darwin at 4:10 pm on 10th December 1919. They flew 17,911 km in 135 hours 55 minutes of flying time, with Sergeants Wally Shiers and Jim Bennett as mechanics, and shared a prize of 10,000 Australian pounds.{{ref:wiki-vimy}}",
+    "The first prototype flew on 30th November 1917 from Joyce Green, flown by Captain Gordon Bell, and at Martlesham Heath it outlifted the Handley Page O/400.{{ref:wiki-vimy}}",
+    "Orders reached 776 aircraft, but Vickers completed only 112 for wartime service and just 13 had been delivered by the end of 1918.{{ref:wiki-vimy}}",
+    "Pierre van Ryneveld and Quintin Brand left Brooklands on 4th February 1920 in the Vimy Commercial G-UABA, Silver Queen, to fly to South Africa. Silver Queen II was wrecked at Bulawayo, and they finished the trip in a DH.9 and received 5,000 pounds each.{{ref:wiki-vimy}}",
+    "The Vimy's engines were two Rolls-Royce Eagle VIII of 300 hp each. A figure of 360 hp, which belongs to the Eagle IX of the Vimy Commercial, is also given for the Alcock and Brown aircraft.{{ref:wiki-vimy}}{{ref:wiki-alcock}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Vickers Vimy bomber. Production totals conflict in the sources: 776 were ordered, Vickers completed 112 for wartime use, Westland built 25 of a batch of 75, and some sources give higher totals, so no single build figure is used here. Engine power for the Alcock and Brown aircraft is given as 360 hp in one source against 300 hp for the Eagle VIII. The Alcock and Brown aircraft also carried 865 imperial gallons of fuel. The infobox gives a retirement date of 1933, while the text has 502 Squadron flying them to 1929 and the last in 1938.",
+    "maxSpeed": {
+      "mph": 100,
+      "text": "87 kn (100 mph / 161 km/h)"
+    },
+    "cruiseSpeed": "Not published in the source checked",
+    "range": {
+      "miles": 900,
+      "text": "900 mi (1,448 km, 782 nmi); the Alcock and Brown aircraft was modified to fly 1,890 mi (3,040 km) non-stop"
+    },
+    "serviceCeiling": {
+      "ft": 7000,
+      "text": "7,000 ft (2,134 m)"
+    },
+    "wingspan": {
+      "ft": 68.1,
+      "text": "68 ft 1 in (20.75 m)"
+    },
+    "length": {
+      "ft": 43.6,
+      "text": "43 ft 7 in (13.28 m)"
+    },
+    "height": {
+      "ft": 15.7,
+      "text": "15 ft 8 in (4.78 m)"
+    },
+    "weight": "empty: 7,104 lb (3,222 kg); MTOW: 10,884 lb (4,937 kg)",
+    "engines": "2 x Rolls-Royce Eagle VIII V-12 piston engines, 300 hp (224 kW) each",
+    "armament": "1 or 2 x .303 in Lewis guns on Scarff rings; up to 2,476 lb (1,123 kg) of bombs, normally 12 x 250 lb, with torpedoes possible",
+    "crew": "3",
+    "capacity": "Not applicable",
+    "firstFlight": {
+      "date": "1917-11-30",
+      "year": 1917
+    },
+    "serviceEntryDate": "1919",
+    "retiredDate": "1938 (last in service)",
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - no price found for the Vimy in the sources checked",
+      "inflationText": null
+    },
+    "combatLosses": "None - the type entered service after the First World War"
+  },
+  "variants": [
+    {
+      "code": "Vimy bomber",
+      "desc": "The heavy bomber that Vickers built to hit Germany, with a crew of three, two Eagle VIII engines and up to 2,476 lb of bombs. It was in front-line RAF service from 1919 to 1925, and No. 58 Squadron flew it in Egypt from July 1919."
+    },
+    {
+      "code": "Vimy Commercial",
+      "desc": "A civil airliner that first flew on 13th April 1919, and the version used for the Cape attempt. The prototype crashed at Tabora on 27th February 1920, and the Rolls-Royce Eagle IX of 360 hp is the engine associated with it."
+    },
+    {
+      "code": "Vimy Ambulance and Vernon",
+      "desc": "Five Vimy Ambulances were built to carry stretcher patients, and 55 Vernon transports followed for the RAF. The Cairo to Baghdad mail ran from 1921 to 1926."
+    },
+    {
+      "code": "Chinese Vimys",
+      "desc": "China ordered 100 Vimy Commercials and cut the order to 40, with 43 built. About 20 of them were converted to bombers."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Heavy bomber and mail aircraft",
+      "status": "Retired",
+      "since": "1919",
+      "fleetSize": "112 completed by Vickers for wartime use; 776 ordered",
+      "homeBase": "Egypt (No. 58 Squadron)"
+    },
+    {
+      "name": "Chinese Government",
+      "role": "Commercial and bomber conversion",
+      "status": "Retired",
+      "since": "1920s",
+      "fleetSize": "40 ordered after a cut from 100; 43 built",
+      "homeBase": "China"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No Vimy is airworthy. The original Alcock and Brown aircraft hangs in the Science Museum in London, and the 1994 replica NX71MY is at Brooklands Museum, Surrey, where it made its final flight on 15th November 2009."
+  },
+  "tags": [
+    "Vimy",
+    "Vickers",
+    "Alcock and Brown",
+    "transatlantic",
+    "First World War"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Vickers Vimy - the Alcock and Brown Atlantic flight, the England to Australia race, variants, operators and the three surviving aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Vickers Vimy was a British twin-engine biplane bomber designed by Rex Pierson. It first flew on 30th November 1917, entered service in 1919 and was in front-line RAF use until 1925, with 502 Squadron flying it until 1929. It was ordered in large numbers, but only 13 had been delivered by the end of 1918.{{ref:wiki-vimy}}",
+      "Its fame comes from three long-distance flights in 1919 and 1920: the first non-stop Atlantic crossing, the first flight from England to Australia, and the attempt to reach South Africa.{{ref:wiki-vimy}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: Too Late for the War",
+        "paragraphs": [
+          "The first prototype flew on 30th November 1917, flown by Captain Gordon Bell from Joyce Green. At Martlesham Heath it outlifted the Handley Page O/400, then the standard British heavy bomber. The second prototype crashed in April 1918 after an engine failure, and the third was destroyed on 11th September 1918.{{ref:wiki-vimy}}",
+          "Orders reached 776, and Vickers completed 112 for wartime service, with 13 delivered by the end of 1918. Westland built 25 of a batch of 75.{{ref:wiki-vimy}}"
+        ]
+      },
+      {
+        "heading": "Alcock and Brown Cross the Atlantic",
+        "paragraphs": [
+          "Captain John Alcock and Lieutenant Arthur Whitten Brown took off from Lester's Field, St John's, at about 1:45 pm on 14th June 1919. The aircraft carried 865 imperial gallons. The generator failed at 17:20, an exhaust pipe burst, and fog set in at 5 pm. At one point the aircraft went into a spiral dive. A snowstorm hit at 3 am, and the story that Brown climbed out onto the wings to clear ice is disputed, because he made no mention of it.{{ref:wiki-alcock}}",
+          "They landed in Derrigimlagh Bog near Clifden at 8:40 am on 15th June, after 15 hours 57 minutes in the air. The distance was 1,890 miles and the average speed 115 mph. The Daily Mail prize of 10,000 pounds was presented by Winston Churchill, and both men were knighted a week later. Alcock was killed on 18th December 1919 near Rouen in a Vickers Viking, and Brown died on 4th October 1948. The aircraft is in the Science Museum in London.{{ref:wiki-alcock}}"
+        ]
+      },
+      {
+        "heading": "England to Australia and the Cape Attempt",
+        "paragraphs": [
+          "Ross and Keith Smith left Hounslow Heath at 8:30 am on 12th November 1919 with Sergeants Wally Shiers and Jim Bennett, and reached Darwin at 4:10 pm on 10th December 1919. They flew 17,911 km in 135 hours 55 minutes. The prize was 10,000 Australian pounds, shared, and both brothers were knighted. Their aircraft, G-EAOU, is at Adelaide Airport. The rivals were a Sopwith Wallaby, an Alliance Seabird, a Blackburn Kangaroo, a Martinsyde and a DH.9.{{ref:wiki-vimy}}",
+          "The attempt to fly to South Africa was less successful. Pierre van Ryneveld and Quintin Brand left Brooklands on 4th February 1920 in G-UABA, Silver Queen. Silver Queen II was wrecked at Bulawayo, and they finished in a DH.9 and received 5,000 pounds each. The prototype Vimy Commercial had crashed at Tabora on 27th February 1920.{{ref:wiki-vimy}}"
+        ]
+      },
+      {
+        "heading": "Service in the RAF and Abroad",
+        "paragraphs": [
+          "No. 58 Squadron flew Vimys in Egypt from July 1919, and the Vernon variant carried mail from Cairo to Baghdad between 1921 and 1926. China ordered 100 Vimy Commercials, cut the order to 40, and built 43, with about 20 converted to bombers. The last RAF aircraft left service in 1938 by one count, though the infobox says 1933.{{ref:wiki-vimy}}",
+          "A replica, NX71MY, was built in 1994 and flew from England to Australia that year and from London to Cape Town in 1999. It has been at Brooklands since 2006 and made its final flight on 15th November 2009. A second replica, G-AWAU, built in 1969, is in storage.{{ref:wiki-vimy}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-vimy",
+      "name": "Vickers Vimy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vickers_Vimy"
+    },
+    {
+      "id": "wiki-alcock",
+      "name": "Transatlantic flight of Alcock and Brown",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transatlantic_flight_of_Alcock_and_Brown"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Vickers Vimy on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vickers_Vimy"
+    },
+    {
+      "name": "Transatlantic flight of Alcock and Brown on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transatlantic_flight_of_Alcock_and_Brown"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1918-09-11",
+      "title": "Third prototype destroyed",
+      "tag": "Accident",
+      "summary": "The third Vimy prototype was destroyed on 11th September 1918.",
+      "source": "https://en.wikipedia.org/wiki/Vickers_Vimy"
+    },
+    {
+      "date": "1920-02-27",
+      "title": "Vimy Commercial prototype crashes at Tabora",
+      "tag": "Crash on the Cape flight",
+      "summary": "The prototype Vimy Commercial crashed at Tabora on 27th February 1920 during the attempt to fly to South Africa.",
+      "source": "https://en.wikipedia.org/wiki/Vickers_Vimy"
+    }
+  ],
+  "survivors": {
+    "intro": "Three Vimys of historic importance survive: the Atlantic aircraft, the Australia aircraft and a flying replica.",
+    "airframes": [
+      {
+        "serial": "Alcock and Brown Vimy",
+        "name": "Atlantic aircraft",
+        "location": "Science Museum",
+        "place": "London, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Transatlantic_flight_of_Alcock_and_Brown",
+        "note": "The Vimy flown across the Atlantic on 14th to 15th June 1919.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "G-EAOU",
+        "name": "England to Australia Vimy",
+        "location": "Adelaide Airport",
+        "place": "Adelaide, Australia",
+        "url": "https://en.wikipedia.org/wiki/Vickers_Vimy",
+        "note": "The Smith brothers' Vimy from the 1919 flight.",
+        "featured": true,
+        "countryCode": "au",
+        "country": "Australia"
+      },
+      {
+        "serial": "NX71MY",
+        "name": "1994 replica",
+        "location": "Brooklands Museum",
+        "place": "Surrey, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Vickers_Vimy",
+        "note": "A flying replica built in 1994, at Brooklands since 2006 with its final flight on 15th November 2009.",
+        "featured": false,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

@@ -13,6 +13,7 @@
   "role": "Fifth-Generation Stealth Air-Superiority / Multirole Fighter",
   "tagline": "Russia's twin-engine answer to the F-22 and F-35. It combines low-observable shaping, internal weapons bays and supercruise performance, though independent analysts judge its radar cross-section and production numbers to trail well behind its American rivals.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "The Su-57 grew out of Russia's PAK FA (Perspective Aviation Complex of Frontline Aviation) programme launched in the 2000s to replace the MiG-29 and Su-27 with a genuine stealth fighter. The T-50 prototype first flew on 29 January 2010, and after a long, sanctions-slowed development the type - renamed Su-57 - entered serial production in 2019 and formally joined Russian Aerospace Forces service in December 2020. Early production was tiny, hampered by the loss of Ukrainian-sourced components after 2014 and by a fatal 2019 prototype crash, but output has since increased at the Komsomolsk-on-Amur plant. The Su-57 has flown in the war against Ukraine since shortly after the February 2022 invasion, initially launching missiles from within Russian airspace before later flights - escorted by Su-35s - fired Kh-59/Kh-69 stand-off cruise missiles at Ukrainian targets; Russian officials have also claimed unconfirmed air-to-air kills for the type. In June 2024 Ukraine claimed a long-range drone strike damaged or destroyed Su-57s at Akhtubinsk air base, illustrating the aircraft's continued vulnerability even far from the front line. In 2025-2026 Algeria became the Su-57's first confirmed export customer, taking delivery of Su-57E variants and making the type's combat debut outside Russian service a live possibility for the years ahead.",
   "specifications": {
@@ -281,6 +282,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

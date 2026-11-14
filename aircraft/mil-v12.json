@@ -14,6 +14,7 @@
   "role": "Heavy-Lift Helicopter (Prototype)",
   "tagline": "The Mil V-12 is a Soviet heavy-lift helicopter prototype with two side-by-side rotors on the tips of a wing, and at 105,000 kg the largest helicopter ever built. It still holds the helicopter record for lifting 40,204.5 kg to 2,255 m, set in 1969, but the programme was cancelled in 1974 after two prototypes.",
   "status": "Cancelled",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "With a maximum take-off weight of 105,000 kg, the V-12 is the largest helicopter ever built.",
@@ -136,6 +137,11 @@
     {
       "date": "2026-10-04",
       "change": "New entry for the Mil V-12, the biggest helicopter ever built, with its 1969 lifting records and where both prototypes ended up.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

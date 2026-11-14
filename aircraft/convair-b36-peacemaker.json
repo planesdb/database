@@ -14,6 +14,7 @@
   "role": "Intercontinental Strategic Bomber",
   "tagline": "The Convair B-36 Peacemaker was Strategic Air Command's main nuclear bomber from 1948 until the B-52 replaced it, and the largest mass-produced piston-engined aircraft ever built. Its 230 ft wingspan is the longest of any combat aircraft, and six pusher radials plus four jet engines gave it a range of up to 10,000 miles.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The B-36's 230 ft wingspan is the longest of any combat aircraft, and wider than the C-5 Galaxy's.",
@@ -193,6 +194,11 @@
     {
       "date": "2026-10-04",
       "change": "Added the B-36 Peacemaker - specs, variants, the SAC wings that flew it, the four survivors and the accident history.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -13,6 +13,7 @@
   "role": "WWII Heavy Strategic Bomber",
   "tagline": "Britain's principal night bomber of WWII and the aircraft of the Dambusters raid. Its cavernous 33-foot bomb bay could carry heavier loads than any other European bomber, from 4,000 lb 'Cookies' to the 22,000 lb Grand Slam, the heaviest weapon dropped in the war.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "The Lancaster was born from failure: Avro's twin-engined Manchester of 1939 was crippled by its unreliable Rolls-Royce Vulture engines, and chief designer Roy Chadwick's response - stretching the wing and fitting four proven Merlins instead - transformed a deathtrap into the war's finest heavy bomber. The prototype flew on 9 January 1941 and No. 44 Squadron flew the first operational sorties in March 1942.\n\nThe aircraft's defining night came on 16-17 May 1943, when nineteen specially modified Lancasters of the newly formed No. 617 Squadron, led by 24-year-old Wing Commander Guy Gibson, attacked the Ruhr dams with Barnes Wallis's 'bouncing bombs', breaching the Möhne and Eder dams at a cost of eight aircraft and 53 men - the raid that made both the squadron and the aircraft immortal. Lancasters went on to sink the battleship Tirpitz with 12,000 lb Tallboy bombs in November 1944, and in the war's final weeks flew Operation Manna food drops to starving Dutch civilians and repatriated 74,000 prisoners of war.\n\nPostwar, Lancasters served in maritime patrol into the 1950s (France retired the last military examples in 1964), and the type evolved into the Lincoln bomber, the Lancastrian airliner and the Shackleton patrol aircraft, whose airframes flew with the RAF until 1991 - a Chadwick lineage of exactly fifty years. PA474, built in 1945 and today one of the BBMF's crown jewels, entered a scheduled major maintenance programme in late 2025 to keep her flying for decades more.",
   "specifications": {
@@ -261,6 +262,11 @@
       "date": "2026-07-10",
       "change": "Entry created.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

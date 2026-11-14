@@ -13,6 +13,7 @@
   "role": "Multi-Role Tanker Transport",
   "tagline": "The KC-46A Pegasus is a twin-engine aerial refuelling tanker and transport built by Boeing on the 767 airframe for the United States Air Force, first flown on 25 September 2015 and delivered from January 2019. It is the first tanker whose boom operator works from a screen in the forward cabin rather than lying in the tail, and the camera system that makes that possible has been the programme's defining problem.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "The boom operator sits in the forward cabin and flies the boom by camera - no other tanker has replaced the tail-mounted window with screens",
@@ -115,6 +116,11 @@
     {
       "date": "2026-09-10",
       "change": "Added the Boeing KC-46A Pegasus - history, specs, variants, operators and accident record. Sources: Wikipedia, Military Times and The Aviationist.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -11,6 +11,7 @@
   "role": "Passenger and Mail Airliner",
   "tagline": "A Dutch high-wing monoplane airliner built by Fokker from 1924, offered with one engine and then, from 1925, with three. Its trimotor versions carried the Southern Cross across the Pacific, took Richard Byrd over the North Pole in 1926 and kept the U.S. Army's Question Mark in the air for 150 hours.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Charles Kingsford Smith, Charles Ulm, Harry Lyon and James Warner flew the F.VIIb-3m Southern Cross from Oakland to Brisbane between 31 May and 9 June 1928, the first trans-Pacific flight to Australia",
@@ -165,6 +166,11 @@
     {
       "date": "2026-11-06",
       "change": "New entry for the Fokker F.VII with its main variants, the record flights of the late 1920s, licence production and the accident record. Sources: Wikipedia, the US Air Force and the Air & Space Forces Association.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

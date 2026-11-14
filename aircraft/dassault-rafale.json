@@ -13,6 +13,7 @@
   "role": "Multirole Combat Aircraft",
   "tagline": "France's independently developed omni-role fighter, equally at home flying from a carrier deck or a land base. Built in both carrier-capable and land-based versions, it is one of the very few modern fighters flown from both a conventional runway and a carrier's catapult, and has seen extensive combat over Libya, Mali, Iraq and Syria.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "Developed after France withdrew from the multinational Eurofighter program in 1985 to pursue its own independent design better suited to French carrier operations and nuclear-strike requirements, the Rafale demonstrator first flew in July 1986, with production aircraft entering French Navy service in 2004 and French Air Force service in 2006. Its canard-delta layout, extensive use of composite materials and advanced fly-by-wire flight controls give it exceptional agility across a wide flight envelope, while its designed 'omnirole' philosophy - carrying air-to-air, air-to-ground and reconnaissance stores simultaneously on the same sortie - lets a single aircraft switch roles mid-mission rather than requiring dedicated airframes for each task. The Rafale saw its combat debut over Afghanistan in 2007 and has since flown extensively in French-led operations including the 2011 NATO intervention in Libya, counter-terrorism strikes in Mali and the Sahel, and the coalition air campaign against ISIS in Iraq and Syria, as well as launching cruise missile strikes from French carriers and land bases. It achieved major export breakthroughs from 2015 onward, with India, Egypt, Qatar, Greece, Croatia, Indonesia and the United Arab Emirates all placing orders - India's 36-aircraft deal and subsequent additional naval order being particularly significant, with Indian Rafales reportedly seeing their first confirmed air-to-air combat use during the brief India-Pakistan aerial clashes of 2025, an engagement still subject to competing claims from both sides. Dassault continues Rafale production for both French and export orders alongside early development of France's next-generation FCAS fighter program.",
   "specifications": {
@@ -341,6 +342,11 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators roster - split the combined Egypt/Qatar row and added the six missing export customers (UAE, Indonesia, Greece, Croatia, Serbia and the Indian naval order) with order sizes and dates.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

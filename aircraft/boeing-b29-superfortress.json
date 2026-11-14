@@ -13,6 +13,7 @@
   "role": "Very Long-Range Strategic Heavy Bomber",
   "tagline": "The B-29 Superfortress is a four-engine, very long-range heavy bomber built by Boeing for the United States Army Air Forces and first flown on 21 September 1942. It was the first Allied production bomber with a pressurised cabin and remotely controlled gun turrets, and at around $3 billion the programme cost more than the Manhattan Project.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "The programme cost roughly $3 billion against the Manhattan Project's $1.9 billion, making it the most expensive American undertaking of the war",
@@ -153,6 +154,11 @@
     {
       "date": "2026-09-10",
       "change": "Added the Boeing B-29 Superfortress - history, specs, variants, operators, survivors and accident record. Sources: Wikipedia, HistoryNet and the Wikipedia survivor and operator lists.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

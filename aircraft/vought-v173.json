@@ -11,6 +11,7 @@
   "role": "Experimental Low-Aspect-Ratio Research Aircraft",
   "tagline": "The Vought V-173 is an American single-seat, twin-engine experimental aircraft with an almost circular wing, built by Chance Vought for the U.S. Navy to test Charles Zimmerman's low-aspect-ratio designs. Nicknamed the 'Flying Pancake', it first flew on 23 November 1942 and could lift off in about 200 ft in still air.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "It could lift off in about 200 ft in still air, or with no ground run at all into a 25-knot headwind.",
@@ -120,6 +121,11 @@
     {
       "date": "2026-09-28",
       "change": "Added the Vought V-173, with history, specs, variants, operators and accident record. Sources: Wikipedia, the Smithsonian National Air and Space Museum, Air & Space Magazine and a Vought data sheet.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

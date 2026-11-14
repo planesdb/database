@@ -11,6 +11,7 @@
   "role": "Amphibious Water Bomber",
   "tagline": "The Canadair CL-415 is a twin-turboprop amphibian built specifically to fight forest fires, first flown on 6 December 1993 and derived from the piston-engined CL-215 that was the first aircraft ever designed as a water bomber. It scoops 1,621 US gallons of water from a lake in a twelve-second run without landing, and 95 were built before production ended in 2015.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "Its predecessor the CL-215 was the first aircraft in the world designed from scratch as a water bomber rather than converted from something else",
@@ -165,6 +166,11 @@
     {
       "date": "2026-09-10",
       "change": "Added the Canadair CL-415, with history, specs, variants, operators and accident record. Sources: Wikipedia and the SKYbrary aircraft file.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

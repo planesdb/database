@@ -13,6 +13,7 @@
   "role": "Strategic/Maritime Strike Bomber",
   "tagline": "China's long-serving twin-engine jet bomber, still in production. Tracing its lineage to the Soviet Tupolev Tu-16 'Badger', heavily re-engineered variants like the H-6K and H-6N remain in front-line production nearly seven decades after its first flight.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "China acquired a license to build the Tupolev Tu-16 under a 1957 Sino-Soviet agreement, and the first Soviet-supplied-kit Tu-16 (redesignated H-6) flew in China on 27 September 1959; a fully indigenously produced airframe followed on 24 December 1968 after the Sino-Soviet split forced China to reverse-engineer the type from limited technical assistance. The original H-6A became China's first nuclear-capable bomber, dropping the country's first live nuclear device during a 1965 test, and later variants added maritime-strike missiles (H-6D/G), tanker conversions (HY-6/H-6U) and, from the 2000s, a wholesale modernisation program. The H-6K, first flown in January 2007 and in service from around 2009, replaced the original Soviet-derived turbojets with Soloviev D-30KP-2 turbofans, dramatically improving range and efficiency, and added a glass cockpit plus six underwing hardpoints for long-range CJ-10/CJ-20 land-attack and YJ-12 anti-ship cruise missiles, effectively turning the H-6 into a stand-off missile truck. The H-6N, which emerged around 2018-2019, went further still: it added a fixed aerial-refuelling probe and a modified fuselage with a semi-recessed weapons station able to carry a single large air-launched ballistic missile, restoring a credible air leg to China's nuclear triad pending the future H-20 stealth bomber. China publicly showcased H-6N aerial refuelling from Y-20U tankers for the first time in 2025, and H-6K/H-6N units have flown repeated joint long-range patrols with Russian Tu-95 bombers near Japan, Korea and Alaska since 2019, along with frequent sorties near Taiwan and over the South China Sea.",
   "specifications": {
@@ -264,6 +265,11 @@
       "date": "2026-07-31",
       "change": "Updated the news links with current stories.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

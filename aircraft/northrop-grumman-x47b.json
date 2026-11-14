@@ -13,6 +13,7 @@
   "role": "Carrier-Based UCAV Demonstrator",
   "tagline": "The X-47B is a tailless, carrier-capable unmanned combat air vehicle demonstrator built by Northrop Grumman for the U.S. Navy. In 2013 it became the first uncrewed aircraft to be catapulted from an aircraft carrier and the first to make an arrested landing on one, and in 2015 it made the first autonomous aerial refuelling by an uncrewed aircraft.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "It was the first tailless flying wing ever to land on an aircraft carrier, trapping aboard USS George H.W. Bush on 10 July 2013.",
@@ -99,6 +100,11 @@
     {
       "date": "2026-09-22",
       "change": "Added the Northrop Grumman X-47B, with history, specs, variants and test milestones. Sources: Wikipedia, NAVAIR, USNI News, Aviation Week and The War Zone.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

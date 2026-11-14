@@ -1,0 +1,295 @@
+{
+  "name": "Fw 190",
+  "fullName": "Focke-Wulf Fw 190 Wurger",
+  "manufacturer": "Focke-Wulf",
+  "originCountry": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Single-engine piston fighter and fighter-bomber",
+  "tagline": "The Focke-Wulf Fw 190 is a German single-seat, single-engine fighter designed by Kurt Tank and flown by the Luftwaffe from August 1941. More than 20,000 were built in fighter, ground-attack and long-nose high-altitude versions, and it was the aircraft that gave the Spitfire V its hardest year.",
+  "status": "Retired",
+  "condition": "Preserved - Static Display",
+  "inProduction": false,
+  "quickFacts": [
+    "The first prototype, the Fw 190 V1, flew on 1st June 1939 with a 1,530 hp BMW 139 radial. The production fighters used the BMW 801 instead, which had been chosen over the troublesome BMW 139.{{ref:wiki-fw190}}",
+    "On 23rd June 1942 Oberleutnant Armin Faber mistook the Bristol Channel for the English Channel and landed his Fw 190A-3 at RAF Pembrey in Wales. It was the first Fw 190 captured intact and tested by the RAF.{{ref:wiki-fw190}}{{ref:wiki-faber}}",
+    "The A-series was superior to the Spitfire Mk V in most areas except turn radius, and kept that edge until the Spitfire Mk IX arrived in late 1942 and early 1943.{{ref:wiki-fw190}}",
+    "A total of 13,291 A-models were built, including 6,655 A-8s. The long-nose D-9 followed with 1,805 built between August 1944 and April 1945.{{ref:wiki-fw190}}",
+    "The Ta 152 development reached 755 km/h (469 mph) at 13,500 m (44,300 ft), though only 69 were built.{{ref:wiki-fw190}}",
+    "About 28 original Fw 190s survive in museums and private collections, and Flug Werk GmbH had built 20 new reproductions by 2012.{{ref:wiki-fw190}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Fw 190A-8. The page checked gives no cruise speed and no D-9 specifications. Production totals differ inside the source: the infobox says over 20,000 built and the production table sums to 23,823 for all variants, so the larger figure is used here. The BMW 801D-2 is rated at 1,700 PS, with up to 1,980 PS for ten minutes.",
+    "maxSpeed": {
+      "mph": 405,
+      "text": "352 kn (405 mph / 652 km/h) at 19,420 ft (5,920 m)"
+    },
+    "cruiseSpeed": "Not published in the sources checked",
+    "range": {
+      "miles": 620,
+      "text": "560 to 620 mi (900 to 1,000 km); combat range 250 to 310 mi (400 to 500 km)"
+    },
+    "serviceCeiling": {
+      "ft": 33960,
+      "text": "33,960 ft (10,350 m)"
+    },
+    "wingspan": {
+      "ft": 34.5,
+      "text": "34 ft 6 in (10.506 m)"
+    },
+    "length": {
+      "ft": 29.33,
+      "text": "29 ft 4 in (8.95 m)"
+    },
+    "height": {
+      "ft": 10.33,
+      "text": "10 ft 4 in (3.15 m)"
+    },
+    "weight": "empty: 7,055 lb (3,200 kg); MTOW: 10,803 lb (4,900 kg)",
+    "engines": "1 x BMW 801D-2 14-cylinder radial, 1,700 PS (1,980 PS for 10 minutes)",
+    "armament": "2 x 13 mm MG 131 machine guns, 4 x 20 mm MG 151/20E cannon (wing roots and mid-wing); one bomb under the fuselage or four under the wings",
+    "crew": "1",
+    "capacity": "None",
+    "firstFlight": {
+      "date": "1939-06-01",
+      "year": 1939
+    },
+    "serviceEntryDate": "1941",
+    "numberBuilt": 23823,
+    "unitCost": {
+      "usd": null,
+      "text": "Not published in the sources checked - a wartime German state purchase with no open-market price",
+      "inflationText": null
+    },
+    "combatLosses": "Not published in the sources checked",
+    "retiredDate": "1949"
+  },
+  "variants": [
+    {
+      "code": "Fw 190A",
+      "desc": "The first and most numerous series, with 13,291 A-models built including prototypes and pre-production aircraft. The A-6 added heavier armament, the A-7 carried MG 131 guns, and the A-8 was the biggest sub-type at 6,655 built. It entered service in August 1941 and flew its first operational sorties over France that month."
+    },
+    {
+      "code": "Fw 190D-9 Dora",
+      "desc": "The long-nose, high-altitude version, powered by a Junkers Jumo 213 inline engine in place of the BMW radial. Production totalled 1,805 between August 1944 and April 1945. The D-9 became the basis for the Ta 152."
+    },
+    {
+      "code": "Fw 190F",
+      "desc": "The ground-attack series, with the F-8 reaching 6,143 built. Hungary received 72 F-8s from November 1944 and flew them with the 102nd fighter-bomber squadron on the Eastern Front."
+    },
+    {
+      "code": "Fw 190G",
+      "desc": "A long-range fighter-bomber series, with about 1,300 built. It was built to carry bombs over a longer distance than the A-series and F-series."
+    },
+    {
+      "code": "Ta 152",
+      "desc": "A development of the D-9 for high altitude, with 69 built in total, made up of 44 V/H-0 and 25 H-1 aircraft. It reached 755 km/h (408 kn, 469 mph) at 13,500 m (44,300 ft), the highest speed figure in the Fw 190 family."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Luftwaffe",
+      "role": "Fighter and fighter-bomber",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "Not published; the main user of more than 20,000 built",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "Turkish Air Force",
+      "role": "Fighter",
+      "status": "Retired",
+      "since": "1942",
+      "fleetSize": "72 Fw 190A-3a delivered, October 1942 to March 1943",
+      "homeBase": "Turkey"
+    },
+    {
+      "name": "Hungarian Air Force",
+      "role": "Fighter-bomber",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "72 Fw 190F-8 from November 1944",
+      "homeBase": "Hungary"
+    },
+    {
+      "name": "Romanian Air Force",
+      "role": "Captured aircraft, not used operationally",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "22 captured after 23rd August 1944",
+      "homeBase": "Romania"
+    },
+    {
+      "name": "French Air Force",
+      "role": "Postwar NC.900 reassembly",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "About 70 A-5 and A-6 reassembled as the SNCAC NC.900",
+      "homeBase": "France"
+    },
+    {
+      "name": "Japan (evaluation aircraft)",
+      "role": "Evaluation",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "1 Fw 190A-5 for evaluation",
+      "homeBase": "Japan"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No ICAO type code is confirmed for the Fw 190. The few airworthy originals and the Flug Werk reproductions fly mainly at airshows in the United States and Europe, so a track is rare."
+  },
+  "tags": [
+    "Fw 190",
+    "Focke-Wulf",
+    "Luftwaffe",
+    "Kurt Tank",
+    "WWII",
+    "fighter",
+    "Armin Faber",
+    "Pembrey"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Focke-Wulf Fw 190 with the Pembrey landing, the A, D-9 and Ta 152 variants, the export users and the surviving aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Focke-Wulf Fw 190 is a German single-seat, single-engine fighter designed by Kurt Tank at Focke-Wulf in the late 1930s. The A-series entered service in August 1941 and flew its first operational sorties over France that month.{{ref:wiki-fw190}}",
+      "It was built in fighter, fighter-bomber and ground-attack versions, and in a long-nose D-9 form from 1944. The infobox puts production at over 20,000, and the production table gives 23,823 across all variants.{{ref:wiki-fw190}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: A Radial Fighter from Kurt Tank",
+        "paragraphs": [
+          "Kurt Tank designed the Fw 190 at Focke-Wulf in the late 1930s. The first prototype, the V1, carried the civil registration D-OPZE and a 1,530 hp BMW 139 radial. It first flew on 1st June 1939. The V2 followed on 31st October 1939 with a new spinner and a cooling fan.{{ref:wiki-fw190}}",
+          "The BMW 139 gave trouble, and the BMW 801 was chosen in its place. The V5 was the first prototype with the BMW 801, and its rebuild as the V5g, with a larger wing of 18.30 square metres, became the basis for all the major production versions.{{ref:wiki-fw190}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering: What the A-8 Carried",
+        "paragraphs": [
+          "The Fw 190A-8 is 29 ft 4 in long, with a 34 ft 6 in wingspan and an 18.3 square metre wing. It weighs 3,200 kg empty and up to 4,900 kg at maximum take-off. Its BMW 801D-2 delivers 1,700 PS, with up to 1,980 PS for ten minutes, and it reaches 652 km/h (405 mph) at 5,920 m. Service ceiling is 10,350 m.{{ref:wiki-fw190}}",
+          "The armament was two 13 mm MG 131 machine guns and four 20 mm MG 151/20E cannon, two in the wing roots and two in mid-wing mounts. One bomb could be carried under the fuselage, or four under the wings. The range was 900 to 1,000 km, with a combat range of 400 to 500 km, which kept the A-series on short missions.{{ref:wiki-fw190}}",
+          "The BMW 801 gave trouble in other hands. France reassembled about 70 A-5 and A-6 airframes after the war as the SNCAC NC.900, and withdrew them over problems with the BMW 801 engines. On the B and C sub-types, the source describes difficulties with turbocharger installations.{{ref:wiki-fw190}}"
+        ]
+      },
+      {
+        "heading": "The Spitfire Problem",
+        "paragraphs": [
+          "The A-series was better than the Spitfire Mk V in most respects except turn radius, and the Fw 190 held that advantage until the Spitfire Mk IX appeared in late 1942 and early 1943.{{ref:wiki-fw190}}",
+          "The type reached the Eastern Front in November and December 1942. Its fighter-bomber forms were produced in large numbers, with 6,143 F-8s built and about 1,300 long-range G-series aircraft.{{ref:wiki-fw190}}"
+        ]
+      },
+      {
+        "heading": "The Pembrey Landing",
+        "paragraphs": [
+          "On 23rd June 1942 Oberleutnant Armin Faber, Gruppen-Adjutant of III/JG 2 at Morlaix in Brittany, flew a combat mission with the 7th Staffel after receiving special permission. He was engaged by Spitfires over south Devon, forced north beyond Exeter, and mistook the Bristol Channel for the English Channel.{{ref:wiki-faber}}{{ref:wiki-pembrey}}",
+          "Short on fuel, he landed his Fw 190A-3 at RAF Pembrey in Carmarthenshire, believing it to be a Luftwaffe airfield in France. The duty pilot at Pembrey grabbed a Very pistol, ran from the control tower, and jumped onto the wing as the aircraft slowed, taking Faber prisoner. The Fw 190 had been captured intact.{{ref:wiki-faber}}{{ref:wiki-pembrey}}",
+          "The RAF now had an Fw 190 to compare with its Spitfire IX and Typhoon. It became the first Fw 190 captured and tested by the RAF. The Shoreham Aircraft Museum displays its armoured-glass windscreen and part of its control panel.{{ref:wiki-fw190}}{{ref:wiki-faber}}"
+        ]
+      },
+      {
+        "heading": "Variants and the Long-Nose D-9",
+        "paragraphs": [
+          "The A-series was the largest. Its A-8 sub-type reached 6,655 aircraft, and the A-6 and A-7 changed the armament. The F-series was a ground-attack line, the G-series a long-range fighter-bomber line, and in August 1944 the D-9 introduced the Junkers Jumo 213 inline engine and a long nose. 1,805 D-9s were built by April 1945.{{ref:wiki-fw190}}",
+          "The Ta 152 followed as a high-altitude development, with 69 built in total. It reached 755 km/h (408 kn, 469 mph) at 13,500 m (44,300 ft). Only 69 were built.{{ref:wiki-fw190}}"
+        ]
+      },
+      {
+        "heading": "Export and Captured Aircraft",
+        "paragraphs": [
+          "Turkey received 72 A-3a aircraft between October 1942 and March 1943 and retired them in late 1947 and May 1948, citing a lack of spare parts. A reported burial of the aircraft is likely a hoax. Hungary received 72 F-8s from November 1944, and its 102nd fighter-bomber squadron used them on the Eastern Front.{{ref:wiki-fw190}}",
+          "Romania captured 22 Luftwaffe Fw 190s after the coup of 23rd August 1944. They were not used operationally, and nine were later taken by the Soviet Union. Japan received one A-5 for evaluation, and Spain's Escuadrilla Azul, Czechoslovakia and Yugoslavia also appear in the operator list.{{ref:wiki-fw190}}"
+        ]
+      },
+      {
+        "heading": "Survivors and Reproductions",
+        "paragraphs": [
+          "About 28 original Fw 190s are in museums or private collections, and at least five surviving radial-engined A-models are linked to JG 5 at Herdla in Norway. A-5/U3 Werknummer 151 227 was found near Leningrad in 1989, restored in the United States, flew again on 1st December 2010 and was reassembled at the Flying Heritage and Combat Armor Museum in April 2011.{{ref:wiki-fw190}}",
+          "Flug Werk GmbH began building reproductions in 1997. By 2012 it had built 20, most of them flyable, usually powered by Chinese-built Shvetsov ASh-82 engines in place of the BMW 801.{{ref:wiki-fw190}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-fw190",
+      "name": "Focke-Wulf Fw 190",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190"
+    },
+    {
+      "id": "wiki-faber",
+      "name": "Armin Faber",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Armin_Faber"
+    },
+    {
+      "id": "wiki-pembrey",
+      "name": "RAF Pembrey",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RAF_Pembrey"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Focke-Wulf Fw 190 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190"
+    },
+    {
+      "name": "Armin Faber on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Armin_Faber"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1942-06-23",
+      "title": "Faber lands an Fw 190A-3 at RAF Pembrey",
+      "tag": "Navigation error",
+      "summary": "Oberleutnant Armin Faber of III/JG 2 mistook the Bristol Channel for the English Channel after a fight with Spitfires and landed at RAF Pembrey in Wales. It was the first Fw 190 captured intact and tested by the RAF.",
+      "source": "https://en.wikipedia.org/wiki/Armin_Faber"
+    }
+  ],
+  "survivors": {
+    "intro": "About 28 original Fw 190s survive in museums and private collections.",
+    "airframes": [
+      {
+        "serial": "Werknummer 151 227",
+        "name": "A-5/U3",
+        "location": "Flying Heritage and Combat Armor Museum",
+        "place": "United States",
+        "url": "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190",
+        "note": "Found near Leningrad in 1989 and restored in the United States. It flew again on 1st December 2010 and was reassembled at the museum in April 2011.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Faber's Fw 190A-3 (windscreen and control panel)",
+        "name": "Pembrey aircraft",
+        "location": "Shoreham Aircraft Museum",
+        "place": "Shoreham, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Armin_Faber",
+        "note": "The museum displays the armoured-glass windscreen and part of the control panel of the aircraft Armin Faber landed at Pembrey.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

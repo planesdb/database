@@ -13,6 +13,7 @@
   "role": "WWI Heavy Strategic Bomber",
   "tagline": "The twin-engine German giant that carried out the first sustained strategic bombing campaign against a civilian population. Flying in formations of up to 20 aircraft from occupied Belgium, it struck London and southeast England through 1917 and 1918, forcing Britain to divert fighter squadrons home from the Western Front.",
   "status": "Retired",
+  "condition": "Scrapped",
   "inProduction": false,
   "history": "Developed by Gothaer Waggonfabrik as a successor to the earlier G.II and G.III bombers, the G.IV introduced a distinctive 'tunnel' in the fuselage that allowed the rear gunner to fire downward and to the rear without the tail structure blocking his field of fire, closing a dangerous blind spot that earlier pusher-engine bomber designs suffered from. It entered service in early 1917 with Kagohl 3 (renamed Bogohl 3), the dedicated 'England Squadron' based at airfields in occupied Belgium, and flew its first major daylight raid on London on 13 June 1917, killing 162 people including 18 children at a primary school in a single bomb strike - the deadliest single air raid of the war on Britain. Mounting RAF fighter defences and anti-aircraft fire forced the Gothas to switch to night bombing by autumn 1917, and although less accurate, the raids continued to spread panic through London, with thousands sheltering nightly in Underground stations. The Gotha raids, though militarily limited in the damage they inflicted compared to WWII bombing campaigns, had an outsized strategic effect: they were a major factor in Britain's decision to form the Royal Air Force as an independent service in April 1918 and to build dedicated home-defence fighter squadrons and anti-aircraft networks - the direct ancestor of Fighter Command's air defence system used in the Battle of Britain 23 years later.",
   "specifications": {
@@ -222,6 +223,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

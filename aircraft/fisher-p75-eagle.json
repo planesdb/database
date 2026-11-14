@@ -13,6 +13,7 @@
   "role": "Interceptor and Long-Range Escort Fighter",
   "tagline": "The Fisher P-75 Eagle is a single-seat, piston-engined fighter built by General Motors' Fisher Body Division for the U.S. Army Air Forces. It was assembled from the parts of other aircraft and first flew in 1943, but only 14 were built before a 2,500-aircraft order was cancelled in October 1944.",
   "status": "Cancelled",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The Eagle used Curtiss P-40 outer wings, a Douglas A-24 tail and Vought F4U Corsair landing gear to speed up construction.",
@@ -96,6 +97,11 @@
     {
       "date": "2026-10-18",
       "change": "Added the Fisher P-75 Eagle with its borrowed parts, the test problems that sank it, specs, and the surviving P-75A at Dayton.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

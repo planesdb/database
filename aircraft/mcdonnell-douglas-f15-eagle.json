@@ -14,6 +14,7 @@
   "role": "Air Superiority Fighter & Strike Fighter",
   "tagline": "Undefeated in air combat for 50 years - and, as the Strike Eagle, the USAF's hardest-hitting fighter-bomber. Across five decades of combat with the USAF, Israel, Saudi Arabia, Singapore and Japan, F-15s have scored more than 100 air-to-air victories.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "Developed under the F-X program partly in response to inflated Western estimates of the Soviet MiG-25, the F-15A first flew on 27 July 1972 and reached USAF squadrons in 1976. A stripped 'Streak Eagle' broke eight time-to-climb world records in January-February 1975, reaching 98,425 ft in under 3.5 minutes. Israeli Eagles scored the type's first air-to-air kills in June 1979, dominated the June 1982 Bekaa Valley air battles over Lebanon, and in 1983 an Israeli F-15D famously landed after a mid-air collision tore off its entire right wing. USAF F-15Cs went on to score 32 of the coalition's 39 fixed-wing kills during Desert Storm in 1991.\n\nThe two-seat F-15E Strike Eagle, winner of the USAF's 1984 Dual-Role Fighter competition against the F-16XL, first flew on 11 December 1986 and entered service in 1988. In Desert Storm it hunted Scud launchers by night and scored the family's only air-to-air kill with a bomb - an Iraqi Mi-8 helicopter destroyed by a GBU-10 laser-guided bomb - but also suffered the type's first combat losses, two jets downed by ground fire. Strike Eagles have flown continuously in combat since: Bosnia, Kosovo, Afghanistan, Iraq, Libya, Syria, and in April 2024 they helped shoot down more than 70 Iranian one-way attack drones headed for Israel in a single night.\n\nThe F-15C/D fleet is now retiring - Kadena's long-serving Eagles left Japan in 2023-25, and a Desert Storm MiG-killer entered the Smithsonian's collection in August 2025 - while the USAF began fielding the modernised F-15EX Eagle II in 2021 and upgraded F-15I/S/SA/SG/K variants fly with allied forces deep into the 2040s. The family's long unbeaten air-combat run met a harder edge in 2026: on 2 March, Kuwaiti air defences shot down three USAF F-15s in a friendly-fire incident during Operation Epic Fury against Iran, and on 3 April an F-15E Strike Eagle became the first F-15 family aircraft lost to enemy fire since 1991, triggering a historic two-stage rescue that recovered both crew from deep inside Iranian territory.",
   "quickFacts": [
@@ -384,6 +385,11 @@
       "date": "2026-10-30",
       "change": "Added a fact about the F-15 shooting down a satellite. Tip came from Instagram user 'jeff__walton'",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

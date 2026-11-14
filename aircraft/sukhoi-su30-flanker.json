@@ -13,6 +13,7 @@
   "role": "Two-Seat Multirole Fighter",
   "tagline": "The Sukhoi Su-30 is a twin-engine, two-seat fighter developed from the Su-27 family, and it is the most widely exported Flanker. India flies the largest fleet, 261 Su-30MKI aircraft in 2024, and Russia builds the Su-30SM for its own air force and navy.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "The Su-30 began as a two-seat interceptor and command post based on the Su-27UB trainer, and its first flight was on 31st December 1989 at Irkutsk. Only five of that original version went to the Russian air defence forces.",
@@ -233,6 +234,11 @@
     {
       "date": "2026-11-08",
       "change": "New entry for the Su-30, covering the MKI, MKK, SM and the other export versions, the operator list and the losses over Ukraine.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

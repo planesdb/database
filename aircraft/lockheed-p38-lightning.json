@@ -13,6 +13,7 @@
   "role": "Twin-Engine Fighter & Reconnaissance Aircraft",
   "tagline": "The Lockheed P-38 Lightning is an American single-seat, twin-engine, twin-boom fighter built by Lockheed for the U.S. Army Air Forces in the Second World War. It was the first American fighter to exceed 400 mph in level flight, and 10,037 were built between 1941 and 1945.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "It was the first American fighter to fly faster than 400 mph in level flight.",
@@ -196,6 +197,11 @@
     {
       "date": "2026-09-28",
       "change": "Added the Lockheed P-38 Lightning, with history, specs, variants, operators and accident record. Sources: Wikipedia, the Smithsonian National Air and Space Museum, The Museum of Flight, the Hill Aerospace Museum and the Army Air Corps Museum.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

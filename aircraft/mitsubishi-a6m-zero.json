@@ -13,6 +13,7 @@
   "role": "Carrier-Based Fighter",
   "tagline": "The long-range carrier fighter that dominated the early Pacific War. Designed by Jiro Horikoshi around extreme weight-saving, it combined very long range, a tight turning radius and heavy cannon armament, making it the most capable carrier fighter in the world when it appeared in 1940.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "Mitsubishi began design work in 1937 to meet an Imperial Japanese Navy requirement for a carrier fighter combining long range, high speed and exceptional maneuverability - specifications so demanding that rival Nakajima withdrew from the competition. Chief engineer Jiro Horikoshi met them by aggressively minimizing weight, using a new aluminum alloy called Extra Super Duralumin and omitting armor and self-sealing tanks. The prototype first flew on 1 April 1939, and the type entered service in July 1940, first seeing combat over China later that year, where it dominated outdated Soviet-built fighters. At the time of Pearl Harbor in December 1941, some 521 Zeros were in front-line service, and the type's range and agility let Japanese carrier and land-based air groups project power far beyond what Allied planners had thought possible, contributing to a string of early Japanese victories across the Pacific and Southeast Asia. Allied pilots initially avoided turning fights with the nimble Zero and instead developed energy tactics such as the Thach Weave and 'boom and zoom' diving attacks, first used to notable effect at the Battle of Midway in June 1942; the arrival of more powerful, better-protected fighters such as the F6F Hellcat, F4U Corsair and P-38 Lightning from 1943 onward gradually eroded the Zero's early advantage, while the loss of experienced Japanese aircrew in the Solomons and Marianas campaigns compounded the decline. Mitsubishi and Nakajima together built 10,939 Zeros - more than any other Japanese combat aircraft of the war - continually upgrading armament and, in late variants, adding armor and self-sealing tanks. In the war's final year, as Japan's position collapsed, many late-production and war-weary Zeros were adapted for kamikaze (special attack) missions against Allied ships, a role that reflected Japan's dwindling supply of trained pilots and aircraft rather than the type's original design intent. The Zero was retired with Japan's surrender in September 1945; today roughly a few dozen airframes survive worldwide, a handful restored to flying condition, in the collections of museums and warbird operators.",
   "specifications": {
@@ -281,6 +282,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

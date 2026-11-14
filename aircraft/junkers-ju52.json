@@ -13,6 +13,7 @@
   "role": "Trimotor Airliner & Military Transport",
   "tagline": "The Junkers Ju 52 is a German three-engine transport and airliner with a corrugated duralumin skin, designed by Ernst Zindel and first flown in single-engine form in 1930. The trimotor Ju 52/3m flew in 1932 and about 4,845 were built, as Lufthansa airliners, as the Luftwaffe's standard transport in the Second World War, and with air forces from Spain to South America.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "Its corrugated duralumin skin added strength but also added drag, which is part of why the type stayed slow.",
@@ -193,6 +194,11 @@
     {
       "date": "2026-11-01",
       "change": "Added more on Norway, The Hague and the Tunisian airlift losses, the Tatsinskaya raid, Hitler's 1932 campaign flights and the last flight out of Tempelhof.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

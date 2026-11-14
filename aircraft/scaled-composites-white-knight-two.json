@@ -11,6 +11,7 @@
   "role": "Air-Launch Carrier Aircraft",
   "tagline": "White Knight Two is a four-engine, twin-fuselage jet built to carry a rocket-powered spaceplane to about 45,000 ft and drop it. Only one has ever flown, the aircraft named VMS Eve, and it has launched every SpaceShipTwo flight to date.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "quickFacts": [
     "Only one White Knight Two exists. Virgin Galactic ordered two in 2008, but the aircraft named VMS Eve is the only one that has ever flown.",
@@ -105,6 +106,11 @@
     {
       "date": "2026-11-08",
       "change": "New entry for White Knight Two (VMS Eve), covering its design, test flying, the launch of SpaceShipTwo and its October 2026 flight with Apeiron.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -1,0 +1,221 @@
+{
+  "name": "DH.88 Comet",
+  "fullName": "de Havilland DH.88 Comet",
+  "manufacturer": "de Havilland",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Long-range racing and record aircraft",
+  "tagline": "The de Havilland DH.88 Comet is a twin-engine, all-wood British racing aircraft built in 1934 to win the England to Australia MacRobertson Air Race. Five were built, and the one that won, G-ACSS 'Grosvenor House', is still owned by the Shuttleworth Collection after more than 90 years.",
+  "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
+  "inProduction": false,
+  "quickFacts": [
+    "De Havilland sold the Comet for £5,000, which was only half of what each one cost to build. The company accepted the loss for the publicity of winning the 1934 MacRobertson Air Race, and a guaranteed top speed of 200 mph.{{ref:wiki-dh88}}",
+    "G-ACSS 'Grosvenor House' won the race, flown by C.W.A. Scott and Tom Campbell Black from Mildenhall to Melbourne in 70 hours 54 minutes and 18 seconds, reaching Flemington on 23rd October 1934.{{ref:wiki-dh88}}",
+    "The aircraft was a wooden stressed-skin design with retractable undercarriage, flaps and variable-pitch propellers, features that were unusual on a British aircraft in 1934.{{ref:wiki-dh88}}",
+    "Two Comets were sold to the French government as mail aircraft, and the racer G-ACSR, flown by Owen Cathcart Jones and Ken Waller, was named 'Reine Astrid' before it went to France as F-ANPY.{{ref:wiki-dh88}}",
+    "On 15th August 2026, G-ACSS was heavily damaged in a landing accident during a flying display at Shuttleworth near Biggleswade, and the trust has said it intends to restore it to flight.{{ref:wiki-dh88}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the standard DH.88 as built for the 1934 race. G-ACSS and the later aircraft carried different engines, tail wheels and fuel tanks across their careers, so exact numbers varied between airframes.",
+    "maxSpeed": {
+      "mph": 237,
+      "text": "206 kn (237 mph / 381 km/h)"
+    },
+    "cruiseSpeed": "220 mph (350 km/h)",
+    "range": {
+      "miles": 2925,
+      "text": "2,925 mi (4,707 km, 2,542 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 19000,
+      "text": "19,000 ft (5,800 m)"
+    },
+    "wingspan": {
+      "ft": 44,
+      "text": "44 ft (13 m)"
+    },
+    "length": {
+      "ft": 29,
+      "text": "29 ft (8.8 m)"
+    },
+    "height": {
+      "ft": 10,
+      "text": "10 ft (3.0 m)"
+    },
+    "weight": "empty: 2,930 lb (1,329 kg); MTOW: 5,550 lb (2,517 kg)",
+    "engines": "2 x de Havilland Gipsy Six R inline piston engines, 230 hp (170 kW) each, driving 2-bladed Ratier two-position variable-pitch propellers",
+    "crew": "2",
+    "capacity": "None in the racers; French mail aircraft carried mail in a nose compartment",
+    "firstFlight": {
+      "date": "1934-09-08",
+      "year": 1934
+    },
+    "serviceEntryDate": "1934-10-20",
+    "retiredDate": "1937-1938",
+    "numberBuilt": 5,
+    "unitCost": {
+      "usd": 25000,
+      "text": "£5,000 (1934 sale price, about half the build cost; about $25,000 at the 1934 exchange rate) - roughly $630,000 in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$630,000 in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "G-ACSP 'Black Magic'",
+      "desc": "The first racer, ordered by Jim Mollison and flown in the race by him and his wife Amy Johnson. It retired in India after an engine failure and related damage. Sold to Portugal as CS-AAJ 'Salazar', it set a London to Lisbon record in July 1937, was rediscovered after more than 40 years and is being restored at Derby."
+    },
+    {
+      "code": "G-ACSR 'Reine Astrid'",
+      "desc": "The racer ordered by Bernard Rubin and flown by Owen Cathcart Jones and Ken Waller, finishing as the fourth aircraft into Melbourne in 108 hours 13 minutes 30 seconds. It was sold to the French government as F-ANPY with a nose mail compartment and the name 'Cité d'Angoulême IV', and was last seen derelict at Étampes in 1940."
+    },
+    {
+      "code": "G-ACSS 'Grosvenor House'",
+      "desc": "The race winner, owned by Arthur Edwards and named after the London hotel. The Air Ministry gave it military serial K5084 for evaluation, it was rebuilt by Essex Aero with new engines and a castoring tailwheel, and it flew record and race attempts until 1938. It was acquired by the Shuttleworth Collection in 1965, restored to flight in 1987 and damaged in a landing accident on 15th August 2026."
+    },
+    {
+      "code": "F-ANPZ (French mail)",
+      "desc": "A production Comet ordered by the French government and built with a mail compartment in the nose, in place of the racers' fuel and equipment. It was taken into the French Air Force, and it was destroyed in a hangar fire at Istres in June 1940, during the fall of France."
+    },
+    {
+      "code": "G-ADEF 'Boomerang'",
+      "desc": "A fifth aircraft built for Cyril Nicholson and flown by Tom Campbell Black and J. C. McArthur in a record attempt from London to Cape Town. It reached Cairo in 11 hours 18 minutes, then crashed over Sudan on 22nd September 1935 on its second attempt, with a propeller failure. The crew bailed out and survived."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Shuttleworth Collection",
+      "role": "Owner of G-ACSS",
+      "status": "Airworthy",
+      "since": "1965",
+      "fleetSize": "1 (damaged)",
+      "homeBase": "Old Warden Aerodrome - Bedfordshire"
+    },
+    {
+      "name": "French Government (mail service)",
+      "role": "Mail aircraft",
+      "status": "Retired",
+      "since": "1935",
+      "fleetSize": "Retired",
+      "homeBase": "Paris Le Bourget - France"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Evaluation (K5084)",
+      "status": "Retired",
+      "since": "1930s",
+      "fleetSize": "Retired",
+      "homeBase": "Farnborough - England"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The DH.88 does not appear on live tracking. Only G-ACSS survives intact, and it is grounded after the August 2026 accident. Before that, it flew at Shuttleworth air displays from Old Warden, Bedfordshire."
+  },
+  "lastUpdated": "2026-11-13",
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the DH.88 Comet - the 1934 MacRobertson race, all five airframes and what happened to each, and the 15th August 2026 accident to G-ACSS.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Corrected the Shuttleworth Collection operator status to Airworthy.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "DH.88",
+    "comet",
+    "de havilland",
+    "macrobertson air race",
+    "G-ACSS",
+    "grosvenor house",
+    "racing aircraft",
+    "shuttleworth",
+    "1934"
+  ],
+  "article": {
+    "overview": [
+      "The de Havilland DH.88 Comet is a twin-engine, all-wood racing monoplane designed in 1934 for a single purpose: to win the MacRobertson Air Race from England to Australia. It first flew on 8th September 1934, six weeks before the race, and five were built in all.{{ref:wiki-dh88}}",
+      "It was fast for its time, at 237 mph, and it won the speed prize in 70 hours 54 minutes. It also shaped the British industry's thinking about faster airliners, which is why the name was reused for the world's first jet airliner 15 years later.{{ref:wiki-dh88}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The MacRobertson Air Race was organised in 1934 to mark the centenary of Victoria, Australia, and ran from RAF Mildenhall to Flemington racecourse in Melbourne. De Havilland saw an opportunity to build a purpose-made racer rather than to adapt an existing aircraft. Designer A. E. Hagg drew a small, streamlined twin that was priced at £5,000, half the estimated build cost, with a 20 per cent deposit and a guaranteed top speed of at least 200 mph.{{ref:wiki-dh88}}",
+          "Three were ordered: by Jim Mollison, by Arthur Edwards and by Bernard Rubin. The first flight was on 8th September 1934, and flight testing finished only weeks before the starting date. Nothing about the schedule allowed a conventional development programme, and the crews were still learning the aircraft when the race began.{{ref:wiki-dh88}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Comet was an all-wood, stressed-skin monoplane with a retractable undercarriage, flaps and two-position variable-pitch propellers. It weighed 2,930 lb empty and was powered by two de Havilland Gipsy Six R engines of 230 hp each, tuned versions of the company's standard six-cylinder engine. The wings and fuselage were sized around fuel for the long stages across Asia rather than for cargo or passengers.{{ref:wiki-dh88}}",
+          "Its range was 2,925 miles and its cruising speed 220 mph, better than any aircraft then flying commercial or military routes in Britain. The cost was a narrow cockpit with two crew in tandem and little margin for error. Mechanical problems, particularly with propellers and engines, ended or interrupted several of the long-distance attempts that followed.{{ref:wiki-dh88}}"
+        ]
+      },
+      {
+        "heading": "The MacRobertson Race, 1934",
+        "paragraphs": [
+          "The race began at Mildenhall on 20th October 1934 with 20 entrants, three of them Comets. C.W.A. Scott and Tom Campbell Black flew G-ACSS 'Grosvenor House' to Melbourne, landing at Flemington on 23rd October. The official time was 70 hours 54 minutes 18 seconds, and the Comet was eight hours ahead of the KLM DC-2 at Singapore. Cathcart Jones and Waller brought G-ACSR in fourth, in 108 hours 13 minutes 30 seconds.{{ref:wiki-dh88}}",
+          "The Mollisons' G-ACSP 'Black Magic' had set a record from England to Karachi before its engine problems forced it out in India. The race showed that a fast, small aircraft could beat large, fully equipped airliners over a long route, though the DC-2's performance, carrying passengers, hinted at where the real money lay in air transport.{{ref:wiki-dh88}}"
+        ]
+      },
+      {
+        "heading": "After the Race: Mail, Records and Wartime",
+        "paragraphs": [
+          "Two of the Comets went to France. G-ACSR became F-ANPY 'Cité d'Angoulême IV' and a second, F-ANPZ, was built with a nose mail compartment, and F-ANPY flew a Paris to Casablanca and Dakar run in August 1935. Both were lost by 1940, one derelict at Étampes and one in a hangar fire at Istres.{{ref:wiki-dh88}}",
+          "A fifth Comet, G-ADEF 'Boomerang', was built for Cyril Nicholson to attempt a record London to Cape Town flight. It reached Cairo in a record 11 hours 18 minutes but was brought down in Sudan by propeller trouble on 22nd September 1935, and its crew bailed out. 'Black Magic' went to Portugal as CS-AAJ 'Salazar' and set a London to Lisbon record in July 1937.{{ref:wiki-dh88}}"
+        ]
+      },
+      {
+        "heading": "G-ACSS: Survival & Restoration",
+        "paragraphs": [
+          "The winner had a long second life. The Air Ministry took G-ACSS as K5084, and a heavy landing during evaluation led to it being written off and sold for scrap. It was rebuilt by Essex Aero with new engines, flew in the 1937 Istres to Damascus to Paris race and made a round trip to New Zealand in March 1938, before being requisitioned again by the RAF in 1943. It was on display at the 1951 Festival of Britain.{{ref:wiki-dh88}}",
+          "The Shuttleworth Collection acquired it in 1965, re-registered it as G-ACSS in 1972 and restored it to flying condition in 1987. On 15th August 2026 it was heavily damaged in a landing accident during a flying display at Old Warden, and the trust has said it intends to restore it to airworthiness. The other survivor, G-ACSP, is being rebuilt at Derby by the Comet Racer Project Group.{{ref:wiki-dh88}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-dh88",
+      "name": "de Havilland DH.88 Comet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_DH.88_Comet"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "de Havilland DH.88 Comet on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_DH.88_Comet"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1935-09-22",
+      "title": "Boomerang crash over Sudan",
+      "tag": "Propeller failure",
+      "summary": "G-ADEF 'Boomerang', flown by Tom Campbell Black and J. C. McArthur on a London to Cape Town attempt, suffered propeller problems over Sudan. Both crew bailed out by parachute and survived, and the aircraft was lost.",
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_DH.88_Comet"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "G-ACSS landing accident at Shuttleworth",
+      "tag": "Landing accident",
+      "summary": "The surviving race winner G-ACSS was heavily damaged in a landing accident during a flying proms display at Shuttleworth near Biggleswade, Bedfordshire. The Shuttleworth Trust has said it intends to restore it to airworthy condition.",
+      "source": "https://en.wikipedia.org/wiki/De_Havilland_DH.88_Comet"
+    }
+  ]
+}

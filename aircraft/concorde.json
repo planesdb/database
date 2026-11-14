@@ -11,6 +11,7 @@
   "role": "Supersonic Airliner",
   "tagline": "The Anglo-French airliner that flew fare-paying passengers across the Atlantic at twice the speed of sound. Cruising at Mach 2.04 at up to 60,000 ft, it cut the London/Paris-to-New York flight time to well under 3.5 hours and remains, more than two decades after retirement, the only supersonic airliner to have achieved sustained commercial success.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "history": "Born from a 1962 Anglo-French treaty deliberately structured with no exit clause to prevent either government from abandoning the enormously expensive program, Concorde first flew on 2 March 1969 and entered scheduled commercial service simultaneously with British Airways and Air France on 21 January 1976, flying London-Bahrain and Paris-Rio routes before US regulatory approval opened transatlantic services to New York and Washington in 1977. Only 20 aircraft were ever built (14 of which entered commercial airline service), as the anticipated global market for supersonic travel never materialised - sonic booms restricted the type to purely overwater or limited overland routes, and its punishing fuel consumption made tickets extraordinarily expensive, positioning it as an exclusive premium product for wealthy business travellers and celebrities rather than the mass-market future once envisioned. Concorde operated a safe and reliable service for 24 years until 25 July 2000, when Air France Flight 4590 crashed on takeoff from Paris after a piece of metal debris on the runway (dropped by a preceding Continental Airlines DC-10) burst a tyre, sending rubber fragments into a fuel tank and triggering a fire; all 109 people on board and 4 on the ground were killed, the type's only fatal accident. Concorde returned to service in November 2001 after safety modifications, but a combination of the post-9/11 downturn in premium air travel, rising maintenance costs on an ageing fleet, and Airbus (successor to Aérospatiale) declining to continue supporting the aircraft led British Airways and Air France to jointly retire the fleet in October 2003, ending the era of commercial supersonic passenger flight.\n\nConcorde's daily reality was as remarkable as its statistics: crossing the Atlantic in under three and a half hours at 60,000 ft, passengers could see the curvature of the Earth while drinking champagne, and westbound flights landed at a local time earlier than they had departed - 'arrive before you leave' was a British Airways advertising line, not a joke. The airframe stretched by up to ten inches in flight from skin heating, and a gap that opened beside the flight engineer's panel at Mach 2 famously has a BA engineer's cap wedged in it to this day, placed there on the type's final flight.\n\nThe dream ended in stages: the Paris crash of July 2000 shattered its perfect safety record, the post-9/11 travel slump gutted its premium clientele, and Airbus withdrew maintenance support. On 24 October 2003 the last commercial flights landed, and on 26 November 2003 Concorde flew for the final time, into Filton where the story had begun. No supersonic passenger aircraft has flown commercially since - though a new generation of startups keeps promising a successor.",
   "specifications": {
@@ -282,6 +283,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

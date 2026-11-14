@@ -1,0 +1,319 @@
+{
+  "name": "PC-12",
+  "fullName": "Pilatus PC-12",
+  "manufacturer": "Pilatus Aircraft",
+  "originCountry": {
+    "name": "Switzerland",
+    "code": "ch"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Pressurised single-engine turboprop for executive, air ambulance, cargo and special-mission flying",
+  "tagline": "The Pilatus PC-12 is a pressurised, single-engine turboprop with a large rear cargo door, certified in Switzerland on 30th March 1994. It serves as an executive aircraft, an air ambulance and a cargo hauler, and as the U-28A Draco it is a US Air Force special operations surveillance platform. Pilatus delivered its 2,000th on 12th May 2023.",
+  "status": "In Service",
+  "condition": "Operational - Commercial",
+  "inProduction": true,
+  "quickFacts": [
+    "Development was announced at the NBAA convention in October 1989. Two prototypes were completed on 1st May 1991, and the first flight was on 31st May 1991. A wing redesign with longer span and winglets delayed certification.{{ref:wiki-pc12}}",
+    "The Swiss type certificate came on 30th March 1994 and FAA approval on 15th July 1994. The Royal Flying Doctor Service of Australia was the launch customer in 1994.{{ref:wiki-pc12}}",
+    "The 2,000th PC-12 was delivered on 12th May 2023, with 1,889 in service and 31 in storage. The fleet reached 10 million flight hours the same month.{{ref:wiki-pc12}}",
+    "The PC-12NGX was announced in October 2019, the PC-12 PRO with Garmin G3000 Prime avionics and AutoLand on 14th March 2025, and the first PROs entered service with the Royal Flying Doctor Service in 2026.{{ref:wiki-pc12}}{{ref:rfds-wa}}",
+    "The US Air Force flies the PC-12 as the U-28A Draco on special operations intelligence, surveillance and reconnaissance. The name was approved in May 2019, and in August 2022 US Special Operations Command selected the AT-802U Sky Warden to take over the strike and surveillance role.{{ref:wiki-pc12}}",
+    "Four fatal accidents on the page include the 22nd March 2009 crash near Butte, Montana, with 14 killed, and the 30th November 2019 crash near Chamberlain, South Dakota, with nine of 12 killed.{{ref:wiki-pc12}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the PC-12 NG from the manufacturer's data on the Wikipedia page. The NGX cruises at 290 kn TAS and has a PT6E-67XP engine. The page gives no maximum speed, so none is quoted. Prices: the page gives the NGX at US$4.39 million base at its 2019 announcement and US$6.028 million equipped in 2023. The PRO is quoted at about US$6.8 million typically equipped, and a March 2026 order for 12 PROs was reported at about US$82 million. These are list and order prices, not market prices.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "Not published; cruise 285 kn"
+    },
+    "cruiseSpeed": "285 kn (328 mph / 528 km/h)",
+    "range": {
+      "miles": 2123,
+      "text": "1,845 nmi (2,123 mi / 3,417 km), with VFR reserves"
+    },
+    "serviceCeiling": {
+      "ft": 30000,
+      "text": "30,000 ft (9,144 m)"
+    },
+    "wingspan": {
+      "ft": 53.42,
+      "text": "53 ft 5 in (16.28 m)"
+    },
+    "length": {
+      "ft": 47.25,
+      "text": "47 ft 3 in (14.4 m)"
+    },
+    "height": {
+      "ft": 14,
+      "text": "14 ft 0 in (4.26 m)"
+    },
+    "weight": "empty: 6,195 lb (2,810 kg); MTOW: 10,450 lb (4,740 kg)",
+    "engines": "1 x Pratt & Whitney Canada PT6A-67P turboprop, 1,200 shp (890 kW), four-blade Hartzell composite propeller",
+    "crew": "1 or 2",
+    "capacity": "6 to 9 passengers",
+    "firstFlight": {
+      "date": "1991-05-31",
+      "year": 1991
+    },
+    "serviceEntryDate": "1994",
+    "numberBuilt": 2000,
+    "unitCost": {
+      "usd": 6800000,
+      "text": "US$6.8 million for a typically equipped PC-12 PRO (launch quote, March 2025); a March 2026 order for 12 PROs was reported at about US$82 million",
+      "inflationText": "NGX launched at a US$4.39 million base price in 2019; the PC-12 sold for about US$3.3 million in 2005"
+    },
+    "retiredDate": null
+  },
+  "variants": [
+    {
+      "code": "PC-12/41 and PC-12/45",
+      "desc": "The original production model, certified in Switzerland in 1994, had a PT6A-67B engine, a 4,100 kg MTOW and a round-dial cockpit. The PC-12/45 followed in 1996 with the same engine and a 4,500 kg MTOW, and existing aircraft could be converted. Nearly all /45s are Series 10."
+    },
+    {
+      "code": "PC-12/47",
+      "desc": "Certified in 2005, the PC-12/47 kept the PT6A-67B engine and raised MTOW to 4,740 kg. It also had an updated overhead panel and switch layout. The PC-12 sold for about US$3.3 million in 2005, and its price had grown to US$4.7 million by 2015."
+    },
+    {
+      "code": "PC-12 NG (PC-12/47E)",
+      "desc": "Announced at NBAA in 2006, launched in 2007 and certified in 2008, with Honeywell avionics and a PT6A-67P engine. The first NG was delivered in May 2008. It is the model whose figures are quoted on this page, and Surf Air ordered 15 of them in August 2014 with 50 options."
+    },
+    {
+      "code": "PC-12 NGX and PC-12 PRO",
+      "desc": "The NGX, announced in October 2019, has a PT6E-67XP engine with FADEC and autothrottle, a 290 kn TAS cruise and 10 percent larger windows. The PRO, announced on 14th March 2025, adds Garmin G3000 Prime avionics with AutoLand, and is certified as the PC-12/47G."
+    },
+    {
+      "code": "PC-12M Spectre and U-28A Draco",
+      "desc": "The Spectre, called Eagle in the US at first, is the multi-mission version. The U-28A Draco is the US Air Force special operations surveillance variant, flown by the 319th, 318th, 310th and 34th Special Operations Squadrons from Hurlburt Field and Cannon Air Force Base. The 34th was activated on 9th April 2010."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Flying Doctor Service (Australia)",
+      "role": "Air ambulance",
+      "status": "In Service",
+      "since": "1994",
+      "fleetSize": "32 on the Wikipedia page and 36 on the service's fleet page",
+      "homeBase": "Australia"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "U-28A Draco special operations surveillance",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published; flown by four squadrons",
+      "homeBase": "Hurlburt Field, Florida, and Cannon Air Force Base, New Mexico"
+    },
+    {
+      "name": "Finnish Air Force",
+      "role": "Transport and utility",
+      "status": "In Service",
+      "since": "2009",
+      "fleetSize": "6",
+      "homeBase": "Finland"
+    },
+    {
+      "name": "Tradewind Aviation",
+      "role": "Charter",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "20 PC-12NGX ordered in 2022, with deliveries of three to four a year through 2027",
+      "homeBase": "United States"
+    },
+    {
+      "name": "PlaneSense",
+      "role": "Fractional ownership",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "34 in 2015",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Surf Air",
+      "role": "Scheduled commuter service",
+      "status": "In Service",
+      "since": "2014",
+      "fleetSize": "15 PC-12NG ordered in August 2014, with 50 options",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Life Flight Network",
+      "role": "Air ambulance",
+      "status": "In Service",
+      "since": "2026",
+      "fleetSize": "12 PC-12 PRO ordered in March 2026",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Royal Canadian Mounted Police and the Red Cross",
+      "role": "Multi-mission and aid",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "Canada and various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "PC12",
+    "howToFind": "Search for ICAO type PC12 on a public tracker. They are common in Australia, the United States and Europe, and the Royal Flying Doctor Service flies many from bases in the Australian outback."
+  },
+  "tags": [
+    "PC-12",
+    "Pilatus",
+    "turboprop",
+    "single-engine",
+    "Royal Flying Doctor Service",
+    "U-28A",
+    "air ambulance",
+    "NGX",
+    "PRO"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Pilatus PC-12, covering the NG, NGX and PRO generations, the Royal Flying Doctor Service, the U-28A Draco and the 2026 price.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Pilatus PC-12 is a pressurised, single-engine turboprop from Switzerland, with a large aft cargo door that lets it carry freight, stretchers or passengers in the same cabin. Development was announced at the NBAA convention in October 1989, the first flight was on 31st May 1991, and the Swiss type certificate was issued on 30th March 1994.{{ref:wiki-pc12}}",
+      "Pilatus delivered the 2,000th aircraft on 12th May 2023, and the type is in production as the PC-12 PRO.{{ref:wiki-pc12}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: One Engine, One Cabin",
+        "paragraphs": [
+          "Two prototypes were completed on 1st May 1991, and the first flight was on 31st May 1991. A wing redesign with longer span and winglets delayed certification, which arrived from Switzerland on 30th March 1994 and from the FAA on 15th July 1994. The Royal Flying Doctor Service of Australia was the launch customer that year.{{ref:wiki-pc12}}",
+          "The PC-12 NG has a 53 ft 5 in wingspan, a length of 47 ft 3 in and a 14 ft height. Empty weight is 6,195 lb and maximum take-off weight 10,450 lb, and the cabin is 16.9 ft long and up to 5 ft wide with a large aft cargo door. It seats six to nine.{{ref:wiki-pc12}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering: A Short Field Single",
+        "paragraphs": [
+          "A single Pratt and Whitney Canada PT6A-67P of 1,200 shp drives a four-blade Hartzell composite propeller 8 ft 9 in across. Fuel capacity is 402 US gallons, and fuel burn is about 66 US gallons an hour. It cruises at 285 kn, has a 1,845 nmi range with VFR reserves and a service ceiling of 30,000 ft.{{ref:wiki-pc12}}",
+          "The take-off distance over a 50 ft obstacle is 2,602 ft and the landing distance 2,169 ft, which is why the type works from gravel strips. Maintenance intervals grew with time. In May 2018 the interval was raised from 100 or 150 hours to 300 hours, and for the NGX, scheduled maintenance extends to 600 hours and the time between overhauls from 4,000 to 5,000 hours.{{ref:wiki-pc12}}"
+        ]
+      },
+      {
+        "heading": "From /41 to PRO",
+        "paragraphs": [
+          "The first model, the PC-12/41, had a PT6A-67B engine and a round-dial cockpit. The /45 followed in 1996, the /47 in 2005, and the NG, announced at NBAA 2006 and launched at NBAA 2007, had Honeywell avionics and the PT6A-67P engine. The first NG was delivered in May 2008.{{ref:wiki-pc12}}",
+          "The NGX was announced in October 2019 with a PT6E-67XP engine, FADEC, autothrottle and a 290 kn cruise. The PRO was announced on 14th March 2025 with Garmin G3000 Prime avionics and AutoLand, and deliveries began late in 2025. A PRO carries a 100 lb payload increase over the NGX.{{ref:wiki-pc12}}{{ref:ain}}"
+        ]
+      },
+      {
+        "heading": "Production and Use",
+        "paragraphs": [
+          "Pilatus delivered the 1,000th aircraft in June 2010, 1,200 by August 2013, the 1,400th in July 2016 and 1,800 by May 2021, including 82 in 2020. The 2,000th was delivered on 12th May 2023, with 1,889 in service and 31 in storage. 80 were built in 2022, with a backlog of 63.{{ref:wiki-pc12}}",
+          "Owner-operators account for 20 to 30 percent of sales. Tradewind Aviation ordered 20 PC-12NGX in 2022 for over US$100 million, Surf Air ordered 15 NGs in August 2014 with 50 options, and PlaneSense operated 34 in 2015.{{ref:wiki-pc12}}"
+        ]
+      },
+      {
+        "heading": "The Flying Doctor and the Air Force",
+        "paragraphs": [
+          "The Royal Flying Doctor Service flies 32 PC-12s according to Wikipedia and 36 according to its own fleet page. RFDS Western Australia's PC-12s fly a combined six million kilometres a year and support more than 7,500 aeromedical retrievals annually, and its first PC-12 PRO joined in June 2026 ahead of entering service. The service plans to replace eight retiring PC-12s by 2030, and RFDS SA/NT committed A$60 million to five PROs.{{ref:wiki-pc12}}{{ref:rfds-fleet}}{{ref:rfds-wa}}{{ref:rfds-sa}}",
+          "In US service the U-28A Draco is flown by the 319th, 318th, 310th and 34th Special Operations Squadrons, and the 34th was activated on 9th April 2010. US Special Operations Command selected the AT-802U Sky Warden in August 2022 to take over the strike and surveillance role from the U-28A. The Finnish Air Force selected the PC-12 NG in 2009 and has six.{{ref:wiki-pc12}}"
+        ]
+      },
+      {
+        "heading": "Price and Resale",
+        "paragraphs": [
+          "The price grew from US$3.3 million in 2005 to US$4.7 million in 2015. The NGX started at a US$4.39 million base price in the 2019 announcement, and an equipped aircraft was US$6.028 million in 2023. Resale holds well: the page says a PC-12 retains 80 to 85 percent of its selling price after 10 years of average use.{{ref:wiki-pc12}}",
+          "The PRO was quoted at a typically equipped base price of about US$6.8 million at launch in March 2025. In March 2026 Life Flight Network ordered a dozen PROs, reported to be worth about US$82 million.{{ref:jetaviva}}{{ref:ain}}"
+        ]
+      },
+      {
+        "heading": "Accidents",
+        "paragraphs": [
+          "The Wikipedia page lists four accidents: PC-12/45 N128CM near Butte, Montana, on 22nd March 2009, with 14 killed, PC-12/47E N56KJ near Chamberlain, South Dakota, on 30th November 2019, with nine of 12 killed, PC-12/47E YR-PDV at Milan-Linate on 3rd October 2021, with all eight killed, and PC-12/47E N357HE near Gillette, Wyoming, on 26th July 2024, with all seven killed.{{ref:wiki-pc12}}",
+          "The Aviation Safety Network's Wikibase lists 136 accidents and incidents between 3rd February 1998 and 15th December 2023, with 106 fatalities, though the Wikipedia page flags that source as unreliable.{{ref:wiki-pc12}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-pc12",
+      "name": "Pilatus PC-12",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pilatus_PC-12"
+    },
+    {
+      "id": "jetaviva",
+      "name": "Introducing the Pilatus PC-12 PRO",
+      "publisher": "JetAviva",
+      "url": "https://www.jetaviva.com/introducing-the-pilatus-pc-12-pro-the-most-advanced-single-engine-turboprop/"
+    },
+    {
+      "id": "ain",
+      "name": "Life Flight goes Pro, orders a dozen PC-12s",
+      "publisher": "AIN",
+      "url": "https://backend.ainonline.com/aviation-news/business-aviation/2026-03-10/life-flight-goes-pro-order-dozen-pc-12s"
+    },
+    {
+      "id": "rfds-fleet",
+      "name": "Our fleet",
+      "publisher": "Royal Flying Doctor Service",
+      "url": "https://www.flyingdoctor.org.au/about-the-rfds/our-fleet/"
+    },
+    {
+      "id": "rfds-wa",
+      "name": "RFDS WA welcomes first Pilatus PC-12 PRO aircraft",
+      "publisher": "Royal Flying Doctor Service",
+      "url": "https://www.flyingdoctor.org.au/news/rfds-wa-welcomes-first-pilatus-pc12-pro-aircraft/"
+    },
+    {
+      "id": "rfds-sa",
+      "name": "Flying Doctor welcomes next-gen aircraft",
+      "publisher": "Royal Flying Doctor Service",
+      "url": "https://www.flyingdoctor.org.au/news/next-gen-aircraft/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Pilatus PC-12 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pilatus_PC-12"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2009-03-22",
+      "title": "PC-12/45 N128CM near Butte, Montana",
+      "tag": "Fatal accident",
+      "summary": "A PC-12/45 crashed near Butte, Montana, killing 14.",
+      "fatalities": 14,
+      "source": "https://en.wikipedia.org/wiki/Pilatus_PC-12"
+    },
+    {
+      "date": "2019-11-30",
+      "title": "PC-12/47E N56KJ near Chamberlain, South Dakota",
+      "tag": "Fatal accident",
+      "summary": "A PC-12/47E crashed near Chamberlain, South Dakota, killing nine of the 12 on board.",
+      "fatalities": 9,
+      "source": "https://en.wikipedia.org/wiki/Pilatus_PC-12"
+    },
+    {
+      "date": "2021-10-03",
+      "title": "PC-12/47E YR-PDV at Milan-Linate",
+      "tag": "Fatal accident",
+      "summary": "A PC-12/47E crashed at Milan-Linate, killing all eight on board.",
+      "fatalities": 8,
+      "source": "https://en.wikipedia.org/wiki/Pilatus_PC-12"
+    },
+    {
+      "date": "2024-07-26",
+      "title": "PC-12/47E N357HE near Gillette, Wyoming",
+      "tag": "Fatal accident",
+      "summary": "A PC-12/47E crashed near Gillette, Wyoming, killing all seven on board.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Pilatus_PC-12"
+    }
+  ],
+  "lastUpdated": "2026-11-13"
+}

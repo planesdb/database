@@ -13,6 +13,7 @@
   "role": "Single-Engine Multirole Fighter",
   "tagline": "The Chengdu J-10 is a single-engine, delta-wing multirole fighter with canard foreplanes, designed by the Chengdu Aircraft Design Institute for the People's Liberation Army Air Force. It first flew on 23 March 1998, more than 600 have been built, and Pakistan and Uzbekistan have both taken delivery of the export J-10CE.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "The J-10 was the first Chinese aircraft programme to use modern development and acquisition processes, and Chengdu says about 60 percent of the aircraft needed new technology, against the usual 30 percent for a new design.",
@@ -133,6 +134,11 @@
     {
       "date": "2026-11-01",
       "change": "Added the Lavi and J-9 design dispute, the market and political reaction to the May 2025 clash, and the Venezuelan interest.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -1,0 +1,355 @@
+{
+  "name": "B-24 Liberator",
+  "fullName": "Consolidated B-24 Liberator",
+  "manufacturer": "Consolidated Aircraft",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "bombers"
+  ],
+  "role": "Heavy bomber and long-range maritime patrol aircraft",
+  "tagline": "The Consolidated B-24 Liberator is a four-engine, long-range heavy bomber built by Consolidated Aircraft of San Diego, which first flew on 29th December 1939. About 18,500 were built, more than any other American combat aircraft of the Second World War, and it flew as a bomber, a maritime patrol aircraft and a transport on every front.",
+  "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
+  "inProduction": false,
+  "quickFacts": [
+    "Between about 18,188 and 18,500 B-24s were built, depending on the source, with the USAAF taking delivery of its first B-24As in mid-1941. At Ford's Willow Run plant in Michigan, assembly peaked at one aircraft per hour.{{ref:wiki-b24}}",
+    "On 1st August 1943, 177 B-24s flew Operation Tidal Wave, a low-level raid on the Ploiești oil refineries in Romania. By one count 54 of them were lost, the costliest single mission the type flew.{{ref:wiki-b24}}",
+    "Lady Be Good (41-24301) vanished on 4th April 1943 returning from a raid on Naples, and its wreck was reported in the Libyan desert in November 1958. All nine crew had died; eight had bailed out and walked north, and the bombardier's parachute failed to open.{{ref:wiki-lady-be-good}}",
+    "Joseph P. Kennedy Jr., elder brother of the future President, was killed in 1944 flying a radio-controlled Liberator packed with explosives on a mission under the Operation Aphrodite programme.{{ref:wiki-b24}}",
+    "The B-24's high-aspect-ratio Davis wing gave it long range and a large bomb load, but also handling that was difficult at full weight, icing problems and less resilience to battle damage than the B-17's wing.{{ref:wiki-b24}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the generic B-24 as listed in the main references. Different sources list slightly different weights and crew sizes for the B-24J, the most-produced variant. Total production varies from 18,188 to 18,482 (by September 1945) depending on the source.",
+    "maxSpeed": {
+      "mph": 297,
+      "text": "258 kn (297 mph / 478 km/h) at 25,000 ft"
+    },
+    "cruiseSpeed": "215 mph (346 km/h)",
+    "range": {
+      "miles": 1540,
+      "text": "1,540 mi (2,480 km, 1,340 nmi) with a full bomb load; ferry range 3,700 mi (5,950 km)"
+    },
+    "serviceCeiling": {
+      "ft": 28000,
+      "text": "28,000 ft (8,500 m)"
+    },
+    "wingspan": {
+      "ft": 110,
+      "text": "110 ft (33.5 m)"
+    },
+    "length": {
+      "ft": 67.2,
+      "text": "67 ft 2 in (20.47 m)"
+    },
+    "height": {
+      "ft": 17.6,
+      "text": "17 ft 7.5 in (5.37 m)"
+    },
+    "weight": "empty: 36,500 lb (16,556 kg); MTOW: 65,000 lb (29,484 kg)",
+    "engines": "4 x Pratt & Whitney R-1830 Twin Wasp 14-cylinder radial engines, 1,200 hp (895 kW) each",
+    "armament": "10 x .50 cal (12.7 mm) machine guns in turrets and waist positions; up to 8,000 lb (3,600 kg) of bombs on short-range missions",
+    "crew": "10 (B-24J)",
+    "capacity": "Up to 8,000 lb of bombs; C-87 transport version carried about 20 passengers",
+    "firstFlight": {
+      "date": "1939-12-29",
+      "year": 1939
+    },
+    "serviceEntryDate": "1941",
+    "retiredDate": "1968",
+    "numberBuilt": 18482,
+    "unitCost": {
+      "usd": 215516,
+      "text": "$215,516 (1944) - roughly $4.1M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$4.1M in 2026 dollars"
+    },
+    "combatLosses": "Operation Tidal Wave on 1st August 1943 cost 54 of 177 B-24s sent against Ploiești by one count; the 44th Bomb Group alone lost 13 of its original 27 aircraft between November 1942 and March 1943"
+  },
+  "variants": [
+    {
+      "code": "XB-24 / LB-30 (early Liberators)",
+      "desc": "The prototype XB-24 first flew on 29th December 1939, built around David Davis's high-aspect-ratio wing. Early production aircraft went to the RAF as the Liberator I and II, called LB-30 in American service, after French orders were taken over by Britain. The first USAAF B-24As were delivered in mid-1941."
+    },
+    {
+      "code": "B-24D",
+      "desc": "The first large production version, with turbocharged engines, more fuel and heavier armament. It served from North Africa to the Pacific and was the type used in the Ploiești raid of August 1943. Surviving examples include Strawberry Bitch at the National Museum of the US Air Force."
+    },
+    {
+      "code": "B-24H / J / L / M",
+      "desc": "The late-war bombers, with a power-operated nose turret that fixed the earlier weakness against head-on fighter attack. The B-24J was by far the most numerous, at more than 6,600 built. Later versions removed unnecessary weight, and by 1945 the Liberator was the standard heavy bomber in the Pacific."
+    },
+    {
+      "code": "PB4Y-1 / PB4Y-2 Privateer",
+      "desc": "US Navy versions for long-range maritime patrol. The PB4Y-1 was a standard B-24 with radar and Navy equipment, flown in the Atlantic and Pacific. The PB4Y-2 Privateer had a lengthened fuselage and a single tail fin in place of the twin fins, to improve handling."
+    },
+    {
+      "code": "RAF Coastal Command Liberators",
+      "desc": "Very-long-range Liberators with radar, the Leigh Light searchlight and extra fuel tanks, flown against U-boats in the Atlantic. They helped close the 'Mid-Atlantic gap' where land-based aircraft had not been able to reach, and are credited with sinking or helping to sink 93 U-boats."
+    },
+    {
+      "code": "C-87 Liberator Express and other conversions",
+      "desc": "A transport version with the bomb bay replaced by a cabin and cargo door, flown across the Hump into China. Other conversions served as tankers, special-duty aircraft and BQ-8 radio-controlled bombs under Operation Aphrodite, the programme in which Joseph P. Kennedy Jr. was killed."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Army Air Forces",
+      "role": "Primary operator",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "Retired",
+      "homeBase": "Multiple bases - Europe, Mediterranean and Pacific"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Coastal Command and Bomber Command",
+      "status": "Retired",
+      "since": "1941",
+      "fleetSize": "Retired",
+      "homeBase": "RAF Lyneham - Wiltshire"
+    },
+    {
+      "name": "United States Navy",
+      "role": "PB4Y-1 and PB4Y-2 Privateer maritime patrol",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "Retired",
+      "homeBase": "Multiple - Atlantic and Pacific"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Maritime patrol and transport",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "Retired",
+      "homeBase": "Canada"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Heavy bomber",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "Retired",
+      "homeBase": "Darwin - Northern Territory"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "Last military operator",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "Retired 1968",
+      "homeBase": "India"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B24",
+    "howToFind": "The only airworthy B-24 is the Commemorative Air Force's example in Dallas, Texas, which flies in a 'Diamond Lil' livery. It appears on trackers only when a warbird operator broadcasts its position, so check air show schedules instead."
+  },
+  "lastUpdated": "2026-11-13",
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the B-24 Liberator - the Davis wing, the Ploiești raid, Coastal Command, the Lady Be Good wreck, and the surviving airframes.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "B-24",
+    "Liberator",
+    "Consolidated",
+    "Davis wing",
+    "Ploiești",
+    "Tidal Wave",
+    "Lady Be Good",
+    "PB4Y",
+    "Coastal Command",
+    "WWII bomber"
+  ],
+  "article": {
+    "overview": [
+      "The Consolidated B-24 Liberator is a four-engine heavy bomber with a distinctive shoulder-mounted high-aspect-ratio wing and twin tail fins. It first flew on 29th December 1939, and some 18,500 were built, making it the most-produced American combat aircraft of the Second World War.{{ref:wiki-b24}}",
+      "It was never as famous as the B-17 Flying Fortress, which it flew beside over Europe, but it carried more bombs further, covered the Pacific and the Atlantic, and flew in roles from patrol and transport to crewed flying bomb.{{ref:wiki-b24}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: The Davis Wing",
+        "paragraphs": [
+          "The Liberator was shaped by its wing. David Davis's design was a high-mounted, high-aspect-ratio wing that gave a high cruising speed, a long range and a heavy bomb load for the weight, and it set the B-24 apart from the B-17's lower, thicker wing. The XB-24 prototype first flew on 29th December 1939.{{ref:wiki-b24}}",
+          "The RAF gave the aircraft its name. Early production aircraft went to Britain, and the USAAF took its first B-24As in mid-1941. The Davis wing's drawbacks showed up quickly: the aircraft was difficult to handle when fully loaded, sensitive to ice build-up and less able to take battle damage than the B-17's wing, and it picked up the nickname 'Flying Boxcar'.{{ref:wiki-b24}}"
+        ]
+      },
+      {
+        "heading": "Mass Production at Willow Run",
+        "paragraphs": [
+          "The B-24 was cheaper and easier to build than the B-17, and it was made in large numbers at several plants. Ford's Willow Run factory in Michigan was the best known, and at its peak it turned out one aircraft per hour. Production totals vary by source, from 18,188 to 18,482 by September 1945, but all agree the figure was the largest of any American combat aircraft in the war.{{ref:wiki-b24}}",
+          "The unit cost was $215,516 in 1944, against about $204,000 for a B-17. For that money the B-24 carried a heavier bomb load over a longer range than the B-17, which is why it was used so widely in the Pacific and the Mediterranean.{{ref:wiki-b24}}"
+        ]
+      },
+      {
+        "heading": "Ploiești and the Air War in Europe",
+        "paragraphs": [
+          "The Liberator's costliest mission was Operation Tidal Wave on 1st August 1943, when 177 B-24s flew a low-level raid from North Africa against the oil refineries at Ploiești in Romania. By one count 54 were lost, and it was the largest single loss the type suffered. The 44th Bomb Group, one of the first B-24 units, had already lost 13 of its original 27 aircraft between November 1942 and March 1943.{{ref:wiki-b24}}",
+          "Liberators flew from Britain, North Africa and Italy against targets across Germany and the Balkans, and the 44th Bomb Group's early losses show how hard the first campaigns were. The airframe's survivability was a standing worry for the crews, because of the Davis wing's vulnerability to battle damage."
+        ]
+      },
+      {
+        "heading": "Coastal Command, Aphrodite and the Pacific",
+        "paragraphs": [
+          "The B-24's range made it the first aircraft that could close the Mid-Atlantic gap, where U-boats had operated beyond the reach of land-based patrol aircraft. RAF Coastal Command's very-long-range Liberators, with radar and the Leigh Light, are credited with sinking or helping to sink 93 U-boats.{{ref:wiki-b24}}",
+          "In the Pacific the Liberator was one of the main heavy bombers of the war against Japan. Louis Zamperini, the Olympic runner, survived the crash of the B-24D Green Hornet on 27th May 1943, when eight of the 11 aboard were killed, and then 47 days on a life raft with the pilot, Russell Phillips. Under Operation Aphrodite, Joseph P. Kennedy Jr. died when his radio-controlled PB4Y-1 exploded in flight in 1944.{{ref:wiki-b24}}"
+        ]
+      },
+      {
+        "heading": "Lady Be Good and the Survivors",
+        "paragraphs": [
+          "Lady Be Good, B-24D 41-24301, flew a night raid on Naples on 4th April 1943 and never returned. Its wreck was first reported by an oil survey crew in November 1958 and was confirmed on 27th February 1959, about 710 km south-east of Soluch in the Libyan desert. All nine crew were dead: eight had bailed out and died walking north, and the bombardier's parachute had failed to open. Wreckage was removed from the desert in 1994 and is now in Tobruk.{{ref:wiki-lady-be-good}}",
+          "Fourteen complete B-24 airframes survive, and one is airworthy: the Commemorative Air Force's AM927 in Dallas. The National Museum of the US Air Force holds Strawberry Bitch, and others are at Castle Air Museum, the Pima Air & Space Museum and the Collings Foundation, whose Witchcraft was grounded after the foundation's B-17 crashed in 2019. The Indian Air Force flew the last military Liberators, retiring them in 1968.{{ref:wiki-b24-survivors}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-b24",
+      "name": "Consolidated B-24 Liberator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Consolidated_B-24_Liberator"
+    },
+    {
+      "id": "wiki-lady-be-good",
+      "name": "Lady Be Good (aircraft)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lady_Be_Good_(aircraft)"
+    },
+    {
+      "id": "wiki-b24-survivors",
+      "name": "List of surviving Consolidated B-24 Liberators",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Consolidated_B-24_Liberators"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Consolidated B-24 Liberator on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Consolidated_B-24_Liberator"
+    },
+    {
+      "name": "List of surviving B-24 Liberators",
+      "url": "https://en.wikipedia.org/wiki/List_of_surviving_Consolidated_B-24_Liberators"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1943-04-04",
+      "title": "Lady Be Good lost over the Libyan desert",
+      "tag": "Navigation / lost aircraft",
+      "summary": "B-24D 41-24301 'Lady Be Good' failed to return from a night raid on Naples, overflew its base at Soluch in Libya and ran out of fuel deep in the desert. All nine crew bailed out, eight walked north and died, and the bombardier's parachute failed to open. The wreck was spotted from the air in 1958 and 1959.",
+      "fatalities": 9,
+      "source": "https://en.wikipedia.org/wiki/Lady_Be_Good_(aircraft)"
+    },
+    {
+      "date": "1943-05-03",
+      "title": "Lt Gen Frank Andrews killed in B-24 crash",
+      "tag": "Controlled flight into terrain",
+      "summary": "A B-24 flown by Captain Robert Shannon crashed while carrying Lt Gen Frank Maxwell Andrews, the senior US commander in Europe, back to Washington. Andrews and most of those aboard were killed.",
+      "source": "https://en.wikipedia.org/wiki/Consolidated_B-24_Liberator"
+    },
+    {
+      "date": "1943-05-27",
+      "title": "Green Hornet crash and the Zamperini survival",
+      "tag": "Mechanical failure",
+      "summary": "B-24D Green Hornet crashed into the Pacific on a search-and-rescue mission, killing eight of the 11 aboard. Louis Zamperini, the pilot Russell Phillips and Francis McNamara survived the crash, and only Zamperini and Phillips survived 47 days on a life raft.",
+      "fatalities": 8,
+      "source": "https://en.wikipedia.org/wiki/Consolidated_B-24_Liberator"
+    },
+    {
+      "date": "1943-08-01",
+      "title": "Operation Tidal Wave, Ploiești",
+      "tag": "Combat loss",
+      "summary": "A low-level raid by 177 B-24s on the oil refineries around Ploiești in Romania. Fifty-four aircraft were lost by one count, making it the costliest mission the type ever flew.",
+      "source": "https://en.wikipedia.org/wiki/Consolidated_B-24_Liberator"
+    },
+    {
+      "date": "1944-08-12",
+      "title": "Joseph P. Kennedy Jr. killed during Operation Aphrodite",
+      "tag": "Explosion in flight",
+      "summary": "A PB4Y-1 Liberator converted to a radio-controlled explosive-laden flying bomb exploded in flight, killing Lt Joseph P. Kennedy Jr. and his co-pilot. It was one of the operations in the Aphrodite and Anvil programmes against heavily defended German targets.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Consolidated_B-24_Liberator"
+    }
+  ],
+  "survivors": {
+    "intro": "Fourteen complete B-24 airframes survive worldwide, nine of them in the United States, and only one is airworthy. The famous Lady Be Good is represented only by wreckage.",
+    "airframes": [
+      {
+        "serial": "AM927",
+        "name": "Diamond Lil (livery since 2012)",
+        "location": "Commemorative Air Force",
+        "place": "Dallas, Texas, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Consolidated_B-24_Liberators",
+        "note": "The only airworthy B-24 in the world, carrying the RAF serial AM927 and a Diamond Lil livery since 2012.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "42-72843",
+        "name": "Strawberry Bitch",
+        "location": "National Museum of the United States Air Force",
+        "place": "Dayton, Ohio, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Consolidated_B-24_Liberators",
+        "note": "A B-24D on display in the museum's WWII Gallery.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-44052",
+        "name": "Witchcraft (livery since 2005)",
+        "location": "Collings Foundation",
+        "place": "Stow, Massachusetts, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Consolidated_B-24_Liberators",
+        "note": "A B-24J on display and grounded after a 2019 crash involving the foundation's B-17.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-41906",
+        "name": "Shady Lady (livery of 42-40369)",
+        "location": "Castle Air Museum",
+        "place": "Atwater, California, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Consolidated_B-24_Liberators",
+        "note": "Wears the markings of the B-24D Shady Lady, one of the aircraft that flew from Darwin to bomb Balikpapan on 13th August 1943.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "44-44175",
+        "name": "Bungay Buckaroo (livery)",
+        "location": "Pima Air & Space Museum",
+        "place": "Tucson, Arizona, United States",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Consolidated_B-24_Liberators",
+        "note": "Displayed in Eighth Air Force markings at Pima.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "41-24301",
+        "name": "Lady Be Good (wreckage)",
+        "location": "City of Tobruk",
+        "place": "Tobruk, Libya",
+        "url": "https://en.wikipedia.org/wiki/List_of_surviving_Consolidated_B-24_Liberators",
+        "note": "Wreckage only, removed from the Libyan desert in 1994. It is not a complete airframe.",
+        "countryCode": "ly",
+        "country": "Libya"
+      }
+    ]
+  }
+}

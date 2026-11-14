@@ -13,6 +13,7 @@
   "role": "Air Superiority Stealth Fighter",
   "tagline": "China's twin-engine canard stealth fighter. It made China only the second country after the United States to field an operational stealth fighter, and now anchors PLAAF plans to contest air superiority against Western aircraft like the F-22 and F-35.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "The J-20 grew out of a Chinese requirement for a long-range, low-observable air-superiority fighter dating to the 1990s J-XX studies, with the program formally endorsed around 2008. Prototype '2001' made its first flight on 11 January 2011, and a rapid succession of prototypes through 2011-2015 progressively refined the diverterless supersonic intakes, canopy, engine nacelles and stealth shaping before the design was frozen ahead of low-rate initial production in December 2015. The type was officially unveiled in PLAAF service on 9 March 2017, initially flying with interim Russian-supplied AL-31FM2 engines before transitioning to the domestic Shenyang WS-10C from around 2019-2021 as China worked to end its reliance on Russian powerplants. Production has since accelerated sharply, with independent trackers estimating well over 300 airframes delivered by late 2025 at a reported annual rate approaching 100-120 aircraft - a pace that has already pushed total J-20 numbers past the entire 187-aircraft production run of the US F-22 Raptor. In September 2025 the PLAAF publicly rolled out two new sub-variants: the J-20A, an upgraded single-seater optimised for the more powerful indigenous WS-15 engine, and the J-20S, the world's first operational twin-seat stealth fighter, intended for roles such as directing drone 'loyal wingman' formations and airborne battle management. The J-20 has since become a fixture of Chinese exercises over the East and South China Seas and has featured heavily in tensions with Taiwan and in encounters with US and allied aircraft in the Indo-Pacific.",
   "specifications": {
@@ -265,6 +266,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

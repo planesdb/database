@@ -13,6 +13,7 @@
   "role": "Four-Engine Heavy Bomber",
   "tagline": "The Boeing B-17 Flying Fortress is a four-engine heavy bomber built for the United States Army Air Forces, and the aircraft the American daylight strategic bombing campaign over Europe was built around. 12,731 were produced between 1936 and 1945, they dropped more than 640,000 tons of bombs on Germany, and the last military operator retired the type in 1968.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "The name came from a reporter's remark at the Model 299's public debut in 1935 about the number of gun positions along the fuselage; Boeing then registered 'Flying Fortress' as a trademark.",
@@ -145,6 +146,11 @@
     {
       "date": "2026-09-05",
       "change": "Boeing B-17 Flying Fortress added - history, specs, variants, accident record and survivors. Sources: Imperial War Museums, US Air Force and National Museum of the USAF fact sheets, NTSB and US Coast Guard aviation history sources, museum collection records and Wikipedia.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

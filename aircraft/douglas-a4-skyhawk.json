@@ -1,0 +1,365 @@
+{
+  "name": "A-4 Skyhawk",
+  "fullName": "Douglas A-4 Skyhawk",
+  "manufacturer": "Douglas Aircraft Company",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Carrier-based light attack aircraft",
+  "tagline": "The A-4 Skyhawk is a single-engine, delta-wing carrier attack aircraft designed by Ed Heinemann at Douglas for the US Navy and Marine Corps. It first flew on 22nd June 1954, 2,960 were built over 25 years, and it was small enough to fly from the smallest carriers while carrying 8,500 lb of weapons.",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
+  "inProduction": false,
+  "quickFacts": [
+    "Ed Heinemann designed the A-4 to weigh about half of what the Navy had asked for, and the wing was so small and stiff that it needed no folding mechanism for carrier stowage. The prototype XA4D-1 first flew on 22nd June 1954 at Edwards.{{ref:wiki-a4}}",
+    "On 29th July 1967 a Zuni rocket fired by accident from an F-4B struck an A-4 on the deck of USS Forrestal and started a fire that killed 134 and injured 161. Twenty-one of the 73 aircraft aboard were destroyed, among them 11 A-4Es, and repairs cost about US$72 million.{{ref:wiki-forrestal}}",
+    "Argentina flew 48 Skyhawks in the 1982 Falklands War and lost 22 of them, 8 to Sea Harriers, 7 to ship missiles, 4 to ground fire and 3 in crashes. The Skyhawks hit the British ships in San Carlos Water, including HMS Coventry, which sank on 25th May 1982.{{ref:wiki-a4}}",
+    "Navy pilot Everett Alvarez was shot down on 5th August 1964 flying an A-4 from USS Constellation, and became the first American naval aviator taken prisoner in Vietnam. He was released on 12th February 1973.{{ref:wiki-a4}}",
+    "On 1st May 1967, Lieutenant Commander Theodore Swartz shot down a MiG-17 with a Zuni rocket from his A-4, a rare air-to-air kill for the type.{{ref:wiki-a4}}",
+    "The first 500 Skyhawks averaged about US$860,000 each, with the A-4C at US$587,000, the A-4E at US$750,000 and the A-4M at US$860,000.{{ref:skyhawk-cost}}",
+    "A-4s were lost in large numbers over Vietnam: 362 in all, 271 US Navy and 91 Marine Corps, 32 of them to surface-to-air missiles.{{ref:wiki-a4}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the single-seat A-4 in its basic form, with the J52-P-6A engine. The A-4M, last built, had a J52-P-408 of 11,200 lbf. The service ceiling is not given on the page checked, and other sources vary.",
+    "maxSpeed": {
+      "mph": 673,
+      "text": "585 kn (673 mph / 1,083 km/h)"
+    },
+    "cruiseSpeed": "Not published in the sources checked",
+    "range": {
+      "miles": 1160,
+      "text": "1,160 mi (1,867 km, 1,008 nmi) combat; ferry 2,525 mi (4,063 km, 2,194 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Not published in the source checked"
+    },
+    "wingspan": {
+      "ft": 27.5,
+      "text": "27 ft 6 in (8.38 m)"
+    },
+    "length": {
+      "ft": 40.1,
+      "text": "40 ft 1.5 in (12.23 m)"
+    },
+    "height": {
+      "ft": 15.2,
+      "text": "15 ft 2 in (4.62 m)"
+    },
+    "weight": "empty: 9,853 lb (4,469 kg); gross: 16,216 lb (7,355 kg); MTOW: 24,500 lb (11,113 kg)",
+    "engines": "1 x Pratt & Whitney J52-P-6A turbojet, 8,500 lbf (37.8 kN); A-4M J52-P-408, 11,200 lbf (49.8 kN)",
+    "armament": "2 x 20 mm Colt Mk 12 cannon; up to 8,500 lb (3,856 kg) of stores",
+    "crew": "1",
+    "capacity": "Not applicable",
+    "firstFlight": {
+      "date": "1954-06-22",
+      "year": 1954
+    },
+    "serviceEntryDate": "1st October 1956",
+    "retiredDate": null,
+    "numberBuilt": 2960,
+    "unitCost": {
+      "usd": 10830000,
+      "text": "About US$10.83 million (A-4M, first 500 aircraft averaged US$860,000)",
+      "inflationText": "About US$860,000 when new, converted to November 2026 dollars using the 1955 CPI. The sources do not state the price year, so this conversion assumes 1955."
+    },
+    "combatLosses": "362 lost in Vietnam: 271 US Navy and 91 US Marine Corps (81 A-4 and 10 TA-4F), 32 to missiles; 22 of Argentina's 48 lost in the Falklands"
+  },
+  "variants": [
+    {
+      "code": "A-4A / A-4B / A-4C",
+      "desc": "The early single-seat models, with the A-4A entering Navy service on 1st October 1956. Argentina bought 25 A-4B in 1966 and 25 more in 1970, and the Navy's A-4C cost about US$587,000 per aircraft, according to the same source as the A-4M figure."
+    },
+    {
+      "code": "A-4E / A-4F",
+      "desc": "The A-4E cost about US$750,000 each and was the main Vietnam model, with more powerful engines. The A-4F became the Blue Angels aircraft in the 1970s, while A-4E and F models were flown by TOPGUN as MiG-17 aggressors until 1999."
+    },
+    {
+      "code": "A-4M Skyhawk II",
+      "desc": "The last new model, with the J52-P-408 engine at 11,200 lbf, built for the Marine Corps with production ending in February 1979, at the last A-4M for VMA-331. The A-4M averaged about US$860,000 each."
+    },
+    {
+      "code": "TA-4 / OA-4 (two-seat)",
+      "desc": "The two-seat trainer and forward air control versions made up 555 of the 2,960 built. The last TA-4J left US Navy service on 3rd May 2003, and the Marine OA-4M retired on 22nd June 1994."
+    },
+    {
+      "code": "Export models (A-4G, A-4K, A-4N, A-4AR)",
+      "desc": "Australia's A-4G, New Zealand's A-4K and Israel's A-4N were adapted from the same airframe. Argentina's upgraded A-4AR flew until 14th May 2026."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Navy",
+      "role": "Primary carrier operator",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "Total not given; 271 lost in Vietnam",
+      "homeBase": "United States"
+    },
+    {
+      "name": "United States Marine Corps",
+      "role": "Attack and forward air control",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "Total not given; 91 lost in Vietnam",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Israeli Air Force",
+      "role": "Attack aircraft (Ayit)",
+      "status": "Retired",
+      "since": "1967",
+      "fleetSize": "217 bought plus 46 from US units; retired 13th December 2015",
+      "homeBase": "Israel"
+    },
+    {
+      "name": "Argentine Air Force",
+      "role": "Attack aircraft",
+      "status": "Retired",
+      "since": "1966",
+      "fleetSize": "25 A-4B in 1966, 25 in 1970, 25 A-4C ordered 1976; A-4AR retired 14th May 2026",
+      "homeBase": "Argentina"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Carrier attack aircraft",
+      "status": "Retired",
+      "since": "1960s",
+      "fleetSize": "20 A-4G",
+      "homeBase": "Australia"
+    },
+    {
+      "name": "Royal New Zealand Air Force",
+      "role": "Attack aircraft",
+      "status": "Retired",
+      "since": "1970",
+      "fleetSize": "10 A-4K plus 4 TA-4K in 1970; retired 2001",
+      "homeBase": "New Zealand"
+    },
+    {
+      "name": "Kuwait Air Force",
+      "role": "Attack aircraft",
+      "status": "Retired",
+      "since": "1974",
+      "fleetSize": "36 ordered in 1974; sold to Brazil in 1998",
+      "homeBase": "Kuwait"
+    },
+    {
+      "name": "Republic of Singapore Air Force",
+      "role": "Attack aircraft and trainer",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "Front line ended 2005; trainers 2013",
+      "homeBase": "Singapore"
+    },
+    {
+      "name": "Royal Malaysian Air Force",
+      "role": "Attack aircraft",
+      "status": "Retired",
+      "since": "1984",
+      "fleetSize": "80 refurbished, delivered 1984 to 1985",
+      "homeBase": "Malaysia"
+    },
+    {
+      "name": "Brazilian Navy",
+      "role": "Carrier aircraft",
+      "status": "In Service",
+      "since": "1998",
+      "fleetSize": "A few still operating in 2022",
+      "homeBase": "Brazil"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A4",
+    "howToFind": "A few civil operators fly A-4s as adversary aircraft, including Top Aces with 21 A-4N and one TA-4J, and Draken. They are rarely visible on public trackers."
+  },
+  "tags": [
+    "A-4",
+    "Skyhawk",
+    "Douglas",
+    "Vietnam War",
+    "Falklands War",
+    "Forrestal"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the A-4 Skyhawk, with the Forrestal fire, Vietnam and Falklands history, variants, operators and preserved aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Changed the status to In Service, as the Brazilian Navy still flies the type.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The A-4 Skyhawk is a small single-engine attack aircraft designed by Ed Heinemann at Douglas for the US Navy. It first flew on 22nd June 1954 and entered service on 1st October 1956. Production ended in February 1979 after 2,960, 555 of them two-seaters, and the type served in the US, Israel, Argentina and half a dozen other countries.{{ref:wiki-a4}}",
+      "It was light enough to fly from small carriers, and it fought through the Vietnam War. It was also the aircraft most heavily involved in the worst fire in US naval peacetime history.{{ref:wiki-a4}}{{ref:wiki-forrestal}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: Half the Weight",
+        "paragraphs": [
+          "The Navy asked Douglas for a jet attack aircraft, and Ed Heinemann answered with a design at about half of the weight the Navy had specified. The wing was a small delta with no folding mechanism, since it was short enough to stow on a carrier without one. The contract was signed on 12th June 1952, and the XA4D-1 first flew on 22nd June 1954 at Edwards. A production aircraft set a closed-circuit speed record of 695.163 mph on 15th October 1955.{{ref:wiki-a4}}",
+          "The aircraft carried up to 8,500 lb of stores and could pass fuel to another Skyhawk in a buddy refuelling pod.{{ref:wiki-a4}}"
+        ]
+      },
+      {
+        "heading": "Vietnam: The Workhorse of the Tonkin Gulf",
+        "paragraphs": [
+          "Everett Alvarez was shot down in an A-4 on 5th August 1964 from USS Constellation and spent more than eight years as a prisoner. A year later the Skyhawk went to war in numbers. On 1st May 1967 Lieutenant Commander Theodore Swartz shot down a MiG-17 with a Zuni rocket, and the last loss came on 26th September 1972, when Captain James Walsh was taken prisoner.{{ref:wiki-a4}}",
+          "The cost was high. A-4s lost over Vietnam numbered 362, 271 from the Navy and 91 from the Marine Corps, with 32 of the total falling to missiles.{{ref:wiki-a4}}"
+        ]
+      },
+      {
+        "heading": "The Forrestal Fire",
+        "paragraphs": [
+          "On 29th July 1967, an electrical surge in F-4B number 110 on USS Forrestal fired a Zuni rocket that lacked its safety pin. It hit the external fuel tank of an A-4. The Navy's investigation names A-4 number 405, flown by Lieutenant Commander Fred White, while John McCain's own account says it was his aircraft; McCain was aboard in A-4 number 416.{{ref:wiki-forrestal}}",
+          "The fire killed 134 and injured 161. Twenty-one of the 73 aircraft on board were destroyed, including 11 A-4Es, 7 F-4Bs and 3 RA-5Cs, and 40 more were damaged. AN-M65A1 bombs cooked off 1 minute 36 seconds in, killing Chief Gerald Farrier and most of his firefighting team, and 10 bombs exploded. Repairs cost about US$72 million and took nearly five months. The Navy added deck wash-down systems and founded the Farrier Firefighting School.{{ref:wiki-forrestal}}"
+        ]
+      },
+      {
+        "heading": "Israel, Argentina and the Falklands",
+        "paragraphs": [
+          "Israel called its Skyhawks Ayit and took deliveries from December 1967. The first combat mission was on 15th February 1968, and Israel bought 217 plus 46 from US units. Up to 30 were lost in a single day in 1973, and the last combat use came in 2012, with retirement on 13th December 2015.{{ref:wiki-a4}}",
+          "Argentina's 48 Skyhawks (26 A-4B, 12 A-4C and 10 A-4Q) attacked the British fleet in the 1982 Falklands War, and 22 were lost. San Carlos Water, known as Bomb Alley, saw the worst of it from 21st to 25th May. HMS Coventry sank on 25th May with 18 lives lost, and HMS Ardent, HMS Antelope and RFA Sir Galahad were also hit. Sources conflict on the total: one lists four ships sunk and ten damaged.{{ref:wiki-a4}}"
+        ]
+      },
+      {
+        "heading": "Aggressors, Display Teams and Retirement",
+        "paragraphs": [
+          "The Blue Angels flew the A-4F from the early 1970s to 1986 (sources give 1973, 1974 or 1975 for the start). TOPGUN used the A-4E and F, nicknamed Mongoose, to imitate the MiG-17 until 1999. Singapore's front-line use ended in 2005, Australia passed its survivors to New Zealand in 1984, and New Zealand retired the type in 2001.{{ref:wiki-a4}}",
+          "Brazil is the only national operator listed in 2026, and civil firms such as Top Aces still use A-4s for adversary training.{{ref:wiki-a4}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-a4",
+      "name": "Douglas A-4 Skyhawk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk"
+    },
+    {
+      "id": "wiki-forrestal",
+      "name": "USS Forrestal fire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/USS_Forrestal_fire"
+    },
+    {
+      "id": "skyhawk-cost",
+      "name": "A-4 Skyhawk production and cost",
+      "publisher": "Skyhawk Association",
+      "url": "https://skyhawk.org/node/354"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Douglas A-4 Skyhawk on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk"
+    },
+    {
+      "name": "USS Forrestal fire on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/USS_Forrestal_fire"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1964-08-05",
+      "title": "Alvarez shot down over North Vietnam",
+      "tag": "Combat loss",
+      "summary": "Lieutenant Everett Alvarez of VA-144, flying an A-4 from USS Constellation, was shot down and became the first American naval aviator held prisoner in the war. He was released on 12th February 1973.",
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk"
+    },
+    {
+      "date": "1967-07-29",
+      "title": "USS Forrestal fire",
+      "tag": "Carrier deck fire",
+      "summary": "An accidentally fired Zuni rocket from an F-4B hit an A-4 on the deck of Forrestal. The fire killed 134, injured 161 and destroyed 21 aircraft, 11 of them A-4Es.",
+      "fatalities": 134,
+      "source": "https://en.wikipedia.org/wiki/USS_Forrestal_fire"
+    },
+    {
+      "date": "1982-05-25",
+      "title": "HMS Coventry sunk by Argentine Skyhawks",
+      "tag": "Combat",
+      "summary": "Argentine A-4 Skyhawks sank the destroyer HMS Coventry in the Falklands, killing 18. Argentina lost 22 of its 48 Skyhawks in the war.",
+      "fatalities": 18,
+      "source": "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk"
+    }
+  ],
+  "survivors": {
+    "intro": "Skyhawks survive in large numbers in US, Argentine and Singapore museums, including Blue Angels aircraft at Pensacola.",
+    "airframes": [
+      {
+        "serial": "154180",
+        "name": "A-4F Blue Angels",
+        "location": "Museum of Flight",
+        "place": "Seattle, Washington, United States",
+        "url": "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk",
+        "note": "A-4F on loan from the National Naval Aviation Museum.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "137813",
+        "name": "YA4D-1",
+        "location": "National Naval Aviation Museum",
+        "place": "Pensacola, Florida, United States",
+        "url": "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk",
+        "note": "A pre-production YA4D-1 on display at Pensacola.",
+        "featured": false,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "150076",
+        "name": "Blue Angels A-4",
+        "location": "National Naval Aviation Museum",
+        "place": "Pensacola, Florida, United States",
+        "url": "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk",
+        "note": "One of several Blue Angels A-4s at Pensacola, with 154983, 155033 and 154217.",
+        "featured": false,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "148438",
+        "name": "Argentine A-4",
+        "location": "National Museum of Malvinas",
+        "place": "Cordoba, Argentina",
+        "url": "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk",
+        "note": "An Argentine Skyhawk on display.",
+        "featured": false,
+        "countryCode": "ar",
+        "country": "Argentina"
+      },
+      {
+        "serial": "145073",
+        "name": "Singapore A-4",
+        "location": "RSAF Museum",
+        "place": "Singapore",
+        "url": "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk",
+        "note": "A Singapore A-4, with the TA-4SU 147742 in the same museum.",
+        "featured": false,
+        "countryCode": "sg",
+        "country": "Singapore"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

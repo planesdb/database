@@ -13,6 +13,7 @@
   "role": "Twin-Engine Airliner",
   "tagline": "The airliner that made passenger flying a real business. Douglas built it at American Airlines' request to finally let a carrier turn a profit flying people instead of mail, and it worked so completely that the DC-3 captured most of the world's airline traffic within a few years - a civilian workhorse still hauling freight and passengers on bush and charter routes today, ninety years after its first flight.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "history": "Douglas designed the DC-3 (and its sleeper-berth sibling, the DST) at the request of American Airlines, which wanted a twin-engine aircraft that could fly coast-to-coast with sleeping berths and, crucially, turn a profit carrying passengers alone. The prototype first flew on 17 December 1935, and American Airlines opened scheduled DC-3 service on 26 June 1936. It was an immediate commercial triumph: within four years the DC-3 was estimated to be carrying the large majority of the world's airline passengers, and it single-handedly proved that airlines could be a real business rather than a government-subsidised mail service. Civilian DC-3/DST production ran to 607 aircraft before the war, at which point most of Douglas's production capacity shifted to the militarised C-47 Skytrain - a separate, purpose-built military transport variant with a reinforced cargo floor and large freight door, covered in this database as its own entry. Existing civilian DC-3s were also directly requisitioned by the US military during WWII under a variety of designations (C-48 through C-84, depending on the specific airline configuration impressed into service). After the war, thousands of surplus military C-47s were converted back into civilian DC-3 airliner configuration, flooding the market with cheap, rugged twin-engine transports and giving the type a second life on regional and cargo routes worldwide - a boom that did more to spread the DC-3 across the world's airlines than the original pre-war production run ever did. The type's legendary reliability kept it flying for decades afterward on scheduled and charter routes, and turboprop conversions such as the Basler BT-67 continue to rebuild 1940s airframes for Antarctic science, aerial spraying and cargo work today. Nearly a century after its first flight, DC-3s still fly commercially in parts of the world, including scheduled Arctic freight service.",
   "specifications": {
@@ -299,6 +300,11 @@
     {
       "date": "2026-09-09",
       "change": "Gave every operator a real fleet figure instead of 'Historical', and added KLM as the largest pre-war European operator.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

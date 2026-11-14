@@ -13,6 +13,7 @@
   "role": "Day Fighter / Ground Attack",
   "tagline": "The Hawker Hunter is a British single-seat transonic jet fighter designed by Sydney Camm, which entered RAF service in 1954 and was later flown in ground-attack, reconnaissance and training roles. Hawker and Hawker Siddeley built 1,972 of them, and air forces on four continents flew the type until Lebanon retired its last examples in 2014.",
   "status": "Retired",
+  "condition": "Airworthy - Test & Training",
   "inProduction": false,
   "quickFacts": [
     "On 7 September 1953 Neville Duke flew the first prototype, WB188, at 727.63 mph to set a world air speed record.",
@@ -160,6 +161,16 @@
     {
       "date": "2026-09-24",
       "change": "Added the Hawker Hunter - history, specs, variants, operators, survivors and accident record. Sources: Wikipedia, museum, preservation and AAIB-related sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Set the condition to Airworthy - Test & Training, as the type is officially retired but contractors including ATAC and Hawker Hunter Aviation still fly it as an adversary in military training and for trials.",
       "author": "planesdb"
     }
   ],

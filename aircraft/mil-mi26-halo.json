@@ -14,6 +14,7 @@
   "role": "Heavy-Lift Transport Helicopter",
   "tagline": "The largest helicopter ever to reach serial production, designed by the Mil bureau to move 20 tonnes of armoured vehicles and missile equipment into places fixed-wing transports cannot reach. It has been in production since 1980, serves with around a dozen air arms and civil operators, and still holds the world record for the greatest mass lifted by a helicopter.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "It was the first production helicopter in the world with a single eight-blade main rotor",
@@ -252,6 +253,11 @@
     {
       "date": "2026-09-16",
       "change": "Added the Mil Mi-26 (NATO: Halo) - history, specs, variants, operators and accident record. Sources: Jane's and Russian Helicopters specification data, FAI record listings, NATO and NASA technical papers and contemporary news reporting.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

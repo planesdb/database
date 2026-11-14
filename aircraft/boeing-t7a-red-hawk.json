@@ -11,6 +11,7 @@
   "role": "Advanced Jet Trainer",
   "tagline": "A single-engine advanced jet trainer built by Boeing with Saab to replace the U.S. Air Force's 1960s Northrop T-38 Talon fleet. It was the first American military aircraft designed entirely with digital engineering tools, going from concept to first flight in 36 months, and then spent seven years working through ejection seat and flight control problems before production was approved in 2026.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "The name honours the Tuskegee Airmen, who painted their tails red, and the Curtiss P-40 Warhawk flown by the 99th Fighter Squadron",
@@ -111,6 +112,11 @@
     {
       "date": "2026-09-16",
       "change": "New entry for the Boeing T-7A Red Hawk - specs, variants, operators and programme history. Sources: Boeing published data, Air & Space Forces Magazine and Defense News reporting, GAO programme reviews and Air Force announcements.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

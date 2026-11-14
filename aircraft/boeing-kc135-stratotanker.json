@@ -13,6 +13,7 @@
   "role": "Strategic Aerial Refuelling Tanker",
   "tagline": "The KC-135 Stratotanker is a four-engine aerial refuelling tanker and transport built by Boeing for the United States Air Force, first flown on 31 August 1956 and still the backbone of American tanker aviation seventy years later. It shares an ancestor with the Boeing 707 in the Dash 80 demonstrator but is a structurally different aircraft, and 803 were built between 1955 and 1965.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "It and the Boeing 707 both descend from the Model 367-80 'Dash 80' demonstrator, but the KC-135 has a narrower, shorter fuselage and is structurally quite different from the airliner",
@@ -152,6 +153,11 @@
     {
       "date": "2026-09-10",
       "change": "Boeing KC-135 Stratotanker added - history, specs, variants, operators and accident record. Sources: the USAF fact sheet, Wikipedia, Military Times and The War Zone.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

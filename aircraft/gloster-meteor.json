@@ -1,0 +1,337 @@
+{
+  "name": "Meteor",
+  "fullName": "Gloster Meteor",
+  "manufacturer": "Gloster Aircraft Company",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Twin-engine jet fighter, night fighter and trainer",
+  "tagline": "The Gloster Meteor is a British twin-engine, straight-winged jet fighter, and the only Allied jet to fight in the Second World War. It first flew on 5th March 1943, joined No. 616 Squadron in July 1944, and 3,947 were built by 1955 for the RAF and more than a dozen air forces.",
+  "status": "Retired",
+  "condition": "Airworthy - Test & Training",
+  "inProduction": false,
+  "quickFacts": [
+    "Prototype DG206/G made the first flight on 5th March 1943 at RAF Cranwell, flown by Michael Daunt, with de Havilland Halford H.1 (Goblin) engines. The production Meteor used Rolls-Royce engines, first the Welland and then the Derwent.{{ref:wiki-meteor}}",
+    "No. 616 Squadron received the first Meteors in July 1944. The first two V-1 flying bombs were destroyed on 4th August 1944, and Meteors accounted for 14 by the end of the war.{{ref:wiki-meteor}}",
+    "Group Captain Hugh Wilson set the first official jet airspeed record, 606 mph, on 7th November 1945 in a Meteor F.3. Group Captain Edward Donaldson raised it to 616 mph in 1946.{{ref:wiki-meteor}}",
+    "RAF losses totalled 890 Meteors and 450 pilots killed, with 145 losses in 1953 alone. Early aircraft had no ejection seats.{{ref:wiki-meteor}}",
+    "A Meteor F.8 fitted with two Armstrong Siddeley Sapphire engines climbed to 39,370 ft in 3 minutes 7 seconds on 31st August 1951.{{ref:wiki-meteor}}",
+    "Martin-Baker has used Meteors to test its ejection seats since 1946, and four Meteors were still airworthy at the last count checked, two of them with Martin-Baker.{{ref:wiki-meteor}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Meteor F.8 from the Wikipedia specification list. The page gives no cruise speed. Sources disagree on top speed and weight: some quote 941 to 965 km/h, and the Meteor was built in many marks over more than a decade, so any single set of numbers is a simplification. RAAF totals also conflict inside the source, which gives 113 acquired in one place and 104 operated in another.",
+    "maxSpeed": {
+      "mph": 600,
+      "text": "521 kn (600 mph / 970 km/h) at 10,000 ft, Mach 0.82"
+    },
+    "cruiseSpeed": "Not published in the sources checked",
+    "range": {
+      "miles": 600,
+      "text": "600 mi (970 km)"
+    },
+    "serviceCeiling": {
+      "ft": 43000,
+      "text": "43,000 ft (13,000 m)"
+    },
+    "wingspan": {
+      "ft": 37.17,
+      "text": "37 ft 2 in (11.33 m)"
+    },
+    "length": {
+      "ft": 44.58,
+      "text": "44 ft 7 in (13.59 m)"
+    },
+    "height": {
+      "ft": 13,
+      "text": "13 ft 0 in (3.96 m)"
+    },
+    "weight": "empty: 10,684 lb (4,846 kg); gross: 15,700 lb (7,121 kg)",
+    "engines": "2 x Rolls-Royce Derwent 8 turbojets, 3,600 lbf (16 kN) each",
+    "armament": "4 x 20 mm Hispano Mk V cannon; up to 16 x 60 lb RP-3 rockets or eight 5 in HVAR rockets; two 1,000 lb bombs",
+    "crew": "1",
+    "capacity": "None",
+    "firstFlight": {
+      "date": "1943-03-05",
+      "year": 1943
+    },
+    "serviceEntryDate": "1944-07",
+    "numberBuilt": 3947,
+    "unitCost": {
+      "usd": null,
+      "text": "Not published in the sources checked - a British government purchase with no open-market price",
+      "inflationText": null
+    },
+    "combatLosses": "About 30 RAAF Meteors lost in Korea, mostly to anti-aircraft fire",
+    "retiredDate": "1982"
+  },
+  "variants": [
+    {
+      "code": "F.1, F.3 and F.4",
+      "desc": "The F.1 was the first operational version, with Welland engines and four 20 mm cannon, and its first production aircraft flew on 12th January 1944. The F.3 followed with Derwent I engines and a sliding canopy, with 210 built. The F.4 had Derwent 5 engines, a pressurised cockpit and a shorter wing, with about 535 built."
+    },
+    {
+      "code": "F.8",
+      "desc": "The definitive Meteor fighter, with a longer fuselage, Derwent 8 engines and a new tail. It was the main RAF fighter from 1950 to 1954. It carries the specifications on this page, took the RAAF to war in Korea and was fitted with Martin-Baker ejection seats, which the earlier Meteors never had."
+    },
+    {
+      "code": "T.7",
+      "desc": "The two-seat trainer, with more than 650 built, made up of 640 for the RAF and Royal Navy plus 72 for export. Planes of Fame in California flies a T.7 as WA591."
+    },
+    {
+      "code": "NF.11 to NF.14",
+      "desc": "Night fighters built by Armstrong Whitworth, covering the NF.11, NF.12, NF.13 and NF.14. The NF.14 had a longer nose and a blown canopy. The NF.13 went to Egypt, Israel and Syria, with Syria taking six NF.13s, and Belgium and Denmark took NF.11s."
+    },
+    {
+      "code": "FR.9, PR.10, U.16 and TT.20",
+      "desc": "Reconnaissance and conversion versions. The FR.9 was a fighter-reconnaissance F.8 with 126 built, and the PR.10 a photo-reconnaissance F.8 with 59 built. Flight Refuelling modified 108 F.8s as U.16 target drones, and the TT.20 was a high-speed target tug converted from the NF.11."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Royal Air Force",
+      "role": "Day fighter, night fighter and trainer",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "Not published; 890 lost in service",
+      "homeBase": "United Kingdom"
+    },
+    {
+      "name": "Royal Australian Air Force",
+      "role": "Fighter and trainer",
+      "status": "Retired",
+      "since": "1951",
+      "fleetSize": "94 F.8 and 9 T.7, plus other variants",
+      "homeBase": "Australia"
+    },
+    {
+      "name": "Belgian Air Force",
+      "role": "Fighter and trainer",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "240 F.8, 40 F.4, 43 T.7 and 24 NF.11",
+      "homeBase": "Belgium"
+    },
+    {
+      "name": "Royal Netherlands Air Force",
+      "role": "Fighter",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "160 F.8 and 60 F.4",
+      "homeBase": "Netherlands"
+    },
+    {
+      "name": "Royal Danish Air Force",
+      "role": "Fighter, night fighter and trainer",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "20 F.4 and F.8, 20 NF.11 and 6 T.7",
+      "homeBase": "Denmark"
+    },
+    {
+      "name": "Argentine Air Force",
+      "role": "Fighter",
+      "status": "Retired",
+      "since": "1947",
+      "fleetSize": "100 F.4 ordered in 1947; withdrawn in 1970",
+      "homeBase": "Argentina"
+    },
+    {
+      "name": "Brazilian Air Force",
+      "role": "Fighter and trainer",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "62 in F.8 and TF-7 variants",
+      "homeBase": "Brazil"
+    },
+    {
+      "name": "Ecuadorian Air Force",
+      "role": "Reconnaissance",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "12 FR.9",
+      "homeBase": "Ecuador"
+    },
+    {
+      "name": "Egyptian, Israeli and Syrian air forces",
+      "role": "Fighter and night fighter",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "Not published; Syria took 6 NF.13",
+      "homeBase": "Egypt, Israel and Syria"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No ICAO type code is confirmed for the Meteor. The two Martin-Baker Meteors are in the UK, Temora Historic Flight keeps one in Australia and Planes of Fame keeps one in California."
+  },
+  "tags": [
+    "Meteor",
+    "Gloster",
+    "jet fighter",
+    "RAF",
+    "V-1",
+    "Korean War",
+    "Martin-Baker",
+    "ejection seat"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Gloster Meteor with its first flight, the 1944 V-1 patrols, the 1945 and 1946 speed records, the Korean War and the Martin-Baker test fleet.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Set the condition to Airworthy - Test & Training, as the type is officially retired but Martin-Baker still flies two for live ejection-seat testing.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Gloster Meteor is a British twin-engine jet fighter with straight wings, built by Gloster from 1943 to 1955. 3,947 were made, and it was the only Allied jet aircraft to fight in the Second World War.{{ref:wiki-meteor}}{{ref:migflug}}",
+      "No. 616 Squadron received its first aircraft in July 1944. After the war the Meteor became the RAF's main fighter from 1950 to 1954, and it served as a night fighter, trainer, reconnaissance aircraft and target drone.{{ref:wiki-meteor}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: Two Engines Around a New Engine",
+        "paragraphs": [
+          "The Meteor traces back to work on jet engines that began in 1936, when Power Jets Ltd was formed in March. Gloster and Power Jets reached an understanding around mid-1939, and in late 1939 the Air Ministry contracted Gloster for a prototype. The E.28/39 flew on 15th May 1941. On 7th February 1941 Gloster received an order for 12 prototypes under F9/40, later cut to eight.{{ref:wiki-meteor}}",
+          "A letter of intent for 300 aircraft followed on 21st June 1941, and the name Thunderbolt was dropped for Meteor. Production was halted on 26th November 1942 because of engine delays and then restarted. The twin-engine layout was a safety measure on an engine type with no history, and it let the Meteor lose one engine and still fly home.{{ref:wiki-meteor}}{{ref:migflug}}"
+        ]
+      },
+      {
+        "heading": "First Flights and the Engine Problem",
+        "paragraphs": [
+          "The first Meteor to fly was DG206/G, with de Havilland Halford H.1 (Goblin) engines, on 5th March 1943 from RAF Cranwell with Michael Daunt at the controls. DG205/G became the first Whittle-engined Meteor on 12th June 1943 and crashed on take-off on 27th April 1944. DG202/G flew on 24th July 1943 with Rover W.2B engines and was later used for deck-handling tests aboard HMS Pretoria Castle.{{ref:wiki-meteor}}",
+          "Not every prototype survived. DG204/G, with Metrovick F.2 engines, was lost on 4th January 1944 after a suspected compressor failure. The production engine was the Power Jets W.2B/23, called the Welland, at 1,700 lbf each, and later Meteors used the Rolls-Royce Derwent, a development of the Rover B.26. The first production F.1, EE210/G, flew on 12th January 1944 with four 20 mm Hispano Mk V cannon.{{ref:wiki-meteor}}"
+        ]
+      },
+      {
+        "heading": "Into Service: Doodlebugs and a Tipped V-1",
+        "paragraphs": [
+          "The F.1 was cleared for service on 17th July 1944, and No. 616 Squadron became the first operational Meteor unit that month. On 27th July 1944 three Meteors flew over Kent on the first RAF jet combat missions. The first two V-1 flying bombs were destroyed on 4th August 1944, and by the end of the war Meteors had accounted for 14.{{ref:wiki-meteor}}",
+          "One account says the first kill came when the cannon of Flying Officer Dixie Dean of No. 616 Squadron jammed, and he slid his wingtip under the flying bomb's wing and rolled it over. The Wikipedia page does not name the pilots of the first two kills, so the pilot's name rests on that one account. Meteors did not fly over German-held territory after the V-1 threat ended because of fears of capture, and the Meteor and the Me 262 never met in combat.{{ref:wiki-meteor}}{{ref:migflug}}"
+        ]
+      },
+      {
+        "heading": "Records",
+        "paragraphs": [
+          "On 7th November 1945 Group Captain Hugh Wilson set the first official jet airspeed record at 606 mph in a Meteor F.3. In 1946 Group Captain Edward Donaldson took the record to 616 mph in F.4 EE549. On 20th September 1945 a modified Meteor I with Rolls-Royce Trent turboprops became the first turboprop aircraft to fly.{{ref:wiki-meteor}}",
+          "On 7th August 1949 Meteor F.3 EE397 set a jet endurance record of 12 hours 3 minutes with ten refuelling contacts. Sqn Ldr Janusz Zurakowski set a London to Copenhagen and return record on 4th and 5th April 1950 in F.8 VZ468. On 31st August 1951 an F.8 with two Armstrong Siddeley Sapphire engines reached 39,370 ft in 3 minutes 7 seconds.{{ref:wiki-meteor}}"
+        ]
+      },
+      {
+        "heading": "Korea with No. 77 Squadron",
+        "paragraphs": [
+          "The Royal Australian Air Force's No. 77 Squadron re-equipped with about 30 F.8s and T.7s and returned to Korea in April 1951. It was declared combat ready in July 1951, began combat missions on 29th July and suffered its first losses on 29th August 1951, when one Meteor was lost and two were damaged.{{ref:wiki-meteor}}",
+          "On 1st December 1951, at the Battle of Sunchon, three Meteors were lost, one pilot was killed and two were captured. By the end of the war the squadron had flown 4,836 missions and destroyed six MiG-15s, and about 30 Meteors were lost to enemy action, mostly to anti-aircraft fire. The straight wing was outclassed by the swept-wing MiG-15, and the Meteor shifted to ground attack.{{ref:wiki-meteor}}{{ref:migflug}}"
+        ]
+      },
+      {
+        "heading": "The Cost of Training Pilots on It",
+        "paragraphs": [
+          "RAF losses totalled 890 Meteors and 450 pilots killed, with 145 losses in 1953 alone. The page lists poor brakes, landing gear failures, high fuel consumption that kept endurance under an hour, and handling problems with one engine out as contributing factors. Early Meteors had no ejection seats, and Martin-Baker seats were fitted to the F.8, FR.9, PR.10 and some experimental aircraft.{{ref:wiki-meteor}}",
+          "Martin-Baker has used various Meteor variants to test its seats since 1946. As of 2023, two Meteors were still in service as testbeds, and the page gives their registrations as G-JSMA and G-JWMA in one place and G-JMWA, WA638 and WL419 in another.{{ref:wiki-meteor}}"
+        ]
+      },
+      {
+        "heading": "Variants, Exports and Survivors",
+        "paragraphs": [
+          "The F.8 was the definitive fighter. The Belgian Air Force took 240 F.8s, 40 F.4s, 43 T.7s and 24 NF.11s, the Netherlands took 160 F.8s and 60 F.4s, and Denmark took 20 F.4 and F.8s, 20 NF.11s and 6 T.7s. Argentina ordered 100 F.4s in 1947, used them in the 1955 rebellions and withdrew them in 1970. Egypt used its Meteors in the 1956 Suez Crisis.{{ref:wiki-meteor}}",
+          "Four Meteors are airworthy according to the page. Two are Martin-Baker testbeds in the UK, F.8 VH-MBX (A77-851) flies with Temora Historic Flight in Australia after its transfer to the RAAF in July 2019, and T.7 WA591, registered G-BWMF, flies with the Planes of Fame Air Museum in Chino, California.{{ref:wiki-meteor}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-meteor",
+      "name": "Gloster Meteor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gloster_Meteor"
+    },
+    {
+      "id": "migflug",
+      "name": "Gloster Meteor - History, Specs & Stories",
+      "publisher": "migflug.com",
+      "url": "https://migflug.com/aircraft/gloster-meteor/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Gloster Meteor on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gloster_Meteor"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1944-01-04",
+      "title": "Prototype DG204/G lost after suspected compressor failure",
+      "tag": "Test flight",
+      "summary": "The prototype powered by Metrovick F.2 engines was lost after a suspected compressor failure.",
+      "source": "https://en.wikipedia.org/wiki/Gloster_Meteor"
+    },
+    {
+      "date": "1944-04-27",
+      "title": "DG205/G crashes on take-off",
+      "tag": "Test flight",
+      "summary": "DG205/G, the first Whittle-engined Meteor to fly, crashed on take-off.",
+      "source": "https://en.wikipedia.org/wiki/Gloster_Meteor"
+    },
+    {
+      "date": "1951-12-01",
+      "title": "Battle of Sunchon",
+      "tag": "Combat loss",
+      "summary": "Three RAAF No. 77 Squadron Meteors were lost over Korea, one pilot was killed and two were captured.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Gloster_Meteor"
+    }
+  ],
+  "survivors": {
+    "intro": "Four Meteors are airworthy, and others are displayed in museums.",
+    "airframes": [
+      {
+        "serial": "WA591 / G-BWMF",
+        "name": "T.7",
+        "location": "Planes of Fame Air Museum",
+        "place": "Chino, California, United States",
+        "url": "https://en.wikipedia.org/wiki/Gloster_Meteor",
+        "note": "A two-seat T.7, airworthy.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "VH-MBX / A77-851",
+        "name": "F.8",
+        "location": "Temora Historic Flight",
+        "place": "Australia",
+        "url": "https://en.wikipedia.org/wiki/Gloster_Meteor",
+        "note": "A Meteor F.8, transferred to the RAAF in July 2019, airworthy.",
+        "countryCode": "au",
+        "country": "Australia"
+      },
+      {
+        "serial": "WL419 and WA638",
+        "name": "Martin-Baker testbeds",
+        "location": "Martin-Baker",
+        "place": "United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Gloster_Meteor",
+        "note": "Two Meteors used to test ejection seats. The page gives registrations for them that do not match between sections.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

@@ -11,6 +11,7 @@
   "role": "Primary Trainer",
   "tagline": "The 'poor man's Spitfire' that taught three generations of RAF pilots - and spied on the Soviets over Berlin. Two Chipmunks still fly with the RAF's Battle of Britain Memorial Flight today, and every BBMF fighter pilot must first master tailwheel flying in one before being let loose on a Spitfire or Hurricane.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "The Chipmunk was de Havilland Canada's first original design, drawn up by Polish émigré engineer Wsiewołod Jakimiuk, and first flew at Downsview, Toronto on 22 May 1946. Britain adopted it enthusiastically: over 700 of the 1,283 built came from de Havilland's UK factories at Hatfield and Chester as the Chipmunk T.10, entering RAF service from 1950 with University Air Squadrons, flying training schools and the RAFVR. In 1952 a Chipmunk of the Home Command Examining Unit gave the Duke of Edinburgh his first flying lessons; Prince Charles soloed in one at RAF Cranwell decades later, and the aircraft he trained in - WP903 - still flies in civilian hands.\n\nFrom 1956 until reunification in 1990, two Gatow-based Chipmunks flew the Berlin Control Zone reconnaissance missions known as Operations Schooner and Nylon - nominally continuation training, actually some of the lowest-tech and most audacious intelligence flights of the Cold War, photographing Soviet barracks, armour and airfields from a wood-and-fabric trainer with a hand-held camera. WG486, one of today's two BBMF Chipmunks, flew these missions in the 1980s.\n\nThe RAF retired the Chipmunk from pilot grading and Air Experience Flights in 1996 after 46 years, but WG486 and WK518 flew on with the Battle of Britain Memorial Flight, where they remain the Flight's quiet workhorses: tailwheel conversion, display-pilot currency and photographic sorties. Portugal's air force flew the type even longer, and today several hundred Chipmunks survive worldwide in civilian hands, cherished by aerobatic pilots - the great American airshow performer Art Scholl flew a heavily modified 'Super Chipmunk' - and by anyone who has ever wanted a Spitfire's manners on a trainer's budget.",
   "quickFacts": [
@@ -264,6 +265,11 @@
     {
       "date": "2026-09-09",
       "change": "Added real fleet numbers for the retired RCAF and Portuguese Air Force rows (were showing 0).",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

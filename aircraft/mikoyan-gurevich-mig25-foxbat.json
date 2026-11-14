@@ -1,0 +1,397 @@
+{
+  "name": "MiG-25 Foxbat",
+  "fullName": "Mikoyan-Gurevich MiG-25 Foxbat",
+  "manufacturer": "Mikoyan-Gurevich",
+  "originCountry": {
+    "name": "Soviet Union",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets",
+    "spy-planes"
+  ],
+  "role": "High-altitude interceptor and reconnaissance aircraft",
+  "tagline": "The MiG-25 Foxbat is a twin-engine, single-seat Mach 3-class interceptor and reconnaissance aircraft built by Mikoyan-Gurevich for the Soviet Union. It first flew on 6th March 1964 in its reconnaissance form, 1,186 were built, and it was designed to catch American bombers that could fly at 70,000 ft. The defection of Viktor Belenko to Japan in 1976 gave the West its first close look at the aircraft.",
+  "status": "Retired",
+  "condition": "Preserved - Static Display",
+  "inProduction": false,
+  "quickFacts": [
+    "The MiG-25 was ordered in 1958 to fly at 3,000 km/h and 27 km altitude, to counter the planned North American XB-70 Valkyrie and the Convair B-58 Hustler. Work began in mid-1959 and the aircraft became Mikhail Gurevich's last design.{{ref:wiki-mig25}}",
+    "On 6th September 1976, Lieutenant Viktor Belenko of the 513th Fighter Regiment flew a MiG-25P from Chuguyevka to Hakodate in Japan and asked for asylum. Japan returned the aircraft to the Soviet Union in 30 crates on 15th November 1976, and the Soviets sought US$10 million for damage while Japan invoiced US$40,000 for the inspection.{{ref:wiki-belenko}}",
+    "On 25th July 1973 test pilot Aleksandr Fedotov reached 35,230 m with a 1,000 kg payload and 36,240 m unloaded in a modified MiG-25. A further development, the Ye-266M, reached 37,650 m on 31st August 1977.{{ref:wiki-mig25}}",
+    "Soviet engineers built about 80 percent of the airframe from nickel steel, 11 percent from aluminium and 9 percent from titanium, because the aircraft had to survive skin temperatures at Mach 3. The steel was heavy, which limited the aircraft to 2.2 g with full fuel tanks.{{ref:wiki-mig25}}",
+    "The Foxbat could not sustain Mach 3. The operational limit was Mach 2.83, and a Mach 3.2 flight over Sinai ruined the engines of one aircraft beyond repair.{{ref:wiki-mig25}}",
+    "The radar used vacuum tubes, not transistors. The Smerch-A set put out about 600 kW, enough to burn through jamming, and Western analysts had expected much more advanced electronics before Belenko's aircraft was taken apart.{{ref:wiki-mig25}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the MiG-25PD interceptor. Sources give an unarmed weight of about 29,000 kg in text that conflicts with the 20,000 kg empty weight in the data block, and the MiG-25R reconnaissance versions were lighter, with no radar and no missiles. Service entry is given as both 1969 and 1970.",
+    "maxSpeed": {
+      "mph": 1864,
+      "text": "1,620 kn (1,864 mph / 3,000 km/h) at altitude; operational limit Mach 2.83"
+    },
+    "cruiseSpeed": "Mach 2.35 at high altitude, giving 1,630 km of range",
+    "range": {
+      "miles": 1156,
+      "text": "1,156 mi (1,860 km, 1,004 nmi) at Mach 0.9; 1,013 mi (1,630 km) at Mach 2.35; ferry 1,600 mi (2,575 km)"
+    },
+    "serviceCeiling": {
+      "ft": 67913,
+      "text": "67,913 ft (20,700 m) with four missiles; 78,740 ft (24,000 m) with two"
+    },
+    "wingspan": {
+      "ft": 46,
+      "text": "46 ft 0 in (14.01 m)"
+    },
+    "length": {
+      "ft": 78.2,
+      "text": "78 ft 2 in (23.82 m)"
+    },
+    "height": {
+      "ft": 20,
+      "text": "20 ft 0 in (6.10 m)"
+    },
+    "weight": "empty: 44,092 lb (20,000 kg); gross: 80,954 lb (36,720 kg)",
+    "engines": "2 x Tumansky R-15B-300 afterburning turbojets, 16,500 lbf (73.5 kN) dry and 22,500 lbf (100.1 kN) with afterburner each",
+    "armament": "4 x R-40 air-to-air missiles; the PD could also carry R-60 missiles. No gun.",
+    "crew": "1",
+    "capacity": "Not applicable",
+    "firstFlight": {
+      "date": "1964-03-06",
+      "year": 1964
+    },
+    "serviceEntryDate": "1970",
+    "retiredDate": "July 2022 (Algeria, the last operator)",
+    "numberBuilt": 1186,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Soviet state programme with no published price",
+      "inflationText": null
+    },
+    "combatLosses": "Iraq claimed at least 15 Iranian aircraft shot down by MiG-25s in the Iran-Iraq war, while Iran claimed 10 MiG-25s and only 3 were confirmed"
+  },
+  "variants": [
+    {
+      "code": "MiG-25P / PD / PDS (interceptor, Foxbat-A)",
+      "desc": "The interceptor, with 460 MiG-25Ps built from 1971 to 1982. The MiG-25PD, built from 1978 to 1984 (104 aircraft), added the Sapfir-25 radar derived from Belenko's aircraft, better engines and R-60 missiles. The PDS standard covered 459 older MiG-25Ps upgraded to the later radar."
+    },
+    {
+      "code": "MiG-25R / RB / RBS / RBSh (reconnaissance, Foxbat-B and D)",
+      "desc": "The first model to fly, as the Ye-155-R1 on 6th March 1964. The MiG-25R went into production in 1969 with cameras instead of a radar. The RB added a bombing capability from 1970, and the RBS and RBSh carried side-looking radar and are the Foxbat-D."
+    },
+    {
+      "code": "MiG-25PU / RU (two-seat trainer, Foxbat-C)",
+      "desc": "A two-seat conversion trainer with a second cockpit ahead of the first, a small cockpit with a periscope-style view for the instructor. India received the RU version, and a surviving PU airframe stands at Dundigal."
+    },
+    {
+      "code": "MiG-25BM (defence suppression, Foxbat-F)",
+      "desc": "A late conversion of the MiG-25RB to destroy air defence radars, carrying Kh-58 or Kh-31 anti-radiation missiles. One example stands in the Taganrog museum, the town where the aircraft was developed."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet Air Forces",
+      "role": "Primary operator",
+      "status": "Retired",
+      "since": "1970",
+      "fleetSize": "Largest operator; total not published",
+      "homeBase": "Soviet Union"
+    },
+    {
+      "name": "Algerian Air Force",
+      "role": "Interceptor and reconnaissance operator",
+      "status": "Retired",
+      "since": "1979",
+      "fleetSize": "At least 36 delivered; retired July 2022",
+      "homeBase": "Algeria"
+    },
+    {
+      "name": "Libyan Air Force",
+      "role": "Interceptor and reconnaissance operator",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "About 94 plus 3 PU trainers delivered",
+      "homeBase": "Libya"
+    },
+    {
+      "name": "Syrian Air Force",
+      "role": "Interceptor and reconnaissance operator",
+      "status": "Retired",
+      "since": "1970s",
+      "fleetSize": "About 2 R, 16 PD, 8 RB and 2 PU received",
+      "homeBase": "Syria"
+    },
+    {
+      "name": "Iraqi Air Force",
+      "role": "Interceptor and reconnaissance operator",
+      "status": "Retired",
+      "since": "1979",
+      "fleetSize": "7 PU, 9 RB and 19 PD or PDS in January 1991",
+      "homeBase": "Iraq"
+    },
+    {
+      "name": "Indian Air Force",
+      "role": "High-altitude reconnaissance",
+      "status": "Retired",
+      "since": "1981",
+      "fleetSize": "6 RBK and 2 RU delivered; retired May 2006",
+      "homeBase": "India"
+    },
+    {
+      "name": "Russian Aerospace Forces",
+      "role": "Interceptor and reconnaissance successor operator",
+      "status": "Retired",
+      "since": "1992",
+      "fleetSize": "40 R plus 30 for conversion training (2011)",
+      "homeBase": "Russia"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Inherited fleet",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "79 inherited",
+      "homeBase": "Ukraine"
+    },
+    {
+      "name": "Belarus Air Force",
+      "role": "Inherited fleet",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "Up to 50; withdrawn by 1995",
+      "homeBase": "Belarus"
+    },
+    {
+      "name": "Kazakhstan Air Force",
+      "role": "Reconnaissance operator",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "16 RB",
+      "homeBase": "Kazakhstan"
+    },
+    {
+      "name": "Turkmenistan Air Force",
+      "role": "Inherited fleet",
+      "status": "Retired",
+      "since": "1991",
+      "fleetSize": "24 (1995)",
+      "homeBase": "Turkmenistan"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "MG25",
+    "howToFind": "No MiG-25 is believed to be flying in 2026, and military aircraft rarely show on public trackers. The type is best seen in museums, including the National Museum of the US Air Force near Dayton, Ohio, and the Sokol plant in Nizhny Novgorod."
+  },
+  "tags": [
+    "MiG-25",
+    "Foxbat",
+    "Mikoyan-Gurevich",
+    "Soviet interceptor",
+    "Mach 3",
+    "Belenko"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the MiG-25 Foxbat - history, specs, variants, operators, surviving airframes, the Belenko defection and the incident record.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The MiG-25 Foxbat is a twin-engine Soviet interceptor and reconnaissance aircraft built by Mikoyan-Gurevich, designed in the late 1950s to fly at three times the speed of sound at the edge of the atmosphere. Production ran from 1964 to 1984, 1,186 were built, and it served in the Soviet Union and about a dozen air forces in the Middle East, North Africa and South Asia.{{ref:wiki-mig25}}",
+      "Its reputation was larger than its performance. Western analysts feared a nimble Mach 3 fighter, and the aircraft that reached Japan in 1976 turned out to be a rugged steel interceptor with vacuum-tube electronics, a 2.2 g limit and engines that could not tolerate sustained top speed.{{ref:wiki-mig25}}{{ref:wiki-belenko}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: Answering the Valkyrie",
+        "paragraphs": [
+          "The requirement came from the Soviet air defence forces in 1958, asking for an aircraft that could fly at 3,000 km/h and reach 27 km, the performance needed to catch the planned XB-70 Valkyrie and the B-58 Hustler. Design work began in mid-1959 under Mikhail Gurevich, and the MiG-25 was the last aircraft he designed.{{ref:wiki-mig25}}",
+          "The reconnaissance prototype, the Ye-155-R1, flew first on 6th March 1964, and the interceptor followed on 9th September 1964. The type was shown publicly at Domodedovo on 9th July 1967. The reconnaissance version, which could fly at high altitude and photograph targets, went into production in 1969, ahead of the interceptor.{{ref:wiki-mig25}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering: Steel at Mach 3",
+        "paragraphs": [
+          "At Mach 3 the skin of an aircraft heats to temperatures that soften aluminium, and the American answer was titanium, as in the SR-71. The MiG-25 took a different route, and its airframe is about 80 percent nickel steel, 11 percent aluminium and 9 percent titanium. The steel made the aircraft heavy, with a gross weight of 36,720 kg, and limited it to 2.2 g with full tanks.{{ref:wiki-mig25}}",
+          "The two Tumansky R-15B-300 engines made 100.1 kN each with afterburner, and the aircraft could reach about Mach 3.1 in a short dash. The engines could not take it for long. The operational limit was Mach 2.83, and one Mach 3.2 flight over Sinai ruined the engines of the aircraft involved. The avionics used vacuum tubes in place of transistors, and the Smerch-A radar ran at about 600 kW, a brute-force approach that could burn through jamming. Range was short, 1,860 km at Mach 0.9 and 1,630 km at Mach 2.35.{{ref:wiki-mig25}}"
+        ]
+      },
+      {
+        "heading": "Belenko's Flight to Hakodate",
+        "paragraphs": [
+          "On 6th September 1976, Lieutenant Viktor Belenko of the 513th Fighter Regiment took off from Chuguyevka in the Soviet Far East and flew a MiG-25P to Hakodate in northern Japan. He had run low on fuel, landed hard, overshot the runway and damaged the nose gear. A US Air Force C-5 later carried the aircraft to Hyakuri on 25th September, where Japanese and American engineers examined it.{{ref:wiki-belenko}}",
+          "The Soviet Union demanded the aircraft back. Japan agreed on terms that the Soviets accepted on 22nd October, and the MiG-25 left Hitachi in 30 crates on the freighter Taigonos on 15th November, reaching Vladivostok about three days later. Twenty parts were missing. The Soviets sought US$10 million for damage and Japan billed US$40,000 for the inspection. George H. W. Bush, then director of central intelligence, called the episode an intelligence bonanza. A decree of 4th November 1976 started work on the Sapfir-25 radar for the MiG-25PD. Belenko received asylum, took the surname Schmidt, and co-wrote the book MiG Pilot in 1980. He died on 24th September 2023.{{ref:wiki-belenko}}"
+        ]
+      },
+      {
+        "heading": "Combat History & Records",
+        "paragraphs": [
+          "Soviet Detachment 63 flew about 20 reconnaissance sorties over Sinai in 1971 and 1972 at 17,000 to 23,000 m, and Israeli F-4Es fired on one on 6th November 1971. Israeli F-15As shot down a Syrian MiG-25 on 13th February 1981, with further kills on 29th July 1981 and 31st August 1982. The type could outrun Israeli interceptors but not their missiles, and it turned poorly.{{ref:wiki-mig25}}",
+          "In the Iran-Iraq war, Iraq credited MiG-25s with at least 15 Iranian aircraft, ten of them to Colonel Mohammed Rayyan. Iran claimed ten MiG-25s, of which three were confirmed. On 17th January 1991 an F/A-18 flown by Scott Speicher was shot down, reportedly by an R-40RD fired from a MiG-25PDS flown by Lieutenant Zuhair Dawood. Two Iraqi MiG-25s were shot down by USAF F-15s on 19th January 1991, an F-16D shot one down with an AMRAAM on 27th December 1992, and a MiG-25 shot down a Predator on 23rd December 2002.{{ref:wiki-mig25}}",
+          "The MiG-25 also set altitude records. Aleksandr Fedotov reached 35,230 m with a 1,000 kg payload and 36,240 m unloaded on 25th July 1973, and the Ye-266M reached 37,650 m on 31st August 1977.{{ref:wiki-mig25}}"
+        ]
+      },
+      {
+        "heading": "Service & Retirement",
+        "paragraphs": [
+          "Algeria bought at least 36 from 1979 and kept the type until July 2022, which makes it the last regular operator. India took six RBK reconnaissance aircraft and two RU trainers in 1981 and retired them in May 2006. Russia held 40 R models and 30 more for conversion training in 2011, and Ukraine inherited 79 from the Soviet Union. A Libyan PU was lost near Zintan on 6th May 2015 during the civil war.{{ref:wiki-mig25}}",
+          "The drawbacks were plain. Range at Mach 2.35 was 1,630 km, the load limit was 2.2 g with full tanks, and flying at the speeds it was built for damaged the engines. It was a point interceptor and a camera platform, and it was not a dogfighter.{{ref:wiki-mig25}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-mig25",
+      "name": "Mikoyan-Gurevich MiG-25",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25"
+    },
+    {
+      "id": "wiki-belenko",
+      "name": "Viktor Belenko",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Belenko"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Mikoyan-Gurevich MiG-25 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25"
+    },
+    {
+      "name": "Viktor Belenko on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Belenko"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1976-09-06",
+      "title": "Belenko defects to Japan",
+      "tag": "Defection",
+      "summary": "Lieutenant Viktor Belenko flew a MiG-25P from Chuguyevka to Hakodate, overshot the runway and damaged the nose gear. The aircraft was dismantled and examined by Japan and the United States before being shipped back to the Soviet Union in crates.",
+      "source": "https://en.wikipedia.org/wiki/Viktor_Belenko"
+    },
+    {
+      "date": "1984-04-12",
+      "title": "Bulgarian MiG-25RBT number 736 lost",
+      "tag": "Accident",
+      "summary": "A Bulgarian Air Force MiG-25RBT, number 736, was lost on 12th April 1984. The record lists the loss without further detail in the sources checked.",
+      "source": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25"
+    },
+    {
+      "date": "1994-08-03",
+      "title": "Indian MiG-25RBK lost",
+      "tag": "Accident",
+      "summary": "An Indian Air Force MiG-25RBK reconnaissance aircraft was lost on 3rd August 1994. The sources checked give the date and type only.",
+      "source": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25"
+    },
+    {
+      "date": "2015-05-06",
+      "title": "Libyan MiG-25PU lost near Zintan",
+      "tag": "Accident",
+      "summary": "A Libyan Air Force MiG-25PU two-seat trainer was lost near Zintan on 6th May 2015 during the Libyan civil war.",
+      "source": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25"
+    }
+  ],
+  "survivors": {
+    "intro": "MiG-25s survive in museums in the United States, Russia, Ukraine, India, Latvia and Estonia, including the aircraft Viktor Belenko flew to Japan.",
+    "airframes": [
+      {
+        "serial": "MiG-25RB (recovered from Iraq, 2003)",
+        "name": "Iraq recovery",
+        "location": "National Museum of the US Air Force",
+        "place": "Dayton, Ohio, United States",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25",
+        "note": "A MiG-25RB recovered from Iraq in 2003 and displayed incomplete.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "Belenko's MiG-25P",
+        "name": "Belenko's aircraft",
+        "location": "Sokol plant",
+        "place": "Nizhny Novgorod, Russia",
+        "url": "https://en.wikipedia.org/wiki/Viktor_Belenko",
+        "note": "The aircraft flown to Japan in 1976, reassembled at the Sokol plant after its return.",
+        "featured": true,
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "MiG-25BM",
+        "name": "",
+        "location": "Taganrog Museum",
+        "place": "Taganrog, Russia",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25",
+        "note": "A MiG-25BM defence-suppression aircraft.",
+        "featured": false,
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "DS362",
+        "name": "MiG-25U",
+        "location": "Dundigal",
+        "place": "Dundigal, India",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25",
+        "note": "An Indian two-seat MiG-25U trainer.",
+        "featured": false,
+        "countryCode": "in",
+        "country": "India"
+      },
+      {
+        "serial": "KP351",
+        "name": "MiG-25R",
+        "location": "National Defence Academy",
+        "place": "Khadakvasla, India",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25",
+        "note": "An Indian MiG-25R reconnaissance aircraft.",
+        "featured": false,
+        "countryCode": "in",
+        "country": "India"
+      },
+      {
+        "serial": "MiG-25RBS",
+        "name": "",
+        "location": "Riga Airmuseum",
+        "place": "Riga, Latvia",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25",
+        "note": "A MiG-25RBS reconnaissance aircraft.",
+        "featured": false,
+        "countryCode": "lv",
+        "country": "Latvia"
+      },
+      {
+        "serial": "MiG-25",
+        "name": "",
+        "location": "Estonian Aviation Museum",
+        "place": "Tartu, Estonia",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25",
+        "note": "A MiG-25 on display.",
+        "featured": false,
+        "countryCode": "ee",
+        "country": "Estonia"
+      },
+      {
+        "serial": "MiG-25RB",
+        "name": "",
+        "location": "State Aviation Museum",
+        "place": "Kyiv, Ukraine",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25",
+        "note": "A MiG-25RB reconnaissance aircraft.",
+        "featured": false,
+        "countryCode": "ua",
+        "country": "Ukraine"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

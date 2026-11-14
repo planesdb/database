@@ -11,6 +11,7 @@
   "role": "Suborbital Spaceplane",
   "tagline": "SpaceShipTwo is a rocket-powered spaceplane designed to carry two pilots and up to six passengers on suborbital flights from a drop at about 45,000 ft. Two were built for Virgin Galactic: VSS Enterprise, destroyed in a crash on 31st October 2014, and VSS Unity, which made seven commercial flights before it was retired in June 2024.",
   "status": "Retired",
+  "condition": "Stored",
   "inProduction": false,
   "quickFacts": [
     "VSS Unity reached 89.9 km on 22nd February 2019, its highest flight, and never crossed the 100 km Kármán line, though it passed the 50-mile mark the U.S. uses to award astronaut wings.",
@@ -105,6 +106,11 @@
     {
       "date": "2026-11-08",
       "change": "New entry for SpaceShipTwo - Enterprise and Unity flight histories, the 2007 and 2014 accidents, Unity 22 and the move to the Delta class.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

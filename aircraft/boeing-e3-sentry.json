@@ -13,6 +13,7 @@
   "role": "Airborne Early Warning & Control Aircraft",
   "tagline": "The Boeing E-3 Sentry is an airborne early warning and control aircraft built on the Boeing 707-320B airframe, carrying a 30-foot rotating radar dome that can track aircraft more than 250 miles away and below the horizon. Sixty-eight were built for the United States, NATO, Britain, France and Saudi Arabia, and the type flew for nearly fifty years before taking its first combat loss in March 2026.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "The whole aircraft exists to solve one problem: seeing low-flying aircraft against the ground. Earlier radars could not separate a target from the clutter of the terrain behind it, so an aircraft flying low was effectively invisible.",
@@ -155,6 +156,11 @@
     {
       "date": "2026-09-09",
       "change": "New entry for the Boeing E-3 Sentry - history, specs, variants, operators and accident record. Sources: US Air Force fact sheets, Wikipedia, The War Zone, Breaking Defense and Aerotime.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

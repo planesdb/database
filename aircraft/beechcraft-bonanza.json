@@ -11,6 +11,7 @@
   "role": "High-Performance Personal Aircraft",
   "tagline": "The Beechcraft Bonanza is an American low-wing, all-metal, single-engine light aircraft with retractable landing gear, built by Beechcraft since 1947. By the end of 2025 18,552 had been built, and in November 2025 Textron Aviation announced that production of the last model, the G36, would end once existing orders were filled.",
   "status": "In Service",
+  "condition": "Operational - Private",
   "inProduction": false,
   "quickFacts": [
     "In March 1949 William Odom flew the Bonanza Waikiki Beech nonstop from Honolulu to Teterboro, New Jersey, 5,273 miles in 36 hours 1 minute.",
@@ -125,6 +126,11 @@
     {
       "date": "2026-09-28",
       "change": "Added the Beechcraft Bonanza - history, specs, variants, operators and accident record. Sources: Wikipedia, Textron Aviation, the National Air and Space Museum, AOPA, AeroTime and GAMA shipment data.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

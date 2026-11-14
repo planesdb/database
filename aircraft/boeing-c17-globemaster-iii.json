@@ -13,6 +13,7 @@
   "role": "Strategic & Tactical Airlifter",
   "tagline": "The backbone of global military transport and rapid strategic airlift. It bridges the gap between large strategic airlifters like the C-5 Galaxy and smaller tactical transports like the C-130 Hercules, carrying large payloads directly into small, austere airfields other jets could never reach.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "Designed by McDonnell Douglas in the 1980s to meet the United States Air Force's C-X requirement, the aircraft made its maiden flight on September 15, 1991. It entered operational service with the USAF in January 1995. Boeing assumed production following its merger with McDonnell Douglas in 1997. Over its operational lifespan, the C-17 has become an indispensable asset for global humanitarian relief operations, combat transport, and routine logistics. Production officially ended in November 2015 with the completion of the 279th aircraft, but the fleet remains highly active worldwide with sustained modernization and support frameworks keeping it operational for decades to come.",
   "specifications": {
@@ -277,6 +278,11 @@
       "date": "2026-07-31",
       "change": "Fixed the main photo link so it matches the photo shown. The credit (official USAF photo) was already right.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

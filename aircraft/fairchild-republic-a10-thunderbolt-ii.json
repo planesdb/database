@@ -11,6 +11,7 @@
   "role": "Close Air Support Attack Aircraft",
   "tagline": "A titanium bathtub built around a 30mm tank-killing cannon. The only USAF aircraft ever designed purely for close air support, it wraps a 1,200 lb titanium shield around the pilot and arranges the entire airframe around the GAU-8/A Avenger cannon, which fires armour-piercing rounds at 3,900 per minute.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "Born from the A-X program shaped by Vietnam-era close air support lessons and the fear of Soviet armoured thrusts in Europe, the A-10 first flew on 10 May 1972 and entered service in 1977. It found its defining moment in Desert Storm, where Warthogs destroyed more than 900 Iraqi tanks and 2,000 other vehicles. It has since flown in the Balkans, Afghanistan, Iraq and Syria, surviving repeated Pentagon attempts to retire it thanks to congressional intervention and its cult status with ground troops. A planned FY2026 retirement of the last ~162 A-10s was reversed in April 2026 after Warthogs flew close air support and rescue-escort missions over Iran during Operation Epic Fury; three squadrons at Moody and Whiteman Air Force Bases were extended through 2029-2030 instead.",
   "quickFacts": [
@@ -356,6 +357,11 @@
       "date": "2026-07-31",
       "change": "Tightened up the overview - a clearer opening and less padding in the sections. Facts and sources unchanged.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

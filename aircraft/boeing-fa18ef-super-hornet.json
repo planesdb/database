@@ -13,6 +13,7 @@
   "role": "Carrier-Based Multirole Strike Fighter",
   "tagline": "The Boeing F/A-18E/F Super Hornet is a twin-engine, carrier-based multirole fighter built for the US Navy, an enlarged development of the F/A-18 Hornet with 25 percent more wing area. It entered fleet service in 1999 and replaced the F-14 Tomcat, and the Navy's final order of 17 aircraft, announced in March 2024, is due for delivery by spring 2027.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "On 18 June 2017 Lt Cdr Michael Tremel of VFA-87 shot down a Syrian Su-22 with an AIM-120, the first air-to-air kill by a Super Hornet, after his first shot, an AIM-9X, missed.",
@@ -125,6 +126,11 @@
     {
       "date": "2026-11-01",
       "change": "Added the programme's cost record, the first AESA squadron, the Amberley ditching and the March 2026 Iranian claim.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

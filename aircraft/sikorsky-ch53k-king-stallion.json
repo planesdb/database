@@ -14,6 +14,7 @@
   "role": "Heavy-Lift Assault Transport Helicopter",
   "tagline": "The largest and heaviest helicopter in the United States military, built by Sikorsky to replace the CH-53E Super Stallion in the Marine Corps heavy-lift role. Three 7,500 shp engines and a new composite seven-blade rotor give it a 36,000 lb external lift and roughly three times the CH-53E's payload in hot-and-high conditions.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "It is the largest and heaviest helicopter in the U.S. military, with a maximum gross weight of 88,000 lb",
@@ -123,6 +124,11 @@
     {
       "date": "2026-09-16",
       "change": "Added the Sikorsky CH-53K King Stallion, with specs, variants, operators and programme history. Sources: NAVAIR and Sikorsky published data, Defense News and The War Zone reporting, and Wikipedia's programme history.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

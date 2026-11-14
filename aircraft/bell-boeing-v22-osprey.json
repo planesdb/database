@@ -14,6 +14,7 @@
   "role": "Tiltrotor Assault Transport",
   "tagline": "The Bell Boeing V-22 Osprey is a tiltrotor military transport that takes off and lands vertically like a helicopter, then rotates its engines forward and cruises like a turboprop at around 240 knots. It entered service with the U.S. Marine Corps in 2007 after two decades of troubled development, and the drive system that makes tiltrotor flight possible has since caused two fatal crashes and left the fleet flying under restrictions.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "The Osprey exists because of Operation Eagle Claw - the failed 1980 Iran hostage rescue, where helicopters could not make the distance, drove the joint programme that became the V-22.",
@@ -135,6 +136,11 @@
     {
       "date": "2026-09-05",
       "change": "Added the Bell Boeing V-22 Osprey, with history, specs, variants and accident record. Sources: U.S. Air Force, NAVAIR, Boeing, GlobalSecurity and named defence-press sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

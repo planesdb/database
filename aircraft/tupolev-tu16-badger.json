@@ -13,6 +13,7 @@
   "role": "Twin-Jet Strategic & Maritime Strike Bomber",
   "tagline": "The Tupolev Tu-16 (NATO: Badger) is a Soviet twin-engine, swept-wing jet bomber designed as the Tu-88. It first flew on 27 April 1952, entered service in 1954, and 1,509 were built between 1952 and 1962, while China's licence-built Xi'an H-6 was still in production in 2020.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "A Tu-16 dropped RDS-37, the Soviet Union's first thermonuclear weapon, over Semipalatinsk in 1955.",
@@ -159,6 +160,11 @@
     {
       "date": "2026-11-01",
       "change": "Added the RDS-37 test drop, the USS Essex crash, the 1978 Hopen Island standoff with Norway and the Amet-khan Sultan flying laboratory crash.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

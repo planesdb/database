@@ -13,6 +13,7 @@
   "role": "Tactical Military Transport",
   "tagline": "The turboprop workhorse in continuous production since 1954 and flown by more air forces than any other military aircraft. Able to operate from short, rough, unpaved airstrips that would ground most cargo aircraft its size, it remains Lockheed Martin's current-production tactical airlifter as the C-130J Super Hercules.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "Developed after the Korean War exposed the US Air Force's need for a purpose-built tactical transport that could deliver troops and cargo directly onto unimproved frontline airstrips, the Hercules first flew in August 1954 and entered USAF service in 1956, its high, box-like fuselage and integral rear loading ramp becoming a defining template copied by tactical transports worldwide ever since. Its versatility proved extraordinary: beyond routine cargo and paratroop duties, C-130 variants have flown as gunships (AC-130), aerial refuelling tankers (KC-130), electronic warfare and special operations platforms (MC-130), Antarctic and Arctic ski-equipped transports (LC-130), aerial firefighting tankers, and even, in a specially modified variant, landed and took off from an aircraft carrier during 1963 trials without a single modification to arresting gear. The type carried out the resupply airlift into besieged Khe Sanh during the Vietnam War, flew the famous Israeli commando raid to rescue hostages at Entebbe, Uganda in 1976, and has supported humanitarian relief operations on every continent. Lockheed introduced the substantially re-engined and modernised C-130J Super Hercules in 1996, featuring new turboprop engines, six-bladed composite propellers and a modern digital cockpit requiring a smaller crew, and this version remains in full-rate production and continuous export order today, with over 2,700 Hercules of all variants built across seven decades and more than 70 nations having operated the type.",
   "specifications": {
@@ -291,6 +292,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

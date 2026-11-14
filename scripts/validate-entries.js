@@ -28,6 +28,48 @@ const OPERATORS = path.join(ROOT, "operators");
 const DOMAIN_CATEGORIES = ["military", "civilian"];
 const VALID_STATUSES = ["In Service", "In Development", "Cancelled", "Retired"];
 
+/* "condition" - the highest state any example of the type is in, best
+   first. Keep in step with VALID_CONDITIONS in the site's build.js. */
+const VALID_CONDITIONS = [
+  "Operational - Military / Government",
+  "Operational - Commercial",
+  "Operational - Private",
+  "Airworthy - Test & Training",
+  "Airworthy - Airshow Displays",
+  "Preserved - Static Display",
+  "Stored",
+  "Scrapped",
+  "Destroyed - Crash",
+  "Destroyed - Combat",
+  "Destroyed - Fire",
+  "Unknown"
+];
+
+/* Status and condition have to agree:
+     In Service      -> an Operational condition only
+     Retired         -> anything EXCEPT Operational
+     Cancelled       -> anything EXCEPT Operational
+     In Development  -> no condition at all (leave the field out)
+   A retired type that a few residual operators still fly is "Retired"
+   by the status rule in the templates, and its condition then describes
+   the survivors outside mainstream service. Returns an error message, or
+   "" when the pair is fine. */
+function conditionStatusClash(status, condition) {
+  if (!condition) return "";
+  const operational = condition.indexOf("Operational") === 0;
+  if (status === "In Development") {
+    return 'status is "In Development", so "condition" should be left out - a type still in development has no settled fleet condition yet.';
+  }
+  if (status === "In Service" && !operational) {
+    return 'status is "In Service" but "condition" is "' + condition + '". An in-service type must have one of the Operational conditions - if none are still in service, the status should be "Retired".';
+  }
+  if ((status === "Retired" || status === "Cancelled") && operational) {
+    return 'status is "' + status + '" but "condition" is "' + condition + '". A ' + status.toLowerCase() + ' type cannot be Operational - either the status should be "In Service", or the condition should describe the survivors (Airworthy, Preserved, Stored and so on).';
+  }
+  return "";
+}
+
+
 /* Field names that no longer render anything. An entry copied from an old
    example still carries them and the content quietly goes nowhere - so these
    are worth saying out loud, but they do NOT break a build, and failing a
@@ -134,6 +176,17 @@ function checkAircraft(filename, validSlugs) {
     err(rel, '"status" is ' + JSON.stringify(plane.status) + '. It must be exactly one of: ' +
       VALID_STATUSES.join(", ") + ' - capitalisation included. An unrecognised status ' +
       'renders the wrong pill on the live page.');
+  }
+
+  if (plane.condition !== undefined && plane.condition !== null &&
+      VALID_CONDITIONS.indexOf(plane.condition) === -1) {
+    err(rel, '"condition" is ' + JSON.stringify(plane.condition) + '. It must be exactly one of: ' +
+      VALID_CONDITIONS.join(", ") + ' - spaced hyphen and capitalisation included.');
+  }
+
+  {
+    const clash = conditionStatusClash(plane.status, plane.condition);
+    if (clash) err(rel, clash);
   }
 
   // variants are { code, desc } and nothing else

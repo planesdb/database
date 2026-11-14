@@ -13,6 +13,7 @@
   "role": "Tailless Fighter Agility Demonstrator",
   "tagline": "The McDonnell Douglas X-36 is a remotely piloted, tailless research aircraft built as a 28-percent-scale model of a theoretical advanced fighter. Two were built by Boeing Phantom Works for NASA, and they flew 31 times in 1997 to 40 degrees angle of attack with no tail at all.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The two X-36s flew 31 times in 25 weeks between 17 May and 12 November 1997, for 15 hours and 38 minutes in total.",
@@ -111,6 +112,11 @@
     {
       "date": "2026-10-14",
       "change": "Added the McDonnell Douglas X-36 - the NASA and Boeing flight programme, specs, the RESTORE software flights and the two surviving aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

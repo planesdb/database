@@ -11,6 +11,7 @@
   "role": "Long-Range Biplane Airliner",
   "tagline": "A four-engine biplane airliner built by Handley Page for Imperial Airways from 1930, with a 130 ft wing and cabins styled like Pullman railway carriages. Eight were built, they carried passengers for almost a decade without a fatal accident, and none survived the Second World War.",
   "status": "Retired",
+  "condition": "Scrapped",
   "inProduction": false,
   "quickFacts": [
     "The fleet flew more than 10 million miles in nine years with Imperial Airways without a passenger being killed, a record for contemporary airliners",
@@ -109,6 +110,11 @@
     {
       "date": "2026-11-06",
       "change": "Added the Handley Page H.P.42 and H.P.45 - history, specs, the Imperial Airways fleet list, wartime losses and the Hannibal disappearance. Sources: Wikipedia, Grace's Guide and This Day in Aviation.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -11,6 +11,7 @@
   "role": "Experimental Flying Wing",
   "tagline": "The Northrop N-1M is an American single-seat, twin-engine experimental flying wing built by Northrop in 1939-40 to prove Jack Northrop's all-wing concept. Nicknamed the 'Jeep', it first flew on 3 July 1940 and was the first entirely all-wing aircraft designed, built and flown in the United States.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Its first flight on 3 July 1940 was unplanned: it bounced into the air during a high-speed taxi run at Baker Dry Lake.",
@@ -119,6 +120,11 @@
     {
       "date": "2026-09-28",
       "change": "Northrop N-1M added - history, specs, variants, operators and accident record. Sources: Wikipedia and the Smithsonian National Air and Space Museum.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

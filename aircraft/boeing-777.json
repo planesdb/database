@@ -13,6 +13,7 @@
   "role": "Long-Range Wide-Body Airliner and Freighter",
   "tagline": "The Boeing 777 is a long-range, twin-engine wide-body airliner built by Boeing since 1994 and the largest twinjet in airline service. It was the first airliner designed entirely on computer, more than 1,790 have been delivered, and the 777F freighter and the delayed 777X keep the family in production.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": true,
   "quickFacts": [
     "The 777 was the first airliner designed entirely on computer, using CATIA software, and Boeing built it without a full-scale physical mock-up.",
@@ -170,6 +171,11 @@
     {
       "date": "2026-09-22",
       "change": "Added the Boeing 777, with history, specs, variants, operators and accident record. Sources: Wikipedia, Boeing, the EASA type certificate, Leeham News, AirlineRatings and news reporting on the 777F emissions waiver.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

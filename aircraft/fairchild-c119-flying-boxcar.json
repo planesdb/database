@@ -13,6 +13,7 @@
   "role": "Twin-Boom Military Transport & Gunship",
   "tagline": "The Fairchild C-119 Flying Boxcar is an American twin-engine, twin-boom military transport developed from the C-82 Packet for the U.S. Air Force. 1,183 were built, and it dropped bridge sections at the Chosin Reservoir in 1950, made the first mid-air catch of a capsule returning from space in 1960, and flew as the AC-119 gunship in Vietnam.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "On 19 August 1960 C-119J 51-8037 made the world's first mid-air recovery of a capsule returning from space, snagging Discoverer XIV's parachute at 8,000 ft near Hawaii.",
@@ -150,7 +151,7 @@
     {
       "name": "Civil operators",
       "role": "Firefighting & Utility",
-      "status": "In Service",
+      "status": "Retired",
       "since": "Postwar",
       "fleetSize": "2 airworthy",
       "homeBase": "Two C-119Fs privately owned at Eagle River, Alaska; US airtankers grounded in 1987"
@@ -220,6 +221,16 @@
     {
       "date": "2026-09-28",
       "change": "Added the Fairchild C-119 Flying Boxcar - history, specs, variants, operators and accident record. Sources: Wikipedia, the National Museum of the U.S. Air Force, the Air Mobility Command Museum and the Hill Aerospace Museum.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Corrected the civil operators' status to Retired, as no C-119 is known to have flown since around 2020.",
       "author": "planesdb"
     }
   ],

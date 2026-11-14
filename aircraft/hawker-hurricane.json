@@ -13,6 +13,7 @@
   "role": "Single-Seat Fighter / Ground Attack Aircraft",
   "tagline": "The rugged unsung hero that claimed the majority of victories in the Battle of Britain. Built around a steel-tube frame skinned largely in fabric, it traded outright performance for ruggedness and ease of repair, letting squadron riggers patch battle damage overnight with doped linen.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "Sydney Camm began the Hurricane as a private venture 'Fury Monoplane' in 1934 after Air Ministry hesitation, and the prototype flew at Brooklands on 6 November 1935, four months before the Spitfire. Entering service with No. 111 Squadron at Northolt in December 1937, it was the RAF's first eight-gun fighter and the backbone of Fighter Command when war came: in the Battle of Britain the RAF fielded roughly two Hurricane squadrons for every Spitfire squadron, and Hurricanes were credited with about 60% of the Luftwaffe aircraft destroyed. The tactical doctrine - Spitfires against the escorting Bf 109s, Hurricanes against the bombers - was never rigid, but it played to the Hurricane's strengths as a steady, forgiving gun platform.\n\nOn 16 August 1940 Flight Lieutenant James Nicolson of No. 249 Squadron, wounded and with his Hurricane in flames, stayed in the cockpit to shoot down a Bf 110 before bailing out - the only Victoria Cross ever awarded to a Fighter Command pilot. Hurricanes went on to fight over Malta, the Western Desert (where 'Hurribomber' fighter-bombers and 40mm-cannon tank-busters emerged), Russia (nearly 3,000 were supplied to the Soviets) and Burma. Sea Hurricanes flew from catapult-armed merchant ships - one-way missions that ended in a parachute descent to the sea - and from carriers.\n\nProduction ended in July 1944 with PZ865, 'The Last of the Many', after 14,487 Hurricanes and Sea Hurricanes had been built. PZ865 and LF363 both still fly with the Battle of Britain Memorial Flight; around a dozen other Hurricanes remain airworthy worldwide - rare survivors of the fighter that history keeps trying to put in the Spitfire's shadow.",
   "specifications": {
@@ -286,6 +287,11 @@
       "date": "2026-07-31",
       "change": "Added a list of surviving aircraft.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "survivors": {

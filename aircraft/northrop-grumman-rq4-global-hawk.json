@@ -14,6 +14,7 @@
   "role": "High-Altitude Surveillance Drone",
   "tagline": "The RQ-4 Global Hawk is a high-altitude, long-endurance unmanned surveillance aircraft built by Northrop Grumman for the U.S. Air Force. It flies at up to 60,000 ft for more than 30 hours at a time, and in 2001 became the first uncrewed aircraft to fly non-stop across the Pacific.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "In April 2001 a Global Hawk flew non-stop from Edwards AFB, California, to RAAF Base Edinburgh in South Australia in 23 hours 20 minutes - the first crossing of the Pacific by an uncrewed aircraft and a world distance record for a UAV of 8,214 mi (13,220 km).",
@@ -160,6 +161,11 @@
     {
       "date": "2026-09-22",
       "change": "New entry for the Northrop Grumman RQ-4 Global Hawk - history, specs, variants, operators, survivors and accident record. Sources: Wikipedia, Air & Space Forces Magazine, The War Zone, DVIDS, NASA, the Australian Defence Science and Technology Group and museum fact sheets.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

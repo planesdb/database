@@ -13,6 +13,7 @@
   "role": "Wide-Body Trijet Airliner",
   "tagline": "The McDonnell Douglas DC-10 is a wide-body trijet airliner with its third engine at the base of the fin, built from 1970 to 1989. It outsold the rival Lockheed TriStar, but fatal accidents in the 1970s damaged its reputation, and today only a handful of tankers, freighters and a flying eye hospital still fly.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "quickFacts": [
     "United's 1968 order for 30 DC-10s was worth $465 million, about $15.5 million per aircraft.",
@@ -223,6 +224,11 @@
     {
       "date": "2026-10-04",
       "change": "Added the DC-10 - history, variants, operators past and present, and the accident record including the 1979 grounding.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

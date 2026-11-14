@@ -1,0 +1,403 @@
+{
+  "name": "Sea King",
+  "fullName": "Westland Sea King",
+  "manufacturer": "Westland Helicopters",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "military",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Anti-submarine, airborne early warning, search and rescue and assault helicopter",
+  "tagline": "The Westland Sea King is a twin-engine, licence-built British version of the Sikorsky S-61. The Westland-built HAS.1 first flew on 7th May 1969, and the type went on to anti-submarine, airborne early warning, commando and search and rescue roles with the Royal Navy, the RAF and a long list of export customers.",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
+  "inProduction": false,
+  "quickFacts": [
+    "The Royal Navy ordered 60 SH-3D Sea Kings in June 1966 to replace the Westland Wessex. The first Westland-built aircraft, the Sea King HAS.1, flew on 7th May 1969 at Yeovil, and production aircraft reached No. 700 Naval Air Squadron from August 1969.{{ref:wiki-seaking}}",
+    "Westland replaced the American engines with Rolls-Royce Gnomes derived from the General Electric T58 and added British avionics and sonar. The Royal Navy had operations controlled by an observer, rather than the pilot, and a search radar was fitted.{{ref:wiki-seaking}}",
+    "On 19th May 1982 a Sea King HC.4 carrying SAS troops from HMS Hermes to HMS Intrepid crashed into the sea. 22 men were killed and nine survived, and bird feathers in the debris suggested a bird strike.{{ref:wiki-seaking}}{{ref:warhistory}}",
+    "The Falklands showed that the fleet had no airborne early warning, and the answer was the AEW.2, with Searchwater radar in an inflatable radome, converted from HAS.1 and HAS.2 aircraft. Nine were converted.{{ref:wiki-seaking}}",
+    "Both Prince Andrew and Prince William flew front-line search and rescue Sea Kings.{{ref:wiki-seaking}}",
+    "The last Royal Navy Sea King retired on 26th September 2018. Germany retired its Sea Kings in March 2024, and the UK and Germany have both sent Sea Kings to Ukraine.{{ref:wiki-seaking}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the generic Sea King block on the Wikipedia page, not for a specific variant such as the HAS.5 or HAR.3. The page gives no maximum speed or service ceiling. Production is 344 in the infobox, plus 13 AEW Mk.2 and ASaC Mk.7 aircraft, and 330 in the body text. The first Sikorsky S-61 flew in 1959, and the Westland-built HAS.1 flew on 7th May 1969.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "Not published in the sources checked"
+    },
+    "cruiseSpeed": "112 kn (129 mph / 207 km/h)",
+    "range": {
+      "miles": 764,
+      "text": "664 nmi (764 mi / 1,230 km)"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Not published in the sources checked"
+    },
+    "mainRotorDiameter": {
+      "ft": 62,
+      "text": "62 ft 0 in (18.90 m)"
+    },
+    "length": {
+      "ft": 55.83,
+      "text": "55 ft 10 in (17.02 m)"
+    },
+    "height": {
+      "ft": 16.83,
+      "text": "16 ft 10 in (5.13 m)"
+    },
+    "rateOfClimb": "2,020 ft/min (10.3 m/s)",
+    "weight": "empty: 14,051 lb (6,373 kg); MTOW: 21,400 lb (9,707 kg)",
+    "engines": "2 x Rolls-Royce H.1400-2 Gnome turboshafts, 1,660 shp each",
+    "armament": "Four Mk 44, Mk 46 or Sting Ray torpedoes, or four depth charges",
+    "crew": "2 to 4",
+    "capacity": "Up to 28 fully equipped troops (HC.4 Commando)",
+    "firstFlight": {
+      "date": "1969-05-07",
+      "year": 1969
+    },
+    "serviceEntryDate": "1969-08",
+    "numberBuilt": 344,
+    "unitCost": {
+      "usd": null,
+      "text": "Not published in the sources checked",
+      "inflationText": null
+    },
+    "combatLosses": "Three Sea Kings lost in accidents during the Falklands campaign, including the 19th May 1982 crash with 22 killed",
+    "retiredDate": null
+  },
+  "variants": [
+    {
+      "code": "HAS.1 and HAS.2",
+      "desc": "The first anti-submarine versions. The HAS.1 had Gnome H.1400 engines, a five-bladed tail rotor, Plessey dipping sonar and an ARI 5995 search radar, and 56 were built. The HAS.2 had more powerful engines, a six-bladed tail rotor and new sonar, with 21 new aircraft plus conversions."
+    },
+    {
+      "code": "HAS.5 and HAS.6",
+      "desc": "Upgraded anti-submarine versions. The HAS.5 entered service in June 1981 with longer-range radar and new acoustic processing, and 30 were built new with about 55 converted from earlier aircraft. The HAS.6 added improved avionics and communications, with five new-build aircraft plus conversions."
+    },
+    {
+      "code": "AEW.2 and ASaC Mk.7",
+      "desc": "The airborne early warning Sea Kings, created after the Falklands exposed the lack of such cover. The AEW.2 had Searchwater radar in an inflatable radome and nine were converted. The ASaC Mk.7 followed with Searchwater 2000AEW radar and Link 16, tracking up to 400 targets, up from 250."
+    },
+    {
+      "code": "HAR.3 and HAR.3A",
+      "desc": "The RAF search and rescue versions, with a relocated rear bulkhead, a longer cabin, extra fuel and more windows. 19 HAR.3s were built, and the HAR.3 entered RAF service in 1978 replacing the Whirlwind. Six upgraded HAR.3As with new avionics were ordered in 1992 and entered service in 1996."
+    },
+    {
+      "code": "HC.4 Commando",
+      "desc": "The assault and utility transport, with a simplified undercarriage and a longer cabin that carried up to 28 fully equipped troops. 42 were built. Royal Navy HC.4s flew in the Falklands, Bosnia, Sierra Leone and Afghanistan, and the version was exported as the Commando to Egypt and Qatar."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Fleet Air Arm",
+      "role": "Anti-submarine, early warning and commando",
+      "status": "Retired",
+      "since": "1969",
+      "fleetSize": "Not published; last retired 26th September 2018",
+      "homeBase": "United Kingdom"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Search and rescue",
+      "status": "Retired",
+      "since": "1978",
+      "fleetSize": "19 HAR.3 and 6 HAR.3A built; up to 12 dispersed across the UK in 2006, plus 2 in the Falklands",
+      "homeBase": "United Kingdom"
+    },
+    {
+      "name": "Germany",
+      "role": "Naval and search and rescue",
+      "status": "Retired",
+      "since": "1973",
+      "fleetSize": "22 Mk.41 ordered on 20th June 1969; retired March 2024",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "Indian Navy",
+      "role": "Anti-submarine",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "12 Mk.42 bought, 20 Mk.42B delivered 1988 to 1992 and 6 Mk.42C procured in 1987; Mk.42B retired June 2026",
+      "homeBase": "India"
+    },
+    {
+      "name": "Royal Australian Navy",
+      "role": "Anti-submarine and utility",
+      "status": "Retired",
+      "since": "1974",
+      "fleetSize": "12 Mk.50 bought in 1974, 4 lost between October 1975 and May 1979; withdrawn December 2011",
+      "homeBase": "Australia"
+    },
+    {
+      "name": "Norwegian Ministry of Justice (330 Squadron)",
+      "role": "Search and rescue",
+      "status": "Retired",
+      "since": "1973",
+      "fleetSize": "12 Mk.43B",
+      "homeBase": "Norway"
+    },
+    {
+      "name": "Belgium",
+      "role": "Search and rescue",
+      "status": "Retired",
+      "since": "1976",
+      "fleetSize": "5 Mk.48; retired 21st March 2019",
+      "homeBase": "Belgium"
+    },
+    {
+      "name": "Pakistan",
+      "role": "Maritime",
+      "status": "In Service",
+      "since": "1975",
+      "fleetSize": "6 Mk.45 from 1975, 10 inducted January 2022",
+      "homeBase": "Pakistan"
+    },
+    {
+      "name": "Egypt",
+      "role": "Assault and utility",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "23 Sea Kings and Commandos as of 2011",
+      "homeBase": "Egypt"
+    },
+    {
+      "name": "Qatar",
+      "role": "Assault and utility",
+      "status": "Retired",
+      "since": "1975",
+      "fleetSize": "Not published; Commandos used from 1975 to 2022",
+      "homeBase": "Qatar"
+    },
+    {
+      "name": "Ukraine",
+      "role": "Search and rescue and utility",
+      "status": "In Service",
+      "since": "2022",
+      "fleetSize": "3 donated by the UK, with 6 more agreed by Germany in January 2024",
+      "homeBase": "Ukraine"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "S61",
+    "howToFind": "Search for ICAO type S61 on a public tracker. The remaining Sea Kings are with foreign operators, so tracks are occasional."
+  },
+  "tags": [
+    "Sea King",
+    "Westland",
+    "Royal Navy",
+    "Falklands",
+    "SAR",
+    "ASaC",
+    "Commando",
+    "S-61"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Westland Sea King, with the Falklands 19th May 1982 crash, the airborne early warning conversion and the long list of export operators.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Westland Sea King is a British licence-built version of the Sikorsky S-61, extended by Westland from the SH-3 Sea King soon after that helicopter's first flight in 1959. The Royal Navy ordered 60 SH-3D Sea Kings in June 1966 to replace the Westland Wessex, and the first Westland-built aircraft flew at Yeovil on 7th May 1969.{{ref:wiki-seaking}}",
+      "It served as an anti-submarine, airborne early warning, assault and search and rescue helicopter. The Royal Navy retired its last Sea King on 26th September 2018.{{ref:wiki-seaking}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: Sikorsky Airframe, British Equipment",
+        "paragraphs": [
+          "Westland changed the design substantially. The main differences were Rolls-Royce Gnome engines derived from the American General Electric T58, British avionics and sonar, and a computerised flight control system. The Royal Navy wanted helicopters more autonomous than the US Navy's, so operations were controlled by an observer rather than the pilot, and a search radar was fitted.{{ref:wiki-seaking}}",
+          "The HAS.1 first flew on 7th May 1969, and aircraft reached 700 Naval Air Squadron from August 1969. The main rotor has a 62 ft diameter, the helicopter is 55 ft 10 in long and its two Gnomes give 1,660 shp each. At 14,051 lb empty and 21,400 lb maximum take-off, it cruises at 112 kn with a range of 664 nmi, and it carries four torpedoes or depth charges.{{ref:wiki-seaking}}"
+        ]
+      },
+      {
+        "heading": "Variants Through the Fleet",
+        "paragraphs": [
+          "The HAS.1 had 56 built and the HAS.2 had 21 new aircraft plus conversions. The HAS.5, which entered service in June 1981, brought longer-range radar and new acoustic processing, with 30 new-build aircraft and about 55 conversions. The HAS.6 followed with improved avionics. The HC.4 Commando carried up to 28 fully equipped troops, and 42 were built.{{ref:wiki-seaking}}",
+          "The HAR.3 search and rescue aircraft entered RAF service in 1978, and 19 were built with a longer cabin and extra fuel. Six HAR.3As were ordered in 1992 and entered service in 1996, though operational use was delayed to mid-1997.{{ref:wiki-seaking}}"
+        ]
+      },
+      {
+        "heading": "The Falklands War",
+        "paragraphs": [
+          "In 1982, 820 Naval Air Squadron flew 1,650 sorties from HMS Invincible with 11 HAS.5s, 825 Naval Air Squadron used ten HAS.2s fitted with troop seats, and 826 Naval Air Squadron operated nine HAS.5s from HMS Hermes. A HC.4 ditched on 23rd April 1982 during a night supply transfer, with Prince Andrew helping with the rescue. A Sea King crashed on 12th May 1982 after an altimeter fault, and all the crew survived.{{ref:wiki-seaking}}",
+          "On 19th May 1982 a Sea King HC.4 of 846 Naval Air Squadron, ZA294, was moving SAS troops from HMS Hermes to HMS Intrepid when it crashed into the sea while waiting to land. 22 men were killed and nine survived, and the SAS lost 18 men, its highest loss in one day since the Second World War. Bird feathers were found in the debris, which suggests a bird strike, but the cause was never established for certain. Some accounts give 21 dead.{{ref:wiki-seaking}}{{ref:warhistory}}{{ref:asn}}"
+        ]
+      },
+      {
+        "heading": "Airborne Early Warning",
+        "paragraphs": [
+          "The Falklands showed that the fleet had no airborne early warning, and the answer was a Sea King. The AEW.2 had Searchwater radar in an inflatable radome and was converted from HAS.1 and HAS.2 aircraft, with nine converted. The later ASaC Mk.7 carried Searchwater 2000AEW radar and Link 16 and could track up to 400 targets, up from 250.{{ref:wiki-seaking}}",
+          "On 22nd March 2003 two ASaC7s from 849 Naval Air Squadron collided over the Persian Gulf, killing seven personnel.{{ref:wiki-seaking}}"
+        ]
+      },
+      {
+        "heading": "Other Wars and Rescue Work",
+        "paragraphs": [
+          "In the 1991 Gulf War, British Sea Kings mainly moved troops and supplies between ships and land, with crews wearing NBC suits. On 24th March 1993 a flight of French Pumas and Sea King HC.4s was shelled during an evacuation attempt in Bosnia. 814 Naval Air Squadron patrolled the Adriatic coast and carried out heavy transport work during Kosovo, and 846 Naval Air Squadron HC.4s took part in Operation Palliser in Sierra Leone in 2000.{{ref:wiki-seaking}}",
+          "HC.4s operated from Camp Bastion between April 2009 and July 2011, flying over 1,000 missions, and Sea King ZA298 survived an RPG hit. As of 2006, up to 12 RAF HAR.3 and HAR.3A aircraft were dispersed across the UK, with two more in the Falklands. The Belgian Sea Kings flew over 3,300 search and rescue sorties and saved over 1,750 lives by the end of 2016.{{ref:wiki-seaking}}"
+        ]
+      },
+      {
+        "heading": "Exports and Retirement",
+        "paragraphs": [
+          "Germany ordered 22 Mk.41s on 20th June 1969, delivered between April 1973 and September 1974, and upgraded them from 1986 to carry Sea Skua missiles. India ordered six Mk.42s in 1969, eventually bought 12, and received 20 Mk.42Bs between 1988 and 1992. Australia bought 12 Mk.50s in 1974 and lost four between October 1975 and May 1979. Norway's Ministry of Justice owns 12 Mk.43Bs flown by 330 Squadron from May 1973.{{ref:wiki-seaking}}",
+          "Belgium bought five Mk.48s and retired its last on 21st March 2019, and Pakistan took six Mk.45s from 1975 and inducted 10 more in January 2022. Egypt had 23 Sea Kings and Commandos as of 2011, and Qatar flew Commandos from 1975 to 2022. The Indian Mk.42B fleet was phased out in June 2026, and Germany retired its Sea Kings in March 2024. Three former Royal Navy Sea Kings went to Ukraine, and Germany agreed to send six more in January 2024.{{ref:wiki-seaking}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-seaking",
+      "name": "Westland Sea King",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Westland_Sea_King"
+    },
+    {
+      "id": "warhistory",
+      "name": "Falklands Sea Kings",
+      "publisher": "War History Online",
+      "url": "https://warhistory.org/2018/03/16/falklands-sea-kings/"
+    },
+    {
+      "id": "asn",
+      "name": "Westland Sea King HC4 ZA294, 19 May 1982",
+      "publisher": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/wikibase/71053"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Westland Sea King on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Westland_Sea_King"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1982-04-23",
+      "title": "HC.4 ditches during a night supply transfer",
+      "tag": "Ditching",
+      "summary": "A Sea King HC.4 ditched while carrying out a night supply transfer to a ship during the Falklands campaign. Prince Andrew helped with the rescue.",
+      "source": "https://en.wikipedia.org/wiki/Westland_Sea_King"
+    },
+    {
+      "date": "1982-05-12",
+      "title": "Sea King crashes after an altimeter fault",
+      "tag": "Equipment fault",
+      "summary": "A Sea King from HMS Hermes crashed into the sea in the Falklands campaign after an altimeter problem. All the crew were rescued.",
+      "source": "https://warhistory.org/2018/03/16/falklands-sea-kings/"
+    },
+    {
+      "date": "1982-05-19",
+      "title": "ZA294 crashes with SAS troops",
+      "tag": "Bird strike suspected",
+      "summary": "A Sea King HC.4 of 846 Naval Air Squadron crashed into the sea transferring SAS troops from HMS Hermes to HMS Intrepid. 22 people died according to most sources, and nine survived. Some sources give 21 deaths.",
+      "fatalities": 22,
+      "source": "https://aviation-safety.net/wikibase/71053"
+    },
+    {
+      "date": "1993-03-24",
+      "title": "Sea King HC.4s shelled in Bosnia",
+      "tag": "Hostile fire",
+      "summary": "A flight of French Pumas and Sea King HC.4s was shelled during an evacuation attempt in Bosnia.",
+      "source": "https://en.wikipedia.org/wiki/Westland_Sea_King"
+    },
+    {
+      "date": "2003-03-22",
+      "title": "Two ASaC7s collide over the Persian Gulf",
+      "tag": "Collision",
+      "summary": "Two Sea King ASaC7 helicopters of 849 Naval Air Squadron collided over the Persian Gulf, killing seven personnel.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Westland_Sea_King"
+    }
+  ],
+  "survivors": {
+    "intro": "Sea Kings are preserved in museums in the UK, Belgium, Australia, India and the Falkland Islands.",
+    "airframes": [
+      {
+        "serial": "XZ592",
+        "name": "HAR.3",
+        "location": "Morayvia",
+        "place": "Moray, Scotland, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Westland_Sea_King",
+        "note": "A retired RAF search and rescue HAR.3, brought home to Moray.",
+        "featured": true,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XZ574",
+        "name": "HAS.5",
+        "location": "Fleet Air Arm Museum",
+        "place": "United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Westland_Sea_King",
+        "note": "A Royal Navy HAS.5 in the museum's collection.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "ZA298",
+        "name": "King of the Junglies",
+        "location": "Fleet Air Arm Museum",
+        "place": "United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Westland_Sea_King",
+        "note": "The HC.4 that survived an RPG hit in Afghanistan, stated in the source to join the national collection at the museum.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "XZ593",
+        "name": "HAR.3",
+        "location": "Falkland Islands Museum and National Trust",
+        "place": "Falkland Islands",
+        "url": "https://en.wikipedia.org/wiki/Westland_Sea_King",
+        "note": "A retired RAF HAR.3.",
+        "countryCode": "fk",
+        "country": "Falkland Islands"
+      },
+      {
+        "serial": "N16",
+        "name": "Mk.50A",
+        "location": "Australian Fleet Air Arm Museum",
+        "place": "Australia",
+        "url": "https://en.wikipedia.org/wiki/Westland_Sea_King",
+        "note": "A Royal Australian Navy Mk.50A.",
+        "countryCode": "au",
+        "country": "Australia"
+      },
+      {
+        "serial": "RS01",
+        "name": "Belgian Sea King",
+        "location": "Royal Army Museum",
+        "place": "Brussels, Belgium",
+        "url": "https://en.wikipedia.org/wiki/Westland_Sea_King",
+        "note": "A Belgian Sea King retired to the museum.",
+        "countryCode": "be",
+        "country": "Belgium"
+      },
+      {
+        "serial": "IN504",
+        "name": "Mk.42",
+        "location": "Warbirds of India, HAL",
+        "place": "Bangalore, India",
+        "url": "https://en.wikipedia.org/wiki/Westland_Sea_King",
+        "note": "An Indian Navy Mk.42 listed at HAL, Bangalore.",
+        "countryCode": "in",
+        "country": "India"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

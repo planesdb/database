@@ -13,6 +13,7 @@
   "role": "MALE Unmanned Combat and ISTAR Demonstrator",
   "tagline": "The BAE Systems Mantis is a twin-engine, medium-altitude long-endurance unmanned aircraft built by BAE Systems as a technology demonstrator for the UK Ministry of Defence. It first flew on 21st October 2009 at the Woomera Test Range in South Australia, and its design became the starting point for the Anglo-French Telemos, which was abandoned in July 2012.",
   "status": "Cancelled",
+  "condition": "Unknown",
   "inProduction": false,
   "quickFacts": [
     "Mantis went from concept to first flight in 19 months, and BAE described it as the largest fully autonomous unmanned aircraft built in the UK.",
@@ -101,6 +102,11 @@
     {
       "date": "2026-11-08",
       "change": "New entry for the BAE Mantis demonstrator, covering the Woomera trials, the 2010 funding cut and the link to Telemos. Sources include AIN, FlightGlobal and Airforce Technology.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

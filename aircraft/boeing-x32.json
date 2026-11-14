@@ -13,6 +13,7 @@
   "role": "Joint Strike Fighter Concept Demonstrator",
   "tagline": "The Boeing X-32 is a single-engine stealth fighter concept demonstrator that Boeing built to compete for the US Joint Strike Fighter contract. Two were flown between 2000 and 2001, and on 26 October 2001 the Pentagon chose Lockheed Martin's X-35, which became the F-35 Lightning II.",
   "status": "Cancelled",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The X-32A finished its flight programme on 3 February 2001 after 66 flights and 50.4 flight hours, two months ahead of the six planned.",
@@ -108,6 +109,11 @@
     {
       "date": "2026-10-14",
       "change": "Added the Boeing X-32 - the Joint Strike Fighter competition, both demonstrators' flight programmes, why it lost to the X-35 and where the two aircraft are now.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

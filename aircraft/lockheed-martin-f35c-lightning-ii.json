@@ -13,6 +13,7 @@
   "role": "Carrier-Based Stealth Fighter",
   "tagline": "The world's only 5th-generation long-range stealth strike fighter built for carrier operations. With larger wings, folding wingtips and the greatest internal fuel capacity of all F-35 variants, it gives the US Navy and Marine Corps a persistent low-observable strike platform at sea.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "Developed out of the competitive Joint Strike Fighter program alongside the A and B models, the F-35C was tailored to replace legacy F/A-18C/D Hornets as the premier offensive asset for U.S. Navy Carrier Strike Groups. The first production F-35C completed its initial test flights following the program's framework, and after meticulous carrier qualification trials aboard nuclear-powered supercarriers, the U.S. Navy officially declared Initial Operating Capability (IOC) on February 28, 2019. It marked its milestone first operational deployment in 2021 aboard the USS Carl Vinson, cementing 5th-generation network-centric warfare and sensor fusion on the flight deck.",
   "specifications": {
@@ -334,6 +335,11 @@
       "date": "2026-07-31",
       "change": "Cut some padding from the article sections. Facts and sources unchanged.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

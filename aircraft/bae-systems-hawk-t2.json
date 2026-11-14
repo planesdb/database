@@ -11,6 +11,7 @@
   "role": "Advanced Jet Trainer",
   "tagline": "The Hawk T2, also designated Mk128, is the two-seat advanced jet trainer that prepares Royal Air Force and Royal Navy student pilots for the Typhoon and F-35B. Despite sharing its name and airframe family with the earlier Hawk T1, it shares only about 10 percent of its parts with that aircraft and carries no live weapons of its own.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "Although it carries the same Hawk name, the T2 shares only around 10 percent of its parts with the original Hawk T1 - it uses a new wing, forward and centre fuselage, fin and tailplane.",
@@ -90,6 +91,11 @@
     {
       "date": "2026-09-23",
       "change": "Added the BAE Systems Hawk T2, with history, specs, variants, operators and accident record. Sources: RAF, MoD, BAE and contemporary news sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -11,6 +11,7 @@
   "role": "Supersonic Research Aircraft",
   "tagline": "The Bell X-1 was a rocket-powered research aircraft built for the US Army Air Forces and the NACA, and the first aircraft to fly faster than the speed of sound in level flight. Six airframes flew 214 flights between 1946 and 1958, and the first of them now hangs in the Smithsonian's Milestones of Flight hall.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The X-1 could not carry enough propellant to take off and still do its job, so a B-29 carried it to about 25,000 ft in its bomb bay and dropped it; the rocket then burned for only a few minutes.",
@@ -141,6 +142,11 @@
     {
       "date": "2026-09-19",
       "change": "Bell X-1 added - history, specs, variants, operators, survivors and accident record. Sources: NASA Armstrong fact sheets, Smithsonian National Air and Space Museum collection records and the National Museum of the US Air Force.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

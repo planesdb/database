@@ -11,6 +11,7 @@
   "role": "Transoceanic Flying Boat Airliner",
   "tagline": "The Boeing 314 Clipper is an American long-range flying boat airliner built for Pan American Airways, with a wing taken from the cancelled XB-15 bomber. Twelve were built from 1938 to 1941, six Model 314 and six Model 314A, and they carried passengers across both the Atlantic and the Pacific until the last one flew in January 1948.",
   "status": "Retired",
+  "condition": "Scrapped",
   "inProduction": false,
   "quickFacts": [
     "Pan Am paid an average of $668,908 for each early Model 314 when a Douglas DC-3 cost $115,000.",
@@ -134,6 +135,11 @@
     {
       "date": "2026-11-01",
       "change": "Added the Pacific Clipper's flight home, the Honolulu Clipper's last days and details of the crew and meals on board.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

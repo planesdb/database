@@ -13,6 +13,7 @@
   "role": "Twin-Engine Attack Helicopter",
   "tagline": "The world's most widely flown attack helicopter. Built around a 30mm chain gun, Hellfire missiles and a nose-mounted sensor turret, it has been flown by 19 nations since entering US Army service in 1986 and logged well over a million combat hours.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "Developed by Hughes Helicopters as the Model 77/YAH-64 to meet the US Army's Advanced Attack Helicopter requirement, the type first flew on 30 September 1975 and entered service as the AH-64A in 1986. McDonnell Douglas acquired the Hughes helicopter business in 1984 and Boeing inherited the line in the 1997 McDonnell Douglas merger. The Apache's combat debut came in the opening minutes of the 1991 Gulf War, when a flight of AH-64As destroyed Iraqi early-warning radar sites ahead of the main air campaign, and it has since flown extensively over Iraq, Afghanistan, Syria and, in 2026, in strikes tied to the wider US-Iran conflict in the Persian Gulf region. The definitive AH-64D Longbow introduced a millimetre-wave fire-control radar and cockpit-integrated digital targeting, while the current AH-64E Guardian adds fully digital avionics, more powerful engines and the ability to control unmanned aircraft from the cockpit. More than 2,875 Apaches have been built across the A through E models, with over 890 AH-64Es delivered as of late 2025 and the type on contract to remain in production into the 2030s.",
   "specifications": {
@@ -352,6 +353,11 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators roster from the full operators list - added Poland, Egypt, the Netherlands and Korea as individual rows, recorded the British Army's earlier 67 licence-built WAH-64s, and folded the remaining ~12 customers into a combined row with real fleet figures.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

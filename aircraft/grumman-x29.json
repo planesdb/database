@@ -13,6 +13,7 @@
   "role": "Forward-Swept Wing Technology Demonstrator",
   "tagline": "The Grumman X-29 is a single-seat experimental aircraft with forward-swept wings, built by Grumman for DARPA, the U.S. Air Force and NASA. Two flew from Edwards Air Force Base between 1984 and 1992, completing 422 research flights, and the second reached 67 degrees angle of attack.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "On 13 December 1985 the X-29 became the first forward-swept-wing aircraft to fly supersonic in level flight.",
@@ -119,6 +120,11 @@
     {
       "date": "2026-10-18",
       "change": "Added the Grumman X-29 - specs, the three flight-test phases, the 67 degree angle of attack result and where both aircraft are now.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

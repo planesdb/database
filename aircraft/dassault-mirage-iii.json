@@ -12,7 +12,8 @@
   ],
   "role": "Cold War Delta-Wing Fighter",
   "tagline": "The delta-winged French fighter that swept Egyptian and Syrian air forces from the sky in the Six-Day War. Simple, fast and reliable, it became one of the most successful and widely exported Western combat aircraft of the Cold War.",
-  "status": "Retired",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "Developed by Dassault in response to a 1952 French Air Force requirement for a lightweight all-weather interceptor, the Mirage III adopted a tailless delta-wing configuration that gave excellent high-speed performance and a simple, low-drag structure at the cost of higher landing speeds and reduced low-speed manoeuvrability. It first flew in November 1956 and became the first Western European aircraft to exceed Mach 2 in level flight, entering French Air Force service in 1961. Dassault exported the type with enormous success to over 20 air forces worldwide, and it earned its greatest fame with the Israeli Air Force, which used French-supplied Mirage IIICJs to devastating effect in Operation Focus, the opening strike of the Six-Day War on 5 June 1967: in a few hours of coordinated low-level attacks, Israeli aircraft (Mirages prominent among them) destroyed the vast majority of Egypt's air force on the ground, followed by similar strikes against Jordan, Syria and Iraq, effectively deciding the air war before it had properly begun. Mirage IIIs also saw extensive combat with Argentina (against Britain's Sea Harriers in the 1982 Falklands War, where they proved outmatched by the more agile Harrier and superior AIM-9L Sidewinder missiles), South Africa, Pakistan, Australia and Switzerland. Total production across all Mirage III/5/50 variants exceeded 1,400 aircraft, and the design's clean-sheet delta-wing layout directly influenced Dassault's later Mirage F1, Mirage 2000 and, eventually, the modern Rafale.",
   "specifications": {
@@ -52,7 +53,7 @@
       "year": 1956
     },
     "serviceEntryDate": "1961-07-01",
-    "retiredDate": "2005",
+    "retiredDate": null,
     "numberBuilt": 1422,
     "unitCost": {
       "usd": 2000000,
@@ -291,6 +292,16 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators roster from the full operators list - added the Australian and Swiss licence fleets, corrected the French and Israeli figures to the published per-variant totals, moved Pakistan to In Service as the last front-line operator, and folded the remaining ~15 customers into a combined row. Added a missing source.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Changed the status to In Service, as the Pakistan Air Force still flies the type.",
       "author": "planesdb"
     }
   ],

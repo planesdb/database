@@ -13,6 +13,7 @@
   "role": "Strategic and Tactical Military Freighter",
   "tagline": "The Il-76 is a four-engine, T-tailed heavy freighter designed by Ilyushin to carry 40 tonnes into unpaved Soviet airstrips, and it has been in continuous production since 1971. More than 980 have been built in transport, tanker, airborne early warning, firefighting and zero-gravity training forms, making it the most widely used Soviet or Russian transport aircraft ever produced.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "Between 1979 and 1991 Soviet Il-76s flew 14,700 sorties into Afghanistan, carrying 89 percent of the troops and 74 percent of the freight that the Soviet Union airlifted into the country",
@@ -169,6 +170,11 @@
     {
       "date": "2026-09-09",
       "change": "New entry for the Ilyushin Il-76 Candid - history, specs, variants, operators and accident record. Sources: Wikipedia, Airforce Technology, Aerospace Global News and The War Zone.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -12,7 +12,8 @@
   ],
   "role": "Cold War Supersonic Fighter",
   "tagline": "The most-produced supersonic jet aircraft in history, flown by more than 60 air forces worldwide. Built in numbers exceeding 11,000 across the Soviet Union, Czechoslovakia, India and China, it saw sustained combat over Vietnam, the Middle East and South Asia before its most prominent operator, the Indian Air Force, retired the type in September 2025.",
-  "status": "Retired",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "Designed in response to combat lessons from the Korean War, where Soviet engineers concluded that a lightweight, simple, easy-to-mass-produce interceptor optimised for speed and climb rate would suit Warsaw Pact doctrine better than a larger multirole design, the MiG-21 first flew in prototype form in 1955 and entered Soviet Air Force service in 1959. Its light weight and powerful engine gave exceptional acceleration and climb performance, though at the cost of very short range and limited weapons load compared to Western contemporaries. The type saw extensive and controversial combat over North Vietnam from 1966, where MiG-21s flown by North Vietnamese pilots proved a serious threat to US strike aircraft and, in the type's most famous engagement, fought running battles with US F-4 Phantoms that exposed weaknesses in American close-in dogfighting doctrine and directly prompted the founding of the US Navy's Top Gun training school. It was exported and license-built on a vast scale - by Czechoslovakia's Aero Vodochody, India's Hindustan Aeronautics (which built over 650 under license and flew them in the 1971 and 1999 wars with Pakistan), and China as the Chengdu J-7. India's squadrons, the type's last major frontline operator, flew their final sorties in September 2025 after a long and controversial safety record that earned the type the nickname 'Flying Coffin' in Indian media due to a high accident rate in its later Indian service decades; a small number of other air forces continue to operate residual MiG-21s in limited frontline or reserve roles.",
   "specifications": {
@@ -52,7 +53,7 @@
       "year": 1955
     },
     "serviceEntryDate": "1959-05-01",
-    "retiredDate": "2025",
+    "retiredDate": null,
     "numberBuilt": 11496,
     "unitCost": {
       "usd": 5000000,
@@ -301,6 +302,16 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators from the full list - added Chinese J-7 production, Yugoslavia and the Warsaw Pact air forces, gave the Indian and Soviet rows real peak figures, and named the air forces still flying it. Added three missing sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Changed the status to In Service, as a number of air forces still fly the type.",
       "author": "planesdb"
     }
   ],

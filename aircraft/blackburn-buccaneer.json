@@ -13,6 +13,7 @@
   "role": "Carrier-Borne Low-Level Strike Aircraft",
   "tagline": "The Blackburn Buccaneer is a British two-seat carrier strike aircraft designed to attack Soviet cruisers at very low level with a nuclear or conventional weapon. Built for the Royal Navy and later taken reluctantly by an RAF that had rejected it as too slow, it outlasted both supersonic aircraft chosen over it and flew laser-designation missions in the 1991 Gulf War before retiring in 1994.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "It exists because of a warship. The Soviet Sverdlov-class cruisers threatened Atlantic shipping, and the Royal Navy judged an aircraft a cheaper answer than building cruisers of its own.",
@@ -174,6 +175,11 @@
     {
       "date": "2026-09-09",
       "change": "Added the Blackburn Buccaneer - history, specs, variants, operators, survivors and accident record. Sources: Wikipedia and the Thunder & Lightnings survivor register.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -13,6 +13,7 @@
   "role": "WWI Fighter Scout",
   "tagline": "The twitchy, deadly British fighter credited with more aerial victories than any other Allied type of WWI. Concentrating the engine, guns, pilot and fuel tank all within the first seven feet of the fuselage gave it a ferocious rate of roll - and made it a genuine hazard to novice pilots thanks to vicious torque effects from its rotary engine.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "history": "Designed by Herbert Smith at Sopwith as a successor to the earlier Pup and Triplane, the Camel first flew in December 1916 and entered squadron service with the Royal Flying Corps and Royal Naval Air Service in mid-1917. Its rotary engine - in which the entire cylinder block spun with the propeller - produced a huge gyroscopic effect that made the Camel turn far more sharply to the right than to the left, a quirk that experienced pilots learned to exploit in a dogfight but which killed a significant number of trainees. Despite this reputation, the Camel proved devastatingly effective: official credits put its aerial victory total at 1,294 enemy aircraft destroyed, more than any other Allied fighter of the war, flown by aces including Canadian Roy Brown, who was credited (controversially, alongside ground fire) with the fight in which the Red Baron, Manfred von Richthofen, was killed on 21 April 1918. Beyond its fighter role the Camel was adapted as a night fighter, a shipboard fighter flown from platforms on Royal Navy warships, and a ground-attack aircraft carrying small bombs against trench lines. Roughly 5,490 were built before production wound down after the Armistice, and the type was withdrawn from RAF service by the early 1920s in favour of newer designs.",
   "specifications": {
@@ -262,6 +263,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

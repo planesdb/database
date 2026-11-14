@@ -14,6 +14,7 @@
   "role": "Stealth Reconnaissance Drone (Prototype)",
   "tagline": "The Lockheed Martin RQ-3 DarkStar is a stealthy, fully autonomous reconnaissance drone built by the Skunk Works and Boeing in the mid-1990s to fly over defended airspace. Only two of the four built ever flew, and the programme was cancelled in January 1999.",
   "status": "Cancelled",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The DarkStar was designed to take off, fly its mission and land without any human input.",
@@ -140,6 +141,11 @@
     {
       "date": "2026-10-04",
       "change": "Added the RQ-3 DarkStar - the 1996 crash, the second aircraft's flights, why it was cancelled and the three museum survivors.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -13,6 +13,7 @@
   "role": "Strategic Heavy Airlifter",
   "tagline": "The Lockheed C-5 Galaxy is a four-engine strategic airlifter built for the United States Air Force and the largest aircraft in American military service. It can carry 281,000 lb of cargo through nose and tail doors that open the full width of a 143-foot hold, and 52 upgraded C-5Ms remain in service more than fifty years after the type entered it.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "Boeing lost the contest that produced the C-5, then reused its losing design's raised cockpit and nose cargo door to build the 747 - the airlifter competition it lost created the airliner that defined the next fifty years.",
@@ -121,6 +122,11 @@
     {
       "date": "2026-09-09",
       "change": "Added the Lockheed C-5 Galaxy, with history, specs, variants, operators and accident record. Sources: US Air Force fact sheets, Wikipedia, The War Zone and Air & Space Forces Magazine.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

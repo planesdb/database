@@ -13,6 +13,7 @@
   "role": "Wide-Body Airliner and Freighter",
   "tagline": "The Boeing 767 is a mid-size, twin-engine wide-body airliner built by Boeing since 1981. It was the first aircraft approved for 120-minute ETOPS flights across the North Atlantic, more than 1,370 have been delivered, and FedEx and UPS now fly the largest fleets as freighters.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": true,
   "quickFacts": [
     "In 1985 the 767 became the first aircraft cleared for 120-minute ETOPS, and by the end of the 1990s 767s crossed the Atlantic more often than all other airliner types combined.",
@@ -179,6 +180,11 @@
     {
       "date": "2026-09-22",
       "change": "Added the Boeing 767 - history, specs, variants and accident record. Sources: Wikipedia, Boeing, FreightWaves and The Everett Herald.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

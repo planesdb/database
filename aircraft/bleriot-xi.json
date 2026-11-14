@@ -11,6 +11,7 @@
   "role": "Pioneer Monoplane",
   "tagline": "The fragile monoplane that made the first powered flight across the English Channel. Built from wood, wire and fabric, it became one of the first genuinely practical aircraft of the pioneer era, with hundreds sold to early civilian aviators, flying schools and fledgling air arms.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "Louis Blériot, already a veteran of numerous earlier and largely unsuccessful aircraft designs, first flew the Type XI in January 1909; it represented the culmination of years of trial and error and was powered by a lightweight three-cylinder Anzani engine. Seeking the £1,000 prize offered by the Daily Mail for the first aerial crossing of the English Channel, Blériot took off from Les Baraques near Calais on the morning of 25 July 1909 and landed 36 minutes and 37 seconds later near Dover Castle, despite having never flown over open water before and navigating largely by following a French destroyer below. The flight made Blériot an overnight international celebrity and proved, more vividly than any exhibition flight, that aircraft could be a practical means of transport rather than a fairground novelty; French and British newspapers understood immediately that the crossing had ended Britain's centuries of natural insularity from continental invasion. Orders poured in, and the Type XI went on to be built in the hundreds by Blériot's factory and under license abroad, used for early flying training, air racing and, when war broke out in 1914, as one of the first operational reconnaissance aircraft in several air forces including France's Aéronautique Militaire. The original Channel-crossing aircraft is preserved at the Musée des Arts et Métiers in Paris.",
   "specifications": {
@@ -104,7 +105,7 @@
     {
       "name": "Musée des Arts et Métiers",
       "role": "Museum Custodian",
-      "status": "In Service",
+      "status": "Preserved",
       "since": "1927",
       "fleetSize": "1 (original Channel aircraft, preserved)",
       "homeBase": "Paris, France"
@@ -240,6 +241,16 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Corrected the Musée des Arts et Métiers operator status to Preserved.",
       "author": "planesdb"
     }
   ],

@@ -8,6 +8,7 @@
   "role": "Narrow-Body Commercial Airliner",
   "tagline": "The Boeing 737 is a twin-engine, single-aisle airliner that has been in continuous production since 1967 - the longest production run of any jet airliner, and the largest, with 12,654 delivered by July 2026. Four generations have flown on essentially the same fuselage, from the JT8D-powered Original to today's LEAP-powered MAX, whose two MCAS-related crashes and 20-month worldwide grounding remain the defining crisis of Boeing's commercial business.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": true,
   "quickFacts": [
     "The 737 is the most-produced jet airliner in history - 12,654 had been delivered by July 2026, against 17,507 ordered.",
@@ -79,7 +80,8 @@
   "lastUpdated": "2026-09-09",
   "changelog": [
     { "date": "2026-09-05", "change": "New entry for the Boeing 737 - history, specs, variants and accident record. Sources: Boeing, NTSB, FAA and named aviation-press sources.", "author": "planesdb" },
-    { "date": "2026-09-09", "change": "Corrected Lufthansa's fleet to its real total of 155 aircraft across all variants (was showing 0).", "author": "planesdb" }
+    { "date": "2026-09-09", "change": "Corrected Lufthansa's fleet to its real total of 155 aircraft across all variants (was showing 0).", "author": "planesdb" },
+    { "date": "2026-11-14", "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.", "author": "planesdb" }
   ],
   "tags": ["737", "boeing 737", "737 max", "737-800", "max 8", "narrow body", "single aisle", "commercial airliner", "mcas", "next generation", "civilian"],
   "article": {

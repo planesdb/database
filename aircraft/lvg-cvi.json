@@ -13,6 +13,7 @@
   "role": "WWI Reconnaissance & Artillery-Spotting Biplane",
   "tagline": "The LVG C.VI is a German two-seat reconnaissance and artillery-spotting biplane built by Luft-Verkehrs-Gesellschaft for the Imperial German Air Service in 1918. About 1,100 were built, and after the Armistice it flew with the air arms of Belgium, Poland, Finland, Lithuania and Romania and on Belgium's first civil aircraft register.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Its designer, Willy Sabersky-Müssigbrodt, had drawn the C.VI's direct ancestor, the DFW C.V, for a different company.",
@@ -167,6 +168,11 @@
     {
       "date": "2026-11-01",
       "change": "Added more on the Brussels restoration, including the engine rebuild and the replica lozenge fabric.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

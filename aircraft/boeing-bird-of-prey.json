@@ -11,6 +11,7 @@
   "role": "Stealth Technology Demonstrator",
   "tagline": "The Boeing Bird of Prey is a single-seat stealth technology demonstrator built in secret by Boeing's Phantom Works. Boeing paid the $67 million programme cost itself, and the one aircraft flew 38 times between 1996 and 1999 before the company revealed it in October 2002.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Boeing funded the whole $67 million programme itself, and the project stayed classified for ten years after work began in 1992.",
@@ -89,6 +90,11 @@
     {
       "date": "2026-10-14",
       "change": "New entry for the Boeing Bird of Prey, covering the secret Area 51 flight programme and the October 2002 reveal.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

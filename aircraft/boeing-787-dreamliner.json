@@ -11,6 +11,7 @@
   "role": "Wide-Body Airliner",
   "tagline": "The Boeing 787 Dreamliner is a twin-engine, long-haul airliner with a carbon-fibre composite airframe, built in three lengths. It entered service with All Nippon Airways on 26th October 2011, and by August 2026 Boeing had delivered 1,303 of the 2,466 ordered.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": true,
   "quickFacts": [
     "Boeing announced the 7E7 on 29th January 2003 after cancelling the faster Sonic Cruiser, and the programme launched on 26th April 2004 with a 50-aircraft order from All Nippon Airways.",
@@ -176,6 +177,11 @@
     {
       "date": "2026-11-08",
       "change": "Added the Boeing 787 - the 2013 battery grounding, the production problems, the Air India 171 crash and where its investigation stands, plus specs, variants and the main operators.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

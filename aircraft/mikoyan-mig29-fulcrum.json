@@ -13,6 +13,7 @@
   "role": "Twin-Engine Lightweight Air Superiority Fighter",
   "tagline": "The Mikoyan MiG-29 (NATO: Fulcrum) is a Soviet twin-engine, single-seat air superiority fighter designed to counter the American F-15 Eagle and F-16 Fighting Falcon. It first flew on 6 October 1977, entered Soviet service in 1983, and more than 1,600 were built between 1981 and 2019 for over 30 operators.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "It was the lightweight half of the Soviet PFI requirement, with the heavy half going to Sukhoi as the Su-27.",
@@ -207,6 +208,11 @@
     {
       "date": "2026-11-01",
       "change": "Added the Farnborough debut, Kvochur's 1989 Paris ejection, the Abbotsford flight and what the Luftwaffe found in its MiG-29s.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

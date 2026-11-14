@@ -13,6 +13,7 @@
   "role": "Mach 3 Strategic Bomber Prototype",
   "tagline": "A six-engine, delta-winged prototype for a Mach 3 nuclear bomber built by North American Aviation for Strategic Air Command, and flown instead as a supersonic research aircraft after the bomber was cancelled. Two were built; one was destroyed in a mid-air collision during a publicity photo shoot in 1966, and the survivor is the signature exhibit of the National Museum of the U.S. Air Force.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The name was chosen from 20,000 entries submitted to a 1958 U.S. Air Force 'Name the B-70' contest",
@@ -121,6 +122,11 @@
     {
       "date": "2026-09-16",
       "change": "Added the North American XB-70 Valkyrie - history, specs, variants, operators, survivors and accident record. Sources: the National Museum of the USAF fact sheet, NASA Dryden programme documentation and published programme histories.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

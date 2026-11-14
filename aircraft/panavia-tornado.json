@@ -14,6 +14,7 @@
   "role": "Two-Seat Swing-Wing Strike Aircraft",
   "tagline": "The Panavia Tornado is a twin-engine, two-seat, swing-wing strike aircraft built by a British, West German and Italian consortium. About 990 were built between 1979 and 1998 in strike, air defence and electronic combat versions, and Saudi Arabia still flies it after the RAF retired its fleet in 2019.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "On 17th January 1991 RAF Tornado GR1 ZD791 was hit by an SA-14 missile on a low-level attack on Ar Rumaylah airfield. Squadron Leader John Peters and Flight Lieutenant John Nichol were captured and shown on Iraqi television, and they were released on 5th March 1991.",
@@ -135,6 +136,11 @@
     {
       "date": "2026-11-08",
       "change": "Added the Tornado, with the Gulf War JP233 raids, the 2003 Patriot shoot-down, the variants, the full operator list and the preserved aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

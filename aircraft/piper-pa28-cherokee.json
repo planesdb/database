@@ -1,0 +1,228 @@
+{
+  "name": "PA-28 Cherokee",
+  "fullName": "Piper PA-28 Cherokee",
+  "manufacturer": "Piper Aircraft",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Light general aviation trainer and tourer",
+  "tagline": "The Piper PA-28 Cherokee is a family of single-engine, low-wing light aircraft built by Piper Aircraft since 1961. Its prototype first flew on 14th January 1960, more than 32,000 have been built, and it is the fourth most-produced aircraft in history.",
+  "status": "In Service",
+  "condition": "Operational - Private",
+  "inProduction": true,
+  "quickFacts": [
+    "The PA-28 prototype first flew on 14th January 1960. The PA-28-160 was certified on 31st October 1960 at 2,200 lb, the PA-28-150 on 2nd June 1961, and the PA-28-180 on 3rd August 1962.{{ref:wiki-pa28}}",
+    "Piper designed the Cherokee as a cheaper, simpler alternative to its PA-24 Comanche and as a rival to the Cessna 172. The design team included Karl Bergey, Fred Weick and John Thorp.{{ref:wiki-pa28}}",
+    "On 9th September 1969, a Piper PA-28-140 collided with Allegheny Airlines Flight 853, a DC-9, near Fairland, Indiana, killing 83. The NTSB blamed deficiencies in air traffic control collision avoidance, and the accident helped lead to transponder rules, conflict alert and TCAS.{{ref:wiki-allegheny}}",
+    "On 31st August 1986, a Piper PA-28-181 flown by William Kramer entered the Los Angeles terminal control area without clearance and hit Aeromexico Flight 498 over Cerritos. In all 82 died, 64 on the DC-9, 3 in the Piper and 15 on the ground.{{ref:wiki-aeromexico}}",
+    "On 28th August 1972, Prince William of Gloucester was killed flying a Piper Cherokee in the Goodyear Trophy at Halfpenny Green, when the aircraft banked steeply and a wing hit a tree. His passenger, Vyrell Mitchell, also died.{{ref:wiki-pa28}}",
+    "The early Cherokee had a constant-chord wing known as the Hershey Bar wing, which Piper replaced with a semi-tapered wing on the 1974 Warrior.{{ref:wiki-pa28}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the original 150 hp Cherokee. Later models, such as the Archer, Arrow and Dakota, are heavier and more powerful. Current production in 2026 includes the Archer TX and LX, the diesel Archer DX and DLX, and the Pilot 100i.",
+    "maxSpeed": {
+      "mph": 142,
+      "text": "123 kn (142 mph / 228 km/h)"
+    },
+    "cruiseSpeed": "108 kn (124 mph / 200 km/h)",
+    "range": {
+      "miles": 535,
+      "text": "535 mi (861 km, 465 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 14300,
+      "text": "14,300 ft (4,359 m)"
+    },
+    "wingspan": {
+      "ft": 30,
+      "text": "30 ft 0 in (9.14 m)"
+    },
+    "length": {
+      "ft": 23.3,
+      "text": "23 ft 3.6 in (7.10 m)"
+    },
+    "height": {
+      "ft": 7.3,
+      "text": "7 ft 3.6 in (2.22 m)"
+    },
+    "weight": "empty: 1,201 lb (545 kg); MTOW: 2,150 lb (975 kg)",
+    "engines": "1 x Lycoming O-320-E2A piston engine, 150 hp (112 kW)",
+    "armament": "None",
+    "crew": "1 pilot",
+    "capacity": "3 passengers",
+    "firstFlight": {
+      "date": "1960-01-14",
+      "year": 1960
+    },
+    "serviceEntryDate": "1961",
+    "numberBuilt": 32778,
+    "unitCost": {
+      "usd": 136930,
+      "text": "About US$137,000 (average used asking price, 2026)",
+      "inflationText": "Average of 95 priced used listings on PlanePhD in 2026, with a median of US$109,900. Many are cross-listings of the same aircraft, and the figure is an asking price. No original or current new-build price was found for the early models."
+    },
+    "combatLosses": "Not applicable"
+  },
+  "variants": [
+    {
+      "code": "PA-28-140 / PA-28-150 / PA-28-160 / PA-28-180 Cherokee",
+      "desc": "The first generation, built from 1961 on the original Hershey Bar wing. The PA-28-160 was certified first on 31st October 1960 at 2,200 lb, then the PA-28-150 on 2nd June 1961 and the PA-28-180 on 3rd August 1962."
+    },
+    {
+      "code": "PA-28-151 Warrior",
+      "desc": "Launched in 1974 with a longer, semi-tapered wing replacing the Hershey Bar wing, the Warrior was built in about 1,900 PA-28-151 examples. It was the first Cherokee with the new wing."
+    },
+    {
+      "code": "PA-28 Archer",
+      "desc": "The Archer shares the semi-tapered wing of the Warrior. It remains in production in 2026 as the Archer TX and LX, and the Archer DX and DLX use a diesel engine."
+    },
+    {
+      "code": "PA-28R Arrow",
+      "desc": "The retractable-gear Cherokee, which Finland's air force bought as 14 Arrow 200s and retired in 2005. The Arrow is the retractable-gear model of the family."
+    },
+    {
+      "code": "PA-28 Dakota, Cadet, Challenger, Pathfinder, Cruiser",
+      "desc": "The Dakota arrived in 1979, the Challenger in 1973, the Pathfinder in 1974 and the Cadet in 1988. All of them share the basic PA-28 airframe, and the dates of introduction are the only part of their stories the sources checked agree on."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Finnish Air Force",
+      "role": "Trainer and liaison",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "14 Arrow 200, retired 2005",
+      "homeBase": "Finland"
+    },
+    {
+      "name": "Flying schools and private owners",
+      "role": "Training, touring and personal flying",
+      "status": "In Service",
+      "since": "1961",
+      "fleetSize": "More than 32,000 built",
+      "homeBase": "Worldwide"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "P28A",
+    "howToFind": "Search for ICAO codes P28A (Cherokee and Warrior), P28B (Archer) and P28R (Arrow). They are among the most common aircraft at flying school airfields."
+  },
+  "tags": [
+    "PA-28",
+    "Cherokee",
+    "Piper",
+    "Warrior",
+    "Archer",
+    "general aviation"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Piper PA-28 Cherokee, with the family tree from Cherokee to Archer, the 1969 and 1986 mid-air collisions, and a used-market price.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Piper PA-28 Cherokee is a four-seat, single-engine, low-wing aircraft that Piper designed as a cheaper alternative to its PA-24 Comanche. It first flew on 14th January 1960, and the family has been in production since 1961 as the Cherokee, Warrior, Archer, Arrow, Dakota and others. At least 32,778 have been built.{{ref:wiki-pa28}}",
+      "It is the fourth most-produced aircraft in history, and it competes directly with the Cessna 172.{{ref:wiki-pa28}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: The Cheaper Comanche",
+        "paragraphs": [
+          "Piper wanted a simple, cheap four-seater that would sell against the Cessna 172 and cost less to build than the PA-24 Comanche. The team included Karl Bergey, Fred Weick and John Thorp. The prototype flew on 14th January 1960 and the PA-28-160 was certified on 31st October 1960 at a maximum weight of 2,200 lb.{{ref:wiki-pa28}}",
+          "Production began in 1961. The PA-28-150 was certified on 2nd June 1961 and the PA-28-180 on 3rd August 1962. The wing was a constant-chord design known as the Hershey Bar wing, which remained until the semi-tapered wing of the 1974 Warrior.{{ref:wiki-pa28}}"
+        ]
+      },
+      {
+        "heading": "The Family Tree",
+        "paragraphs": [
+          "The Cherokee grew into a family: the Warrior in 1974 (about 1,900 PA-28-151 built), the Archer, the retractable-gear Arrow, the Dakota in 1979, the Cadet in 1988, the Challenger in 1973, the Pathfinder in 1974 and the Cruiser. Current production in 2026 includes the Archer TX and LX, the diesel Archer DX and DLX, and the Pilot 100i.{{ref:wiki-pa28}}",
+          "The original 150 hp aircraft cruises at 108 kn, stalls at 47 kn, and carries three passengers over 465 nmi. The climb rate is 660 ft/min and the ceiling 14,300 ft.{{ref:wiki-pa28}}"
+        ]
+      },
+      {
+        "heading": "Collisions That Changed the Rules",
+        "paragraphs": [
+          "On 9th September 1969, a PA-28-140, registration N7374J, collided with Allegheny Airlines Flight 853, a DC-9 registered N988VJ, near Fairland, Indiana. In all, 83 people died. The NTSB blamed deficiencies in air traffic control collision avoidance, and the accident pushed forward transponders, conflict alert and later TCAS.{{ref:wiki-allegheny}}",
+          "On 31st August 1986, a PA-28-181, registration N4891F, flown by William Kramer, entered the Los Angeles terminal control area without clearance and hit Aeromexico Flight 498 over Cerritos. Eighty-two people died: 64 on the DC-9, 3 in the Piper and 15 on the ground. A jury split the blame between the FAA and Kramer, and the crash led to TCAS and mode C transponder rules.{{ref:wiki-aeromexico}}"
+        ]
+      },
+      {
+        "heading": "Other Notable Accidents",
+        "paragraphs": [
+          "On 28th August 1972, Prince William of Gloucester was killed flying a Cherokee in the Goodyear Trophy race at Halfpenny Green. The aircraft banked steeply and a wing hit a tree. His passenger, Vyrell Mitchell, also died.{{ref:wiki-pa28}}",
+          "The list continues with a 1993 skydiver collision, the 2010 attack in which Andrew Stack flew a Dakota into an IRS building in Austin, a 2018 Embry-Riddle accident caused by wing-spar fatigue, and the 2019 crash that killed Gabriel Diniz.{{ref:wiki-pa28}}"
+        ]
+      },
+      {
+        "heading": "Used Market and Outlook",
+        "paragraphs": [
+          "A 2026 aggregator listing of 95 priced aircraft shows an average asking price of US$136,930 and a median of US$109,900, though many listings are duplicates. Individual asking prices seen included a 1976 Warrior at US$70,000 and a 1974 Warrior at US$74,999.{{ref:wiki-pa28}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-pa28",
+      "name": "Piper PA-28 Cherokee",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Piper_PA-28_Cherokee"
+    },
+    {
+      "id": "wiki-allegheny",
+      "name": "Allegheny Airlines Flight 853",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Allegheny_Airlines_Flight_853"
+    },
+    {
+      "id": "wiki-aeromexico",
+      "name": "Aeroméxico Flight 498",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aerom%C3%A9xico_Flight_498"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Piper PA-28 Cherokee on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Piper_PA-28_Cherokee"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1969-09-09",
+      "title": "Allegheny Airlines Flight 853 collision",
+      "tag": "Mid-air collision",
+      "summary": "A Piper PA-28-140 and an Allegheny Airlines DC-9 collided near Fairland, Indiana. In all, 83 died, and the NTSB blamed air traffic control collision avoidance deficiencies.",
+      "fatalities": 83,
+      "source": "https://en.wikipedia.org/wiki/Allegheny_Airlines_Flight_853"
+    },
+    {
+      "date": "1972-08-28",
+      "title": "Prince William of Gloucester killed",
+      "tag": "Loss of control",
+      "summary": "Prince William of Gloucester was killed flying a Piper Cherokee in the Goodyear Trophy at Halfpenny Green. It banked steeply and a wing hit a tree.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Piper_PA-28_Cherokee"
+    },
+    {
+      "date": "1986-08-31",
+      "title": "Aeromexico Flight 498 collision over Cerritos",
+      "tag": "Mid-air collision",
+      "summary": "A PA-28-181 entered the Los Angeles terminal control area without clearance and hit a DC-9. Eighty-two people died, including 15 on the ground.",
+      "fatalities": 82,
+      "source": "https://en.wikipedia.org/wiki/Aerom%C3%A9xico_Flight_498"
+    }
+  ],
+  "lastUpdated": "2026-11-13"
+}

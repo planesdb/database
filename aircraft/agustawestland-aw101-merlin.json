@@ -13,6 +13,7 @@
   "role": "Medium-Lift Multirole Helicopter",
   "tagline": "A three-engine medium-lift helicopter developed jointly by Westland in England and Agusta in Italy to replace the Sea King in anti-submarine, transport and search-and-rescue work. British, Danish and Portuguese forces call it the Merlin; it is built at Yeovil and Vergiate and serves with around a dozen air arms from Canada to Japan.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "The designation is a typo - the Anglo-Italian joint venture called its aircraft the EHI 01, and a transcription error turned it into EH101, which stuck until the 2007 rebrand to AW101",
@@ -261,6 +262,11 @@
     {
       "date": "2026-09-16",
       "change": "Added the AgustaWestland AW101 Merlin - history, specs, variants, operators and accident record. Sources: Leonardo published data, Jane's specification figures, Royal Navy and Aviation Safety Network records and contemporary reporting.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

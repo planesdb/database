@@ -13,6 +13,7 @@
   "role": "Supersonic All-Weather Interceptor",
   "tagline": "Canada's cancelled Mach 2 delta-wing dream. Designed to defend North American airspace against high-altitude Soviet bombers, its performance reportedly rivalled or exceeded contemporaries like the English Electric Lightning - before the entire program was abruptly cancelled, before it ever reached squadron service.",
   "status": "Cancelled",
+  "condition": "Scrapped",
   "inProduction": false,
   "history": "Avro Canada developed the Arrow at its Malton, Ontario plant in response to a 1953 Royal Canadian Air Force requirement for a Mach 2-capable interceptor able to counter Soviet bombers approaching over the polar route. The prototype (RL-201) first flew on 25 March 1958, and by early 1959 five Arrows had flown, with the aircraft demonstrating speeds beyond Mach 1.9 in testing while still well short of its performance envelope. On 20 February 1959 - remembered in Canada as 'Black Friday' - Prime Minister John Diefenbaker's government cancelled the program outright, citing spiralling costs, the changing missile-versus-bomber threat calculus, and pressure to buy American systems instead. Roughly 14,000-15,000 Avro and supplier employees lost their jobs within days, and the government further ordered the destruction of all existing airframes, tooling, blueprints, and completed engines, a decision that remains one of the most controversial in Canadian industrial history. Many displaced Avro engineers went on to work on NASA's Mercury, Gemini, and Apollo programs and on the Anglo-French Concorde, and the Arrow's cancellation is still widely cited in Canadian politics and popular culture as a symbol of lost technological ambition and dependence on the United States for defence procurement.",
   "specifications": {
@@ -229,6 +230,11 @@
     {
       "date": "2026-09-09",
       "change": "Status changed from 'Retired' to 'Cancelled', as the Arrow never entered service.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

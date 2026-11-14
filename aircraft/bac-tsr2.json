@@ -13,6 +13,7 @@
   "role": "Tactical Strike & Reconnaissance Aircraft",
   "tagline": "The BAC TSR-2 was a British supersonic strike and reconnaissance aircraft designed to penetrate Soviet defences at low level and deliver a tactical nuclear weapon. One aircraft flew 24 times between September 1964 and March 1965 before the programme was cancelled in the Budget speech of 6 April 1965, and the airframes, jigs and tooling were then destroyed.",
   "status": "Cancelled",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Only one TSR-2 ever flew. XR219 made 24 flights in six months; the second aircraft was due to fly on the day the cancellation was announced and never did.",
@@ -134,6 +135,11 @@
     {
       "date": "2026-09-09",
       "change": "Added the TSR-2 - history, specs, operators, survivors and the programme up to its cancellation. Sources: Wikipedia, Hansard's record of the April 1965 debate and Thunder & Lightnings.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

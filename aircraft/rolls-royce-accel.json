@@ -11,6 +11,7 @@
   "role": "Electric Speed-Record Aircraft",
   "tagline": "The Rolls-Royce ACCEL, named 'Spirit of Innovation', is a single-seat, all-electric propeller aircraft built to take the world speed record for electric flight. In November 2021 it averaged 345.4 mph over 3 km, about 135 mph faster than the record before it.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "In November 2021 the ACCEL set a speed of 345.4 mph (555.9 km/h) over 3 km, about 135 mph faster than the previous electric record of roughly 210 mph.",
@@ -93,6 +94,11 @@
     {
       "date": "2026-11-08",
       "change": "Added the Rolls-Royce ACCEL (Spirit of Innovation) - the November 2021 record flights, how it was built, and where it ended up.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

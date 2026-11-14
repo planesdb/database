@@ -11,6 +11,7 @@
   "role": "Experimental Powered Aircraft",
   "tagline": "The first heavier-than-air powered aircraft to achieve sustained, controlled flight. Orville and Wilbur Wright flew it at Kitty Hawk, North Carolina on 17 December 1903, proving three-axis control, a purpose-built lightweight engine and propellers the brothers designed themselves from first principles.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "history": "After several seasons of glider testing at Kitty Hawk between 1900 and 1902 to perfect their wing-warping control system, Wilbur and Orville Wright built the Flyer in Dayton, Ohio during 1903, designing their own 12-horsepower, 179 lb petrol engine (no manufacturer would build one light enough) and hand-carving twin pusher propellers after conducting their own wind-tunnel research to correct errors in existing aerodynamic tables. The brothers shipped the aircraft to their Kitty Hawk camp and, on 17 December 1903, made four flights; the first, piloted by Orville, covered 120 feet in 12 seconds, and the fourth and longest, flown by Wilbur, covered 852 feet in 59 seconds. Only five people witnessed the flights. The Flyer was damaged by a gust of wind shortly afterward and never flown again; the Wrights spent the following years developing the more capable Flyer II and Flyer III (the latter the first practical aircraft) at Huffman Prairie near Dayton. The original 1903 Flyer was restored and, after a long dispute between the Smithsonian Institution and Orville Wright over the museum's earlier recognition of a rival claimant to first flight, was donated to the Smithsonian in 1948, where it hangs today in the National Air and Space Museum in Washington, D.C.",
   "specifications": {
@@ -83,7 +84,7 @@
     {
       "name": "Smithsonian National Air and Space Museum",
       "role": "Museum Custodian",
-      "status": "In Service",
+      "status": "Preserved",
       "since": "1948",
       "fleetSize": "1 (permanent static display)",
       "homeBase": "Washington, D.C."
@@ -227,6 +228,16 @@
       "date": "2026-07-31",
       "change": "Updated the news links with current stories.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Corrected the Smithsonian's operator status to Preserved.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

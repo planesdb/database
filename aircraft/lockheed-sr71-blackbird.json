@@ -13,6 +13,7 @@
   "role": "Strategic Reconnaissance Aircraft",
   "tagline": "Never shot down, never outrun - still the fastest jet ever flown. More than sixty years after its first flight, it still holds the official world records for both speed (2,193.167 mph) and sustained altitude (85,069 ft) by an air-breathing crewed aircraft.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "history": "The Blackbird story begins with the vulnerability of the U-2. After Francis Gary Powers was shot down over the Soviet Union in May 1960, it was clear that flying high was no longer enough - a reconnaissance aircraft would need to fly high AND fast. The CIA's answer was the single-seat Lockheed A-12 Oxcart (first flight 1962), developed at Area 51; the SR-71 was the US Air Force's longer, two-seat, longer-range derivative. It first flew on 22 December 1964 at Palmdale, California, and entered service with the 4200th (later 9th) Strategic Reconnaissance Wing at Beale AFB in January 1966.\n\nOperationally, Blackbirds flew from Beale, from Kadena Air Base on Okinawa (where crews nicknamed it 'Habu' after a local pit viper), and from RAF Mildenhall in England, photographing and listening to North Vietnam, North Korea, the Middle East, Libya and the Soviet periphery. During the 1973 Yom Kippur War, SR-71s flew round-trip missions from the US east coast to Egypt and back because no ally would grant basing rights - single sorties lasting over ten hours with multiple aerial refuellings. In 1986, Blackbirds photographed Libyan targets hours after the US strikes of Operation El Dorado Canyon, outrunning the missiles fired at them.\n\nThe aircraft's operating costs were enormous - it needed a dedicated fleet of KC-135Q tankers carrying its special JP-7 fuel, and by some estimates cost $200,000+ per hour to fly. The USAF retired the fleet in 1990, and after Congress forced a brief three-aircraft reactivation in 1995-98, the type's military career ended for good in 1998. NASA's Dryden (now Armstrong) Flight Research Center flew the last two Blackbirds for high-speed research until the final flight of any SR-71 on 9 October 1999. Of 32 built, 12 were lost in accidents - and none, ever, to enemy action.\n\nIts farewell was pure Blackbird. On 6 March 1990, on the delivery flight of airframe 61-7972 to the Smithsonian, pilot Lt. Col. Ed Yeilding and RSO Lt. Col. Joseph 'J.T.' Vida flew Los Angeles to Washington D.C. in 64 minutes 20 seconds, averaging 2,124 mph across the continent and setting four city-pair records that still stand. That aircraft now hangs in the Udvar-Hazy Center; its sisters rest in museums from Duxford to Seattle.",
   "specifications": {
@@ -347,6 +348,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

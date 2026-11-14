@@ -13,6 +13,7 @@
   "role": "Single-Engine Jet Fighter",
   "tagline": "The de Havilland Vampire is a British single-engine jet fighter of twin-boom layout, the second jet to enter RAF service and the first to do so on one engine. It made the first jet landing on an aircraft carrier in 1945 and the first jet crossing of the Atlantic in 1948, and 3,268 were built in six countries before Switzerland retired the last military examples in 1990.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "Its fuselage was largely plywood - de Havilland applied the moulded-wood construction it had developed for the Mosquito to a jet fighter, giving the Vampire a wooden nose bonded to an aluminium tail.",
@@ -250,6 +251,11 @@
     {
       "date": "2026-09-09",
       "change": "Added the de Havilland Vampire - history, specs, variants, operators, survivors and accident record. Sources: Wikipedia, This Day in Aviation, Vintage Aviation News and Air Vectors.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -11,6 +11,7 @@
   "role": "Advanced Jet Trainer",
   "tagline": "The Hawk T1 is a two-seat advanced jet trainer built by Hawker Siddeley for the Royal Air Force, and since 1979 the aircraft of the Red Arrows display team. The RAF took 175 of them from 1976, retired the type from flying training in March 2022, and plans to keep the Red Arrows' remaining jets flying until 2030.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "XX154, the first Hawk to fly, stayed in Ministry of Defence test use at Boscombe Down until December 2018, more than 44 years after its maiden flight.",
@@ -108,6 +109,11 @@
     {
       "date": "2026-09-24",
       "change": "New entry for the Hawker Siddeley / BAE Systems Hawk T1 - history, specs, variants, operators, survivors and accident record. Sources: RAF, Wikipedia, museum and aviation press sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -1,0 +1,185 @@
+{
+  "name": "X-37",
+  "fullName": "Boeing X-37B Orbital Test Vehicle",
+  "manufacturer": "Boeing",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Reusable uncrewed orbital test spaceplane",
+  "tagline": "The Boeing X-37 is an uncrewed, reusable spaceplane that launches on a rocket, stays in orbit for months or years, and lands on a runway. The X-37B version has flown eight missions for the US Air Force and Space Force since April 2010, and its longest flight lasted 908 days.",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
+  "inProduction": false,
+  "quickFacts": [
+    "The X-37 began as a NASA programme in 1999 and moved to DARPA on 13th September 2004. The Air Force announced the X-37B on 17th November 2006, and it is run by the Air Force Rapid Capabilities Office with the Space Force. Two X-37B vehicles have been built.{{ref:wiki-x37}}",
+    "The first X-37B mission, OTV-1, launched on 22nd April 2010 on an Atlas V and landed on 3rd December 2010 after 224 days.{{ref:wiki-x37}}",
+    "OTV-6 launched on 17th May 2020 and landed on 12th November 2022 after 908 days, the longest X-37B flight. The design requirement was 270 days.{{ref:wiki-x37}}",
+    "OTV-7 launched on 28th December 2023 on a Falcon Heavy into a highly elliptical orbit. It planned aerobraking in October 2024 and landed at Vandenberg on 7th March 2025 after 434 days.{{ref:wiki-x37}}",
+    "OTV-8 launched on a Falcon 9 from Kennedy as USSF-36 on 21st August 2025, carrying laser communications equipment and what is described as the highest-performing quantum inertial sensor tested in space. No landing was found in the sources checked.{{ref:wiki-x37}}",
+    "Boeing has said that cost and budget information for the X-37 is not releasable. Estimates for the whole programme run to about US$2 billion, which is unconfirmed.{{ref:wiki-x37}}"
+  ],
+  "specifications": {
+    "specificationsNote": "The X-37B is a spaceplane, so atmospheric speed, range and ceiling do not apply. Figures are from the Wikipedia page; the payload bay is 7 ft by 4 ft and payload mass is 227 kg. The engine is not specified in the sources checked; power comes from gallium arsenide solar cells and lithium-ion batteries. The vehicle was designed for 270 days in orbit and has demonstrated 908. Weight is given as about 11,000 lb at launch.",
+    "maxSpeed": {
+      "mph": null,
+      "text": "Orbital speed; not published"
+    },
+    "cruiseSpeed": "Not applicable",
+    "range": {
+      "miles": null,
+      "text": "Not applicable - orbital vehicle"
+    },
+    "serviceCeiling": {
+      "ft": null,
+      "text": "Low Earth orbit; OTV-7 flew a highly elliptical orbit"
+    },
+    "wingspan": {
+      "ft": 14.9,
+      "text": "14 ft 11 in (4.55 m)"
+    },
+    "length": {
+      "ft": 29.25,
+      "text": "29 ft 3 in (8.92 m)"
+    },
+    "height": {
+      "ft": 9.5,
+      "text": "9 ft 6 in (2.90 m)"
+    },
+    "weight": "MTOW: about 11,000 lb (4,990 kg)",
+    "engines": "Not specified in the sources checked; electric power from gallium arsenide solar cells and lithium-ion batteries",
+    "armament": "None",
+    "crew": "None (uncrewed)",
+    "capacity": "Payload bay 7 ft x 4 ft; payload 227 kg",
+    "firstFlight": {
+      "date": "2006-04-07",
+      "year": 2006
+    },
+    "serviceEntryDate": "2010",
+    "unitCost": {
+      "usd": null,
+      "text": "Reported: about US$2 billion for the whole programme (unconfirmed); no per-vehicle price published",
+      "inflationText": null
+    },
+    "combatLosses": "None"
+  },
+  "variants": [
+    {
+      "code": "X-37A",
+      "desc": "The atmospheric test vehicle, first glided freely on 7th April 2006. The landing ended in a runway overrun and minor damage. A captive carry flight had taken place on 21st June 2005."
+    },
+    {
+      "code": "X-37B OTV (Orbital Test Vehicle)",
+      "desc": "The orbital version that flies for the Air Force and Space Force. Two have been built, flown on eight missions from 2010. It launches on an Atlas V, Falcon 9 or Falcon Heavy and lands on a runway at Vandenberg or Kennedy, carrying experiments in a small payload bay."
+    },
+    {
+      "code": "X-37B with service module (OTV-6 onwards)",
+      "desc": "From OTV-6 in 2020 the vehicle flew with a service module to carry more experiments. OTV-6 released FalconSat-8 on about 28th May 2020 and carried a Naval Research Laboratory experiment, and OTV-8 flies with a service module and laser communications."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Space Force",
+      "role": "Orbital test vehicle operator",
+      "status": "In Service",
+      "since": "2010",
+      "fleetSize": "2 vehicles; 8 missions flown",
+      "homeBase": "United States"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Programme owner through the Rapid Capabilities Office",
+      "status": "In Service",
+      "since": "2010",
+      "fleetSize": "2 vehicles",
+      "homeBase": "United States"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The X-37B is in orbit, not on aircraft trackers. It lands at Vandenberg Space Force Base or Kennedy Space Center."
+  },
+  "tags": [
+    "X-37",
+    "X-37B",
+    "Boeing",
+    "spaceplane",
+    "OTV",
+    "Space Force"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Boeing X-37B with all eight Orbital Test Vehicle missions, landing sites, design history and a note on what is not released.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Boeing X-37 is an uncrewed spaceplane that launches on a rocket, flies in orbit for as long as its mission requires, and lands itself on a runway. It began as a NASA programme in 1999, moved to DARPA on 13th September 2004, and is run by the Air Force Rapid Capabilities Office with the Space Force. The Air Force announced the X-37B on 17th November 2006.{{ref:wiki-x37}}",
+      "Two X-37B vehicles have flown eight missions. Most of what they test is not published.{{ref:wiki-x37}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: From NASA to the Air Force",
+        "paragraphs": [
+          "The X-37A flew first as an atmospheric test article. It made a captive carry flight on 21st June 2005 and its first free glide on 7th April 2006, ending in a runway overrun with minor damage. The orbital X-37B followed, with its first mission on 22nd April 2010.{{ref:wiki-x37}}",
+          "The vehicle is 29 ft 3 in long, with a 14 ft 11 in span and a launch weight of about 11,000 lb. It has a payload bay of 7 ft by 4 ft and carries a payload of 227 kg, with power from gallium arsenide solar cells and lithium-ion batteries.{{ref:wiki-x37}}"
+        ]
+      },
+      {
+        "heading": "The Eight Missions",
+        "paragraphs": [
+          "OTV-1 flew from 22nd April 2010 to 3rd December 2010, 224 days. OTV-2 flew from 5th March 2011 to 16th June 2012, 468 days. OTV-3 flew from 11th December 2012 to 17th October 2014, 674 days, and OTV-4 from 20th May 2015 to 7th May 2017, 717 days, with a Hall-effect thruster experiment.{{ref:wiki-x37}}",
+          "OTV-5, launched on 7th September 2017, was the first X-37B on a Falcon 9, flying a higher inclination with the ASETS-II experiment until 27th October 2019, 779 days. OTV-6 flew from 17th May 2020 to 12th November 2022, 908 days, the first with a service module. It released FalconSat-8 on about 28th May 2020. Day counts differ by one in some sources.{{ref:wiki-x37}}",
+          "OTV-7 was launched on a Falcon Heavy on 28th December 2023 into a highly elliptical orbit, planned aerobraking in October 2024, and landed at Vandenberg on 7th March 2025 after 434 days. OTV-8 launched as USSF-36 on a Falcon 9 from Kennedy on 21st August 2025.{{ref:wiki-x37}}"
+        ]
+      },
+      {
+        "heading": "Landing Sites and Operations",
+        "paragraphs": [
+          "The landing sites have been Vandenberg Runway 12 for OTV-1, 2, 3 and 7, Kennedy Space Center's Shuttle Landing Facility Runway 15 for OTV-4, and Runway 33 there for OTV-5 and 6. The cumulative time in orbit passed 4,200 days in the sources checked.{{ref:wiki-x37}}",
+          "OTV-8 carries laser communications equipment and a quantum inertial sensor described as the highest-performing yet tested in space, and flies a service module.{{ref:wiki-x37}}"
+        ]
+      },
+      {
+        "heading": "Secrecy, Cost and Speculation",
+        "paragraphs": [
+          "Boeing says cost and budget information for the X-37 is not releasable. Estimates run to about US$2 billion for the whole programme, with an additional US$1 billion in funding mentioned in recent legislation and a Falcon Heavy launch costing about US$150 million, and none of these is confirmed per vehicle.{{ref:wiki-x37}}",
+          "Speculation that the X-37B carries weapons has been denied by the Pentagon. The Chinese Shenlong spaceplane is often compared with it.{{ref:wiki-x37}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-x37",
+      "name": "Boeing X-37",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_X-37"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Boeing X-37 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_X-37"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2006-04-07",
+      "title": "X-37A first free glide ends in runway overrun",
+      "tag": "Test flight",
+      "summary": "The X-37A made its first free glide overran the runway on landing and suffered minor damage.",
+      "source": "https://en.wikipedia.org/wiki/Boeing_X-37"
+    }
+  ],
+  "lastUpdated": "2026-11-13"
+}

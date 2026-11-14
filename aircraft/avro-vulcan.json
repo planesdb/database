@@ -13,6 +13,7 @@
   "role": "Strategic Delta-Wing Bomber",
   "tagline": "The Avro Vulcan is a British four-engine delta-wing strategic bomber that carried the United Kingdom's airborne nuclear deterrent from 1956 until 1969, when the role passed to Royal Navy submarines. It flew its only combat missions in 1982, when Operation Black Buck sent single aircraft 3,900 miles from Ascension Island to bomb Port Stanley - at the time the longest-range bombing raids ever flown.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Test pilot Roly Falk barrel-rolled a 70-tonne production Vulcan in front of the crowd at Farnborough in 1955 - a manoeuvre no bomber of that size had any business performing.",
@@ -213,6 +214,11 @@
     {
       "date": "2026-09-09",
       "change": "Added the Avro Vulcan - history, specs, variants, operators, survivors and accident record. Sources: Wikipedia, the RAF Museum, Vulcan to the Sky, Key Aero and the preservation societies' own sites.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

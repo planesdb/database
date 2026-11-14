@@ -1,0 +1,263 @@
+{
+  "name": "Robinson R44",
+  "fullName": "Robinson R44 Raven",
+  "manufacturer": "Robinson Helicopter Company",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [
+    "helicopters"
+  ],
+  "role": "Four-seat light utility and training helicopter",
+  "tagline": "The Robinson R44 is a four-seat, piston-engine light helicopter built by the Robinson Helicopter Company of Torrance, California. It first flew on 31st March 1990 and entered service in 1993, and with more than 6,800 built it is the best-selling general aviation helicopter in the world.",
+  "status": "In Service",
+  "condition": "Operational - Private",
+  "inProduction": true,
+  "quickFacts": [
+    "The R44 first flew on 31st March 1990, received FAA certification in December 1992 and delivered its first aircraft in January 1993. It is a larger development of the two-seat R22, and the tail rotor turns in the opposite direction.{{ref:wiki-r44}}",
+    "More than 6,866 R44s were built through 2023, and it has been the best-selling general aviation helicopter every year since 1999.{{ref:wiki-r44}}",
+    "In 1997, Jennifer Murray flew an R44 around the world, covering 36,000 miles in 97 days.{{ref:wiki-r44}}",
+    "On 6th February 2024, Sebastián Piñera, the former president of Chile, was killed when the R44 he was piloting crashed into a lake. Three of the four aboard survived.{{ref:wiki-r44}}",
+    "The R44's aluminium fuel tanks drew regulator attention. The Australian Transport Safety Bureau found in March 2013 that 12 percent of R44 accidents had a post-crash fire against 7 percent for other helicopters, and US data showed 15 percent. Robinson issued a service bulletin on 20th December 2010 for fitting bladder tanks, with a deadline of 30th April 2013.{{ref:wiki-r44}}",
+    "On 19th February 2015 the New Zealand Civil Aviation Authority grounded 80 R44s over a main rotor blade part number, C016-7, and cleared them to fly again on 24th February 2015.{{ref:wiki-r44}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the standard R44 Raven. Fuel burn is about 15 US gallons an hour. The R44 Raven II, built from July 2002, has a fuel-injected engine and a higher hover ceiling. The page checked gives no maximum speed in miles per hour for the Raven II separately, so the figures here are the general ones.",
+    "maxSpeed": {
+      "mph": 150,
+      "text": "130 kn (150 mph / 241 km/h)"
+    },
+    "cruiseSpeed": "109 kn (125 mph / 201 km/h)",
+    "range": {
+      "miles": 350,
+      "text": "350 mi (563 km, 300 nmi) with no reserve"
+    },
+    "serviceCeiling": {
+      "ft": 14000,
+      "text": "14,000 ft (4,267 m) density altitude limit"
+    },
+    "mainRotorDiameter": {
+      "ft": 33,
+      "text": "33 ft 0 in (10.0 m)"
+    },
+    "length": {
+      "ft": 38.25,
+      "text": "38 ft 3 in (11.66 m)"
+    },
+    "height": {
+      "ft": 10.75,
+      "text": "10 ft 9 in (3.28 m)"
+    },
+    "weight": "empty: 1,505 lb (683 kg); MTOW: 2,500 lb (1,134 kg)",
+    "engines": "1 x Lycoming IO-540-AE1A5 piston engine, 245 hp (183 kW)",
+    "armament": "None",
+    "crew": "1 or 2 (pilot, plus a pilot or passenger)",
+    "capacity": "3 passengers",
+    "firstFlight": {
+      "date": "1990-03-31",
+      "year": 1990
+    },
+    "serviceEntryDate": "1993",
+    "numberBuilt": 6866,
+    "unitCost": {
+      "usd": 646000,
+      "text": "US$646,000 (2026 base list price, R44 Raven II)",
+      "inflationText": null
+    },
+    "combatLosses": "Not applicable"
+  },
+  "variants": [
+    {
+      "code": "R44 Astro / Raven",
+      "desc": "The original R44 had a carbureted engine, and the Raven followed in January 2000. Both are four-seat helicopters derived from the R22, with a bigger rotor and cabin. The R44 became the main training and charter helicopter in many countries because it cost far less to buy and run than turbine helicopters."
+    },
+    {
+      "code": "R44 Raven II",
+      "desc": "The Raven II followed in July 2002 as the next step up from the Raven. In 2026 it carries a base list price of US$646,000, effective 1st January 2026, and it is the model Robinson lists for sale new."
+    },
+    {
+      "code": "R44 Newscopter",
+      "desc": "Introduced in 1998, the Newscopter was the R44 version offered for news gathering, and it joined the standard Astro in the range two years before the Raven appeared in January 2000. It shares the airframe, Lycoming IO-540 engine and 33 ft main rotor of the standard R44."
+    },
+    {
+      "code": "R44 Cadet",
+      "desc": "Announced in November 2015, the Cadet is the R44 version aimed at flight schools. It follows the Raven II, which Robinson had introduced in July 2002, and it keeps the same family layout, rotor system and Lycoming piston engine as the other R44 models."
+    },
+    {
+      "code": "R550X (Rotor Technologies)",
+      "desc": "An uncrewed conversion of the R44 airframe developed by Rotor Technologies from 2023. It was introduced in 2023, 33 years after the R44's first flight, and it removes the pilot from a helicopter that had been built for people on board."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Mexican Navy",
+      "role": "Training and utility",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "12",
+      "homeBase": "Mexico"
+    },
+    {
+      "name": "Philippine Army",
+      "role": "Utility",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "2",
+      "homeBase": "Philippines"
+    },
+    {
+      "name": "Philippine National Police",
+      "role": "Police patrol",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "4",
+      "homeBase": "Philippines"
+    },
+    {
+      "name": "Philippine Navy",
+      "role": "Utility",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "3",
+      "homeBase": "Philippines"
+    },
+    {
+      "name": "Embry-Riddle Aeronautical University",
+      "role": "Flight training",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "Daytona Beach - Florida"
+    },
+    {
+      "name": "University of North Dakota",
+      "role": "Flight training",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "Grand Forks - North Dakota"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "R44",
+    "howToFind": "Search for ICAO type R44 on a public tracker. Flying school areas, such as Daytona Beach in Florida and Grand Forks in North Dakota, are the most likely places to find one."
+  },
+  "tags": [
+    "R44",
+    "Raven",
+    "Robinson",
+    "helicopter",
+    "flight training"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Robinson R44 with its certification history, the fuel tank and rotor blade issues, accident record and 2026 list price.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Robinson R44 is a four-seat light helicopter powered by a single piston engine. Frank Robinson's company developed it from the two-seat R22, and it first flew on 31st March 1990, gained FAA certification in December 1992 and delivered its first aircraft in January 1993. By the end of 2023 more than 6,866 had been built.{{ref:wiki-r44}}",
+      "It is the best-selling general aviation helicopter in the world, and has been every year since 1999.{{ref:wiki-r44}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: A Bigger R22",
+        "paragraphs": [
+          "The R44 enlarges the R22 to four seats, with a 245 hp Lycoming IO-540 engine and a 33 ft main rotor. The tail rotor turns the opposite way to the R22's. Maximum weight is 2,500 lb, empty weight 1,505 lb, and the engine burns about 15 US gallons an hour. Cruise is 109 kn (125 mph) and the range is 350 mi with no reserve.{{ref:wiki-r44}}",
+          "The first flight came on 31st March 1990, certification in December 1992 and first delivery in January 1993. The Newscopter followed in 1998, the Raven in January 2000 and the Raven II in July 2002.{{ref:wiki-r44}}"
+        ]
+      },
+      {
+        "heading": "The Best-Selling Helicopter",
+        "paragraphs": [
+          "By 2023 Robinson had built 6,866 R44s. Its low price and operating cost made it the first helicopter for flight schools, charter firms and private owners. In 2026, the Raven II's base list price is US$646,000, effective 1st January 2026, and used and optioned examples are listed at US$696,000 to US$889,900.{{ref:wiki-r44}}",
+          "Flight schools including Embry-Riddle and the University of North Dakota use it, and military and police users include the Mexican Navy with 12 aircraft, the Philippine Army with 2, the Philippine National Police with 4 and the Philippine Navy with 3.{{ref:wiki-r44}}"
+        ]
+      },
+      {
+        "heading": "Safety and Regulator Attention",
+        "paragraphs": [
+          "The R44 had aluminium fuel tanks until bladder tanks became available in 2009, and Robinson issued Service Bulletin 78 on 20th December 2010, with a deadline of 30th April 2013 for the change. In March 2013 the Australian Transport Safety Bureau reported that 12 percent of R44 accidents there involved a post-crash fire, against 7 percent for other helicopters, and US data showed 15 percent. Australia's CASA grounding took effect on 30th April 2013.{{ref:wiki-r44}}",
+          "Rotor blades have caused other groundings. On 19th February 2015 the New Zealand Civil Aviation Authority grounded 80 R44s over blade part number C016-7, and cleared them to fly on 24th February 2015.{{ref:wiki-r44}}"
+        ]
+      },
+      {
+        "heading": "Records and Accidents",
+        "paragraphs": [
+          "In 1997 Jennifer Murray flew an R44 around the world, 36,000 miles in 97 days. The aircraft also holds a place in recent accident history. On 6th February 2024 Sebastián Piñera, the former president of Chile, was killed when the R44 he was piloting crashed into a lake, and three of the four on board survived.{{ref:wiki-r44}}",
+          "On 25th August 2025 an R44 crashed on the Isle of Wight during a flying lesson, killing three. On 30th October 2025 one crashed at Doncaster, and on 29th November 2025 another crashed in Poland, killing two.{{ref:wiki-r44}}"
+        ]
+      },
+      {
+        "heading": "Drone Conversions and Outlook",
+        "paragraphs": [
+          "The R44 is still in production. Robinson announced the two-seat Cadet in November 2015, and Rotor Technologies introduced the R550X, an uncrewed version, in 2023.{{ref:wiki-r44}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-r44",
+      "name": "Robinson R44",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robinson_R44"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Robinson R44 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robinson_R44"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2013-04-30",
+      "title": "CASA grounding takes effect",
+      "tag": "Regulatory action",
+      "summary": "Australia's Civil Aviation Safety Authority grounding took effect on 30th April 2013, the deadline for the Robinson fuel tank service bulletin. The ATSB had found a 12 percent post-crash fire rate for R44s against 7 percent for other helicopters.",
+      "source": "https://en.wikipedia.org/wiki/Robinson_R44"
+    },
+    {
+      "date": "2015-02-19",
+      "title": "New Zealand grounds 80 R44s over a blade part",
+      "tag": "Regulatory action",
+      "summary": "The New Zealand CAA grounded 80 R44s over main rotor blade part number C016-7 and cleared them on 24th February 2015.",
+      "source": "https://en.wikipedia.org/wiki/Robinson_R44"
+    },
+    {
+      "date": "2024-02-06",
+      "title": "Piñera killed in lake crash",
+      "tag": "Accident",
+      "summary": "Former Chilean president Sebastián Piñera was piloting an R44 that crashed into a lake. He was killed, and the three other people aboard survived.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Robinson_R44"
+    },
+    {
+      "date": "2025-08-25",
+      "title": "Isle of Wight crash during a lesson",
+      "tag": "Accident",
+      "summary": "An R44 crashed on the Isle of Wight during a flying lesson, killing three people.",
+      "fatalities": 3,
+      "source": "https://en.wikipedia.org/wiki/Robinson_R44"
+    },
+    {
+      "date": "2025-11-29",
+      "title": "Crash in Poland",
+      "tag": "Accident",
+      "summary": "An R44 crashed in Poland on 29th November 2025, killing two people.",
+      "fatalities": 2,
+      "source": "https://en.wikipedia.org/wiki/Robinson_R44"
+    }
+  ],
+  "lastUpdated": "2026-11-13"
+}

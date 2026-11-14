@@ -13,6 +13,7 @@
   "role": "High-Altitude Strategic Reconnaissance Aircraft",
   "tagline": "A glider with a jet engine bolted on, built to fly higher than any missile of its era could reach. For seven decades the U-2 has photographed and eavesdropped on adversaries from above 70,000 feet, surviving the very Cold War crises - a shootdown over the USSR, the Cuban Missile Crisis - that its own photographs helped trigger.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "The CIA and US Air Force needed a way to see deep inside the Soviet Union without risking a shooting war, and in 1954 Lockheed's Kelly Johnson proposed exactly that: an airframe built almost entirely around altitude, with long, thin glider-like wings and a single powerful engine, flying so high that contemporary Soviet fighters and surface-to-air missiles simply couldn't reach it. The U-2 first flew in August 1955 and immediately began overflying the USSR under CIA control, photographing missile and bomber bases that satellite imagery didn't yet exist to cover. That immunity ended on 1 May 1960, when a Soviet SA-2 missile downed Francis Gary Powers over Sverdlovsk, a Cold War flashpoint that ended manned overflights of Soviet territory and became a global incident. Two years later, U-2 photographs of missile sites under construction in Cuba triggered the Cuban Missile Crisis, and a second U-2 was shot down over Cuba during the standoff, killing its pilot. Lockheed built a substantially larger second-generation airframe, the U-2R, in 1967, and a further-modernized version of that same basic airframe - re-engined, digitized, and fitted with modern sensors - still flies today as the U-2S, over 70 years after the type's first flight.",
   "specifications": {
@@ -135,6 +136,11 @@
       "date": "2026-07-31",
       "change": "Updated the news links with current stories.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "seedNews": [

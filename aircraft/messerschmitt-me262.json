@@ -1,0 +1,315 @@
+{
+  "name": "Me 262",
+  "fullName": "Messerschmitt Me 262 Schwalbe",
+  "manufacturer": "Messerschmitt",
+  "originCountry": {
+    "name": "Germany",
+    "code": "de"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Jet fighter and fighter-bomber",
+  "tagline": "The Messerschmitt Me 262 'Schwalbe' (Swallow) is a twin-engine, swept-wing German jet fighter that first flew under jet power on 18th July 1942. It was the first jet fighter to serve in combat, entering Luftwaffe use in 1944, and about 1,400 were built before the war ended.",
+  "status": "Retired",
+  "condition": "Preserved - Static Display",
+  "inProduction": false,
+  "quickFacts": [
+    "The Me 262's first flight, on 18th April 1941 at Augsburg, was on piston power alone, with a Jumo 210 engine in the nose because the jet engines were not yet ready. The first all-jet flight came on 18th July 1942 at Leipheim.{{ref:wiki-me262}}",
+    "The famous story that Hitler's order to build a bomber version delayed the fighter for months is wrong, according to the type's Wikipedia entry. It delayed the first fighter unit, Kommando Nowotny, by less than three weeks.{{ref:wiki-me262}}",
+    "Each airframe took about 6,400 man-hours to build and cost 87,400 Reichsmarks without engines, armament or electronics. Messerschmitt factories produced 1,443 by one count, but only about 300 saw combat.{{ref:wiki-me262}}{{ref:si-me262}}",
+    "German pilots claimed 542 Allied aircraft in Me 262s, while the Allies destroyed about 100 of them in the air. Kommando Nowotny lost 28 of its 30 jets to damage or destruction by 16th November 1944, while claiming 24 kills.{{ref:wiki-me262}}",
+    "In 2002 and 2003, the Me 262 Project built flying reproductions, including a two-seater that first took off in December 2002, powered by General Electric CJ610 engines because original Jumo 004s were not available.{{ref:wiki-me262}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Me 262 A-1a. The 900 km/h top speed is the type's published maximum, and sources that quote service performance often give a lower figure of about 850 km/h. Production totals vary from about 1,400 to 1,443 depending on how the sources count.",
+    "maxSpeed": {
+      "mph": 560,
+      "text": "486 kn (560 mph / 900 km/h)"
+    },
+    "range": {
+      "miles": 650,
+      "text": "650 mi (1,050 km, 567 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 37570,
+      "text": "37,570 ft (11,450 m)"
+    },
+    "wingspan": {
+      "ft": 41.3,
+      "text": "41 ft 4 in (12.6 m)"
+    },
+    "length": {
+      "ft": 34.75,
+      "text": "34 ft 9 in (10.6 m)"
+    },
+    "height": {
+      "ft": 11.5,
+      "text": "11 ft 6 in (3.5 m)"
+    },
+    "weight": "empty: 8,367 lb (3,795 kg); MTOW: 15,719 lb (7,130 kg)",
+    "engines": "2 x Junkers Jumo 004B-1 axial-flow turbojets, 1,980 lbf (8.8 kN) each",
+    "armament": "4 x 30 mm MK 108 cannon; up to 24 x 55 mm R4M rockets; 2 x 250 kg (550 lb) bombs on the fighter-bomber version",
+    "crew": "1",
+    "capacity": "One pilot",
+    "firstFlight": {
+      "date": "1942-07-18",
+      "year": 1942
+    },
+    "serviceEntryDate": "1944",
+    "retiredDate": "1951",
+    "numberBuilt": 1430,
+    "combatLosses": "Allied fighters destroyed about 100 Me 262s in the air; Kommando Nowotny had 28 of 30 jets damaged or destroyed by 16th November 1944"
+  },
+  "variants": [
+    {
+      "code": "Me 262 A-1a Schwalbe",
+      "desc": "The standard single-seat fighter, armed with four 30 mm MK 108 cannon in the nose and powered by two Jumo 004B-1 turbojets. It served with Kommando Nowotny, JG 7 and Jagdverband 44. Some carried up to 24 R4M rockets under the wings for use against bomber formations."
+    },
+    {
+      "code": "Me 262 A-2a Sturmvogel",
+      "desc": "A fighter-bomber carrying two 250 kg bombs, flown by units such as KG 51, which was a bomber wing. The Hitler bomber order of mid-1943 centred on this version. The only surviving example still in its original paint, with KG 51 markings, is at the Australian War Memorial in Canberra."
+    },
+    {
+      "code": "Me 262 B-1a / B-1a/U1",
+      "desc": "A two-seat trainer, needed because pilots could not otherwise be trained on a jet. The B-1a/U1 version added radar and served as a night fighter, and one surviving B-1a/U1 is in the South African National Museum of Military History in Johannesburg."
+    },
+    {
+      "code": "Me 262 A-1a/U3 (reconnaissance)",
+      "desc": "A photo-reconnaissance conversion with cameras in the nose in place of the cannon, relying on its speed to avoid interception. A surviving A-1a/U3 is displayed at the Planes of Fame museum in Chino, California, and the type flew reconnaissance sorties over the Western Front in the last months of the war."
+    },
+    {
+      "code": "Avia S-92 / CS-92",
+      "desc": "The Czechoslovak post-war version, assembled at the Avia factory from components left after the German surrender. S-92 single-seat and CS-92 two-seat versions served with the Czechoslovak Air Force until 1951, and examples are preserved at the Prague Aviation Museum at Kbely."
+    },
+    {
+      "code": "Me 262 Project reproductions",
+      "desc": "Flying reproductions built by Me 262 Project in the United States, with the first two-seat aircraft flying in December 2002 and flight testing finishing in January 2003. They use General Electric CJ610 engines in place of the original Jumo 004, and several are privately owned by museums and collectors."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Luftwaffe",
+      "role": "Primary operator",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "Retired",
+      "homeBase": "Germany"
+    },
+    {
+      "name": "Czechoslovak Air Force",
+      "role": "Post-war S-92 and CS-92",
+      "status": "Retired",
+      "since": "1940s",
+      "fleetSize": "Retired",
+      "homeBase": "Czechoslovakia"
+    },
+    {
+      "name": "United States Army Air Forces",
+      "role": "Evaluation after Operation Lusty",
+      "status": "Retired",
+      "since": "1945",
+      "fleetSize": "Retired",
+      "homeBase": "Wright Field - Ohio"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Evaluation of captured aircraft",
+      "status": "Retired",
+      "since": "1945",
+      "fleetSize": "Retired",
+      "homeBase": "Farnborough - England"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No original Me 262 flies today. A handful of flying reproductions are operated in the United States and Germany, and they appear on air-show schedules but not on live flight trackers."
+  },
+  "lastUpdated": "2026-11-13",
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Messerschmitt Me 262 - first flights, the Hitler bomber-order myth, kills and losses, the Czech S-92, the reproductions, and the surviving airframes.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Me 262",
+    "Messerschmitt",
+    "Schwalbe",
+    "Sturmvogel",
+    "Jumo 004",
+    "first jet fighter",
+    "Luftwaffe",
+    "JG 7",
+    "Galland",
+    "Operation Lusty"
+  ],
+  "article": {
+    "overview": [
+      "The Messerschmitt Me 262 'Schwalbe' is a twin-engine, swept-wing German jet fighter, and the first jet-powered fighter to see combat. It made its first all-jet flight on 18th July 1942 and entered operational use in 1944, when about 1,400 were eventually built.{{ref:wiki-me262}}",
+      "The Smithsonian calls it the aircraft that surpassed the performance of every other fighter of the Second World War. It also arrived too late and in too few numbers to change the war, and only about 300 of the 1,443 produced saw combat.{{ref:si-me262}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Messerschmitt started the Me 262 design before the jet engines were ready. The first prototype flew at Augsburg on 18th April 1941 with a Jumo 210 piston engine in the nose, flown by Fritz Wendel, and it took until 18th July 1942 at Leipheim before the aircraft flew on jet power alone.{{ref:wiki-me262}}",
+          "The airframe had a swept wing, a triangular fuselage and engines slung under the wings, with a nose gun battery of four 30 mm MK 108 cannon. The Junkers Jumo 004B-1 engines gave 1,980 lbf each, and drove the aircraft to a top speed of about 900 km/h, faster than any Allied piston fighter. The RAF's Gloster Meteor had first flown on 5th March 1943, and in tests the Me 262 was the faster of the two, while the Meteor had a tendency to snake at high speed.{{ref:wiki-me262}}"
+        ]
+      },
+      {
+        "heading": "The Hitler Bomber Order Myth",
+        "paragraphs": [
+          "The usual story is that Hitler insisted in mid-1943 that the Me 262 be built as a bomber, which cost months of fighter development and wasted the aircraft. The Wikipedia entry says this claim is incorrect: Hitler did envisage a ground-attack role, but the delay to the first fighter unit, Kommando Nowotny, was less than three weeks.{{ref:wiki-me262}}",
+          "The real constraints were the engines and the factories. The Jumo 004 was a new design, built under severe material shortages, and each airframe took about 6,400 man-hours and 87,400 Reichsmarks without engines, armament or electronics. Deliveries were 28 in June 1944, 59 in July and 20 in August, and the plant was repeatedly bombed.{{ref:wiki-me262}}"
+        ]
+      },
+      {
+        "heading": "In Combat, 1944 and 1945",
+        "paragraphs": [
+          "Erprobungskommando 262 was formed on 19th April 1944. On 26th July 1944 Leutnant Alfred Schreiber made the first air-to-air attack by a jet, against a Mosquito, but failed to bring it down. The first claim came on 8th August 1944, when Leutnant Joachim Weber claimed a reconnaissance Mosquito over Munich, and Kommando Nowotny began jet fighter operations on 3rd October 1944.{{ref:wiki-me262}}",
+          "The first Allied victory over a jet came two days later, on 5th October 1944, when a Canadian Spitfire pilot shot down Hans-Christoph Buttmann. The Me 262's weak point was taking off and landing, when it was slow and vulnerable. Adolf Galland formed Jagdverband 44 in February 1945, and on 18th March 1945 JG 7 claimed 12 bombers and one fighter for the loss of three Me 262s. In all, German pilots claimed 542 Allied aircraft.{{ref:wiki-me262}}"
+        ]
+      },
+      {
+        "heading": "After the War",
+        "paragraphs": [
+          "The Allies collected Me 262s as war booty. The USAAF's Operation Lusty took German aircraft and technology back to the United States, and the British tested captured aircraft at Farnborough. In Czechoslovakia, the Avia factory built the S-92 and CS-92 from leftover parts, and the type served until 1951.{{ref:wiki-me262}}",
+          "Its layout, with swept wings and engines in pods under the wing, was echoed in the post-war jets that followed. It was not a polished design: the engines wore out quickly and pilots had little time to train on them. But it showed that jet fighters could be built in numbers and flown in combat, which changed every air force's plans."
+        ]
+      },
+      {
+        "heading": "Survivors & Reproductions",
+        "paragraphs": [
+          "Roughly ten surviving original Me 262s are held in museums, depending on how rebuilt aircraft are counted. The Smithsonian National Air and Space Museum has an A-1a (500491) that served with JG 7, the Deutsches Museum in Munich has an A-1b (500071), the Australian War Memorial in Canberra has an A-2a (500200) that flew with KG 51, and the RAF Museum at Cosford has A-2a 112372, which returned there in 2017.{{ref:si-me262}}{{ref:raf-cosford-me262}}{{ref:awm-me262}}{{ref:classicwings-me262}}",
+          "The Me 262 Project built flying reproductions with General Electric CJ610 engines, the first two-seat aircraft taking off in December 2002 and finishing flight testing in January 2003. They are not original aircraft, but they have made it possible to see the type fly.{{ref:wiki-me262}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-me262",
+      "name": "Messerschmitt Me 262",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Messerschmitt_Me_262"
+    },
+    {
+      "id": "si-me262",
+      "name": "Messerschmitt Me 262 A-1a Schwalbe",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://www.si.edu/object/nasm_A19600328000"
+    },
+    {
+      "id": "raf-cosford-me262",
+      "name": "Me 262 rejoins Cosford's German aircraft collection",
+      "publisher": "Royal Air Force Museum",
+      "url": "https://www.rafmuseum.org.uk/documents/press_releases/cosford/2017/Me_262_Arrival.pdf"
+    },
+    {
+      "id": "awm-me262",
+      "name": "Messerschmitt Me 262-A2 Fighter Aircraft: KG51 Luftwaffe",
+      "publisher": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/collection/C111055"
+    },
+    {
+      "id": "classicwings-me262",
+      "name": "Messerschmitt Me 262 survivors",
+      "publisher": "Classic Wings",
+      "url": "https://axis.classicwings.com/Luftwaffe/messerschmitt/me262.htm"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Me 262 A-1a Schwalbe - Smithsonian",
+      "url": "https://www.si.edu/object/nasm_A19600328000"
+    },
+    {
+      "name": "Messerschmitt Me 262 survivors list - Classic Wings",
+      "url": "https://axis.classicwings.com/Luftwaffe/messerschmitt/me262.htm"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1944-07-26",
+      "title": "First jet air-to-air attack",
+      "tag": "Combat debut",
+      "summary": "Leutnant Alfred Schreiber of Erprobungskommando 262 attacked a Mosquito, the first time a jet fighter fired in anger in an air-to-air engagement. He failed to shoot it down.",
+      "source": "https://en.wikipedia.org/wiki/Messerschmitt_Me_262"
+    },
+    {
+      "date": "1944-10-05",
+      "title": "First Allied victory over an Me 262",
+      "tag": "Shot down",
+      "summary": "Hans-Christoph Buttmann's Me 262 was shot down by a Canadian Spitfire pilot, two days after Kommando Nowotny began jet fighter operations.",
+      "source": "https://en.wikipedia.org/wiki/Messerschmitt_Me_262"
+    },
+    {
+      "date": "1944-11-16",
+      "title": "Kommando Nowotny's losses by mid-November 1944",
+      "tag": "Operational losses",
+      "summary": "By this date 28 of the unit's 30 jets had been damaged or destroyed, against 24 claimed kills. Many losses came from engine failures and from Allied fighters catching the jets while they were slow on take-off and landing.",
+      "source": "https://en.wikipedia.org/wiki/Messerschmitt_Me_262"
+    },
+    {
+      "date": "1945-03-18",
+      "title": "JG 7 attack on a bomber formation",
+      "tag": "Combat",
+      "summary": "JG 7 claimed 12 bombers and one fighter for the loss of three Me 262s.",
+      "source": "https://en.wikipedia.org/wiki/Messerschmitt_Me_262"
+    }
+  ],
+  "survivors": {
+    "intro": "About ten original Me 262s survive in museums, depending on how rebuilt and reassembled airframes are counted. The Smithsonian says only nine survive in museums worldwide, while the RAF Museum counts eleven including two Czech aircraft assembled after the war.",
+    "airframes": [
+      {
+        "serial": "500491",
+        "name": "Me 262 A-1a, II./JG 7 'Yellow 7'",
+        "location": "National Air and Space Museum",
+        "place": "Washington, D.C., United States",
+        "url": "https://www.si.edu/object/nasm_A19600328000",
+        "note": "A single-seat A-1a Schwalbe that served with JG 7, held by the Smithsonian.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "112372",
+        "name": "Me 262 A-2a Schwalbe",
+        "location": "Royal Air Force Museum Cosford",
+        "place": "Cosford, Shropshire, United Kingdom",
+        "url": "https://www.rafmuseum.org.uk/documents/press_releases/cosford/2017/Me_262_Arrival.pdf",
+        "note": "Returned to Cosford in 2017 after 14 years on display at the RAF Museum London.",
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "500200",
+        "name": "Me 262 A-2a, KG 51 'Black X'",
+        "location": "Australian War Memorial",
+        "place": "Canberra, Australia",
+        "url": "https://www.awm.gov.au/collection/C111055",
+        "note": "A fighter-bomber that served with KG 51 in Germany and Czechoslovakia, displayed in Canberra from 1955 to 1970 and later loaned to the RAAF Museum at Point Cook.",
+        "countryCode": "au",
+        "country": "Australia"
+      },
+      {
+        "serial": "500071",
+        "name": "Me 262 A-1b, 'White 3' III./JG 7",
+        "location": "Deutsches Museum",
+        "place": "Munich, Germany",
+        "url": "https://axis.classicwings.com/Luftwaffe/messerschmitt/me262.htm",
+        "note": "An A-1b that served with III./JG 7, on display in Munich.",
+        "countryCode": "de",
+        "country": "Germany"
+      }
+    ]
+  }
+}

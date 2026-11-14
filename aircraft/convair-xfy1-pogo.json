@@ -13,6 +13,7 @@
   "role": "VTOL Tail-Sitter Fighter",
   "tagline": "The Convair XFY-1 Pogo is a single-seat experimental fighter built for the U.S. Navy that took off and landed vertically on its tail. One flying example was built, and test pilot James Coleman flew the first full vertical to horizontal transition in it on 2 November 1954.",
   "status": "Cancelled",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "James F. Coleman was the only pilot to master the full sequence of vertical takeoff, transition to horizontal flight and vertical landing in the Pogo.",
@@ -105,6 +106,11 @@
     {
       "date": "2026-10-25",
       "change": "New entry for the Convair XFY-1 Pogo, covering the tethered and free flights with Skeets Coleman, why the Navy dropped it and where the aircraft is now.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

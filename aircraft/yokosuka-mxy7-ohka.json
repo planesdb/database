@@ -11,6 +11,7 @@
   "role": "Rocket-Powered Suicide Attack Aircraft",
   "tagline": "The Yokosuka MXY-7 Ohka is a Japanese rocket-powered, piloted suicide attack aircraft built for the Imperial Japanese Navy. It was carried under a Mitsubishi G4M bomber and flown into ships with a 1,200 kg warhead, and Allied crews called it the 'Baka bomb'.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Allied crews nicknamed the Ohka 'Baka', the Japanese word for fool or idiot.",
@@ -107,6 +108,11 @@
     {
       "date": "2026-10-18",
       "change": "Added the Yokosuka MXY-7 Ohka - how it was built and launched, the Okinawa attacks, the Model 22 and trainers, and the preserved examples.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

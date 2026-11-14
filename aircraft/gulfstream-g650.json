@@ -11,6 +11,7 @@
   "role": "Ultra-Long-Range Business Jet",
   "tagline": "The Gulfstream G650 is a twin-engine, fly-by-wire business jet built by Gulfstream Aerospace, with a certified range of 7,000 nautical miles and a maximum operating speed of Mach 0.925. It entered service in December 2012, and in April 2019 a G650ER flew 8,379 nautical miles non-stop from Singapore to Tucson, the longest business jet flight recorded to that point.",
   "status": "In Service",
+  "condition": "Operational - Private",
   "inProduction": false,
   "quickFacts": [
     "In April 2019 a G650ER flew 8,379 nautical miles non-stop from Singapore to Tucson, retaking the distance record that a Bombardier Global 7500 had taken in March of that year.",
@@ -130,6 +131,11 @@
     {
       "date": "2026-11-01",
       "change": "Added the 2014 and 2015 distance flights, the London City steep approach trials and the JSTARS offer.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

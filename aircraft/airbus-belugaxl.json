@@ -13,6 +13,7 @@
   "role": "Outsize Cargo Transport",
   "tagline": "The Airbus A330-743L BelugaXL is a twin-engine outsize freighter that carries wings and fuselage sections between the eleven European sites where Airbus builds its aircraft. Six were built to replace the older A300-600ST Beluga, each one 6.9 m longer and 1.7 m wider in the fuselage, and able to carry both wings of an A350 in a single load instead of one.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "quickFacts": [
     "The whale face painted on every BelugaXL was chosen by Airbus employees, who picked it from six candidate designs with more than 40 percent of the vote in 2017.",
@@ -90,6 +91,11 @@
     {
       "date": "2026-09-08",
       "change": "Added the Airbus A330-743L BelugaXL - history, specs, variants and accident record. Sources: Airbus, Wikipedia, FlightGlobal, AeroTime and named aviation-press sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -13,6 +13,7 @@
   "role": "Cold War Multirole Fighter",
   "tagline": "Sweden's unique canard-delta fighter built to scramble from highway strips and outlast a Soviet first strike. One of the first combat aircraft in the world to pair forward canard foreplanes with a delta main wing, it let Sweden disperse its air force across short highway strips and forest bases rather than concentrate it on a handful of vulnerable airfields.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "Designed from the mid-1950s onward to satisfy Sweden's demanding neutral-nation air defence requirements - very short takeoff and landing performance from 500-metre road-base strips, rapid turnaround by conscript ground crews, and Mach 2 interception performance - the Viggen's canard-delta layout was a genuinely novel solution when it first flew in February 1967, using the foreplane both to improve low-speed lift for short-field operation and to enhance high-speed stability. It entered Swedish Air Force service in 1971 as the AJ 37 attack variant, followed by dedicated JA 37 interceptor, SF/SH 37 reconnaissance and SK 37 trainer versions, together forming a complete 'system' of specialised variants sharing a common airframe - reflecting Sweden's determination to field a fully independent, self-sufficient air force during the Cold War despite its small size and formal neutrality. The Viggen never saw combat, but it maintained round-the-clock quick-reaction alert against Soviet reconnaissance and bomber incursions into Swedish airspace for over three decades, and Swedish JA 37 interceptors were regularly scrambled to intercept and shadow Soviet aircraft probing the Baltic approaches throughout the Cold War. The type was gradually replaced by the smaller, lighter and even more advanced Saab JAS 39 Gripen from the mid-1990s, with the last Viggen squadrons retiring in June 2007; a small number remain preserved in flying condition with the Swedish Air Force Historic Flight.",
   "specifications": {
@@ -90,7 +91,7 @@
     {
       "name": "Swedish Air Force Historic Flight",
       "role": "Heritage & airshow operator",
-      "status": "In Service",
+      "status": "Airworthy",
       "since": "2008",
       "fleetSize": "2-3 airworthy preserved examples",
       "homeBase": "Såtenäs airbase, Sweden",
@@ -243,6 +244,16 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Corrected the Swedish Air Force Historic Flight's operator status to Airworthy.",
       "author": "planesdb"
     }
   ],

@@ -14,6 +14,7 @@
   "role": "Medium Strategic Jet Bomber",
   "tagline": "The Boeing B-47 Stratojet is a six-engine jet bomber with a thin 35-degree swept wing, and was the backbone of Strategic Air Command in the 1950s. Boeing, Douglas and Lockheed built more than 2,000, and by 1958 SAC flew 1,367 of them in 28 bomb wings.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Its bicycle landing gear left the B-47 sitting at its take-off angle, so it could not rotate on take-off.",
@@ -258,6 +259,11 @@
     {
       "date": "2026-10-04",
       "change": "Added the B-47 Stratojet, including the reconnaissance versions, ten of the surviving airframes and the nuclear weapon incidents.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

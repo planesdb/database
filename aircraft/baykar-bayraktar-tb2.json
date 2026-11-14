@@ -13,6 +13,7 @@
   "role": "MALE Armed Drone",
   "tagline": "The Bayraktar TB2 is a medium-altitude, long-endurance armed drone built in Turkey by Baykar. More than 800 have been built and it has been exported to over 30 countries, making it the most widely exported combat drone in the world, with combat use in Syria, Libya, Nagorno-Karabakh, Ethiopia and Ukraine.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "Its development was spurred by a US refusal to export armed drones to Turkey, over concerns they would be used against the PKK.",
@@ -193,6 +194,11 @@
     {
       "date": "2026-09-22",
       "change": "Baykar Bayraktar TB2 added - history, specs, variants, operators and accident record. Sources: Baykar's own product and history pages, Wikipedia, Army Technology, The War Zone and Ukrinform.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

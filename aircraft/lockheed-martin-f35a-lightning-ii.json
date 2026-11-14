@@ -13,6 +13,7 @@
   "role": "Stealth Multirole Fighter",
   "tagline": "The cornerstone of 5th-generation global air power and sensor fusion. As the conventional takeoff and landing variant of the Joint Strike Fighter family, it is the primary multirole fighter for the United States Air Force and numerous allied nations.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "Born from the Joint Strike Fighter (JSF) program initiated in the 1990s, Lockheed Martin's X-35 prototype defeated Boeing's X-32 to secure the definitive development contract. The first production-representative F-35A logged its maiden flight on December 15, 2006. After extensive testing, software updates, and manufacturing refinements, the U.S. Air Force officially declared Initial Operating Capability (IOC) for the F-35A on August 2, 2016. The program has scaled into the largest military procurement in history, acting as a unified standard for NATO and global allies, despite drawing notable early scrutiny for long development delays and lifecycle sustainment costs.",
   "specifications": {
@@ -459,6 +460,11 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators roster - expanded three rows to fourteen covering every F-35A customer with ordered and delivered figures, and recorded Turkey as a removed partner.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

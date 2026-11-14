@@ -13,6 +13,7 @@
   "role": "Attack and Assault Transport Helicopter",
   "tagline": "The Mil Mi-24 is a Soviet twin-turboshaft attack helicopter that also carries up to eight troops, a combination its crews called the flying infantry fighting vehicle. First flown in 1969, 2,648 have been built and it has been used by more than 50 countries.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "Soviet pilots called it the 'flying tank', and other nicknames include Crocodile (Krokodil, for its camouflage) and Drinking Glass (Stakan, for its flat cockpit glass).",
@@ -134,6 +135,11 @@
     {
       "date": "2026-10-18",
       "change": "Added the Mil Mi-24 Hind - origins, the Afghanistan record, the 1978 speed record, variants and the museum aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -13,6 +13,7 @@
   "role": "Utility Helicopter",
   "tagline": "The Bell UH-1 Iroquois, known as the Huey, is a single-rotor utility helicopter built by Bell for the U.S. Army and the first turbine-powered helicopter in U.S. military service. More than 16,000 have been built since 1960, and about 7,000 served in Vietnam.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "The Huey was the first turbine-powered helicopter in U.S. military service, and more than 16,000 have been built.",
@@ -154,6 +155,11 @@
     {
       "date": "2026-10-18",
       "change": "Added the Bell UH-1 Huey - history, Vietnam record, the main variants, operators and the Twilight Zone accident.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

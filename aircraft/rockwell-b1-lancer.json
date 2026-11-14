@@ -13,6 +13,7 @@
   "role": "Supersonic Long Range Bomber",
   "tagline": "Nicknamed the 'Bone', this conventional bomber is a long-range, supersonic aircraft currently serving the United States Air Force since 1985. The B-1 Lancer remains the fastest bomber in the USAF inventory, capable of projecting power anywhere in the world to support military operations",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "The B1 Lancer remains the fastest bomber in the US Air Forces Inventory",
@@ -119,6 +120,11 @@
     {
       "date": "2026-09-27",
       "change": "Added a new Quick Fact that was discovered on Reddit.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

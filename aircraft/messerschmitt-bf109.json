@@ -13,6 +13,7 @@
   "role": "WWII Fighter Interceptor",
   "tagline": "The most-produced fighter aircraft in history and the backbone of the Luftwaffe's fighter force for the entire war. A compact, lightweight all-metal monoplane, it was continuously upgraded over an 11-year production run that saw roughly 34,000 built.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "Designed by Willy Messerschmitt and first flown in May 1935, the Bf 109 combined then-radical features - all-metal monocoque construction, a fully enclosed cockpit, retractable undercarriage and automatic wing slats - into a small, aerodynamically clean fighter optimised around its powerful liquid-cooled engine. It saw its combat debut with the Condor Legion in the Spanish Civil War, where German pilots refined the fighter tactics (including the loose 'finger-four' formation later adopted by air forces worldwide) that would prove devastating in the opening years of WWII. The Bf 109E ('Emil') was the standard Luftwaffe fighter during the Battle of Britain in 1940, evenly matched against the Spitfire but hampered by its short combat radius, which left German fighters with only minutes over southern England before having to turn for home. Continuously refined through the F, G ('Gustav', the most numerous variant with over 20,000 built) and K series, the 109 remained frontline equipment on every German front until May 1945, flown by the war's highest-scoring aces including Erich Hartmann, credited with 352 aerial victories - the most of any fighter pilot in history, nearly all scored in various marks of the 109. After the war, license- and captured-tooling-built versions continued in service with Spain (as the Hispano Buchón) and Czechoslovakia (as the Avia S-99/S-199) into the 1950s, and Israel's fledgling air force flew Avia-built 109s as its first fighters in the 1948 war.",
   "specifications": {
@@ -272,6 +273,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -13,6 +13,7 @@
   "role": "Tactical Long-Endurance Surveillance UAS",
   "tagline": "The Falco Evo is a single-engine, twin-boom surveillance drone from Italy, built by stretching the wings and tail booms of the earlier Falco to 12.5 metres. It first flew on 23rd July 2012 and the first new-build aircraft were delivered to a Middle Eastern customer in 2017.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "The Evo uses the Falco airframe with only longer wings and booms. The span grew from 7.2 m to 12.5 m, and the maker said no significant reinforcement of the airframe was needed.",
@@ -124,6 +125,11 @@
     {
       "date": "2026-11-08",
       "change": "Added the Falco Evo - the stretch from the baseline Falco, UN and Middle East customers, the Astore and Xplorer spin-offs, and the specs conflicts between sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

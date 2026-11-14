@@ -11,6 +11,7 @@
   "role": "Supersonic Airliner",
   "tagline": "The Soviet supersonic airliner that beat Concorde into the air by two months, and then spent fifteen years failing to become an airliner. It flew fare-paying passengers on a single route for seven months, set thirteen world records in the year it was cancelled, and ended its career as a NASA research aircraft.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "It was the first supersonic transport of any nation to fly, lifting off from Zhukovsky on 31 December 1968 - the last day of the year the Soviet government's 1963 decree had set as its deadline.",
@@ -124,6 +125,11 @@
     {
       "date": "2026-09-21",
       "change": "Entry created - full article, specifications, variants, operators and incident log written.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

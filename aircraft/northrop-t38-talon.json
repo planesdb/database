@@ -11,6 +11,7 @@
   "role": "Supersonic Advanced Jet Trainer",
   "tagline": "The T-38 Talon is a twin-engine, two-seat supersonic trainer built by Northrop for the United States Air Force, and was the first supersonic trainer in the world when it entered service in March 1961. Around 50,000 military pilots have learned to fly fast jets on it, and 1,187 were built between 1961 and 1972.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "It was the world's first supersonic trainer, and around 50,000 military pilots have trained on the type since 1961",
@@ -167,6 +168,11 @@
     {
       "date": "2026-09-10",
       "change": "Added the Northrop T-38 Talon - history, specs, variants, operators and accident record. Sources: the USAF fact sheet and Wikipedia.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

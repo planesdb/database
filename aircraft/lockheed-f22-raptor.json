@@ -13,6 +13,7 @@
   "role": "Air Superiority Stealth Fighter",
   "tagline": "The world's first operational fifth-generation fighter. Combining very-low-observable stealth shaping, thrust-vectoring engines and sensor fusion, it can supercruise past Mach 1.5 without afterburner, though a US export ban means it flies exclusively with the United States Air Force.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "The F-22 emerged from the USAF's Advanced Tactical Fighter programme of the 1980s, with the YF-22 prototype beating the Northrop YF-23 in a 1991 fly-off. The production F-22 first flew on 7 September 1997 and entered operational service on 15 December 2005. Rising unit costs and the end of the Cold War threat that justified the programme led Congress to cap production at 195 airframes in 2009, far short of the roughly 750 originally planned. The Raptor's combat debut came in September 2014 with strikes against ISIS targets in Syria, and it has since flown escort and strike-support missions in multiple theatres. In Red Flag training exercises it has posted lopsided simulated kill ratios against fourth-generation fighters, cementing its reputation even as newer F-35 and sixth-generation programmes begin to define the next era of air combat.",
   "specifications": {
@@ -354,6 +355,11 @@
       "date": "2026-07-31",
       "change": "Rewrote the opening of the overview and trimmed the Development and Legacy sections. Facts and sources unchanged.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

@@ -13,6 +13,7 @@
   "role": "Flying-Wing Jet Fighter",
   "tagline": "The Horten Ho 229 was a twin-jet flying-wing fighter designed by Reimar and Walter Horten for the Luftwaffe. Only the V1 glider and the jet-powered V2 flew before the war ended, and the incomplete V3 in the Smithsonian is the only surviving airframe.",
   "status": "Cancelled",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The Ho 229 was built to Hermann Goering's 3 x 1000 requirement: 1,000 kg of bombs, 1,000 km of range and 1,000 km/h of speed.",
@@ -121,6 +122,11 @@
     {
       "date": "2026-10-25",
       "change": "Added the Horten Ho 229, including the V2 crash, the capture of the V3 and what the Smithsonian and Northrop found when they tested the stealth claims. Sources: Smithsonian and Wikipedia.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

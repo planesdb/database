@@ -1,0 +1,349 @@
+{
+  "name": "MiG-15",
+  "fullName": "Mikoyan-Gurevich MiG-15 Fagot",
+  "manufacturer": "Mikoyan-Gurevich",
+  "originCountry": {
+    "name": "Soviet Union",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Swept-wing jet fighter",
+  "tagline": "The MiG-15 is a single-engine, swept-wing jet fighter built by Mikoyan-Gurevich for the Soviet Union and flown from 1949. It was built around a copy of a British Rolls-Royce Nene engine, about 13,130 were made in the Soviet Union and more under licence, and it shocked the West by outclassing the American straight-wing jets over Korea in 1950.",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
+  "inProduction": false,
+  "quickFacts": [
+    "The MiG-15 flew only because Britain sold the Soviet Union Rolls-Royce Nene engines, after Sir Stafford Cripps arranged the deal. Soviet engineers copied the Nene as the Klimov RD-45 and then the VK-1 that powered the MiG-15bis.{{ref:wiki-mig15}}",
+    "On 23rd October 1951, called Black Tuesday, 56 MiG-15bis attacked nine B-29s escorted by F-84Es over North Korea. The Americans lost eight B-29As and two F-84Es for one MiG, and the US Air Force then cancelled daylight B-29 raids over the north.{{ref:wiki-mig15}}",
+    "On 21st September 1953, North Korean pilot No Kum-sok flew his MiG-15 from Sunan to Kimpo in 17 minutes, landed the wrong way and nearly hit an F-86. The US offered US$100,000 under Operation Moolah, and Chuck Yeager flew the aircraft and called it a flying booby trap.{{ref:wiki-mig15}}",
+    "UN pilots recorded 56 spin incidents in the MiG-15, with at least 25 crashes and 10 ejections. The aircraft had no all-flying tail and lost roll control at high Mach, and Soviet pilots were kept below Mach 0.92.{{ref:wiki-mig15}}",
+    "The I-310 prototype first flew on 30th December 1947 and reached 1,042 km/h at 3,000 m. The MiG-15bis entered service in 1950 and the type was still flying as a trainer in North Korea decades later.{{ref:wiki-mig15}}",
+    "In Korea, Soviet pilots claimed 1,097 to 1,106 UN aircraft, while the US Air Force confirms 139 American aircraft lost to MiGs. A RAND study put the F-86 kill ratio at 1.8 to 1 overall and 1.3 to 1 against Soviet pilots.{{ref:wiki-mig15}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the MiG-15bis as given on the National Museum of the US Air Force fact sheet. Other sources vary: empty weight is about 8,115 lb, maximum takeoff weight about 13,460 lb, and Wikipedia gives a 1,005 km/h speed and 15,500 m ceiling. Armament is from the standard MiG-15bis fit. The build total is Soviet production only; at least 4,180 more were built under licence abroad.",
+    "maxSpeed": {
+      "mph": 670,
+      "text": "582 kn (670 mph / 1,078 km/h)"
+    },
+    "cruiseSpeed": "Not published in the sources checked",
+    "range": {
+      "miles": 500,
+      "text": "500 mi (805 km, 434 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 51000,
+      "text": "51,000 ft (15,545 m)"
+    },
+    "wingspan": {
+      "ft": 33.1,
+      "text": "33 ft 1.5 in (10.1 m)"
+    },
+    "length": {
+      "ft": 33.3,
+      "text": "33 ft 3.6 in (10.1 m)"
+    },
+    "height": {
+      "ft": 11.2,
+      "text": "11 ft 2 in (3.4 m)"
+    },
+    "weight": "MTOW: 11,270 lb (5,112 kg)",
+    "engines": "1 x Klimov VK-1 centrifugal-flow turbojet, 6,000 lbf (26.7 kN)",
+    "armament": "1 x 37 mm N-37 cannon (40 rounds) and 2 x 23 mm NR-23 cannon (80 rounds each)",
+    "crew": "1",
+    "capacity": "Not applicable",
+    "firstFlight": {
+      "date": "1947-12-30",
+      "year": 1947
+    },
+    "serviceEntryDate": "1949",
+    "retiredDate": null,
+    "numberBuilt": 13130,
+    "unitCost": {
+      "usd": null,
+      "text": "Not publicly disclosed - Soviet state programme with no published price",
+      "inflationText": null
+    },
+    "combatLosses": "About 659 MiG-15s lost in Korea: 335 Soviet, 224 Chinese and about 100 North Korean"
+  },
+  "variants": [
+    {
+      "code": "MiG-15 (Fagot-A)",
+      "desc": "The first production version, flown from 31st December 1948 and in service in 1949 with the Klimov RD-45 engine. About 1,344 were built in the Soviet Union before the improved bis model replaced it, and it fought in the first jet-versus-jet battles over Korea."
+    },
+    {
+      "code": "MiG-15bis (Fagot-B)",
+      "desc": "The main version, from 1950, with the VK-1 engine at 6,000 lbf and better handling. The Soviet Union built 8,352, and this is the model Black Tuesday and the Korean air war are known for. The aircraft No Kum-sok flew to Kimpo was a bis."
+    },
+    {
+      "code": "MiG-15UTI (Midget)",
+      "desc": "A two-seat trainer, with 3,434 built in the Soviet Union and many more under licence abroad. It served in dozens of air forces, including three examples that survive in Finland, and Yuri Gagarin was killed in one in March 1968."
+    },
+    {
+      "code": "Licence-built versions (S-102, S-103, CS-102, Lim-1, Lim-2, J-2, JJ-2)",
+      "desc": "At least 4,180 were built outside the Soviet Union, including Czechoslovak S-102 (821), S-103 (620) and CS-102 two-seaters (2,012), Polish Lim-1 (227) and Lim-2 (500), and Chinese J-2 fighters and JJ-2 trainers."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet Air Forces",
+      "role": "Primary operator and Korean War combat user",
+      "status": "Retired",
+      "since": "1949",
+      "fleetSize": "About 13,130 built for the Soviet Union",
+      "homeBase": "Soviet Union"
+    },
+    {
+      "name": "People's Liberation Army Air Force",
+      "role": "Korean War and Taiwan Strait operator",
+      "status": "Retired",
+      "since": "1950",
+      "fleetSize": "Many, including licence-built J-2 and JJ-2",
+      "homeBase": "China"
+    },
+    {
+      "name": "Korean People's Air Force",
+      "role": "Korean War operator",
+      "status": "Retired",
+      "since": "1950",
+      "fleetSize": "Not published",
+      "homeBase": "North Korea"
+    },
+    {
+      "name": "Egyptian Air Force",
+      "role": "Suez operator",
+      "status": "Retired",
+      "since": "1955",
+      "fleetSize": "2 squadrons from 1955, 4 by 1956",
+      "homeBase": "Egypt"
+    },
+    {
+      "name": "Czechoslovak Air Force",
+      "role": "Licence producer and operator",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "3,453 S-102, S-103 and CS-102 built",
+      "homeBase": "Czechoslovakia"
+    },
+    {
+      "name": "Polish Air Force",
+      "role": "Licence producer and operator",
+      "status": "Retired",
+      "since": "1950s",
+      "fleetSize": "727 Lim-1 and Lim-2 built",
+      "homeBase": "Poland"
+    },
+    {
+      "name": "United States Air Force",
+      "role": "Test and training",
+      "status": "Retired",
+      "since": "1953",
+      "fleetSize": "A small number for evaluation",
+      "homeBase": "Wright-Patterson Air Force Base - Ohio"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "MG15",
+    "howToFind": "A few MiG-15s still fly in private hands and at air shows, but they rarely show on live trackers. The best chance of seeing one is at the National Museum of the US Air Force near Dayton, Ohio, or at an airshow."
+  },
+  "tags": [
+    "MiG-15",
+    "Fagot",
+    "Mikoyan-Gurevich",
+    "Korean War",
+    "Soviet fighter"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "New entry for the MiG-15, covering the Nene engine deal, Korea, Black Tuesday and the No Kum-sok defection, with specs, operators and survivors.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Changed the status to In Service, as North Korea still flies the type as a trainer.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The MiG-15 is a Soviet swept-wing jet fighter, designed by Artem Mikoyan and Mikhail Gurevich and first flown as the I-310 on 30th December 1947. It entered service in 1949, about 13,130 were built in the Soviet Union plus at least 4,180 under licence abroad, and it was the fighter that ended the American assumption that straight-wing jets could rule Korean skies.{{ref:wiki-mig15}}",
+      "Its engine was British. The Nene sale and the Soviet copy of it are the reason the aircraft appeared years before Western intelligence expected it.{{ref:wiki-mig15}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: A British Engine in a Soviet Airframe",
+        "paragraphs": [
+          "The Soviet jet programme was held back by its engines until Britain sold Rolls-Royce Nene engines, a deal arranged through Sir Stafford Cripps. Soviet engineers copied the Nene as the Klimov RD-45, and later developed it into the VK-1, the 6,000 lbf engine of the MiG-15bis.{{ref:wiki-mig15}}",
+          "The I-310 prototype flew on 30th December 1947 and reached 1,042 km/h at 3,000 m. It had a 35-degree swept wing. The first production aircraft flew on 31st December 1948 and the type entered service in 1949, with the bis version following in 1950.{{ref:wiki-mig15}}"
+        ]
+      },
+      {
+        "heading": "Design & Handling: Fast, Armed and Dangerous to Fly",
+        "paragraphs": [
+          "The MiG-15bis was small and light, with a maximum weight of 11,270 lb, and carried a heavy punch for its size: one 37 mm N-37 cannon with 40 rounds and two 23 mm NR-23 cannon with 80 rounds each. Maximum speed was 670 mph and the ceiling 51,000 ft.{{ref:nmusaf-mig15}}",
+          "The handling was less forgiving. The MiG-15 had no all-flying tail, so pilots lost roll control near the speed of sound, and Soviet pilots were kept below Mach 0.92. Chuck Yeager reached Mach 0.98 in a MiG-15 and lost roll control. The aircraft also had a tendency to spin: UN pilots recorded 56 spin incidents, with at least 25 crashes and 10 ejections.{{ref:wiki-mig15}}"
+        ]
+      },
+      {
+        "heading": "Korea: The Fagot Over MiG Alley",
+        "paragraphs": [
+          "The 50th Fighter Aviation Division joined the war on 1st November 1950, and in its first jet-versus-jet combat an American F-80 was shot down. The Soviets formed the 64th Fighter Aviation Corps that month. On 12th April 1951, 44 MiG-15s attacked B-29s, and on 23rd October 1951, Black Tuesday, 56 MiG-15bis met nine B-29s and the escorts.{{ref:wiki-mig15}}",
+          "The claims differ widely. Soviet pilots claimed 1,097 to 1,106 UN aircraft, while the US Air Force counts 139 American aircraft lost to MiGs. A RAND study put the F-86 ratio at 1.8 to 1 overall and 1.3 to 1 against Soviet pilots, and about 659 MiG-15s were lost: 335 Soviet, 224 Chinese and about 100 North Korean. The top-scoring Soviet pilot, Nikolay Sutyagin, had 22 victories.{{ref:wiki-mig15}}"
+        ]
+      },
+      {
+        "heading": "Defectors and Captured Aircraft",
+        "paragraphs": [
+          "Poland's Franciszek Jarecki flew a MiG-15 to the Danish island of Bornholm on 5th March 1953 and received US$50,000. No Kum-sok followed on 21st September 1953, flying 17 minutes from Sunan to Kimpo. He landed the wrong way and nearly hit an F-86, and US radar was down for maintenance that day. The US had offered US$100,000 in Operation Moolah.{{ref:wiki-mig15}}",
+          "The aircraft went to Okinawa, where Captain H. E. Collins and Major Chuck Yeager flew it. Yeager called it a flying booby trap. It is now at the National Museum of the US Air Force. No Kum-sok became Kenneth Rowe, taught at Embry-Riddle and died on 26th December 2022.{{ref:wiki-mig15}}{{ref:nmusaf-mig15}}"
+        ]
+      },
+      {
+        "heading": "Later Service & Legacy",
+        "paragraphs": [
+          "The MiG-15 fought in the Suez crisis of 1956, where Egypt operated four squadrons, and in the Taiwan Strait in 1958, where an AIM-9 Sidewinder scored its first kill against one. Bulgarian MiGs shot down El Al Flight 402 in 1955. In the end the type was a trainer in many air forces, and North Korea still used it as one.{{ref:wiki-mig15}}",
+          "The two-seat UTI became the standard jet trainer of the Eastern Bloc. Yuri Gagarin was killed flying one in March 1968.{{ref:wiki-mig15}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-mig15",
+      "name": "Mikoyan-Gurevich MiG-15",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15"
+    },
+    {
+      "id": "nmusaf-mig15",
+      "name": "Mikoyan-Gurevich MiG-15bis fact sheet",
+      "publisher": "National Museum of the US Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196115"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Mikoyan-Gurevich MiG-15 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15"
+    },
+    {
+      "name": "MiG-15bis fact sheet, National Museum of the US Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196115"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1953-03-05",
+      "title": "Jarecki defects to Bornholm",
+      "tag": "Defection",
+      "summary": "Polish pilot Franciszek Jarecki flew a MiG-15 to the Danish island of Bornholm and received US$50,000 for the aircraft.",
+      "source": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15"
+    },
+    {
+      "date": "1953-09-21",
+      "title": "No Kum-sok defects to Kimpo",
+      "tag": "Defection",
+      "summary": "North Korean pilot No Kum-sok flew a MiG-15bis from Sunan to Kimpo in 17 minutes and landed the wrong way, nearly hitting an F-86. He received US$100,000 under Operation Moolah.",
+      "source": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15"
+    },
+    {
+      "date": "1951-10-23",
+      "title": "Black Tuesday over North Korea",
+      "tag": "Combat",
+      "summary": "Fifty-six MiG-15bis attacked nine B-29s and their escorts. The US lost eight B-29As and two F-84Es for one MiG, and then stopped daylight B-29 raids over the north.",
+      "source": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15"
+    }
+  ],
+  "survivors": {
+    "intro": "MiG-15s survive in museums worldwide, including the aircraft No Kum-sok flew to South Korea in 1953.",
+    "airframes": [
+      {
+        "serial": "2015357",
+        "name": "Red 2057",
+        "location": "National Museum of the US Air Force",
+        "place": "Dayton, Ohio, United States",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196115",
+        "note": "The MiG-15bis flown by No Kum-sok to Kimpo in 1953.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "1B01420",
+        "name": "Lim-2",
+        "location": "Fleet Air Arm Museum",
+        "place": "Yeovilton, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15",
+        "note": "A Polish-built Lim-2.",
+        "featured": false,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "1B01120",
+        "name": "Lim-2",
+        "location": "RAF Museum Cosford",
+        "place": "Cosford, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15",
+        "note": "A Polish-built Lim-2.",
+        "featured": false,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "613677",
+        "name": "S-103",
+        "location": "National Museum of Flight",
+        "place": "East Fortune, United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15",
+        "note": "A Czechoslovak-built S-103.",
+        "featured": false,
+        "countryCode": "gb",
+        "country": "United Kingdom"
+      },
+      {
+        "serial": "1B01016",
+        "name": "Lim-2 (N15YY)",
+        "location": "Combat Air Museum",
+        "place": "Topeka, Kansas, United States",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15",
+        "note": "A Polish-built Lim-2 with a US civil registration.",
+        "featured": false,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "1B01621",
+        "name": "Lim-2",
+        "location": "Air Zoo",
+        "place": "Kalamazoo, Michigan, United States",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15",
+        "note": "A Polish-built Lim-2.",
+        "featured": false,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "1B00215",
+        "name": "Lim-2",
+        "location": "Swedish Air Force Museum",
+        "place": "Linkoping, Sweden",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15",
+        "note": "A Polish-built Lim-2.",
+        "featured": false,
+        "countryCode": "se",
+        "country": "Sweden"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

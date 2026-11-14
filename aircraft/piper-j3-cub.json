@@ -11,6 +11,7 @@
   "role": "Light Training & Sport Aircraft",
   "tagline": "A two-seat, high-wing, tandem light aircraft built by Piper at Lock Haven, Pennsylvania from 1938 to 1947. It trained most of the American pilots of the Second World War, and its military L-4 Grasshopper version spotted artillery from Normandy to the Rhine.",
   "status": "In Service",
+  "condition": "Operational - Private",
   "inProduction": false,
   "quickFacts": [
     "About 75 percent of the 435,165 graduates of the Civilian Pilot Training Program learned to fly in Cubs, and by the end of the war about 80 percent of U.S. military pilots had their first lessons in one",
@@ -157,6 +158,11 @@
     {
       "date": "2026-11-06",
       "change": "Added the Piper J-3 Cub - history, specs, variants, operators, the wartime L-4 story and the accident record. Sources: Wikipedia and period production figures.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

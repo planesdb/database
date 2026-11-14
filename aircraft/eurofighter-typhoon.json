@@ -13,6 +13,7 @@
   "role": "Multirole / Swing-Role Combat Aircraft",
   "tagline": "The world's most advanced swing-role combat aircraft. Built by a European consortium of Airbus, BAE Systems and Leonardo, it pairs a CAPTOR-E AESA radar and lightweight carbon-fibre composite construction with the ability to shift between air-to-air and air-to-surface roles within the same mission.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "The Eurofighter project was initiated to create a highly agile fighter for European partner nations, culminating in the first flight of the Development Aircraft 1 (DA1) in 1994, piloted by test pilot Peter Weger. The aircraft formally entered operational service in 2003. Over its operational life, it has transitioned from a pure air superiority fighter to a swing-role combat system through continuous modernization packages, including the Phase 3 Enhancement (P3E) program and integration of advanced precision weapons like Storm Shadow and Brimstone. In early 2026, the Eurofighter fleet reached a historic milestone by passing one million flying hours across its operators. The platform continues to evolve, with future developments such as the electronic combat variant (Eurofighter EK) for Germany and ECRS Mk2 radar integrations ensuring it remains at the forefront of combat aviation well into the 2030s.",
   "specifications": {
@@ -412,6 +413,11 @@
     {
       "date": "2026-11-02",
       "change": "Updated cost of plane statistic",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

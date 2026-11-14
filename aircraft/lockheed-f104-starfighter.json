@@ -13,6 +13,7 @@
   "role": "Interceptor & Fighter-Bomber",
   "tagline": "The Lockheed F-104 Starfighter is a single-seat, single-engine Mach 2 fighter designed by Kelly Johnson's Skunk Works, and the first aircraft to hold the world speed, altitude and time-to-climb records at the same time. 2,578 were built, most of them under licence for NATO air forces, and its accident record in West Germany became a national scandal.",
   "status": "Retired",
+  "condition": "Airworthy - Test & Training",
   "inProduction": false,
   "quickFacts": [
     "On 14 December 1959 Capt. Joe Jordan took an F-104C to 103,389 ft, the first aircraft to climb past 100,000 ft under its own power.",
@@ -319,6 +320,16 @@
     {
       "date": "2026-10-04",
       "change": "Added the F-104 Starfighter - records, NATO and Asian service, the German losses, variants, the full list of air forces and a selection of survivors.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Set the condition to Airworthy - Test & Training, as the type is officially retired but Starfighters Space still flies the type for test and research support.",
       "author": "planesdb"
     }
   ],

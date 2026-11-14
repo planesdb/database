@@ -13,6 +13,7 @@
   "role": "Light Multirole Fighter",
   "tagline": "India's indigenously developed light fighter and the aircraft finally replacing its long-serving MiG-21 fleet. A tailless compound-delta design with quadruplex digital fly-by-wire controls, it represents India's most ambitious indigenous combat aircraft program to date.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "The Light Combat Aircraft program that produced the Tejas was launched in 1983 specifically to replace India's MiG-21 fleet, but the project suffered decades of delay from the technical difficulty of mastering fly-by-wire flight control software, sanctions-related setbacks following India's 1998 nuclear tests that temporarily cut off access to Western avionics and engine technology, and the sheer scale of building a fully indigenous fighter development ecosystem largely from scratch. The aircraft, named 'Tejas' (Sanskrit for 'radiance' or 'brilliance') by then-Prime Minister Atal Bihari Vajpayee, first flew in January 2001 and finally achieved Initial Operational Clearance in 2011 and Final Operational Clearance in 2019, entering frontline Indian Air Force squadron service with No. 45 Squadron ('Flying Daggers') and No. 18 Squadron ('Flying Bullets'). The improved Tejas Mk1A standard, incorporating an active electronically scanned array radar, aerial refuelling capability and reduced maintenance requirements, began deliveries in 2024 following a large Indian Air Force order for 83 aircraft (later expanded), with HAL working to scale up production to meet a demanding delivery schedule amid engine-supply delays from US partner GE Aerospace. A more capable Tejas Mk2, stretched and re-engined with the more powerful GE F414 engine, is in advanced development as a heavier, longer-range successor. The Tejas program has also drawn export interest from several countries in Southeast Asia, Latin America and Africa evaluating it as an affordable alternative to more expensive Western and Russian fighters.",
   "specifications": {
@@ -255,6 +256,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

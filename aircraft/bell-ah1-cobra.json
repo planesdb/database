@@ -12,7 +12,8 @@
   ],
   "role": "Attack Helicopter",
   "tagline": "The Bell AH-1 Cobra is a two-seat attack helicopter built by Bell for the U.S. Army and the first dedicated attack helicopter to enter large-scale service. It reached Vietnam in 1967, where Cobras flew more than a million operational hours.",
-  "status": "Retired",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "The Cobra was developed from the UH-1 Huey and reused about 80 percent of its parts, including the engine, transmission and rotor system.",
@@ -59,7 +60,7 @@
       "year": 1965
     },
     "serviceEntryDate": "1967-08-30",
-    "retiredDate": "2020",
+    "retiredDate": null,
     "numberBuilt": 1116,
     "unitCost": {
       "usd": null,
@@ -149,6 +150,16 @@
     {
       "date": "2026-10-18",
       "change": "New entry for the Bell AH-1 Cobra, covering its Huey origins, the Vietnam record, the main variants and operators, and the two preserved aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Changed the status to In Service, as several air forces including Taiwan, South Korea, Japan, Jordan and Bahrain still fly the type.",
       "author": "planesdb"
     }
   ],

@@ -14,6 +14,7 @@
   "role": "Stealth Reconnaissance Drone",
   "tagline": "The RQ-170 Sentinel is a stealthy, tailless flying-wing reconnaissance drone built by Lockheed Martin's Skunk Works for the U.S. Air Force. Known as the 'Beast of Kandahar' after it was first photographed in Afghanistan, it watched over the 2011 bin Laden raid, lost one airframe intact to Iran the same year, and took part in the January 2026 operation that captured Nicolás Maduro.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "Its nickname, the 'Beast of Kandahar', was coined by aviation journalist Bill Sweetman after the aircraft was photographed at Kandahar Airfield in Afghanistan.",
@@ -108,6 +109,11 @@
     {
       "date": "2026-09-22",
       "change": "Added the Lockheed Martin RQ-170 Sentinel - history, specs, variants and accident record. Sources: Wikipedia, a declassified US Air Force fact sheet, and reporting by Air & Space Forces Magazine, The War Zone and Defense One.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -11,6 +11,7 @@
   "role": "Hypersonic Research Aircraft",
   "tagline": "The North American X-15 was a rocket-powered research aircraft flown by NASA, the US Air Force and the US Navy to study piloted flight at hypersonic speeds. It still holds the speed record for a crewed, powered aircraft at 4,520 mph (Mach 6.7) and reached 354,200 ft, 67 miles above the ground.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "William 'Pete' Knight flew the X-15A-2 to 4,520 mph (Mach 6.7) on 3 October 1967, and no crewed, powered aircraft has flown faster since.",
@@ -129,6 +130,11 @@
     {
       "date": "2026-10-08",
       "change": "Added the North American X-15 - history, specs, variants, operators, survivors and the accident record. Sources: NASA, Wikipedia, The Aviationist and This Day in Aviation.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

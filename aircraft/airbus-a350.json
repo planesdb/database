@@ -11,6 +11,7 @@
   "role": "Long-Range Wide-Body Airliner",
   "tagline": "A twin-engine long-range airliner and the first Airbus built largely from carbon-fibre composites, launched as a clean-sheet answer to the Boeing 787 after an A330 derivative failed to convince the airlines. It entered service with Qatar Airways in January 2015 and 734 had been delivered by August 2026, with no fatalities and a single hull loss in a runway collision.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": true,
   "quickFacts": [
     "The name XWB stands for Xtra-Wide-Body, adopted in 2006 when Airbus abandoned the A330-based design and widened the fuselage to take nine economy seats abreast",
@@ -249,6 +250,11 @@
     {
       "date": "2026-09-16",
       "change": "Added the Airbus A350, with history, specs, variants, operators and accident record. Sources: Airbus published data and facts-and-figures documents, the EASA type certificate data sheet, and contemporary reporting on the Haneda accident, the Trent XWB directive and the Qatar Airways dispute.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

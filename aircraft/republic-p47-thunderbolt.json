@@ -13,6 +13,7 @@
   "role": "Single-seat fighter and fighter-bomber",
   "tagline": "The Republic P-47 Thunderbolt is a single-seat fighter built for the U.S. Army Air Forces, and the heaviest single-engine piston fighter of the Second World War. Its size follows from one decision: the turbosupercharger and its ducting were placed in the rear fuselage, which dictated the airframe around them. Outclassed as a high-altitude escort by the P-51 Mustang, it became the USAAF's principal fighter-bomber, where its weight and air-cooled radial were assets rather than penalties.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "The General Electric turbosupercharger and its ducting filled roughly half the P-47's internal fuselage volume, which is the direct reason the aircraft grew to 17,500 lb at maximum takeoff weight - the heaviest single-engine piston fighter of the war.",
@@ -257,6 +258,11 @@
     {
       "date": "2026-10-04",
       "change": "Updated cruise speed stat based on additional research.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

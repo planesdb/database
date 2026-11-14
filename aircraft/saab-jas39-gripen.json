@@ -13,6 +13,7 @@
   "role": "Light Multirole Fighter",
   "tagline": "The Saab JAS 39 Gripen is a single-engine, canard-delta light multirole fighter built by Saab for the Swedish Air Force. Designed to fly from short snow-covered strips and turn around in ten minutes, it is flown by six countries, Colombia has ordered 17, and Ukraine signed a letter of intent for up to 150 in 2025.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "Saab's fact sheet gives the Gripen C a minimum takeoff run of 400 m and a landing run of 500 m, with a ten-minute air-to-air turnaround and a full engine replacement in one hour.",
@@ -148,6 +149,11 @@
     {
       "date": "2026-10-14",
       "change": "Added the Saab Gripen - history, the C/D and E versions, operators and orders including Colombia and the Ukraine letter of intent, and the accident record.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

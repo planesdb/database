@@ -8,6 +8,7 @@
   "role": "Outsize Strategic Freighter",
   "tagline": "The Antonov An-225 Mriya was a six-engine strategic freighter built in the Soviet Union to carry the Buran space shuttle, and the largest and heaviest aircraft ever flown. Only one was completed; it spent a second career hauling commercial outsize cargo for Antonov Airlines before being destroyed on the ground at Hostomel in February 2022.",
   "status": "Retired",
+  "condition": "Destroyed - Combat",
   "inProduction": false,
   "quickFacts": [
     "Mriya means 'dream' in Ukrainian - the name was given to the aircraft after the collapse of the Soviet Union.",
@@ -62,7 +63,8 @@
   },
   "lastUpdated": "2026-09-08",
   "changelog": [
-    { "date": "2026-09-08", "change": "Added the Antonov An-225 Mriya, with history, specs, variants and records. Sources: Antonov, Wikipedia, NATO, Ukrinform and named aviation-press sources.", "author": "planesdb" }
+    { "date": "2026-09-08", "change": "Added the Antonov An-225 Mriya, with history, specs, variants and records. Sources: Antonov, Wikipedia, NATO, Ukrinform and named aviation-press sources.", "author": "planesdb" },
+    { "date": "2026-11-14", "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.", "author": "planesdb" }
   ],
   "tags": ["an-225", "an225", "mriya", "antonov", "cossack", "largest aircraft", "outsize cargo", "buran", "ur-82060", "hostomel", "civilian"],
   "article": {

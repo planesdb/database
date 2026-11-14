@@ -12,7 +12,8 @@
   ],
   "role": "Fighter-Bomber / Interceptor",
   "tagline": "5,195 built - the West's definitive Cold War fighter. Originally a gun-less US Navy fleet interceptor, it proved so capable that the US Air Force adopted it too, and it went on to fly fighter, bomber and reconnaissance missions for 11 nations, including the RAF and Royal Navy.",
-  "status": "Retired",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "First flown on 27 May 1958, the Phantom set 16 world records - including a 1,606 mph absolute speed record and a zoom climb to over 98,000 ft ('Operation Top Flight') - before dominating US procurement in the 1960s. In Vietnam it was the principal US air-superiority and strike aircraft, and hard lessons about missile reliability and the lack of an internal gun (fixed in the F-4E) reshaped Western fighter design and created Top Gun and Red Flag. Britain operated Rolls-Royce Spey-engined Phantoms from 1968 to 1992, including for Falklands-era air defence of the islands from 1982. The USAF retired its last QF-4 target drones in 2016, while Greece, Türkiye and Iran still fly small upgraded fleets today.",
   "quickFacts": [
@@ -60,7 +61,7 @@
       "year": 1958
     },
     "serviceEntryDate": "1960-12-30",
-    "retiredDate": "2016 (US, as QF-4 drones); 1992 (RAF)",
+    "retiredDate": null,
     "numberBuilt": 5195,
     "unitCost": {
       "usd": 2400000,
@@ -357,6 +358,16 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators - eleven rows with real delivered figures and retirement dates for every major operator, in place of three lumped rows showing 0. Added two missing sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Changed the status to In Service, as Turkey and Iran still fly the type.",
       "author": "planesdb"
     }
   ],

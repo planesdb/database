@@ -13,6 +13,7 @@
   "role": "STOVL Stealth Multirole Fighter",
   "tagline": "The world's first operational supersonic short takeoff and vertical landing stealth fighter. Its shaft-driven LiftFan system lets the US Marine Corps, UK Royal Air Force and Royal Navy, and Italian Armed Forces fly it from amphibious assault ships, small carriers and frontline austere bases.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "Developed out of the Joint Strike Fighter (JSF) program that began in the 1990s, the X-35 prototype successfully demonstrated the innovative shaft-driven lift fan system designed by Lockheed Martin and built by Rolls-Royce. The production-representative F-35B (designated BF-1) made its first flight on June 11, 2008. The U.S. Marine Corps declared Initial Operational Capability (IOC) for the F-35B on July 31, 2015, marking the first of any F-35 variant to enter active operational service. The variant has since seen combat operations with the US Marine Corps and the UK Royal Air Force over the Middle East. Ongoing modernization packages like Block 4 continue to upgrade its sensors and weapons capacities.",
   "specifications": {
@@ -332,6 +333,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

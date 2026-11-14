@@ -13,6 +13,7 @@
   "role": "Parasite Escort Fighter",
   "tagline": "The McDonnell XF-85 Goblin is a single-seat jet fighter built to ride inside a B-36 bomber, be lowered on a trapeze to meet attackers and be hooked back on afterward. Two prototypes flew for a total of 2 hours 19 minutes in 1948 and 1949, and the programme was cancelled on 24 October 1949.",
   "status": "Cancelled",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The two Goblins flew for a total of 2 hours 19 minutes, and Edwin Schoch was the only pilot to fly either.",
@@ -108,6 +109,11 @@
     {
       "date": "2026-10-18",
       "change": "New entry for the McDonnell XF-85 Goblin, covering the B-36 parasite fighter idea, the hook-up trials with Ed Schoch and the two surviving aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

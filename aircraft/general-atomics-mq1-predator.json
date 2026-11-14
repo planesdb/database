@@ -14,6 +14,7 @@
   "role": "MALE Reconnaissance & Strike Drone",
   "tagline": "The General Atomics MQ-1 Predator is a single-engine, propeller-driven medium-altitude long-endurance remotely piloted aircraft built for the U.S. Air Force and the CIA. It entered service in 1995 as the unarmed RQ-1 reconnaissance system and was armed with two AGM-114 Hellfire missiles in 2001, making it the first armed drone in routine operational use. The Air Force retired it in March 2018 in favour of the larger MQ-9 Reaper.",
   "status": "Retired",
+  "condition": "Airworthy - Test & Training",
   "inProduction": false,
   "quickFacts": [
     "The Air Force quoted the Predator at $20 million in fiscal 2009 dollars, but that was the price of a complete system - four aircraft plus a ground control station - not of a single airframe.",
@@ -135,6 +136,16 @@
     {
       "date": "2026-09-05",
       "change": "New entry for the General Atomics MQ-1 Predator - history, specs, variants, accident record and preserved aircraft. Sources: the U.S. Air Force fact sheet, an Air Force Historical Research Agency study, a 2009 DoD Selected Acquisition Report, Smithsonian NASM and IWM collection records, General Atomics releases and named defence press reporting.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Set the condition to Airworthy - Test & Training, as the type is officially retired but the US Navy still flies a small fleet for test and training work.",
       "author": "planesdb"
     }
   ],

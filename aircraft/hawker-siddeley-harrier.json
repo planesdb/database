@@ -13,6 +13,7 @@
   "role": "V/STOL Ground-Attack Fighter",
   "tagline": "The world's first operational vertical take-off 'jump jet'. Built around the Rolls-Royce Pegasus engine and its four rotating exhaust nozzles, it can hover, fly backwards and, in combat, vector its nozzles in forward flight to force a pursuing fighter to overshoot.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "history": "The Harrier began as the private-venture Hawker P.1127, whose first tethered hover in October 1960 owed everything to the Bristol Pegasus vectored-thrust engine concept funded in part by the US. Via the tri-national Kestrel evaluation squadron, it became the Harrier GR1, entering RAF service on 1 April 1969 - the first V/STOL combat jet in the world to reach operational service. A month later a GR1 flown by Sqn Ldr Tom Lecky-Thompson won the Daily Mail Transatlantic Air Race, flying from a coal yard near London's St Pancras station to a Manhattan pier in 6 hours 11 minutes.\n\nThe Falklands War of 1982 made the aircraft legendary: 28 Royal Navy Sea Harriers and 14 RAF GR3s, flying from the carriers Hermes and Invincible in appalling South Atlantic weather, destroyed 20 Argentine aircraft in air-to-air combat without a single air-to-air loss, the Sea Harrier's AIM-9L Sidewinders and the pilots' training proving decisive against faster Mirages and Daggers. Six Harriers were nevertheless lost to ground fire and accidents, and the requisitioned container ship Atlantic Conveyor was sunk carrying the force's spare Chinooks and tents.\n\nSecond-generation Harrier IIs - the RAF GR5/GR7/GR9 and USMC AV-8B - doubled the payload and modernised the cockpit, flying from Kandahar in support of coalition troops in Afghanistan from 2004 to 2009. The 2010 Strategic Defence and Security Review retired the entire British force with brutal speed - the final flypast came that December - and 72 airframes were sold to the US Marine Corps as spares for around £116 million, a deal still argued about in Parliament. The USMC, Spain and Italy flew the AV-8B into the 2020s, with the Marines' last Harrier squadrons converting to the F-35B - the aircraft that inherited the Harrier's mission and much of its engineering DNA.",
   "specifications": {
@@ -313,6 +314,11 @@
       "date": "2026-07-31",
       "change": "Cut some padding from the article sections. Facts and sources unchanged.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

@@ -13,6 +13,7 @@
   "role": "Multirole Fighter / Maritime Strike Fighter",
   "tagline": "Japan's F-16-derived multirole fighter, built for maritime strike. Larger and more composite-intensive than the F-16 it is based on, with an indigenously developed AESA radar, it was purpose-built for anti-ship and air-defense missions around the Japanese home islands.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "The F-2 traces back to Japan's late-1980s plan to develop a successor to its aging F-1 support fighters, initially as a purely domestic design. Diplomatic pressure from Washington, sharpened by trade tensions including the Toshiba-Kongsberg technology-transfer scandal, pushed Japan into a bilateral program instead: a November 1988 memorandum brought General Dynamics (later Lockheed Martin) in as a partner, contributing F-16 technology and up to 45 percent of development work, with program costs split roughly 60/40 between Japan and the United States. The resulting aircraft, though visibly related to the F-16, was extensively reworked - more than 95 percent of the F-16's engineering drawings were changed, with a 25-percent-larger wing built from co-cured graphite-epoxy composite (a first for a tactical fighter), a longer fuselage, wider nose, three-piece bird-strike-resistant canopy and ten weapons stations against the F-16's six. It was also the first operational fighter in the world to fly with an AESA radar, Japan's indigenously developed J/APG-1. The prototype first flew on 7 October 1995, but structural problems discovered during testing delayed service entry to 2000, and cost growth - the unit price ran to roughly four times that of a contemporary Block 50/52 F-16 - led Japan to cut its planned buy from 141 aircraft to 98, including four prototypes, before production ended in 2011. In service, the F-2 has flown air-defense scramble missions against Russian and Chinese aircraft approaching Japanese airspace and forms a core part of Japan's anti-ship strike capability. The type suffered a serious blow in the March 2011 Tohoku earthquake and tsunami, when floodwater damaged 18 F-2Bs at Matsushima Air Base, five of which were subsequently written off. With production over and the airframe aging, Japan is now developing its successor through the trilateral Global Combat Air Programme (GCAP) with the United Kingdom and Italy, targeting a combat debut around 2035.",
   "specifications": {
@@ -254,6 +255,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

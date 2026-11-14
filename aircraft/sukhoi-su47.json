@@ -13,6 +13,7 @@
   "role": "Forward-Swept Wing Technology Demonstrator",
   "tagline": "The Sukhoi Su-47 Berkut is a Russian experimental fighter built to fly a forward-swept wing at fighter speeds and sizes. Exactly one was built, it first flew on 25 September 1997, and it never entered production - but its composite wing and its internal weapons bay went on to shape the Su-57.",
   "status": "Cancelled",
+  "condition": "Stored",
   "inProduction": false,
   "quickFacts": [
     "Only one was ever built, and Sukhoi largely paid for it: state funding stopped when the Soviet Union collapsed and the design bureau carried the programme itself.",
@@ -108,6 +109,11 @@
     {
       "date": "2026-09-12",
       "change": "Added the Sukhoi Su-47 Berkut - specs, variants and programme history. Sources: Wikipedia, Airforce Technology, Army Recognition, The Aviationist, The National Interest and MiGFlug.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

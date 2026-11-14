@@ -13,6 +13,7 @@
   "role": "Long-Range Strategic Bomber",
   "tagline": "The 'BUFF' - in service for over 70 years and counting. Nicknamed for 'Big Ugly Fat Fellow' by its crews, it is expected, after re-engining as the B-52J, to remain in frontline service into the 2050s - an operational lifespan unmatched by any other combat aircraft in history.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "Boeing designed the B-52 in the late 1940s to meet a USAF requirement for an intercontinental jet bomber, and the type first flew on 15 April 1952. Entering service in February 1955, the B-52 became the primary manned-bomber leg of the US nuclear triad throughout the Cold War, dropped the first US airborne thermonuclear weapon in a 1956 test, and flew thousands of Arc Light bombing sorties over Vietnam. Successive B-52B through B-52H models refined engines, avionics and defensive systems, with the final B-52H rolling off the line in 1962 - meaning every B-52 flying today is well over 60 years old. The type has seen sustained combat use in Vietnam, the 1991 Gulf War, the Balkans, Afghanistan and Iraq, and it continues to serve as a conventional and stand-off missile platform today. A major re-engining and radar upgrade programme, redesignating surviving aircraft as the B-52J, is intended to keep the airframe flying for a full century of service.\n\nThe B-52's story is now officially a century-long one: the B-52J program is fitting the 76-strong fleet with new Rolls-Royce F130 engines and upgraded radars intended to keep it in service into the 2050s and beyond - meaning aircraft built when Eisenhower was president will likely fly combat missions a hundred years after the type's 1952 first flight, flown by crews whose grandparents weren't born when their bomber rolled off the line.",
   "specifications": {
@@ -393,6 +394,11 @@
       "date": "2026-07-31",
       "change": "Fixed the main photo credit - it now correctly credits SrA Zeeshan Naeem (via DVIDS).",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

@@ -13,6 +13,7 @@
   "role": "Heavy Transport & Aerial Refuelling Tanker",
   "tagline": "The Boeing C-97 Stratofreighter is an American four-engine heavy transport developed from the B-29 Superfortress and B-50, with a second fuselage lobe added on top of the bomber's fuselage. The XC-97 first flew on 9 November 1944, and 77 transports and 811 KC-97 tankers followed for the US Air Force, which flew them until the 1970s.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "It reused the B-29's wings, tail and engine layout and added a second fuselage lobe on top, which gave the cabin its double-bubble cross-section.",
@@ -156,6 +157,11 @@
     {
       "date": "2026-11-01",
       "change": "Added the history of the Angel of Deliverance and the 1957 Hilo emergency landing, and corrected the survivors paragraph.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -13,6 +13,7 @@
   "role": "WWII Long-Range Escort Fighter",
   "tagline": "The Merlin-engined fighter that finally let Allied bombers fly all the way to Berlin and back with protection. Originally built to a British specification with an underpowered Allison engine, it was transformed by the Rolls-Royce Merlin into an aircraft with the range and speed to break the back of the Luftwaffe's fighter force in early 1944.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "Designed in just 102 days in 1940 at the request of the British Purchasing Commission, the original Allison-engined NA-73X performed well at low altitude but was a disappointment above 15,000 ft, where most air combat over Europe took place. Test pilot Ronald Harker of Rolls-Royce flew a Mustang in April 1942 and recommended replacing the Allison with the two-stage supercharged Merlin 61; the resulting P-51B/C transformed the aircraft's high-altitude performance, and when combined with drop tanks giving a combat radius of over 750 miles, the definitive bubble-canopy P-51D of 1944 could finally escort Eighth Air Force B-17s and B-24s on the deepest raids into Germany. Its arrival over Berlin for the first time on 6 March 1944 stunned the Luftwaffe, and the ensuing months of attrition against German fighters - forced up to defend the bombers and shot down by escorting Mustangs in growing numbers - critically weakened the Luftwaffe's fighter arm before D-Day. Some 15,875 Mustangs were built by war's end; the type went on to serve in the Korean War as a ground-attack aircraft and remained in reserve and foreign air force service into the 1980s in some countries. It remains one of the most popular warbirds on the airshow circuit today, with several hundred still airworthy.",
   "specifications": {
@@ -277,6 +278,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

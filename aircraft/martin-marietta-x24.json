@@ -11,6 +11,7 @@
   "role": "Rocket-Powered Lifting Body Research Aircraft",
   "tagline": "The Martin Marietta X-24 is an American single-seat, rocket-powered lifting body research aircraft flown by the U.S. Air Force and NASA from 1969 to 1975. One airframe flew as the teardrop-shaped X-24A and was rebuilt as the flat-bottomed X-24B, which reached 1,164 mph and made two landings on the main concrete runway at Edwards.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The same airframe flew as two different shapes: the teardrop X-24A and, after a rebuild, the 'flying flatiron' X-24B.",
@@ -137,6 +138,11 @@
     {
       "date": "2026-09-28",
       "change": "Martin Marietta X-24 added - history, specs, variants, operators and accident record. Sources: NASA, the National Museum of the U.S. Air Force, Wikipedia and The High Frontier.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

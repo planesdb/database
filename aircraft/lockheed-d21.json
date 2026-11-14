@@ -14,6 +14,7 @@
   "role": "Mach 3 Reconnaissance Drone",
   "tagline": "The Lockheed D-21 is a Mach 3 reconnaissance drone designed to fly one way: over the target, then eject its camera hatch and destroy itself. Thirty-eight were built, and the four that flew operational missions over China between 1969 and 1971 returned no usable photographs.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The designations were literal: 'D' for daughter and 'M' for mother, the drone riding piggyback on a modified A-12 renamed the M-21.",
@@ -109,6 +110,11 @@
     {
       "date": "2026-09-11",
       "change": "Lockheed D-21 added - specs, variants, survivors and mission history. Sources: the National Museum of the USAF fact sheet, the Museum of Flight, the Directory of U.S. Military Rockets and Missiles, C4ISRNET and NASA's incident record.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

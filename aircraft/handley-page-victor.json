@@ -13,6 +13,7 @@
   "role": "Strategic Bomber and Aerial Tanker",
   "tagline": "The Handley Page Victor is a four-jet strategic bomber built for the Royal Air Force, and the third and last of the V-bombers. It first flew on 24 December 1952, 86 were built, and after its bomber career it served as a tanker until 15 October 1993.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "On 1 June 1956 Victor XA917 flew at Mach 1.1, making it the largest aircraft to break the sound barrier at that time.",
@@ -108,6 +109,11 @@
     {
       "date": "2026-10-18",
       "change": "Added the Handley Page Victor - the crescent wing, the nuclear and tanker careers, Black Buck, and the four preserved aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

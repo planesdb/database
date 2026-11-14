@@ -1,0 +1,387 @@
+{
+  "name": "Su-25",
+  "fullName": "Sukhoi Su-25 Frogfoot",
+  "manufacturer": "Sukhoi",
+  "originCountry": {
+    "name": "Russia",
+    "code": "ru"
+  },
+  "category": "military",
+  "categories": [],
+  "role": "Armoured close air support and ground attack aircraft",
+  "tagline": "The Sukhoi Su-25 is a single-seat, twin-engine, subsonic attack aircraft built around an armoured titanium cockpit. Called Grach (rook) by Soviet crews and Frogfoot by NATO, it first flew on 22nd February 1975, entered series production at Tbilisi in 1978 and has been in combat since 1981 in Afghanistan, Iraq, Chechnya, Georgia and Ukraine.",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
+  "inProduction": false,
+  "quickFacts": [
+    "The Soviet Ministry of Defence decided in early 1968 to develop a specialised armoured close-support aircraft. Sukhoi's T-8 beat the Ilyushin Il-102 in a competition launched in March 1969, and series production began in 1978 at Factory No. 31 in Tbilisi, Georgia.{{ref:wiki-su25}}",
+    "The first Su-25 combat deployment was on 19th July 1981, when the 200th Independent Attack Squadron moved to Shindand Airbase in Afghanistan.{{ref:wiki-su25}}",
+    "Su-25s flew about 60,000 sorties in Afghanistan, an average of 360 sorties per aircraft per year, and fired 139 guided missiles. 21 to 23 aircraft were lost in combat.{{ref:wiki-su25}}",
+    "Colonel Alexander Rutskoy was shot down twice in Afghanistan, on 6th April 1986 and in August 1988, the second time by a Pakistan Air Force F-16 according to most accounts. He later became vice president of Russia.{{ref:rutskoy}}{{ref:natint}}",
+    "On 6th February 1991 two Iraqi Su-25s were shot down by F-15Cs, the only air combat of the type for Iraq in the Gulf War. Seven others had fled to Iran on 25th January 1991.{{ref:wiki-su25}}",
+    "As of 24th October 2025, Russia had visually confirmed at least 40 Su-25s lost in Ukraine, 38 of them destroyed and two damaged.{{ref:wiki-su25}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the base Su-25 from the Wikipedia page. The page lists the R-95Sh engine in its text but gives the R-195 (44.18 kN each) in the specifications. The infobox gives 1978 to 2017 for production, but the lead says production in Georgia ended in 2010. Production totals are over 1,000, of which 582 single-seat Su-25s were built in Georgia between 1978 and 1989, not counting the Su-25K export version.",
+    "maxSpeed": {
+      "mph": 606,
+      "text": "527 kn (606 mph / 975 km/h) at sea level"
+    },
+    "cruiseSpeed": "Not published in the sources checked",
+    "range": {
+      "miles": 621,
+      "text": "621 mi (1,000 km) at altitude; combat range 466 mi (750 km) at sea level with 4,400 kg of ordnance and two external tanks"
+    },
+    "serviceCeiling": {
+      "ft": 22966,
+      "text": "22,966 ft (7,000 m)"
+    },
+    "wingspan": {
+      "ft": 47.08,
+      "text": "47 ft 1 in (14.36 m)"
+    },
+    "length": {
+      "ft": 50.92,
+      "text": "50 ft 11 in (15.53 m), including the nose probe"
+    },
+    "height": {
+      "ft": 15.75,
+      "text": "15 ft 9 in (4.80 m)"
+    },
+    "weight": "empty: 21,605 lb (9,800 kg); MTOW: 42,549 lb (19,300 kg)",
+    "engines": "2 x R-195 non-afterburning turbojets, 9,930 lbf (44.18 kN) each",
+    "armament": "1 x 30 mm GSh-30-2 cannon (250 rounds); 11 hardpoints for up to 4,000 kg of rockets, missiles and bombs; optional SPPU-22 pods with 2 x 23 mm GSh-23",
+    "crew": "1",
+    "capacity": "None",
+    "firstFlight": {
+      "date": "1975-02-22",
+      "year": 1975
+    },
+    "serviceEntryDate": "1981",
+    "numberBuilt": 1000,
+    "unitCost": {
+      "usd": null,
+      "text": "Reported: about US$11 million (1990s export estimate, unconfirmed)",
+      "inflationText": "Reported as about US$11 million in a 1990s export estimate; Flight International quoted a Su-25TM fly-away price of 50 million roubles ($8.3 million) for the Russian air force in 1998"
+    },
+    "combatLosses": "21 to 23 lost in combat in Afghanistan, up to nine more destroyed on the ground; at least 40 Russian losses confirmed in Ukraine to 24th October 2025",
+    "retiredDate": null
+  },
+  "variants": [
+    {
+      "code": "Su-25 and Su-25K",
+      "desc": "The base single-seat Su-25 was built in Georgia, with 582 made between 1978 and 1989, and the Su-25K export version added 180 built from 1984 to 1989 at Tbilisi. Iraq received its first in 1987."
+    },
+    {
+      "code": "Su-25UB and Su-25UBK",
+      "desc": "The two-seat trainer, with a prototype rolled out in July 1985 and a first flight on 12th August 1985 at Ulan-Ude. 25 were built by the end of 1986. The Su-25UBK was the export trainer, built at Ulan-Ude from 1986 to 1989. A private-initiative trainer, the Su-28, had no cannon or hardpoints."
+    },
+    {
+      "code": "Su-25T and Su-25TM (Su-39)",
+      "desc": "The Su-25T was the antitank version, with three prototypes built from 1983 to 1986 and eight production aircraft in 1990. The programme was cancelled in 2000. The Su-25TM, or Su-39, was the second-generation Su-25T, and the Russian Air Force received eight by 2008."
+    },
+    {
+      "code": "Su-25SM and Su-25SM3",
+      "desc": "The affordable upgrade conceived in 2000, with over 80 aircraft upgraded between 2005 and 2015. The Su-25SM3 has been delivered since 2018, with 25 delivered by June 2019. It carries the SOLT-25 electro-optics nose and the Vitebsk-25 protection suite."
+    },
+    {
+      "code": "Su-25BM, Su-25UTG and Su-25KM Scorpion",
+      "desc": "The Su-25BM is the target-towing variant, whose prototype first flew on 22nd March 1990 at Tbilisi. The Su-25UTG is a carrier-training variant with about 10 built. The Su-25KM Scorpion was an upgrade done with Elbit Systems of Israel, and it first flew on 18th April 2001 at Tbilisi."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Soviet Air Forces",
+      "role": "Close air support",
+      "status": "Retired",
+      "since": "1981",
+      "fleetSize": "Not published; nearly 50 deployed at peak in Afghanistan",
+      "homeBase": "Soviet Union"
+    },
+    {
+      "name": "Russian Aerospace Forces",
+      "role": "Close air support",
+      "status": "In Service",
+      "since": "1991",
+      "fleetSize": "Not published; at least 40 losses confirmed in Ukraine to 24th October 2025",
+      "homeBase": "Russia"
+    },
+    {
+      "name": "Ukrainian Air Force",
+      "role": "Close air support",
+      "status": "In Service",
+      "since": "1991",
+      "fleetSize": "Not published; several lost from the 299th Tactical Aviation Brigade in February to May 2022",
+      "homeBase": "Ukraine"
+    },
+    {
+      "name": "Iraqi Air Force",
+      "role": "Close air support",
+      "status": "In Service",
+      "since": "1987",
+      "fleetSize": "Not published; 7 fled to Iran in January 1991",
+      "homeBase": "Iraq"
+    },
+    {
+      "name": "IRGC Air Force",
+      "role": "Close air support",
+      "status": "In Service",
+      "since": "2014",
+      "fleetSize": "7 received on 1st July 2014",
+      "homeBase": "Iran"
+    },
+    {
+      "name": "Korean People's Army Air Force",
+      "role": "Close air support",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "North Korea"
+    },
+    {
+      "name": "Peruvian Air Force",
+      "role": "Close air support",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "Peru"
+    },
+    {
+      "name": "North Macedonia",
+      "role": "Ground attack",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "4 non-airworthy aircraft transferred to Ukraine, confirmed 14th March 2023",
+      "homeBase": "North Macedonia"
+    },
+    {
+      "name": "Georgia, Ethiopia, Sudan, Cote d'Ivoire, Chad, DR Congo, Azerbaijan and Armenia",
+      "role": "Ground attack",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "Not published",
+      "homeBase": "Various"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "SU25",
+    "howToFind": "Search for ICAO type SU25 on a public tracker. Military aircraft are rarely shown, and Russian and Ukrainian Su-25s do not appear in public flight data."
+  },
+  "tags": [
+    "Su-25",
+    "Frogfoot",
+    "Grach",
+    "Sukhoi",
+    "close air support",
+    "Afghanistan",
+    "Rutskoy",
+    "Tbilisi"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Sukhoi Su-25 with the Afghan war record, the Rutskoy shootdown, the variants, the Georgia and Ukraine losses and the museum aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Sukhoi Su-25 is a single-seat, twin-engine subsonic attack aircraft designed for close support of ground forces. NATO gave it the reporting name Frogfoot, and Soviet crews called it the Grach, the rook. It first flew on 22nd February 1975 and entered series production at Tbilisi in 1978.{{ref:wiki-su25}}{{ref:migflug}}",
+      "More than 1,000 were built, and it has fought in Afghanistan, the Iran-Iraq War, Chechnya, Georgia and Ukraine, on both sides in some of those wars.{{ref:wiki-su25}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: An Armoured Aircraft by Design",
+        "paragraphs": [
+          "In early 1968 the Soviet Ministry of Defence decided to develop a specialised armoured close-support aircraft, and Sukhoi finalised its T-8 design in late 1968. Work on the prototypes T8-1 and T8-2 began in January 1972, and the T8-1 was completed on 9th May 1974. The Su-25 beat the Ilyushin Il-102 in a competition launched in March 1969.{{ref:wiki-su25}}",
+          "The T8-1 first flew on 22nd February 1975, with test flights by Vladimir Ilyushin according to the page, and series production began in 1978 at Factory No. 31 in Tbilisi. The design has a bathtub-shaped armoured cockpit of welded titanium sheets, two non-afterburning turbojets and a nose-mounted GSh-30-2 30 mm cannon with 250 rounds. The pilot sits on a Zvezda K-36 ejection seat.{{ref:wiki-su25}}",
+          "The S-24 240 mm rocket was banned early in production after salvo-firing accidents, and the FAB-500 bomb became the primary armament. The wing carries 11 hardpoints for up to 4,000 kg of stores, and the aircraft is limited to +6.5 g.{{ref:wiki-su25}}"
+        ]
+      },
+      {
+        "heading": "Afghanistan",
+        "paragraphs": [
+          "The first deployment came on 19th July 1981, when the 200th Independent Attack Squadron moved to Shindand Airbase. The 80th Assault Aviation Regiment was formed in February 1981 at Sitalchay and the 368th Regiment on 12th July 1984. Over the war, Su-25s fired 139 guided missiles, flew about 60,000 sorties and averaged 360 sorties per aircraft per year.{{ref:wiki-su25}}",
+          "Nearly 50 Su-25s were deployed at the peak. 21 to 23 aircraft were lost in combat and up to nine were destroyed on the ground. The first loss was on 16th January 1984, when a Su-25 flown by a Soviet lieutenant colonel was hit by a Strela-2 missile and downed near Urgun.{{ref:wiki-su25}}{{ref:opshist}}"
+        ]
+      },
+      {
+        "heading": "Rutskoy Shot Down Twice",
+        "paragraphs": [
+          "Alexander Rutskoy flew 428 combat missions in Afghanistan. On 6th April 1986, during an attack near Zhawar, he was shot down by mujahideen fire, ejected, and broke an arm and badly injured his back. He returned to Afghanistan in April 1988 as a colonel and deputy commander for aviation of the 40th Army, and kept flying combat missions anyway.{{ref:rutskoy}}",
+          "In August 1988 he was shot down again while attacking a camp inside Pakistan. Most accounts say a Pakistan Air Force F-16A of No. 14 Squadron flown by Squadron Leader Athar Bukhari shot him down, though Wikipedia's operational history says he was hit by anti-aircraft fire. The date is given as 4th August in some sources and 8th August in others. He ejected, was captured by villagers and handed to the Pakistani army, and was held briefly in Islamabad. He later became vice president of Russia.{{ref:rutskoy}}{{ref:natint}}{{ref:opshist}}"
+        ]
+      },
+      {
+        "heading": "Iraq, the Gulf War and Chechnya",
+        "paragraphs": [
+          "Iraq received its first Su-25s in 1987 and flew about 900 sorties near the end of the Iran-Iraq War. One was shot down by a Hawk surface-to-air missile and the pilot ejected. In the Gulf War seven Iraqi Su-25s fled to Iran on 25th January 1991, and on 6th February 1991 two Su-25s were shot down by F-15Cs.{{ref:wiki-su25}}",
+          "On 29th November 1994 Su-25s of the 368th Regiment reportedly destroyed up to 266 Chechen aircraft on the ground. Up to seven were lost in the Second Chechen War.{{ref:wiki-su25}}"
+        ]
+      },
+      {
+        "heading": "Georgia and Ukraine",
+        "paragraphs": [
+          "In 2008 Russia confirmed three Su-25 losses in Georgia, and the Moscow Defense Brief suggests four. Russian Su-25s bombed the Tbilisi Aircraft Manufacturing plant that had built the type. In Ukraine in 2014, losses included one Su-25 on 16th July, two on 23rd July and one on 29th August.{{ref:wiki-su25}}",
+          "As of 24th October 2025 Russia had visually confirmed at least 40 Su-25s lost in Ukraine, 38 destroyed and two damaged. Ukraine lost several Su-25s from the 299th Tactical Aviation Brigade between February and May 2022. North Macedonia transferred four non-airworthy Su-25s to Ukraine, confirmed on 14th March 2023.{{ref:wiki-su25}}",
+          "Iraqi Su-25s flew 3,562 missions between June 2014 and December 2017 against ISIL, compared with 514 by F-16IQs. Iran's IRGC Air Force received seven Su-25s on 1st July 2014.{{ref:wiki-su25}}"
+        ]
+      },
+      {
+        "heading": "Variants and Production",
+        "paragraphs": [
+          "582 single-seat Su-25s were built in Georgia between 1978 and 1989, with 180 Su-25K export aircraft built from 1984 to 1989. The Su-25UB two-seater flew on 12th August 1985 and 25 had been built by the end of 1986. The Su-25T antitank version was built as eight production aircraft in 1990 before the programme was cancelled in 2000, and the Su-25SM upgrade took over 80 aircraft between 2005 and 2015.{{ref:wiki-su25}}",
+          "Georgian production ended in 2010, and attempts to restart production had not led to reported deliveries as of June 2022. No reliable firm price exists in the public record, because the Su-25 was a state product built in Tbilisi and issued to air forces. A figure of about US$11 million is often quoted as an export estimate. Flight International reported in 1998 that the Russian air force would resume Su-25TM deliveries at a fly-away price of 50 million roubles ($8.3 million).{{ref:migflug}}{{ref:flightglobal}}"
+        ]
+      },
+      {
+        "heading": "Surviving Aircraft",
+        "paragraphs": [
+          "A Tbilisi-built Su-25 from 1981 that served three years in Afghanistan with the 200th Separate Assault Squadron, which became the 378th Separate Assault Aviation Regiment, is in the collection of the O.K. Antonov State Aviation Museum in Kyiv. Two Su-25s are at the Central Museum of the Air Force at Monino, and a Czech Su-25K, 9098, is part of the Stare Aerovka museum at Letnany after a restoration in 2017.{{ref:antonov}}{{ref:airhistory}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-su25",
+      "name": "Sukhoi Su-25",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-25"
+    },
+    {
+      "id": "opshist",
+      "name": "Operational history of the Sukhoi Su-25",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operational_history_of_the_Sukhoi_Su-25"
+    },
+    {
+      "id": "rutskoy",
+      "name": "Shot Down Twice, Then Vice President",
+      "publisher": "migflug.com",
+      "url": "https://migflug.com/afterburner/alexander-rutskoy-su-25-pilot-vice-president-russia/"
+    },
+    {
+      "id": "natint",
+      "name": "How Pakistan's Air Force Fought Back the Soviet Invasion of Afghanistan",
+      "publisher": "The National Interest",
+      "url": "https://nationalinterest.org/node/199027"
+    },
+    {
+      "id": "migflug",
+      "name": "Sukhoi Su-25 Frogfoot - History, Specs & Stories",
+      "publisher": "migflug.com",
+      "url": "https://migflug.com/aircraft/su-25-frogfoot/"
+    },
+    {
+      "id": "flightglobal",
+      "name": "Russian air force orders limited number of Sukhoi Su-25TMs",
+      "publisher": "Flight International",
+      "url": "https://flightglobal.com/russian-air-force-orders-limited-number-of-sukhoi-su-25tms/20172.article"
+    },
+    {
+      "id": "antonov",
+      "name": "22 Marked the 50th Anniversary of the Su-25 Attack Aircraft",
+      "publisher": "O.K. Antonov State Aviation Museum",
+      "url": "https://aviamuseum.com.ua/en/news/museum-news/1416-22-marked-the-50th-anniversary-of-the-su-25-attack-aircraft"
+    },
+    {
+      "id": "airhistory",
+      "name": "Aircraft Photo of 9098, Sukhoi Su-25K",
+      "publisher": "AirHistory.net",
+      "url": "https://www.airhistory.net/photo/146864/9098"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Sukhoi Su-25 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-25"
+    },
+    {
+      "name": "Operational history of the Su-25 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operational_history_of_the_Sukhoi_Su-25"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1984-01-16",
+      "title": "First Su-25 shot down in Afghanistan",
+      "tag": "Combat loss",
+      "summary": "A Su-25 flown by a Soviet lieutenant colonel was hit by a Strela-2 missile and downed near Urgun, the first Su-25 shootdown of the war.",
+      "source": "https://en.wikipedia.org/wiki/Operational_history_of_the_Sukhoi_Su-25"
+    },
+    {
+      "date": "1986-04-06",
+      "title": "Rutskoy shot down near Zhawar",
+      "tag": "Combat loss",
+      "summary": "Alexander Rutskoy was shot down by mujahideen fire during an attack near Zhawar. He ejected, broke an arm and badly injured his back.",
+      "source": "https://migflug.com/afterburner/alexander-rutskoy-su-25-pilot-vice-president-russia/"
+    },
+    {
+      "date": "1988-08-04",
+      "title": "Rutskoy shot down over Pakistan",
+      "tag": "Combat loss",
+      "summary": "Rutskoy ejected after being shot down while attacking a camp inside Pakistan, and was captured. Most accounts credit a Pakistan Air Force F-16A, and some sources date the shootdown to 8th August.",
+      "source": "https://migflug.com/afterburner/alexander-rutskoy-su-25-pilot-vice-president-russia/"
+    },
+    {
+      "date": "1991-02-06",
+      "title": "Two Iraqi Su-25s shot down by F-15Cs",
+      "tag": "Air combat",
+      "summary": "Two Su-25s were shot down by F-15Cs, the only air combat of the type for Iraq in the Gulf War.",
+      "source": "https://en.wikipedia.org/wiki/Sukhoi_Su-25"
+    }
+  ],
+  "survivors": {
+    "intro": "Su-25s are preserved in Russia, Ukraine and the Czech Republic.",
+    "airframes": [
+      {
+        "serial": "Antonov museum Tbilisi-built Su-25 (1981)",
+        "name": "Afghan veteran",
+        "location": "O.K. Antonov State Aviation Museum",
+        "place": "Kyiv, Ukraine",
+        "url": "https://aviamuseum.com.ua/en/news/museum-news/1416-22-marked-the-50th-anniversary-of-the-su-25-attack-aircraft",
+        "note": "One of the first series-produced Su-25s, built in 1981 at Tbilisi and flown for three years in Afghanistan with the 200th Separate Assault Squadron. It joined the collection on 15th November 2007.",
+        "featured": true,
+        "countryCode": "ua",
+        "country": "Ukraine"
+      },
+      {
+        "serial": "66 red",
+        "name": "Su-25",
+        "location": "Central Museum of the Air Force",
+        "place": "Monino, Russia",
+        "url": "https://airhistory.net/photo/43840/66-red",
+        "note": "Previously displayed as 66 blue, with construction number 25508101056.",
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "09 blue",
+        "name": "Su-25",
+        "location": "Central Museum of the Air Force",
+        "place": "Monino, Russia",
+        "url": "https://airhistory.net/airframe/67635",
+        "note": "A Su-25 on display at Monino.",
+        "countryCode": "ru",
+        "country": "Russia"
+      },
+      {
+        "serial": "9098",
+        "name": "Su-25K",
+        "location": "Stare Aerovka museum",
+        "place": "Letnany, Prague, Czech Republic",
+        "url": "https://www.airhistory.net/photo/146864/9098",
+        "note": "Taken on charge by the 30th Ground Attack Regiment at Pardubice in September 1987, moved to Kbely in April 2003 and restored in 2017.",
+        "countryCode": "cz",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

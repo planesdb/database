@@ -13,6 +13,7 @@
   "role": "Tactical Transport & Tanker",
   "tagline": "The Embraer KC-390 Millennium is a twin-turbofan tactical transport and aerial-refuelling aircraft built in Brazil to replace the Lockheed C-130 Hercules in Brazilian Air Force service. It carries 26 tonnes at a Mach 0.80 jet cruise rather than a turboprop one, and has become Embraer's most successful defence export, ordered by ten countries while Brazil cut its own fleet from 28 aircraft to 19.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "It is the largest and heaviest aircraft Embraer has ever built.",
@@ -131,6 +132,11 @@
     {
       "date": "2026-09-08",
       "change": "Corrected the Hungarian Air Force fleet from 3 to 2, the full order it completed in November 2025 as the first C-390 export customer to do so.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

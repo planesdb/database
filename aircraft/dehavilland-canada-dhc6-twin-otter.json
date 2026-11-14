@@ -13,6 +13,7 @@
   "role": "STOL Utility Twin Turboprop",
   "tagline": "The rugged Canadian bush plane that never stopped flying. Built for short takeoff and landing from gravel, snow, ice and water, it remains the workhorse of choice for regional airlines, polar research stations and skydiving operators from the Maldives to Antarctica.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": true,
   "history": "De Havilland Canada designed the Twin Otter as a twin-engine, turboprop-powered successor to its piston-engined DHC-3 Otter, aiming to keep the same rugged STOL bush-flying capability while adding the reliability and power of Pratt & Whitney Canada's new PT6A turboprop. The prototype first flew on 20 May 1965 from Downsview, Ontario, and the type entered airline and bush-operator service in 1966. De Havilland Canada progressively improved the design through the Series 100, 200, and definitive Series 300 (introduced in 1969, with more powerful PT6A-27 engines and higher payload), building 844 aircraft in total before Boeing, which had absorbed de Havilland Canada, ended production in 1988. Demand for the type never went away - operators kept flying existing airframes hard for decades in roles no other aircraft could fill as economically - and in 2006 Victoria, British Columbia-based Viking Air acquired the type certificates for all out-of-production de Havilland Canada designs. Viking relaunched production as the Series 400 in 2008, with first delivery in 2010, adding a Honeywell glass cockpit, PT6A-34 engines, and composite structures while preserving the same STOL performance, and has continued building and refining the type (including the 2023-launched Series 300-G 'Classic' cockpit upgrade package) for customers ranging from regional airlines to military and coast guard operators.",
   "specifications": {
@@ -274,6 +275,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

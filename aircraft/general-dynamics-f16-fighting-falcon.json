@@ -13,6 +13,7 @@
   "role": "Multirole Fighter",
   "tagline": "The F-16 Fighting Falcon is a single-engine multirole fighter designed by General Dynamics and now built by Lockheed Martin. It was the first production fighter with fly-by-wire controls and a deliberately unstable airframe, more than 4,600 have been built, and new Block 70/72 aircraft are still coming off the line.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "The F-16 was born from the Lightweight Fighter (LWF) competition, where General Dynamics' YF-16 beat the Northrop YF-17 in 1975 - its first 'flight' was actually an unplanned hop during a high-speed taxi test on 20 January 1974. The type entered USAF service in 1979 and quickly evolved from a day dogfighter into a true multirole workhorse, flying strike, SEAD ('Wild Weasel'), and air-defence missions in every major US operation since Desert Storm. Israel used F-16s to destroy Iraq's Osirak reactor in 1981, and Pakistani, Turkish, Greek and Dutch jets have all seen combat with the type. Production transferred to Lockheed Martin in 1993, and the latest Block 70/72 variants - with AESA radar and conformal fuel tanks - have kept the order book open into the 2030s, with Ukraine among the newest operators of second-hand European jets.",
   "quickFacts": [
@@ -373,6 +374,11 @@
     {
       "date": "2026-09-22",
       "change": "Rewrote the tagline, quick facts and overview so they read better. Facts and sources unchanged.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -1,0 +1,233 @@
+{
+  "name": "Space Shuttle Orbiter",
+  "fullName": "Rockwell Space Shuttle Orbiter",
+  "manufacturer": "Rockwell International",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Reusable crewed orbital spacecraft",
+  "tagline": "The Space Shuttle orbiter is a reusable, winged, crewed spacecraft built by Rockwell International for NASA, launched vertically with rockets and landed on a runway as an unpowered glider. Five orbiters flew 135 missions between 12th April 1981 and 21st July 2011.",
+  "status": "Retired",
+  "condition": "Preserved - Static Display",
+  "inProduction": false,
+  "quickFacts": [
+    "The orbiter re-entered the atmosphere at more than 17,000 mph, with surface temperatures reaching about 3,000°F, and then landed with no engine power at about 215 mph. The aluminium airframe could not exceed 350°F, so the heat had to be stopped by a thermal protection system of tiles and blankets.{{ref:nasa-tps}}{{ref:slashgear-tiles}}",
+    "Five orbiters flew in space: Columbia, Challenger, Discovery, Atlantis and Endeavour. Between them they completed 135 missions, with Discovery flying the most, 39, and Challenger the fewest, 10.{{ref:wiki-orbiter}}",
+    "Two orbiters were lost with all seven crew each time. Challenger broke apart 73 seconds after launch on 28th January 1986, and Columbia broke up during re-entry on 1st February 2003.{{ref:wiki-challenger}}{{ref:wiki-columbia}}",
+    "The first orbiter, Enterprise, never flew in space. It was dropped from a modified Boeing 747 for approach and landing tests in 1977, and now stands on the flight deck of the USS Intrepid in New York.{{ref:wiki-orbiter}}",
+    "Endeavour was built to replace Challenger, and NASA's figure for its cost was about $1.7 billion. It made 25 flights and is on display at the California Science Center in Los Angeles.{{ref:wiki-orbiter}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the orbiter vehicle on its own, without the external tank and solid rocket boosters. Orbiters differed in weight: Columbia, the first, was heavier than Discovery, Atlantis and Endeavour. 'Max speed' is orbital velocity, and the landing speed is for the unpowered glide to the runway.",
+    "maxSpeed": {
+      "mph": 17500,
+      "text": "15,200 kn (17,500 mph / 28,200 km/h) in orbit"
+    },
+    "cruiseSpeed": "Landing at about 215 mph (346 km/h) after an unpowered glide",
+    "wingspan": {
+      "ft": 78.1,
+      "text": "78 ft 1 in (23.79 m)"
+    },
+    "length": {
+      "ft": 122.2,
+      "text": "122 ft 2 in (37.24 m)"
+    },
+    "height": {
+      "ft": 58.6,
+      "text": "58 ft 7 in (17.86 m)"
+    },
+    "weight": "empty: 171,961 lb (78,000 kg); launch weight of orbiter: 242,508 lb (110,000 kg)",
+    "engines": "3 x Rocketdyne RS-25 (Space Shuttle Main Engines), 418,000 lbf (1,860 kN) each at sea level, plus orbital manoeuvring and reaction control thrusters",
+    "crew": "2 flight crew (commander and pilot) plus up to 6 mission specialists and passengers",
+    "capacity": "Payload bay of 60 ft x 15 ft (18.3 m x 4.6 m); up to 53,590 lb (24,310 kg) to low Earth orbit",
+    "firstFlight": {
+      "date": "1981-04-12",
+      "year": 1981
+    },
+    "serviceEntryDate": "1981-04-12",
+    "retiredDate": "2011-07-21",
+    "numberBuilt": 6,
+    "unitCost": {
+      "usd": 1700000000,
+      "text": "about $1.7B (Endeavour, the replacement orbiter delivered in 1991, per NASA) - roughly $4.2B in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$4.2B in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "OV-101 Enterprise",
+      "desc": "A test orbiter with no engines or heat shield, built for atmospheric trials. It was carried on a modified 747 and released for five free flights at Edwards in 1977, the last on 26th October 1977. It never flew in space, was later used for ground vibration tests and is now displayed on the USS Intrepid in New York."
+    },
+    {
+      "code": "OV-102 Columbia",
+      "desc": "The first orbiter to fly in space, launched on STS-1 on 12th April 1981. It made 28 flights, was the heaviest of the fleet because it was built as an early test vehicle, and was lost during re-entry on STS-107 on 1st February 2003. Its remains are stored in the Vehicle Assembly Building at Kennedy Space Center."
+    },
+    {
+      "code": "OV-099 Challenger",
+      "desc": "The second orbiter, first flown on STS-6 on 4th April 1983. It made 10 flights before breaking apart 73 seconds after launch on STS-51-L on 28th January 1986, killing seven. Its debris was buried at Cape Canaveral Launch Complex 31."
+    },
+    {
+      "code": "OV-103 Discovery",
+      "desc": "The most-flown orbiter, with 39 flights between STS-41-D on 30th August 1984 and STS-133, which launched on 24th February 2011. It launched the Hubble Space Telescope in April 1990 and was the first orbiter retired. It is displayed at the Smithsonian's Steven F. Udvar-Hazy Center in Chantilly, Virginia."
+    },
+    {
+      "code": "OV-104 Atlantis",
+      "desc": "First flown on STS-51-J on 3rd October 1985, Atlantis made 33 flights and flew the final shuttle mission, STS-135, which launched on 8th July 2011 and landed on 21st July 2011. It is displayed at the Kennedy Space Center Visitor Complex in Florida."
+    },
+    {
+      "code": "OV-105 Endeavour",
+      "desc": "Built to replace Challenger and first flown on STS-49 on 7th May 1992. Endeavour made 25 flights, and its last, STS-134, launched on 16th May 2011. NASA's figure for its cost was about $1.7 billion. It is displayed at the California Science Center in Los Angeles."
+    }
+  ],
+  "operators": [
+    {
+      "name": "NASA",
+      "role": "Operator of the Space Transportation System",
+      "status": "Retired",
+      "since": "1981",
+      "fleetSize": "Retired",
+      "homeBase": "Kennedy Space Center - Florida"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The orbiters do not appear on aircraft tracking. The only time they were airborne in the normal sense was when they were ferried on top of NASA's modified Boeing 747 Shuttle Carrier Aircraft, which have been retired. All four surviving orbiters are in museums."
+  },
+  "lastUpdated": "2026-11-13",
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Space Shuttle orbiter - all six airframes, the thermal protection system, the Challenger and Columbia losses, and where each orbiter ended up.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Space Shuttle",
+    "orbiter",
+    "NASA",
+    "Columbia",
+    "Challenger",
+    "Discovery",
+    "Atlantis",
+    "Endeavour",
+    "Enterprise",
+    "STS"
+  ],
+  "article": {
+    "overview": [
+      "The Space Shuttle orbiter is a winged, reusable, crewed spacecraft that launched vertically on a rocket stack and landed on a runway as an unpowered glider. Rockwell International built it for NASA, and five orbiters flew 135 missions between STS-1 on 12th April 1981 and the final landing of Atlantis on 21st July 2011.{{ref:wiki-orbiter}}",
+      "It was the only crewed vehicle with wings that has flown to orbit and returned, which made it both a spacecraft and, in its last minutes, a very heavy and very fast aeroplane. It also cost two crews their lives, and that record shapes how the programme is now remembered.{{ref:wiki-orbiter}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The orbiter was designed to be reused, which meant it had to survive re-entry intact. Earlier capsules used ablative heat shields that burned away, but NASA wanted a vehicle with a design life of 100 missions and a quick turnaround. That led to a reusable thermal protection system built from entirely new materials.{{ref:nasa-tps}}",
+          "The finished orbiter is 122 ft 2 in long, spans 78 ft 1 in and weighs about 172,000 lb empty. It has a payload bay of 60 ft by 15 ft and could carry up to 53,590 lb into low Earth orbit. Its three main engines ran from an external tank on launch, so the orbiter itself carried no fuel for ascent, and it used the engines only on the way up, with smaller thrusters for manoeuvring in orbit.{{ref:wiki-orbiter}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering: Surviving Re-entry",
+        "paragraphs": [
+          "On return, the orbiter hit the atmosphere at more than 17,000 mph and friction raised external temperatures as high as 3,000°F. The aluminium airframe could not stand more than 350°F without softening, so the thermal protection system had to keep the structure below that limit. It used high-temperature silica tiles on the underside, low-temperature tiles and flexible blankets on the upper surfaces, and reinforced carbon-carbon on the nose cap and wing leading edges.{{ref:nasa-tps}}",
+          "The tiles were the most labour-intensive part of the vehicle. Each was individually shaped and bonded to the airframe, and Columbia carried more than 32,000 of them, with a few dozen replaced after every flight. The orbiter then glided to a landing at about 215 mph with no go-around possible, which put heavy demands on the crew's training and the runway.{{ref:nasa-tps-2006}}{{ref:slashgear-tiles}}"
+        ]
+      },
+      {
+        "heading": "The Fleet",
+        "paragraphs": [
+          "NASA built six orbiters. Enterprise (OV-101) was a test vehicle that flew atmospheric approach and landing tests from 12th August 1977, released from the back of a modified Boeing 747, and never went to space. Columbia (OV-102) flew STS-1 on 12th April 1981, followed by Challenger (OV-099) on STS-6 in April 1983, Discovery (OV-103) in August 1984, Atlantis (OV-104) in October 1985 and Endeavour (OV-105) in May 1992.{{ref:wiki-orbiter}}",
+          "Discovery flew the most, with 39 missions, followed by Atlantis with 33, Columbia with 28, Endeavour with 25 and Challenger with 10. Among their jobs were launching and repairing the Hubble Space Telescope, deploying satellites, flying the Spacelab science modules and building the International Space Station piece by piece. Discovery launched Hubble on STS-31 in April 1990.{{ref:wiki-orbiter}}"
+        ]
+      },
+      {
+        "heading": "Challenger and Columbia",
+        "paragraphs": [
+          "Challenger broke apart 73 seconds after launch on 28th January 1986, killing all seven crew: Scobee, Smith, McNair, Onizuka, Resnik, Jarvis and McAuliffe. The Rogers Commission found that an O-ring seal in the right solid rocket booster joint failed after being stiffened by record cold, letting hot gas escape. The orbiter fleet was grounded for nearly three years.{{ref:wiki-challenger}}",
+          "Columbia was lost on 1st February 2003, on STS-107, during re-entry. A piece of foam from the external tank had struck the reinforced carbon-carbon panels on the left wing during launch and let hot gas into the wing when the orbiter came back, and debris fell from east Texas to southern Louisiana. The Columbia Accident Investigation Board, chaired by Harold Gehman, issued its final report in August 2003.{{ref:wiki-columbia}}"
+        ]
+      },
+      {
+        "heading": "Retirement & Where the Orbiters Are Now",
+        "paragraphs": [
+          "The shuttle's last flight was STS-135, with Atlantis launching on 8th July 2011 and landing on 21st July 2011. Discovery's final launch had been on 24th February 2011 and Endeavour's on 16th May 2011. NASA retired the fleet, and the orbiters were sent to museums.{{ref:wiki-orbiter}}",
+          "Discovery is at the Smithsonian's Udvar-Hazy Center in Chantilly, Virginia, Atlantis is at the Kennedy Space Center Visitor Complex, Endeavour is at the California Science Center in Los Angeles and Enterprise is on the USS Intrepid in New York. Columbia's recovered remains are stored in the Vehicle Assembly Building, and Challenger's debris was buried at Cape Canaveral Launch Complex 31.{{ref:wiki-orbiter}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-orbiter",
+      "name": "Space Shuttle orbiter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_orbiter"
+    },
+    {
+      "id": "wiki-challenger",
+      "name": "Space Shuttle Challenger disaster",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster"
+    },
+    {
+      "id": "wiki-columbia",
+      "name": "Space Shuttle Columbia disaster",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster"
+    },
+    {
+      "id": "nasa-tps",
+      "name": "Orbiter Thermal Protection System (NASA Facts)",
+      "publisher": "NASA",
+      "url": "https://www3.nasa.gov/centers/kennedy/pdf/167473main_TPS-08.pdf"
+    },
+    {
+      "id": "nasa-tps-2006",
+      "name": "NASA Facts: Orbiter Thermal Protection System (2006)",
+      "publisher": "NASA",
+      "url": "https://es.scribd.com/document/47843091/NASA-Facts-Orbiter-Thermal-Protection-System-2006"
+    },
+    {
+      "id": "slashgear-tiles",
+      "name": "How NASA Space Shuttle Tiles Work To Protect Against Extreme Heat",
+      "publisher": "SlashGear",
+      "url": "https://www.slashgear.com/1534114/how-nasa-space-shuttle-tiles-protect-against-extreme-heat"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "NASA Facts - Orbiter Thermal Protection System",
+      "url": "https://www3.nasa.gov/centers/kennedy/pdf/167473main_TPS-08.pdf"
+    },
+    {
+      "name": "Space Shuttle orbiter on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_orbiter"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1986-01-28",
+      "title": "Challenger disaster (STS-51-L)",
+      "tag": "Booster failure",
+      "summary": "Challenger broke apart 73 seconds after launch on its tenth mission, killing all seven crew. The Rogers Commission found that an O-ring seal in the right solid rocket booster joint, stiffened by record cold, let hot gas escape. The shuttle did not fly again until September 1988.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster"
+    },
+    {
+      "date": "2003-02-01",
+      "title": "Columbia disaster (STS-107)",
+      "tag": "Re-entry breakup",
+      "summary": "Columbia broke up during re-entry on its 28th flight, killing all seven crew. Foam from the external tank had struck the reinforced carbon-carbon panels on the left wing during launch, and hot gas entered the wing structure on re-entry. Debris fell from east Texas through southern Louisiana, and the Columbia Accident Investigation Board reported in August 2003.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster"
+    }
+  ]
+}

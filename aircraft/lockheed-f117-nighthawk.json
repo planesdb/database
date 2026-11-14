@@ -14,6 +14,7 @@
   "role": "Stealth Attack Aircraft",
   "tagline": "The world's first operational stealth aircraft. Its bizarre faceted shape - a consequence of 1970s computing limits that could only calculate radar reflections from flat panels - made it nearly invisible to radar despite being aerodynamically unstable in every axis.",
   "status": "Retired",
+  "condition": "Airworthy - Test & Training",
   "inProduction": false,
   "history": "Developed in extraordinary secrecy from the 'Have Blue' demonstrators, the F-117 first flew at Groom Lake on 18 June 1981 and reached secret operational capability in 1983, flying from Tonopah Test Range with pilots who told families they flew A-7s. Its public debut came in 1988, followed by combat over Panama in 1989. In Desert Storm, 42 Nighthawks flew ~1,300 sorties against the most protected targets in Baghdad without a single loss. One was famously shot down over Serbia in 1999 - the only stealth aircraft ever lost in combat. Officially retired in 2008 in favour of the F-22, dozens were kept in climate-controlled storage, and F-117s still fly today as classified test and adversary-training assets over Nevada and California.",
   "quickFacts": [
@@ -555,6 +556,16 @@
       "date": "2026-07-31",
       "change": "Simplified the status to 'Retired'. The 2008 retirement and the test flying that carries on are covered in the quick facts.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Set the condition to Airworthy - Test & Training, as the type is officially retired but the US Air Force still flies it for test work and as an adversary in training.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

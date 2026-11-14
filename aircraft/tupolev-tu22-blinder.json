@@ -13,6 +13,7 @@
   "role": "Supersonic Bomber, Reconnaissance & Missile Carrier",
   "tagline": "The Tupolev Tu-22 (NATO: Blinder) is a Soviet twin-engine supersonic bomber with its two Dobrynin engines mounted on the rear fuselage on either side of the fin. The first prototype flew on 21 June 1958, the type entered service in 1962, and 311 were built by 1969 in bomber, reconnaissance, electronic warfare, missile carrier and trainer versions.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The Tu-22 was shown at the Tushino Aviation Day parade on 9 July 1961 in a flypast of 10 aircraft, a year before it entered service.",
@@ -155,6 +156,11 @@
     {
       "date": "2026-11-01",
       "change": "Added more on the Tu-22's crew and landing problems, the 105A crash, and the Libyan raid on Mwanza and the war it was part of.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

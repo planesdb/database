@@ -11,6 +11,7 @@
   "role": "Narrow-Body Commercial Airliner",
   "tagline": "The Airbus A320 family is a twin-engine, single-aisle airliner series and the first commercial jet ever flown with digital fly-by-wire controls and a sidestick, in place of a yoke connected to the flight surfaces by cables. Launched to beat the Boeing 737 on fuel burn, it has instead overtaken it on total deliveries - passing the 737 as the most-delivered jet airliner in history in September 2025, with over 20,000 aircraft ordered across four fuselage lengths and two engine generations.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": true,
   "quickFacts": [
     "It was the world's first airliner with full digital fly-by-wire flight controls, flown through a sidestick rather than a control yoke - a technology now standard across every Airbus jet since.",
@@ -149,6 +150,11 @@
     {
       "date": "2026-09-08",
       "change": "Operators: replaced the original four-row list with a fuller roster - corrected fleet figures for American, IndiGo, easyJet and Air France against current 2026 data, added China Eastern Airlines (the second-largest operator, previously missing), and added a combined row for the other 375+ operators with their total fleet size.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

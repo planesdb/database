@@ -10,7 +10,8 @@
   "categories": [],
   "role": "Light Attack & Observation Aircraft",
   "tagline": "The North American Rockwell OV-10 Bronco is an American two-seat, twin-turboprop, twin-boom light attack and observation aircraft built for the U.S. Marine Corps, Air Force and Navy. It first flew on 16 July 1965, 360 were built, and it flew forward air control and armed reconnaissance missions from Vietnam to the fight against ISIS in 2015.",
-  "status": "Retired",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "The rear fuselage could carry 3,200 lb of cargo, five combat troops, or two stretchers and a medical attendant.",
@@ -58,7 +59,7 @@
       "year": 1965
     },
     "serviceEntryDate": "1968-07-01",
-    "retiredDate": "2024-12-28",
+    "retiredDate": null,
     "numberBuilt": 360,
     "unitCost": {
       "usd": 4620000,
@@ -196,6 +197,16 @@
     {
       "date": "2026-09-28",
       "change": "Added the North American Rockwell OV-10 Bronco, with history, specs, variants, operators and accident record. Sources: the National Museum of the U.S. Air Force, Hurlburt Field, the Naval History and Heritage Command, Wikipedia and The Aviation Geek Club.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Changed the status to In Service, as CAL FIRE still flies the type as an air tactical aircraft.",
       "author": "planesdb"
     }
   ],

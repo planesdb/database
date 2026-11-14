@@ -13,6 +13,7 @@
   "role": "Stealth Strategic Bomber",
   "tagline": "The Northrop B-2 Spirit is a flying-wing stealth bomber flown only by the U.S. Air Force, and at about $2.1 billion per aircraft including development, it is the most expensive aircraft ever built. Only 21 were built, and 19 remain in service at Whiteman AFB, Missouri.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "The B-2 grew out of the Advanced Technology Bomber (ATB) program of the late 1970s, which sought a successor to the B-52 that could penetrate the densest air defences on the planet. Northrop's flying-wing proposal - the spiritual heir to Jack Northrop's YB-49 of the 1940s - beat a Lockheed/Rockwell team in 1981, and the aircraft was developed as one of the largest 'black' programs in history, consuming over $20 billion before the public saw so much as a photograph.\n\nUnveiled at Palmdale in November 1988 and flown for the first time in July 1989, the B-2 arrived just as the Cold War ended, and the planned fleet of 132 was slashed to 21. It entered service in 1997, went to war over Kosovo in 1999, and has since flown some of the longest combat missions in history - including 44-hour round trips from Missouri to Afghanistan in 2001 and the 37-hour Operation Midnight Hammer strike on Iran's Fordow enrichment site in June 2025, the first operational use of the 30,000 lb GBU-57 Massive Ordnance Penetrator.\n\nOne aircraft was lost in a spectacular (but non-fatal) takeoff accident on Guam in 2008 and a second was retired in 2024 after a landing fire proved uneconomical to repair, leaving 19. The fleet is now planned to serve into the 2030s alongside - and eventually give way to - the B-21 Raider, which will inherit both the flying-wing formula and the B-2's home at Whiteman AFB.",
   "quickFacts": [
@@ -423,6 +424,11 @@
     {
       "date": "2026-10-04",
       "change": "Updating wording throughout, additional fact checking.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

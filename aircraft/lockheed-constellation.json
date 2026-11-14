@@ -11,6 +11,7 @@
   "role": "Pressurised Long-Range Airliner & Military Transport",
   "tagline": "The Lockheed Constellation is a four-engine, propeller-driven airliner and transport built by Lockheed at Burbank, California, with a pressurised cabin and a triple tail. The prototype first flew on 9 January 1943 and 856 were built before production ended in 1958, as the Constellation, the longer Super Constellation, the L-1649A Starliner and the military C-121 and EC-121 family.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "Howard Hughes, a major stockholder in TWA, started the programme in 1939 and agreed to pay for 40 aircraft himself, the largest airline order at the time.",
@@ -182,6 +183,11 @@
     {
       "date": "2026-11-01",
       "change": "Added Hughes and Frye's 1944 record flight with Orville Wright, the 1957 long-range flights, Eisenhower's Columbines, and fuller accounts of the Grand Canyon collision and the 1969 EC-121 shootdown.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

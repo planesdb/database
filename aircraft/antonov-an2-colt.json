@@ -13,6 +13,7 @@
   "role": "Utility Biplane",
   "tagline": "The Antonov An-2 is a single-engine Soviet utility biplane that first flew on 31 August 1947. More than 18,000 were built in the Soviet Union, Poland and China, and it can take off in about 170 m (560 ft) carrying 12 passengers or 2,140 kg (4,718 lb) of cargo.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "quickFacts": [
     "The An-2's 45-year production run was at one point the longest of any aircraft, until the C-130 passed it.",
@@ -164,6 +165,11 @@
     {
       "date": "2026-10-25",
       "change": "Added the Antonov An-2 with its variants, operators, accident record and a second-hand price.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

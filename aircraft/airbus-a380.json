@@ -11,6 +11,7 @@
   "role": "Wide-Body Commercial Airliner",
   "tagline": "The world's largest passenger airliner. Its full-length double deck can carry over 850 passengers in an all-economy configuration, and its cavernous cabin has become a signature experience on flagship long-haul routes.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "history": "Airbus launched the A380 programme in December 2000 with the goal of building an aircraft that could out-capacity the Boeing 747. The programme suffered serious wiring-harness integration delays that pushed first delivery back nearly two years and inflated development costs to roughly $25 billion. The A380 first flew on 27 April 2005 and entered commercial service with Singapore Airlines on 25 October 2007. Despite its engineering achievement, the A380 struggled commercially as airlines shifted toward smaller, more efficient twinjets, and Airbus ended production in 2021 after 251 deliveries. The type has an excellent safety record, with no hull-loss accidents or fatalities through its service life, and it remains a passenger favourite on ultra-long-haul flagship routes operated by carriers such as Emirates, Singapore Airlines and Qantas.",
   "specifications": {
@@ -310,6 +311,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

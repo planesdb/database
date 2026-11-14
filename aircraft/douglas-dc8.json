@@ -13,6 +13,7 @@
   "role": "Narrow-Body Jet Airliner",
   "tagline": "The Douglas DC-8 is a four-engine, narrow-body jet airliner built from 1958 to 1972 as Douglas's answer to the Boeing 707. It lost the sales race - 556 were built against the 707's 1,010 - but outlived its rival in service, because a 1970s re-engining programme turned the stretched Super Sixties into quiet, efficient freighters that were still hauling cargo more than sixty years after the type first flew.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "quickFacts": [
     "On 21 August 1961 a DC-8-43 reached Mach 1.012 in a controlled dive from 41,088 ft, making it the first civil jet airliner to go supersonic - with Chuck Yeager flying one of the chase planes.",
@@ -192,6 +193,11 @@
     {
       "date": "2026-09-09",
       "change": "Removed the highlighted box from the article.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

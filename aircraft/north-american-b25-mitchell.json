@@ -13,6 +13,7 @@
   "role": "Medium Bomber and Ground-Attack Aircraft",
   "tagline": "The North American B-25 Mitchell is a twin-engine medium bomber built for the United States Army Air Forces, and the only American bomber named after a person - Brigadier General William 'Billy' Mitchell. 9,816 were produced, more than any other American medium bomber, and it served in every combat theatre of the Second World War before ending its military career as a trainer.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "The B-25 is named after Brigadier General William 'Billy' Mitchell, the interwar advocate of American air power, and 9,816 were built between 1940 and 1945.",
@@ -143,6 +144,11 @@
     {
       "date": "2026-09-05",
       "change": "New entry for the North American B-25 Mitchell - history, specs, variants, survivors and accident record. Sources: National Museum of the USAF and Smithsonian NASM fact sheets, Naval History and Heritage Command, Imperial War Museums, Australian War Memorial, the Warbird Registry and named aviation press.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

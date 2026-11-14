@@ -13,6 +13,7 @@
   "role": "Twin-Engine Battlefield Reconnaissance & Maritime Attack Helicopter",
   "tagline": "Britain's Lynx successor, built for the battlefield and the flight deck alike. It flies parallel Army and Royal Navy variants that share only about 5% of their parts with the original Lynx, and has since been exported to South Korea, the Philippines and Algeria.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "Development began in the early 2000s as the Future Lynx programme, intended to replace the British Army's and Royal Navy's ageing Lynx AH7 and HMA8 fleets under the Battlefield Reconnaissance Helicopter (BRH) and Surface Combatant Maritime Rotorcraft (SCMR) requirements. The Ministry of Defence signed a £1 billion contract with AgustaWestland in June 2006, and the first AW159 - as the type was designated in April 2009 - made its maiden flight on 12 November 2009. The Wildcat AH1 entered British Army service on 29 August 2014, with the Royal Navy's HMA2 following into operational deployment in early 2015; both services had fully retired the Lynx within five years. Export orders followed from the Republic of Korea Navy (from 2013) and the Philippine Navy (from 2019, with a further batch agreed in 2025), and Algeria's navy became the type's newest customer in 2025. With the naval Martlet missile in service and the heavier Sea Venom anti-ship missile reaching initial operating capability in October 2025, the Wildcat has matured into a genuinely multirole attack and surveillance helicopter even as the UK's own long-term plans point toward an eventual drone-led replacement.",
   "specifications": {
@@ -298,6 +299,11 @@
       "date": "2026-07-31",
       "change": "Tightened up the overview - a clearer opening and less padding in the sections. Facts and sources unchanged.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

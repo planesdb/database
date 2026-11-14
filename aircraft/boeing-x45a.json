@@ -13,6 +13,7 @@
   "role": "Unmanned Combat Air Vehicle Demonstrator",
   "tagline": "The Boeing X-45A was a tailless, jet-powered unmanned combat air vehicle built to show that a robot aircraft could attack air defences without a pilot on board. Two were built, and between 2002 and 2005 they flew 64 test flights, dropped inert weapons from internal bays and were flown in pairs by a single operator.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The first X-45A flew on 22nd May 2002 from Edwards Air Force Base in California, a short hop that the second aircraft followed in November 2002.",
@@ -121,6 +122,11 @@
     {
       "date": "2026-11-08",
       "change": "Added the Boeing X-45A - history, specs, variants, operators, the two museum airframes and the sources used.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

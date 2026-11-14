@@ -13,6 +13,7 @@
   "role": "Jet Flying-Wing Bomber Prototype",
   "tagline": "The Northrop YB-49 is an American eight-jet flying-wing bomber prototype, converted from two YB-35 piston-engined airframes for the U.S. Air Force. It first flew on 21 October 1947, but one of the two broke up in flight in June 1948, killing Capt. Glen Edwards and four others, and the programme was cancelled in 1950.",
   "status": "Retired",
+  "condition": "Destroyed - Crash",
   "inProduction": false,
   "quickFacts": [
     "Edwards Air Force Base is named after Capt. Glen Edwards, co-pilot of the YB-49 that crashed on 5 June 1948.",
@@ -116,6 +117,11 @@
     {
       "date": "2026-09-28",
       "change": "Added the Northrop YB-49, with history, specs, variants, operators and accident record. Sources: Wikipedia, the National Museum of the U.S. Air Force, Edwards Air Force Base history, Air & Space Forces Magazine and This Day in Aviation.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

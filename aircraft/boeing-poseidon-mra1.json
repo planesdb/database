@@ -13,6 +13,7 @@
   "role": "Maritime Patrol & Reconnaissance Aircraft",
   "tagline": "The RAF's cutting-edge submarine hunter and maritime protector. Based on the commercial Boeing 737-800 airframe, it protects the UK's nuclear deterrent by patrolling the seas, tracking subsurface threats and flying search and rescue missions.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "Following the retirement of the Nimrod MR2 and the cancellation of the MRA4 project, the UK faced a critical maritime patrol capability gap. To fill this, the Ministry of Defence selected the Boeing P-8A Poseidon, designating it the Poseidon MRA1. The first aircraft arrived at RAF Kinloss on February 4, 2020, and Initial Operating Capability (IOC) was declared on April 1, 2020. Deliveries of the planned nine airframes concluded in January 2022. Operated primarily from RAF Lossiemouth, the fleet is heavily utilized to counter rising Russian naval and submarine activity across the North Atlantic.",
   "specifications": {
@@ -248,6 +249,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

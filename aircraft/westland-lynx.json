@@ -12,7 +12,8 @@
   ],
   "role": "Multi-Role Military Helicopter",
   "tagline": "The Westland Lynx is a twin-engine, multi-role military helicopter built by Westland Helicopters at Yeovil for the British Army and Royal Navy. A modified Lynx set the absolute helicopter speed record of 400.87 km/h in 1986, and roughly 450 were built.",
-  "status": "Retired",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "On 11 August 1986 a modified Lynx, G-LYNX, flown by Trevor Egginton set the FAI absolute helicopter speed record at 400.87 km/h (249.09 mph). The record was still unbroken as of January 2022.",
@@ -55,7 +56,7 @@
       "year": 1971
     },
     "serviceEntryDate": "1979",
-    "retiredDate": "2018",
+    "retiredDate": null,
     "numberBuilt": 450,
     "unitCost": {
       "usd": null,
@@ -153,6 +154,16 @@
     {
       "date": "2026-10-18",
       "change": "Added the Westland Lynx - the 1986 speed record, Falklands and Gulf War service, variants, operators and the museum aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Changed the status to In Service, as several navies including Germany and South Korea still fly the type.",
       "author": "planesdb"
     }
   ],

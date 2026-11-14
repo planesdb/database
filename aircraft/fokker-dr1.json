@@ -13,6 +13,7 @@
   "role": "WWI Triplane Fighter",
   "tagline": "The distinctive triple-winged fighter flown by the Red Baron and his 'Flying Circus'. Manfred von Richthofen - history's top-scoring flying ace with 80 confirmed victories - was flying one when he was killed in April 1918, and its short wingspan gave it an exceptional rate of climb and near-unmatched turning ability.",
   "status": "Retired",
+  "condition": "Scrapped",
   "inProduction": false,
   "history": "Inspired by the surprising success of the British Sopwith Triplane over the Western Front in mid-1917, Anthony Fokker's design team, led by engineer Reinhold Platz, rushed the Dreidecker into development, and Richthofen himself flew an early prototype and enthusiastically endorsed it after a mock dogfight. It entered frontline service in August 1917 with Jasta 11, the squadron Richthofen commanded within Jagdgeschwader 1 (nicknamed the 'Flying Circus' for its brightly painted aircraft and mobile basing). Early production was hampered by a string of structural failures in the upper wing, which caused at least two fatal crashes and grounded the type for weeks while Fokker's factory reinforced the wing ribs and improved quality control; the type resumed service in November 1917 with the problem resolved. Its slow top speed compared to contemporaries like the S.E.5a and SPAD XIII limited its usefulness by mid-1918, and production wound down after only around 320 were built, with the type withdrawn from frontline units as newer Fokker D.VII biplanes arrived - but its association with Richthofen, who scored 19 of his 80 victories in a Dr.I before his death on 21 April 1918, cemented it as one of the most famous aircraft shapes in aviation history.",
   "specifications": {
@@ -224,6 +225,11 @@
       "date": "2026-07-31",
       "change": "Cut some padding from the article sections. Facts and sources unchanged.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

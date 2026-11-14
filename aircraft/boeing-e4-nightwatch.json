@@ -11,6 +11,7 @@
   "role": "Airborne Strategic Command Post",
   "tagline": "A militarised Boeing 747-200B built as a survivable airborne command post for the U.S. president, secretary of defense and their successors, and hardened against the electromagnetic pulse of a nuclear detonation. Four were built, one is kept on alert around the clock, and they are being replaced by the Sierra Nevada E-4C from the 2030s.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "It flies with the largest crew of any aircraft in U.S. Air Force history - up to 112 people across flight and mission personnel",
@@ -107,6 +108,11 @@
     {
       "date": "2026-09-16",
       "change": "Added the Boeing E-4B Nightwatch, with specs, variants, operators and programme history. Sources: the USAF E-4B fact sheet, Defense News and Aviation Week reporting on the E-4C replacement, and published programme histories.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

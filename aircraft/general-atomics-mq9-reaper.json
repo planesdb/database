@@ -14,6 +14,7 @@
   "role": "MALE Hunter-Killer Drone",
   "tagline": "The definitive military hunter-killer drone. Its turboprop engine lets it loiter over a target for a full day while a ground-based crew watches full-motion video and, when authorised, engages with precision munitions.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "General Atomics developed the Reaper as a scaled-up, far more powerful successor to the MQ-1 Predator, first flying it on 2 February 2001 and delivering it to the US Air Force in 2007. Its 900-shaft-horsepower turboprop gives it roughly nine times the payload and much greater speed and altitude than the Predator, letting it carry a genuine mixed load of surveillance sensors and precision-guided weapons on the same sortie. It flew its first combat missions over Afghanistan in 2007 and has since become the backbone of US and allied armed ISR (intelligence, surveillance and reconnaissance) operations, logging well over two million flight hours across Afghanistan, Iraq, Syria, Yemen, the Horn of Africa and the Sahel. Because it operates in contested and semi-contested airspace without the survivability of a stealth aircraft, it has also suffered a steady string of combat losses - most heavily to Houthi air defences over Yemen from 2023 onward, and in one high-profile 2023 case, a Russian Su-27 intentionally struck one over the Black Sea, causing it to crash into international waters.",
   "specifications": {
@@ -290,6 +291,11 @@
       "date": "2026-07-31",
       "change": "Updated the news links with current stories.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

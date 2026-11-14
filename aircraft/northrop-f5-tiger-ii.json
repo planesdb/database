@@ -1,0 +1,350 @@
+{
+  "name": "F-5 Tiger II",
+  "fullName": "Northrop F-5E/F Tiger II",
+  "manufacturer": "Northrop",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Lightweight supersonic fighter and aggressor trainer",
+  "tagline": "The F-5 is a family of small, twin-engine supersonic fighters built by Northrop, sold abroad in large numbers and also used by the US as an adversary trainer. The F-5E Tiger II first flew on 11th August 1972, and the family of F-5 and T-38 aircraft has passed 3,800 built.",
+  "status": "In Service",
+  "condition": "Operational - Military / Government",
+  "inProduction": false,
+  "quickFacts": [
+    "Northrop's N-156 first flew on 30th July 1959 and the F-5A entered service on 30th April 1964. The company won the International Fighter Aircraft competition in 1970 with the F-5E, which first flew on 11th August 1972 and reached its first unit, the 425th Tactical Fighter Squadron, on 6th April 1973.{{ref:wiki-f5}}",
+    "In Operation Skoshi Tiger, the US Air Force sent 12 F-5As to Bien Hoa in South Vietnam in October 1965 for a combat trial. They flew about 2,600 sorties before the evaluation ended on 9th March 1966, and one was lost, killing Major Joe Baggett.{{ref:wiki-f5}}",
+    "On 17th July 1977, two Ethiopian F-5s shot down two MiG-21s near Harer in the Ogaden War. Ethiopian pilot Legesse Tefera is credited with six or seven kills.{{ref:wiki-f5}}",
+    "Switzerland bought 72 F-5s in 1976 and 38 more in 1981. The US Navy bought 36 former Swiss aircraft in 2006 as F-5N and F-5F, and Switzerland sent 22 more to the US from March 2024.{{ref:wiki-f5}}",
+    "Morocco lost 15 F-5s in the Western Sahara War, and Taiwan retired its F-5Es in November 2023, with the F-5F and RF-5E following in July 2025.{{ref:wiki-f5}}",
+    "The F-20 Tigershark, Northrop's improved F-5, lost its export sales to the F-16 and was cancelled.{{ref:wiki-f5}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the F-5E and come from fact sheets rather than a Wikipedia data block. Length is 48 ft 2 in on the Hill Air Force Base sheet, while other sources give 47 ft 4.75 in. Range is 2,300 mi with external tanks on the Hill sheet and 1,590 mi on another source, and the ceiling is 51,800 ft there against 50,700 ft on the Hill sheet. Empty weight is about 9,558 lb on other sites. The build total is 1,204 F-5A and F-5B plus 1,399 F-5E and F-5F, the figures in the page's data block; the text gives different numbers by model.",
+    "maxSpeed": {
+      "mph": 1050,
+      "text": "912 kn (1,050 mph / 1,690 km/h, Mach 1.63)"
+    },
+    "cruiseSpeed": "Not published in the sources checked",
+    "range": {
+      "miles": 2300,
+      "text": "2,300 mi (3,701 km) with external tanks (Hill AFB); 1,590 mi on another source"
+    },
+    "serviceCeiling": {
+      "ft": 51800,
+      "text": "51,800 ft (15,788 m); 50,700 ft on the Hill AFB sheet"
+    },
+    "wingspan": {
+      "ft": 26.7,
+      "text": "26 ft 8 in (8.13 m)"
+    },
+    "length": {
+      "ft": 48.2,
+      "text": "48 ft 2 in (14.68 m)"
+    },
+    "height": {
+      "ft": 13.3,
+      "text": "13 ft 4 in (4.06 m)"
+    },
+    "weight": "MTOW: 24,675 lb (11,192 kg)",
+    "engines": "2 x General Electric J85-GE-21 turbojets, 3,600 lbf (16.0 kN) dry and 5,000 lbf (22.2 kN) with afterburner each",
+    "armament": "2 x 20 mm M39 cannon, plus missiles and bombs on external stations",
+    "crew": "1",
+    "capacity": "Not applicable",
+    "firstFlight": {
+      "date": "1972-08-11",
+      "year": 1972
+    },
+    "serviceEntryDate": "1973",
+    "retiredDate": null,
+    "numberBuilt": 2603,
+    "unitCost": {
+      "usd": null,
+      "text": "Reported: US$756,000 (Hill AFB fact sheet, year not stated) to US$2.1 million (unconfirmed)",
+      "inflationText": null
+    },
+    "combatLosses": "Nine F-5s lost in Vietnam; Morocco lost 15 in the Western Sahara War"
+  },
+  "variants": [
+    {
+      "code": "F-5A / F-5B / RF-5A",
+      "desc": "The original lightweight fighter, selected on 23rd April 1962 and in service from 30th April 1964. A total of 1,204 F-5A and F-5B were built, and 12 F-5As went to Vietnam for Operation Skoshi Tiger in 1965. The RF-5A added cameras in the nose for reconnaissance."
+    },
+    {
+      "code": "F-5E Tiger II",
+      "desc": "The improved single-seat fighter that won the International Fighter Aircraft competition in 1970 and flew on 11th August 1972. It added J85-GE-21 engines, an enlarged leading-edge root extension, a longer fuselage, Emerson AN/APQ-153 radar and a two-position nose gear, with 792 built by Northrop."
+    },
+    {
+      "code": "F-5F",
+      "desc": "A two-seat trainer and combat version of the Tiger II, flown first on 25th September 1974. Northrop built 146, and it became a common aggressor and training aircraft with the US Navy and several foreign air forces."
+    },
+    {
+      "code": "RF-5E Tigereye",
+      "desc": "A reconnaissance version of the F-5E with a camera nose, built for customers including Saudi Arabia and Taiwan. Northrop built 12 RF-5Es, and Taiwan retired its last in July 2025."
+    },
+    {
+      "code": "F-5N / F-5F (US Navy), F-5EM (Brazil), F-20 Tigershark",
+      "desc": "The US Navy bought 36 former Swiss aircraft in 2006, and VFC-111 flies 18. Brazil upgraded 35 F-5EM and 4 F-5FM, which were in use in 2024. The F-20 Tigershark was Northrop's improved export version and was cancelled after the F-16 won the sales."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Air Force",
+      "role": "Aggressor aircraft and trainer",
+      "status": "Retired",
+      "since": "1964",
+      "fleetSize": "64th and 65th Aggressor Squadrons at Nellis, 527th at Alconbury, 26th at Clark, 1975 to 1990",
+      "homeBase": "Nellis Air Force Base - Nevada"
+    },
+    {
+      "name": "United States Navy",
+      "role": "Adversary training (TOPGUN and VFC-111)",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "36 ex-Swiss F-5s bought in 2006; VFC-111 flies 18",
+      "homeBase": "Naval Air Station Key West - Florida"
+    },
+    {
+      "name": "Iranian Air Force",
+      "role": "Fighter operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "127 F-5A/B by 1972; about 181 F-5E/F and RF-5A by 1976",
+      "homeBase": "Iran"
+    },
+    {
+      "name": "Republic of Korea Air Force",
+      "role": "Fighter operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "340 in total",
+      "homeBase": "South Korea"
+    },
+    {
+      "name": "Swiss Air Force",
+      "role": "Air defence and training",
+      "status": "Retired",
+      "since": "1976",
+      "fleetSize": "72 bought in 1976 and 38 in 1981; 22 sent to the US from March 2024",
+      "homeBase": "Switzerland"
+    },
+    {
+      "name": "Royal Saudi Air Force",
+      "role": "Fighter operator",
+      "status": "Not confirmed",
+      "since": "Not published",
+      "fleetSize": "20 F-5B, 109 F-5E/F and 10 RF-5E",
+      "homeBase": "Saudi Arabia"
+    },
+    {
+      "name": "Republic of China Air Force",
+      "role": "Fighter operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "115 F-5A/B plus 308 built locally",
+      "homeBase": "Taiwan"
+    },
+    {
+      "name": "Royal Norwegian Air Force",
+      "role": "Fighter operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "108",
+      "homeBase": "Norway"
+    },
+    {
+      "name": "Royal Netherlands Air Force",
+      "role": "Fighter operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "75 NF-5A and 30 NF-5B",
+      "homeBase": "Netherlands"
+    },
+    {
+      "name": "Turkish Air Force",
+      "role": "Fighter operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "More than 200",
+      "homeBase": "Turkey"
+    },
+    {
+      "name": "Spanish Air and Space Force",
+      "role": "Fighter operator",
+      "status": "Retired",
+      "since": "Not published",
+      "fleetSize": "70",
+      "homeBase": "Spain"
+    },
+    {
+      "name": "Brazilian Air Force",
+      "role": "Fighter operator",
+      "status": "In Service",
+      "since": "Not published",
+      "fleetSize": "35 F-5EM and 4 F-5FM (2024)",
+      "homeBase": "Brazil"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "F5",
+    "howToFind": "Civil adversary and military F-5s fly widely, but military flights are often hidden from public trackers. Look at Nellis Air Force Base, Naval Air Station Key West and Swiss and Brazilian bases around exercise dates."
+  },
+  "tags": [
+    "F-5",
+    "Tiger II",
+    "Northrop",
+    "Skoshi Tiger",
+    "aggressor",
+    "Vietnam War"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the F-5 Tiger II page - Skoshi Tiger in Vietnam, the aggressor role, export operators, variants and preserved aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The F-5 is a small twin-engine fighter built by Northrop to be cheap to buy and easy to keep flying. The F-5A entered service on 30th April 1964, the improved F-5E Tiger II first flew on 11th August 1972, and between them the F-5 and its T-38 trainer cousin have passed 3,800 aircraft.{{ref:wiki-f5}}",
+      "Its second life began in 1975, when American pilots flew Tiger IIs painted as Soviet fighters to train against.{{ref:wiki-f5}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: Light and Cheap",
+        "paragraphs": [
+          "Northrop's N-156 first flew on 30th July 1959 and the F-5A was selected on 23rd April 1962. The aim was an export fighter for allies that could not afford the best American aircraft. It had two J85 engines, and the first service aircraft arrived on 30th April 1964. About 1,204 F-5A and F-5B were built.{{ref:wiki-f5}}",
+          "The F-5E won the International Fighter Aircraft competition in 1970 and first flew on 11th August 1972. Its changes were the more powerful J85-GE-21 engines, an enlarged leading-edge root extension, a longer fuselage, Emerson AN/APQ-153 radar and a two-position nose gear. The first aircraft reached the 425th Tactical Fighter Squadron on 6th April 1973, and the F-5F two-seater flew on 25th September 1974.{{ref:wiki-f5}}"
+        ]
+      },
+      {
+        "heading": "Operation Skoshi Tiger",
+        "paragraphs": [
+          "In 1965 the Air Force formed the 4503rd Tactical Fighter Squadron (Provisional) at Williams on 22nd July and sent 12 F-5As to South Vietnam. They left on 22nd October and reached Bien Hoa four days later. The trial ended on 9th March 1966 after about 2,600 sorties, with 2,093 flown from Bien Hoa and 571 from Da Nang over 3,116 combat hours.{{ref:wiki-f5}}",
+          "One aircraft was lost, killing Major Joe Baggett, and nine F-5s were lost in Vietnam in all. The unit became the 10th Fighter Commando Squadron. The Air Force did not adopt the F-5 as its own front-line fighter, but South Vietnam received about 158 F-5A and later models.{{ref:wiki-f5}}"
+        ]
+      },
+      {
+        "heading": "Aggressors and Export Customers",
+        "paragraphs": [
+          "From 1975 to 1990 the Air Force flew F-5Es as aggressors: the 64th and 65th Aggressor Squadrons at Nellis, the 527th at Alconbury and the 26th at Clark. US Navy TOPGUN flew them too, and in 2006 the Navy bought 36 ex-Swiss aircraft as F-5N and F-5F. VFC-111 flies 18 of them.{{ref:wiki-f5}}",
+          "Iran had 127 F-5A and F-5B by 1972 and about 181 F-5E, F-5F and RF-5A by 1976. South Korea had 340 in total, Saudi Arabia 139 across several variants, Taiwan 115 F-5A and F-5B plus 308 built locally, and Norway 108. The Netherlands flew 75 NF-5A and 30 NF-5B. The F-20 Tigershark, Northrop's improved version, lost its export sales to the F-16.{{ref:wiki-f5}}"
+        ]
+      },
+      {
+        "heading": "Combat: Ogaden, Iran-Iraq and After",
+        "paragraphs": [
+          "The Ogaden War of 1977 produced the F-5's cleanest record. On 17th July 1977, two Ethiopian F-5s shot down two MiG-21s near Harer, and Legesse Tefera is credited with six or seven kills. In the Iran-Iraq war a claim was made on 6th August 1983 by Major Yadollah Javadpour of a MiG-25 kill, which is disputed.{{ref:wiki-f5}}",
+          "The type fought in Yemen in 1994, and Morocco lost 15 F-5s in the Western Sahara War. Israel said it destroyed two Iranian F-5s at Dezful in June 2025 and two at Tabriz in March 2026. In the ACEVAL and AIMVAL trials of 1977 the F-14 did slightly better than 2 to 1 against the F-5, though sources conflict on the numbers.{{ref:wiki-f5}}"
+        ]
+      },
+      {
+        "heading": "Retirement and Drawbacks",
+        "paragraphs": [
+          "Taiwan retired its F-5Es in November 2023 and the F-5F and RF-5E in July 2025. Switzerland sent 22 aircraft to the US from March 2024, and the Philippines retired the type in 2005 and Singapore by 2015. Brazil still flies 35 F-5EM and 4 F-5FM.{{ref:wiki-f5}}",
+          "The F-5's weaknesses showed up in sales and in losses. The F-20 Tigershark lost its export customers to the F-16, Morocco lost 15 F-5s in the Western Sahara War, and the ACEVAL and AIMVAL trials of 1977 showed the F-14 well ahead of it.{{ref:wiki-f5}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-f5",
+      "name": "Northrop F-5",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_F-5"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Northrop F-5 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northrop_F-5"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1965-10-26",
+      "title": "Skoshi Tiger arrives at Bien Hoa",
+      "tag": "Combat trial",
+      "summary": "Twelve F-5As of the 4503rd Tactical Fighter Squadron (Provisional) reached Bien Hoa on 26th October 1965 for a combat trial. One aircraft was lost, killing Major Joe Baggett, and the trial ended on 9th March 1966.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_F-5"
+    },
+    {
+      "date": "1977-07-17",
+      "title": "Ethiopian F-5s down two MiG-21s",
+      "tag": "Combat",
+      "summary": "Two Ethiopian F-5s shot down two MiG-21s near Harer in the Ogaden War. Legesse Tefera is credited with six or seven kills in the war.",
+      "source": "https://en.wikipedia.org/wiki/Northrop_F-5"
+    }
+  ],
+  "survivors": {
+    "intro": "F-5s are preserved in museums on four continents, from Nellis Air Force Base to Ho Chi Minh City.",
+    "airframes": [
+      {
+        "serial": "74-1571",
+        "name": "F-5E",
+        "location": "Nellis Air Force Base",
+        "place": "Nevada, United States",
+        "url": "https://en.wikipedia.org/wiki/Northrop_F-5",
+        "note": "An F-5E on display at Nellis, home of the Aggressor squadrons.",
+        "featured": true,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "74-1556",
+        "name": "F-5E",
+        "location": "Evergreen Aviation and Space Museum",
+        "place": "McMinnville, Oregon, United States",
+        "url": "https://en.wikipedia.org/wiki/Northrop_F-5",
+        "note": "An F-5E on display.",
+        "featured": false,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "141540",
+        "name": "F-5",
+        "location": "Hickory Aviation Museum",
+        "place": "Hickory, North Carolina, United States",
+        "url": "https://en.wikipedia.org/wiki/Northrop_F-5",
+        "note": "An F-5 on display.",
+        "featured": false,
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "73-01638",
+        "name": "F-5E",
+        "location": "Independence Palace",
+        "place": "Ho Chi Minh City, Vietnam",
+        "url": "https://en.wikipedia.org/wiki/Northrop_F-5",
+        "note": "A captured F-5E on display at the Independence Palace.",
+        "featured": false,
+        "countryCode": "vn",
+        "country": "Vietnam"
+      },
+      {
+        "serial": "68-9102",
+        "name": "F-5A",
+        "location": "Norwegian Aviation Museum",
+        "place": "Bodo, Norway",
+        "url": "https://en.wikipedia.org/wiki/Northrop_F-5",
+        "note": "A Norwegian F-5A.",
+        "featured": false,
+        "countryCode": "no",
+        "country": "Norway"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

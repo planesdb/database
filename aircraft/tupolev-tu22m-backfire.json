@@ -13,6 +13,7 @@
   "role": "Variable-Sweep Strategic & Maritime Strike Bomber",
   "tagline": "The Tupolev Tu-22M (NATO: Backfire) is a Soviet twin-engine, variable-sweep supersonic bomber built for strategic and maritime strike. It first flew on 30 August 1969, 497 were built including pre-production aircraft, and the Tu-22M3 version is still flown by Russia.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "The government approved it on 28 November 1967 as an update of the Tu-22, which is why it carries the Tu-22M designation.",
@@ -139,6 +140,11 @@
     {
       "date": "2026-11-01",
       "change": "Added sections on the Kremenchuk mall strike and Operation Spiderweb, and merged the production and variants text into the design section.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

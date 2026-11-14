@@ -13,6 +13,7 @@
   "role": "Carrier-Borne Airborne Early Warning & Control Aircraft",
   "tagline": "The Grumman E-2 Hawkeye is a twin-turboprop carrier-borne airborne early warning and control aircraft, and the first aircraft designed from scratch for the role rather than converted from an existing airframe. It has been in continuous production since 1960 - the longest production run of any carrier-based aircraft - across four generations, from the troubled E-2A to the current E-2D Advanced Hawkeye.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "The E-2 has been in continuous production since 1960, the longest production run of any carrier-based aircraft.",
@@ -185,6 +186,11 @@
     {
       "date": "2026-09-12",
       "change": "Widened the entry from the E-2D to the whole E-2 Hawkeye family and renamed it. The article now covers all four generations, first flight, service entry and numbers built are family-wide, the US Coast Guard and US Customs Service were added as past operators, and 14 surviving aircraft and early accidents were added.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -13,6 +13,7 @@
   "role": "WWII Fighter Interceptor",
   "tagline": "Britain's elliptical-winged icon that helped win the Battle of Britain. Built around the Rolls-Royce Merlin and later Griffon engines, it was continuously redeveloped from 1938 through 1948, and roughly 50-70 original Spitfires remain airworthy today on the warbird and airshow circuit.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "history": "Designed by R.J. Mitchell at Supermarine and first flown as prototype K5054 on 5 March 1936, the Spitfire entered RAF service with No. 19 Squadron on 4 August 1938. Its elliptical wing, refined with aerodynamicist Beverley Shenstone, was chosen because it gave the thinnest possible wing cross-section while leaving room for retractable undercarriage and eight machine guns. Alongside the Hawker Hurricane, the Spitfire became the fighter of the Battle of Britain in the summer of 1940, and unlike almost every other Allied type it stayed in continuous front-line development throughout the war - progressing from the 1,030 hp Merlin II of the Mk I, through the definitive Merlin 61-powered Mk IX rushed into service in 1942 to counter the Focke-Wulf Fw 190, to the 2,000+ hp Griffon-engined Mk XIV and final Mk 24. More than 20,300 Spitfires (plus over 2,500 Seafire naval variants) were built between 1938 and 1948, making it the most-produced British combat aircraft of the war. It served with the RAF, Royal Navy Fleet Air Arm, and dozens of other air forces (including postwar Israel, which flew ex-Czechoslovak Spitfires in the 1948 Arab-Israeli War), and its last RAF frontline sortie came on 1 April 1954 with a photo-reconnaissance PR.19 over Malaya. Chief designer Joe Smith took over the program after Mitchell's death in 1937 and oversaw its wartime evolution. Today the RAF's own Battle of Britain Memorial Flight keeps several Spitfires flying for ceremonial and airshow duties alongside a wider community of privately owned warbirds.",
   "specifications": {
@@ -486,6 +487,11 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators roster from the full operators list - added the Soviet, USAAF, Free French, Italian and Egyptian fleets with real delivered figures, corrected the RAF and Israeli rows, and folded the remaining ~25 air forces into a combined row.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

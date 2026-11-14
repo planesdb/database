@@ -13,6 +13,7 @@
   "role": "WWII Dive Bomber",
   "tagline": "The gull-winged, siren-screaming dive bomber that terrorised the early campaigns of the Blitzkrieg. Fitted with wind-driven 'Jericho Trumpet' sirens that shrieked during its near-vertical attack dives, it became a psychological weapon as much as a physical one.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "history": "Developed under chief designer Hermann Pohlmann and first flown in 1935, the Ju 87 was built from the outset around the dive-bombing concept championed by Luftwaffe planners, with an automatic pull-out system to save pilots who blacked out under high g-forces during their attack dive. It proved devastatingly effective in the opening campaigns of the war, providing pinpoint close air support that shattered Polish defences in September 1939 and spearheaded the fast-moving Blitzkrieg through France and the Low Countries in 1940, working in close coordination with advancing German armoured columns. Its reputation as a terror weapon peaked during these campaigns, the Jericho Trumpet sirens deliberately amplifying the psychological effect on troops and refugees below. However, the Battle of Britain exposed its fatal weakness: slow, lightly armed and unable to defend itself against fast monoplane fighters, Stuka losses to RAF Hurricanes and Spitfires became so severe in August 1940 that the type was withdrawn from the campaign entirely. It found renewed effectiveness on the Eastern Front from 1941, particularly in the tank-busting Ju 87G variant armed with two 37mm underwing cannon, flown to devastating effect against Soviet armour by ace pilot Hans-Ulrich Rudel, the most highly decorated German serviceman of the war, credited with destroying over 500 tanks. Around 6,500 Stukas were built in total before production ended in 1944 as the type was rendered increasingly obsolete by Allied air superiority.",
   "specifications": {
@@ -245,6 +246,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

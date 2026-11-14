@@ -14,6 +14,7 @@
   "role": "Twin-Engine Utility Helicopter",
   "tagline": "The versatile twin-engine helicopter flying air ambulance, police, offshore and light military missions worldwide. Its five-bladed bearingless main rotor and spacious, flat-floored cabin have made it one of the world's most widely used helicopters for emergency medical services and utility work.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": true,
   "history": "The H145 traces its lineage to the BK117 developed jointly by MBB (a predecessor of today's Airbus Helicopters) and Kawasaki Heavy Industries from the 1970s, which evolved through the EC145 (used memorably as the US Presidential fleet's backup 'Marine One' configuration in the early 2000s, and by German federal police) into the modern H145. The definitive H145 configuration, introduced in 2014 as the EC145 T2 before Airbus's 2015 helicopter product renaming, replaced the old four-bladed hinged rotor with a new five-bladed bearingless Fenestron-tailed design that significantly boosted payload, reduced vibration and simplified maintenance by eliminating hundreds of moving parts. Its combination of range, hover performance at altitude and cabin space made it an immediate favourite of air ambulance operators worldwide - it is the most common helicopter type in German HEMS (helicopter emergency medical service) fleets and widely used by air ambulance operators across Europe and North America - as well as offshore transport companies and law enforcement air support units. Airbus also markets a lightly armed military variant, the H145M, which has been ordered by Germany, Hungary, Thailand, Serbia and the US Army (which selected a version as its UH-72B Lakota light utility helicopter), giving the airframe a genuinely dual civilian-military production life. In 2021 Airbus introduced the H145 with a new five-bladed rotor upgrade path for existing four-bladed aircraft, and continues high-rate production of the type from its Donauwörth, Germany facility.",
   "specifications": {
@@ -281,6 +282,11 @@
       "date": "2026-07-31",
       "change": "Updated the news links with current stories.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

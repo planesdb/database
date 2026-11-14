@@ -13,6 +13,7 @@
   "role": "Stealth Air Superiority Fighter Prototype",
   "tagline": "Northrop's entry in the Advanced Tactical Fighter fly-off, and the faster and stealthier of the two designs the U.S. Air Force flew in 1990. Two prototypes flew 50 times between them before the service picked the Lockheed YF-22 in April 1991; both survive in museums, and neither ever carried a weapon.",
   "status": "Cancelled",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Both prototypes flew a combined total of just 50 flights and 65.2 flight hours before the competition ended.",
@@ -115,6 +116,11 @@
     {
       "date": "2026-09-21",
       "change": "Northrop/McDonnell Douglas YF-23 added - history, specs, variants, operators and survivors. Sources: Wikipedia and the National Museum of the United States Air Force fact sheet.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

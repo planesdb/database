@@ -11,6 +11,7 @@
   "role": "Quiet Supersonic Research Aircraft",
   "tagline": "A single-seat experimental aircraft built by Lockheed Martin's Skunk Works for NASA to find out whether supersonic flight can be made quiet enough to allow over land. It is designed to cruise at Mach 1.4 and 55,000 ft while putting a sonic thump of under 75 PLdB on the ground instead of a conventional boom.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "The nose is so long that the pilot has no forward window - an eXternal Vision System feeds a 4K camera image to a cockpit display instead",
@@ -96,6 +97,11 @@
     {
       "date": "2026-09-16",
       "change": "New entry for the Lockheed Martin X-59 Quesst - history, specs, variants, operators and flight testing. Sources: NASA Quesst mission material, Lockheed Martin product documentation and the FAA's July 2026 supersonic overland rulemaking notice.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

@@ -1,0 +1,189 @@
+{
+  "name": "707",
+  "fullName": "Boeing 707",
+  "manufacturer": "Boeing",
+  "originCountry": { "name": "United States", "code": "us" },
+  "category": "civilian",
+  "categories": ["cargo"],
+  "role": "Long-range jet airliner and military transport",
+  "tagline": "The Boeing 707 is a four-engine, swept-wing jet airliner built in Renton, Washington, that opened the jet age for ordinary air travellers. Pan Am flew it across the Atlantic on 26th October 1958, and 1,010 airframes including the shorter 720 were built before civil production ended in 1978.",
+  "status": "Retired",
+  "condition": "Preserved - Static Display",
+  "inProduction": false,
+  "quickFacts": [
+    "Boeing built the 707 around a privately funded prototype, the 367-80 or 'Dash 80', which first flew on 15th July 1954. It was the same airframe that Boeing's tanker, the KC-135, grew out of, so one aircraft launched both the airliner and the USAF's tanker fleet.{{ref:wiki-707}}",
+    "In August 1955 chief test pilot Tex Johnston rolled the Dash 80 over Lake Washington during the Seattle hydroplane races, in full view of airline executives. Boeing management told him not to do it again.{{ref:wiki-707}}",
+    "Pan Am's first 707 service flew from New York Idlewild to Paris Le Bourget on 26th October 1958, with a fuel stop at Gander, Newfoundland. The de Havilland Comet 4 had opened its own transatlantic jet service three weeks earlier.{{ref:wiki-707}}{{ref:planeandpilot-comet}}",
+    "The 707 fuselage cross-section was kept for the 727, 737 and 757, so every narrow-body Boeing sold since the 1960s carries a cabin width first drawn for the 707.{{ref:wiki-707}}",
+    "The last civil 707 flight on record ended in a fatal cargo crash in Iran on 14th January 2019, which killed 15 people. A handful of 707-derived military aircraft, including the E-3 Sentry and E-8 JSTARS, are still in service.{{ref:wiki-707}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the 707-320B, the long-range version that sold most strongly after the original 707-120. The 707-120 was shorter (145 ft) with a smaller wing, and 'first flight' is the Dash 80 prototype. The 707-120 itself first flew on 20th December 1957.",
+    "maxSpeed": { "mph": 627, "text": "545 kn (627 mph / 1,009 km/h)" },
+    "cruiseSpeed": "550 mph (885 km/h, Mach 0.82)",
+    "range": { "miles": 4320, "text": "4,320 mi (6,940 km, 3,750 nmi)" },
+    "serviceCeiling": { "ft": 42000, "text": "42,000 ft (12,800 m)" },
+    "wingspan": { "ft": 145.75, "text": "145 ft 9 in (44.42 m)" },
+    "length": { "ft": 152.9, "text": "152 ft 11 in (46.61 m)" },
+    "height": { "ft": 42.4, "text": "42 ft 5 in (12.93 m)" },
+    "weight": "empty: 146,400 lb (66,406 kg); MTOW: 333,600 lb (151,320 kg)",
+    "engines": "4 x Pratt & Whitney JT3D-3 turbofans, 18,000 lbf (80 kN) each",
+    "crew": "3 flight crew (4 with a navigator on overwater routes) plus cabin crew",
+    "capacity": "141 passengers in two classes; up to 189 in a single-class layout",
+    "firstFlight": { "date": "1954-07-15", "year": 1954 },
+    "serviceEntryDate": "1958-10-26",
+    "retiredDate": "April 2013",
+    "numberBuilt": 1010,
+    "unitCost": {
+      "usd": 10000000,
+      "text": "about $10M (707-320C, 1972) - roughly $81M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$81M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "367-80 'Dash 80'",
+      "desc": "The prototype, rolled out on 14th May 1954 and first flown on 15th July 1954. Boeing built it speculatively, without a launch customer, to prove a swept-wing four-jet airliner to the airlines and to the USAF at the same time. The airframe was later used for flight trials of engines, flaps and boundary-layer control, and it was restored and moved to the Smithsonian's Udvar-Hazy Center in 2003."
+    },
+    {
+      "code": "707-120 / -120B",
+      "desc": "The first production model, with four Pratt & Whitney JT3C turbojets that needed water injection for take-off. It first flew on 20th December 1957 and was certified on 18th September 1958. The -120B, flown from 1960, swapped in JT3D turbofans, which were quieter, cleaner and gave more thrust with no water tank, saving 5,000 to 6,000 lb of water. Qantas bought a shortened version, the 707-138."
+    },
+    {
+      "code": "707-320 Intercontinental / -320B",
+      "desc": "The longer-range version, with a stretched fuselage and a larger wing to carry a full passenger load non-stop from New York to Europe. The -320 first flew on 11th January 1958 and entered service in 1959. The -320B with JT3D turbofans and a redesigned wing entered service with Pan Am in June 1962 and became the standard long-range airliner of the mid-1960s."
+    },
+    {
+      "code": "707-320C",
+      "desc": "A convertible passenger and freight version with a strengthened floor, a large forward cargo door and three-section leading-edge flaps, in service from 1963. It was the most numerous variant, at about 335 aircraft, and many ended their lives as freighters in Africa, South America and the Middle East after the airlines sold them on."
+    },
+    {
+      "code": "707-420 and 707-220",
+      "desc": "Customer variants built around engines other than Pratt & Whitney's. The -420 used Rolls-Royce Conway bypass turbojets for BOAC, Lufthansa, Air India and Varig. The -220, a Braniff order for hot-and-high airports, used JT4A turbojets and was built in very small numbers."
+    },
+    {
+      "code": "720",
+      "desc": "A shorter, lighter, lower-cost 707 designed for medium-range routes, with a modified wing and a 112 ft 7 in fuselage, whose 154 built are counted in the 1,010 total. The 720B added JT3D turbofans and extended the type's performance on shorter runways and routes."
+    },
+    {
+      "code": "Military derivatives (C-137, E-3, E-8, E-6)",
+      "desc": "Boeing converted the 707 into a family of military aircraft. The C-137 Stratoliner served as VIP transport from 1962 to 1990, including VC-137C SAM 26000 (a 707-320B) used by Presidents from Kennedy to Clinton. The E-3 Sentry AWACS, E-8 Joint STARS and E-6 Mercury are built on the 707 airframe, with new-build production continuing until 1991."
+    }
+  ],
+  "operators": [
+    { "name": "Pan Am", "role": "Launch customer", "status": "Retired", "since": "1958", "fleetSize": "Retired", "homeBase": "New York JFK (Idlewild) - New York" },
+    { "name": "Qantas", "role": "First non-US 707 operator", "status": "Retired", "since": "1959", "fleetSize": "Retired", "homeBase": "Sydney Kingsford Smith - New South Wales" },
+    { "name": "American Airlines", "role": "Early operator", "status": "Retired", "since": "1959", "fleetSize": "Retired", "homeBase": "New York JFK - New York" },
+    { "name": "British Airways", "role": "Operated by predecessor BOAC", "status": "Retired", "since": "1960", "fleetSize": "Retired", "homeBase": "London Heathrow - England" },
+    { "name": "Air France", "role": "Early operator", "status": "Retired", "since": "1959", "fleetSize": "Retired", "homeBase": "Paris Orly - France" },
+    { "name": "Lufthansa", "role": "Early operator", "status": "Retired", "since": "1960", "fleetSize": "Retired", "homeBase": "Frankfurt - Germany" },
+    { "name": "United States Air Force", "role": "VIP transport (C-137) and 707-derived AWACS, JSTARS and E-6", "status": "In Service", "since": "1962", "fleetSize": "Derivatives only", "homeBase": "Joint Base Andrews - Maryland" },
+    { "name": "Israeli Air Force", "role": "Transport and tanker", "status": "Retired", "since": "1970s", "fleetSize": "Retired", "homeBase": "Nevatim Airbase - Israel" }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "B703 (707-320) / B701 (707-100)",
+    "howToFind": "The 707 is effectively gone from scheduled service, so any airborne example is a rarity. Filter by B703 and look for the few cargo or government operators in Africa, the Middle East and South America. The military E-3 Sentry shows as E3TF and the E-6 Mercury as E6, which are separate types from the airliner."
+  },
+  "lastUpdated": "2026-11-13",
+  "changelog": [
+    { "date": "2026-11-13", "change": "New entry for the Boeing 707 - history, specs, variants, operators and the main accident record. The overview covers the Dash 80, the Pan Am launch and the military spin-offs.", "author": "planesdb" },
+    { "date": "2026-11-14", "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.", "author": "planesdb" }
+  ],
+  "tags": ["707", "boeing 707", "707-320", "dash 80", "367-80", "jet age", "pan am", "airliner", "c-137", "air force one"],
+  "article": {
+    "overview": [
+      "The Boeing 707 is a four-engine, swept-wing jet airliner and the aircraft that turned jet travel from a novelty into the normal way of crossing an ocean. It entered service with Pan Am on 26th October 1958 and ended up as a 1,010-airframe programme, including the shorter 720, by the time civil production wound down in 1978.{{ref:wiki-707}}",
+      "It was neither the first jet airliner nor the fastest. The de Havilland Comet flew passengers six years earlier. What the 707 had was a sound structure, the pairing of a swept wing with underwing engine pods, and a manufacturer that was willing to bet its own money on an idea that the airlines had not yet bought.{{ref:wiki-707}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: The Dash 80",
+        "paragraphs": [
+          "Boeing's route into jet airliners ran through the military. The company had built the B-47 and B-52 and drew heavily on that swept-wing experience, then decided to fund a prototype jet transport out of its own resources instead of waiting for an airline order. The 367-80, always called the Dash 80, rolled out on 14th May 1954 and first flew from Renton on 15th July 1954. It was meant to serve two customers at once: the airlines and the USAF, which needed a tanker for its jet bombers.{{ref:wiki-707}}",
+          "The Dash 80 earned its keep as a sales tool. At Seattle in August 1955, chief test pilot Tex Johnston flew a barrel roll in it over the Gold Cup hydroplane race, with airline executives watching from the shore. Boeing management told him not to repeat it, but the demonstration had made its point about the aircraft's strength and handling.{{ref:wiki-707}} Pan Am ordered 20 707s in October 1955 alongside 25 Douglas DC-8s, and the contest that followed shaped the rest of the decade.{{ref:thisdayinaviation-367-80}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The 707 combined a 35 degree swept wing, four engines slung in pods ahead of and below the wing, and a fuselage with a 148 in (3.76 m) outside width, wide enough to seat six abreast. That cross-section was reused for the 727, 737 and the 757, which is why many airline cabins still share a basic width with the 707.{{ref:wiki-707}}{{ref:aerocorner-707}}",
+          "The early aircraft used Pratt & Whitney JT3C turbojets, which gave 13,000 lbf with water injection at take-off. The water system was heavy, messy and noisy. The JT3D turbofan, which arrived on the -120B and -320B models, removed it and saved 5,000 to 6,000 lb of water weight, while quieting the engines enough that the type lasted into the era of noise limits. By the late 1980s 172 aircraft had been fitted with a hush kit, the so-called Quiet 707 package.{{ref:wiki-707}}"
+        ]
+      },
+      {
+        "heading": "Entering Service Against the Comet and DC-8",
+        "paragraphs": [
+          "Pan Am's inaugural 707 service flew from New York Idlewild to Paris Le Bourget on 26th October 1958 with a fuel stop at Gander. The 707 was not the first jet on the Atlantic: BOAC had started Comet 4 service on 4th October 1958, three weeks earlier, but the Comet carried far fewer passengers and the 707 was the aircraft the airlines actually wanted to buy in quantity.{{ref:wiki-707}}{{ref:planeandpilot-comet}}",
+          "The -320 Intercontinental, with a stretched fuselage and bigger wing, first flew on 11th January 1958 and entered service the following year. Qantas became the first non-US operator in 1959 with the shortened 707-138, bought to fly the Pacific. The -320B reached Pan Am in June 1962 and the -320C convertible, which could carry freight or passengers on the same airframe, followed in 1963 and became the most numerous variant.{{ref:wiki-707}}"
+        ]
+      },
+      {
+        "heading": "Military Service & Air Force One",
+        "paragraphs": [
+          "The 707's military career was almost as large as its civil one. The KC-135 tanker was developed in parallel from the Dash 80, and the E-3 Sentry airborne-warning aircraft, the E-8 Joint STARS and the E-6 Mercury all use the 707 airframe. New-build production for these continued until 1991, well after Boeing stopped selling the type to airlines.{{ref:wiki-707}}",
+          "The C-137 Stratoliner served as a VIP transport from 1962 to 1990. VC-137C SAM 26000, a modified 707-320B, was the aircraft that carried President Kennedy's body back from Dallas, and it is now displayed at the National Museum of the US Air Force near Dayton, Ohio. VC-137B SAM 970 is at the Museum of Flight in Seattle.{{ref:wiki-707}}"
+        ]
+      },
+      {
+        "heading": "Safety, Noise & Decline",
+        "paragraphs": [
+          "The 707 was an unforgiving aircraft by modern standards and the accident rolls show it. By January 2019 the type had been involved in 261 occurrences, 174 hull losses and 3,039 fatalities, and the worst single event was the Agadir disaster of 3rd August 1975, which killed 188 people.{{ref:wiki-707}} Early problems included Dutch roll, which cost a Braniff 707-227 in 1959, and a lightning-ignited fuel-tank explosion that destroyed Pan Am Flight 214 over Maryland in December 1963.{{ref:wiki-pan-am-214}}",
+          "Newer, quieter and cheaper twin-engine aircraft pushed the 707 out of airline fleets from the 1980s onward, as noise rules and fuel prices bit. Many ended as freighters, then in small African, South American and Middle Eastern operations. The last known civil 707 operation ended with a Saha Airlines cargo crash in Iran on 14th January 2019 that killed 15 people. A few 707-derived military aircraft still fly, and Boeing's Dash 80 sits in the Smithsonian's Udvar-Hazy Center, restored and open to the public.{{ref:wiki-707}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    { "id": "wiki-707", "name": "Boeing 707", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Boeing_707" },
+    { "id": "thisdayinaviation-367-80", "name": "Boeing 367-80 (tag archive)", "publisher": "This Day in Aviation", "url": "https://www.thisdayinaviation.com/tag/boeing-367-80/" },
+    { "id": "planeandpilot-comet", "name": "de Havilland Comet 4 entry", "publisher": "Plane & Pilot", "url": "https://www.planeandpilotmag.com/?p=14852" },
+    { "id": "aerocorner-707", "name": "Boeing 707 data", "publisher": "Aerocorner", "url": "https://aerocorner.com/aircraft/boeing-707/" },
+    { "id": "wiki-pan-am-214", "name": "Pan Am Flight 214", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_214" }
+  ],
+  "furtherReading": [
+    { "name": "Boeing 367-80 history and specifications - This Day in Aviation", "url": "https://www.thisdayinaviation.com/tag/boeing-367-80/" },
+    { "name": "Boeing 707 on Wikipedia", "url": "https://en.wikipedia.org/wiki/Boeing_707" }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1961-02-15",
+      "title": "Sabena Flight 548",
+      "tag": "Loss of control",
+      "summary": "A Sabena 707-329 crashed on approach to Brussels, killing all 72 people aboard and one person on the ground. The aircraft was carrying the US figure skating team to the world championships in Prague. A flight-control failure, probably in the tail stabiliser mechanism, was suspected, though the cause was never confirmed.",
+      "fatalities": 73,
+      "source": "https://en.wikipedia.org/wiki/Sabena_Flight_548"
+    },
+    {
+      "date": "1963-12-08",
+      "title": "Pan Am Flight 214 lightning strike",
+      "tag": "Lightning / fuel tank",
+      "summary": "A Pan Am 707-121 caught fire and broke apart over a Maryland cornfield near Elkton after lightning is believed to have ignited fuel vapour in a wing tank. All 81 people aboard were killed. The investigation changed how fuel tanks and lightning protection were designed.",
+      "fatalities": 81,
+      "source": "https://en.wikipedia.org/wiki/Pan_Am_Flight_214"
+    },
+    {
+      "date": "1975-08-03",
+      "title": "Agadir air disaster",
+      "tag": "Controlled flight into terrain",
+      "summary": "A chartered Boeing 707 flew into a mountain on approach to Agadir in Morocco, killing 188 people. It remains the deadliest accident in the history of the 707.",
+      "fatalities": 188,
+      "source": "https://en.wikipedia.org/wiki/Boeing_707"
+    },
+    {
+      "date": "1990-01-25",
+      "title": "Avianca Flight 52",
+      "tag": "Fuel exhaustion",
+      "summary": "An Avianca 707-321B ran out of fuel after repeated holding delays near New York and crashed at Cove Neck on Long Island, about 20 miles from JFK. Seventy-three of the 158 people aboard died. The NTSB blamed the crew for not declaring a fuel emergency.",
+      "fatalities": 73,
+      "source": "https://en.wikipedia.org/wiki/Avianca_Flight_52"
+    },
+    {
+      "date": "2019-01-14",
+      "title": "Saha Airlines 707 cargo crash",
+      "tag": "Runway overrun",
+      "summary": "A Saha Airlines 707 cargo aircraft crashed near Karaj in Iran after a landing incident, killing 15 people. It was the last fatal accident to a civil 707 on record, and it ended the type's last scheduled use.",
+      "fatalities": 15,
+      "source": "https://en.wikipedia.org/wiki/Boeing_707"
+    }
+  ]
+}

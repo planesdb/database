@@ -1,0 +1,233 @@
+{
+  "name": "Spirit of St. Louis",
+  "fullName": "Ryan NYP Spirit of St. Louis",
+  "manufacturer": "Ryan Airlines",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "civilian",
+  "categories": [],
+  "role": "Long-range single-seat monoplane built for a transatlantic prize flight",
+  "tagline": "The Spirit of St. Louis is the single-engine, single-seat Ryan monoplane in which Charles Lindbergh made the first solo non-stop flight from New York to Paris on 20th and 21st May 1927. Ryan Airlines of San Diego built it in 60 days, and it hangs in the National Air and Space Museum in Washington.",
+  "status": "Retired",
+  "condition": "Preserved - Static Display",
+  "inProduction": false,
+  "quickFacts": [
+    "Lindbergh won the US$25,000 Orteig Prize, offered for the first non-stop flight between New York and Paris. He left Roosevelt Field, Garden City, New York, on 20th May 1927 and landed at Le Bourget on 21st May after 33 hours and 30 minutes and about 3,600 miles.{{ref:wiki-spirit}}",
+    "Ryan Airlines of San Diego built the aircraft in 60 days after Lindbergh arrived on 23rd February 1927. Donald A. Hall was chief engineer, and it was adapted from the 1926 Ryan M-2 mailplane with a larger wingspan and greater range.{{ref:wiki-spirit}}",
+    "There is no forward windshield. A fuel tank sits in front of the pilot, and a periscope was installed for forward vision.{{ref:wiki-spirit}}",
+    "The aircraft carried no radio. Lindbergh navigated with an earth inductor compass from the Pioneer Instrument Company, and had the top and bottom of his maps cut off to save weight.{{ref:wiki-spirit}}",
+    "The fuel load was 450 US gallons in five tanks, about 2,710 lb, and a 223 hp Wright J-5C Whirlwind radial gave a maximum speed of 133 mph.{{ref:wiki-spirit}}",
+    "On 30th April 1928 Lindbergh flew it from St. Louis to Bolling Field and donated it to the Smithsonian after 174 flights and 489 hours 28 minutes. It has hung in the National Air and Space Museum since 1976.{{ref:wiki-spirit}}"
+  ],
+  "specifications": {
+    "specificationsNote": "The aircraft was a one-off, with a second, the NYP-2, built for a Japanese newspaper after the flight. The page lists a gross weight of 2,888 lb and a maximum take-off weight of 5,135 lb, and the first figure does not reconcile with the fuel load alone, so only empty weight and maximum take-off weight are quoted here. Cruise speed is 100 to 110 mph.",
+    "maxSpeed": {
+      "mph": 133,
+      "text": "116 kn (133 mph / 214 km/h)"
+    },
+    "cruiseSpeed": "87 to 96 kn (100 to 110 mph)",
+    "range": {
+      "miles": 4100,
+      "text": "4,100 mi (6,600 km)"
+    },
+    "serviceCeiling": {
+      "ft": 16400,
+      "text": "16,400 ft (5,000 m)"
+    },
+    "wingspan": {
+      "ft": 46,
+      "text": "46 ft 0 in (14 m)"
+    },
+    "length": {
+      "ft": 27.58,
+      "text": "27 ft 7 in (8.41 m)"
+    },
+    "height": {
+      "ft": 9.83,
+      "text": "9 ft 10 in (3.00 m)"
+    },
+    "weight": "empty: 2,150 lb (975 kg); MTOW: 5,135 lb (2,329 kg)",
+    "engines": "1 x Wright J-5C Whirlwind 9-cylinder air-cooled radial, 223 hp",
+    "crew": "1",
+    "capacity": "None; 450 US gal of fuel in five tanks",
+    "firstFlight": {
+      "date": null,
+      "year": 1927
+    },
+    "serviceEntryDate": "1927-05-20",
+    "numberBuilt": 2,
+    "unitCost": {
+      "usd": null,
+      "text": "Reported: quoted as US$6,000, then US$10,580 in 1927, with Lindbergh contributing US$2,000 of his savings; final cost not published",
+      "inflationText": "Reported as US$6,000 and US$10,580 in 1927"
+    },
+    "retiredDate": "1928-04-30"
+  },
+  "variants": [
+    {
+      "code": "Ryan NYP Spirit of St. Louis",
+      "desc": "The aircraft Lindbergh flew from New York to Paris, registered N-X-211. It was adapted from the 1926 Ryan M-2 mailplane with a larger wingspan and greater range, and its tail and control surfaces were kept from the M-2. The result was a negatively stable design."
+    },
+    {
+      "code": "Ryan NYP-2",
+      "desc": "A second aircraft built 45 days after the flight for Japan's Mainichi newspaper and registered J-BACC. It crashed in early 1928. Together with the original, it makes up the two aircraft counted as built by Ryan."
+    },
+    {
+      "code": "Reproductions",
+      "desc": "Many reproductions exist, including three Warner Bros. aircraft built for the 1957 film, Frank Tallman's Spirit 2 and Spirit 3, two Experimental Aircraft Association aircraft and a JNE Aircraft example finished in 2019. A Ryan B-1 Brougham and a B-1X, NX4215, were given and built for Lindbergh by B. Franklin Mahoney."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Charles Lindbergh",
+      "role": "Owner and pilot",
+      "status": "Retired",
+      "since": "1927",
+      "fleetSize": "1 aircraft; 174 flights and 489 hours 28 minutes by 30th April 1928",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Smithsonian Institution (National Air and Space Museum)",
+      "role": "Museum exhibit",
+      "status": "Preserved",
+      "since": "1928",
+      "fleetSize": "1 aircraft; displayed since 1976 in the museum atrium",
+      "homeBase": "Washington, D.C., United States"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "The original aircraft is a museum exhibit and does not fly. Reproductions fly at a few airshows in the United States and Europe."
+  },
+  "tags": [
+    "Spirit of St. Louis",
+    "Charles Lindbergh",
+    "Ryan",
+    "Orteig Prize",
+    "transatlantic",
+    "1927",
+    "NASM"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Spirit of St. Louis, with the build in San Diego, the cockpit and fuel layout, the 20th and 21st May 1927 flight, the Smithsonian donation and the replicas.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Corrected the Smithsonian's operator status to Preserved.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Spirit of St. Louis is the single-engine monoplane Charles Lindbergh flew from New York to Paris on 20th and 21st May 1927, the first solo non-stop flight between the two cities. It won him the US$25,000 Orteig Prize.{{ref:wiki-spirit}}{{ref:tdia}}",
+      "Ryan Airlines of San Diego built it, and it is displayed at the National Air and Space Museum in Washington.{{ref:wiki-spirit}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: An M-2 with Fuel Tanks",
+        "paragraphs": [
+          "Ryan Airlines, owned by B. Franklin Mahoney, built the aircraft in San Diego. Lindbergh arrived on 23rd February 1927, Donald A. Hall was chief engineer and Hawley Bowlus was factory manager. It was built in 60 days and registered N-X-211, an experimental registration.{{ref:wiki-spirit}}",
+          "It was adapted from the 1926 Ryan M-2 mailplane, with a larger wingspan and greater range. Mahoney first agreed to build it for US$6,000, then offered US$10,580 after further discussions, and Lindbergh put in US$2,000 from his savings. A group of St. Louis businessmen backed the project, and the name was Lindbergh's thanks to them.{{ref:wiki-spirit}}{{ref:brit}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering: What Was Left Out",
+        "paragraphs": [
+          "A 223 hp Wright J-5C Whirlwind radial, built by Tom Rutledge at Wright Aeronautical in Paterson, New Jersey, pulled the aircraft along. The fuel load was 450 US gallons in five tanks, about 2,710 lb. The wing has a 46 ft span, the length is 27 ft 7 in and the maximum speed 133 mph, with a quoted range of 4,100 miles and a ceiling of 16,400 ft.{{ref:wiki-spirit}}",
+          "The forward fuel tank sat in front of the pilot, so there was no forward windshield. A periscope was installed for forward vision, though it is unclear whether Lindbergh used it on the flight. The cockpit is 36 by 32 by 52 inches, there was no radio, and navigation used an earth inductor compass. The tail and control surfaces came from the M-2, which made the aircraft negatively stable.{{ref:wiki-spirit}}"
+        ]
+      },
+      {
+        "heading": "Preparing for the Prize",
+        "paragraphs": [
+          "Lindbergh took the aircraft from San Diego to St. Louis and on to New York on 10th to 12th May 1927, and then waited several days for the weather. Two Frenchmen, Charles Nungesser and Francois Coli, had taken off from Le Bourget for New York on 8th May in a Levasseur PL-8 biplane, and Rene Fonck's overloaded Sikorsky S-35 had crashed on take-off at Roosevelt Field in September 1926, killing two of his crew.{{ref:brit}}{{ref:airspace}}",
+          "Lindbergh saved weight everywhere he could. He had the top and bottom cut off his maps, carried no souvenir mail so that every spare ounce could be fuel, and had the cracked propeller spinner replaced in New York.{{ref:wiki-spirit}}"
+        ]
+      },
+      {
+        "heading": "The Flight",
+        "paragraphs": [
+          "Lindbergh took off from a muddy Roosevelt Field at 7:52 a.m. on 20th May 1927 so heavily loaded that he barely cleared the telephone wires at the end of the runway. He landed at Le Bourget at 10:22 p.m. local time on 21st May. Some sources give 10:24 p.m.{{ref:tdia}}{{ref:airspace}}{{ref:brit}}",
+          "The flight took 33 hours and 30 minutes and covered about 3,600 miles, and a great-circle measurement from Roosevelt Field to Le Bourget gives 3,619 miles. More than 100,000 people were waiting at Le Bourget.{{ref:wiki-spirit}}{{ref:tdia}}{{ref:history}}"
+        ]
+      },
+      {
+        "heading": "After the Flight and the Smithsonian",
+        "paragraphs": [
+          "Lindbergh flew the aircraft to Belgium and England, and it came back to the United States aboard the cruiser USS Memphis. It arrived in Washington on 11th June 1927, where Lindbergh received the Distinguished Flying Cross, and it toured the United States and Latin America for about ten months.{{ref:wiki-spirit}}",
+          "On 30th April 1928 Lindbergh flew it from St. Louis to Bolling Field and donated it to the Smithsonian. It had made 174 flights totalling 489 hours 28 minutes. It hung in the Arts and Industries Building from 1928 to 1976 and has been in the National Air and Space Museum atrium since, next to the Bell X-1 and SpaceShipOne. The exhibit reopened in 2025 after renovation.{{ref:wiki-spirit}}"
+        ]
+      },
+      {
+        "heading": "Replicas and Copies",
+        "paragraphs": [
+          "The NYP-2 was built 45 days after the flight for Japan's Mainichi newspaper, registered J-BACC, and crashed in early 1928. Three Warner Bros. reproductions built for the 1957 film, B-153, B-156 and B-159, still survive. Frank Tallman's Spirit 2 first flew on 24th April 1967, and Spirit 3 replaced it after arson destroyed Spirit 2 in 1978, first flying on 28th April 1979.{{ref:wiki-spirit}}",
+          "The Experimental Aircraft Association built two reproductions, in 1977 and in 1990. An Estonian reproduction, ES-XCL, crashed at Coventry on 31st May 2003, killing the pilot, Pierre Hollander. Old Rhinebeck Aerodrome's reproduction made its public debut on 21st May 2016, and JNE Aircraft finished one in 2019, which first flew on 28th July 2019.{{ref:wiki-spirit}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-spirit",
+      "name": "Spirit of St. Louis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spirit_of_St._Louis"
+    },
+    {
+      "id": "tdia",
+      "name": "Orteig Prize",
+      "publisher": "This Day in Aviation",
+      "url": "https://thisdayinaviation.com/tag/orteig-prize"
+    },
+    {
+      "id": "brit",
+      "name": "Spirit of Saint Louis",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://britannica.com/topic/Spirit-of-Saint-Louis"
+    },
+    {
+      "id": "airspace",
+      "name": "Lindbergh's flight",
+      "publisher": "Air and Space Forces Magazine",
+      "url": "https://www.airandspaceforces.com/?p=100125"
+    },
+    {
+      "id": "history",
+      "name": "Lindbergh lands in Paris",
+      "publisher": "History.com",
+      "url": "https://www.history.com/this-day-in-history/may-21/lindbergh-lands-in-paris"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Spirit of St. Louis on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spirit_of_St._Louis"
+    },
+    {
+      "name": "Spirit of Saint Louis on Britannica",
+      "url": "https://britannica.com/topic/Spirit-of-Saint-Louis"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "2003-05-31",
+      "title": "Estonian Spirit reproduction ES-XCL crashes at Coventry",
+      "tag": "Replica",
+      "summary": "A reproduction of the Spirit of St. Louis crashed at Coventry, killing the pilot, Pierre Hollander. The original aircraft was not involved.",
+      "fatalities": 1,
+      "source": "https://en.wikipedia.org/wiki/Spirit_of_St._Louis"
+    }
+  ],
+  "lastUpdated": "2026-11-13"
+}

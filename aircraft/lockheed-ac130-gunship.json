@@ -13,6 +13,7 @@
   "role": "Fixed-Wing Gunship",
   "tagline": "The Lockheed AC-130 is a heavily armed gunship converted from the C-130 Hercules transport, with side-firing cannon that orbit a target in a left-hand turn. It has flown for the US Air Force since 1967 in Vietnam, the Gulf War, Afghanistan and Iraq, and the AC-130J Ghostrider is the version now in service.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "AC-130H Spirit 03 was shot down on 31st January 1991 during the Battle of Khafji by an Iraqi shoulder-fired missile and crashed into the Persian Gulf. All 14 crew were killed, the largest single loss of life for a US Air Force unit in Desert Storm and about 10 percent of the AC-130H fleet.",
@@ -128,6 +129,11 @@
     {
       "date": "2026-11-08",
       "change": "New AC-130 page covering all five gunship versions, the Vietnam losses, Spirit 03, the Kunduz strike and the museum airframes.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

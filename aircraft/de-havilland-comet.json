@@ -1,0 +1,280 @@
+{
+  "name": "Comet",
+  "fullName": "de Havilland DH.106 Comet",
+  "manufacturer": "de Havilland",
+  "originCountry": {
+    "name": "United Kingdom",
+    "code": "gb"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Long-range jet airliner",
+  "tagline": "The de Havilland DH.106 Comet is a four-jet British airliner and the first jet airliner to enter passenger service, with BOAC on 2nd May 1952. Two fatal fatigue failures in 1954 grounded it, and a redesigned Comet 4 returned in 1958 to fly the first scheduled jet service across the Atlantic.",
+  "status": "Retired",
+  "condition": "Preserved - Static Display",
+  "inProduction": false,
+  "quickFacts": [
+    "BOAC opened the world's first scheduled jet passenger service on 2nd May 1952, flying a Comet 1 from London to Johannesburg. The aircraft carried 36 to 44 passengers, depending on the seating layout.{{ref:wiki-comet}}",
+    "Two Comet 1s broke up in flight within three months in 1954: BOAC Flight 781 near Elba on 10th January, killing 35, and South African Airways Flight 201 near Stromboli on 8th April, killing 21. Every Comet was grounded.{{ref:wiki-comet}}",
+    "Investigators put a Comet fuselage in a water tank at Farnborough and cycled the pressure. On 24th June 1954 the test airframe G-ALYU burst after 3,057 flight cycles, with the failure starting at a cut-out for the radio direction finder aerial.{{ref:wiki-comet}}",
+    "On 4th October 1958 a BOAC Comet 4 began London to New York jet service, three weeks before Pan Am's first Boeing 707 flight on the same route. Eastbound it needed no fuel stop, and the flight took 6 hours 12 minutes.{{ref:wiki-comet}}",
+    "The maritime patrol aircraft Nimrod, a Comet derivative, flew for the RAF from 1969 and the last examples retired in June 2011, 62 years after the Comet's first flight.{{ref:wiki-comet}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the Comet 4, the definitive production version. The original Comet 1 was shorter (93 ft 10 in), had four de Havilland Ghost turbojets of about 5,000 lbf each, and carried 36 to 44 passengers. The 4C stretched the fuselage to about 118 ft. First flight is for the original Comet 1.",
+    "maxSpeed": {
+      "mph": 526,
+      "text": "457 kn (526 mph / 846 km/h)"
+    },
+    "cruiseSpeed": "503 mph (809 km/h)",
+    "range": {
+      "miles": 3225,
+      "text": "3,225 mi (5,190 km, 2,800 nmi) with a 16,800 lb payload"
+    },
+    "serviceCeiling": {
+      "ft": 42000,
+      "text": "42,000 ft (12,800 m)"
+    },
+    "wingspan": {
+      "ft": 114.83,
+      "text": "114 ft 10 in (35.0 m)"
+    },
+    "length": {
+      "ft": 111.5,
+      "text": "111 ft 6 in (34.0 m)"
+    },
+    "height": {
+      "ft": 29.5,
+      "text": "29 ft 6 in (9.0 m)"
+    },
+    "weight": "empty: 75,400 lb (34,200 kg); MTOW: 162,000 lb (73,500 kg)",
+    "engines": "4 x Rolls-Royce Avon Mk 524 turbojets, 10,500 lbf (46.8 kN) each",
+    "crew": "4 flight crew plus cabin crew",
+    "capacity": "56 to 109 passengers depending on layout (typically 60 to 81 on BOAC and other airline Comet 4s)",
+    "firstFlight": {
+      "date": "1949-07-27",
+      "year": 1949
+    },
+    "serviceEntryDate": "1952-05-02",
+    "retiredDate": "1981",
+    "numberBuilt": 114,
+    "unitCost": {
+      "usd": 3200000,
+      "text": "£1.14M (Comet 4 base price, 1958; about $3.2M at the 1958 exchange rate) - roughly $37M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$37M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "Comet 1 / 1A",
+      "desc": "The original aircraft, flown on 27th July 1949 by John Cunningham, with four de Havilland Ghost turbojets and large square windows. It carried 36 to 44 passengers and was the first jet airliner in passenger service. Two broke up in flight in 1954, and the Comet 1XB was a later conversion with strengthened structure and oval windows."
+    },
+    {
+      "code": "Comet 2",
+      "desc": "A stretched Comet with Rolls-Royce Avon engines in place of the Ghosts, which first flew on 27th August 1953 and seated 44. BOAC ordered 12, but the grounding stopped passenger deliveries. Most were rebuilt with stronger structure for RAF Transport Command, which used them from 1956 as the Comet C.2."
+    },
+    {
+      "code": "Comet 3",
+      "desc": "A development aircraft that first flew on 19th July 1954 and was 15 ft 5 in longer than the Comet 2. It was never fully pressurised, was never sold to airlines, and served mainly as a testbed for the structural and engine changes that went into the Comet 4."
+    },
+    {
+      "code": "Comet 4",
+      "desc": "The definitive airliner, which first flew on 27th April 1958 and entered service with BOAC that autumn. It had more powerful Avon engines giving about double the thrust of the original Ghosts, a thicker skin and larger fuel capacity. BOAC flew it across the Atlantic from 4th October 1958, and about 76 Comet 4s of all versions were delivered between 1958 and 1964."
+    },
+    {
+      "code": "Comet 4B",
+      "desc": "A shorter-range version with a longer fuselage and a shortened wing, built in 18 examples for European short-haul routes such as BEA and Olympic. It was developed from the cancelled Comet 4A, which Capital Airlines had ordered, and it carried more passengers over shorter sectors."
+    },
+    {
+      "code": "Comet 4C",
+      "desc": "A mixed-range version with the 4B's longer fuselage and the Comet 4's full wing and fuel capacity, built in 28 examples. Customers included Mexicana, Misrair, Kuwait Airways and Sudan Airways. One 4C, XS235 'Canopus', flew until 14th March 1997 as a trials aircraft."
+    },
+    {
+      "code": "Hawker Siddeley Nimrod",
+      "desc": "A maritime patrol and electronic-intelligence derivative built on the Comet's basic structure, with a new bomb bay and a long radar nose and tail boom. It entered RAF service in 1969. The last examples retired in June 2011, and it was the longest-lived descendant of the original airliner."
+    }
+  ],
+  "operators": [
+    {
+      "name": "British Airways",
+      "role": "Launch operator, as BOAC",
+      "status": "Retired",
+      "since": "1952",
+      "fleetSize": "Retired",
+      "homeBase": "London Heathrow - England"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "Transport (Comet C.2, C.4) and Nimrod maritime patrol",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "Retired",
+      "homeBase": "RAF Lyneham - Wiltshire"
+    },
+    {
+      "name": "Royal Canadian Air Force",
+      "role": "Transport (Comet 1A)",
+      "status": "Retired",
+      "since": "1953",
+      "fleetSize": "Retired",
+      "homeBase": "Uplands - Ontario"
+    },
+    {
+      "name": "Aerolíneas Argentinas",
+      "role": "Comet 4 operator",
+      "status": "Retired",
+      "since": "1959",
+      "fleetSize": "Retired",
+      "homeBase": "Buenos Aires Ezeiza - Argentina"
+    },
+    {
+      "name": "Dan-Air",
+      "role": "Last major passenger operator",
+      "status": "Retired",
+      "since": "1966",
+      "fleetSize": "Retired",
+      "homeBase": "London Gatwick - England"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "COMT",
+    "howToFind": "No Comet has flown commercially since 1981, and the only airworthy example, Comet 4C XS235 'Canopus', is kept in running condition at Bruntingthorpe in Leicestershire. Static airframes can be seen at IWM Duxford, the Science Museum at Wroughton and the Museum of Flight in Seattle."
+  },
+  "lastUpdated": "2026-11-13",
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the de Havilland Comet - the 1952 first jet service, the 1954 grounding and what the Farnborough tank test found, the Comet 4 and the Nimrod, plus the three fatal accidents.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "Comet",
+    "DH.106",
+    "de Havilland",
+    "comet 4",
+    "first jet airliner",
+    "BOAC",
+    "metal fatigue",
+    "nimrod",
+    "farnborough"
+  ],
+  "article": {
+    "overview": [
+      "The de Havilland DH.106 Comet is a four-jet British airliner, and it was the first jet airliner in the world to carry passengers on a scheduled service, when BOAC flew one from London to Johannesburg on 2nd May 1952. It was ahead of every rival by several years, and for a short while it made Britain look certain to dominate the jet age.{{ref:wiki-comet}}",
+      "Two accidents in 1954 showed that nobody, including the designers, yet understood how a pressurised metal fuselage failed from fatigue. The redesigned Comet 4 flew the Atlantic in 1958, but by then the Boeing 707 and Douglas DC-8 had overtaken it, and about 114 production aircraft were built in total.{{ref:wiki-comet}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "The Comet grew out of a wartime idea: a fast, pressurised transatlantic mail plane, proposed by the Brabazon Committee. When the idea was drawn up, no engine maker was yet building a turbojet with the thrust and fuel economy to power an aircraft at jet altitude and speed. De Havilland took the risk, built the aircraft around four Ghost turbojets buried in the wing roots and flew the first Comet at Hatfield on 27th July 1949 with John Cunningham at the controls.{{ref:wiki-comet}}",
+          "The first Comet carried 36 to 44 passengers, and its square windows and rapid climb to high altitude felt radically modern. BOAC began a freight service in January 1952 and passenger flights from London to Johannesburg on 2nd May 1952, using aircraft that were quieter, smoother and faster than anything with propellers.{{ref:wiki-comet}}{{ref:aerospaceweb-comet}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "The Comet was built around a pressurised cabin that would hold air at roughly sea-level density while the aircraft cruised at 35,000 ft or more. That meant the skin and its cut-outs carried a load every time the aircraft climbed and descended. De Havilland tested a forward fuselage section in a water tank, which survived more than 16,000 pressurisation cycles, and used that result to argue the structure was safe.{{ref:wiki-comet}}",
+          "The tests had missed how a full aircraft behaved over thousands of real flights. The Comet's cabin windows and the roof cut-outs for the automatic direction-finding aerial concentrated stress at their corners, and manufacturing by punch riveting added small cracks that fatigue could widen. Engineers later redesigned the whole fuselage with thicker skin, rounded cut-outs and crack-stopping structure.{{ref:wiki-comet}}{{ref:wiki-boac-781}}"
+        ]
+      },
+      {
+        "heading": "The 1954 Accidents and the Cohen Inquiry",
+        "paragraphs": [
+          "Comets had already lost aircraft on take-off and in a thunderstorm during 1953, but the breakup of G-ALYP on 10th January 1954 changed everything. BOAC Flight 781, from Singapore to London, disintegrated off Elba with all 35 aboard, and the Royal Navy recovered enough wreckage to point to a failure of the pressure cabin at the roof ADF window. Flights resumed after a check, then SAA Flight 201, G-ALYY, was lost near Stromboli on 8th April 1954 with 21 killed, and all Comets were grounded again with their airworthiness certificates withdrawn.{{ref:wiki-boac-781}}{{ref:wiki-saa-201}}",
+          "The Royal Aircraft Establishment at Farnborough put a Comet fuselage in a water tank and cycled the pressure to simulate flights. On 24th June 1954 G-ALYU burst after 3,057 flight cycles, of which 1,221 had been flown and 1,836 simulated, with the failure starting at the ADF cut-out. The Cohen inquiry, which ran from 19th October to 24th November 1954, found the basic design sound and attributed the failures to metal fatigue. Fatigue testing of pressure cabins is now routine because of it.{{ref:wiki-comet}}"
+        ]
+      },
+      {
+        "heading": "The Comet 4 and the Race with Boeing",
+        "paragraphs": [
+          "The Comet 4 first flew on 27th April 1958 and received its certificate on 24th September 1958. It had Avon engines giving about twice the thrust of the Ghosts, a stronger structure and more range. BOAC flew the first Comet 4 service from London to New York on 4th October 1958, taking 6 hours 12 minutes eastbound, though westbound flights still needed a fuel stop at Gander.{{ref:wiki-comet}} The de Havilland Aircraft Museum counts 74 Comet 4s of all versions, against 76 deliveries in other sources.{{ref:dh-museum-comet4}}",
+          "By then the Comet was outmatched. The Pan Am 707 first flew passengers across the Atlantic three weeks later and carried more people, and the DC-8 followed. Aerolíneas Argentinas took six Comet 4s from 1959 to 1960 for routes to Santiago, New York and Europe, but lost aircraft near Asunción on 27th August 1959 and at Campinas on 23rd November 1961. The airline retired the type, and Dan-Air bought the surviving flyable Comets, 48 of every mark in all.{{ref:wiki-comet}}"
+        ]
+      },
+      {
+        "heading": "Legacy & Survivors",
+        "paragraphs": [
+          "The Comet's biggest lasting effect was on aviation safety. Pressure-cabin fatigue testing, crack-stopper structure and rounded cut-outs all became standard after 1954, and the Comet's direct descendant, the Nimrod, flew for the RAF from 1969 until the last aircraft retired in June 2011. Other operators flew passenger Comets until 1981, and Comet 4C XS235 'Canopus' made the type's last flight on 14th March 1997.{{ref:wiki-comet}}",
+          "Complete Comet 4s are preserved at IWM Duxford (G-APDB), the Science Museum at Wroughton (a 4B, G-APYD), Hermeskeil in Germany (G-BDIW), the Museum of Flight in Seattle (N888WA) and the National Museum of Flight in Scotland (G-BDIX). Comet 1XB G-APAS is at RAF Museum Midlands, and a Comet 1A fuselage with the original square windows is at the de Havilland Aircraft Museum. Canopus is kept in running condition at Bruntingthorpe.{{ref:wiki-comet}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-comet",
+      "name": "de Havilland Comet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Comet"
+    },
+    {
+      "id": "wiki-boac-781",
+      "name": "BOAC Flight 781",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BOAC_Flight_781"
+    },
+    {
+      "id": "wiki-saa-201",
+      "name": "South African Airways Flight 201",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_201"
+    },
+    {
+      "id": "aerospaceweb-comet",
+      "name": "de Havilland Comet",
+      "publisher": "Aerospaceweb",
+      "url": "https://aerospaceweb.org/aircraft/jetliner/comet/index.shtml"
+    },
+    {
+      "id": "dh-museum-comet4",
+      "name": "de Havilland DH106 Comet 4",
+      "publisher": "de Havilland Aircraft Museum",
+      "url": "https://www.dehavillandmuseum.co.uk/aircraft/de-havilland-dh106-comet-4/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "de Havilland DH106 Comet 4 - de Havilland Aircraft Museum",
+      "url": "https://www.dehavillandmuseum.co.uk/aircraft/de-havilland-dh106-comet-4/"
+    },
+    {
+      "name": "de Havilland DH.106 Comet 4C - Museum of Flight, Seattle",
+      "url": "https://www.museumofflight.org/Exhibits-and-Events/Aircraft/de-havilland-dh-106-comet-mk-4c"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1954-01-10",
+      "title": "BOAC Flight 781",
+      "tag": "Structural failure",
+      "summary": "Comet 1 G-ALYP, flying from Singapore to London, broke up in flight off Elba after leaving Rome Ciampino, killing all 29 passengers and 6 crew. Salvage ships recovered wreckage, and investigators traced the failure to fatigue at the roof-mounted ADF window in the pressure cabin.",
+      "fatalities": 35,
+      "source": "https://en.wikipedia.org/wiki/BOAC_Flight_781"
+    },
+    {
+      "date": "1954-04-08",
+      "title": "South African Airways Flight 201",
+      "tag": "Structural failure",
+      "summary": "Comet 1 G-ALYY, chartered by SAA, crashed in the Mediterranean between Naples and Stromboli, killing all 21 aboard. The loss led to the withdrawal of every Comet's certificate of airworthiness and the grounding that lasted until the Comet 4 returned in 1958.",
+      "fatalities": 21,
+      "source": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_201"
+    },
+    {
+      "date": "1970-07-03",
+      "title": "Dan-Air Flight 1903",
+      "tag": "Controlled flight into terrain",
+      "summary": "Dan-Air Comet 4 G-APDN flew into the Montseny mountains near Arbúcies in Catalonia while descending to Barcelona, killing all 112 aboard. The crew gave a false position report and the controller misread another aircraft's radar echo as the Comet.",
+      "fatalities": 112,
+      "source": "https://en.wikipedia.org/wiki/Dan-Air_Flight_1903"
+    }
+  ]
+}

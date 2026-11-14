@@ -1,0 +1,298 @@
+{
+  "name": "A330",
+  "fullName": "Airbus A330",
+  "manufacturer": "Airbus",
+  "originCountry": {
+    "name": "France",
+    "code": "fr"
+  },
+  "category": "civilian",
+  "categories": [
+    "cargo"
+  ],
+  "role": "Wide-body twin-engine long-range airliner",
+  "tagline": "The Airbus A330 is a twin-engine, twin-aisle airliner built by Airbus in Toulouse, France, and the A340's two-engine sibling. It first flew on 2nd November 1992 and entered service in January 1994, and 1,671 had been delivered by July 2026, with the re-engined A330neo still in production.",
+  "status": "In Service",
+  "condition": "Operational - Commercial",
+  "inProduction": true,
+  "quickFacts": [
+    "Airbus launched the A330 and the four-engined A340 together on 5th June 1987, with 41 A330 orders in the book on the day. The two types share a wing design and a common cockpit and type rating.{{ref:wiki-a330}}",
+    "On 24th August 2001, Air Transat Flight 236 ran out of fuel over the Atlantic after a fuel line fractured. The crew glided the A330 about 65 nautical miles for roughly 19 minutes and landed at Lajes in the Azores with all 306 people alive.{{ref:wiki-airtransat-236}}",
+    "In November 2009 the A330 became the first aircraft to earn ETOPS-240 approval, allowing a twin to fly up to four hours from a diversion airport, which opened remote ocean routes to two-engined aircraft.{{ref:wiki-a330}}",
+    "Air France Flight 447, an A330-200, crashed in the Atlantic on 1st June 2009 with all 228 aboard killed, after icing blocked the pitot tubes and the crew then stalled the aircraft. The wreck was located on 3rd April 2011 after a two-year search.{{ref:wiki-af447}}",
+    "The A330 is also the basis of the A330 MRTT tanker, about 60 of which had been ordered by 13 countries by November 2020, and of the BelugaXL outsize cargo aircraft, which gave Airbus about 30 per cent more space than the original Beluga.{{ref:wiki-a330}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the A330-300, the first and longest of the original-generation aircraft. The A330-200 is shorter (58.82 m), flies further (13,450 km) and has the same MTOW. The A330neo uses Trent 7000 engines and a new wing with raked tips. Maximum speed is the maximum operating Mach number of 0.86 at cruise altitude.",
+    "maxSpeed": {
+      "mph": 570,
+      "text": "493 kn (570 mph / 913 km/h)"
+    },
+    "cruiseSpeed": "541 mph (871 km/h, Mach 0.82)",
+    "range": {
+      "miles": 7300,
+      "text": "7,300 mi (11,750 km, 6,340 nmi)"
+    },
+    "serviceCeiling": {
+      "ft": 41100,
+      "text": "41,100 ft (12,500 m)"
+    },
+    "wingspan": {
+      "ft": 197.8,
+      "text": "197 ft 10 in (60.3 m)"
+    },
+    "length": {
+      "ft": 208.9,
+      "text": "208 ft 10 in (63.66 m)"
+    },
+    "height": {
+      "ft": 55.1,
+      "text": "55 ft 1 in (16.79 m)"
+    },
+    "weight": "empty: 263,673 lb (119,600 kg); MTOW: 534,000 lb (242,000 kg)",
+    "engines": "2 x General Electric CF6-80E1, Pratt & Whitney PW4000 or Rolls-Royce Trent 700 turbofans, 64,500 to 71,100 lbf (287 to 316 kN) each",
+    "crew": "2 flight crew plus cabin crew",
+    "capacity": "277 passengers typical in three classes; up to 440 in a single-class layout",
+    "firstFlight": {
+      "date": "1992-11-02",
+      "year": 1992
+    },
+    "serviceEntryDate": "1994-01-17",
+    "numberBuilt": 1671,
+    "unitCost": {
+      "usd": 264200000,
+      "text": "$264.2M (A330-300 list price, 2018; airlines negotiate large discounts) - roughly $355M in 2026 dollars, adjusted for CPI inflation",
+      "inflationText": "≈$355M in 2026 dollars"
+    }
+  },
+  "variants": [
+    {
+      "code": "A330-300",
+      "desc": "The first version, which flew on 2nd November 1992 and entered service on 17th January 1994 with Air Inter on the Orly to Marseille route. It is 63.66 m long and typically seats 277 passengers, with a maximum of 440 in single-class layouts. The -300 was designed for regional and medium-long routes, and has a range of 11,750 km."
+    },
+    {
+      "code": "A330-200",
+      "desc": "A shortened A330 with a 58.82 m fuselage, first flown on 13th August 1997 and in service in 1998 with Canada 3000. It has a range of 13,450 km, against 11,750 km for the -300, and the same maximum take-off weight of 242,000 kg, which suits it to thinner long-haul routes."
+    },
+    {
+      "code": "A330-200F",
+      "desc": "A freighter built on the -200 airframe with a main-deck cargo door and no passenger windows. It has a range of about 7,400 km with its full payload. As airlines retire the original ceo generation, third-party companies have also converted A330 passenger aircraft into freighters."
+    },
+    {
+      "code": "A330 MRTT / KC-45",
+      "desc": "A military tanker and strategic transport based on the -200, with a boom or hose-and-drogue refuelling system and fuel carried in the wings and in additional tanks. About 60 had been ordered from 13 countries by November 2020. The KC-45 version lost the USAF's KC-X competition to Boeing's KC-46."
+    },
+    {
+      "code": "BelugaXL (A330-743L)",
+      "desc": "An outsize cargo aircraft with a bulging upper fuselage and a nose door, built to carry wings and fuselage sections between Airbus factories. It was rolled out on 4th January 2018, first flew on 19th July 2018 and began cargo ferry flights in January 2020, with about 30 per cent more space than the older Beluga."
+    },
+    {
+      "code": "A330neo (-800 / -900)",
+      "desc": "The re-engined version, launched in July 2014 with Rolls-Royce Trent 7000 engines and a new wing with larger span. The -900 first flew on 19th October 2017 and entered service with TAP Air Portugal in December 2018. The shorter -800 first flew on 6th November 2018 and was delivered to Kuwait Airways in October 2020."
+    }
+  ],
+  "operators": [
+    {
+      "name": "Delta Air Lines",
+      "role": "Largest A330 operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "81",
+      "homeBase": "Atlanta - Georgia"
+    },
+    {
+      "name": "Turkish Airlines",
+      "role": "Second-largest operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "60",
+      "homeBase": "Istanbul Airport - Turkey"
+    },
+    {
+      "name": "China Eastern Airlines",
+      "role": "Major operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "56",
+      "homeBase": "Shanghai Pudong - China"
+    },
+    {
+      "name": "Air China",
+      "role": "Major operator",
+      "status": "In Service",
+      "since": "2000s",
+      "fleetSize": "43",
+      "homeBase": "Beijing Capital - China"
+    },
+    {
+      "name": "Cathay Pacific",
+      "role": "Operator of the 1,000th A330",
+      "status": "In Service",
+      "since": "1990s",
+      "fleetSize": "43",
+      "homeBase": "Hong Kong International - Hong Kong"
+    },
+    {
+      "name": "Royal Air Force",
+      "role": "A330 MRTT as the Voyager tanker-transport",
+      "status": "In Service",
+      "since": "2011",
+      "fleetSize": "14",
+      "homeBase": "RAF Brize Norton - Oxfordshire"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "A332 / A333 / A338 / A339",
+    "howToFind": "Filter by A333 for the original -300 and A332 for the -200, or A338 and A339 for the neo versions. Look for Delta (callsign DAL), Turkish Airlines (THY) and Cathay Pacific (CPA) flights on long-haul routes, and for A339 on airlines such as TAP Air Portugal. The Voyager tanker flies as a separate military callsign."
+  },
+  "lastUpdated": "2026-11-13",
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Airbus A330 - development, variants from the original -300 to the neo, the Air Transat glide and the Air France 447 accident, and the current fleet figures.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "tags": [
+    "A330",
+    "airbus a330",
+    "A330-300",
+    "A330-200",
+    "A330neo",
+    "MRTT",
+    "voyager",
+    "etops",
+    "air france 447",
+    "widebody"
+  ],
+  "article": {
+    "overview": [
+      "The Airbus A330 is a twin-engine, wide-body airliner and the two-engined partner of the A340, with which it was launched on 5th June 1987. The A330-300 first flew on 2nd November 1992 and entered service on 17th January 1994, flying between Paris Orly and Marseille for Air Inter.{{ref:wiki-a330}}",
+      "As of July 2026, Airbus had taken 2,005 orders for the A330 family and delivered 1,671, and 1,402 aircraft were in service with 150 operators. Production of the original A330ceo ended in 2020, but the A330neo version remains on the line.{{ref:wiki-a330}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept",
+        "paragraphs": [
+          "Airbus launched the A330 and A340 together in 1987 as one programme with a common wing design, a common cockpit and one pilot type rating, so that airlines could fly the twin and the four-engined aircraft with the same crews. The A330 fuselage took its cross-section from the A300-600, with the same 5.64 m outside width and 5.26 m cabin width.{{ref:wiki-a330}}{{ref:globalmilitary-a330}}",
+          "The wing was designed and built by British Aerospace. It is swept at 30 degrees, has a high aspect ratio and carries a 2.74 m winglet on each tip, and it sets a maximum operating Mach number of 0.86. In service the A330 cruises at about Mach 0.82.{{ref:globalmilitary-a330}}"
+        ]
+      },
+      {
+        "heading": "Design & Engineering",
+        "paragraphs": [
+          "Three engine families power the original A330: the General Electric CF6-80E1, the Pratt & Whitney PW4000 and the Rolls-Royce Trent 700, each producing 64,500 to 71,100 lbf. All three give a maximum take-off weight of 242,000 kg on the -200 and -300, though the weight and range can be adjusted for the route, which airlines used to trade payload against distance. The A330-300 flies about 11,750 km with a typical load and the -200 around 13,450 km.{{ref:wiki-a330}}",
+          "ETOPS approval was built up in stages: 90 minutes at entry into service, 120 minutes after 25,000 fleet flight hours and 180 minutes after 50,000. In November 2009 the type became the first aircraft to receive ETOPS-240, four hours from a diversion airport, which Airbus offers as an option.{{ref:wiki-a330}}"
+        ]
+      },
+      {
+        "heading": "Variants & the Neo",
+        "paragraphs": [
+          "The A330-200, a 58.82 m shortened version, first flew on 13th August 1997 and entered service in 1998 with Canada 3000. It had a longer range than the -300 and sold in large numbers to long-haul airlines, while the -300 became popular for dense regional routes in Asia. The freighter, the A330-200F, followed on the -200 airframe, and the 1,000th A330 was delivered to Cathay Pacific on 19th July 2013.{{ref:wiki-a330}}",
+          "Airbus launched the A330neo in July 2014 with new Rolls-Royce Trent 7000 engines and a redesigned wing. The A330-900 first flew on 19th October 2017 and entered service with TAP Air Portugal in December 2018, and the -800 was delivered to Kuwait Airways in October 2020. The last A330-200 was delivered on 1st October 2019, and the last A330-300 went to Aer Lingus on 4th March 2020, while neo deliveries continue in 2026.{{ref:wiki-a330}}"
+        ]
+      },
+      {
+        "heading": "Military & Special Variants",
+        "paragraphs": [
+          "The A330 MRTT, a tanker and strategic transport based on the -200, had about 60 orders from 13 countries as of November 2020. In the UK it flies as the Voyager for the RAF. The KC-45, a US version offered by Northrop Grumman and EADS, lost the USAF's KC-X tanker competition to Boeing's KC-46 after a long legal fight.{{ref:wiki-a330}}",
+          "The BelugaXL, officially the A330-743L, is a different kind of special. It was built to ferry A350 wings and fuselage sections between Airbus factories, rolled out on 4th January 2018 and first flew on 19th July 2018. It began cargo ferry flights in January 2020 and holds about 30 per cent more volume than the Beluga it replaced.{{ref:wiki-a330}}"
+        ]
+      },
+      {
+        "heading": "Accidents & Safety Record",
+        "paragraphs": [
+          "The A330's safety record is mixed in numbers but strong overall. By June 2024 it had been involved in 46 incidents, 14 hull losses and 339 fatalities. The first was an Airbus test flight, an A330-321 that crashed at Toulouse on 30th June 1994 and killed all seven aboard. The cause included crew fatigue, a trim setting that was unsuitable for the aft centre of gravity and an overly steep take-off pitch that slowed the aircraft below control speed.{{ref:wiki-a330}}{{ref:wiki-a330-test-crash}}",
+          "Air France Flight 447 on 1st June 2009 was the deadliest accident, with all 228 aboard killed. The A330-203 flew into a high-altitude storm, ice crystals probably blocked the pitot tubes, the autopilot disconnected and the crew then flew the aircraft into an aerodynamic stall. It led to new pitot probes and to revised training for high-altitude stall recovery. Afriqiyah Airways Flight 771, an A330-202, crashed near Tripoli on 12th May 2010 and killed 103 of the 104 aboard.{{ref:wiki-af447}}{{ref:wiki-afriqiyah-771}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-a330",
+      "name": "Airbus A330",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A330"
+    },
+    {
+      "id": "globalmilitary-a330",
+      "name": "Airbus A330",
+      "publisher": "Global Military",
+      "url": "https://www.globalmilitary.net/aircraft/a330"
+    },
+    {
+      "id": "wiki-airtransat-236",
+      "name": "Air Transat Flight 236",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_Transat_Flight_236"
+    },
+    {
+      "id": "wiki-af447",
+      "name": "Air France Flight 447",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_France_Flight_447"
+    },
+    {
+      "id": "wiki-a330-test-crash",
+      "name": "1994 Airbus A330 test flight crash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1994_Airbus_A330_test_flight_crash"
+    },
+    {
+      "id": "wiki-afriqiyah-771",
+      "name": "Afriqiyah Airways Flight 771",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Afriqiyah_Airways_Flight_771"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Airbus A330 on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A330"
+    },
+    {
+      "name": "Air Transat Flight 236 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_Transat_Flight_236"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1994-06-30",
+      "title": "A330 certification test flight crash",
+      "tag": "Loss of control",
+      "summary": "An Airbus A330-321, F-WWKH, crashed on a test flight shortly after take-off from Toulouse-Blagnac, killing all seven aboard. The investigation found a mix of crew fatigue, an inappropriate trim setting for the aft centre of gravity and an overly steep pitch that slowed the aircraft below control speed.",
+      "fatalities": 7,
+      "source": "https://en.wikipedia.org/wiki/1994_Airbus_A330_test_flight_crash"
+    },
+    {
+      "date": "2001-08-24",
+      "title": "Air Transat Flight 236",
+      "tag": "Fuel exhaustion / glide",
+      "summary": "An A330-243 lost all fuel over the Atlantic after a fuel line fractured, following a maintenance part mismatch and the crew's mishandling of the leak. The pilots glided about 65 nautical miles in roughly 19 minutes and landed at Lajes Air Base on Terceira in the Azores. All 306 people survived, and 18 were injured.",
+      "fatalities": 0,
+      "source": "https://en.wikipedia.org/wiki/Air_Transat_Flight_236"
+    },
+    {
+      "date": "2009-06-01",
+      "title": "Air France Flight 447",
+      "tag": "Stall / pitot icing",
+      "summary": "An Air France A330-203, F-GZCP, flying from Rio de Janeiro to Paris, crashed into the Atlantic with all 228 aboard killed. Ice crystals probably blocked the pitot tubes, the autopilot disconnected and the crew's inputs led to an aerodynamic stall. The vertical stabiliser was recovered on 7th June 2009, the main wreck was found on 3rd April 2011 and the flight recorders were recovered later that spring.",
+      "fatalities": 228,
+      "source": "https://en.wikipedia.org/wiki/Air_France_Flight_447"
+    },
+    {
+      "date": "2010-05-12",
+      "title": "Afriqiyah Airways Flight 771",
+      "tag": "Unstabilised approach",
+      "summary": "An A330-202 crashed short of the runway while on approach to Tripoli, Libya, killing 103 of the 104 people aboard. The only survivor was a nine-year-old Dutch boy. The investigation cited an unstabilised approach, descent below minimum altitude and mishandling during the go-around, with the crew affected by a somatogravic illusion.",
+      "fatalities": 103,
+      "source": "https://en.wikipedia.org/wiki/Afriqiyah_Airways_Flight_771"
+    }
+  ]
+}

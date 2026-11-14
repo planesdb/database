@@ -13,6 +13,7 @@
   "role": "Strategic/tactical airlift / Aerial refueling",
   "tagline": "The versatile, next-generation European airlifter bridging the gap between tactical and strategic transport. Sized between the Lockheed C-130 Hercules and the Boeing C-17 Globemaster III, it can carry heavier and more oversized loads than the C-130 while still operating from short, unprepared airstrips.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "The A400M project originated in 1982 with the Future International Military Airlifter (FIMA) group, a joint venture tasked with developing a replacement for the aging C-130 Hercules and Transall C-160 transports. After structural reorganization and the creation of Euroflag, the partner nations—including France, Germany, Spain, the United Kingdom, Turkey, Belgium, and Luxembourg—formally initiated the procurement program through OCCAR in 2003. Powered by newly developed Europrop TP400-D6 turboprop engines with unique counter-rotating propellers, the aircraft encountered significant developmental, software, and financial delays. The prototype completed its maiden flight on 11 December 2009 from Seville Airport, Spain. EASA certification followed in March 2013, and the first production model entered operational service with the French Air Force in August 2013. The Atlas has since become a mainstay of modern European military airlift operations, providing long-range deployment, humanitarian relief, and tactical support around the world.",
   "specifications": {
@@ -272,6 +273,11 @@
       "date": "2026-07-31",
       "change": "Updated the news links with current stories.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "accidentsAndIncidents": [

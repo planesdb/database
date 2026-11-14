@@ -13,6 +13,7 @@
   "role": "Multi-Role Tanker Transport",
   "tagline": "The RAF's premier strategic airlifter and dual-role aerial refueling platform. Based on the Airbus A330-200 Multi Role Tanker Transport, it carries all of its fuel within the existing wing and fuselage tanks, so it never has to trade away passenger or freight capacity to refuel other aircraft.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "To replace the aging VC10 and TriStar fleets, the UK Ministry of Defence entered into a Private Finance Initiative (PFI) contract with the AirTanker consortium to provide a fleet of 14 customized Airbus A330-200 aircraft, designated as 'Voyager'. The foundational A330 MRTT program logged its maiden flight on June 15, 2007, and the type formally entered service with the RAF in April 2014. The fleet remains central to the UK's global reach, supporting ongoing defense operations, routine South Atlantic Air Bridge logistics to the Falkland Islands, and high-profile VIP transport via the specially liveried 'Vespina' airframe.",
   "specifications": {
@@ -241,6 +242,11 @@
     {
       "date": "2026-09-09",
       "change": "Added sources to a few statements that didn't have one.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

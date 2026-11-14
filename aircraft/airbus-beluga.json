@@ -13,6 +13,7 @@
   "role": "Outsize Cargo Transport",
   "tagline": "The Airbus A300-600ST Beluga is a twin-engine outsize freighter built to move aircraft sections between Airbus factories, and its bulbous upper fuselage encloses a 1,400 cubic metre hold big enough to swallow a complete A340 wing set. Only five were built, and the last of them made its final flight on 29 January 2026 after nearly thirty years shuttling wings and fuselages around Europe.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "Only five Belugas were ever built, all of them flown by Airbus Transport International and none sold to an outside customer.",
@@ -90,6 +91,11 @@
     {
       "date": "2026-09-08",
       "change": "Airbus A300-600ST Beluga added - history, specs, variants and accident record. Sources: Airbus, Wikipedia, Airliners.net, FlightGlobal, Flightradar24 and named aviation-press sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

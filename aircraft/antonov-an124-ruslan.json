@@ -13,6 +13,7 @@
   "role": "Strategic Outsize Freighter",
   "tagline": "The An-124 Ruslan is a four-engine strategic freighter designed by Antonov in Kyiv for Soviet Military Transport Aviation and first flown in December 1982. It is the heaviest cargo aircraft in operation anywhere, able to swallow 120 tonnes through a nose door and a rear ramp, and only 57 were ever built.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "quickFacts": [
     "It loads through both ends: the entire nose hinges upward and the tail has its own ramp, so vehicles can be driven straight through the aircraft",
@@ -148,6 +149,11 @@
     {
       "date": "2026-09-09",
       "change": "New entry for the Antonov An-124 Ruslan - history, specs, variants, operators and accident record. Sources: Wikipedia, European Security & Defence, The Aviationist and Cargo Facts.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

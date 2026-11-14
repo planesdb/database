@@ -13,6 +13,7 @@
   "role": "Tactical Strike and Reconnaissance Aircraft",
   "tagline": "The SEPECAT Jaguar is a twin-engine, supersonic strike and reconnaissance aircraft built by an Anglo-French company for the RAF and the French Air Force. It first flew on 8 September 1968, about 573 were built, and in 2026 India is the only country still flying it.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "quickFacts": [
     "SEPECAT was formed in 1966 as a joint venture between BAC in Britain and Breguet in France, which Dassault took over in 1971.",
@@ -152,6 +153,11 @@
     {
       "date": "2026-10-18",
       "change": "New entry for the SEPECAT Jaguar, including its Anglo-French origins, the Gulf War record, the RAF and Indian service histories, and the preserved aircraft.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

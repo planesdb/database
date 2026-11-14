@@ -11,6 +11,7 @@
   "role": "Search-and-Rescue Amphibian",
   "tagline": "A four-engine turboprop flying boat built by ShinMaywa for the Japan Maritime Self-Defense Force, designed to land on open sea in waves up to 3 m (9.8 ft) high to pick up casualties. Only nine have been built, and attempts to sell it to India never reached a contract.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "quickFacts": [
     "It can land on the sea in waves up to 3 m (9.8 ft), equal to sea states 4 to 5, and takes off from water in about 280 m",
@@ -101,6 +102,11 @@
     {
       "date": "2026-11-06",
       "change": "Added the ShinMaywa US-2 rescue flying boat - specs, the PS-1 and US-1A lineage, the India sales talks, rescues and the 2015 crash. Sources: Wikipedia, Nippon.com, Defense News and The Diplomat.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

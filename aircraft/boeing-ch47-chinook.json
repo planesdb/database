@@ -14,6 +14,7 @@
   "role": "Tandem-Rotor Heavy-Lift Transport Helicopter",
   "tagline": "The tandem-rotor workhorse of modern battlefields. Its twin-rotor layout eliminates the need for a tail rotor, giving it exceptional lift capacity, and more than six decades after its first flight it remains in full production for the US Army and dozens of allied air forces.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": true,
   "history": "Developed by Vertol (acquired by Boeing in 1960), the CH-47 first flew on 21 September 1961 and entered US Army service in 1962. It quickly proved itself in Vietnam, where its heavy-lift capability made it indispensable for troop movement, artillery repositioning and downed-aircraft recovery. Successive upgrades - the A, B, C, D and current F models - have progressively increased engine power, lift capacity and avionics sophistication while retaining the same recognisable tandem-rotor airframe. Chinooks have deployed to virtually every major conflict and disaster-response operation since Vietnam, including the Falklands War, Operation Desert Storm, the wars in Afghanistan and Iraq, and civil relief efforts such as the 2011 Fukushima crisis and Hurricane Andrew. With over 1,200 built and new-production airframes still rolling off Boeing's Philadelphia line, the Chinook is one of the longest continuously produced military aircraft in history.",
   "specifications": {
@@ -352,6 +353,11 @@
     {
       "date": "2026-09-09",
       "change": "Rebuilt the operators roster from the full operators list - split the Japanese fleets, added the German, Australian and Canadian orders, corrected the US Army figure to the January 2025 count, and folded the remaining ~15 customers into a combined row.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

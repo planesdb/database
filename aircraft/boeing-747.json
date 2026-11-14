@@ -13,6 +13,7 @@
   "role": "Wide-Body Commercial Airliner / Freighter",
   "tagline": "The original 'Jumbo Jet' and the aircraft that invented the wide-body airliner. For 37 years it was the largest passenger aircraft ever built, and its distinctive humped upper deck - a legacy of a scrapped supersonic-transport requirement and a planned freighter future - remains the most recognisable silhouette in commercial aviation.",
   "status": "In Service",
+  "condition": "Operational - Commercial",
   "inProduction": false,
   "history": "Boeing launched the 747 in 1966 after Pan Am's Juan Trippe pushed for an airliner more than twice the size of the 707, betting that congested airports would eventually adopt supersonic jets for premium travel and leave subsonic giants like the 747 to haul freight and economy passengers. A team of roughly 4,500 engineers - nicknamed 'the Incredibles' - designed the aircraft from a blank sheet in about 29 months, working out of a purpose-built factory at Everett, Washington that remains the largest building by volume on Earth. The prototype first flew on 9 February 1969, and Pan Am flew the first commercial service on 22 January 1970. The 747 went on to spawn the -100, -200, -300, the shortened long-range SP, the extensively updated -400, and finally the re-winged, re-engined 747-8. Passenger demand for very large four-engined jets steadily gave way to smaller, more efficient twinjets from the 1990s onward, and Boeing ended 747 production on 31 January 2023 with the delivery of a 747-8 Freighter to Atlas Air - 1,574 aircraft after 54 years, the longest production run of any wide-body airliner. A handful of carriers, led by Lufthansa, still fly 747 passenger variants, and 747-400/-8 freighters remain a mainstay of global air cargo.",
   "specifications": {
@@ -161,6 +162,11 @@
       "date": "2026-07-31",
       "change": "Updated the news links with current stories.",
       "author": "d4nny6"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
     }
   ],
   "seedNews": [

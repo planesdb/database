@@ -1,0 +1,313 @@
+{
+  "name": "F4U Corsair",
+  "fullName": "Vought F4U Corsair",
+  "manufacturer": "Vought",
+  "originCountry": {
+    "name": "United States",
+    "code": "us"
+  },
+  "category": "military",
+  "categories": [
+    "fighter-jets"
+  ],
+  "role": "Carrier and land-based fighter and fighter-bomber",
+  "tagline": "The Vought F4U Corsair is a single-engine American fighter with an inverted gull wing and an 18-cylinder Pratt and Whitney radial. Built by Vought, Goodyear and Brewster from 1942 to 1953, it flew with the US Navy, the Marine Corps, the Royal Navy and a dozen other forces.",
+  "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
+  "inProduction": false,
+  "quickFacts": [
+    "The XF4U-1 first flew on 29th May 1940 with Lyman A. Bullard Jr, and on 1st October 1940 it became the first single-engine US fighter to average over 400 mph.{{ref:wiki-corsair}}",
+    "The Corsair first saw combat on 14th February 1943, when VMF-124 escorted B-24s against Kahili. Four P-38s, two P-40s, two Corsairs and two B-24s were lost that day, and it became known as the Saint Valentine's Day Massacre.{{ref:wiki-corsair}}",
+    "Navy and Marine pilots claimed 2,140 air victories against 189 losses in the air in the Second World War, a ratio of over 11 to 1. The type flew 64,051 operational sorties, 44 percent of US fighter sorties.{{ref:wiki-corsair}}",
+    "The Royal Navy qualified the Corsair for carrier use before the US Navy did. The US Navy accepted it for shipboard operations in April 1944.{{ref:wiki-corsair}}",
+    "Lt Thomas J. Hudner Jr of VF-32 earned the Medal of Honor in Korea for crash-landing in an attempt to rescue Ensign Jesse L. Brown, who was one of the Navy's first African American naval aviators and did not survive.{{ref:wiki-corsair}}",
+    "On 17th July 1969 Capt Fernando Soto of the Honduran Air Force shot down three Salvadoran aircraft in the Football War, and the page describes these as the last combats between propeller-driven aircraft.{{ref:wiki-corsair}}"
+  ],
+  "specifications": {
+    "specificationsNote": "Figures are for the F4U-4. The source gives 446 mph for maximum speed in the data table and 448 mph in the F4U-4 text, and the table lists maximum take-off weight (14,533 lb) below gross weight (14,670 lb), so gross weight is quoted here. Total production is 12,571 in the text and 12,586 in the table, and the difference is the F2G variants. The F4U-1D reached 425 mph, up from 417 mph for earlier models.",
+    "maxSpeed": {
+      "mph": 446,
+      "text": "388 kn (446 mph / 717 km/h)"
+    },
+    "cruiseSpeed": "187 kn (215 mph / 346 km/h)",
+    "range": {
+      "miles": 1005,
+      "text": "1,005 mi (1,617 km); combat range 328 mi (528 km)"
+    },
+    "serviceCeiling": {
+      "ft": 41500,
+      "text": "41,500 ft (12,650 m)"
+    },
+    "wingspan": {
+      "ft": 41,
+      "text": "41 ft 0 in (12.50 m)"
+    },
+    "length": {
+      "ft": 33.67,
+      "text": "33 ft 8 in (10.26 m)"
+    },
+    "height": {
+      "ft": 14.75,
+      "text": "14 ft 9 in (4.50 m)"
+    },
+    "weight": "empty: 9,205 lb (4,238 kg); gross: 14,670 lb (6,654 kg)",
+    "engines": "1 x Pratt & Whitney R-2800-18W Double Wasp 18-cylinder radial, 2,380 hp, four-blade propeller",
+    "armament": "6 x 0.50 in M2 Browning machine guns, 8 x 5 in rockets, up to 4,000 lb of bombs",
+    "crew": "1",
+    "capacity": "None",
+    "firstFlight": {
+      "date": "1940-05-29",
+      "year": 1940
+    },
+    "serviceEntryDate": "1943",
+    "numberBuilt": 12571,
+    "unitCost": {
+      "usd": null,
+      "text": "Reported: about US$77,000 in wartime (approximate and unconfirmed, and costs fell as production grew)",
+      "inflationText": "Reported as about US$77,000, with no year given"
+    },
+    "combatLosses": "WWII US losses: 189 in aerial combat, 349 to flak on the ground or at sea, 230 combat operational, 692 non-combat operational, 164 destroyed on ships or the ground",
+    "retiredDate": "1979"
+  },
+  "variants": [
+    {
+      "code": "F4U-1",
+      "desc": "The first production series, with 758 built by Vought, followed by 2,066 F4U-1As and 1,675 F4U-1Ds. The F4U-1D arrived in April 1944 with a water-injection R-2800-8W engine and could mount bombs and rockets. Its top speed was 425 mph, up from 417 mph. The F4U-1C, with 200 built, replaced the machine guns with four 20 mm cannon."
+    },
+    {
+      "code": "FG-1 (Goodyear) and F3A (Brewster)",
+      "desc": "Goodyear built 1,704 FG-1s and 2,303 FG-1Ds, and Brewster built 305 F3A-1s and 430 F3A-1Ds. Goodyear also built the F2G, with 5 F2G-1s and 10 F2G-2s."
+    },
+    {
+      "code": "F4U-4",
+      "desc": "The F4U-4 had a dual-stage supercharged engine, a four-blade propeller and a top speed of 448 mph, with 2,351 built by Vought. The F4U-4B, F4U-4P photo-reconnaissance and later night variants were its Korean War relatives. Its 2,380 hp R-2800-18W is the engine in the specifications."
+    },
+    {
+      "code": "F4U-5, AU-1 and F4U-7",
+      "desc": "The F4U-5 was the first Corsair with all-metal wings, and 568 were built. The AU-1, with 111 built under the F4U-6 and AU-1 heading, was the ground-attack version. The F4U-7, with 94 built, served with the French Navy. Production ended in 1953, the longest run of any US piston-engined fighter."
+    }
+  ],
+  "operators": [
+    {
+      "name": "United States Navy",
+      "role": "Carrier and land-based fighter",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "Not published; 64,051 combined Navy and Marine operational sorties in WWII",
+      "homeBase": "United States"
+    },
+    {
+      "name": "United States Marine Corps",
+      "role": "Land-based fighter-bomber",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "Not published",
+      "homeBase": "United States"
+    },
+    {
+      "name": "Fleet Air Arm",
+      "role": "Carrier fighter",
+      "status": "Retired",
+      "since": "1943",
+      "fleetSize": "2,012 Corsairs in WWII",
+      "homeBase": "United Kingdom"
+    },
+    {
+      "name": "Royal New Zealand Air Force",
+      "role": "Fighter",
+      "status": "Retired",
+      "since": "1944",
+      "fleetSize": "About 424, equipping 13 squadrons; 1944 to 1949",
+      "homeBase": "New Zealand"
+    },
+    {
+      "name": "French Navy (Aeronavale)",
+      "role": "Carrier fighter and attack",
+      "status": "Retired",
+      "since": "1954",
+      "fleetSize": "163 (94 F4U-7 and 69 AU-1); 1954 to 1964",
+      "homeBase": "France"
+    },
+    {
+      "name": "Honduran Air Force",
+      "role": "Fighter",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "19 (9 F4U-4 and 10 F4U-5N, 5NL and 5P); 1956 to 1979",
+      "homeBase": "Honduras"
+    },
+    {
+      "name": "Argentine Navy",
+      "role": "Carrier fighter",
+      "status": "Retired",
+      "since": "1956",
+      "fleetSize": "26 F4U-5, 5N and 5NL; 1956 to 1968",
+      "homeBase": "Argentina"
+    },
+    {
+      "name": "Salvadoran Air Force",
+      "role": "Fighter",
+      "status": "Retired",
+      "since": "1957",
+      "fleetSize": "25 (5 F4U and 20 FG-1D); 1957 to 1976",
+      "homeBase": "El Salvador"
+    }
+  ],
+  "flightradar24": {
+    "icaoTypeCode": "N/A",
+    "howToFind": "No ICAO type code is confirmed for the Corsair. Privately owned Corsairs fly at airshows in the United States and New Zealand, so a track is occasional at best."
+  },
+  "tags": [
+    "F4U",
+    "Corsair",
+    "Vought",
+    "Goodyear",
+    "Marine Corps",
+    "WWII",
+    "Korean War",
+    "carrier fighter",
+    "Jesse Brown"
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-13",
+      "change": "Added the Vought F4U Corsair, with the carrier landing fixes, Pacific and Korean War combat, the Football War and the airworthy survivors.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
+      "author": "planesdb"
+    }
+  ],
+  "article": {
+    "overview": [
+      "The Vought F4U Corsair is a single-engine American fighter with an inverted gull wing and a Pratt and Whitney R-2800 Double Wasp, an 18-cylinder twin-row radial rated at 2,000 hp in production. Vought flew the XF4U-1 on 29th May 1940, and production ran from 1942 to 1953, the longest of any US piston-engined fighter.{{ref:wiki-corsair}}",
+      "Goodyear and Brewster built the type under licence as the FG and F3A. The text gives 12,571 built in total, and the production table sums to 12,586.{{ref:wiki-corsair}}"
+    ],
+    "sections": [
+      {
+        "heading": "Origins & Concept: A Wing Shaped by a Propeller",
+        "paragraphs": [
+          "The Corsair carried a propeller 13 ft 4 in across, and the inverted gull wing was the answer to the length of undercarriage that would otherwise have been needed to clear it. The inboard anhedral let the wing meet the fuselage without root fairings. The landing gear retracted into enclosed wheel wells.{{ref:wiki-corsair}}",
+          "The XF4U-1 first flew on 29th May 1940 with Lyman A. Bullard Jr. Its XR-2800-4 was rated at 1,805 hp. On 1st October 1940 it became the first single-engine US fighter to average over 400 mph, with 405 mph ground speed between Stratford and Hartford, and in dive tests it reached 550 mph. The structure used large aluminum panels spot-welded with few rivets, while fabric still covered the outer wing tops and undersides, the ailerons, the elevators and the rudder.{{ref:wiki-corsair}}"
+        ]
+      },
+      {
+        "heading": "Learning to Land on a Carrier",
+        "paragraphs": [
+          "The Corsair was fast and hard to land. At slow carrier speeds the left wing could stall and drop suddenly, and a 6 in stall strip on the right wing fixed that. The long nose and aft cockpit hurt visibility, oil from the cowl flaps fouled the windscreen until the top cowl flaps were fixed shut, and oleo strut rebound caused the aircraft to bounce on deck. A bleed valve helped, and a longer oleo strut in 1944 fixed the problem.{{ref:wiki-corsair}}",
+          "The Royal Navy solved the carrier problem first. It fitted a bulged canopy, raised the seat 7 in, wired the cowl flaps shut, flew a curved approach that kept the deck in view, and clipped 8 in from each wingtip to fit low hangar decks. The US Navy accepted the Corsair for shipboard operations in April 1944. By then the type had already spent much of the war flying from land bases with Marine squadrons.{{ref:wiki-corsair}}"
+        ]
+      },
+      {
+        "heading": "The Pacific War",
+        "paragraphs": [
+          "The first combat came on 14th February 1943, when VMF-124 escorted B-24s against Kahili. Four P-38s, two P-40s, two Corsairs and two B-24s were lost, and the date is remembered as the Saint Valentine's Day Massacre. VF-17 flew its Corsairs from shore bases and reinstalled tailhooks in November 1943 to support the Rabaul raid, and it was removed from USS Bunker Hill over parts supply concerns.{{ref:wiki-corsair}}",
+          "Marine squadrons made the Corsair a land-based fighter-bomber. VMF-214, the Black Sheep, flew from The Slot, and Kenneth Walsh of VMF-124 became the first Corsair ace with 21 kills. VMF-124 joined USS Essex in December 1944. Navy and Marine pilots claimed 2,140 air victories for 189 losses in the air, with 349 more aircraft lost to flak, 230 combat operational losses, 692 non-combat operational losses and 164 destroyed on ships or the ground.{{ref:wiki-corsair}}"
+        ]
+      },
+      {
+        "heading": "Korea: Brown, Hudner and Bordelon",
+        "paragraphs": [
+          "In Korea the Corsair flew mainly close support, in AU-1, F4U-4B, 4P and 5N and 5NL versions. Ensign Jesse L. Brown of VF-32 was shot down near Changjin. Lt Thomas J. Hudner Jr crash-landed beside him from USS Leyte to try to rescue him, and received the Medal of Honor. Brown did not survive.{{ref:wiki-corsair}}",
+          "Lt Guy Bordelon of VC-3 Detachment D, nicknamed Lucky Pierre, was credited with three La-9 or La-11 aircraft and two Yak-18s between 29th June and 16th or 17th July 1952, making him the Navy's only ace of the war. On 10th September 1952 Capt Jesse G. Folmar shot down a MiG-15 with four 20 mm cannon, and four MiG-15s shot him down minutes later. He was rescued.{{ref:wiki-corsair}}"
+        ]
+      },
+      {
+        "heading": "Variants and Production",
+        "paragraphs": [
+          "Vought built 758 F4U-1s, 2,066 F4U-1As, 200 F4U-1Cs, 1,675 F4U-1Ds, 2,351 F4U-4s, 568 F4U-5s, 111 F4U-6 and AU-1 aircraft and 94 F4U-7s. Goodyear built 1,704 FG-1s and 2,303 FG-1Ds, and Brewster built 305 F3A-1s and 430 F3A-1Ds. Five F2G-1s and ten F2G-2s came from Goodyear. The F4U-5 was the first with all-metal wings.{{ref:wiki-corsair}}",
+          "The F4U-1C replaced the six machine guns with four 20 mm cannon. The F4U-1D had the water-injection R-2800-8W, and its 425 mph top speed was up from 417 mph. The F4U-4 had a dual-stage supercharged engine, a four-blade propeller and 448 mph. The AU-1 was built for ground attack.{{ref:wiki-corsair}}"
+        ]
+      },
+      {
+        "heading": "Operators and the Last Propeller Fight",
+        "paragraphs": [
+          "The Fleet Air Arm flew 2,012 Corsairs in the Second World War, and the New Zealand air force about 424 across 13 squadrons. The source gives conflicting breakdowns for both, so only the totals are quoted here. France flew 163, made up of 94 F4U-7 and 69 AU-1, from 1954 to 1964. Honduras, El Salvador and Argentina were postwar users.{{ref:wiki-corsair}}",
+          "Corsairs flew their final combat missions in the 1969 Football War between Honduras and El Salvador. On 17th July 1969 Capt Fernando Soto of Honduras shot down a Cavalier Mustang in the morning and two FG-1s in the afternoon. The page describes these as the last combats among propeller-driven aircraft.{{ref:wiki-corsair}}"
+        ]
+      },
+      {
+        "heading": "Cost and Survivors",
+        "paragraphs": [
+          "A wartime figure of about US$77,000 per aircraft is often quoted, but it is an approximation, and costs fell sharply as production grew. No credible modern cost per flight hour is published for the type.{{ref:migflug}}",
+          "The only airworthy example of the 437 Corsairs bought by New Zealand is FG-1D NZ5648, registered ZK-COR, at Masterton. F2G-1 BuNo 88454 is at the Museum of Flight in Seattle, BuNo 88458, Race 57, also survives, and the only surviving F2G-2, BuNo 88463, was destroyed in a crash in September 2012. The FAA counts 45 privately owned F4Us in the United States.{{ref:wiki-corsair}}"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "wiki-corsair",
+      "name": "Vought F4U Corsair",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair"
+    },
+    {
+      "id": "migflug",
+      "name": "Vought F4U Corsair - History, Specs & Stories",
+      "publisher": "migflug.com",
+      "url": "https://migflug.com/aircraft/f4u-corsair/"
+    }
+  ],
+  "furtherReading": [
+    {
+      "name": "Vought F4U Corsair on Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair"
+    }
+  ],
+  "accidentsAndIncidents": [
+    {
+      "date": "1943-02-14",
+      "title": "Saint Valentine's Day Massacre over Kahili",
+      "tag": "Combat loss",
+      "summary": "VMF-124 escorted B-24s against Kahili on the Corsair's first combat day. Four P-38s, two P-40s, two Corsairs and two B-24s were lost.",
+      "source": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair"
+    },
+    {
+      "date": "1952-09-10",
+      "title": "Folmar shoots down a MiG-15, then is shot down",
+      "tag": "Combat loss",
+      "summary": "Capt Jesse G. Folmar shot down a MiG-15 with four 20 mm cannon over Korea. Four MiG-15s shot him down minutes later, and he was rescued.",
+      "source": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair"
+    }
+  ],
+  "survivors": {
+    "intro": "A small number of Corsairs fly, and the FAA counts 45 privately owned F4Us in the United States.",
+    "airframes": [
+      {
+        "serial": "NZ5648 / ZK-COR",
+        "name": "FG-1D",
+        "location": "Old Stick and Rudder Company",
+        "place": "Masterton, New Zealand",
+        "url": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair",
+        "note": "The only airworthy example of the 437 Corsairs procured by New Zealand.",
+        "featured": true,
+        "countryCode": "nz",
+        "country": "New Zealand"
+      },
+      {
+        "serial": "BuNo 88454",
+        "name": "F2G-1",
+        "location": "Museum of Flight",
+        "place": "Seattle, United States",
+        "url": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair",
+        "note": "A Goodyear F2G-1. Goodyear built only 5 F2G-1s and 10 F2G-2s.",
+        "countryCode": "us",
+        "country": "United States"
+      },
+      {
+        "serial": "BuNo 88458",
+        "name": "F2G (Race 57)",
+        "location": "Not published in the source checked",
+        "place": "United States",
+        "url": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair",
+        "note": "Survives as a Goodyear F2G, flown as Race 57.",
+        "countryCode": "us",
+        "country": "United States"
+      }
+    ]
+  },
+  "lastUpdated": "2026-11-13"
+}

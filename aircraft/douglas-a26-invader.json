@@ -13,6 +13,7 @@
   "role": "Light Attack Bomber",
   "tagline": "The A-26 Invader is a twin-engine light attack bomber designed by Douglas as a successor to the A-20 Havoc, first flown on 10 July 1942. Redesignated B-26 in 1948 - which is why it is so often confused with the unrelated Martin B-26 Marauder - it is the only American bomber to have flown combat missions in the Second World War, Korea and Vietnam.",
   "status": "Retired",
+  "condition": "Airworthy - Airshow Displays",
   "inProduction": false,
   "quickFacts": [
     "It is the only American bomber type to have flown combat missions in the Second World War, Korea and Vietnam",
@@ -158,6 +159,11 @@
     {
       "date": "2026-11-09",
       "change": "More accurate costings provided for the aircraft, with inflation text included",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

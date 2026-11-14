@@ -13,6 +13,7 @@
   "role": "Supersonic Interceptor",
   "tagline": "The English Electric Lightning is a British single-seat supersonic interceptor and the RAF's first truly supersonic fighter, able to reach Mach 2. It defended UK airspace for the RAF from 1960 to 1988, climbing at around 20,000 ft a minute on two Rolls-Royce Avon engines mounted one above the other.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The two Avon engines are stacked one above the other and staggered, which gave the thrust of two engines for roughly the drag of one and a half mounted side by side.",
@@ -128,6 +129,11 @@
     {
       "date": "2026-09-24",
       "change": "English Electric Lightning added - history, specs, variants, operators, survivors and accident record. Sources: Wikipedia, RAF Museum, museum and preservation group sources.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

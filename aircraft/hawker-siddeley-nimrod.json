@@ -13,6 +13,7 @@
   "role": "Maritime Patrol and Anti-Submarine Aircraft",
   "tagline": "The Hawker Siddeley Nimrod is a four-jet maritime patrol aircraft developed from the de Havilland Comet 4 airliner for the Royal Air Force. It flew from 1969 to 2011, hunted Soviet submarines, and its replacement, the MRA4, was cancelled in 2010 after £3.4 billion had been spent.",
   "status": "Retired",
+  "condition": "Preserved - Static Display",
   "inProduction": false,
   "quickFacts": [
     "The Nimrod was derived from the de Havilland Comet 4 airliner, with the Avon turbojets replaced by Rolls-Royce Spey turbofans.",
@@ -104,6 +105,11 @@
     {
       "date": "2026-10-18",
       "change": "Added the Hawker Siddeley Nimrod with its Comet origins, Cold War and Falklands service, the 2006 Kandahar loss, and the cancelled MRA.4.",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],

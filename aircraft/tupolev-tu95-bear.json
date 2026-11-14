@@ -13,6 +13,7 @@
   "role": "Long-Range Strategic Bomber / Missile Carrier",
   "tagline": "The Tupolev Tu-95 Bear is a Soviet-designed turboprop strategic bomber that first flew in 1952 and remains in Russian service as the Tu-95MS cruise-missile carrier. Its four NK-12 engines drive contra-rotating propellers on a swept wing, giving it an unrefuelled range of about 15,000 km.",
   "status": "In Service",
+  "condition": "Operational - Military / Government",
   "inProduction": false,
   "history": "Tupolev developed the Tu-95 in the early 1950s after Soviet engineers concluded that contemporary jet engines could not yet give a heavy bomber the intercontinental range Stalin demanded, settling instead on four huge Kuznetsov NK-12 turboprops driving contra-rotating propellers - a compromise that produced a bomber nearly as fast as early jets but with far greater range. The prototype first flew on 12 November 1952, and the type entered service with Soviet Long-Range Aviation in 1956. Progressively updated through the Tu-95K, Tu-95M and, from the 1980s, the extensively modernised Tu-95MS cruise-missile carrier, the aircraft became the standard NATO reference point for Soviet-era 'Bear' intercepts, was adapted into the Tu-142 maritime patrol/anti-submarine variant and the Tu-126 airborne early warning platform, and even spawned the civilian Tu-114 airliner. Production ran until 1993, with total output exceeding 500 airframes across all variants, but Russia has kept a modernised fleet of Tu-95MS bombers in front-line service well past its Cold War contemporaries' retirement. Tu-95MS aircraft have launched Kh-101/Kh-555 cruise missiles against Ukraine throughout the 2022-2026 war, and NATO and US/Canadian fighters continue to intercept Bear patrols near Alaska, the Norwegian Sea and Japan on a near-routine basis. In June 2025, Ukraine's long-range drone raid known as Operation Spiderweb smuggled first-person-view drones deep into Russia in modified trucks and struck multiple air bases, destroying or damaging several irreplaceable Tu-95 airframes - a stark reminder that, six decades after it entered service, Russia can no longer build more of them.",
   "specifications": {
@@ -398,6 +399,11 @@
     {
       "date": "2026-10-04",
       "change": "Updated wording throughout, added reference to the recent crash that killed 6 people",
+      "author": "planesdb"
+    },
+    {
+      "date": "2026-11-14",
+      "change": "Added the new Preservation / Operational Condition field, giving more context to the aircraft's status.",
       "author": "planesdb"
     }
   ],
